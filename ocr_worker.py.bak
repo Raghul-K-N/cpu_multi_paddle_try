@@ -1,0 +1,52 @@
+# ocr_worker.py
+import os
+import time
+from paddleocr import PaddleOCR
+
+def ocr_worker(task_queue, output_dir, worker_id):
+    # 1️⃣ HARD REQUIREMENT: set thread limits INSIDE worker
+    os.environ["OMP_NUM_THREADS"] = "10"
+    os.environ["MKL_NUM_THREADS"] = "10"
+    os.environ["NUMEXPR_NUM_THREADS"] = "10"
+
+    # 2️⃣ Initialize OCR ONCE per worker
+    ocr = PaddleOCR(
+        use_angle_cls=True,
+        lang="en",
+        enable_mkldnn=True,
+        device="cpu"
+    )
+
+    while True:
+        try:
+            file_path = task_queue.get(timeout=2)
+        except Exception:
+            # Queue empty → worker exits
+            break
+
+        start = time.time()
+        try:
+            result = ocr.ocr(file_path)
+            elapsed = time.time() - start
+
+            out_file = os.path.join(
+                output_dir,
+                f"{os.path.basename(file_path)}.txt"
+            )
+
+            with open(out_file, "w", encoding="utf-8") as f:
+                for page in result:
+                    for line in page:
+                        f.write(line[1][0] + "\n")
+
+            print(
+                f"[Worker {worker_id}] "
+                f"Processed {os.path.basename(file_path)} "
+                f"in {elapsed:.2f}s"
+            )
+
+        except Exception as e:
+            print(
+                f"[Worker {worker_id}] ERROR processing "
+                f"{file_path}: {e}"
+            )

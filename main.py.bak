@@ -1,0 +1,40 @@
+# main.py
+import os
+import multiprocessing as mp
+from ocr_worker import ocr_worker
+
+INPUT_DIR = "./input_files"
+OUTPUT_DIR = "./ocr_output"
+NUM_WORKERS = 4
+QUEUE_SIZE = 8  # bounded queue
+
+def main():
+    os.makedirs(OUTPUT_DIR, exist_ok=True)
+
+    # Use spawn to avoid fork + MKL weirdness
+    mp.set_start_method("spawn", force=True)
+
+    task_queue = mp.Queue(maxsize=QUEUE_SIZE)
+
+    # Start workers
+    workers = []
+    for i in range(NUM_WORKERS):
+        p = mp.Process(
+            target=ocr_worker,
+            args=(task_queue, OUTPUT_DIR, i)
+        )
+        p.start()
+        workers.append(p)
+
+    # Enqueue tasks (1 doc = 1 task)
+    for fname in os.listdir(INPUT_DIR):
+        task_queue.put(os.path.join(INPUT_DIR, fname))
+
+    # Wait for workers to finish
+    for p in workers:
+        p.join()
+
+    print("All documents processed.")
+
+if __name__ == "__main__":
+    main()
