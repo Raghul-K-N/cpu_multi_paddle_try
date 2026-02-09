@@ -7,7 +7,7 @@ import multiprocessing as mp
 from datetime import datetime
 from ocr_worker import ocr_worker
 
-INPUT_DIR = "./input_files"
+INPUT_DIR = "./attachments"
 OUTPUT_DIR = "./ocr_output"
 LOG_DIR = "./logs"
 NUM_WORKERS = 4

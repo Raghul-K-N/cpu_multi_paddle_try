@@ -1,0 +1,8 @@
+[2026-02-09 18:45:01] [INFO    ] [MainProcess] Log file created: ./logs/ocr_run_20260209_184501.log | fname=INIT
+[2026-02-09 18:45:01] [INFO    ] [MainProcess] ========== OCR Pipeline Starting ========== | fname=INIT
+[2026-02-09 18:45:01] [INFO    ] [MainProcess] Input directory : /home/whirldata/Downloads/Pepsico/GPU_tryout/cpu_multi_paddle_try/input_files | fname=INIT
+[2026-02-09 18:45:01] [INFO    ] [MainProcess] Output directory: /home/whirldata/Downloads/Pepsico/GPU_tryout/cpu_multi_paddle_try/ocr_output | fname=INIT
+[2026-02-09 18:45:01] [INFO    ] [MainProcess] Num workers     : 4 | fname=INIT
+[2026-02-09 18:45:01] [INFO    ] [MainProcess] Queue size      : 8 | fname=INIT
+[2026-02-09 18:45:01] [INFO    ] [MainProcess] Supported exts  : {'.webp', '.tif', '.tiff', '.jpg', '.pdf', '.jpeg', '.png', '.bmp'} | fname=INIT
+[2026-02-09 18:45:01] [ERROR   ] [MainProcess] Input directory does not exist: ./input_files | fname=INIT

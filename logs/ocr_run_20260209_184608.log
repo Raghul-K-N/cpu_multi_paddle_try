@@ -1,0 +1,159 @@
+[2026-02-09 18:46:08] [INFO    ] [MainProcess] Log file created: ./logs/ocr_run_20260209_184608.log | fname=INIT
+[2026-02-09 18:46:08] [INFO    ] [MainProcess] ========== OCR Pipeline Starting ========== | fname=INIT
+[2026-02-09 18:46:08] [INFO    ] [MainProcess] Input directory : /home/whirldata/Downloads/Pepsico/GPU_tryout/cpu_multi_paddle_try/attachments | fname=INIT
+[2026-02-09 18:46:08] [INFO    ] [MainProcess] Output directory: /home/whirldata/Downloads/Pepsico/GPU_tryout/cpu_multi_paddle_try/ocr_output | fname=INIT
+[2026-02-09 18:46:08] [INFO    ] [MainProcess] Num workers     : 4 | fname=INIT
+[2026-02-09 18:46:08] [INFO    ] [MainProcess] Queue size      : 8 | fname=INIT
+[2026-02-09 18:46:08] [INFO    ] [MainProcess] Supported exts  : {'.jpeg', '.tiff', '.webp', '.png', '.bmp', '.tif', '.jpg', '.pdf'} | fname=INIT
+[2026-02-09 18:46:08] [INFO    ] [MainProcess] Total entries found in input directory: 20 | fname=SCAN
+[2026-02-09 18:46:08] [DEBUG   ] [MainProcess] All entries: ['0002_1700000096_2025_01.PDF', '0001_1700000354_2025_03.PDF', '0001_1700000446_2025_01.PDF', '0001_1700000354_2025_02.PDF', '0001_1700000447_2025_01.PDF', '0002_1700000095_2025_01.PDF', '0001_1700000455_2025_01.PDF', '0001_1700000452_2025_01.PDF', '0001_1700000356_2025_01.PDF', '0001_1700000450_2025_01.PDF', '0001_1700000454_2025_01.PDF', '0001_1700000451_2025_01.PDF', '0001_1700000449_2025_01.PDF', '0001_1700000445_2025_01.PDF', '0001_1700000163_2025_01.PDF', '0001_1700000356_2025_02.PDF', '0002_1700000097_2025_01.PDF', '0001_1700000448_2025_01.PDF', '0038_1700000012_2025_01.PDF', '0002_1700000000_2025_01.PDF'] | fname=SCAN
+[2026-02-09 18:46:08] [DEBUG   ] [MainProcess] Queuing file: 0001_1700000163_2025_01.PDF (0.02 MB) | fname=0001_1700000163_2025_01.PDF
+[2026-02-09 18:46:08] [DEBUG   ] [MainProcess] Queuing file: 0001_1700000354_2025_02.PDF (0.02 MB) | fname=0001_1700000354_2025_02.PDF
+[2026-02-09 18:46:08] [DEBUG   ] [MainProcess] Queuing file: 0001_1700000354_2025_03.PDF (0.30 MB) | fname=0001_1700000354_2025_03.PDF
+[2026-02-09 18:46:08] [DEBUG   ] [MainProcess] Queuing file: 0001_1700000356_2025_01.PDF (0.30 MB) | fname=0001_1700000356_2025_01.PDF
+[2026-02-09 18:46:08] [DEBUG   ] [MainProcess] Queuing file: 0001_1700000356_2025_02.PDF (0.02 MB) | fname=0001_1700000356_2025_02.PDF
+[2026-02-09 18:46:08] [DEBUG   ] [MainProcess] Queuing file: 0001_1700000445_2025_01.PDF (0.02 MB) | fname=0001_1700000445_2025_01.PDF
+[2026-02-09 18:46:08] [DEBUG   ] [MainProcess] Queuing file: 0001_1700000446_2025_01.PDF (0.25 MB) | fname=0001_1700000446_2025_01.PDF
+[2026-02-09 18:46:08] [DEBUG   ] [MainProcess] Queuing file: 0001_1700000447_2025_01.PDF (0.08 MB) | fname=0001_1700000447_2025_01.PDF
+[2026-02-09 18:46:08] [DEBUG   ] [MainProcess] Queuing file: 0001_1700000448_2025_01.PDF (0.76 MB) | fname=0001_1700000448_2025_01.PDF
+[2026-02-09 18:46:08] [DEBUG   ] [MainProcess] Queuing file: 0001_1700000449_2025_01.PDF (0.28 MB) | fname=0001_1700000449_2025_01.PDF
+[2026-02-09 18:46:08] [DEBUG   ] [MainProcess] Queuing file: 0001_1700000450_2025_01.PDF (0.28 MB) | fname=0001_1700000450_2025_01.PDF
+[2026-02-09 18:46:08] [DEBUG   ] [MainProcess] Queuing file: 0001_1700000451_2025_01.PDF (0.01 MB) | fname=0001_1700000451_2025_01.PDF
+[2026-02-09 18:46:08] [DEBUG   ] [MainProcess] Queuing file: 0001_1700000452_2025_01.PDF (0.01 MB) | fname=0001_1700000452_2025_01.PDF
+[2026-02-09 18:46:08] [DEBUG   ] [MainProcess] Queuing file: 0001_1700000454_2025_01.PDF (0.01 MB) | fname=0001_1700000454_2025_01.PDF
+[2026-02-09 18:46:08] [DEBUG   ] [MainProcess] Queuing file: 0001_1700000455_2025_01.PDF (0.25 MB) | fname=0001_1700000455_2025_01.PDF
+[2026-02-09 18:46:08] [DEBUG   ] [MainProcess] Queuing file: 0002_1700000000_2025_01.PDF (0.04 MB) | fname=0002_1700000000_2025_01.PDF
+[2026-02-09 18:46:08] [DEBUG   ] [MainProcess] Queuing file: 0002_1700000095_2025_01.PDF (0.22 MB) | fname=0002_1700000095_2025_01.PDF
+[2026-02-09 18:46:08] [DEBUG   ] [MainProcess] Queuing file: 0002_1700000096_2025_01.PDF (0.24 MB) | fname=0002_1700000096_2025_01.PDF
+[2026-02-09 18:46:08] [DEBUG   ] [MainProcess] Queuing file: 0002_1700000097_2025_01.PDF (7.38 MB) | fname=0002_1700000097_2025_01.PDF
+[2026-02-09 18:46:08] [DEBUG   ] [MainProcess] Queuing file: 0038_1700000012_2025_01.PDF (0.17 MB) | fname=0038_1700000012_2025_01.PDF
+[2026-02-09 18:46:08] [INFO    ] [MainProcess] Files to process: 20, Skipped: 0 | fname=SCAN
+[2026-02-09 18:46:08] [INFO    ] [MainProcess] Multiprocessing start method set to 'spawn' | fname=INIT
+[2026-02-09 18:46:08] [DEBUG   ] [MainProcess] Task queue created with maxsize=8 | fname=INIT
+[2026-02-09 18:46:08] [INFO    ] [MainProcess] Spawning 4 worker processes... | fname=INIT
+[2026-02-09 18:46:08] [INFO    ] [MainProcess] Worker-0 started (PID=165613) | fname=INIT
+[2026-02-09 18:46:08] [INFO    ] [MainProcess] Worker-1 started (PID=165614) | fname=INIT
+[2026-02-09 18:46:08] [INFO    ] [MainProcess] Worker-2 started (PID=165615) | fname=INIT
+[2026-02-09 18:46:08] [INFO    ] [MainProcess] Worker-3 started (PID=165616) | fname=INIT
+[2026-02-09 18:46:08] [INFO    ] [MainProcess] Enqueuing 20 file(s)... | fname=ENQUEUE
+[2026-02-09 18:46:08] [DEBUG   ] [MainProcess] Putting file 1/20 into queue | fname=0001_1700000163_2025_01.PDF
+[2026-02-09 18:46:08] [DEBUG   ] [MainProcess] File enqueued successfully (1/20) | fname=0001_1700000163_2025_01.PDF
+[2026-02-09 18:46:08] [DEBUG   ] [MainProcess] Putting file 2/20 into queue | fname=0001_1700000354_2025_02.PDF
+[2026-02-09 18:46:08] [DEBUG   ] [MainProcess] File enqueued successfully (2/20) | fname=0001_1700000354_2025_02.PDF
+[2026-02-09 18:46:08] [DEBUG   ] [MainProcess] Putting file 3/20 into queue | fname=0001_1700000354_2025_03.PDF
+[2026-02-09 18:46:08] [DEBUG   ] [MainProcess] File enqueued successfully (3/20) | fname=0001_1700000354_2025_03.PDF
+[2026-02-09 18:46:08] [DEBUG   ] [MainProcess] Putting file 4/20 into queue | fname=0001_1700000356_2025_01.PDF
+[2026-02-09 18:46:08] [DEBUG   ] [MainProcess] File enqueued successfully (4/20) | fname=0001_1700000356_2025_01.PDF
+[2026-02-09 18:46:08] [DEBUG   ] [MainProcess] Putting file 5/20 into queue | fname=0001_1700000356_2025_02.PDF
+[2026-02-09 18:46:08] [DEBUG   ] [MainProcess] File enqueued successfully (5/20) | fname=0001_1700000356_2025_02.PDF
+[2026-02-09 18:46:08] [DEBUG   ] [MainProcess] Putting file 6/20 into queue | fname=0001_1700000445_2025_01.PDF
+[2026-02-09 18:46:08] [DEBUG   ] [MainProcess] File enqueued successfully (6/20) | fname=0001_1700000445_2025_01.PDF
+[2026-02-09 18:46:08] [DEBUG   ] [MainProcess] Putting file 7/20 into queue | fname=0001_1700000446_2025_01.PDF
+[2026-02-09 18:46:08] [DEBUG   ] [MainProcess] File enqueued successfully (7/20) | fname=0001_1700000446_2025_01.PDF
+[2026-02-09 18:46:08] [DEBUG   ] [MainProcess] Putting file 8/20 into queue | fname=0001_1700000447_2025_01.PDF
+[2026-02-09 18:46:08] [DEBUG   ] [MainProcess] File enqueued successfully (8/20) | fname=0001_1700000447_2025_01.PDF
+[2026-02-09 18:46:08] [DEBUG   ] [MainProcess] Putting file 9/20 into queue | fname=0001_1700000448_2025_01.PDF
+[2026-02-09 18:46:08] [INFO    ] [Worker-0] Worker-0 process started (PID=165613) | fname=INIT
+[2026-02-09 18:46:08] [INFO    ] [Worker-0] Thread env — OMP=10, MKL=10, NUMEXPR=10 | fname=INIT
+[2026-02-09 18:46:08] [INFO    ] [Worker-0] Worker-0 initializing PaddleOCR model... | fname=INIT
+[2026-02-09 18:46:08] [INFO    ] [Worker-2] Worker-2 process started (PID=165615) | fname=INIT
+[2026-02-09 18:46:08] [INFO    ] [Worker-3] Worker-3 process started (PID=165616) | fname=INIT
+[2026-02-09 18:46:08] [INFO    ] [Worker-2] Thread env — OMP=10, MKL=10, NUMEXPR=10 | fname=INIT
+[2026-02-09 18:46:08] [INFO    ] [Worker-3] Thread env — OMP=10, MKL=10, NUMEXPR=10 | fname=INIT
+[2026-02-09 18:46:08] [INFO    ] [Worker-2] Worker-2 initializing PaddleOCR model... | fname=INIT
+[2026-02-09 18:46:08] [INFO    ] [Worker-3] Worker-3 initializing PaddleOCR model... | fname=INIT
+[2026-02-09 18:46:08] [INFO    ] [Worker-1] Worker-1 process started (PID=165614) | fname=INIT
+[2026-02-09 18:46:08] [INFO    ] [Worker-1] Thread env — OMP=10, MKL=10, NUMEXPR=10 | fname=INIT
+[2026-02-09 18:46:08] [INFO    ] [Worker-1] Worker-1 initializing PaddleOCR model... | fname=INIT
+[2026-02-09 18:46:15] [CRITICAL] [Worker-0] Worker-0 FAILED to initialize PaddleOCR after 6.61s: Unknown argument: show_log | fname=INIT
+[2026-02-09 18:46:15] [DEBUG   ] [Worker-0] Traceback:
+Traceback (most recent call last):
+  File "/home/whirldata/Downloads/Pepsico/GPU_tryout/cpu_multi_paddle_try/ocr_worker.py", line 53, in ocr_worker
+    ocr = PaddleOCR(
+        use_angle_cls=True,
+    ...<3 lines>...
+        show_log=False,  # suppress paddle's own verbose logs
+    )
+  File "/home/whirldata/Downloads/Dow transformation/venv3.13.11/venv/lib/python3.13/site-packages/paddleocr/_pipelines/ocr.py", line 163, in __init__
+    super().__init__(**base_params)
+    ~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^
+  File "/home/whirldata/Downloads/Dow transformation/venv3.13.11/venv/lib/python3.13/site-packages/paddleocr/_pipelines/base.py", line 63, in __init__
+    self._common_args = parse_common_args(
+                        ~~~~~~~~~~~~~~~~~^
+        common_args, default_enable_hpi=_DEFAULT_ENABLE_HPI
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "/home/whirldata/Downloads/Dow transformation/venv3.13.11/venv/lib/python3.13/site-packages/paddleocr/_common_args.py", line 45, in parse_common_args
+    raise ValueError(f"Unknown argument: {name}")
+ValueError: Unknown argument: show_log
+ | fname=INIT
+[2026-02-09 18:46:15] [CRITICAL] [Worker-1] Worker-1 FAILED to initialize PaddleOCR after 6.65s: Unknown argument: show_log | fname=INIT
+[2026-02-09 18:46:15] [DEBUG   ] [Worker-1] Traceback:
+Traceback (most recent call last):
+  File "/home/whirldata/Downloads/Pepsico/GPU_tryout/cpu_multi_paddle_try/ocr_worker.py", line 53, in ocr_worker
+    ocr = PaddleOCR(
+        use_angle_cls=True,
+    ...<3 lines>...
+        show_log=False,  # suppress paddle's own verbose logs
+    )
+  File "/home/whirldata/Downloads/Dow transformation/venv3.13.11/venv/lib/python3.13/site-packages/paddleocr/_pipelines/ocr.py", line 163, in __init__
+    super().__init__(**base_params)
+    ~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^
+  File "/home/whirldata/Downloads/Dow transformation/venv3.13.11/venv/lib/python3.13/site-packages/paddleocr/_pipelines/base.py", line 63, in __init__
+    self._common_args = parse_common_args(
+                        ~~~~~~~~~~~~~~~~~^
+        common_args, default_enable_hpi=_DEFAULT_ENABLE_HPI
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "/home/whirldata/Downloads/Dow transformation/venv3.13.11/venv/lib/python3.13/site-packages/paddleocr/_common_args.py", line 45, in parse_common_args
+    raise ValueError(f"Unknown argument: {name}")
+ValueError: Unknown argument: show_log
+ | fname=INIT
+[2026-02-09 18:46:16] [CRITICAL] [Worker-3] Worker-3 FAILED to initialize PaddleOCR after 7.31s: Unknown argument: show_log | fname=INIT
+[2026-02-09 18:46:16] [DEBUG   ] [Worker-3] Traceback:
+Traceback (most recent call last):
+  File "/home/whirldata/Downloads/Pepsico/GPU_tryout/cpu_multi_paddle_try/ocr_worker.py", line 53, in ocr_worker
+    ocr = PaddleOCR(
+        use_angle_cls=True,
+    ...<3 lines>...
+        show_log=False,  # suppress paddle's own verbose logs
+    )
+  File "/home/whirldata/Downloads/Dow transformation/venv3.13.11/venv/lib/python3.13/site-packages/paddleocr/_pipelines/ocr.py", line 163, in __init__
+    super().__init__(**base_params)
+    ~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^
+  File "/home/whirldata/Downloads/Dow transformation/venv3.13.11/venv/lib/python3.13/site-packages/paddleocr/_pipelines/base.py", line 63, in __init__
+    self._common_args = parse_common_args(
+                        ~~~~~~~~~~~~~~~~~^
+        common_args, default_enable_hpi=_DEFAULT_ENABLE_HPI
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "/home/whirldata/Downloads/Dow transformation/venv3.13.11/venv/lib/python3.13/site-packages/paddleocr/_common_args.py", line 45, in parse_common_args
+    raise ValueError(f"Unknown argument: {name}")
+ValueError: Unknown argument: show_log
+ | fname=INIT
+[2026-02-09 18:46:16] [CRITICAL] [Worker-2] Worker-2 FAILED to initialize PaddleOCR after 7.41s: Unknown argument: show_log | fname=INIT
+[2026-02-09 18:46:16] [DEBUG   ] [Worker-2] Traceback:
+Traceback (most recent call last):
+  File "/home/whirldata/Downloads/Pepsico/GPU_tryout/cpu_multi_paddle_try/ocr_worker.py", line 53, in ocr_worker
+    ocr = PaddleOCR(
+        use_angle_cls=True,
+    ...<3 lines>...
+        show_log=False,  # suppress paddle's own verbose logs
+    )
+  File "/home/whirldata/Downloads/Dow transformation/venv3.13.11/venv/lib/python3.13/site-packages/paddleocr/_pipelines/ocr.py", line 163, in __init__
+    super().__init__(**base_params)
+    ~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^
+  File "/home/whirldata/Downloads/Dow transformation/venv3.13.11/venv/lib/python3.13/site-packages/paddleocr/_pipelines/base.py", line 63, in __init__
+    self._common_args = parse_common_args(
+                        ~~~~~~~~~~~~~~~~~^
+        common_args, default_enable_hpi=_DEFAULT_ENABLE_HPI
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "/home/whirldata/Downloads/Dow transformation/venv3.13.11/venv/lib/python3.13/site-packages/paddleocr/_common_args.py", line 45, in parse_common_args
+    raise ValueError(f"Unknown argument: {name}")
+ValueError: Unknown argument: show_log
+ | fname=INIT
