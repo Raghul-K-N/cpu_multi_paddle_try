@@ -35,6 +35,7 @@ def ocr_worker(task_queue, output_dir, worker_id, log_filename):
     os.environ["OMP_NUM_THREADS"] = "10"
     os.environ["MKL_NUM_THREADS"] = "10"
     os.environ["NUMEXPR_NUM_THREADS"] = "10"
+    os.environ["DISABLE_MODEL_SOURCE_CHECK"] = "True"
 
     logger = _setup_worker_logger(worker_id, log_filename)
     logger.info(f"Worker-{worker_id} process started (PID={os.getpid()}) | fname=INIT")
@@ -55,7 +56,6 @@ def ocr_worker(task_queue, output_dir, worker_id, log_filename):
             lang="en",
             enable_mkldnn=True,
             device="cpu",
-            show_log=False,  # suppress paddle's own verbose logs
         )
         model_init_elapsed = time.time() - model_init_start
         logger.info(
