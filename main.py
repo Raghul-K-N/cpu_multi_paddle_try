@@ -10,8 +10,8 @@ from ocr_worker import ocr_worker
 INPUT_DIR = "./attachments"
 OUTPUT_DIR = "./ocr_output"
 LOG_DIR = "./logs"
-NUM_WORKERS = 4
-QUEUE_SIZE = 8  # bounded queue
+NUM_WORKERS = 1
+QUEUE_SIZE = 5  # bounded queue
 SUPPORTED_EXTENSIONS = {".pdf", ".png", ".jpg", ".jpeg", ".bmp", ".tiff", ".tif", ".webp"}
 
 # Sentinel value to signal workers to shut down cleanly
