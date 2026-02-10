@@ -1,3 +1,4 @@
 paddlepaddle==3.2.2
 paddleocr==3.3.2
 opencv-contrib-python-headless
+requests

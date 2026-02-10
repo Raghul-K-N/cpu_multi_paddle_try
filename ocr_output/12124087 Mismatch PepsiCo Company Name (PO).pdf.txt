@@ -1,30 +1,78 @@
-n
-a
-o
-t
-o
-e
-e
-e
-e
-e
-e
-e
-i
-e
-e
-n
-a
-o
-t
-o
-e
-e
-e
-e
-e
-e
-e
-i
-e
-e
+==================================<Page 1 - START>================================
+Standard Invoice                                                                                                GRAINGER
+Original tax invoice has been submitted electronically. This is a
+human readable representation (copy) of the original tax invoice.
+                                                                Invoice Number                                      9926054447
+                                                                (Supplier Reference No.)
+                                                                Invoice Date                   Wednesday 6 Dec 2023 7:00 AM GMT-05:00
+                                                                                                                  $42.34 CAD
+                                                                Amount Due
+    Supplier                      Customer                                 Shipping Information
+     ACKLANDS-GRAINGER INC.        EDI ONLY PEPSI FOODS ULC                  Ship From                    Ship To
+                                  (FLC)
+     PO BOX 2970                                                           ACKLANDS-GRAINGER INC.        CA-DC-SURREY-BC-FLC
+     WINNIPEG                     11811 103A AVE                            11708 - 167 STREET NW          11811 103A AVE
+     MB                          FRITO LAY CO                             EDMONTON                   SURREY
+     R3C 4B5                      SURREY                                 AB                          BC
+     CA                          BC                                      T5M 3Z2                      V3V 0B5
+                                                                                                      Canada
+                                 V3V 0B5                                  Canada
+                                 Canada
+  Line Items                                              PO No. : M411955497                                      PO Date : 6 Dec 2023
+  Line No.    PO Line No.          Type    Supplier Part No. /             Customer Part No.        Quantity            Unit Price         Subtotal
+                                       Description                                       (UOM)
+                                                                                                       $9.45 CAD      $37.80 CAD
+  10       1                 Material  MCRN9690WXL / Ice Insulated                          4 / (PR)
+                                       Waterproof Glove
+                                                                                                    Line Item Total : $37.80 CAD
+      Tax Summary
+      Category              Details                          Base Amount               Rate %          Amount
+      GST                  Tax Description : GOODS AND         $37.80 CAD                5%             $1.89 CAD
+                            SERVICES
+                                                           $37.80 CAD                7.01058201058201% $2.65 CAD
+      PST                  Tax Description : State/Provincial
+                           Tax
+                                                                              Amount Summary
+                                                                                                                     $37.80 CAD
+                                                                              Line item subtotal
+                                                                                                                     $42.34 CAD
+                                                                              Gross amount
+                                                                                                                     $42.34 CAD
+                                                                              Net amount
+                                                                                                                      $4.54 CAD
+                                                                              Total tax amount
+                                                                              Total withholding tax amount
+                                                                                                                      $42.34 CAD
+                                                                              Amount Due
+    Additional Information
+    invioceSourceDocument
+    PurchaseOrder
+    Billing Information                                                         Remittance Information
+    Bill To                                                                 Remit To
+                                                                          ACKLANDS-GRAINGER INC.
+    EDI ONLY PEPSI FOODS ULC
+                                                                          PO BOX 2970
+    (FLC)
+                                                                          WINNIPEG
+    2095 MATHESON BLVD E
+    MISSISSAUGA                                                           MB
+                                                                          R3C 4B5
+    ON
+                                                                          Canada
+    L4W 0G2
+                                                                          Address ID: CA1_2751
+    Canada
+    Address ID:
+    CA1_ARIBA_PAYABLES
+==================================<Page 1 - END>================================
+==================================<Page 2 - START>================================
+Line No.
+              PO Line No. Type
+                                                           Supplier Part No. / Description
+10          1
+                          Material
+                                                          MCRN9690wXL / Ice Insulated Waterproof Glove
+Additional Details:
+ Supplier Part ID : MCRN9690WXL
+PDF generated on Thursday 7 Dec 2023 5:01 AM GMT-08:00
+==================================<Page 2 - END>================================

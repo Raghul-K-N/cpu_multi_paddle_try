@@ -1,0 +1,95 @@
+[2026-02-10 18:16:27] [INFO    ] [MainProcess] Log file created: ./logs/ocr_run_20260210_181627.log | fname=
+[2026-02-10 18:16:27] [INFO    ] [MainProcess] ========== OCR Pipeline Starting ========== | fname=INIT
+[2026-02-10 18:16:27] [INFO    ] [MainProcess] Input directory : /home/whirldata/Downloads/Pepsico/GPU_tryout/cpu_multi_paddle_try/pepsico_attachments | fname=INIT
+[2026-02-10 18:16:27] [INFO    ] [MainProcess] Output directory: /home/whirldata/Downloads/Pepsico/GPU_tryout/cpu_multi_paddle_try/ocr_output | fname=INIT
+[2026-02-10 18:16:27] [INFO    ] [MainProcess] Total vCPUs     : 12 | fname=INIT
+[2026-02-10 18:16:27] [INFO    ] [MainProcess] Num workers     : 8 | fname=INIT
+[2026-02-10 18:16:27] [INFO    ] [MainProcess] Threads/worker  : 7 | fname=INIT
+[2026-02-10 18:16:27] [INFO    ] [MainProcess] Queue size      : 5 | fname=INIT
+[2026-02-10 18:16:27] [INFO    ] [MainProcess] Supported exts  : {'.jpeg', '.tiff', '.bmp', '.pdf', '.jpg', '.png', '.webp', '.tif'} | fname=INIT
+[2026-02-10 18:16:27] [INFO    ] [MainProcess] Total entries found in input directory: 36 | fname=SCAN
+[2026-02-10 18:16:27] [DEBUG   ] [MainProcess] All entries: ['34046864 Invalid Tax Info. (PO).pdf', '34388480 Invalid Requestor ID (NPO).pdf', '36289412 Missing Invoice Date (PO).pdf', '37654394 Invalid PO Number (PO).pdf', '23996926 Manual Check of Indexing Lines (PO).pdf', '37768719 Approval Required (NPO).pdf', '34260911 Missing Item Qty. (PO).pdf', '36364887 Accounting Vendor Maintenance Required (PO).pdf', '36289708  Process Non Invoice Document.pdf', '37689388 Process Non-PO Invoice (NPO).pdf', '32527148 UOM Mismatch (PO).pdf', '37692967 Invalid UOM (PO).pdf', '33365033 Unable to Determine Company Code (NPO).pdf', '36292740 Suspected Duplicate (NPO).pdf', '35659400  Company Code Mismatch (PO).pdf', '36114864 Invalid Tax Info (NPO).pdf', '37451662 Missing Vendor Invoice Reference Number (NPO).pdf', '37689884 Invalid Vendor (NPO).pdf', '36532827   Missing Mandatory Information (NPO).pdf', '37691214 Missing Vendor Invoice Reference (PO).pdf', '24551639 Process PO Invoice (PO).pdf', '34728178 Vendor Mismatch (PO).pdf', '23867942 Invoice Older than Allowed (PO).pdf', '36761716 Invoice Older than Allowed (NPO).pdf', '37371307 Invalid Currency (PO).pdf', '35294023 Please Index (NPO).pdf', '34606454 Multiple Bank Accounts Exist (PO).pdf', '37290355 Process PO Credit Memo (PO).pdf', '37794522 Invalid Vendor (PO).pdf', '33815264 Invalid Currency (NPO).pdf', '37151454 Process Non-PO Credit Memo (NPO).pdf', '24280319 Currency Mismatch (PO).pdf', '30313542 Suspected Duplicate (PO).pdf', '37691076 Please Index (PO).pdf', '28536941 Invalid Recipient VAT Number (PO).pdf', '12124087 Mismatch PepsiCo Company Name (PO).pdf'] | fname=SCAN
+[2026-02-10 18:16:27] [DEBUG   ] [MainProcess] Queuing file: 12124087 Mismatch PepsiCo Company Name (PO).pdf (0.04 MB) | fname=12124087 Mismatch PepsiCo Company Name (PO).pdf
+[2026-02-10 18:16:27] [DEBUG   ] [MainProcess] Queuing file: 23867942 Invoice Older than Allowed (PO).pdf (0.11 MB) | fname=23867942 Invoice Older than Allowed (PO).pdf
+[2026-02-10 18:16:27] [DEBUG   ] [MainProcess] Queuing file: 23996926 Manual Check of Indexing Lines (PO).pdf (0.05 MB) | fname=23996926 Manual Check of Indexing Lines (PO).pdf
+[2026-02-10 18:16:27] [DEBUG   ] [MainProcess] Queuing file: 24280319 Currency Mismatch (PO).pdf (0.01 MB) | fname=24280319 Currency Mismatch (PO).pdf
+[2026-02-10 18:16:27] [DEBUG   ] [MainProcess] Queuing file: 24551639 Process PO Invoice (PO).pdf (0.03 MB) | fname=24551639 Process PO Invoice (PO).pdf
+[2026-02-10 18:16:27] [DEBUG   ] [MainProcess] Queuing file: 28536941 Invalid Recipient VAT Number (PO).pdf (0.06 MB) | fname=28536941 Invalid Recipient VAT Number (PO).pdf
+[2026-02-10 18:16:27] [DEBUG   ] [MainProcess] Queuing file: 30313542 Suspected Duplicate (PO).pdf (0.03 MB) | fname=30313542 Suspected Duplicate (PO).pdf
+[2026-02-10 18:16:27] [DEBUG   ] [MainProcess] Queuing file: 32527148 UOM Mismatch (PO).pdf (0.04 MB) | fname=32527148 UOM Mismatch (PO).pdf
+[2026-02-10 18:16:27] [DEBUG   ] [MainProcess] Queuing file: 33365033 Unable to Determine Company Code (NPO).pdf (0.05 MB) | fname=33365033 Unable to Determine Company Code (NPO).pdf
+[2026-02-10 18:16:27] [DEBUG   ] [MainProcess] Queuing file: 33815264 Invalid Currency (NPO).pdf (0.06 MB) | fname=33815264 Invalid Currency (NPO).pdf
+[2026-02-10 18:16:27] [DEBUG   ] [MainProcess] Queuing file: 34046864 Invalid Tax Info. (PO).pdf (0.02 MB) | fname=34046864 Invalid Tax Info. (PO).pdf
+[2026-02-10 18:16:27] [DEBUG   ] [MainProcess] Queuing file: 34260911 Missing Item Qty. (PO).pdf (0.04 MB) | fname=34260911 Missing Item Qty. (PO).pdf
+[2026-02-10 18:16:27] [DEBUG   ] [MainProcess] Queuing file: 34388480 Invalid Requestor ID (NPO).pdf (0.03 MB) | fname=34388480 Invalid Requestor ID (NPO).pdf
+[2026-02-10 18:16:27] [DEBUG   ] [MainProcess] Queuing file: 34606454 Multiple Bank Accounts Exist (PO).pdf (0.06 MB) | fname=34606454 Multiple Bank Accounts Exist (PO).pdf
+[2026-02-10 18:16:27] [DEBUG   ] [MainProcess] Queuing file: 34728178 Vendor Mismatch (PO).pdf (0.04 MB) | fname=34728178 Vendor Mismatch (PO).pdf
+[2026-02-10 18:16:27] [DEBUG   ] [MainProcess] Queuing file: 35294023 Please Index (NPO).pdf (0.04 MB) | fname=35294023 Please Index (NPO).pdf
+[2026-02-10 18:16:27] [DEBUG   ] [MainProcess] Queuing file: 35659400  Company Code Mismatch (PO).pdf (0.07 MB) | fname=35659400  Company Code Mismatch (PO).pdf
+[2026-02-10 18:16:27] [DEBUG   ] [MainProcess] Queuing file: 36114864 Invalid Tax Info (NPO).pdf (0.06 MB) | fname=36114864 Invalid Tax Info (NPO).pdf
+[2026-02-10 18:16:27] [DEBUG   ] [MainProcess] Queuing file: 36289412 Missing Invoice Date (PO).pdf (0.03 MB) | fname=36289412 Missing Invoice Date (PO).pdf
+[2026-02-10 18:16:27] [DEBUG   ] [MainProcess] Queuing file: 36289708  Process Non Invoice Document.pdf (0.05 MB) | fname=36289708  Process Non Invoice Document.pdf
+[2026-02-10 18:16:27] [DEBUG   ] [MainProcess] Queuing file: 36292740 Suspected Duplicate (NPO).pdf (0.03 MB) | fname=36292740 Suspected Duplicate (NPO).pdf
+[2026-02-10 18:16:27] [DEBUG   ] [MainProcess] Queuing file: 36364887 Accounting Vendor Maintenance Required (PO).pdf (0.02 MB) | fname=36364887 Accounting Vendor Maintenance Required (PO).pdf
+[2026-02-10 18:16:27] [DEBUG   ] [MainProcess] Queuing file: 36532827   Missing Mandatory Information (NPO).pdf (0.02 MB) | fname=36532827   Missing Mandatory Information (NPO).pdf
+[2026-02-10 18:16:27] [DEBUG   ] [MainProcess] Queuing file: 36761716 Invoice Older than Allowed (NPO).pdf (0.03 MB) | fname=36761716 Invoice Older than Allowed (NPO).pdf
+[2026-02-10 18:16:27] [DEBUG   ] [MainProcess] Queuing file: 37151454 Process Non-PO Credit Memo (NPO).pdf (0.04 MB) | fname=37151454 Process Non-PO Credit Memo (NPO).pdf
+[2026-02-10 18:16:27] [DEBUG   ] [MainProcess] Queuing file: 37290355 Process PO Credit Memo (PO).pdf (0.03 MB) | fname=37290355 Process PO Credit Memo (PO).pdf
+[2026-02-10 18:16:27] [DEBUG   ] [MainProcess] Queuing file: 37371307 Invalid Currency (PO).pdf (0.03 MB) | fname=37371307 Invalid Currency (PO).pdf
+[2026-02-10 18:16:27] [DEBUG   ] [MainProcess] Queuing file: 37451662 Missing Vendor Invoice Reference Number (NPO).pdf (0.06 MB) | fname=37451662 Missing Vendor Invoice Reference Number (NPO).pdf
+[2026-02-10 18:16:27] [DEBUG   ] [MainProcess] Queuing file: 37654394 Invalid PO Number (PO).pdf (0.01 MB) | fname=37654394 Invalid PO Number (PO).pdf
+[2026-02-10 18:16:27] [DEBUG   ] [MainProcess] Queuing file: 37689388 Process Non-PO Invoice (NPO).pdf (0.02 MB) | fname=37689388 Process Non-PO Invoice (NPO).pdf
+[2026-02-10 18:16:27] [DEBUG   ] [MainProcess] Queuing file: 37689884 Invalid Vendor (NPO).pdf (0.04 MB) | fname=37689884 Invalid Vendor (NPO).pdf
+[2026-02-10 18:16:27] [DEBUG   ] [MainProcess] Queuing file: 37691076 Please Index (PO).pdf (0.06 MB) | fname=37691076 Please Index (PO).pdf
+[2026-02-10 18:16:27] [DEBUG   ] [MainProcess] Queuing file: 37691214 Missing Vendor Invoice Reference (PO).pdf (0.18 MB) | fname=37691214 Missing Vendor Invoice Reference (PO).pdf
+[2026-02-10 18:16:27] [DEBUG   ] [MainProcess] Queuing file: 37692967 Invalid UOM (PO).pdf (0.10 MB) | fname=37692967 Invalid UOM (PO).pdf
+[2026-02-10 18:16:27] [DEBUG   ] [MainProcess] Queuing file: 37768719 Approval Required (NPO).pdf (0.02 MB) | fname=37768719 Approval Required (NPO).pdf
+[2026-02-10 18:16:27] [DEBUG   ] [MainProcess] Queuing file: 37794522 Invalid Vendor (PO).pdf (0.09 MB) | fname=37794522 Invalid Vendor (PO).pdf
+[2026-02-10 18:16:27] [INFO    ] [MainProcess] Files to process: 36, Skipped: 0 | fname=SCAN
+[2026-02-10 18:16:27] [INFO    ] [MainProcess] Multiprocessing start method set to 'spawn' | fname=INIT
+[2026-02-10 18:16:27] [DEBUG   ] [MainProcess] Task queue created with maxsize=5 | fname=INIT
+[2026-02-10 18:16:27] [INFO    ] [MainProcess] Spawning 8 worker processes... | fname=INIT
+[2026-02-10 18:16:27] [INFO    ] [MainProcess] Worker-0 started (PID=25778) | fname=INIT
+[2026-02-10 18:16:27] [INFO    ] [MainProcess] Worker-1 started (PID=25779) | fname=INIT
+[2026-02-10 18:16:27] [INFO    ] [MainProcess] Worker-2 started (PID=25780) | fname=INIT
+[2026-02-10 18:16:27] [INFO    ] [MainProcess] Worker-3 started (PID=25781) | fname=INIT
+[2026-02-10 18:16:27] [INFO    ] [MainProcess] Worker-4 started (PID=25782) | fname=INIT
+[2026-02-10 18:16:27] [INFO    ] [MainProcess] Worker-5 started (PID=25783) | fname=INIT
+[2026-02-10 18:16:27] [INFO    ] [MainProcess] Worker-6 started (PID=25784) | fname=INIT
+[2026-02-10 18:16:27] [INFO    ] [MainProcess] Worker-7 started (PID=25785) | fname=INIT
+[2026-02-10 18:16:27] [INFO    ] [MainProcess] Enqueuing 36 file(s)... | fname=ENQUEUE
+[2026-02-10 18:16:27] [DEBUG   ] [MainProcess] Putting file 1/36 into queue | fname=12124087 Mismatch PepsiCo Company Name (PO).pdf
+[2026-02-10 18:16:27] [DEBUG   ] [MainProcess] File enqueued successfully (1/36) | fname=12124087 Mismatch PepsiCo Company Name (PO).pdf
+[2026-02-10 18:16:27] [DEBUG   ] [MainProcess] Putting file 2/36 into queue | fname=23867942 Invoice Older than Allowed (PO).pdf
+[2026-02-10 18:16:27] [DEBUG   ] [MainProcess] File enqueued successfully (2/36) | fname=23867942 Invoice Older than Allowed (PO).pdf
+[2026-02-10 18:16:27] [DEBUG   ] [MainProcess] Putting file 3/36 into queue | fname=23996926 Manual Check of Indexing Lines (PO).pdf
+[2026-02-10 18:16:27] [DEBUG   ] [MainProcess] File enqueued successfully (3/36) | fname=23996926 Manual Check of Indexing Lines (PO).pdf
+[2026-02-10 18:16:27] [DEBUG   ] [MainProcess] Putting file 4/36 into queue | fname=24280319 Currency Mismatch (PO).pdf
+[2026-02-10 18:16:27] [DEBUG   ] [MainProcess] File enqueued successfully (4/36) | fname=24280319 Currency Mismatch (PO).pdf
+[2026-02-10 18:16:27] [DEBUG   ] [MainProcess] Putting file 5/36 into queue | fname=24551639 Process PO Invoice (PO).pdf
+[2026-02-10 18:16:27] [DEBUG   ] [MainProcess] File enqueued successfully (5/36) | fname=24551639 Process PO Invoice (PO).pdf
+[2026-02-10 18:16:27] [DEBUG   ] [MainProcess] Putting file 6/36 into queue | fname=28536941 Invalid Recipient VAT Number (PO).pdf
+[2026-02-10 18:16:27] [INFO    ] [Worker-0] Worker-0 process started (PID=25778) | fname=INIT
+[2026-02-10 18:16:27] [INFO    ] [Worker-0] Thread env — OMP=7, MKL=7, NUMEXPR=7 | fname=INIT
+[2026-02-10 18:16:27] [INFO    ] [Worker-0] Worker-0 initializing PaddleOCR model... | fname=INIT
+[2026-02-10 18:16:27] [INFO    ] [Worker-1] Worker-1 process started (PID=25779) | fname=INIT
+[2026-02-10 18:16:27] [INFO    ] [Worker-1] Thread env — OMP=7, MKL=7, NUMEXPR=7 | fname=INIT
+[2026-02-10 18:16:27] [INFO    ] [Worker-1] Worker-1 initializing PaddleOCR model... | fname=INIT
+[2026-02-10 18:16:27] [INFO    ] [Worker-2] Worker-2 process started (PID=25780) | fname=INIT
+[2026-02-10 18:16:27] [INFO    ] [Worker-3] Worker-3 process started (PID=25781) | fname=INIT
+[2026-02-10 18:16:27] [INFO    ] [Worker-4] Worker-4 process started (PID=25782) | fname=INIT
+[2026-02-10 18:16:27] [INFO    ] [Worker-2] Thread env — OMP=7, MKL=7, NUMEXPR=7 | fname=INIT
+[2026-02-10 18:16:27] [INFO    ] [Worker-4] Thread env — OMP=7, MKL=7, NUMEXPR=7 | fname=INIT
+[2026-02-10 18:16:27] [INFO    ] [Worker-2] Worker-2 initializing PaddleOCR model... | fname=INIT
+[2026-02-10 18:16:27] [INFO    ] [Worker-5] Worker-5 process started (PID=25783) | fname=INIT
+[2026-02-10 18:16:27] [INFO    ] [Worker-4] Worker-4 initializing PaddleOCR model... | fname=INIT
+[2026-02-10 18:16:27] [INFO    ] [Worker-5] Thread env — OMP=7, MKL=7, NUMEXPR=7 | fname=INIT
+[2026-02-10 18:16:27] [INFO    ] [Worker-5] Worker-5 initializing PaddleOCR model... | fname=INIT
+[2026-02-10 18:16:27] [INFO    ] [Worker-3] Thread env — OMP=7, MKL=7, NUMEXPR=7 | fname=INIT
+[2026-02-10 18:16:27] [INFO    ] [Worker-3] Worker-3 initializing PaddleOCR model... | fname=INIT
+[2026-02-10 18:16:27] [INFO    ] [Worker-7] Worker-7 process started (PID=25785) | fname=INIT
+[2026-02-10 18:16:27] [INFO    ] [Worker-7] Thread env — OMP=7, MKL=7, NUMEXPR=7 | fname=INIT
+[2026-02-10 18:16:27] [INFO    ] [Worker-7] Worker-7 initializing PaddleOCR model... | fname=INIT
+[2026-02-10 18:16:27] [INFO    ] [Worker-6] Worker-6 process started (PID=25784) | fname=INIT
+[2026-02-10 18:16:27] [INFO    ] [Worker-6] Thread env — OMP=7, MKL=7, NUMEXPR=7 | fname=INIT
+[2026-02-10 18:16:27] [INFO    ] [Worker-6] Worker-6 initializing PaddleOCR model... | fname=INIT

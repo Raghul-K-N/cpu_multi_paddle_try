@@ -1,0 +1,49 @@
+{
+  "invoice_data": {
+    "invoice_number": "9926054447",
+    "invoice_date": "Wednesday 6 Dec 2023 7:00 AM GMT-05:00",
+    "invoice_receipt_date": null,
+    "invoice_amount": "42.34",
+    "invoice_currency": [
+      "CAD"
+    ],
+    "stamp_number": null,
+    "vendor_name": "ACKLANDS-GRAINGER INC.",
+    "remit_to_address": "PO BOX 2970, WINNIPEG, MB, R3C 4B5, Canada",
+    "bill_to_entity": "EDI ONLY PEPSI FOODS ULC",
+    "bill_to_address": "2095 MATHESON BLVD E, MISSISSAUGA, ON, L4W 0G2, Canada",
+    "payment_terms": null,
+    "payment_method": null,
+    "gl_account": null,
+    "bank_name": null,
+    "account_holder_name": null,
+    "banking_account_number": null,
+    "vat_tax_code": null,
+    "vat_amount": "4.54",
+    "transaction_type": "debit"
+  },
+  "filename": "12124087 Mismatch PepsiCo Company Name (PO).pdf",
+  "raw_response": {
+    "invoice_number": "9926054447",
+    "invoice_date": "Wednesday 6 Dec 2023 7:00 AM GMT-05:00",
+    "invoice_receipt_date": null,
+    "invoice_amount": "42.34",
+    "invoice_currency": [
+      "CAD"
+    ],
+    "stamp_number": null,
+    "vendor_name": "ACKLANDS-GRAINGER INC.",
+    "remit_to_address": "PO BOX 2970, WINNIPEG, MB, R3C 4B5, Canada",
+    "bill_to_entity": "EDI ONLY PEPSI FOODS ULC",
+    "bill_to_address": "2095 MATHESON BLVD E, MISSISSAUGA, ON, L4W 0G2, Canada",
+    "payment_terms": null,
+    "payment_method": null,
+    "gl_account": null,
+    "bank_name": null,
+    "account_holder_name": null,
+    "banking_account_number": null,
+    "vat_tax_code": null,
+    "vat_amount": "4.54",
+    "transaction_type": null
+  }
+}

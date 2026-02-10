@@ -1,0 +1,126 @@
+[2026-02-10 18:30:49] [INFO    ] [MainProcess] Log file created: ./logs/ocr_run_20260210_183049.log | fname=
+[2026-02-10 18:30:49] [INFO    ] [MainProcess] ========== OCR Pipeline Starting ========== | fname=INIT
+[2026-02-10 18:30:49] [INFO    ] [MainProcess] Input directory : /home/whirldata/Downloads/Pepsico/GPU_tryout/cpu_multi_paddle_try/pepsico_attachments | fname=INIT
+[2026-02-10 18:30:49] [INFO    ] [MainProcess] Output directory: /home/whirldata/Downloads/Pepsico/GPU_tryout/cpu_multi_paddle_try/ocr_output | fname=INIT
+[2026-02-10 18:30:49] [INFO    ] [MainProcess] Total vCPUs     : 12 | fname=INIT
+[2026-02-10 18:30:49] [INFO    ] [MainProcess] Num workers     : 1 | fname=INIT
+[2026-02-10 18:30:49] [INFO    ] [MainProcess] Threads/worker  : 7 | fname=INIT
+[2026-02-10 18:30:49] [INFO    ] [MainProcess] Queue size      : 5 | fname=INIT
+[2026-02-10 18:30:49] [INFO    ] [MainProcess] Supported exts  : {'.webp', '.pdf', '.png', '.jpeg', '.bmp', '.tif', '.tiff', '.jpg'} | fname=INIT
+[2026-02-10 18:30:49] [INFO    ] [MainProcess] Total entries found in input directory: 36 | fname=SCAN
+[2026-02-10 18:30:49] [DEBUG   ] [MainProcess] All entries: ['34046864 Invalid Tax Info. (PO).pdf', '34388480 Invalid Requestor ID (NPO).pdf', '36289412 Missing Invoice Date (PO).pdf', '37654394 Invalid PO Number (PO).pdf', '23996926 Manual Check of Indexing Lines (PO).pdf', '37768719 Approval Required (NPO).pdf', '34260911 Missing Item Qty. (PO).pdf', '36364887 Accounting Vendor Maintenance Required (PO).pdf', '36289708  Process Non Invoice Document.pdf', '37689388 Process Non-PO Invoice (NPO).pdf', '32527148 UOM Mismatch (PO).pdf', '37692967 Invalid UOM (PO).pdf', '33365033 Unable to Determine Company Code (NPO).pdf', '36292740 Suspected Duplicate (NPO).pdf', '35659400  Company Code Mismatch (PO).pdf', '36114864 Invalid Tax Info (NPO).pdf', '37451662 Missing Vendor Invoice Reference Number (NPO).pdf', '37689884 Invalid Vendor (NPO).pdf', '36532827   Missing Mandatory Information (NPO).pdf', '37691214 Missing Vendor Invoice Reference (PO).pdf', '24551639 Process PO Invoice (PO).pdf', '34728178 Vendor Mismatch (PO).pdf', '23867942 Invoice Older than Allowed (PO).pdf', '36761716 Invoice Older than Allowed (NPO).pdf', '37371307 Invalid Currency (PO).pdf', '35294023 Please Index (NPO).pdf', '34606454 Multiple Bank Accounts Exist (PO).pdf', '37290355 Process PO Credit Memo (PO).pdf', '37794522 Invalid Vendor (PO).pdf', '33815264 Invalid Currency (NPO).pdf', '37151454 Process Non-PO Credit Memo (NPO).pdf', '24280319 Currency Mismatch (PO).pdf', '30313542 Suspected Duplicate (PO).pdf', '37691076 Please Index (PO).pdf', '28536941 Invalid Recipient VAT Number (PO).pdf', '12124087 Mismatch PepsiCo Company Name (PO).pdf'] | fname=SCAN
+[2026-02-10 18:30:49] [DEBUG   ] [MainProcess] Queuing file: 12124087 Mismatch PepsiCo Company Name (PO).pdf (0.04 MB) | fname=12124087 Mismatch PepsiCo Company Name (PO).pdf
+[2026-02-10 18:30:49] [DEBUG   ] [MainProcess] Queuing file: 23867942 Invoice Older than Allowed (PO).pdf (0.11 MB) | fname=23867942 Invoice Older than Allowed (PO).pdf
+[2026-02-10 18:30:49] [DEBUG   ] [MainProcess] Queuing file: 23996926 Manual Check of Indexing Lines (PO).pdf (0.05 MB) | fname=23996926 Manual Check of Indexing Lines (PO).pdf
+[2026-02-10 18:30:49] [DEBUG   ] [MainProcess] Queuing file: 24280319 Currency Mismatch (PO).pdf (0.01 MB) | fname=24280319 Currency Mismatch (PO).pdf
+[2026-02-10 18:30:49] [DEBUG   ] [MainProcess] Queuing file: 24551639 Process PO Invoice (PO).pdf (0.03 MB) | fname=24551639 Process PO Invoice (PO).pdf
+[2026-02-10 18:30:49] [DEBUG   ] [MainProcess] Queuing file: 28536941 Invalid Recipient VAT Number (PO).pdf (0.06 MB) | fname=28536941 Invalid Recipient VAT Number (PO).pdf
+[2026-02-10 18:30:49] [DEBUG   ] [MainProcess] Queuing file: 30313542 Suspected Duplicate (PO).pdf (0.03 MB) | fname=30313542 Suspected Duplicate (PO).pdf
+[2026-02-10 18:30:49] [DEBUG   ] [MainProcess] Queuing file: 32527148 UOM Mismatch (PO).pdf (0.04 MB) | fname=32527148 UOM Mismatch (PO).pdf
+[2026-02-10 18:30:49] [DEBUG   ] [MainProcess] Queuing file: 33365033 Unable to Determine Company Code (NPO).pdf (0.05 MB) | fname=33365033 Unable to Determine Company Code (NPO).pdf
+[2026-02-10 18:30:49] [DEBUG   ] [MainProcess] Queuing file: 33815264 Invalid Currency (NPO).pdf (0.06 MB) | fname=33815264 Invalid Currency (NPO).pdf
+[2026-02-10 18:30:49] [DEBUG   ] [MainProcess] Queuing file: 34046864 Invalid Tax Info. (PO).pdf (0.02 MB) | fname=34046864 Invalid Tax Info. (PO).pdf
+[2026-02-10 18:30:49] [DEBUG   ] [MainProcess] Queuing file: 34260911 Missing Item Qty. (PO).pdf (0.04 MB) | fname=34260911 Missing Item Qty. (PO).pdf
+[2026-02-10 18:30:49] [DEBUG   ] [MainProcess] Queuing file: 34388480 Invalid Requestor ID (NPO).pdf (0.03 MB) | fname=34388480 Invalid Requestor ID (NPO).pdf
+[2026-02-10 18:30:49] [DEBUG   ] [MainProcess] Queuing file: 34606454 Multiple Bank Accounts Exist (PO).pdf (0.06 MB) | fname=34606454 Multiple Bank Accounts Exist (PO).pdf
+[2026-02-10 18:30:49] [DEBUG   ] [MainProcess] Queuing file: 34728178 Vendor Mismatch (PO).pdf (0.04 MB) | fname=34728178 Vendor Mismatch (PO).pdf
+[2026-02-10 18:30:49] [DEBUG   ] [MainProcess] Queuing file: 35294023 Please Index (NPO).pdf (0.04 MB) | fname=35294023 Please Index (NPO).pdf
+[2026-02-10 18:30:49] [DEBUG   ] [MainProcess] Queuing file: 35659400  Company Code Mismatch (PO).pdf (0.07 MB) | fname=35659400  Company Code Mismatch (PO).pdf
+[2026-02-10 18:30:49] [DEBUG   ] [MainProcess] Queuing file: 36114864 Invalid Tax Info (NPO).pdf (0.06 MB) | fname=36114864 Invalid Tax Info (NPO).pdf
+[2026-02-10 18:30:49] [DEBUG   ] [MainProcess] Queuing file: 36289412 Missing Invoice Date (PO).pdf (0.03 MB) | fname=36289412 Missing Invoice Date (PO).pdf
+[2026-02-10 18:30:49] [DEBUG   ] [MainProcess] Queuing file: 36289708  Process Non Invoice Document.pdf (0.05 MB) | fname=36289708  Process Non Invoice Document.pdf
+[2026-02-10 18:30:49] [DEBUG   ] [MainProcess] Queuing file: 36292740 Suspected Duplicate (NPO).pdf (0.03 MB) | fname=36292740 Suspected Duplicate (NPO).pdf
+[2026-02-10 18:30:49] [DEBUG   ] [MainProcess] Queuing file: 36364887 Accounting Vendor Maintenance Required (PO).pdf (0.02 MB) | fname=36364887 Accounting Vendor Maintenance Required (PO).pdf
+[2026-02-10 18:30:49] [DEBUG   ] [MainProcess] Queuing file: 36532827   Missing Mandatory Information (NPO).pdf (0.02 MB) | fname=36532827   Missing Mandatory Information (NPO).pdf
+[2026-02-10 18:30:49] [DEBUG   ] [MainProcess] Queuing file: 36761716 Invoice Older than Allowed (NPO).pdf (0.03 MB) | fname=36761716 Invoice Older than Allowed (NPO).pdf
+[2026-02-10 18:30:49] [DEBUG   ] [MainProcess] Queuing file: 37151454 Process Non-PO Credit Memo (NPO).pdf (0.04 MB) | fname=37151454 Process Non-PO Credit Memo (NPO).pdf
+[2026-02-10 18:30:49] [DEBUG   ] [MainProcess] Queuing file: 37290355 Process PO Credit Memo (PO).pdf (0.03 MB) | fname=37290355 Process PO Credit Memo (PO).pdf
+[2026-02-10 18:30:49] [DEBUG   ] [MainProcess] Queuing file: 37371307 Invalid Currency (PO).pdf (0.03 MB) | fname=37371307 Invalid Currency (PO).pdf
+[2026-02-10 18:30:49] [DEBUG   ] [MainProcess] Queuing file: 37451662 Missing Vendor Invoice Reference Number (NPO).pdf (0.06 MB) | fname=37451662 Missing Vendor Invoice Reference Number (NPO).pdf
+[2026-02-10 18:30:49] [DEBUG   ] [MainProcess] Queuing file: 37654394 Invalid PO Number (PO).pdf (0.01 MB) | fname=37654394 Invalid PO Number (PO).pdf
+[2026-02-10 18:30:49] [DEBUG   ] [MainProcess] Queuing file: 37689388 Process Non-PO Invoice (NPO).pdf (0.02 MB) | fname=37689388 Process Non-PO Invoice (NPO).pdf
+[2026-02-10 18:30:49] [DEBUG   ] [MainProcess] Queuing file: 37689884 Invalid Vendor (NPO).pdf (0.04 MB) | fname=37689884 Invalid Vendor (NPO).pdf
+[2026-02-10 18:30:49] [DEBUG   ] [MainProcess] Queuing file: 37691076 Please Index (PO).pdf (0.06 MB) | fname=37691076 Please Index (PO).pdf
+[2026-02-10 18:30:49] [DEBUG   ] [MainProcess] Queuing file: 37691214 Missing Vendor Invoice Reference (PO).pdf (0.18 MB) | fname=37691214 Missing Vendor Invoice Reference (PO).pdf
+[2026-02-10 18:30:49] [DEBUG   ] [MainProcess] Queuing file: 37692967 Invalid UOM (PO).pdf (0.10 MB) | fname=37692967 Invalid UOM (PO).pdf
+[2026-02-10 18:30:49] [DEBUG   ] [MainProcess] Queuing file: 37768719 Approval Required (NPO).pdf (0.02 MB) | fname=37768719 Approval Required (NPO).pdf
+[2026-02-10 18:30:49] [DEBUG   ] [MainProcess] Queuing file: 37794522 Invalid Vendor (PO).pdf (0.09 MB) | fname=37794522 Invalid Vendor (PO).pdf
+[2026-02-10 18:30:49] [INFO    ] [MainProcess] Files to process: 36, Skipped: 0 | fname=SCAN
+[2026-02-10 18:30:49] [INFO    ] [MainProcess] Multiprocessing start method set to 'spawn' | fname=INIT
+[2026-02-10 18:30:49] [DEBUG   ] [MainProcess] Task queue created with maxsize=5 | fname=INIT
+[2026-02-10 18:30:49] [INFO    ] [MainProcess] Spawning 1 worker processes... | fname=INIT
+[2026-02-10 18:30:49] [INFO    ] [MainProcess] Worker-0 started (PID=30592) | fname=INIT
+[2026-02-10 18:30:49] [INFO    ] [MainProcess] Enqueuing 36 file(s)... | fname=ENQUEUE
+[2026-02-10 18:30:49] [DEBUG   ] [MainProcess] Putting file 1/36 into queue | fname=12124087 Mismatch PepsiCo Company Name (PO).pdf
+[2026-02-10 18:30:49] [DEBUG   ] [MainProcess] File enqueued successfully (1/36) | fname=12124087 Mismatch PepsiCo Company Name (PO).pdf
+[2026-02-10 18:30:49] [INFO    ] [MainProcess] All 36 files enqueued in 0.002s | fname=ENQUEUE
+[2026-02-10 18:30:49] [INFO    ] [MainProcess] Sending 1 sentinel(s) to shut down workers | fname=SHUTDOWN
+[2026-02-10 18:30:49] [DEBUG   ] [MainProcess] All sentinels sent | fname=SHUTDOWN
+[2026-02-10 18:30:49] [INFO    ] [MainProcess] Waiting for workers to finish... | fname=SHUTDOWN
+[2026-02-10 18:30:50] [INFO    ] [Worker-0] Worker-0 process started (PID=30592) | fname=INIT
+[2026-02-10 18:30:50] [INFO    ] [Worker-0] Thread env — OMP=7, MKL=7, NUMEXPR=7 | fname=INIT
+[2026-02-10 18:30:50] [INFO    ] [Worker-0] Worker-0 initializing PaddleOCR model... | fname=INIT
+[2026-02-10 18:30:57] [INFO    ] [Worker-0] Worker-0 PaddleOCR model initialized in 7.57s | fname=INIT
+[2026-02-10 18:30:57] [INFO    ] [Worker-0] Worker-0 entering processing loop | fname=INIT
+[2026-02-10 18:30:57] [DEBUG   ] [Worker-0] Worker-0 waiting for next task from queue | fname=QUEUE_WAIT
+[2026-02-10 18:30:57] [INFO    ] [Worker-0] Worker-0 picked up task | fname=12124087 Mismatch PepsiCo Company Name (PO).pdf
+[2026-02-10 18:30:57] [INFO    ] [Worker-0] Worker-0 starting OCR (0.04 MB) | fname=12124087 Mismatch PepsiCo Company Name (PO).pdf
+[2026-02-10 18:31:24] [INFO    ] [Worker-0] Worker-0 OCR completed in 26.79s | fname=12124087 Mismatch PepsiCo Company Name (PO).pdf
+[2026-02-10 18:31:24] [DEBUG   ] [Worker-0] Page 1: 116 segments, 116 kept after confidence filter
+[2026-02-10 18:31:24] [DEBUG   ] [Worker-0] Page 2: 10 segments, 10 kept after confidence filter
+[2026-02-10 18:31:24] [INFO    ] [Worker-0] Worker-0 merge_text_with_spaces produced 78 lines from 2 page(s) | fname=12124087 Mismatch PepsiCo Company Name (PO).pdf
+[2026-02-10 18:31:24] [INFO    ] [Worker-0] Worker-0 output written to ./ocr_output/12124087 Mismatch PepsiCo Company Name (PO).pdf.txt (0.0001s) | fname=12124087 Mismatch PepsiCo Company Name (PO).pdf
+[2026-02-10 18:31:24] [INFO    ] [Worker-0] Worker-0 calling LLM API (78 lines) | fname=12124087 Mismatch PepsiCo Company Name (PO).pdf
+[2026-02-10 18:31:39] [INFO    ] [Worker-0] Worker-0 LLM response status=200 in 14.93s | fname=12124087 Mismatch PepsiCo Company Name (PO).pdf
+[2026-02-10 18:31:39] [INFO    ] [Worker-0] Worker-0 LLM invoice_data fields: | fname=12124087 Mismatch PepsiCo Company Name (PO).pdf
+[2026-02-10 18:31:39] [INFO    ] [Worker-0]   invoice_number: 9926054447 | fname=12124087 Mismatch PepsiCo Company Name (PO).pdf
+[2026-02-10 18:31:39] [INFO    ] [Worker-0]   invoice_date: Wednesday 6 Dec 2023 7:00 AM GMT-05:00 | fname=12124087 Mismatch PepsiCo Company Name (PO).pdf
+[2026-02-10 18:31:39] [INFO    ] [Worker-0]   invoice_receipt_date: None | fname=12124087 Mismatch PepsiCo Company Name (PO).pdf
+[2026-02-10 18:31:39] [INFO    ] [Worker-0]   invoice_amount: 42.34 | fname=12124087 Mismatch PepsiCo Company Name (PO).pdf
+[2026-02-10 18:31:39] [INFO    ] [Worker-0]   invoice_currency: ['CAD'] | fname=12124087 Mismatch PepsiCo Company Name (PO).pdf
+[2026-02-10 18:31:39] [INFO    ] [Worker-0]   stamp_number: None | fname=12124087 Mismatch PepsiCo Company Name (PO).pdf
+[2026-02-10 18:31:39] [INFO    ] [Worker-0]   vendor_name: ACKLANDS-GRAINGER INC. | fname=12124087 Mismatch PepsiCo Company Name (PO).pdf
+[2026-02-10 18:31:39] [INFO    ] [Worker-0]   remit_to_address: PO BOX 2970, WINNIPEG, MB, R3C 4B5, Canada | fname=12124087 Mismatch PepsiCo Company Name (PO).pdf
+[2026-02-10 18:31:39] [INFO    ] [Worker-0]   bill_to_entity: EDI ONLY PEPSI FOODS ULC | fname=12124087 Mismatch PepsiCo Company Name (PO).pdf
+[2026-02-10 18:31:39] [INFO    ] [Worker-0]   bill_to_address: 2095 MATHESON BLVD E, MISSISSAUGA, ON, L4W 0G2, Canada | fname=12124087 Mismatch PepsiCo Company Name (PO).pdf
+[2026-02-10 18:31:39] [INFO    ] [Worker-0]   payment_terms: None | fname=12124087 Mismatch PepsiCo Company Name (PO).pdf
+[2026-02-10 18:31:39] [INFO    ] [Worker-0]   payment_method: None | fname=12124087 Mismatch PepsiCo Company Name (PO).pdf
+[2026-02-10 18:31:39] [INFO    ] [Worker-0]   gl_account: None | fname=12124087 Mismatch PepsiCo Company Name (PO).pdf
+[2026-02-10 18:31:39] [INFO    ] [Worker-0]   bank_name: None | fname=12124087 Mismatch PepsiCo Company Name (PO).pdf
+[2026-02-10 18:31:39] [INFO    ] [Worker-0]   account_holder_name: None | fname=12124087 Mismatch PepsiCo Company Name (PO).pdf
+[2026-02-10 18:31:39] [INFO    ] [Worker-0]   banking_account_number: None | fname=12124087 Mismatch PepsiCo Company Name (PO).pdf
+[2026-02-10 18:31:39] [INFO    ] [Worker-0]   vat_tax_code: None | fname=12124087 Mismatch PepsiCo Company Name (PO).pdf
+[2026-02-10 18:31:39] [INFO    ] [Worker-0]   vat_amount: 4.54 | fname=12124087 Mismatch PepsiCo Company Name (PO).pdf
+[2026-02-10 18:31:39] [INFO    ] [Worker-0]   transaction_type: debit | fname=12124087 Mismatch PepsiCo Company Name (PO).pdf
+[2026-02-10 18:31:39] [INFO    ] [Worker-0] Worker-0 LLM raw_response fields: | fname=12124087 Mismatch PepsiCo Company Name (PO).pdf
+[2026-02-10 18:31:39] [INFO    ] [Worker-0]   invoice_number: 9926054447 | fname=12124087 Mismatch PepsiCo Company Name (PO).pdf
+[2026-02-10 18:31:39] [INFO    ] [Worker-0]   invoice_date: Wednesday 6 Dec 2023 7:00 AM GMT-05:00 | fname=12124087 Mismatch PepsiCo Company Name (PO).pdf
+[2026-02-10 18:31:39] [INFO    ] [Worker-0]   invoice_receipt_date: None | fname=12124087 Mismatch PepsiCo Company Name (PO).pdf
+[2026-02-10 18:31:39] [INFO    ] [Worker-0]   invoice_amount: 42.34 | fname=12124087 Mismatch PepsiCo Company Name (PO).pdf
+[2026-02-10 18:31:39] [INFO    ] [Worker-0]   invoice_currency: ['CAD'] | fname=12124087 Mismatch PepsiCo Company Name (PO).pdf
+[2026-02-10 18:31:39] [INFO    ] [Worker-0]   stamp_number: None | fname=12124087 Mismatch PepsiCo Company Name (PO).pdf
+[2026-02-10 18:31:39] [INFO    ] [Worker-0]   vendor_name: ACKLANDS-GRAINGER INC. | fname=12124087 Mismatch PepsiCo Company Name (PO).pdf
+[2026-02-10 18:31:39] [INFO    ] [Worker-0]   remit_to_address: PO BOX 2970, WINNIPEG, MB, R3C 4B5, Canada | fname=12124087 Mismatch PepsiCo Company Name (PO).pdf
+[2026-02-10 18:31:39] [INFO    ] [Worker-0]   bill_to_entity: EDI ONLY PEPSI FOODS ULC | fname=12124087 Mismatch PepsiCo Company Name (PO).pdf
+[2026-02-10 18:31:39] [INFO    ] [Worker-0]   bill_to_address: 2095 MATHESON BLVD E, MISSISSAUGA, ON, L4W 0G2, Canada | fname=12124087 Mismatch PepsiCo Company Name (PO).pdf
+[2026-02-10 18:31:39] [INFO    ] [Worker-0]   payment_terms: None | fname=12124087 Mismatch PepsiCo Company Name (PO).pdf
+[2026-02-10 18:31:39] [INFO    ] [Worker-0]   payment_method: None | fname=12124087 Mismatch PepsiCo Company Name (PO).pdf
+[2026-02-10 18:31:39] [INFO    ] [Worker-0]   gl_account: None | fname=12124087 Mismatch PepsiCo Company Name (PO).pdf
+[2026-02-10 18:31:39] [INFO    ] [Worker-0]   bank_name: None | fname=12124087 Mismatch PepsiCo Company Name (PO).pdf
+[2026-02-10 18:31:39] [INFO    ] [Worker-0]   account_holder_name: None | fname=12124087 Mismatch PepsiCo Company Name (PO).pdf
+[2026-02-10 18:31:39] [INFO    ] [Worker-0]   banking_account_number: None | fname=12124087 Mismatch PepsiCo Company Name (PO).pdf
+[2026-02-10 18:31:39] [INFO    ] [Worker-0]   vat_tax_code: None | fname=12124087 Mismatch PepsiCo Company Name (PO).pdf
+[2026-02-10 18:31:39] [INFO    ] [Worker-0]   vat_amount: 4.54 | fname=12124087 Mismatch PepsiCo Company Name (PO).pdf
+[2026-02-10 18:31:39] [INFO    ] [Worker-0]   transaction_type: None | fname=12124087 Mismatch PepsiCo Company Name (PO).pdf
+[2026-02-10 18:31:39] [INFO    ] [Worker-0] Worker-0 LLM result saved to ./ocr_output/12124087 Mismatch PepsiCo Company Name (PO).pdf.llm.json | fname=12124087 Mismatch PepsiCo Company Name (PO).pdf
+[2026-02-10 18:31:39] [INFO    ] [Worker-0] Worker-0 completed (OCR=26.79s, total=41.73s) | fname=12124087 Mismatch PepsiCo Company Name (PO).pdf
+[2026-02-10 18:31:39] [DEBUG   ] [Worker-0] Worker-0 waiting for next task from queue | fname=QUEUE_WAIT
+[2026-02-10 18:31:39] [INFO    ] [Worker-0] Worker-0 received sentinel. Shutting down. | fname=SENTINEL
+[2026-02-10 18:31:39] [INFO    ] [Worker-0] Worker-0 summary — processed=1, failed=0, total_ocr_time=26.79s, avg_ocr_per_file=26.79s, model_init_time=7.57s | fname=SUMMARY
+[2026-02-10 18:31:39] [INFO    ] [Worker-0] Worker-0 exiting | fname=SHUTDOWN
+[2026-02-10 18:31:40] [INFO    ] [MainProcess] Worker Worker-0 (PID=30592) joined — OK | fname=SHUTDOWN
+[2026-02-10 18:31:40] [INFO    ] [MainProcess] ========== OCR Pipeline Complete ========== | fname=DONE
+[2026-02-10 18:31:40] [INFO    ] [MainProcess] Total files processed : 36 | fname=DONE
+[2026-02-10 18:31:40] [INFO    ] [MainProcess] Total wall-clock time : 50.45s | fname=DONE
+[2026-02-10 18:31:40] [INFO    ] [MainProcess] Average time per file : 1.40s | fname=DONE
+[2026-02-10 18:31:40] [INFO    ] [MainProcess] Log saved to          : ./logs/ocr_run_20260210_183049.log | fname=DONE
