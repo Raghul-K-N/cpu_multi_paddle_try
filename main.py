@@ -7,13 +7,13 @@ import multiprocessing as mp
 from datetime import datetime
 from ocr_worker import ocr_worker
 
-INPUT_DIR = "./attachments"
+INPUT_DIR = "./pepsico_attachments"
 OUTPUT_DIR = "./ocr_output"
 LOG_DIR = "./logs"
-NUM_WORKERS = 8
+NUM_WORKERS = 10
 QUEUE_SIZE = 5  # bounded queue
 TOTAL_CPUS = os.cpu_count() or 4  # auto-detect available vCPUs
-threads_per_paddle = 3
+threads_per_paddle = 5
 SUPPORTED_EXTENSIONS = {".pdf", ".png", ".jpg", ".jpeg", ".bmp", ".tiff", ".tif", ".webp"}
 
 # Sentinel value to signal workers to shut down cleanly
