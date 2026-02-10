@@ -10,8 +10,8 @@ from ocr_worker import ocr_worker
 INPUT_DIR = "./attachments"
 OUTPUT_DIR = "./ocr_output"
 LOG_DIR = "./logs"
-NUM_WORKERS = 4
-QUEUE_SIZE = 8  # bounded queue
+NUM_WORKERS = 1
+QUEUE_SIZE = 5  # bounded queue
 TOTAL_CPUS = os.cpu_count() or 4  # auto-detect available vCPUs
 threads_per_paddle = 5
 SUPPORTED_EXTENSIONS = {".pdf", ".png", ".jpg", ".jpeg", ".bmp", ".tiff", ".tif", ".webp"}
