@@ -10,7 +10,7 @@ from ocr_worker import ocr_worker
 INPUT_DIR = "./attachments"
 OUTPUT_DIR = "./ocr_output"
 LOG_DIR = "./logs"
-NUM_WORKERS = 1
+NUM_WORKERS = 2
 QUEUE_SIZE = 5  # bounded queue
 SUPPORTED_EXTENSIONS = {".pdf", ".png", ".jpg", ".jpeg", ".bmp", ".tiff", ".tif", ".webp"}
 
