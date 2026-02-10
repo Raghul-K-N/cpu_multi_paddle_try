@@ -1,0 +1,260 @@
+[2026-02-10 09:12:44] [INFO    ] [MainProcess] Log file created: ./logs/ocr_run_20260210_091244.log | fname=
+[2026-02-10 09:12:44] [INFO    ] [MainProcess] ========== OCR Pipeline Starting ========== | fname=INIT
+[2026-02-10 09:12:44] [INFO    ] [MainProcess] Input directory : /home/whirldata/cpu_multi_paddle_try/attachments | fname=INIT
+[2026-02-10 09:12:44] [INFO    ] [MainProcess] Output directory: /home/whirldata/cpu_multi_paddle_try/ocr_output | fname=INIT
+[2026-02-10 09:12:44] [INFO    ] [MainProcess] Total vCPUs     : 30 | fname=INIT
+[2026-02-10 09:12:44] [INFO    ] [MainProcess] Num workers     : 5 | fname=INIT
+[2026-02-10 09:12:44] [INFO    ] [MainProcess] Threads/worker  : 5 | fname=INIT
+[2026-02-10 09:12:44] [INFO    ] [MainProcess] Queue size      : 8 | fname=INIT
+[2026-02-10 09:12:44] [INFO    ] [MainProcess] Supported exts  : {'.pdf', '.tiff', '.jpg', '.webp', '.bmp', '.png', '.jpeg', '.tif'} | fname=INIT
+[2026-02-10 09:12:44] [INFO    ] [MainProcess] Total entries found in input directory: 18 | fname=SCAN
+[2026-02-10 09:12:44] [DEBUG   ] [MainProcess] All entries: ['0001_1700000449_2025_01.PDF', '0001_1700000356_2025_01.PDF', '0001_1700000446_2025_01.PDF', '0001_1700000354_2025_02.PDF', '0001_1700000451_2025_01.PDF', '0001_1700000448_2025_01.PDF', '0002_1700000096_2025_01.PDF', '0001_1700000455_2025_01.PDF', '0001_1700000452_2025_01.PDF', '0001_1700000356_2025_02.PDF', '0001_1700000447_2025_01.PDF', '0001_1700000454_2025_01.PDF', '0001_1700000163_2025_01.PDF', '0001_1700000450_2025_01.PDF', '0038_1700000012_2025_01.PDF', '0001_1700000354_2025_03.PDF', '0002_1700000095_2025_01.PDF', '0001_1700000445_2025_01.PDF'] | fname=SCAN
+[2026-02-10 09:12:44] [DEBUG   ] [MainProcess] Queuing file: 0001_1700000163_2025_01.PDF (0.02 MB) | fname=0001_1700000163_2025_01.PDF
+[2026-02-10 09:12:44] [DEBUG   ] [MainProcess] Queuing file: 0001_1700000354_2025_02.PDF (0.02 MB) | fname=0001_1700000354_2025_02.PDF
+[2026-02-10 09:12:44] [DEBUG   ] [MainProcess] Queuing file: 0001_1700000354_2025_03.PDF (0.30 MB) | fname=0001_1700000354_2025_03.PDF
+[2026-02-10 09:12:44] [DEBUG   ] [MainProcess] Queuing file: 0001_1700000356_2025_01.PDF (0.30 MB) | fname=0001_1700000356_2025_01.PDF
+[2026-02-10 09:12:44] [DEBUG   ] [MainProcess] Queuing file: 0001_1700000356_2025_02.PDF (0.02 MB) | fname=0001_1700000356_2025_02.PDF
+[2026-02-10 09:12:44] [DEBUG   ] [MainProcess] Queuing file: 0001_1700000445_2025_01.PDF (0.02 MB) | fname=0001_1700000445_2025_01.PDF
+[2026-02-10 09:12:44] [DEBUG   ] [MainProcess] Queuing file: 0001_1700000446_2025_01.PDF (0.25 MB) | fname=0001_1700000446_2025_01.PDF
+[2026-02-10 09:12:44] [DEBUG   ] [MainProcess] Queuing file: 0001_1700000447_2025_01.PDF (0.08 MB) | fname=0001_1700000447_2025_01.PDF
+[2026-02-10 09:12:44] [DEBUG   ] [MainProcess] Queuing file: 0001_1700000448_2025_01.PDF (0.76 MB) | fname=0001_1700000448_2025_01.PDF
+[2026-02-10 09:12:44] [DEBUG   ] [MainProcess] Queuing file: 0001_1700000449_2025_01.PDF (0.28 MB) | fname=0001_1700000449_2025_01.PDF
+[2026-02-10 09:12:44] [DEBUG   ] [MainProcess] Queuing file: 0001_1700000450_2025_01.PDF (0.28 MB) | fname=0001_1700000450_2025_01.PDF
+[2026-02-10 09:12:44] [DEBUG   ] [MainProcess] Queuing file: 0001_1700000451_2025_01.PDF (0.01 MB) | fname=0001_1700000451_2025_01.PDF
+[2026-02-10 09:12:44] [DEBUG   ] [MainProcess] Queuing file: 0001_1700000452_2025_01.PDF (0.01 MB) | fname=0001_1700000452_2025_01.PDF
+[2026-02-10 09:12:44] [DEBUG   ] [MainProcess] Queuing file: 0001_1700000454_2025_01.PDF (0.01 MB) | fname=0001_1700000454_2025_01.PDF
+[2026-02-10 09:12:44] [DEBUG   ] [MainProcess] Queuing file: 0001_1700000455_2025_01.PDF (0.25 MB) | fname=0001_1700000455_2025_01.PDF
+[2026-02-10 09:12:44] [DEBUG   ] [MainProcess] Queuing file: 0002_1700000095_2025_01.PDF (0.22 MB) | fname=0002_1700000095_2025_01.PDF
+[2026-02-10 09:12:44] [DEBUG   ] [MainProcess] Queuing file: 0002_1700000096_2025_01.PDF (0.24 MB) | fname=0002_1700000096_2025_01.PDF
+[2026-02-10 09:12:44] [DEBUG   ] [MainProcess] Queuing file: 0038_1700000012_2025_01.PDF (0.17 MB) | fname=0038_1700000012_2025_01.PDF
+[2026-02-10 09:12:44] [INFO    ] [MainProcess] Files to process: 18, Skipped: 0 | fname=SCAN
+[2026-02-10 09:12:44] [INFO    ] [MainProcess] Multiprocessing start method set to 'spawn' | fname=INIT
+[2026-02-10 09:12:44] [DEBUG   ] [MainProcess] Task queue created with maxsize=8 | fname=INIT
+[2026-02-10 09:12:44] [INFO    ] [MainProcess] Spawning 5 worker processes... | fname=INIT
+[2026-02-10 09:12:44] [INFO    ] [MainProcess] Worker-0 started (PID=33115) | fname=INIT
+[2026-02-10 09:12:44] [INFO    ] [MainProcess] Worker-1 started (PID=33116) | fname=INIT
+[2026-02-10 09:12:44] [INFO    ] [MainProcess] Worker-2 started (PID=33117) | fname=INIT
+[2026-02-10 09:12:44] [INFO    ] [MainProcess] Worker-3 started (PID=33118) | fname=INIT
+[2026-02-10 09:12:44] [INFO    ] [MainProcess] Worker-4 started (PID=33119) | fname=INIT
+[2026-02-10 09:12:44] [INFO    ] [MainProcess] Enqueuing 18 file(s)... | fname=ENQUEUE
+[2026-02-10 09:12:44] [DEBUG   ] [MainProcess] Putting file 1/18 into queue | fname=0001_1700000163_2025_01.PDF
+[2026-02-10 09:12:44] [DEBUG   ] [MainProcess] File enqueued successfully (1/18) | fname=0001_1700000163_2025_01.PDF
+[2026-02-10 09:12:44] [DEBUG   ] [MainProcess] Putting file 2/18 into queue | fname=0001_1700000354_2025_02.PDF
+[2026-02-10 09:12:44] [DEBUG   ] [MainProcess] File enqueued successfully (2/18) | fname=0001_1700000354_2025_02.PDF
+[2026-02-10 09:12:44] [DEBUG   ] [MainProcess] Putting file 3/18 into queue | fname=0001_1700000354_2025_03.PDF
+[2026-02-10 09:12:44] [DEBUG   ] [MainProcess] File enqueued successfully (3/18) | fname=0001_1700000354_2025_03.PDF
+[2026-02-10 09:12:44] [DEBUG   ] [MainProcess] Putting file 4/18 into queue | fname=0001_1700000356_2025_01.PDF
+[2026-02-10 09:12:44] [DEBUG   ] [MainProcess] File enqueued successfully (4/18) | fname=0001_1700000356_2025_01.PDF
+[2026-02-10 09:12:44] [DEBUG   ] [MainProcess] Putting file 5/18 into queue | fname=0001_1700000356_2025_02.PDF
+[2026-02-10 09:12:44] [DEBUG   ] [MainProcess] File enqueued successfully (5/18) | fname=0001_1700000356_2025_02.PDF
+[2026-02-10 09:12:44] [DEBUG   ] [MainProcess] Putting file 6/18 into queue | fname=0001_1700000445_2025_01.PDF
+[2026-02-10 09:12:44] [DEBUG   ] [MainProcess] File enqueued successfully (6/18) | fname=0001_1700000445_2025_01.PDF
+[2026-02-10 09:12:44] [DEBUG   ] [MainProcess] Putting file 7/18 into queue | fname=0001_1700000446_2025_01.PDF
+[2026-02-10 09:12:44] [DEBUG   ] [MainProcess] File enqueued successfully (7/18) | fname=0001_1700000446_2025_01.PDF
+[2026-02-10 09:12:44] [DEBUG   ] [MainProcess] Putting file 8/18 into queue | fname=0001_1700000447_2025_01.PDF
+[2026-02-10 09:12:44] [DEBUG   ] [MainProcess] File enqueued successfully (8/18) | fname=0001_1700000447_2025_01.PDF
+[2026-02-10 09:12:44] [DEBUG   ] [MainProcess] Putting file 9/18 into queue | fname=0001_1700000448_2025_01.PDF
+[2026-02-10 09:12:44] [INFO    ] [Worker-0] Worker-0 process started (PID=33115) | fname=INIT
+[2026-02-10 09:12:44] [INFO    ] [Worker-0] Thread env — OMP=5, MKL=5, NUMEXPR=5 | fname=INIT
+[2026-02-10 09:12:44] [INFO    ] [Worker-0] Worker-0 initializing PaddleOCR model... | fname=INIT
+[2026-02-10 09:12:44] [INFO    ] [Worker-1] Worker-1 process started (PID=33116) | fname=INIT
+[2026-02-10 09:12:44] [INFO    ] [Worker-1] Thread env — OMP=5, MKL=5, NUMEXPR=5 | fname=INIT
+[2026-02-10 09:12:44] [INFO    ] [Worker-1] Worker-1 initializing PaddleOCR model... | fname=INIT
+[2026-02-10 09:12:44] [INFO    ] [Worker-2] Worker-2 process started (PID=33117) | fname=INIT
+[2026-02-10 09:12:44] [INFO    ] [Worker-2] Thread env — OMP=5, MKL=5, NUMEXPR=5 | fname=INIT
+[2026-02-10 09:12:44] [INFO    ] [Worker-2] Worker-2 initializing PaddleOCR model... | fname=INIT
+[2026-02-10 09:12:44] [INFO    ] [Worker-4] Worker-4 process started (PID=33119) | fname=INIT
+[2026-02-10 09:12:44] [INFO    ] [Worker-4] Thread env — OMP=5, MKL=5, NUMEXPR=5 | fname=INIT
+[2026-02-10 09:12:44] [INFO    ] [Worker-4] Worker-4 initializing PaddleOCR model... | fname=INIT
+[2026-02-10 09:12:44] [INFO    ] [Worker-3] Worker-3 process started (PID=33118) | fname=INIT
+[2026-02-10 09:12:44] [INFO    ] [Worker-3] Thread env — OMP=5, MKL=5, NUMEXPR=5 | fname=INIT
+[2026-02-10 09:12:44] [INFO    ] [Worker-3] Worker-3 initializing PaddleOCR model... | fname=INIT
+[2026-02-10 09:12:51] [INFO    ] [Worker-3] Worker-3 PaddleOCR model initialized in 7.05s | fname=INIT
+[2026-02-10 09:12:51] [INFO    ] [Worker-3] Worker-3 entering processing loop | fname=INIT
+[2026-02-10 09:12:51] [DEBUG   ] [Worker-3] Worker-3 waiting for next task from queue | fname=QUEUE_WAIT
+[2026-02-10 09:12:51] [INFO    ] [Worker-3] Worker-3 picked up task | fname=0001_1700000163_2025_01.PDF
+[2026-02-10 09:12:51] [INFO    ] [Worker-3] Worker-3 starting OCR (0.02 MB) | fname=0001_1700000163_2025_01.PDF
+[2026-02-10 09:12:51] [DEBUG   ] [MainProcess] File enqueued successfully (9/18) | fname=0001_1700000448_2025_01.PDF
+[2026-02-10 09:12:51] [DEBUG   ] [MainProcess] Putting file 10/18 into queue | fname=0001_1700000449_2025_01.PDF
+[2026-02-10 09:12:51] [INFO    ] [Worker-1] Worker-1 PaddleOCR model initialized in 7.15s | fname=INIT
+[2026-02-10 09:12:51] [INFO    ] [Worker-1] Worker-1 entering processing loop | fname=INIT
+[2026-02-10 09:12:51] [DEBUG   ] [Worker-1] Worker-1 waiting for next task from queue | fname=QUEUE_WAIT
+[2026-02-10 09:12:51] [INFO    ] [Worker-1] Worker-1 picked up task | fname=0001_1700000354_2025_02.PDF
+[2026-02-10 09:12:51] [INFO    ] [Worker-1] Worker-1 starting OCR (0.02 MB) | fname=0001_1700000354_2025_02.PDF
+[2026-02-10 09:12:51] [DEBUG   ] [MainProcess] File enqueued successfully (10/18) | fname=0001_1700000449_2025_01.PDF
+[2026-02-10 09:12:51] [DEBUG   ] [MainProcess] Putting file 11/18 into queue | fname=0001_1700000450_2025_01.PDF
+[2026-02-10 09:12:51] [INFO    ] [Worker-0] Worker-0 PaddleOCR model initialized in 7.16s | fname=INIT
+[2026-02-10 09:12:51] [INFO    ] [Worker-0] Worker-0 entering processing loop | fname=INIT
+[2026-02-10 09:12:51] [DEBUG   ] [Worker-0] Worker-0 waiting for next task from queue | fname=QUEUE_WAIT
+[2026-02-10 09:12:51] [INFO    ] [Worker-0] Worker-0 picked up task | fname=0001_1700000354_2025_03.PDF
+[2026-02-10 09:12:51] [DEBUG   ] [MainProcess] File enqueued successfully (11/18) | fname=0001_1700000450_2025_01.PDF
+[2026-02-10 09:12:51] [INFO    ] [Worker-0] Worker-0 starting OCR (0.30 MB) | fname=0001_1700000354_2025_03.PDF
+[2026-02-10 09:12:51] [DEBUG   ] [MainProcess] Putting file 12/18 into queue | fname=0001_1700000451_2025_01.PDF
+[2026-02-10 09:12:51] [INFO    ] [Worker-4] Worker-4 PaddleOCR model initialized in 7.17s | fname=INIT
+[2026-02-10 09:12:51] [INFO    ] [Worker-4] Worker-4 entering processing loop | fname=INIT
+[2026-02-10 09:12:51] [DEBUG   ] [Worker-4] Worker-4 waiting for next task from queue | fname=QUEUE_WAIT
+[2026-02-10 09:12:51] [INFO    ] [Worker-4] Worker-4 picked up task | fname=0001_1700000356_2025_01.PDF
+[2026-02-10 09:12:51] [DEBUG   ] [MainProcess] File enqueued successfully (12/18) | fname=0001_1700000451_2025_01.PDF
+[2026-02-10 09:12:51] [INFO    ] [Worker-4] Worker-4 starting OCR (0.30 MB) | fname=0001_1700000356_2025_01.PDF
+[2026-02-10 09:12:51] [DEBUG   ] [MainProcess] Putting file 13/18 into queue | fname=0001_1700000452_2025_01.PDF
+[2026-02-10 09:12:51] [INFO    ] [Worker-2] Worker-2 PaddleOCR model initialized in 7.21s | fname=INIT
+[2026-02-10 09:12:51] [INFO    ] [Worker-2] Worker-2 entering processing loop | fname=INIT
+[2026-02-10 09:12:51] [DEBUG   ] [Worker-2] Worker-2 waiting for next task from queue | fname=QUEUE_WAIT
+[2026-02-10 09:12:51] [DEBUG   ] [MainProcess] File enqueued successfully (13/18) | fname=0001_1700000452_2025_01.PDF
+[2026-02-10 09:12:51] [DEBUG   ] [MainProcess] Putting file 14/18 into queue | fname=0001_1700000454_2025_01.PDF
+[2026-02-10 09:12:51] [INFO    ] [Worker-2] Worker-2 picked up task | fname=0001_1700000356_2025_02.PDF
+[2026-02-10 09:12:51] [INFO    ] [Worker-2] Worker-2 starting OCR (0.02 MB) | fname=0001_1700000356_2025_02.PDF
+[2026-02-10 09:12:59] [INFO    ] [Worker-4] Worker-4 OCR completed in 7.91s | fname=0001_1700000356_2025_01.PDF
+[2026-02-10 09:12:59] [INFO    ] [Worker-4] Worker-4 extracted 15 lines from 1 page(s) | fname=0001_1700000356_2025_01.PDF
+[2026-02-10 09:12:59] [INFO    ] [Worker-4] Worker-4 output written to ./ocr_output/0001_1700000356_2025_01.PDF.txt (0.0002s) | fname=0001_1700000356_2025_01.PDF
+[2026-02-10 09:12:59] [INFO    ] [Worker-4] Worker-4 completed (OCR=7.91s, total=7.91s) | fname=0001_1700000356_2025_01.PDF
+[2026-02-10 09:12:59] [DEBUG   ] [Worker-4] Worker-4 waiting for next task from queue | fname=QUEUE_WAIT
+[2026-02-10 09:12:59] [INFO    ] [Worker-4] Worker-4 picked up task | fname=0001_1700000445_2025_01.PDF
+[2026-02-10 09:12:59] [INFO    ] [Worker-4] Worker-4 starting OCR (0.02 MB) | fname=0001_1700000445_2025_01.PDF
+[2026-02-10 09:12:59] [DEBUG   ] [MainProcess] File enqueued successfully (14/18) | fname=0001_1700000454_2025_01.PDF
+[2026-02-10 09:12:59] [DEBUG   ] [MainProcess] Putting file 15/18 into queue | fname=0001_1700000455_2025_01.PDF
+[2026-02-10 09:13:00] [INFO    ] [Worker-0] Worker-0 OCR completed in 8.27s | fname=0001_1700000354_2025_03.PDF
+[2026-02-10 09:13:00] [INFO    ] [Worker-0] Worker-0 extracted 15 lines from 1 page(s) | fname=0001_1700000354_2025_03.PDF
+[2026-02-10 09:13:00] [INFO    ] [Worker-0] Worker-0 output written to ./ocr_output/0001_1700000354_2025_03.PDF.txt (0.0002s) | fname=0001_1700000354_2025_03.PDF
+[2026-02-10 09:13:00] [INFO    ] [Worker-0] Worker-0 completed (OCR=8.27s, total=8.27s) | fname=0001_1700000354_2025_03.PDF
+[2026-02-10 09:13:00] [DEBUG   ] [Worker-0] Worker-0 waiting for next task from queue | fname=QUEUE_WAIT
+[2026-02-10 09:13:00] [INFO    ] [Worker-0] Worker-0 picked up task | fname=0001_1700000446_2025_01.PDF
+[2026-02-10 09:13:00] [INFO    ] [Worker-0] Worker-0 starting OCR (0.25 MB) | fname=0001_1700000446_2025_01.PDF
+[2026-02-10 09:13:00] [DEBUG   ] [MainProcess] File enqueued successfully (15/18) | fname=0001_1700000455_2025_01.PDF
+[2026-02-10 09:13:00] [DEBUG   ] [MainProcess] Putting file 16/18 into queue | fname=0002_1700000095_2025_01.PDF
+[2026-02-10 09:13:06] [INFO    ] [Worker-3] Worker-3 OCR completed in 14.53s | fname=0001_1700000163_2025_01.PDF
+[2026-02-10 09:13:06] [INFO    ] [Worker-3] Worker-3 extracted 30 lines from 2 page(s) | fname=0001_1700000163_2025_01.PDF
+[2026-02-10 09:13:06] [INFO    ] [Worker-3] Worker-3 output written to ./ocr_output/0001_1700000163_2025_01.PDF.txt (0.0002s) | fname=0001_1700000163_2025_01.PDF
+[2026-02-10 09:13:06] [INFO    ] [Worker-3] Worker-3 completed (OCR=14.53s, total=14.53s) | fname=0001_1700000163_2025_01.PDF
+[2026-02-10 09:13:06] [DEBUG   ] [Worker-3] Worker-3 waiting for next task from queue | fname=QUEUE_WAIT
+[2026-02-10 09:13:06] [INFO    ] [Worker-3] Worker-3 picked up task | fname=0001_1700000447_2025_01.PDF
+[2026-02-10 09:13:06] [INFO    ] [Worker-3] Worker-3 starting OCR (0.08 MB) | fname=0001_1700000447_2025_01.PDF
+[2026-02-10 09:13:06] [DEBUG   ] [MainProcess] File enqueued successfully (16/18) | fname=0002_1700000095_2025_01.PDF
+[2026-02-10 09:13:06] [DEBUG   ] [MainProcess] Putting file 17/18 into queue | fname=0002_1700000096_2025_01.PDF
+[2026-02-10 09:13:08] [INFO    ] [Worker-1] Worker-1 OCR completed in 16.59s | fname=0001_1700000354_2025_02.PDF
+[2026-02-10 09:13:08] [INFO    ] [Worker-1] Worker-1 extracted 30 lines from 2 page(s) | fname=0001_1700000354_2025_02.PDF
+[2026-02-10 09:13:08] [INFO    ] [Worker-1] Worker-1 output written to ./ocr_output/0001_1700000354_2025_02.PDF.txt (0.0001s) | fname=0001_1700000354_2025_02.PDF
+[2026-02-10 09:13:08] [INFO    ] [Worker-1] Worker-1 completed (OCR=16.59s, total=16.59s) | fname=0001_1700000354_2025_02.PDF
+[2026-02-10 09:13:08] [DEBUG   ] [Worker-1] Worker-1 waiting for next task from queue | fname=QUEUE_WAIT
+[2026-02-10 09:13:08] [DEBUG   ] [MainProcess] File enqueued successfully (17/18) | fname=0002_1700000096_2025_01.PDF
+[2026-02-10 09:13:08] [DEBUG   ] [MainProcess] Putting file 18/18 into queue | fname=0038_1700000012_2025_01.PDF
+[2026-02-10 09:13:08] [INFO    ] [Worker-1] Worker-1 picked up task | fname=0001_1700000448_2025_01.PDF
+[2026-02-10 09:13:08] [INFO    ] [Worker-1] Worker-1 starting OCR (0.76 MB) | fname=0001_1700000448_2025_01.PDF
+[2026-02-10 09:13:08] [INFO    ] [Worker-2] Worker-2 OCR completed in 16.86s | fname=0001_1700000356_2025_02.PDF
+[2026-02-10 09:13:08] [INFO    ] [Worker-2] Worker-2 extracted 30 lines from 2 page(s) | fname=0001_1700000356_2025_02.PDF
+[2026-02-10 09:13:08] [INFO    ] [Worker-2] Worker-2 output written to ./ocr_output/0001_1700000356_2025_02.PDF.txt (0.0002s) | fname=0001_1700000356_2025_02.PDF
+[2026-02-10 09:13:08] [INFO    ] [Worker-2] Worker-2 completed (OCR=16.86s, total=16.86s) | fname=0001_1700000356_2025_02.PDF
+[2026-02-10 09:13:08] [DEBUG   ] [Worker-2] Worker-2 waiting for next task from queue | fname=QUEUE_WAIT
+[2026-02-10 09:13:08] [INFO    ] [Worker-2] Worker-2 picked up task | fname=0001_1700000449_2025_01.PDF
+[2026-02-10 09:13:08] [INFO    ] [Worker-2] Worker-2 starting OCR (0.28 MB) | fname=0001_1700000449_2025_01.PDF
+[2026-02-10 09:13:08] [DEBUG   ] [MainProcess] File enqueued successfully (18/18) | fname=0038_1700000012_2025_01.PDF
+[2026-02-10 09:13:08] [INFO    ] [MainProcess] All 18 files enqueued in 24.109s | fname=ENQUEUE
+[2026-02-10 09:13:08] [INFO    ] [MainProcess] Sending 5 sentinel(s) to shut down workers | fname=SHUTDOWN
+[2026-02-10 09:13:14] [INFO    ] [Worker-4] Worker-4 OCR completed in 14.22s | fname=0001_1700000445_2025_01.PDF
+[2026-02-10 09:13:14] [INFO    ] [Worker-4] Worker-4 extracted 30 lines from 2 page(s) | fname=0001_1700000445_2025_01.PDF
+[2026-02-10 09:13:14] [INFO    ] [Worker-4] Worker-4 output written to ./ocr_output/0001_1700000445_2025_01.PDF.txt (0.0002s) | fname=0001_1700000445_2025_01.PDF
+[2026-02-10 09:13:14] [INFO    ] [Worker-4] Worker-4 completed (OCR=14.22s, total=14.22s) | fname=0001_1700000445_2025_01.PDF
+[2026-02-10 09:13:14] [DEBUG   ] [Worker-4] Worker-4 waiting for next task from queue | fname=QUEUE_WAIT
+[2026-02-10 09:13:14] [INFO    ] [Worker-4] Worker-4 picked up task | fname=0001_1700000450_2025_01.PDF
+[2026-02-10 09:13:14] [INFO    ] [Worker-4] Worker-4 starting OCR (0.28 MB) | fname=0001_1700000450_2025_01.PDF
+[2026-02-10 09:13:14] [INFO    ] [Worker-3] Worker-3 OCR completed in 7.79s | fname=0001_1700000447_2025_01.PDF
+[2026-02-10 09:13:14] [INFO    ] [Worker-3] Worker-3 extracted 15 lines from 1 page(s) | fname=0001_1700000447_2025_01.PDF
+[2026-02-10 09:13:14] [INFO    ] [Worker-3] Worker-3 output written to ./ocr_output/0001_1700000447_2025_01.PDF.txt (0.0001s) | fname=0001_1700000447_2025_01.PDF
+[2026-02-10 09:13:14] [INFO    ] [Worker-3] Worker-3 completed (OCR=7.79s, total=7.79s) | fname=0001_1700000447_2025_01.PDF
+[2026-02-10 09:13:14] [DEBUG   ] [Worker-3] Worker-3 waiting for next task from queue | fname=QUEUE_WAIT
+[2026-02-10 09:13:14] [INFO    ] [Worker-3] Worker-3 picked up task | fname=0001_1700000451_2025_01.PDF
+[2026-02-10 09:13:14] [INFO    ] [Worker-3] Worker-3 starting OCR (0.01 MB) | fname=0001_1700000451_2025_01.PDF
+[2026-02-10 09:13:16] [INFO    ] [Worker-0] Worker-0 OCR completed in 16.46s | fname=0001_1700000446_2025_01.PDF
+[2026-02-10 09:13:16] [INFO    ] [Worker-0] Worker-0 extracted 30 lines from 2 page(s) | fname=0001_1700000446_2025_01.PDF
+[2026-02-10 09:13:16] [INFO    ] [Worker-0] Worker-0 output written to ./ocr_output/0001_1700000446_2025_01.PDF.txt (0.0001s) | fname=0001_1700000446_2025_01.PDF
+[2026-02-10 09:13:16] [INFO    ] [Worker-0] Worker-0 completed (OCR=16.46s, total=16.46s) | fname=0001_1700000446_2025_01.PDF
+[2026-02-10 09:13:16] [DEBUG   ] [Worker-0] Worker-0 waiting for next task from queue | fname=QUEUE_WAIT
+[2026-02-10 09:13:16] [INFO    ] [Worker-0] Worker-0 picked up task | fname=0001_1700000452_2025_01.PDF
+[2026-02-10 09:13:16] [INFO    ] [Worker-0] Worker-0 starting OCR (0.01 MB) | fname=0001_1700000452_2025_01.PDF
+[2026-02-10 09:13:21] [INFO    ] [Worker-3] Worker-3 OCR completed in 7.64s | fname=0001_1700000451_2025_01.PDF
+[2026-02-10 09:13:21] [INFO    ] [Worker-3] Worker-3 extracted 15 lines from 1 page(s) | fname=0001_1700000451_2025_01.PDF
+[2026-02-10 09:13:21] [INFO    ] [Worker-3] Worker-3 output written to ./ocr_output/0001_1700000451_2025_01.PDF.txt (0.0007s) | fname=0001_1700000451_2025_01.PDF
+[2026-02-10 09:13:21] [INFO    ] [Worker-3] Worker-3 completed (OCR=7.64s, total=7.64s) | fname=0001_1700000451_2025_01.PDF
+[2026-02-10 09:13:21] [DEBUG   ] [Worker-3] Worker-3 waiting for next task from queue | fname=QUEUE_WAIT
+[2026-02-10 09:13:21] [INFO    ] [Worker-3] Worker-3 picked up task | fname=0001_1700000454_2025_01.PDF
+[2026-02-10 09:13:21] [INFO    ] [Worker-3] Worker-3 starting OCR (0.01 MB) | fname=0001_1700000454_2025_01.PDF
+[2026-02-10 09:13:24] [INFO    ] [Worker-0] Worker-0 OCR completed in 7.57s | fname=0001_1700000452_2025_01.PDF
+[2026-02-10 09:13:24] [INFO    ] [Worker-0] Worker-0 extracted 15 lines from 1 page(s) | fname=0001_1700000452_2025_01.PDF
+[2026-02-10 09:13:24] [INFO    ] [Worker-0] Worker-0 output written to ./ocr_output/0001_1700000452_2025_01.PDF.txt (0.0002s) | fname=0001_1700000452_2025_01.PDF
+[2026-02-10 09:13:24] [INFO    ] [Worker-0] Worker-0 completed (OCR=7.57s, total=7.57s) | fname=0001_1700000452_2025_01.PDF
+[2026-02-10 09:13:24] [DEBUG   ] [Worker-0] Worker-0 waiting for next task from queue | fname=QUEUE_WAIT
+[2026-02-10 09:13:24] [INFO    ] [Worker-0] Worker-0 picked up task | fname=0001_1700000455_2025_01.PDF
+[2026-02-10 09:13:24] [INFO    ] [Worker-0] Worker-0 starting OCR (0.25 MB) | fname=0001_1700000455_2025_01.PDF
+[2026-02-10 09:13:24] [DEBUG   ] [MainProcess] All sentinels sent | fname=SHUTDOWN
+[2026-02-10 09:13:24] [INFO    ] [MainProcess] Waiting for workers to finish... | fname=SHUTDOWN
+[2026-02-10 09:13:30] [INFO    ] [Worker-3] Worker-3 OCR completed in 8.99s | fname=0001_1700000454_2025_01.PDF
+[2026-02-10 09:13:30] [INFO    ] [Worker-3] Worker-3 extracted 15 lines from 1 page(s) | fname=0001_1700000454_2025_01.PDF
+[2026-02-10 09:13:30] [INFO    ] [Worker-3] Worker-3 output written to ./ocr_output/0001_1700000454_2025_01.PDF.txt (0.0002s) | fname=0001_1700000454_2025_01.PDF
+[2026-02-10 09:13:30] [INFO    ] [Worker-3] Worker-3 completed (OCR=8.99s, total=8.99s) | fname=0001_1700000454_2025_01.PDF
+[2026-02-10 09:13:30] [DEBUG   ] [Worker-3] Worker-3 waiting for next task from queue | fname=QUEUE_WAIT
+[2026-02-10 09:13:30] [INFO    ] [Worker-3] Worker-3 picked up task | fname=0002_1700000095_2025_01.PDF
+[2026-02-10 09:13:30] [INFO    ] [Worker-3] Worker-3 starting OCR (0.22 MB) | fname=0002_1700000095_2025_01.PDF
+[2026-02-10 09:13:41] [INFO    ] [Worker-3] Worker-3 OCR completed in 11.09s | fname=0002_1700000095_2025_01.PDF
+[2026-02-10 09:13:41] [INFO    ] [Worker-3] Worker-3 extracted 15 lines from 1 page(s) | fname=0002_1700000095_2025_01.PDF
+[2026-02-10 09:13:41] [INFO    ] [Worker-3] Worker-3 output written to ./ocr_output/0002_1700000095_2025_01.PDF.txt (0.0002s) | fname=0002_1700000095_2025_01.PDF
+[2026-02-10 09:13:41] [INFO    ] [Worker-3] Worker-3 completed (OCR=11.09s, total=11.10s) | fname=0002_1700000095_2025_01.PDF
+[2026-02-10 09:13:41] [DEBUG   ] [Worker-3] Worker-3 waiting for next task from queue | fname=QUEUE_WAIT
+[2026-02-10 09:13:41] [INFO    ] [Worker-3] Worker-3 picked up task | fname=0002_1700000096_2025_01.PDF
+[2026-02-10 09:13:41] [INFO    ] [Worker-3] Worker-3 starting OCR (0.24 MB) | fname=0002_1700000096_2025_01.PDF
+[2026-02-10 09:13:45] [INFO    ] [Worker-1] Worker-1 OCR completed in 37.08s | fname=0001_1700000448_2025_01.PDF
+[2026-02-10 09:13:45] [INFO    ] [Worker-1] Worker-1 extracted 45 lines from 3 page(s) | fname=0001_1700000448_2025_01.PDF
+[2026-02-10 09:13:45] [INFO    ] [Worker-1] Worker-1 output written to ./ocr_output/0001_1700000448_2025_01.PDF.txt (0.0002s) | fname=0001_1700000448_2025_01.PDF
+[2026-02-10 09:13:45] [INFO    ] [Worker-1] Worker-1 completed (OCR=37.08s, total=37.08s) | fname=0001_1700000448_2025_01.PDF
+[2026-02-10 09:13:45] [DEBUG   ] [Worker-1] Worker-1 waiting for next task from queue | fname=QUEUE_WAIT
+[2026-02-10 09:13:45] [INFO    ] [Worker-1] Worker-1 picked up task | fname=0038_1700000012_2025_01.PDF
+[2026-02-10 09:13:45] [INFO    ] [Worker-1] Worker-1 starting OCR (0.17 MB) | fname=0038_1700000012_2025_01.PDF
+[2026-02-10 09:13:50] [INFO    ] [Worker-0] Worker-0 OCR completed in 26.07s | fname=0001_1700000455_2025_01.PDF
+[2026-02-10 09:13:50] [INFO    ] [Worker-0] Worker-0 extracted 30 lines from 2 page(s) | fname=0001_1700000455_2025_01.PDF
+[2026-02-10 09:13:50] [INFO    ] [Worker-0] Worker-0 output written to ./ocr_output/0001_1700000455_2025_01.PDF.txt (0.0002s) | fname=0001_1700000455_2025_01.PDF
+[2026-02-10 09:13:50] [INFO    ] [Worker-0] Worker-0 completed (OCR=26.07s, total=26.07s) | fname=0001_1700000455_2025_01.PDF
+[2026-02-10 09:13:50] [DEBUG   ] [Worker-0] Worker-0 waiting for next task from queue | fname=QUEUE_WAIT
+[2026-02-10 09:13:50] [INFO    ] [Worker-0] Worker-0 received sentinel. Shutting down. | fname=SENTINEL
+[2026-02-10 09:13:50] [INFO    ] [Worker-0] Worker-0 summary — processed=4, failed=0, total_ocr_time=58.37s, avg_ocr_per_file=14.59s, model_init_time=7.16s | fname=SUMMARY
+[2026-02-10 09:13:50] [INFO    ] [Worker-0] Worker-0 exiting | fname=SHUTDOWN
+[2026-02-10 09:13:50] [INFO    ] [MainProcess] Worker Worker-0 (PID=33115) joined — OK | fname=SHUTDOWN
+[2026-02-10 09:13:51] [INFO    ] [Worker-3] Worker-3 OCR completed in 9.82s | fname=0002_1700000096_2025_01.PDF
+[2026-02-10 09:13:51] [INFO    ] [Worker-3] Worker-3 extracted 15 lines from 1 page(s) | fname=0002_1700000096_2025_01.PDF
+[2026-02-10 09:13:51] [INFO    ] [Worker-3] Worker-3 output written to ./ocr_output/0002_1700000096_2025_01.PDF.txt (0.0002s) | fname=0002_1700000096_2025_01.PDF
+[2026-02-10 09:13:51] [INFO    ] [Worker-3] Worker-3 completed (OCR=9.82s, total=9.82s) | fname=0002_1700000096_2025_01.PDF
+[2026-02-10 09:13:51] [DEBUG   ] [Worker-3] Worker-3 waiting for next task from queue | fname=QUEUE_WAIT
+[2026-02-10 09:13:51] [INFO    ] [Worker-3] Worker-3 received sentinel. Shutting down. | fname=SENTINEL
+[2026-02-10 09:13:51] [INFO    ] [Worker-3] Worker-3 summary — processed=6, failed=0, total_ocr_time=59.85s, avg_ocr_per_file=9.98s, model_init_time=7.05s | fname=SUMMARY
+[2026-02-10 09:13:51] [INFO    ] [Worker-3] Worker-3 exiting | fname=SHUTDOWN
+[2026-02-10 09:13:52] [INFO    ] [Worker-2] Worker-2 OCR completed in 43.68s | fname=0001_1700000449_2025_01.PDF
+[2026-02-10 09:13:52] [INFO    ] [Worker-2] Worker-2 extracted 75 lines from 5 page(s) | fname=0001_1700000449_2025_01.PDF
+[2026-02-10 09:13:52] [INFO    ] [Worker-2] Worker-2 output written to ./ocr_output/0001_1700000449_2025_01.PDF.txt (0.0001s) | fname=0001_1700000449_2025_01.PDF
+[2026-02-10 09:13:52] [INFO    ] [Worker-2] Worker-2 completed (OCR=43.68s, total=43.68s) | fname=0001_1700000449_2025_01.PDF
+[2026-02-10 09:13:52] [DEBUG   ] [Worker-2] Worker-2 waiting for next task from queue | fname=QUEUE_WAIT
+[2026-02-10 09:13:52] [INFO    ] [Worker-2] Worker-2 received sentinel. Shutting down. | fname=SENTINEL
+[2026-02-10 09:13:52] [INFO    ] [Worker-2] Worker-2 summary — processed=2, failed=0, total_ocr_time=60.54s, avg_ocr_per_file=30.27s, model_init_time=7.21s | fname=SUMMARY
+[2026-02-10 09:13:52] [INFO    ] [Worker-2] Worker-2 exiting | fname=SHUTDOWN
+[2026-02-10 09:13:56] [INFO    ] [Worker-4] Worker-4 OCR completed in 42.09s | fname=0001_1700000450_2025_01.PDF
+[2026-02-10 09:13:56] [INFO    ] [Worker-4] Worker-4 extracted 75 lines from 5 page(s) | fname=0001_1700000450_2025_01.PDF
+[2026-02-10 09:13:56] [INFO    ] [Worker-4] Worker-4 output written to ./ocr_output/0001_1700000450_2025_01.PDF.txt (0.0001s) | fname=0001_1700000450_2025_01.PDF
+[2026-02-10 09:13:56] [INFO    ] [Worker-4] Worker-4 completed (OCR=42.09s, total=42.09s) | fname=0001_1700000450_2025_01.PDF
+[2026-02-10 09:13:56] [DEBUG   ] [Worker-4] Worker-4 waiting for next task from queue | fname=QUEUE_WAIT
+[2026-02-10 09:13:56] [INFO    ] [Worker-4] Worker-4 received sentinel. Shutting down. | fname=SENTINEL
+[2026-02-10 09:13:56] [INFO    ] [Worker-4] Worker-4 summary — processed=3, failed=0, total_ocr_time=64.22s, avg_ocr_per_file=21.41s, model_init_time=7.17s | fname=SUMMARY
+[2026-02-10 09:13:56] [INFO    ] [Worker-4] Worker-4 exiting | fname=SHUTDOWN
+[2026-02-10 09:13:56] [INFO    ] [Worker-1] Worker-1 OCR completed in 10.96s | fname=0038_1700000012_2025_01.PDF
+[2026-02-10 09:13:56] [INFO    ] [Worker-1] Worker-1 extracted 15 lines from 1 page(s) | fname=0038_1700000012_2025_01.PDF
+[2026-02-10 09:13:56] [INFO    ] [Worker-1] Worker-1 output written to ./ocr_output/0038_1700000012_2025_01.PDF.txt (0.0001s) | fname=0038_1700000012_2025_01.PDF
+[2026-02-10 09:13:56] [INFO    ] [Worker-1] Worker-1 completed (OCR=10.96s, total=10.96s) | fname=0038_1700000012_2025_01.PDF
+[2026-02-10 09:13:56] [DEBUG   ] [Worker-1] Worker-1 waiting for next task from queue | fname=QUEUE_WAIT
+[2026-02-10 09:13:56] [INFO    ] [Worker-1] Worker-1 received sentinel. Shutting down. | fname=SENTINEL
+[2026-02-10 09:13:56] [INFO    ] [Worker-1] Worker-1 summary — processed=3, failed=0, total_ocr_time=64.62s, avg_ocr_per_file=21.54s, model_init_time=7.15s | fname=SUMMARY
+[2026-02-10 09:13:56] [INFO    ] [Worker-1] Worker-1 exiting | fname=SHUTDOWN
+[2026-02-10 09:13:56] [INFO    ] [MainProcess] Worker Worker-1 (PID=33116) joined — OK | fname=SHUTDOWN
+[2026-02-10 09:13:56] [INFO    ] [MainProcess] Worker Worker-2 (PID=33117) joined — OK | fname=SHUTDOWN
+[2026-02-10 09:13:56] [INFO    ] [MainProcess] Worker Worker-3 (PID=33118) joined — OK | fname=SHUTDOWN
+[2026-02-10 09:13:56] [INFO    ] [MainProcess] Worker Worker-4 (PID=33119) joined — OK | fname=SHUTDOWN
+[2026-02-10 09:13:56] [INFO    ] [MainProcess] ========== OCR Pipeline Complete ========== | fname=DONE
+[2026-02-10 09:13:56] [INFO    ] [MainProcess] Total files processed : 18 | fname=DONE
+[2026-02-10 09:13:56] [INFO    ] [MainProcess] Total wall-clock time : 72.22s | fname=DONE
+[2026-02-10 09:13:56] [INFO    ] [MainProcess] Average time per file : 4.01s | fname=DONE
+[2026-02-10 09:13:56] [INFO    ] [MainProcess] Log saved to          : ./logs/ocr_run_20260210_091244.log | fname=DONE

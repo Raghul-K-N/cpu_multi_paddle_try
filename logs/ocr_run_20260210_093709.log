@@ -1,0 +1,71 @@
+[2026-02-10 09:37:09] [INFO    ] [MainProcess] Log file created: ./logs/ocr_run_20260210_093709.log | fname=
+[2026-02-10 09:37:09] [INFO    ] [MainProcess] ========== OCR Pipeline Starting ========== | fname=INIT
+[2026-02-10 09:37:09] [INFO    ] [MainProcess] Input directory : /home/whirldata/cpu_multi_paddle_try/attachments | fname=INIT
+[2026-02-10 09:37:09] [INFO    ] [MainProcess] Output directory: /home/whirldata/cpu_multi_paddle_try/ocr_output | fname=INIT
+[2026-02-10 09:37:09] [INFO    ] [MainProcess] Total vCPUs     : 30 | fname=INIT
+[2026-02-10 09:37:09] [INFO    ] [MainProcess] Num workers     : 5 | fname=INIT
+[2026-02-10 09:37:09] [INFO    ] [MainProcess] Threads/worker  : 5 | fname=INIT
+[2026-02-10 09:37:09] [INFO    ] [MainProcess] Queue size      : 8 | fname=INIT
+[2026-02-10 09:37:09] [INFO    ] [MainProcess] Supported exts  : {'.webp', '.pdf', '.jpeg', '.png', '.jpg', '.bmp', '.tif', '.tiff'} | fname=INIT
+[2026-02-10 09:37:09] [INFO    ] [MainProcess] Total entries found in input directory: 18 | fname=SCAN
+[2026-02-10 09:37:09] [DEBUG   ] [MainProcess] All entries: ['0001_1700000449_2025_01.PDF', '0001_1700000356_2025_01.PDF', '0001_1700000446_2025_01.PDF', '0001_1700000354_2025_02.PDF', '0001_1700000451_2025_01.PDF', '0001_1700000448_2025_01.PDF', '0002_1700000096_2025_01.PDF', '0001_1700000455_2025_01.PDF', '0001_1700000452_2025_01.PDF', '0001_1700000356_2025_02.PDF', '0001_1700000447_2025_01.PDF', '0001_1700000454_2025_01.PDF', '0001_1700000163_2025_01.PDF', '0001_1700000450_2025_01.PDF', '0038_1700000012_2025_01.PDF', '0001_1700000354_2025_03.PDF', '0002_1700000095_2025_01.PDF', '0001_1700000445_2025_01.PDF'] | fname=SCAN
+[2026-02-10 09:37:09] [DEBUG   ] [MainProcess] Queuing file: 0001_1700000163_2025_01.PDF (0.02 MB) | fname=0001_1700000163_2025_01.PDF
+[2026-02-10 09:37:09] [DEBUG   ] [MainProcess] Queuing file: 0001_1700000354_2025_02.PDF (0.02 MB) | fname=0001_1700000354_2025_02.PDF
+[2026-02-10 09:37:09] [DEBUG   ] [MainProcess] Queuing file: 0001_1700000354_2025_03.PDF (0.30 MB) | fname=0001_1700000354_2025_03.PDF
+[2026-02-10 09:37:09] [DEBUG   ] [MainProcess] Queuing file: 0001_1700000356_2025_01.PDF (0.30 MB) | fname=0001_1700000356_2025_01.PDF
+[2026-02-10 09:37:09] [DEBUG   ] [MainProcess] Queuing file: 0001_1700000356_2025_02.PDF (0.02 MB) | fname=0001_1700000356_2025_02.PDF
+[2026-02-10 09:37:09] [DEBUG   ] [MainProcess] Queuing file: 0001_1700000445_2025_01.PDF (0.02 MB) | fname=0001_1700000445_2025_01.PDF
+[2026-02-10 09:37:09] [DEBUG   ] [MainProcess] Queuing file: 0001_1700000446_2025_01.PDF (0.25 MB) | fname=0001_1700000446_2025_01.PDF
+[2026-02-10 09:37:09] [DEBUG   ] [MainProcess] Queuing file: 0001_1700000447_2025_01.PDF (0.08 MB) | fname=0001_1700000447_2025_01.PDF
+[2026-02-10 09:37:09] [DEBUG   ] [MainProcess] Queuing file: 0001_1700000448_2025_01.PDF (0.76 MB) | fname=0001_1700000448_2025_01.PDF
+[2026-02-10 09:37:09] [DEBUG   ] [MainProcess] Queuing file: 0001_1700000449_2025_01.PDF (0.28 MB) | fname=0001_1700000449_2025_01.PDF
+[2026-02-10 09:37:09] [DEBUG   ] [MainProcess] Queuing file: 0001_1700000450_2025_01.PDF (0.28 MB) | fname=0001_1700000450_2025_01.PDF
+[2026-02-10 09:37:09] [DEBUG   ] [MainProcess] Queuing file: 0001_1700000451_2025_01.PDF (0.01 MB) | fname=0001_1700000451_2025_01.PDF
+[2026-02-10 09:37:09] [DEBUG   ] [MainProcess] Queuing file: 0001_1700000452_2025_01.PDF (0.01 MB) | fname=0001_1700000452_2025_01.PDF
+[2026-02-10 09:37:09] [DEBUG   ] [MainProcess] Queuing file: 0001_1700000454_2025_01.PDF (0.01 MB) | fname=0001_1700000454_2025_01.PDF
+[2026-02-10 09:37:09] [DEBUG   ] [MainProcess] Queuing file: 0001_1700000455_2025_01.PDF (0.25 MB) | fname=0001_1700000455_2025_01.PDF
+[2026-02-10 09:37:09] [DEBUG   ] [MainProcess] Queuing file: 0002_1700000095_2025_01.PDF (0.22 MB) | fname=0002_1700000095_2025_01.PDF
+[2026-02-10 09:37:09] [DEBUG   ] [MainProcess] Queuing file: 0002_1700000096_2025_01.PDF (0.24 MB) | fname=0002_1700000096_2025_01.PDF
+[2026-02-10 09:37:09] [DEBUG   ] [MainProcess] Queuing file: 0038_1700000012_2025_01.PDF (0.17 MB) | fname=0038_1700000012_2025_01.PDF
+[2026-02-10 09:37:09] [INFO    ] [MainProcess] Files to process: 18, Skipped: 0 | fname=SCAN
+[2026-02-10 09:37:09] [INFO    ] [MainProcess] Multiprocessing start method set to 'spawn' | fname=INIT
+[2026-02-10 09:37:09] [DEBUG   ] [MainProcess] Task queue created with maxsize=8 | fname=INIT
+[2026-02-10 09:37:09] [INFO    ] [MainProcess] Spawning 5 worker processes... | fname=INIT
+[2026-02-10 09:37:09] [INFO    ] [MainProcess] Worker-0 started (PID=41885) | fname=INIT
+[2026-02-10 09:37:09] [INFO    ] [MainProcess] Worker-1 started (PID=41886) | fname=INIT
+[2026-02-10 09:37:09] [INFO    ] [MainProcess] Worker-2 started (PID=41887) | fname=INIT
+[2026-02-10 09:37:09] [INFO    ] [MainProcess] Worker-3 started (PID=41888) | fname=INIT
+[2026-02-10 09:37:09] [INFO    ] [MainProcess] Worker-4 started (PID=41889) | fname=INIT
+[2026-02-10 09:37:09] [INFO    ] [MainProcess] Enqueuing 18 file(s)... | fname=ENQUEUE
+[2026-02-10 09:37:09] [DEBUG   ] [MainProcess] Putting file 1/18 into queue | fname=0001_1700000163_2025_01.PDF
+[2026-02-10 09:37:09] [DEBUG   ] [MainProcess] File enqueued successfully (1/18) | fname=0001_1700000163_2025_01.PDF
+[2026-02-10 09:37:09] [DEBUG   ] [MainProcess] Putting file 2/18 into queue | fname=0001_1700000354_2025_02.PDF
+[2026-02-10 09:37:09] [DEBUG   ] [MainProcess] File enqueued successfully (2/18) | fname=0001_1700000354_2025_02.PDF
+[2026-02-10 09:37:09] [DEBUG   ] [MainProcess] Putting file 3/18 into queue | fname=0001_1700000354_2025_03.PDF
+[2026-02-10 09:37:09] [DEBUG   ] [MainProcess] File enqueued successfully (3/18) | fname=0001_1700000354_2025_03.PDF
+[2026-02-10 09:37:09] [DEBUG   ] [MainProcess] Putting file 4/18 into queue | fname=0001_1700000356_2025_01.PDF
+[2026-02-10 09:37:09] [DEBUG   ] [MainProcess] File enqueued successfully (4/18) | fname=0001_1700000356_2025_01.PDF
+[2026-02-10 09:37:09] [DEBUG   ] [MainProcess] Putting file 5/18 into queue | fname=0001_1700000356_2025_02.PDF
+[2026-02-10 09:37:09] [DEBUG   ] [MainProcess] File enqueued successfully (5/18) | fname=0001_1700000356_2025_02.PDF
+[2026-02-10 09:37:09] [DEBUG   ] [MainProcess] Putting file 6/18 into queue | fname=0001_1700000445_2025_01.PDF
+[2026-02-10 09:37:09] [DEBUG   ] [MainProcess] File enqueued successfully (6/18) | fname=0001_1700000445_2025_01.PDF
+[2026-02-10 09:37:09] [DEBUG   ] [MainProcess] Putting file 7/18 into queue | fname=0001_1700000446_2025_01.PDF
+[2026-02-10 09:37:09] [DEBUG   ] [MainProcess] File enqueued successfully (7/18) | fname=0001_1700000446_2025_01.PDF
+[2026-02-10 09:37:09] [DEBUG   ] [MainProcess] Putting file 8/18 into queue | fname=0001_1700000447_2025_01.PDF
+[2026-02-10 09:37:09] [DEBUG   ] [MainProcess] File enqueued successfully (8/18) | fname=0001_1700000447_2025_01.PDF
+[2026-02-10 09:37:09] [DEBUG   ] [MainProcess] Putting file 9/18 into queue | fname=0001_1700000448_2025_01.PDF
+[2026-02-10 09:37:09] [INFO    ] [Worker-1] Worker-1 process started (PID=41886) | fname=INIT
+[2026-02-10 09:37:09] [INFO    ] [Worker-1] Thread env — OMP=5, MKL=5, NUMEXPR=5 | fname=INIT
+[2026-02-10 09:37:09] [INFO    ] [Worker-3] Worker-3 process started (PID=41888) | fname=INIT
+[2026-02-10 09:37:09] [INFO    ] [Worker-1] Worker-1 initializing PaddleOCR model... | fname=INIT
+[2026-02-10 09:37:09] [INFO    ] [Worker-2] Worker-2 process started (PID=41887) | fname=INIT
+[2026-02-10 09:37:09] [INFO    ] [Worker-3] Thread env — OMP=5, MKL=5, NUMEXPR=5 | fname=INIT
+[2026-02-10 09:37:09] [INFO    ] [Worker-2] Thread env — OMP=5, MKL=5, NUMEXPR=5 | fname=INIT
+[2026-02-10 09:37:09] [INFO    ] [Worker-3] Worker-3 initializing PaddleOCR model... | fname=INIT
+[2026-02-10 09:37:09] [INFO    ] [Worker-2] Worker-2 initializing PaddleOCR model... | fname=INIT
+[2026-02-10 09:37:09] [INFO    ] [Worker-4] Worker-4 process started (PID=41889) | fname=INIT
+[2026-02-10 09:37:09] [INFO    ] [Worker-4] Thread env — OMP=5, MKL=5, NUMEXPR=5 | fname=INIT
+[2026-02-10 09:37:09] [INFO    ] [Worker-4] Worker-4 initializing PaddleOCR model... | fname=INIT
+[2026-02-10 09:37:09] [INFO    ] [Worker-0] Worker-0 process started (PID=41885) | fname=INIT
+[2026-02-10 09:37:09] [INFO    ] [Worker-0] Thread env — OMP=5, MKL=5, NUMEXPR=5 | fname=INIT
+[2026-02-10 09:37:09] [INFO    ] [Worker-0] Worker-0 initializing PaddleOCR model... | fname=INIT
