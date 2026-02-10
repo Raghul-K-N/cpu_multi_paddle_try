@@ -10,8 +10,10 @@ from ocr_worker import ocr_worker
 INPUT_DIR = "./attachments"
 OUTPUT_DIR = "./ocr_output"
 LOG_DIR = "./logs"
-NUM_WORKERS = 2
-QUEUE_SIZE = 5  # bounded queue
+NUM_WORKERS = 4
+QUEUE_SIZE = 8  # bounded queue
+TOTAL_CPUS = os.cpu_count() or 4  # auto-detect available vCPUs
+threads_per_paddle = 5
 SUPPORTED_EXTENSIONS = {".pdf", ".png", ".jpg", ".jpeg", ".bmp", ".tiff", ".tif", ".webp"}
 
 # Sentinel value to signal workers to shut down cleanly
@@ -46,7 +48,7 @@ def setup_logging():
     logger.addHandler(fh)
     logger.addHandler(ch)
 
-    logger.info(f"Log file created: {log_filename} | fname=INIT")
+    logger.info(f"Log file created: {log_filename} | fname=")
     return logger, log_filename
 
 
@@ -86,7 +88,10 @@ def main():
     logger.info(f"========== OCR Pipeline Starting ========== | fname=INIT")
     logger.info(f"Input directory : {os.path.abspath(INPUT_DIR)} | fname=INIT")
     logger.info(f"Output directory: {os.path.abspath(OUTPUT_DIR)} | fname=INIT")
+    threads_per_worker = threads_per_paddle
+    logger.info(f"Total vCPUs     : {TOTAL_CPUS} | fname=INIT")
     logger.info(f"Num workers     : {NUM_WORKERS} | fname=INIT")
+    logger.info(f"Threads/worker  : {threads_per_worker} | fname=INIT")
     logger.info(f"Queue size      : {QUEUE_SIZE} | fname=INIT")
     logger.info(f"Supported exts  : {SUPPORTED_EXTENSIONS} | fname=INIT")
 
@@ -116,7 +121,7 @@ def main():
     for i in range(NUM_WORKERS):
         p = mp.Process(
             target=ocr_worker,
-            args=(task_queue, OUTPUT_DIR, i, log_filename),
+            args=(task_queue, OUTPUT_DIR, i, log_filename, threads_per_worker),
             name=f"Worker-{i}",
         )
         p.start()

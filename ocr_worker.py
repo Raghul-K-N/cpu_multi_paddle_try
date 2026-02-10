@@ -30,11 +30,13 @@ def _setup_worker_logger(worker_id, log_filename):
     return logger
 
 
-def ocr_worker(task_queue, output_dir, worker_id, log_filename):
+def ocr_worker(task_queue, output_dir, worker_id, log_filename, threads_per_worker=10):
     # 1) Set thread limits INSIDE spawned worker (before any numpy/MKL import)
-    os.environ["OMP_NUM_THREADS"] = "10"
-    os.environ["MKL_NUM_THREADS"] = "10"
-    os.environ["NUMEXPR_NUM_THREADS"] = "10"
+    #    threads_per_worker = total_cpus // num_workers to avoid over-subscription
+    tpw = str(threads_per_worker)
+    os.environ["OMP_NUM_THREADS"] = tpw
+    os.environ["MKL_NUM_THREADS"] = tpw
+    os.environ["NUMEXPR_NUM_THREADS"] = tpw
     os.environ["DISABLE_MODEL_SOURCE_CHECK"] = "True"
 
     logger = _setup_worker_logger(worker_id, log_filename)
@@ -56,6 +58,8 @@ def ocr_worker(task_queue, output_dir, worker_id, log_filename):
             lang="en",
             enable_mkldnn=True,
             device="cpu",
+            mkldnn_cache_capacity=15,
+            cpu_threads=threads_per_worker
         )
         model_init_elapsed = time.time() - model_init_start
         logger.info(
