@@ -8,15 +8,14 @@ human readable representation (copy) of the original tax invoice.
                                                                                                                   $42.34 CAD
                                                                 Amount Due
     Supplier                      Customer                                 Shipping Information
-     ACKLANDS-GRAINGER INC.        EDI ONLY PEPSI FOODS ULC                  Ship From                    Ship To
+     ACKLANDS-GRAINGER INC.        EDI ONLY PEPSI FOODS ULC                  Ship From                     Ship To
                                   (FLC)
      PO BOX 2970                                                           ACKLANDS-GRAINGER INC.        CA-DC-SURREY-BC-FLC
-     WINNIPEG                     11811 103A AVE                            11708 - 167 STREET NW          11811 103A AVE
+     WINNIPEG                    11811 103A AVE                            11708 - 167 STREET NW          11811 103A AVE
      MB                          FRITO LAY CO                             EDMONTON                   SURREY
      R3C 4B5                      SURREY                                 AB                          BC
      CA                          BC                                      T5M 3Z2                      V3V 0B5
-                                                                                                      Canada
-                                 V3V 0B5                                  Canada
+                                 V3V 0B5                                  Canada                       Canada
                                  Canada
   Line Items                                              PO No. : M411955497                                      PO Date : 6 Dec 2023
   Line No.    PO Line No.          Type    Supplier Part No. /             Customer Part No.        Quantity            Unit Price         Subtotal

@@ -1,45 +1,102 @@
-n
-a
-o
-t
-o
-e
-e
-e
-e
-e
-e
-e
-i
-e
-e
-n
-a
-o
-t
-o
-e
-e
-e
-e
-e
-e
-e
-i
-e
-e
-n
-a
-o
-t
-o
-e
-e
-e
-e
-e
-e
-e
-i
-e
-e
+==================================<Page 1 - START>================================
+      PEPSICO
+Instructions: When there is not an "Official" Invoice to request payment, complete the information on this form.
+1. You must fill in all of the fields below and the form must be accompanied with supporting documentation.
+2. Save submission as 1 single PDF file príor to submitting to nassapinvoicesubmission@pepsico.com
+The form can be used for the following invoice/payment type activity: Taxes/Legal Settlements/Business Licenses/Fines/Donation/sponsorship.
+          SAP Payment Request
+                                                                To be filled by Requestor
+      Substitute Invoice Form
+Vendor Type                                   S4
+Vendor Name:                                  Link Snacks Inc
+ Vendor Number:                                 2003180233
+Company Code:                                 US29
+                                             Link Snacks Inc
+ Remit To Address :
+ (Must match the address in the AP system)                 PO Box 427
+                                             Minong, W1 54859-0427
+ Special Handling needed:
+                                             No
+ Attn:
+ Address:
+  Overnight delivery required:
+  (if yes provide account # or CC below)
+  FedEx or UPS, & Provide Number:
+  FedEx or UPS account #
+  Cost Center (If No FedEx/UPS Number):
+  Trnsaction type:
+                                             Credit Memo
+  Choose only 1 option - Invoice or Credit Memo from the dropdown
+  Invoice Date:                                  6/26/2025
+  Invoice #:
+  Limited to 16 characters - REQUIRED                    DM010
+  Purchase Order #
+  Not required if non-PO
+                                             $159,422.55
+  Payment GROSS Amount:
+  Tax Amount                                   $0.00
+  (if applicable)
+                                             $159,422.55
+  Payment NET Amount:
+  Currency (USD or CAD)                            USD
+  Header Text:                                   JL Equipment - Q1 2025
+  Requestor Name:                               Sean Dougherty
+  Requestor email                                Sean.Dougherty@pepsico.com
+  1st Level Approver Name                           Mark Spiegel
+  1st Level Approver Email id/GPID                      Mark.A.Spiegel@pepsico.com
+                                             11/20/2025
+ Date Requested:
+ GL Coding (6 digits)                              645100
+ Cost Center (If applicable)                          2358341417
+ Profit Center (If applicable)                          4FUSL00000
+ WBS Element (If applicable)
+For Assistance On This Form submission please contact:         Mark Spiegel
+                                            PepsiCo - Sign In
+Raise service now ticket(Snow)
+==================================<Page 1 - END>================================
+==================================<Page 2 - START>================================
+Frito Lay NA                                                      DEBIT MEMO
+7701 Legacy Drive
+ Plano, TX 75024
+                                                PROJECT NAME   WBS/COST CENTER     PROJECT START DATE    PROJECT END DATE
+                                   SHOPPER BUDGET
+                                    JL Equipment     Equipment                                         12/31/2025
+                                                                                       1/1/2025
+                                   INVOICE # (5 digits)     DATE         TERMS
+  BILL TO
+                                      DM010       6/26/2025   Net 14 days
+ Jack Link's Beef Jerky
+  PO Box 397
+  One Snackfood Lane
+ Minong W154859
+  715-466-2234
+                                                   QTY        UNIT PRICE    AMOUNT (Should be a negative #)
+  DESCRIPTION
+                                                                  318,845.10               159,422.55
+  Jack Links Equipment Q1, 2025                                  0.5
+               Thank you for your business!               SUBTOTAL                                159,422.55
+                                               TOTAL                     $          159,422.55
+==================================<Page 2 - END>================================
+==================================<Page 3 - START>================================
+From: SPA - PepsiCo Nass AP Invoice Submission <nassapInvoiceSubmission@pepsico.com>
+Sent: Mon, 24 Nov 2025 23:08:49 (UTC)
+To: svcimagingspaboxprod@pepsico.com
+Subject: FW: Jack Links Credit Memo - Action Required - Q1 2025 (Email 1 of 2)
+Original Number of Attachments : 1
+Original Attachment Names: Jack Links Q1 2025 Credit Memo -- $159,422.55.pdf
+Number of forwarded PDF's: 1
+Number of forwarded Non PDF files: 0
+From: Dougherty,Sean{PEP}<Sean.Dougherty@pepsico.com>
+Sent: Monday, November 24, 2025 11:07:23 PM
+To: SPA - PepsiCo Nass AP Invoice Submission <nassaplnvoiceSubmission@pepsico.com>
+Cc: s, Suman{PEP}<Suman.s@pepsico.com>
+Subject: Jack Links Credit Memo - Action Required - Q1 2025 (Email 1 of 2)
+Hello,
+Our team needs the attached credit memo processed this week. Can you please assist? If there are any
+questions, please let me know.
+Thank you,
+Sean P. Dougherty
+Finance Sr. Manager | Selling Expense
+433 W Van Buren St | Chicago, IL 60622
+sean.dougherty@pepsico.com
+==================================<Page 3 - END>================================

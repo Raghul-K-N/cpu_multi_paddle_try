@@ -1,15 +1,39 @@
-n
-a
-o
-t
-o
-e
-e
-e
-e
-e
-e
-e
-i
-e
-e
+==================================<Page 1 - START>================================
+          PEPSICO
+Fill in the Description field below with the payment type - for example: Donation / Taxes / Legal / etc.
+Print Entire Workbook as ONE single PDF file prior to submission.
+                                         Non-PO Invoice
+                                   SAP Payment Request
+                                  Substitute Invoice Form
+Vendor Name:                      OIL SPRINGS SERVICE CENTRE
+Vendor Number:
+                                                                                             2003602820
+Company Code:                    CA11
+Remit To Address :                Hwy 21
+(Must match the address in the AP system)  Oil Springs ON
+                                          NON 1P0
+Transaction type:                  Invoice
+                                          *choose only 1 option - Invoice or Credit Memo from the dropdown
+Invoice Date:                       2025-10-30
+Invoice #:
+                                          71293REISSUE
+                                          *Limited to 16 characters
+Purchase Order #
+(not required if non-PO)
+                                          (not required if non-PO)
+Payment GROSS Amount:
+                                          $308.20
+Tax Amount (if applicable):
+ Payment NET Amount:           $308.20
+                                          CAD
+ Currency
+ Header Text:
+  Requestor Name:                  Sarah Brittles
+  Requestor email                  sarah.brittles@pepsico.com
+  Date Requested:                  2025-10-31
+  Description:
+                                         replacement check for stale dated one
+  Cost Center (optional - use Tab 2 if multiple):     2001990002
+  GL AcCount (REQUIRED - use Tab 2 if multiple):   708000
+ WBS Element (optional - use Tab 2 if multiple):
+==================================<Page 1 - END>================================

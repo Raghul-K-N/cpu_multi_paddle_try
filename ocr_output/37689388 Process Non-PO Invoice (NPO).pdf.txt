@@ -1,30 +1,76 @@
-n
-a
-o
-t
-o
-e
-e
-e
-e
-e
-e
-e
-i
-e
-e
-n
-a
-o
-t
-o
-e
-e
-e
-e
-e
-e
-e
-i
-e
-e
+==================================<Page 1 - START>================================
+                                                                                                                                                Please Select Period
+                                                                               Global Intercompany Cross-Charge Request /Invoice                               Invoice Date        12/11/2025
+                                                                           This cover sheel muat sccompany                                           Syeten Posting Date        12/11/2025
+                                                                          ail Non-frade intercompany requests                                          System Posting Period          13
+                                                                                                                         Inwoice Reference Number (up to 15 char)->       Q425MVSRoyslty
+                                                                                                                           Special GL Indicator - ICNonTrd
+                                                                                                                            I/C Non-Trade AR Recon Acct         140500
+                                                                          (cesh seilement only, includling nelling)                                     IC Non-Trade AP Recon Acct         213150
+                                                                         Requesting Division Information
+Charge From:
+Divitign Racuenting Cross-Charge
+Lecal Entity Requesting Cross-Charge
+Lecal Entity Acidress                                  FLC
+HFM Cude (IICP)
+Business PatnerGL Trading carther (f aoolicable)
+                                           CA11
+Netting ID (if spplicable)                                 2003298868
+Currency
+Tax Code, where applicable (n.g., VAT, GST)                         USD
+Exemption low/ldirective (where spplicable) 0% VAT rate exenption no
+Fiscal representative (SwissiCo specific)
+Initiator Crose-Charge email
+                                          Earen.Giall@Prpsico.com
+                                                                        Accepting Division Information
+Charge To:
+Division Accepting Cross-Charge
+Legal Entty Accepting Cross-Charge                            FLNA
+Lecnl Entity Acerese
+HFM Cude (ICP)                                   HgFIUs0D4Rpt
+GL Trading partner (if applicable)
+Bunsiness Partner
+Nettino ID oif applicablel
+Tax Code. where soolicable (e.c., VAT, GST)
+Contact Accepting Charge E-msil
+Authorized by
+L/C Cross Charge Processor - E-mail - Charge To Division
+Description of Cross-Charce
+Charge From Diviaion:
+                  FLC
+                                                                 Debit/(Credit) Amount       VAT/GST Amount
+     Proffit Center Number      Partner Profit Centor  Cost Center   Plant    GL Account Number    WBS(if applicable)    excluding VAT  VAT/GST %           Debilt(Credit) Amount Currenty    Transaction Type          TEXT / Description            Additional intormation
+                      Number     Number                                              (Credit) = 220000   including VATIGST
+                                                                                 Debit = 126000
+                                                                     -2.061.937.30             0.00    2,061.937.30  USO
+                                                                                       0.00       0.00  uso
+        Total                                                          -2,061.937.30             0.00   2,061,937.30  USD
+Gharge Te Divinion:          FLNA
+                                                                 Debit/(Credit) Aumount       VAT/GST Amount
+     Profit Center Number      Partner Profil Centor  Com Center   Plant    GL Account Number    WBS(if applicable)    excluding VAT  VAT/GST %           Debilt/(Credit) Amount Currency    Transaction Type          TEXT / Description            Additional infonnation
+                      Number     Number                                              (Credit) - 220000   including VAT/GST
+                                                                                 Debit = 126000
+                                                                    (n)     (b)    (c) = (a)^(b)     (d) = (a)+(c)
+       9SHQX30000        9SHQX30000                    718251                   1,865,422.76                   1.855.422.76  USD                  Pg.P12 202s Miss Vickies Royalty Exp
+       9SHQX30000        9SHQX30000                    718251                    206.514.54                    206.514.54                       Pg-P12 2025 Spitz Royalty Exp
+         Total                                                         2,061.937.30             0.00    2,061,937.30  USD
+        TOTAL                                                           0.00             0.00      0.00 USO
+Special tax or lecal requiroments
+==================================<Page 1 - END>================================
+==================================<Page 2 - START>================================
+        From: "Elliott, Elena {PEP}" <Elena.Elliott@pepsico.com>
+        Sent: Thu, 11 Dec 2025 21:41:59 (UTC)
+        To: NAAPNonTradeIntercoInvoices@pepsico.com
+        Subject: P12 2025 Miss Vickies/Spitz Royalty
+        Hello,
+        Can you please process the attached?
+        Thanks,
+        Elena
+                                             Elena Elliott
+                                             Control & Reporting Associate
+                 PEPSICO
+                                             Manager
+                                             PepsiCo, Inc. | Frito-Lay North
+                                            America
+                                            7701 Legacy Dr, Plano, TX 75024
+==================================<Page 2 - END>================================

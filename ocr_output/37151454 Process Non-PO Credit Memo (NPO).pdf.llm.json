@@ -1,0 +1,49 @@
+{
+  "invoice_data": {
+    "invoice_number": "DM010",
+    "invoice_date": "6/26/2025",
+    "invoice_receipt_date": null,
+    "invoice_amount": "159,422.55",
+    "invoice_currency": null,
+    "stamp_number": null,
+    "vendor_name": "Link Snacks Inc",
+    "remit_to_address": "PO Box 427, Minong, W1 54859-0427",
+    "bill_to_entity": "Jack Link's Beef Jerky",
+    "bill_to_address": "PO Box 397, One Snackfood Lane, Minong W154859",
+    "payment_terms": "Net 14 days",
+    "payment_method": null,
+    "gl_account": [
+      "645100"
+    ],
+    "bank_name": null,
+    "account_holder_name": null,
+    "banking_account_number": null,
+    "vat_tax_code": null,
+    "vat_amount": "0.00",
+    "transaction_type": "debit"
+  },
+  "filename": "37151454 Process Non-PO Credit Memo (NPO).pdf",
+  "raw_response": {
+    "invoice_number": "DM010",
+    "invoice_date": "6/26/2025",
+    "invoice_receipt_date": null,
+    "invoice_amount": "159,422.55",
+    "invoice_currency": null,
+    "stamp_number": null,
+    "vendor_name": "Link Snacks Inc",
+    "remit_to_address": "PO Box 427\nMinong, W1 54859-0427",
+    "bill_to_entity": "Jack Link's Beef Jerky",
+    "bill_to_address": "PO Box 397\nOne Snackfood Lane\nMinong W154859",
+    "payment_terms": "Net 14 days",
+    "payment_method": null,
+    "gl_account": [
+      "645100"
+    ],
+    "bank_name": null,
+    "account_holder_name": null,
+    "banking_account_number": null,
+    "vat_tax_code": null,
+    "vat_amount": "0.00",
+    "transaction_type": null
+  }
+}

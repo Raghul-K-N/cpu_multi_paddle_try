@@ -1,0 +1,49 @@
+{
+  "invoice_data": {
+    "invoice_number": "25150-0",
+    "invoice_date": "Sep 30 2025",
+    "invoice_receipt_date": null,
+    "invoice_amount": "27,250.00",
+    "invoice_currency": [
+      "USD"
+    ],
+    "stamp_number": null,
+    "vendor_name": "Studio Mega",
+    "remit_to_address": "MEGA 2636 NE Sandy Blvd STE G Portland, OR 97232",
+    "bill_to_entity": "PepsiCo",
+    "bill_to_address": "700 Anderson Hill Road, Purchase NY 10577",
+    "payment_terms": "NET 60",
+    "payment_method": null,
+    "gl_account": null,
+    "bank_name": null,
+    "account_holder_name": null,
+    "banking_account_number": null,
+    "vat_tax_code": null,
+    "vat_amount": null,
+    "transaction_type": "debit"
+  },
+  "filename": "36364887 Accounting Vendor Maintenance Required (PO).pdf",
+  "raw_response": {
+    "invoice_number": "25150-0",
+    "invoice_date": "Sep 30 2025",
+    "invoice_receipt_date": null,
+    "invoice_amount": "27,250.00",
+    "invoice_currency": [
+      "USD"
+    ],
+    "stamp_number": null,
+    "vendor_name": "Studio Mega",
+    "remit_to_address": "MEGA 2636 NE Sandy Blvd STE G Portland, OR 97232",
+    "bill_to_entity": "PepsiCo",
+    "bill_to_address": "700 Anderson Hill Road, Purchase NY 10577",
+    "payment_terms": "NET 60",
+    "payment_method": null,
+    "gl_account": null,
+    "bank_name": null,
+    "account_holder_name": null,
+    "banking_account_number": null,
+    "vat_tax_code": null,
+    "vat_amount": null,
+    "transaction_type": null
+  }
+}

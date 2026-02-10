@@ -1,60 +1,149 @@
-n
-a
-o
-t
-o
-e
-e
-e
-e
-e
-e
-e
-i
-e
-e
-n
-a
-o
-t
-o
-e
-e
-e
-e
-e
-e
-e
-i
-e
-e
-n
-a
-o
-t
-o
-e
-e
-e
-e
-e
-e
-e
-i
-e
-e
-n
-a
-o
-t
-o
-e
-e
-e
-e
-e
-e
-e
-i
-e
-e
+==================================<Page 1 - START>================================
+        PEPSICO
+Instructions: When there is not an "Official" Invoice to request payment, complete the information on this form.
+1.You must fill in all of the fields below and the form must be accompanied with supporting documentation.
+2. Save submission as 1 single PDF file prior to submitting to nassapinvoicesubmission@pepsico.com
+The form can be used for the following invoice/payment type activity: Taxes/Legal Settlements/Business Licenses/Fines/Donation/sponsorship.
+            SAP Payment Request
+                                                                         To be filled by Requestor
+       Substitute Invoice Form
+Vendor Type
+                                                   S4
+Vendor Name:
+                                                   H.B. Fuller
+Vendor Number:
+                                                   2000031802
+Company Code:                                       U501
+Remit To Address :                                    H.B Fuller Company
+(Must match the address in the AP system)
+                                                   1200 Willow Lake Boulevard
+                                                   St. Pauf MN 55110
+Special Handling needed:
+                                                   No
+Attn:
+Address:
+Overnight delivery required:
+(if yes provide account # or CC below)
+FedEx or UPS, & Provide Number:
+edEx or UPS account #
+Cost Center (If No FedEx/UPS Number):
+rnsaction type:
+                                                  Invoice
+Choose only 1 option - Invoice or Credit Memo from the dropdown
+nvoice Date:                                        11/11/2024
+nvoice #:
+Limited to 16 characters - REQUIRED                        901840244
+Purchase Order #
+                                                  0793976021
+Not required if non-PO
+Payment GROSS Amount:                                $150.51
+Tax Amount
+(if applicable)
+Payment NET Amount:                                 $150.51
+Currency (USD or CAD)                                 USD
+Header Text:
+Requestor Name:                                     Jake McGibbeny
+Requestor email                                      jake.mcgibbeny@pepsico.com
+Lst Level Approver Name
+Lst Level Approver Email id/GPID
+Date Requested:                                      10/6/2025
+GL Coding (6 digits)                                    100000
+                                                  1K13100000
+Cost Center (If applicable)
+Profit Center (If applicable)
+WBS Element (tif applicable)
+For Assistance On This Form submission please contact:
+Raise service now ticket(Snow)                            PepsiCo : Sign In
+==================================<Page 1 - END>================================
+==================================<Page 2 - START>================================
+                                                                                  H.B. Fuller Company
+                                                                                  1200 Willow Lake Boulevard
+                   H.B. Fuller
+                                                                                 St. Paul MN 55110
+                                                                                 Phone:1-888-351-3523
+       Invoice
+                            901840244 of 11/11/2024
+        Line  Material No / Description                    Quantity UoM
+                                                                                  Price / Unit         Net Total
+        Item
+                Customer Material No / CMIR        Quantity in Price UoM                              USD
+        No.   Text
+                EAN No / Customs Tariff No
+                Import Codes
+        10    15002532                                  180.000 BOX
+                Swift®therm LT PHC-7005
+                PHC7005 PE BX 17.24 KG
+                3506.91.5000
+                350691
+                Net Weight: 6,841.391 LB                                        Country of Origin: US
+               Price                                     6,841.391 LB  1.729999 USD/ 1 LB      11,835.60
+                Net Value for Item                        6,841.391 LB                           11,835.60
+       Sum of Line No's                                                                           11,835.60
+      Freight Surcharge                                          2.200000 USD / 100 LB             150.51
+                                                                                                     11,986.11
+      Total
+                                                    PAGE 2 OF 2
+==================================<Page 2 - END>================================
+==================================<Page 3 - START>================================
+                                      Remit To :
+                                                                                      H.B. Fuller Company
+                                      ACH-PNC
+                 H.B. Fuller                                                  1200 Willow Lake Boulevard
+                                      Account #: 1019823853
+                                                                                      St. Paul MN 55110
+                                      DDA/ACH #: 043000096
+                                                                                      Phone:1-888-351-3523
+                                      Remit Info to: Wire.Transfer@hbfuller.com
+                                      Check: H.B. Fuller
+                                      PO Box 777321
+                                      Chicago IL 60677-7003
+                                                                                                    Original
+          Invoice 901840244 of 11/11/2024
+           Due Date : 03/11/2025
+          Bill To Party: 25000893
+                                                                       Ship To Party: 55001290
+          PEPSI AMERICAS                                          PEPSI AMERICAS
+          ATTN TIM MENCHHOFER                                  3245 HILL AVENUE
+           3245 HILL AVENUE                                         TOLEDO OH 43607
+           TOLEDO OH 43607                                        360236
+          360236
+           Customer Service Specialist: TODD SCHOMMER
+          Email:TODD.SCHOMMER@HBFULLER.COM              Sales Rep: JASON CONOVER
+          Order:      31461589                                     Delivery: 81946222
+          Purchase Order No: 793976021                           Shipment No: 1797669
+                                                                      Tel: 773-451-4463
+          Payer: 45000886 : PEPSI-COLA GENERAL BOTTLERS INC STE 1300 1475 E WOODFIELD RD
+                   SCHAUMBURG IL 60173
+          Payment Terms: Net 120 Days
+           Delivery Term:  CARRIAGE INSURANCE PAID              Total Net Weight:          6,841.391 LB
+           Shipping Point:  TUCKER US NAA                         Total Gross Weight:        7,416.088 LB
+           Note :  H.B. Fuller Company 1200 Willow Lake Boulevard St. Paul MN 55110 Phone:1-888-351-3523
+                   Payment USD: PNC Bank, N.A. SWIFT: PNCCUS33 Account Number: 1019823853Bank Key:
+                    043000096
+          Note :  01-Truck
+                                                                                           0.00
+          Note :
+                                                              Quantity UoM      Price / Unit         Net Total
+          Line   Material No / Description
+                                                                                                            USD
+                  Customer Material No / CMIR        Quantity in Price Uo
+          Item
+          No.    Text
+                  EAN No / Customs Tariff No
+                  Import Codes
+                                                      PAGE 1 OF 2
+==================================<Page 3 - END>================================
+==================================<Page 4 - START>================================
+          From: SPA - PepsiCo Nass AP Invoice Submission <nassapInvoiceSubmission@pepsico.com>
+           Sent: Wed, 15 Oct 2025 17:09:02 (UTC)
+           To: svcimagingspaboxprod@pepsico.com
+          Subject: FW: Toledo VIM
+          Original Number of Attachments : 1
+          Original Attachment Names: SKM_C451i25100608520.pdf
+          Number of forwarded PDF's: 1
+          Number of forwarded Non PDF files: 0
+          From: McGibbeny,Jake{PEP}<Jake.McGibbeny@pepsico.com>
+          Sent: Wednesday, October 15, 2025 5:07:21 PM
+          To: SPA - PepsiCo Nass AP Invoice Submission <nassaplnvoiceSubmission@pepsico.com>
+          Subject: Toledo VIM
+==================================<Page 4 - END>================================

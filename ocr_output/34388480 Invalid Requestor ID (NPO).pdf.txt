@@ -1,30 +1,63 @@
-n
-a
-o
-t
-o
-e
-e
-e
-e
-e
-e
-e
-i
-e
-e
-n
-a
-o
-t
-o
-e
-e
-e
-e
-e
-e
-e
-i
-e
-e
+==================================<Page 1 - START>================================
+          PEPSICO
+                   Instructions: When there is not an "Official" Invoice to request payment, complete the information on this form.
+1 Fill in the Description field below with the payment type - for example: Donation / Taxes / Other
+2. You must fill in all of the fields below and the form must be accompanied with supporting documentation
+ 3.Save submission as 1 single PDF file prior to attaching to SharePoint request
+ 4. The form can be used for the following invoice/payment type activity:
+ 5. Submit PDF form to --> NAssAPInvoiceSubmission@PepsiCo.com
+                                               Non-PO Invoice
+                                         SAP Payment Request
+                                        Substitute Invoice Form
+Vendor Name:
+                                              Cap Logistics
+Vendor Number:
+                                              2000024265
+Company Code:                       US01
+                                             *choose from from the dropdown
+Remit To Address :
+                                             CAP Air fright
+(Must match the address in the AP system)     13704 Ramkin Circlee E
+                                             Houston, TX 77073
+Transaction type:                     Invoice
+                                             *choose only 1 option - Invoice or Credit Memo from the dropdown
+Invoice Date:
+                                             10/10/2024
+Invoice #:                              2409A7096
+                                             *Limited to 16 characters
+ Purchase Order #
+ (not required if non-PO)                    (not required if non-PO)
+  Payment GROSS Amount:
+  Tax Amount (if applicable):                   $0.00
+  Payment NET Amount:             $1,575.00
+  Currency                              USD
+  Header Text:                          Plant to plant transfer
+  Requestor Name:                    Kenneth Sandoval
+  Requestor email
+                                            Kenneth.sandoval@pepsico.com
+  Date Requested:                     7/7/2025
+  For Assistance On This Form submission please contact:
+  NASSAPSpecialRequest@pepsico.com
+==================================<Page 1 - END>================================
+==================================<Page 2 - START>================================
+          From: SPA - PepsiCo Nass AP Invoice Submission <nassapInvoiceSubmission@pepsico.com>
+          Sent: Thu, 28 Aug 2025 18:15:03 (UTC)
+          To: svcimagingspaboxprod@pepsico.com
+          Subject: FW: Inv - 2409A7096
+          Original Number of Attachments : 2
+          Original Attachment Names: 2409A7096 MAILED111924083028.pdf,cap logistics -
+          2409A7096 (7-7).pdf
+          Number of forwarded PDF's: 2
+          Number of forwarded Non PDF files: 0
+          From: Sandoval, Kenneth{PEP}<Kenneth.Sandoval@pepsico.com>
+          Sent: Thursday, August 28, 2025 6:13:30 PM
+          To: SPA - PepsiCo Nass AP Invoice Submission <nassaplnvoiceSubmission@pepsico.com>
+          Subject: Inv - 2409A7096
+          Thank You,
+          KENNETHSANDOVAL
+          RAW MATERIALS COORDINATOR
+          6659 SYCAMORE CANYON BLVD.
+          RIVERSIDE, CA 92507
+         (951) 522-0359
+         KENNETH.SANDOVAL@PEPSICO.COM
+==================================<Page 2 - END>================================

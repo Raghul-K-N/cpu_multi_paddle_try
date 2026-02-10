@@ -1,45 +1,102 @@
-n
-a
-o
-t
-o
-e
-e
-e
-e
-e
-e
-e
-i
-e
-e
-n
-a
-o
-t
-o
-e
-e
-e
-e
-e
-e
-e
-i
-e
-e
-n
-a
-o
-t
-o
-e
-e
-e
-e
-e
-e
-e
-i
-e
-e
+==================================<Page 1 - START>================================
+            PEPSICO
+       Global Business Service
+1 Fill in the Description field below with the payment type - for example: Donation / Taxes / Other
+You must fil Inallof the fields below and the form must be accompanied with supporting documentation
+                                      Non-PO Invoice
+                                 SAP Payment Request
+                             Substitute for Invoice Form
+Vendor Name:
+                                           High Winds Casino
+Vendor Number:                         2000646258
+Company Code:                         US05
+Legal Entity Description:
+                                           PepsiCo Beve Sales,LLC
+Remit To Address :                      High Winds Casino
+                                           61475 East 100 Road
+(Must match the address in the AP system)
+                                           Miami, OK 74354
+Special Handling needed:
+Attn:                                    Vendor License Agent
+Address:
+Overnight delivery required:
+ (if yes provide account # or CC below)
+(Circle) FedEx or UPS, & Provide Number:      FedEx /UPS       #:
+ Cost Center (If No FedEx/UPS Number):
+ Transaction type:                       Invoice
+                                           *choose only 1 option - Invoice or Credit Memo from the dropdown
+ Invoice Date:
+                                           OGC-092425
+  Invoice #:
+                                           *Limited to 16 characters
+  Purchase Order #
+  (not required if non-PO)                    (not required if non-PO)
+                                           $1,325.00
+  Payment GROsS Amount:
+                                           $0.00
+  Tax Amount (if applicable):
+  Payment NET Amount:                  $1,325.00
+                                           USD
+  Currency
+                                           High Winds Casino
+  Header Text:
+  Requestor Name:                       Kristie Wilson
+                                           kristie.wilson@pepsico.com
+  Requestor email
+   Date Requested:                        9/24/2025
+  Submit to nassapinvoicesubmission@pepsico.com
+  1 PDF with Form and supporting documents
+==================================<Page 1 - END>================================
+==================================<Page 2 - START>================================
+WILSON, KRISTIE {PEP}
+From:                          Mandy Jones <vendorlicenseagentogc@gmail.com>
+Sent:                           Monday, September 15, 2025 10:03 AM
+To:                             WILSON, KRISTIE {PEP}; Taylor, Michael {PEP}
+Subject:                        Re: Pepsi Vendor Registration Fees Due
+Follow Up Flag:                Follow up
+Flag Status:                    Flagged
+WARNING: Email originated outside of PepsiCo.
+The current total amount due is $1,325.00. I've broken it down below, let me know if you have any questions. I
+appreciate your help with this!
+$500.00 annual registration fee (includes 5 employees)
+Steven Ensley,
+Lloyd Guerrero Jaura,
+Arielle Hartley,
+Jolle Jolles,
+Kristian Manion,
+11 additional employees $75/each = $825.00
+Lance Meehl,
+Justin McClure,
+Andrew Mustain,
+Cameron Osborn,
+leffery Perry,
+essealan Powers,
+Bradley Prater,
+Paul Sanders,
+Michael Taylor,
+Brian Tucker,
+Cassandra White
+hanks,
+==================================<Page 2 - END>================================
+==================================<Page 3 - START>================================
+           From: SPA - PepsiCo Nass AP Invoice Submission <nassapInvoiceSubmission@pepsico.com>
+           Sent: Wed, 24 Sep 2025 19:08:32 (UTC)
+           To: svcimagingspaboxprod@pepsico.com
+           Subject: FW: Non PO Payment Request
+           Original Number of Attachments : 1
+           Original Attachment Names: High Winds Casino Non PO Payment Request 092425.pdf
+           Number of forwarded PDF's: 1
+           Number of forwarded Non PDF files: 0
+           From: WILSON, KRISTIE{PEP}<KRISTIE.WILSON@pepsicO.COm>
+           Sent: Wednesday, September 24, 2025 7:08:10 PM
+           To: SPA - PepsiCo Nass AP Invoice Submission <nassaplnvoiceSubmission@pepsico.com>
+           Subject: Non PO Payment Request
+           Thank you,
+           Kristie Wilson
+           Pepsi Beverages Company
+           Associate Administrative Assistant
+           kristie.wilson@pepsico.com
+          417-626-3901
+              MISSOURI
+                  PEPSI
+==================================<Page 3 - END>================================

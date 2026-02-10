@@ -1,0 +1,49 @@
+{
+  "invoice_data": {
+    "invoice_number": "1559",
+    "invoice_date": null,
+    "invoice_receipt_date": "Mon, 27 Oct 2025 16:50:49 (UTC)",
+    "invoice_amount": "451.99",
+    "invoice_currency": [
+      "USD"
+    ],
+    "stamp_number": null,
+    "vendor_name": "Mike & Sons Snow Plowing LLC",
+    "remit_to_address": "136 Holly Hill Drive, Uncasville, CT. 06382",
+    "bill_to_entity": "Pepsi Beverage Company",
+    "bill_to_address": "260 Gallivan Lane, Uncasville CT. 06382",
+    "payment_terms": "Net 15",
+    "payment_method": null,
+    "gl_account": null,
+    "bank_name": null,
+    "account_holder_name": null,
+    "banking_account_number": null,
+    "vat_tax_code": null,
+    "vat_amount": "26.99",
+    "transaction_type": "debit"
+  },
+  "filename": "36289412 Missing Invoice Date (PO).pdf",
+  "raw_response": {
+    "invoice_number": "1559",
+    "invoice_date": null,
+    "invoice_receipt_date": "Mon, 27 Oct 2025 16:50:49 (UTC)",
+    "invoice_amount": "451.99",
+    "invoice_currency": [
+      "USD"
+    ],
+    "stamp_number": null,
+    "vendor_name": "Mike & Sons Snow Plowing LLC",
+    "remit_to_address": "136 Holly Hill Drive, Uncasville, CT. 06382",
+    "bill_to_entity": "Pepsi Beverage Company",
+    "bill_to_address": "260 Gallivan Lane, Uncasville CT. 06382",
+    "payment_terms": "Net 15",
+    "payment_method": null,
+    "gl_account": null,
+    "bank_name": null,
+    "account_holder_name": null,
+    "banking_account_number": null,
+    "vat_tax_code": null,
+    "vat_amount": "26.99",
+    "transaction_type": null
+  }
+}

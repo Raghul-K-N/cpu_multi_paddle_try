@@ -1,60 +1,121 @@
-n
-a
-o
-t
-o
-e
-e
-e
-e
-e
-e
-e
-i
-e
-e
-n
-a
-o
-t
-o
-e
-e
-e
-e
-e
-e
-e
-i
-e
-e
-n
-a
-o
-t
-o
-e
-e
-e
-e
-e
-e
-e
-i
-e
-e
-n
-a
-o
-t
-o
-e
-e
-e
-e
-e
-e
-e
-i
-e
-e
+==================================<Page 1 - START>================================
+                                                                              Global Intercompany Cross-Charge Request /Invoice
+                                                                                                                                               Please Select Period
+                                                                            This cover sheet must accompany                                       Invoice Date         12/11/2025
+                                                                            el Non-trade intercompeny requests                                   System Posting Date         12/11/2025
+                                                                                                                              System Posting Period
+                                                                                                                                                   13
+                                                                                                                   Invoice Reference Number (up to 15 char)=>        P10-P12 25QK04
+                                                                                                                          I/C Non-Trade AR Recon Acct          140150
+                                                                           (cash settlement only, including netting)                              I/C Non-Trade AP Recon Acct          213150
+                                                                         Requesting Division Information
+Charge From:
+Division Requesting Cross-Charge                            QTG
+Legal Entity Requesting Cross-Charge
+                                            PepsiCo Sales, Inc
+Legal Entity Address
+HFM Code (ICP)
+                                            QKRHQUSRPT
+GL Trading partner (if applicable)                            US88
+Business Partner
+Netting ID (if applicable)                                 2000208740
+Currency                                       USD
+Tax Code, where applicable (e.g.., VAT, GST)
+                                            7700000000
+Exemption law/directive (where applicable) 0% VAT rate exemption no            10
+Fiscal representative (SwissCo specific)
+Initiator Cross-Charge email
+                                            BudoetHolden@PepsiCo.com
+                                                                         Accepting Division Information
+Charge To:
+Division Accepting Cross-Charge                            PBC
+.egal Entity Accepting Cross-Charge                           Bottling Group, LLC
+egal Entity Address
+IFM Code (ICP)                                    IC2NABBOTT301
+L Trading partner (if applicable)                             US24
+lusiness Partner                                    2000206771
+letting ID (if applicable)
+ax Code, where applicable (e.g., VAT, GST)                        7700000000
+ontact Accepting Charge E-mail                            justyna pienkowskathpeosico.com
+suthorized by                                     Budget Holder
+                                            Justyna Pienkowska
+C Cross Charge Processor - E-mail - Charge To Division                justyna.pienkowska@pepsico.com
+Description of Cross-Charge                              P10-P12 25 Quaker HQ payment in P13'25
+Charge From Division:     QTG
+                                                                        Debit/(Credit)         VAT/GST Amount    Debit/(Credit)
+                 Partner Profit Center  Cost Center                                    Amount excluding VAT/GST                              Transaction
+  Profit Center Number                Number    Plant    GL Account Number    WBS(if applicable)      VAT                      Amount including  Currency          TEXT / Description        Additional information
+                    Number                                                          %    (Credit) = 220000     VAT/GST           Type
+                                                                                        Debit = 126000
+                                                                          (a)      (b)     (c) = (a)"(b)      (d) = (a)+(c)
+                                                                             -11.64               0.00       -11.64  USD
+      Total                                                                    -11.64               0.00       -11.64  USD
+                PBC
+harge To Division:
+                                                                        Debit/(Credit)         VAT/GST Amount
+                Partner Profit Center  Cost Center                                    Amount excludingVAT/GST               Debit/(Credit)         Transaction
+  Profit Center Number       Number      Number    Plant    GL Account Number    WBS(if applicable)                                Amount including  Currency          TEXT / Description        Additional information
+                                                                          VAT      %    (Credit) = 220000                     Type
+                                                                                        Debit = 126000      VAT/GST
+                                                                                  (b)     (c) = (a){(b)      (d) = (8)+(c)
+    9SUSL10000        9SUSL20000                       213015                          11.64                0.00       11.64  USD         QKRHQUSRPT      P10-P12 25 Quaker HQ payment in P13'25
+      Total
+                                                                             11.64               0.00       11.64  USD
+     TOTAL
+                                                                             0.00               0.00        0.00  USD
+special tax or legal
+equirements
+==================================<Page 1 - END>================================
+==================================<Page 2 - START>================================
+S Code     TP            PC
+                                                PPC               GL      Reference      Amount
+$05         USOG          9SUSL10000                                                                                                            -11,580,110.38
+                                                9SHQX19000         213020  P11-RPRECLASS17        -2,206,345.96             213020
+05         USOG
+                           9SUSL10000           9SHQX19000         213020                        -3,979,057.55                9SHQX19000         -6,185,403.51
+05                                                                          P11QTGRP
+           USOG          9SUSL10000                                                                                                              -6,185,403.51
+                                                9SUSL10000          213020  P12-RPRECLASS9         -2,017,952.93                  US0G
+5         USOG
+                          9SUSL10000           9SUSL10000          213020  P12QTGRP             -3,636,772.62                     9SUSL10000    -6,185,403.51
+5
+           USOG          9SUSL10000           9SUSL10000          213020  P12RELATEDPART          260,018.68                9SUSL10000         -5,394,706.87
+                                                                                                                             9SUSL20000           -232,823.66
+                                                                                                                                US0E               -232,823.66
+                                                                                                                                                    -232,823.66
+                                                                                                                                   9SUSL10000
+                                                                                                                         US24                        -6,110.08
+                                                                                                                            213015                    -6,110.08
+                                                                                                                                                      -6,098.44
+                                                                                                                              9SHQX19000
+                                                                                                                                 US0E                -6,098.4
+                                                                                                                                      9SUSL1000C       -6,098.4
+                                                                                                                                                           -11.
+                                                                                                                                9SUSL20000
+                                                                                                                                   US88                   -11.
+                                                                                                                                                           -11
+                                                                                                                                     9SUSL10000
+                                                                                                                                                    -12,095,457
+                                                                                                                          Grand Total
+==================================<Page 2 - END>================================
+==================================<Page 3 - START>================================
+                                                                  186
+                                  42.2000
+                    31133                                 12
+==================================<Page 3 - END>================================
+==================================<Page 4 - START>================================
+           From: "Pienkowska, Justyna {PEP}" <Justyna.Pienkowska@pepsico.com>
+           Sent: Thu, 11 Dec 2025 17:11:44 (UTC)
+           To: NAAPNonTradeIntercoInvoices@pepsico.com
+           Cc: manuel.rebelo@pepsico.com
+           Subject: P10-P12 2025 Q&G payments in P13
+           Hello,
+           Please process 9 payments for Gatorade, Quaker HQand Quaker Foods.
+          Thanks,
+                                           Justyna Pienkowska
+                                           Intercompany
+                  PEPSICO
+                                           Cntrl & Rpt Sr Analyst
+                                           Pepsi Beverages Company
+                                           Email: Justyna.Pienkowska@pepsico.com
+==================================<Page 4 - END>================================

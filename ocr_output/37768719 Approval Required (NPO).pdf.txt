@@ -1,30 +1,70 @@
-n
-a
-o
-t
-o
-e
-e
-e
-e
-e
-e
-e
-i
-e
-e
-n
-a
-o
-t
-o
-e
-e
-e
-e
-e
-e
-e
-i
-e
-e
+==================================<Page 1 - START>================================
+                                                                               Global Intercompany Cross-Charge Request / Invcice                                         Please Select Perlod
+                                                                           This cover sheet must accompany                                                     Inuoice Date    12/13/2025
+                                                                          all Non-trade intercompany requests
+                                                                                                                                          Syster Posting Date    12/13/2025
+                                                                                                                                         System Posting Period     13
+                                                                                                                               Involce Reference Number (up to 15 char)=>   P12FLUSTH06
+                                                                                                                                 Special GL Indicator - ICNonTrd
+                                                                                                                                  I/C Non-Trade AR Recon Acct    140010
+                                                                          (cash settlement anty, including netting)                                         I/C Non-Trade AP Recon Acct    213150
+                                                                        Requesting Division Information
+Charge From:
+Division Requesting Cross-Charge                        ZiNT Papsl-Cola (THAl) Trading company
+Legal Entity Requesting Cross-Charge
+Legal Entity Address
+HFM Code (ICP)                                Ic1FVle6402
+GL Trading parther (If applicable)                         TH08
+Business Parther
+Neffing ID (if applicable)                             2004963833
+Currency                                   USD
+Tax Code, where applicable (e.g. VAT, GST)
+Exemption lawdirective (where applicable)y 0% VAT rate exemption no
+Fiscal representative (SwissCo specific)
+Initiator Cross-Charge amail                           Rungthio,Suntainta@tipepsico.com
+                                                                       Accepting Division Information
+Charge To:
+Division Accepfing Cross-Charge                         FLNA
+Legal Entity Accepting Cross-Charge
+Legal Entity Address
+HFM Code (ICP)                                IC3FLUS
+GL Trading parther (if applicable)                         US28
+Business Partner
+                                       2003298866
+Netting ID (If applicable)
+Tax Code, where applicable (8.g., VAT, GST)
+Contact Accepting Charge E-mall
+Authorlzed by                                Han Yu
+VC Cross Charge Processor -E-mall - Charge To Divislon
+Descrlotion of Cross-Charce
+Charge From Divislon:      ZINT Pepsl-Cola (THAI) Trading company
+                                                                                    VAT/GST Amount
+                                                              Debit(Credilt) Amount                       Deblt(Credit) Amount
+   Profft Conter Number    Partner Profit Center  Cost Center Plant  GL Account Number   WBS(If applicable)   excluding VAT    VAT/GST %                          Currency  Transaction Type         TEXT / Description         Additional Information
+                    Number      Number                                                   (Credlt) = 220000    Including VAT/GST
+                                                                                     Deblt = 126000
+                                                                  (a)        (b)        (c) = (a)*(b)      (d) = (a)+(c)
+                                                                   (57,443.31)                                                          P12FLUSTH06
+       Total                                                          (57,443.31)                    0.00        0.00  USD
+Charge To Division:       FLNA
+                                                              Debit(Credit) Amount            VAT/GST Amount
+   Profit Genter Number    Partner Profft Center  Cost Center Plant  GL Account Number                                             Debit/(Credit) Amount
+                    Number      Number                   WBS(If applicable)   excluding VAT    VAT/GST %     (Credilt) = 220000    Including VAT/GST  Currency  Transaction Type        TEXT /Description         Additional Information
+                                                                                     Deblt =128000
+     4FUSL00000                                                       (a)        (b)        (c) = (a)*(b)
+                                            213015                    57,443.31                                   USD                    HO2521100014
+       Total                                                          57,443.31                    0.00        0.00  USD
+      TOTAL
+                                                                     0.00                   0.00        0.00  USD
+Speclal tax or legal requlrements
+==================================<Page 1 - END>================================
+==================================<Page 2 - START>================================
+         From: SPA - FLNA INTERCOMPANY <FLNAINTERCOMPANY@pepsico.com>
+          Sent: Sat, 13 Dec 2025 17:11:51 (UTC)
+          To: NAAPNonTradeIntercoInvoices@pepsico.com
+          Subject: P12 TH06 2025 Invoice
+         Hi,
+         Could you please help process the attached invoice?
+         Thank you,
+        Han
+==================================<Page 2 - END>================================

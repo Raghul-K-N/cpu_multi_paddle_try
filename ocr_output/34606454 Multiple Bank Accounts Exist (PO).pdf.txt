@@ -1,60 +1,147 @@
-n
-a
-o
-t
-o
-e
-e
-e
-e
-e
-e
-e
-i
-e
-e
-n
-a
-o
-t
-o
-e
-e
-e
-e
-e
-e
-e
-i
-e
-e
-n
-a
-o
-t
-o
-e
-e
-e
-e
-e
-e
-e
-i
-e
-e
-n
-a
-o
-t
-o
-e
-e
-e
-e
-e
-e
-e
-i
-e
-e
+==================================<Page 1 - START>================================
+Invoice                                                 cybersource
+                                                                                A Visa Solution
+Remit To:                                                                  Invoice Number:: 497219430513
+CyberSource Corporation                                                       Invoice Date:     AUG 31, 2025
+PO BOX 742842                                                             Period:  AUG 01 - AUG 31, 2025
+Los Angeles, CA 90074-2842                                                    Terms:           Net 60 days
++1 (800) 709-7779                                                            Customer ID:        4440618
+www.cybersource.com                                                        Invoice Currency:        USD
+                                                                        PO
+ Bill To:
+ PepsiCo, Inc.                                                        M412890247
+ Frito-Lay North America, Inc.
+ 7701 Legacy Dr
+  PLANO,Texas,75024
+  United States
+                                  PO: M412890247
+  Invoice Summary
+          Description                Transaction  Payment Volume       Amount          Tax Amount Due
+                                      Quantity     (Pricing Cur.)                       (USD)      (USD)
+                                                                       (USD)
+  CYBS ACH Credit                        4,012                        361.08          0.00      361.08
+                                                                                               5,130.90
+  CYBS ACH Debit                       57,010                       5,130.90          0.00
+  Credit Card Transaction Fraud                                                            0.00     6,598.09
+                                       55,916                       6,598.09
+    Management Essentials
+                                            1                        800.00          0.00       800.00
+   Advanced Support (Monthly)
+  Payment Tokenization Monthly Fee(        193,071                       1,000.00          0.00     1,000.00
+    TMS)
+  Totals                                                 USD      13,890.07          0.00    13,890.07
+                                                                                 Total Due      13,890.07
+                                                                   Total Taxable Billing Amount      13,890.07
+                                                                                      Tax          0.00
+  Please remit full invoice amount. Please do not withhold any bank charges and/or applicable taxes.
+  To pay your invoice by card, please utilize this payment link by clicking here.
+==================================<Page 1 - END>================================
+==================================<Page 2 - START>================================
+  Invoice
+                                                                                                      cybersource
+                                                                                                                      A Visa Solution
+  Remit To:
+                                                                                                                Invoice Number:      497219430513
+  CyberSource Corporation                                                                                         Invoice Date:          AUG 31, 2025
+  PO BOX 742842
+                                                                                                                Period:       AUG 01 - AUG 31, 2025
+  Los Angeles, CA 90074-2842                                                                                      Terms:                Net 60 days
+  +1 (800) 709-7779                                                                                               Customer ID:             4440618
+  www.cybersource.com
+                                                                                                               Invoice Currency:            USD
+ Bill To:
+  PepsiCo, Inc.                                                                                                       PO
+ Frito-Lay North America, Inc.                                                                                      M412890247
+ 7701 Legacy Dr
+ PLANO,Texas,75024
+United States
+Invoice Detail
+                                                                                                                                    Amount Due
+         Description                  Transaction   Price   Pricing  Payment    Rate       Amount     Amount    Tax      Tax
+                                        Quantity            Cur.    Volume            (Pricing Cur.)       (USD)    Rate    (USD)         (USD)
+PepsiCo, Inc.
+CyberSource Login: 4440618_D
+(M412890247)
+Credit Card Transaction Fraud                55,916      0.118 USD                           6,598.09      6,598.09    0%     0.00       6,598.09
+Management Essentials
+Sub Total                                                                                              6,598.09             0.00       6,598.09
+CyberSource Login: s2u_canada
+Contact : Seth Lee
+(M412890247)
+                                                                                              3.87         3.87    0%     0.00          3.87
+CYBS ACH Credit                            43       0.09 USD
+                                                                                                         156.60              0.00         156.60
+CYBS ACH Debit                           1,740       0.09 USD                             156.60                  0%
+Sub Total                                                                                                160.47             0.00         160.47
+==================================<Page 2 - END>================================
+==================================<Page 3 - START>================================
+Invoice
+                                                                                                       cybérsource
+                                                                                                                       A Visa Solution
+Remit To:
+                                                                                                                 Invoice Number:      497219430513
+CyberSource Corporation
+                                                                                                                 Invoice Date:         AUG 31, 2025
+PO BOX 742842
+                                                                                                                 Period:      AUG 01 - AUG 31, 2025
+Los Angeles, CA 90074-2842                                                                                       Terms:                Net 60 days
++1 (800) 709-7779                                                                                                                        4440618
+                                                                                                                Customer ID:
+www.cybersource.com                                                                                            Invoice Currency:            USD
+          Description                                                                                                                Amount Due
+                                       Transaction   Price   Pricing  Payment    Rate       Amount     Amount    Tax      Tax
+                                          Quantity            Cur.    Vlume                                               (USD)         (USD)
+                                                                                        (Pricing Cur.)       (USD)    Rate
+  CyberSource Login: s2u_dev
+  Contact : Seth Lee
+   (M412890247)
+   CYBS ACH Credit                         3,969      0.09 USD                            357.21       357.21     0%     0.00        357.21
+    CYBS ACH Debit                         55,270      0.09 USD                           4,974.30      4,974.30    0%     0.00       4,974.30
+                                                                                                         5,331.51             0.00       5,331.51
+    Sub Total
+    PepsiCo, Inc.
+    Advanced Support (Monthly)                     1     800.00 USD                                                    0%     0.00         800.00
+                                                                                              800.00       800.00
+    Payment Tokenization Monthly              193,071    1,000.00 USD                                                              0.00       1,000.00
+                                                                                            1,000.00      1,000.00
+    Sub Total
+                                                                                                          1,800.00              0.00        1,800.00
+    Total                                                                                                                      0.00
+                                                                                                USD    13,890.07                        13,890.07
+                                                                                                                        Total Due         13,890.07
+                                                                                                         Total Taxable Billing Amount         13,890.07
+                                                                                                                             Tax
+                                                                                                                                              0.00
+    The transaction payment volume (if applicable) is shown in the contractual pricing currency.
+   If you have any billing questions or concerns, please contact us at +1 (800) 709-7779.
+    sent to CyberSourcePayments@visa.com.
+==================================<Page 3 - END>================================
+==================================<Page 4 - START>================================
+      From: SPA - PepsiCo Nass AP Invoice Submission <nassapInvoiceSubmission@pepsico.com>
+      Sent: Fri, 5 Sep 2025 13:20:15 (UTC)
+      To: svcimagingspaboxprod@pepsico.com
+      Subject: FW: Cybersource Invoice 497219430513
+      Original Number of Attachments : 1
+      Original Attachment Names: CyberSource Invoice 497219430513.pdf
+      Number of forwarded PDF's: 1
+      Number of forwarded Non PDF files: 0
+       From: Winters, Anita {PEP}<Anita.Winters@pepsico.com>
+       Sent: Friday, September5, 2025 1:19:29 PM
+       To: SPA - PepsiCo Nass AP Invoice Submission <nassaplnvoiceSubmission@pepsico.com>
+       Cc: ZimmermanJones, Laura{PEP}<Laura.ZimmermanJones@pepsico.com>; Noriega, César{PEP}
+       <Cesar.Noriega@pepsico.com>;Gibbons, Erik{PEP}<Erik.Gibbons@pepsico.com>
+       Subject: Cybersource Invoice 497219430513
+       Imaging team
+       The attached invoice is ready for processing against MyBuy PO
+        M412890247
+        Please let me know if there are any questions or concerns regarding this invoice request.
+       Thank you!
+       Be Safe and Stay Well!
+       Me 
+       Anita Winters
+       Proud PepsiCo Ambassador
+       Sr. Admin Assistant to Brad Jordan |Sr Vice President | FLNA Transformation
+       Sr. Admin Assistant to Lucas Ciccarelli | Vice President| Sales Technology Frontline Sales Systems
+        Sr. Admin Assistant to Derek Rude | Vice President| GTM Sales Enablement
+:312.821.2228 |:anita.winters@pepsico.com
+==================================<Page 4 - END>================================

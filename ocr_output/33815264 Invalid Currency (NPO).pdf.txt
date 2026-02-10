@@ -1,105 +1,171 @@
-n
-a
-o
-t
-o
-e
-e
-e
-e
-e
-e
-e
-i
-e
-e
-n
-a
-o
-t
-o
-e
-e
-e
-e
-e
-e
-e
-i
-e
-e
-n
-a
-o
-t
-o
-e
-e
-e
-e
-e
-e
-e
-i
-e
-e
-n
-a
-o
-t
-o
-e
-e
-e
-e
-e
-e
-e
-i
-e
-e
-n
-a
-o
-t
-o
-e
-e
-e
-e
-e
-e
-e
-i
-e
-e
-n
-a
-o
-t
-o
-e
-e
-e
-e
-e
-e
-e
-i
-e
-e
-n
-a
-o
-t
-o
-e
-e
-e
-e
-e
-e
-e
-i
-e
-e
+==================================<Page 1 - START>================================
+         PEPSICO
+  Instructions:When there is not an "Official" Invoice to request payment, complete the information on this form.
+  1.You must fillin all of the fields below and the form must be accompanied with supporting documentation.
+  2. Save submission as 1 single PDF file prior to submitting to nassapinvoicesubmission@pepsico.com
+  The form can be used for the following invoice/payment type activity: Taxes/Legal Settlements/Business Licenses/FinesDonation/sponsorship.
+               SAP Payment Request
+                                                                                   To be filled by Requestor
+        Substitute Invoice Form
+ Vendor Type
+                                                            S4
+ Vendor Name:
+                                                            General Teamsers Local 162
+ Vendor Number:                                                                                                             2000027364
+ Company Code:                                            US07
+ Remit To Address :                                          1850 NE 162nd Ave
+ (Must match the address in the AP system)                      Portland OR 97230-5697
+ Special Handling needed:                                    Yes
+Attn:                                                      Union Admin
+Address:
+                                                            1850 NE 162nd Ave, Portland OR 97230-5697
+Overnight delivery required:
+(if yes provide account # or CC below)                           Yes
+FedEx or UPS, & Provide Number:
+FedEx or UPS account #
+Cost Center (If No FedEx/UPS Number):
+Trnsaction type:
+                                                           Invoice
+Choose only 1 option - Invoice or Credit Memo from the dropdown
+Invoice Date:                                              8/6/2025
+Invoice #:
+                                                           162JuneJulyUS05
+Limited to 16 characters
+Purchase Order #
+Not required if non-PO
+Payment GROSS Amount:                                    $2,814.67
+Tax Amount
+(if applicable)
+Payment NET Amount:                                      $2,814.67
+Currency (USD or CAD)                                      USD
+Header Text:                                              162JuneJulyUS05
+Requestor Name:                                           Lynette Kennard
+Requestor email                                            Lynette.Kennard.contractor@pepsico.com
+1st Level Approver Name                                    Carly Alexander
+                                                           Wanda Quada
+1st Level Approver Email id/GPID
+                                                           8/6/2025
+Date Requested:
+                                                           211624
+GL Coding (6 digits)
+Cost Center (if applicable)
+                                                           2BUSL20000
+Profit Center (if applicable)
+WBS Element (if applicable)
+For Assistance On This Form submission please contact:
+Raise service now ticket(Snow)                               PepsiCo - Sign In
+==================================<Page 1 - END>================================
+==================================<Page 2 - START>================================
+      From: Harprit Singh Arora <harprit.singh.arora@stradaglobal.com>
+      Sent: Monday, July 21, 2025 11:52 AM
+      To: Alexander, Carty {PEP) <CarlyAlexander@pepsico.com>
+      Cc: Lynette Kennard <lynette.kennard@stradaglobal.com>
+      Subject: FYi  Payment Status for Teamsters Local 483 and Follow-Up Action
+      WArNiNG: Email originated outside of PepsiCo.
+      Hello Carty,
+      This is just an FYl email to inforrn you that I have extracted the relevant reports from SAP for Union Teamsters Local 483. As per the d
+      has not encashed.
+      To address this, we are in the process of submitting a negative invoice under supplier number (2004163121) of 483 to offset the
+      (2000027364), as Local 483 has now merged with themn.
+      Please confirm if we should place a payment block under the supplier number for Union 483 to prevent any future disbursements.
+                                                    Type   Reference                Amount in FC     G/L Acct
+        Supplier    Name 1
+                                                                                                       211000
+                    GENERAL TEAMSTERS LOCAL 483     ZP                                    1,050.75
+        2004163121
+                                                                                           1,763.92    211000
+        2004163121 GENERAL TEAMSTERS LOCAL 483     ZP
+                    GENERAL TEAMSTERS LOCAL 483     ZP                                      858.05    211000
+        2004163121
+                                                                                                        211000
+        2004163121 GENERAL TEAMSTERS LOCAL 483     ZP                                       883.3
+      Let me know if you need any additional inforrnation.
+      Regards,
+     Harprit Singh
+==================================<Page 2 - END>================================
+==================================<Page 3 - START>================================
+    data, the June and July payments were posted and cleared in S4. However, based on recent communication below dhecks were issued wf
+    e previous payments, and we will be submitting a new invoice of below amount to GENeRAL TEAMsTErs LoCAl 162 under supplier 1
+                                                                                      Check
+    PM  CoCd  Clrng doc.   Clearing   Crcy       Debit/Credit Arnaunt     Pstng Date   Number
+        4 US05   2001356322 2025-06-08 USD                    1,050.75   2025-06-08 500188381
+        4 US05                          USD                    1,763.92
+                   2001608081 2025-07-13                                    2025-07-13 500192532
+        4 US07  2000163038 2025-06-08 USD                      858.05  2025-06-08 700006282
+        4
+          US07   2000192543 2025-07-13 USD                       883.3  2025-07-13   1022730
+==================================<Page 3 - END>================================
+==================================<Page 4 - START>================================
+f 483
+mber
+==================================<Page 4 - END>================================
+==================================<Page 5 - START>================================
+                                  Instructions to Fill the Form
+          Mandatory details                               Details
+      Vendor Type                 Should be select whether S4/MYBUY based on Vendor nature
+      Vendor Name:                As per MDG
+      Vendor Number:              Select the Vendor# that matches the Remit address and Remit Name
+      Company Code:               Update the Co. Code to which this invoice/credit to be process
+      Remit To Address :
+                                  Fill the address that is matching with information in the SAP/S4 Master Data.
+     (Must match the address in the AP
+                                  Address in the Vendor number (Row 5) should match
+     system)
+     Special Handling needed:        If check payment, select if the check to be special handled
+     Trnsaction type:
+                                 Select Payment request is Invoice (Paying supplier) or Credit (Recovery from
+     Choose only 1 option - Invoice or
+                                 Supplier)
+     Credit Memo from the dropdown
+     Invoice Date:                 Self Expalanatory
+     Invoice #:
+                                 Numeric or Alpha Numeric but not exceeding 16 digits
+     Limited to 16 characters
+     Purchase Order #
+                                 Update if Purchase Order# available for this payment
+     Not required if non-PO
+     Payment Sub-Total Amount:      Invoice Sub Total (Before Tax if any)
+    Tax Amount
+                                 Tax value if applicable
+     (if applicable)
+    Payment NET Amount:          Overall Invoice value (Sub-Total + Tax)
+    Currency                    Paying or Recovery Currency
+    Header Text:                 Free text - Mention the Reason for payment (Optional)
+    Requestor Name:              Name of the person who submits the Payment request form
+    Requestor email               Requestor Emaild or GPID
+                                 Name of the person who approves this Payment (Invoice or Credit)
+    1st Level Approver Name
+                                 Note: - It's control Requestor and Approver should not be the same person
+    1st Level Approver Email id/GPID  Approver Email ID or GPID
+    Date Requested:              Self Expalanatory
+                                If no PO available for this request, mention the GL code to which the expense to be
+    GL Coding
+                                processed
+                                If no PO available for this request, mention the Cost code to which the expense to
+    Cost Center (if applicable)
+                                be processed
+    Profit Center (if applicable)      If it should go to Profit Center, please mention
+    WBS Element (if applicable)      If applicable
+    For Assistance On This Form submission please contact:
+    Raise service now ticket(Snow)   Any further information related to particular invoice raise service now.
+==================================<Page 5 - END>================================
+==================================<Page 6 - START>================================
+                        New form Effective Start date - P5 2025 Week 2 Work Day 1 (28t
+    Follwing are the reason - Payment request will be Returned or Rejec
+    1. If Requestor and Approver same person.
+    2. If request for MYBUY.
+    3. If Vendor number and vendor name mismatch.
+    4. If Payment request form submitted Non PDF copy.
+    1. This form is to be used for non-PO invoice submissions as well as a substitute for invoice when those ai
+    2. All required fields need to be completed.
+    3. Save submission as 1 PDF prior to submission.
+    4. Pay close attention to adding special handling details ONLY IF SUCH HANDLING IS REQUIRED.
+    5. Service now ticket:Category- invoice processing and sub category- non po inquires.
+    1 who can validate
+    2 Final approval
+==================================<Page 6 - END>================================
+==================================<Page 7 - START>================================
+    th April 2025) Onwards
+    ted
+    re not available.
+==================================<Page 7 - END>================================

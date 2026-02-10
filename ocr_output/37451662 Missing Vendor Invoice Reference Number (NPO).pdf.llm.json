@@ -1,0 +1,51 @@
+{
+  "invoice_data": {
+    "invoice_number": "901840244",
+    "invoice_date": "11/11/2024",
+    "invoice_receipt_date": null,
+    "invoice_amount": "150.51",
+    "invoice_currency": null,
+    "stamp_number": null,
+    "vendor_name": "H.B. Fuller",
+    "remit_to_address": "H.B Fuller Company, 1200 Willow Lake Boulevard, St. Pauf MN 55110",
+    "bill_to_entity": "25000893",
+    "bill_to_address": "PEPSI AMERICAS, ATTN TIM MENCHHOFER, 3245 HILL AVENUE, TOLEDO OH 43607",
+    "payment_terms": "Net 120 Days",
+    "payment_method": "ACH-PNC",
+    "gl_account": [
+      "100000",
+      "1K13100000"
+    ],
+    "bank_name": null,
+    "account_holder_name": null,
+    "banking_account_number": null,
+    "vat_tax_code": null,
+    "vat_amount": null,
+    "transaction_type": "debit"
+  },
+  "filename": "37451662 Missing Vendor Invoice Reference Number (NPO).pdf",
+  "raw_response": {
+    "invoice_number": "901840244",
+    "invoice_date": "11/11/2024",
+    "invoice_receipt_date": null,
+    "invoice_amount": "$150.51",
+    "invoice_currency": null,
+    "stamp_number": null,
+    "vendor_name": "H.B. Fuller",
+    "remit_to_address": "H.B Fuller Company\n1200 Willow Lake Boulevard\nSt. Pauf MN 55110",
+    "bill_to_entity": "25000893",
+    "bill_to_address": "PEPSI AMERICAS\nATTN TIM MENCHHOFER\n3245 HILL AVENUE\nTOLEDO OH 43607",
+    "payment_terms": "Net 120 Days",
+    "payment_method": "ACH-PNC",
+    "gl_account": [
+      "100000",
+      "1K13100000"
+    ],
+    "bank_name": null,
+    "account_holder_name": null,
+    "banking_account_number": null,
+    "vat_tax_code": null,
+    "vat_amount": null,
+    "transaction_type": null
+  }
+}

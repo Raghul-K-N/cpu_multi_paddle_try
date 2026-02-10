@@ -1,0 +1,61 @@
+{
+  "invoice_data": {
+    "invoice_number": "139662",
+    "invoice_date": "8/6/2025",
+    "invoice_receipt_date": null,
+    "invoice_amount": "452.55",
+    "invoice_currency": [
+      "USD"
+    ],
+    "stamp_number": null,
+    "vendor_name": "PPM TECHNOLOGIES HOLDINGS, LLC",
+    "remit_to_address": "P.O. BOX 95954, CHICAGO, IL 60694-5954",
+    "bill_to_entity": "FRITO-LAY, INC",
+    "bill_to_address": "PO BOX 1800, WINSTON SALEM, NC 27105, USA",
+    "payment_terms": "NET 60",
+    "payment_method": "WIRE/ACH",
+    "gl_account": null,
+    "bank_name": [
+      "BMO Harris Bank N.A."
+    ],
+    "account_holder_name": [
+      "PPM TECHNOLOGIES HOLDINGS, LLC"
+    ],
+    "banking_account_number": [
+      "4426607"
+    ],
+    "vat_tax_code": null,
+    "vat_amount": null,
+    "transaction_type": "debit"
+  },
+  "filename": "34046864 Invalid Tax Info. (PO).pdf",
+  "raw_response": {
+    "invoice_number": "139662",
+    "invoice_date": "8/6/2025",
+    "invoice_receipt_date": null,
+    "invoice_amount": "452.55",
+    "invoice_currency": [
+      "USD"
+    ],
+    "stamp_number": null,
+    "vendor_name": "PPM TECHNOLOGIES HOLDINGS, LLC",
+    "remit_to_address": "P.O. BOX 95954, CHICAGO, IL 60694-5954",
+    "bill_to_entity": "FRITO-LAY, INC",
+    "bill_to_address": "PO BOX 1800, WINSTON SALEM, NC 27105, USA",
+    "payment_terms": "NET 60",
+    "payment_method": "WIRE/ACH",
+    "gl_account": null,
+    "bank_name": [
+      "BMO Harris Bank N.A."
+    ],
+    "account_holder_name": [
+      "PPM TECHNOLOGIES HOLDINGS, LLC"
+    ],
+    "banking_account_number": [
+      "4426607"
+    ],
+    "vat_tax_code": null,
+    "vat_amount": null,
+    "transaction_type": null
+  }
+}
