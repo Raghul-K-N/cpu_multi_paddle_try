@@ -1,0 +1,473 @@
+[2026-02-10 12:08:39] [INFO    ] [MainProcess] Log file created: ./logs/ocr_run_20260210_120839.log | fname=
+[2026-02-10 12:08:39] [INFO    ] [MainProcess] ========== OCR Pipeline Starting ========== | fname=INIT
+[2026-02-10 12:08:39] [INFO    ] [MainProcess] Input directory : /home/whirldata/cpu_multi_paddle_try/pepsico_attachments | fname=INIT
+[2026-02-10 12:08:39] [INFO    ] [MainProcess] Output directory: /home/whirldata/cpu_multi_paddle_try/ocr_output | fname=INIT
+[2026-02-10 12:08:39] [INFO    ] [MainProcess] Total vCPUs     : 60 | fname=INIT
+[2026-02-10 12:08:39] [INFO    ] [MainProcess] Num workers     : 8 | fname=INIT
+[2026-02-10 12:08:39] [INFO    ] [MainProcess] Threads/worker  : 7 | fname=INIT
+[2026-02-10 12:08:39] [INFO    ] [MainProcess] Queue size      : 5 | fname=INIT
+[2026-02-10 12:08:39] [INFO    ] [MainProcess] Supported exts  : {'.bmp', '.webp', '.tiff', '.png', '.jpeg', '.pdf', '.tif', '.jpg'} | fname=INIT
+[2026-02-10 12:08:39] [INFO    ] [MainProcess] Total entries found in input directory: 36 | fname=SCAN
+[2026-02-10 12:08:39] [DEBUG   ] [MainProcess] All entries: ['34260911 Missing Item Qty. (PO).pdf', '35659400  Company Code Mismatch (PO).pdf', '36364887 Accounting Vendor Maintenance Required (PO).pdf', '36289708  Process Non Invoice Document.pdf', '37290355 Process PO Credit Memo (PO).pdf', '37151454 Process Non-PO Credit Memo (NPO).pdf', '37689388 Process Non-PO Invoice (NPO).pdf', '37451662 Missing Vendor Invoice Reference Number (NPO).pdf', '12124087 Mismatch PepsiCo Company Name (PO).pdf', '23996926 Manual Check of Indexing Lines (PO).pdf', '37794522 Invalid Vendor (PO).pdf', '30313542 Suspected Duplicate (PO).pdf', '37768719 Approval Required (NPO).pdf', '37691076 Please Index (PO).pdf', '37689884 Invalid Vendor (NPO).pdf', '37654394 Invalid PO Number (PO).pdf', '35294023 Please Index (NPO).pdf', '24551639 Process PO Invoice (PO).pdf', '37691214 Missing Vendor Invoice Reference (PO).pdf', '37692967 Invalid UOM (PO).pdf', '33365033 Unable to Determine Company Code (NPO).pdf', '34606454 Multiple Bank Accounts Exist (PO).pdf', '32527148 UOM Mismatch (PO).pdf', '34046864 Invalid Tax Info. (PO).pdf', '36289412 Missing Invoice Date (PO).pdf', '33815264 Invalid Currency (NPO).pdf', '34728178 Vendor Mismatch (PO).pdf', '34388480 Invalid Requestor ID (NPO).pdf', '36532827   Missing Mandatory Information (NPO).pdf', '36292740 Suspected Duplicate (NPO).pdf', '23867942 Invoice Older than Allowed (PO).pdf', '37371307 Invalid Currency (PO).pdf', '28536941 Invalid Recipient VAT Number (PO).pdf', '36761716 Invoice Older than Allowed (NPO).pdf', '36114864 Invalid Tax Info (NPO).pdf', '24280319 Currency Mismatch (PO).pdf'] | fname=SCAN
+[2026-02-10 12:08:39] [DEBUG   ] [MainProcess] Queuing file: 12124087 Mismatch PepsiCo Company Name (PO).pdf (0.04 MB) | fname=12124087 Mismatch PepsiCo Company Name (PO).pdf
+[2026-02-10 12:08:39] [DEBUG   ] [MainProcess] Queuing file: 23867942 Invoice Older than Allowed (PO).pdf (0.11 MB) | fname=23867942 Invoice Older than Allowed (PO).pdf
+[2026-02-10 12:08:39] [DEBUG   ] [MainProcess] Queuing file: 23996926 Manual Check of Indexing Lines (PO).pdf (0.05 MB) | fname=23996926 Manual Check of Indexing Lines (PO).pdf
+[2026-02-10 12:08:39] [DEBUG   ] [MainProcess] Queuing file: 24280319 Currency Mismatch (PO).pdf (0.01 MB) | fname=24280319 Currency Mismatch (PO).pdf
+[2026-02-10 12:08:39] [DEBUG   ] [MainProcess] Queuing file: 24551639 Process PO Invoice (PO).pdf (0.03 MB) | fname=24551639 Process PO Invoice (PO).pdf
+[2026-02-10 12:08:39] [DEBUG   ] [MainProcess] Queuing file: 28536941 Invalid Recipient VAT Number (PO).pdf (0.06 MB) | fname=28536941 Invalid Recipient VAT Number (PO).pdf
+[2026-02-10 12:08:39] [DEBUG   ] [MainProcess] Queuing file: 30313542 Suspected Duplicate (PO).pdf (0.03 MB) | fname=30313542 Suspected Duplicate (PO).pdf
+[2026-02-10 12:08:39] [DEBUG   ] [MainProcess] Queuing file: 32527148 UOM Mismatch (PO).pdf (0.04 MB) | fname=32527148 UOM Mismatch (PO).pdf
+[2026-02-10 12:08:39] [DEBUG   ] [MainProcess] Queuing file: 33365033 Unable to Determine Company Code (NPO).pdf (0.05 MB) | fname=33365033 Unable to Determine Company Code (NPO).pdf
+[2026-02-10 12:08:39] [DEBUG   ] [MainProcess] Queuing file: 33815264 Invalid Currency (NPO).pdf (0.06 MB) | fname=33815264 Invalid Currency (NPO).pdf
+[2026-02-10 12:08:39] [DEBUG   ] [MainProcess] Queuing file: 34046864 Invalid Tax Info. (PO).pdf (0.02 MB) | fname=34046864 Invalid Tax Info. (PO).pdf
+[2026-02-10 12:08:39] [DEBUG   ] [MainProcess] Queuing file: 34260911 Missing Item Qty. (PO).pdf (0.04 MB) | fname=34260911 Missing Item Qty. (PO).pdf
+[2026-02-10 12:08:39] [DEBUG   ] [MainProcess] Queuing file: 34388480 Invalid Requestor ID (NPO).pdf (0.03 MB) | fname=34388480 Invalid Requestor ID (NPO).pdf
+[2026-02-10 12:08:39] [DEBUG   ] [MainProcess] Queuing file: 34606454 Multiple Bank Accounts Exist (PO).pdf (0.06 MB) | fname=34606454 Multiple Bank Accounts Exist (PO).pdf
+[2026-02-10 12:08:39] [DEBUG   ] [MainProcess] Queuing file: 34728178 Vendor Mismatch (PO).pdf (0.04 MB) | fname=34728178 Vendor Mismatch (PO).pdf
+[2026-02-10 12:08:39] [DEBUG   ] [MainProcess] Queuing file: 35294023 Please Index (NPO).pdf (0.04 MB) | fname=35294023 Please Index (NPO).pdf
+[2026-02-10 12:08:39] [DEBUG   ] [MainProcess] Queuing file: 35659400  Company Code Mismatch (PO).pdf (0.07 MB) | fname=35659400  Company Code Mismatch (PO).pdf
+[2026-02-10 12:08:39] [DEBUG   ] [MainProcess] Queuing file: 36114864 Invalid Tax Info (NPO).pdf (0.06 MB) | fname=36114864 Invalid Tax Info (NPO).pdf
+[2026-02-10 12:08:39] [DEBUG   ] [MainProcess] Queuing file: 36289412 Missing Invoice Date (PO).pdf (0.03 MB) | fname=36289412 Missing Invoice Date (PO).pdf
+[2026-02-10 12:08:39] [DEBUG   ] [MainProcess] Queuing file: 36289708  Process Non Invoice Document.pdf (0.05 MB) | fname=36289708  Process Non Invoice Document.pdf
+[2026-02-10 12:08:39] [DEBUG   ] [MainProcess] Queuing file: 36292740 Suspected Duplicate (NPO).pdf (0.03 MB) | fname=36292740 Suspected Duplicate (NPO).pdf
+[2026-02-10 12:08:39] [DEBUG   ] [MainProcess] Queuing file: 36364887 Accounting Vendor Maintenance Required (PO).pdf (0.02 MB) | fname=36364887 Accounting Vendor Maintenance Required (PO).pdf
+[2026-02-10 12:08:39] [DEBUG   ] [MainProcess] Queuing file: 36532827   Missing Mandatory Information (NPO).pdf (0.02 MB) | fname=36532827   Missing Mandatory Information (NPO).pdf
+[2026-02-10 12:08:39] [DEBUG   ] [MainProcess] Queuing file: 36761716 Invoice Older than Allowed (NPO).pdf (0.03 MB) | fname=36761716 Invoice Older than Allowed (NPO).pdf
+[2026-02-10 12:08:39] [DEBUG   ] [MainProcess] Queuing file: 37151454 Process Non-PO Credit Memo (NPO).pdf (0.04 MB) | fname=37151454 Process Non-PO Credit Memo (NPO).pdf
+[2026-02-10 12:08:39] [DEBUG   ] [MainProcess] Queuing file: 37290355 Process PO Credit Memo (PO).pdf (0.03 MB) | fname=37290355 Process PO Credit Memo (PO).pdf
+[2026-02-10 12:08:39] [DEBUG   ] [MainProcess] Queuing file: 37371307 Invalid Currency (PO).pdf (0.03 MB) | fname=37371307 Invalid Currency (PO).pdf
+[2026-02-10 12:08:39] [DEBUG   ] [MainProcess] Queuing file: 37451662 Missing Vendor Invoice Reference Number (NPO).pdf (0.06 MB) | fname=37451662 Missing Vendor Invoice Reference Number (NPO).pdf
+[2026-02-10 12:08:39] [DEBUG   ] [MainProcess] Queuing file: 37654394 Invalid PO Number (PO).pdf (0.01 MB) | fname=37654394 Invalid PO Number (PO).pdf
+[2026-02-10 12:08:39] [DEBUG   ] [MainProcess] Queuing file: 37689388 Process Non-PO Invoice (NPO).pdf (0.02 MB) | fname=37689388 Process Non-PO Invoice (NPO).pdf
+[2026-02-10 12:08:39] [DEBUG   ] [MainProcess] Queuing file: 37689884 Invalid Vendor (NPO).pdf (0.04 MB) | fname=37689884 Invalid Vendor (NPO).pdf
+[2026-02-10 12:08:39] [DEBUG   ] [MainProcess] Queuing file: 37691076 Please Index (PO).pdf (0.06 MB) | fname=37691076 Please Index (PO).pdf
+[2026-02-10 12:08:39] [DEBUG   ] [MainProcess] Queuing file: 37691214 Missing Vendor Invoice Reference (PO).pdf (0.18 MB) | fname=37691214 Missing Vendor Invoice Reference (PO).pdf
+[2026-02-10 12:08:39] [DEBUG   ] [MainProcess] Queuing file: 37692967 Invalid UOM (PO).pdf (0.10 MB) | fname=37692967 Invalid UOM (PO).pdf
+[2026-02-10 12:08:39] [DEBUG   ] [MainProcess] Queuing file: 37768719 Approval Required (NPO).pdf (0.02 MB) | fname=37768719 Approval Required (NPO).pdf
+[2026-02-10 12:08:39] [DEBUG   ] [MainProcess] Queuing file: 37794522 Invalid Vendor (PO).pdf (0.09 MB) | fname=37794522 Invalid Vendor (PO).pdf
+[2026-02-10 12:08:39] [INFO    ] [MainProcess] Files to process: 36, Skipped: 0 | fname=SCAN
+[2026-02-10 12:08:39] [INFO    ] [MainProcess] Multiprocessing start method set to 'spawn' | fname=INIT
+[2026-02-10 12:08:39] [DEBUG   ] [MainProcess] Task queue created with maxsize=5 | fname=INIT
+[2026-02-10 12:08:39] [INFO    ] [MainProcess] Spawning 8 worker processes... | fname=INIT
+[2026-02-10 12:08:39] [INFO    ] [MainProcess] Worker-0 started (PID=35497) | fname=INIT
+[2026-02-10 12:08:39] [INFO    ] [MainProcess] Worker-1 started (PID=35498) | fname=INIT
+[2026-02-10 12:08:39] [INFO    ] [MainProcess] Worker-2 started (PID=35499) | fname=INIT
+[2026-02-10 12:08:39] [INFO    ] [MainProcess] Worker-3 started (PID=35500) | fname=INIT
+[2026-02-10 12:08:39] [INFO    ] [MainProcess] Worker-4 started (PID=35501) | fname=INIT
+[2026-02-10 12:08:39] [INFO    ] [MainProcess] Worker-5 started (PID=35502) | fname=INIT
+[2026-02-10 12:08:39] [INFO    ] [MainProcess] Worker-6 started (PID=35503) | fname=INIT
+[2026-02-10 12:08:39] [INFO    ] [MainProcess] Worker-7 started (PID=35504) | fname=INIT
+[2026-02-10 12:08:39] [INFO    ] [MainProcess] Enqueuing 36 file(s)... | fname=ENQUEUE
+[2026-02-10 12:08:39] [DEBUG   ] [MainProcess] Putting file 1/36 into queue | fname=12124087 Mismatch PepsiCo Company Name (PO).pdf
+[2026-02-10 12:08:39] [DEBUG   ] [MainProcess] File enqueued successfully (1/36) | fname=12124087 Mismatch PepsiCo Company Name (PO).pdf
+[2026-02-10 12:08:39] [DEBUG   ] [MainProcess] Putting file 2/36 into queue | fname=23867942 Invoice Older than Allowed (PO).pdf
+[2026-02-10 12:08:39] [DEBUG   ] [MainProcess] File enqueued successfully (2/36) | fname=23867942 Invoice Older than Allowed (PO).pdf
+[2026-02-10 12:08:39] [DEBUG   ] [MainProcess] Putting file 3/36 into queue | fname=23996926 Manual Check of Indexing Lines (PO).pdf
+[2026-02-10 12:08:39] [DEBUG   ] [MainProcess] File enqueued successfully (3/36) | fname=23996926 Manual Check of Indexing Lines (PO).pdf
+[2026-02-10 12:08:39] [DEBUG   ] [MainProcess] Putting file 4/36 into queue | fname=24280319 Currency Mismatch (PO).pdf
+[2026-02-10 12:08:39] [DEBUG   ] [MainProcess] File enqueued successfully (4/36) | fname=24280319 Currency Mismatch (PO).pdf
+[2026-02-10 12:08:39] [DEBUG   ] [MainProcess] Putting file 5/36 into queue | fname=24551639 Process PO Invoice (PO).pdf
+[2026-02-10 12:08:39] [DEBUG   ] [MainProcess] File enqueued successfully (5/36) | fname=24551639 Process PO Invoice (PO).pdf
+[2026-02-10 12:08:39] [DEBUG   ] [MainProcess] Putting file 6/36 into queue | fname=28536941 Invalid Recipient VAT Number (PO).pdf
+[2026-02-10 12:08:39] [INFO    ] [Worker-0] Worker-0 process started (PID=35497) | fname=INIT
+[2026-02-10 12:08:39] [INFO    ] [Worker-0] Thread env — OMP=7, MKL=7, NUMEXPR=7 | fname=INIT
+[2026-02-10 12:08:39] [INFO    ] [Worker-0] Worker-0 initializing PaddleOCR model... | fname=INIT
+[2026-02-10 12:08:39] [INFO    ] [Worker-2] Worker-2 process started (PID=35499) | fname=INIT
+[2026-02-10 12:08:39] [INFO    ] [Worker-3] Worker-3 process started (PID=35500) | fname=INIT
+[2026-02-10 12:08:39] [INFO    ] [Worker-2] Thread env — OMP=7, MKL=7, NUMEXPR=7 | fname=INIT
+[2026-02-10 12:08:39] [INFO    ] [Worker-3] Thread env — OMP=7, MKL=7, NUMEXPR=7 | fname=INIT
+[2026-02-10 12:08:39] [INFO    ] [Worker-2] Worker-2 initializing PaddleOCR model... | fname=INIT
+[2026-02-10 12:08:39] [INFO    ] [Worker-3] Worker-3 initializing PaddleOCR model... | fname=INIT
+[2026-02-10 12:08:39] [INFO    ] [Worker-1] Worker-1 process started (PID=35498) | fname=INIT
+[2026-02-10 12:08:39] [INFO    ] [Worker-1] Thread env — OMP=7, MKL=7, NUMEXPR=7 | fname=INIT
+[2026-02-10 12:08:39] [INFO    ] [Worker-1] Worker-1 initializing PaddleOCR model... | fname=INIT
+[2026-02-10 12:08:39] [INFO    ] [Worker-4] Worker-4 process started (PID=35501) | fname=INIT
+[2026-02-10 12:08:39] [INFO    ] [Worker-4] Thread env — OMP=7, MKL=7, NUMEXPR=7 | fname=INIT
+[2026-02-10 12:08:39] [INFO    ] [Worker-4] Worker-4 initializing PaddleOCR model... | fname=INIT
+[2026-02-10 12:08:39] [INFO    ] [Worker-6] Worker-6 process started (PID=35503) | fname=INIT
+[2026-02-10 12:08:39] [INFO    ] [Worker-6] Thread env — OMP=7, MKL=7, NUMEXPR=7 | fname=INIT
+[2026-02-10 12:08:39] [INFO    ] [Worker-6] Worker-6 initializing PaddleOCR model... | fname=INIT
+[2026-02-10 12:08:39] [INFO    ] [Worker-5] Worker-5 process started (PID=35502) | fname=INIT
+[2026-02-10 12:08:39] [INFO    ] [Worker-5] Thread env — OMP=7, MKL=7, NUMEXPR=7 | fname=INIT
+[2026-02-10 12:08:39] [INFO    ] [Worker-5] Worker-5 initializing PaddleOCR model... | fname=INIT
+[2026-02-10 12:08:39] [INFO    ] [Worker-7] Worker-7 process started (PID=35504) | fname=INIT
+[2026-02-10 12:08:39] [INFO    ] [Worker-7] Thread env — OMP=7, MKL=7, NUMEXPR=7 | fname=INIT
+[2026-02-10 12:08:39] [INFO    ] [Worker-7] Worker-7 initializing PaddleOCR model... | fname=INIT
+[2026-02-10 12:08:46] [INFO    ] [Worker-3] Worker-3 PaddleOCR model initialized in 7.16s | fname=INIT
+[2026-02-10 12:08:46] [INFO    ] [Worker-3] Worker-3 entering processing loop | fname=INIT
+[2026-02-10 12:08:46] [DEBUG   ] [Worker-3] Worker-3 waiting for next task from queue | fname=QUEUE_WAIT
+[2026-02-10 12:08:46] [INFO    ] [Worker-3] Worker-3 picked up task | fname=12124087 Mismatch PepsiCo Company Name (PO).pdf
+[2026-02-10 12:08:46] [DEBUG   ] [MainProcess] File enqueued successfully (6/36) | fname=28536941 Invalid Recipient VAT Number (PO).pdf
+[2026-02-10 12:08:46] [DEBUG   ] [MainProcess] Putting file 7/36 into queue | fname=30313542 Suspected Duplicate (PO).pdf
+[2026-02-10 12:08:46] [INFO    ] [Worker-3] Worker-3 starting OCR (0.04 MB) | fname=12124087 Mismatch PepsiCo Company Name (PO).pdf
+[2026-02-10 12:08:46] [INFO    ] [Worker-7] Worker-7 PaddleOCR model initialized in 7.26s | fname=INIT
+[2026-02-10 12:08:46] [INFO    ] [Worker-7] Worker-7 entering processing loop | fname=INIT
+[2026-02-10 12:08:46] [DEBUG   ] [Worker-7] Worker-7 waiting for next task from queue | fname=QUEUE_WAIT
+[2026-02-10 12:08:46] [DEBUG   ] [MainProcess] File enqueued successfully (7/36) | fname=30313542 Suspected Duplicate (PO).pdf
+[2026-02-10 12:08:46] [DEBUG   ] [MainProcess] Putting file 8/36 into queue | fname=32527148 UOM Mismatch (PO).pdf
+[2026-02-10 12:08:46] [INFO    ] [Worker-7] Worker-7 picked up task | fname=23867942 Invoice Older than Allowed (PO).pdf
+[2026-02-10 12:08:46] [INFO    ] [Worker-7] Worker-7 starting OCR (0.11 MB) | fname=23867942 Invoice Older than Allowed (PO).pdf
+[2026-02-10 12:08:46] [INFO    ] [Worker-0] Worker-0 PaddleOCR model initialized in 7.30s | fname=INIT
+[2026-02-10 12:08:46] [INFO    ] [Worker-0] Worker-0 entering processing loop | fname=INIT
+[2026-02-10 12:08:46] [DEBUG   ] [Worker-0] Worker-0 waiting for next task from queue | fname=QUEUE_WAIT
+[2026-02-10 12:08:46] [INFO    ] [Worker-0] Worker-0 picked up task | fname=23996926 Manual Check of Indexing Lines (PO).pdf
+[2026-02-10 12:08:46] [INFO    ] [Worker-0] Worker-0 starting OCR (0.05 MB) | fname=23996926 Manual Check of Indexing Lines (PO).pdf
+[2026-02-10 12:08:46] [DEBUG   ] [MainProcess] File enqueued successfully (8/36) | fname=32527148 UOM Mismatch (PO).pdf
+[2026-02-10 12:08:46] [DEBUG   ] [MainProcess] Putting file 9/36 into queue | fname=33365033 Unable to Determine Company Code (NPO).pdf
+[2026-02-10 12:08:46] [INFO    ] [Worker-2] Worker-2 PaddleOCR model initialized in 7.39s | fname=INIT
+[2026-02-10 12:08:46] [INFO    ] [Worker-2] Worker-2 entering processing loop | fname=INIT
+[2026-02-10 12:08:46] [DEBUG   ] [Worker-2] Worker-2 waiting for next task from queue | fname=QUEUE_WAIT
+[2026-02-10 12:08:46] [DEBUG   ] [MainProcess] File enqueued successfully (9/36) | fname=33365033 Unable to Determine Company Code (NPO).pdf
+[2026-02-10 12:08:46] [INFO    ] [Worker-2] Worker-2 picked up task | fname=24280319 Currency Mismatch (PO).pdf
+[2026-02-10 12:08:46] [DEBUG   ] [MainProcess] Putting file 10/36 into queue | fname=33815264 Invalid Currency (NPO).pdf
+[2026-02-10 12:08:46] [INFO    ] [Worker-2] Worker-2 starting OCR (0.01 MB) | fname=24280319 Currency Mismatch (PO).pdf
+[2026-02-10 12:08:46] [INFO    ] [Worker-1] Worker-1 PaddleOCR model initialized in 7.52s | fname=INIT
+[2026-02-10 12:08:46] [INFO    ] [Worker-1] Worker-1 entering processing loop | fname=INIT
+[2026-02-10 12:08:46] [DEBUG   ] [Worker-1] Worker-1 waiting for next task from queue | fname=QUEUE_WAIT
+[2026-02-10 12:08:46] [INFO    ] [Worker-1] Worker-1 picked up task | fname=24551639 Process PO Invoice (PO).pdf
+[2026-02-10 12:08:46] [DEBUG   ] [MainProcess] File enqueued successfully (10/36) | fname=33815264 Invalid Currency (NPO).pdf
+[2026-02-10 12:08:46] [INFO    ] [Worker-1] Worker-1 starting OCR (0.03 MB) | fname=24551639 Process PO Invoice (PO).pdf
+[2026-02-10 12:08:46] [DEBUG   ] [MainProcess] Putting file 11/36 into queue | fname=34046864 Invalid Tax Info. (PO).pdf
+[2026-02-10 12:08:46] [INFO    ] [Worker-5] Worker-5 PaddleOCR model initialized in 7.61s | fname=INIT
+[2026-02-10 12:08:46] [INFO    ] [Worker-5] Worker-5 entering processing loop | fname=INIT
+[2026-02-10 12:08:46] [DEBUG   ] [Worker-5] Worker-5 waiting for next task from queue | fname=QUEUE_WAIT
+[2026-02-10 12:08:46] [DEBUG   ] [MainProcess] File enqueued successfully (11/36) | fname=34046864 Invalid Tax Info. (PO).pdf
+[2026-02-10 12:08:46] [DEBUG   ] [MainProcess] Putting file 12/36 into queue | fname=34260911 Missing Item Qty. (PO).pdf
+[2026-02-10 12:08:46] [INFO    ] [Worker-5] Worker-5 picked up task | fname=28536941 Invalid Recipient VAT Number (PO).pdf
+[2026-02-10 12:08:46] [INFO    ] [Worker-5] Worker-5 starting OCR (0.06 MB) | fname=28536941 Invalid Recipient VAT Number (PO).pdf
+[2026-02-10 12:08:46] [INFO    ] [Worker-4] Worker-4 PaddleOCR model initialized in 7.64s | fname=INIT
+[2026-02-10 12:08:46] [INFO    ] [Worker-4] Worker-4 entering processing loop | fname=INIT
+[2026-02-10 12:08:46] [DEBUG   ] [Worker-4] Worker-4 waiting for next task from queue | fname=QUEUE_WAIT
+[2026-02-10 12:08:46] [DEBUG   ] [MainProcess] File enqueued successfully (12/36) | fname=34260911 Missing Item Qty. (PO).pdf
+[2026-02-10 12:08:46] [DEBUG   ] [MainProcess] Putting file 13/36 into queue | fname=34388480 Invalid Requestor ID (NPO).pdf
+[2026-02-10 12:08:46] [INFO    ] [Worker-4] Worker-4 picked up task | fname=30313542 Suspected Duplicate (PO).pdf
+[2026-02-10 12:08:46] [INFO    ] [Worker-4] Worker-4 starting OCR (0.03 MB) | fname=30313542 Suspected Duplicate (PO).pdf
+[2026-02-10 12:08:47] [INFO    ] [Worker-6] Worker-6 PaddleOCR model initialized in 8.17s | fname=INIT
+[2026-02-10 12:08:47] [INFO    ] [Worker-6] Worker-6 entering processing loop | fname=INIT
+[2026-02-10 12:08:47] [DEBUG   ] [Worker-6] Worker-6 waiting for next task from queue | fname=QUEUE_WAIT
+[2026-02-10 12:08:47] [INFO    ] [Worker-6] Worker-6 picked up task | fname=32527148 UOM Mismatch (PO).pdf
+[2026-02-10 12:08:47] [DEBUG   ] [MainProcess] File enqueued successfully (13/36) | fname=34388480 Invalid Requestor ID (NPO).pdf
+[2026-02-10 12:08:47] [DEBUG   ] [MainProcess] Putting file 14/36 into queue | fname=34606454 Multiple Bank Accounts Exist (PO).pdf
+[2026-02-10 12:08:47] [INFO    ] [Worker-6] Worker-6 starting OCR (0.04 MB) | fname=32527148 UOM Mismatch (PO).pdf
+[2026-02-10 12:08:55] [INFO    ] [Worker-2] Worker-2 OCR completed in 8.56s | fname=24280319 Currency Mismatch (PO).pdf
+[2026-02-10 12:08:55] [INFO    ] [Worker-2] Worker-2 extracted 15 lines from 1 page(s) | fname=24280319 Currency Mismatch (PO).pdf
+[2026-02-10 12:08:55] [INFO    ] [Worker-2] Worker-2 output written to ./ocr_output/24280319 Currency Mismatch (PO).pdf.txt (0.0003s) | fname=24280319 Currency Mismatch (PO).pdf
+[2026-02-10 12:08:55] [INFO    ] [Worker-2] Worker-2 completed (OCR=8.56s, total=8.57s) | fname=24280319 Currency Mismatch (PO).pdf
+[2026-02-10 12:08:55] [DEBUG   ] [Worker-2] Worker-2 waiting for next task from queue | fname=QUEUE_WAIT
+[2026-02-10 12:08:55] [DEBUG   ] [MainProcess] File enqueued successfully (14/36) | fname=34606454 Multiple Bank Accounts Exist (PO).pdf
+[2026-02-10 12:08:55] [INFO    ] [Worker-2] Worker-2 picked up task | fname=33365033 Unable to Determine Company Code (NPO).pdf
+[2026-02-10 12:08:55] [INFO    ] [Worker-2] Worker-2 starting OCR (0.05 MB) | fname=33365033 Unable to Determine Company Code (NPO).pdf
+[2026-02-10 12:08:55] [DEBUG   ] [MainProcess] Putting file 15/36 into queue | fname=34728178 Vendor Mismatch (PO).pdf
+[2026-02-10 12:08:56] [INFO    ] [Worker-5] Worker-5 OCR completed in 10.32s | fname=28536941 Invalid Recipient VAT Number (PO).pdf
+[2026-02-10 12:08:56] [INFO    ] [Worker-5] Worker-5 extracted 15 lines from 1 page(s) | fname=28536941 Invalid Recipient VAT Number (PO).pdf
+[2026-02-10 12:08:56] [INFO    ] [Worker-5] Worker-5 output written to ./ocr_output/28536941 Invalid Recipient VAT Number (PO).pdf.txt (0.0003s) | fname=28536941 Invalid Recipient VAT Number (PO).pdf
+[2026-02-10 12:08:56] [INFO    ] [Worker-5] Worker-5 completed (OCR=10.32s, total=10.32s) | fname=28536941 Invalid Recipient VAT Number (PO).pdf
+[2026-02-10 12:08:56] [DEBUG   ] [Worker-5] Worker-5 waiting for next task from queue | fname=QUEUE_WAIT
+[2026-02-10 12:08:56] [INFO    ] [Worker-5] Worker-5 picked up task | fname=33815264 Invalid Currency (NPO).pdf
+[2026-02-10 12:08:56] [DEBUG   ] [MainProcess] File enqueued successfully (15/36) | fname=34728178 Vendor Mismatch (PO).pdf
+[2026-02-10 12:08:56] [INFO    ] [Worker-5] Worker-5 starting OCR (0.06 MB) | fname=33815264 Invalid Currency (NPO).pdf
+[2026-02-10 12:08:56] [DEBUG   ] [MainProcess] Putting file 16/36 into queue | fname=35294023 Please Index (NPO).pdf
+[2026-02-10 12:09:01] [INFO    ] [Worker-1] Worker-1 OCR completed in 15.14s | fname=24551639 Process PO Invoice (PO).pdf
+[2026-02-10 12:09:01] [INFO    ] [Worker-1] Worker-1 extracted 30 lines from 2 page(s) | fname=24551639 Process PO Invoice (PO).pdf
+[2026-02-10 12:09:01] [INFO    ] [Worker-1] Worker-1 output written to ./ocr_output/24551639 Process PO Invoice (PO).pdf.txt (0.0003s) | fname=24551639 Process PO Invoice (PO).pdf
+[2026-02-10 12:09:01] [INFO    ] [Worker-1] Worker-1 completed (OCR=15.14s, total=15.15s) | fname=24551639 Process PO Invoice (PO).pdf
+[2026-02-10 12:09:01] [DEBUG   ] [Worker-1] Worker-1 waiting for next task from queue | fname=QUEUE_WAIT
+[2026-02-10 12:09:01] [INFO    ] [Worker-1] Worker-1 picked up task | fname=34046864 Invalid Tax Info. (PO).pdf
+[2026-02-10 12:09:01] [INFO    ] [Worker-1] Worker-1 starting OCR (0.02 MB) | fname=34046864 Invalid Tax Info. (PO).pdf
+[2026-02-10 12:09:01] [DEBUG   ] [MainProcess] File enqueued successfully (16/36) | fname=35294023 Please Index (NPO).pdf
+[2026-02-10 12:09:01] [DEBUG   ] [MainProcess] Putting file 17/36 into queue | fname=35659400  Company Code Mismatch (PO).pdf
+[2026-02-10 12:09:06] [INFO    ] [Worker-4] Worker-4 OCR completed in 19.50s | fname=30313542 Suspected Duplicate (PO).pdf
+[2026-02-10 12:09:06] [INFO    ] [Worker-4] Worker-4 extracted 45 lines from 3 page(s) | fname=30313542 Suspected Duplicate (PO).pdf
+[2026-02-10 12:09:06] [INFO    ] [Worker-4] Worker-4 output written to ./ocr_output/30313542 Suspected Duplicate (PO).pdf.txt (0.0004s) | fname=30313542 Suspected Duplicate (PO).pdf
+[2026-02-10 12:09:06] [INFO    ] [Worker-4] Worker-4 completed (OCR=19.50s, total=19.50s) | fname=30313542 Suspected Duplicate (PO).pdf
+[2026-02-10 12:09:06] [DEBUG   ] [Worker-4] Worker-4 waiting for next task from queue | fname=QUEUE_WAIT
+[2026-02-10 12:09:06] [INFO    ] [Worker-4] Worker-4 picked up task | fname=34260911 Missing Item Qty. (PO).pdf
+[2026-02-10 12:09:06] [DEBUG   ] [MainProcess] File enqueued successfully (17/36) | fname=35659400  Company Code Mismatch (PO).pdf
+[2026-02-10 12:09:06] [DEBUG   ] [MainProcess] Putting file 18/36 into queue | fname=36114864 Invalid Tax Info (NPO).pdf
+[2026-02-10 12:09:06] [INFO    ] [Worker-4] Worker-4 starting OCR (0.04 MB) | fname=34260911 Missing Item Qty. (PO).pdf
+[2026-02-10 12:09:06] [INFO    ] [Worker-3] Worker-3 OCR completed in 20.60s | fname=12124087 Mismatch PepsiCo Company Name (PO).pdf
+[2026-02-10 12:09:06] [INFO    ] [Worker-3] Worker-3 extracted 30 lines from 2 page(s) | fname=12124087 Mismatch PepsiCo Company Name (PO).pdf
+[2026-02-10 12:09:06] [INFO    ] [Worker-3] Worker-3 output written to ./ocr_output/12124087 Mismatch PepsiCo Company Name (PO).pdf.txt (0.0009s) | fname=12124087 Mismatch PepsiCo Company Name (PO).pdf
+[2026-02-10 12:09:06] [INFO    ] [Worker-3] Worker-3 completed (OCR=20.60s, total=20.60s) | fname=12124087 Mismatch PepsiCo Company Name (PO).pdf
+[2026-02-10 12:09:06] [DEBUG   ] [Worker-3] Worker-3 waiting for next task from queue | fname=QUEUE_WAIT
+[2026-02-10 12:09:06] [INFO    ] [Worker-3] Worker-3 picked up task | fname=34388480 Invalid Requestor ID (NPO).pdf
+[2026-02-10 12:09:06] [INFO    ] [Worker-3] Worker-3 starting OCR (0.03 MB) | fname=34388480 Invalid Requestor ID (NPO).pdf
+[2026-02-10 12:09:06] [DEBUG   ] [MainProcess] File enqueued successfully (18/36) | fname=36114864 Invalid Tax Info (NPO).pdf
+[2026-02-10 12:09:06] [DEBUG   ] [MainProcess] Putting file 19/36 into queue | fname=36289412 Missing Invoice Date (PO).pdf
+[2026-02-10 12:09:08] [INFO    ] [Worker-1] Worker-1 OCR completed in 7.15s | fname=34046864 Invalid Tax Info. (PO).pdf
+[2026-02-10 12:09:08] [INFO    ] [Worker-1] Worker-1 extracted 15 lines from 1 page(s) | fname=34046864 Invalid Tax Info. (PO).pdf
+[2026-02-10 12:09:08] [INFO    ] [Worker-1] Worker-1 output written to ./ocr_output/34046864 Invalid Tax Info. (PO).pdf.txt (0.0002s) | fname=34046864 Invalid Tax Info. (PO).pdf
+[2026-02-10 12:09:08] [INFO    ] [Worker-1] Worker-1 completed (OCR=7.15s, total=7.15s) | fname=34046864 Invalid Tax Info. (PO).pdf
+[2026-02-10 12:09:08] [DEBUG   ] [Worker-1] Worker-1 waiting for next task from queue | fname=QUEUE_WAIT
+[2026-02-10 12:09:08] [INFO    ] [Worker-1] Worker-1 picked up task | fname=34606454 Multiple Bank Accounts Exist (PO).pdf
+[2026-02-10 12:09:08] [INFO    ] [Worker-1] Worker-1 starting OCR (0.06 MB) | fname=34606454 Multiple Bank Accounts Exist (PO).pdf
+[2026-02-10 12:09:08] [DEBUG   ] [MainProcess] File enqueued successfully (19/36) | fname=36289412 Missing Invoice Date (PO).pdf
+[2026-02-10 12:09:08] [DEBUG   ] [MainProcess] Putting file 20/36 into queue | fname=36289708  Process Non Invoice Document.pdf
+[2026-02-10 12:09:10] [INFO    ] [Worker-6] Worker-6 OCR completed in 22.80s | fname=32527148 UOM Mismatch (PO).pdf
+[2026-02-10 12:09:10] [INFO    ] [Worker-6] Worker-6 extracted 45 lines from 3 page(s) | fname=32527148 UOM Mismatch (PO).pdf
+[2026-02-10 12:09:10] [INFO    ] [Worker-6] Worker-6 output written to ./ocr_output/32527148 UOM Mismatch (PO).pdf.txt (0.0002s) | fname=32527148 UOM Mismatch (PO).pdf
+[2026-02-10 12:09:10] [INFO    ] [Worker-6] Worker-6 completed (OCR=22.80s, total=22.80s) | fname=32527148 UOM Mismatch (PO).pdf
+[2026-02-10 12:09:10] [DEBUG   ] [Worker-6] Worker-6 waiting for next task from queue | fname=QUEUE_WAIT
+[2026-02-10 12:09:10] [INFO    ] [Worker-6] Worker-6 picked up task | fname=34728178 Vendor Mismatch (PO).pdf
+[2026-02-10 12:09:10] [DEBUG   ] [MainProcess] File enqueued successfully (20/36) | fname=36289708  Process Non Invoice Document.pdf
+[2026-02-10 12:09:10] [INFO    ] [Worker-6] Worker-6 starting OCR (0.04 MB) | fname=34728178 Vendor Mismatch (PO).pdf
+[2026-02-10 12:09:10] [DEBUG   ] [MainProcess] Putting file 21/36 into queue | fname=36292740 Suspected Duplicate (NPO).pdf
+[2026-02-10 12:09:11] [INFO    ] [Worker-0] Worker-0 OCR completed in 24.85s | fname=23996926 Manual Check of Indexing Lines (PO).pdf
+[2026-02-10 12:09:11] [INFO    ] [Worker-0] Worker-0 extracted 45 lines from 3 page(s) | fname=23996926 Manual Check of Indexing Lines (PO).pdf
+[2026-02-10 12:09:11] [INFO    ] [Worker-0] Worker-0 output written to ./ocr_output/23996926 Manual Check of Indexing Lines (PO).pdf.txt (0.0003s) | fname=23996926 Manual Check of Indexing Lines (PO).pdf
+[2026-02-10 12:09:11] [INFO    ] [Worker-0] Worker-0 completed (OCR=24.85s, total=24.86s) | fname=23996926 Manual Check of Indexing Lines (PO).pdf
+[2026-02-10 12:09:11] [DEBUG   ] [Worker-0] Worker-0 waiting for next task from queue | fname=QUEUE_WAIT
+[2026-02-10 12:09:11] [INFO    ] [Worker-0] Worker-0 picked up task | fname=35294023 Please Index (NPO).pdf
+[2026-02-10 12:09:11] [DEBUG   ] [MainProcess] File enqueued successfully (21/36) | fname=36292740 Suspected Duplicate (NPO).pdf
+[2026-02-10 12:09:11] [INFO    ] [Worker-0] Worker-0 starting OCR (0.04 MB) | fname=35294023 Please Index (NPO).pdf
+[2026-02-10 12:09:11] [DEBUG   ] [MainProcess] Putting file 22/36 into queue | fname=36364887 Accounting Vendor Maintenance Required (PO).pdf
+[2026-02-10 12:09:16] [INFO    ] [Worker-2] Worker-2 OCR completed in 21.01s | fname=33365033 Unable to Determine Company Code (NPO).pdf
+[2026-02-10 12:09:16] [INFO    ] [Worker-2] Worker-2 extracted 45 lines from 3 page(s) | fname=33365033 Unable to Determine Company Code (NPO).pdf
+[2026-02-10 12:09:16] [INFO    ] [Worker-2] Worker-2 output written to ./ocr_output/33365033 Unable to Determine Company Code (NPO).pdf.txt (0.0003s) | fname=33365033 Unable to Determine Company Code (NPO).pdf
+[2026-02-10 12:09:16] [INFO    ] [Worker-2] Worker-2 completed (OCR=21.01s, total=21.01s) | fname=33365033 Unable to Determine Company Code (NPO).pdf
+[2026-02-10 12:09:16] [DEBUG   ] [Worker-2] Worker-2 waiting for next task from queue | fname=QUEUE_WAIT
+[2026-02-10 12:09:16] [DEBUG   ] [MainProcess] File enqueued successfully (22/36) | fname=36364887 Accounting Vendor Maintenance Required (PO).pdf
+[2026-02-10 12:09:16] [INFO    ] [Worker-2] Worker-2 picked up task | fname=35659400  Company Code Mismatch (PO).pdf
+[2026-02-10 12:09:16] [DEBUG   ] [MainProcess] Putting file 23/36 into queue | fname=36532827   Missing Mandatory Information (NPO).pdf
+[2026-02-10 12:09:16] [INFO    ] [Worker-2] Worker-2 starting OCR (0.07 MB) | fname=35659400  Company Code Mismatch (PO).pdf
+[2026-02-10 12:09:20] [INFO    ] [Worker-4] Worker-4 OCR completed in 14.46s | fname=34260911 Missing Item Qty. (PO).pdf
+[2026-02-10 12:09:20] [INFO    ] [Worker-4] Worker-4 extracted 30 lines from 2 page(s) | fname=34260911 Missing Item Qty. (PO).pdf
+[2026-02-10 12:09:20] [INFO    ] [Worker-4] Worker-4 output written to ./ocr_output/34260911 Missing Item Qty. (PO).pdf.txt (0.0003s) | fname=34260911 Missing Item Qty. (PO).pdf
+[2026-02-10 12:09:20] [INFO    ] [Worker-4] Worker-4 completed (OCR=14.46s, total=14.46s) | fname=34260911 Missing Item Qty. (PO).pdf
+[2026-02-10 12:09:20] [DEBUG   ] [Worker-4] Worker-4 waiting for next task from queue | fname=QUEUE_WAIT
+[2026-02-10 12:09:20] [INFO    ] [Worker-4] Worker-4 picked up task | fname=36114864 Invalid Tax Info (NPO).pdf
+[2026-02-10 12:09:20] [INFO    ] [Worker-4] Worker-4 starting OCR (0.06 MB) | fname=36114864 Invalid Tax Info (NPO).pdf
+[2026-02-10 12:09:20] [DEBUG   ] [MainProcess] File enqueued successfully (23/36) | fname=36532827   Missing Mandatory Information (NPO).pdf
+[2026-02-10 12:09:20] [DEBUG   ] [MainProcess] Putting file 24/36 into queue | fname=36761716 Invoice Older than Allowed (NPO).pdf
+[2026-02-10 12:09:21] [INFO    ] [Worker-3] Worker-3 OCR completed in 14.56s | fname=34388480 Invalid Requestor ID (NPO).pdf
+[2026-02-10 12:09:21] [INFO    ] [Worker-3] Worker-3 extracted 30 lines from 2 page(s) | fname=34388480 Invalid Requestor ID (NPO).pdf
+[2026-02-10 12:09:21] [INFO    ] [Worker-3] Worker-3 output written to ./ocr_output/34388480 Invalid Requestor ID (NPO).pdf.txt (0.0002s) | fname=34388480 Invalid Requestor ID (NPO).pdf
+[2026-02-10 12:09:21] [INFO    ] [Worker-3] Worker-3 completed (OCR=14.56s, total=14.56s) | fname=34388480 Invalid Requestor ID (NPO).pdf
+[2026-02-10 12:09:21] [DEBUG   ] [Worker-3] Worker-3 waiting for next task from queue | fname=QUEUE_WAIT
+[2026-02-10 12:09:21] [INFO    ] [Worker-3] Worker-3 picked up task | fname=36289412 Missing Invoice Date (PO).pdf
+[2026-02-10 12:09:21] [INFO    ] [Worker-3] Worker-3 starting OCR (0.03 MB) | fname=36289412 Missing Invoice Date (PO).pdf
+[2026-02-10 12:09:21] [DEBUG   ] [MainProcess] File enqueued successfully (24/36) | fname=36761716 Invoice Older than Allowed (NPO).pdf
+[2026-02-10 12:09:21] [DEBUG   ] [MainProcess] Putting file 25/36 into queue | fname=37151454 Process Non-PO Credit Memo (NPO).pdf
+[2026-02-10 12:09:27] [INFO    ] [Worker-7] Worker-7 OCR completed in 41.02s | fname=23867942 Invoice Older than Allowed (PO).pdf
+[2026-02-10 12:09:27] [INFO    ] [Worker-7] Worker-7 extracted 90 lines from 6 page(s) | fname=23867942 Invoice Older than Allowed (PO).pdf
+[2026-02-10 12:09:27] [INFO    ] [Worker-7] Worker-7 output written to ./ocr_output/23867942 Invoice Older than Allowed (PO).pdf.txt (0.0002s) | fname=23867942 Invoice Older than Allowed (PO).pdf
+[2026-02-10 12:09:27] [INFO    ] [Worker-7] Worker-7 completed (OCR=41.02s, total=41.02s) | fname=23867942 Invoice Older than Allowed (PO).pdf
+[2026-02-10 12:09:27] [DEBUG   ] [Worker-7] Worker-7 waiting for next task from queue | fname=QUEUE_WAIT
+[2026-02-10 12:09:27] [INFO    ] [Worker-7] Worker-7 picked up task | fname=36289708  Process Non Invoice Document.pdf
+[2026-02-10 12:09:27] [INFO    ] [Worker-7] Worker-7 starting OCR (0.05 MB) | fname=36289708  Process Non Invoice Document.pdf
+[2026-02-10 12:09:27] [DEBUG   ] [MainProcess] File enqueued successfully (25/36) | fname=37151454 Process Non-PO Credit Memo (NPO).pdf
+[2026-02-10 12:09:27] [DEBUG   ] [MainProcess] Putting file 26/36 into queue | fname=37290355 Process PO Credit Memo (PO).pdf
+[2026-02-10 12:09:27] [INFO    ] [Worker-6] Worker-6 OCR completed in 17.81s | fname=34728178 Vendor Mismatch (PO).pdf
+[2026-02-10 12:09:27] [INFO    ] [Worker-6] Worker-6 extracted 30 lines from 2 page(s) | fname=34728178 Vendor Mismatch (PO).pdf
+[2026-02-10 12:09:27] [INFO    ] [Worker-6] Worker-6 output written to ./ocr_output/34728178 Vendor Mismatch (PO).pdf.txt (0.0004s) | fname=34728178 Vendor Mismatch (PO).pdf
+[2026-02-10 12:09:27] [INFO    ] [Worker-6] Worker-6 completed (OCR=17.81s, total=17.81s) | fname=34728178 Vendor Mismatch (PO).pdf
+[2026-02-10 12:09:27] [DEBUG   ] [Worker-6] Worker-6 waiting for next task from queue | fname=QUEUE_WAIT
+[2026-02-10 12:09:27] [INFO    ] [Worker-6] Worker-6 picked up task | fname=36292740 Suspected Duplicate (NPO).pdf
+[2026-02-10 12:09:27] [DEBUG   ] [MainProcess] File enqueued successfully (26/36) | fname=37290355 Process PO Credit Memo (PO).pdf
+[2026-02-10 12:09:27] [INFO    ] [Worker-6] Worker-6 starting OCR (0.03 MB) | fname=36292740 Suspected Duplicate (NPO).pdf
+[2026-02-10 12:09:27] [DEBUG   ] [MainProcess] Putting file 27/36 into queue | fname=37371307 Invalid Currency (PO).pdf
+[2026-02-10 12:09:29] [INFO    ] [Worker-0] Worker-0 OCR completed in 17.92s | fname=35294023 Please Index (NPO).pdf
+[2026-02-10 12:09:29] [INFO    ] [Worker-0] Worker-0 extracted 45 lines from 3 page(s) | fname=35294023 Please Index (NPO).pdf
+[2026-02-10 12:09:29] [INFO    ] [Worker-0] Worker-0 output written to ./ocr_output/35294023 Please Index (NPO).pdf.txt (0.0002s) | fname=35294023 Please Index (NPO).pdf
+[2026-02-10 12:09:29] [INFO    ] [Worker-0] Worker-0 completed (OCR=17.92s, total=17.92s) | fname=35294023 Please Index (NPO).pdf
+[2026-02-10 12:09:29] [DEBUG   ] [Worker-0] Worker-0 waiting for next task from queue | fname=QUEUE_WAIT
+[2026-02-10 12:09:29] [DEBUG   ] [MainProcess] File enqueued successfully (27/36) | fname=37371307 Invalid Currency (PO).pdf
+[2026-02-10 12:09:29] [INFO    ] [Worker-0] Worker-0 picked up task | fname=36364887 Accounting Vendor Maintenance Required (PO).pdf
+[2026-02-10 12:09:29] [INFO    ] [Worker-0] Worker-0 starting OCR (0.02 MB) | fname=36364887 Accounting Vendor Maintenance Required (PO).pdf
+[2026-02-10 12:09:29] [DEBUG   ] [MainProcess] Putting file 28/36 into queue | fname=37451662 Missing Vendor Invoice Reference Number (NPO).pdf
+[2026-02-10 12:09:35] [INFO    ] [Worker-3] Worker-3 OCR completed in 13.67s | fname=36289412 Missing Invoice Date (PO).pdf
+[2026-02-10 12:09:35] [INFO    ] [Worker-3] Worker-3 extracted 30 lines from 2 page(s) | fname=36289412 Missing Invoice Date (PO).pdf
+[2026-02-10 12:09:35] [INFO    ] [Worker-3] Worker-3 output written to ./ocr_output/36289412 Missing Invoice Date (PO).pdf.txt (0.0003s) | fname=36289412 Missing Invoice Date (PO).pdf
+[2026-02-10 12:09:35] [INFO    ] [Worker-3] Worker-3 completed (OCR=13.67s, total=13.67s) | fname=36289412 Missing Invoice Date (PO).pdf
+[2026-02-10 12:09:35] [DEBUG   ] [Worker-3] Worker-3 waiting for next task from queue | fname=QUEUE_WAIT
+[2026-02-10 12:09:35] [INFO    ] [Worker-3] Worker-3 picked up task | fname=36532827   Missing Mandatory Information (NPO).pdf
+[2026-02-10 12:09:35] [INFO    ] [Worker-3] Worker-3 starting OCR (0.02 MB) | fname=36532827   Missing Mandatory Information (NPO).pdf
+[2026-02-10 12:09:35] [DEBUG   ] [MainProcess] File enqueued successfully (28/36) | fname=37451662 Missing Vendor Invoice Reference Number (NPO).pdf
+[2026-02-10 12:09:35] [DEBUG   ] [MainProcess] Putting file 29/36 into queue | fname=37654394 Invalid PO Number (PO).pdf
+[2026-02-10 12:09:37] [INFO    ] [Worker-2] Worker-2 OCR completed in 21.22s | fname=35659400  Company Code Mismatch (PO).pdf
+[2026-02-10 12:09:37] [INFO    ] [Worker-2] Worker-2 extracted 45 lines from 3 page(s) | fname=35659400  Company Code Mismatch (PO).pdf
+[2026-02-10 12:09:37] [INFO    ] [Worker-2] Worker-2 output written to ./ocr_output/35659400  Company Code Mismatch (PO).pdf.txt (0.0003s) | fname=35659400  Company Code Mismatch (PO).pdf
+[2026-02-10 12:09:37] [INFO    ] [Worker-2] Worker-2 completed (OCR=21.22s, total=21.22s) | fname=35659400  Company Code Mismatch (PO).pdf
+[2026-02-10 12:09:37] [DEBUG   ] [Worker-2] Worker-2 waiting for next task from queue | fname=QUEUE_WAIT
+[2026-02-10 12:09:37] [INFO    ] [Worker-2] Worker-2 picked up task | fname=36761716 Invoice Older than Allowed (NPO).pdf
+[2026-02-10 12:09:37] [INFO    ] [Worker-2] Worker-2 starting OCR (0.03 MB) | fname=36761716 Invoice Older than Allowed (NPO).pdf
+[2026-02-10 12:09:37] [DEBUG   ] [MainProcess] File enqueued successfully (29/36) | fname=37654394 Invalid PO Number (PO).pdf
+[2026-02-10 12:09:37] [DEBUG   ] [MainProcess] Putting file 30/36 into queue | fname=37689388 Process Non-PO Invoice (NPO).pdf
+[2026-02-10 12:09:38] [INFO    ] [Worker-1] Worker-1 OCR completed in 29.14s | fname=34606454 Multiple Bank Accounts Exist (PO).pdf
+[2026-02-10 12:09:38] [INFO    ] [Worker-1] Worker-1 extracted 60 lines from 4 page(s) | fname=34606454 Multiple Bank Accounts Exist (PO).pdf
+[2026-02-10 12:09:38] [INFO    ] [Worker-1] Worker-1 output written to ./ocr_output/34606454 Multiple Bank Accounts Exist (PO).pdf.txt (0.0003s) | fname=34606454 Multiple Bank Accounts Exist (PO).pdf
+[2026-02-10 12:09:38] [INFO    ] [Worker-1] Worker-1 completed (OCR=29.14s, total=29.14s) | fname=34606454 Multiple Bank Accounts Exist (PO).pdf
+[2026-02-10 12:09:38] [DEBUG   ] [Worker-1] Worker-1 waiting for next task from queue | fname=QUEUE_WAIT
+[2026-02-10 12:09:38] [INFO    ] [Worker-1] Worker-1 picked up task | fname=37151454 Process Non-PO Credit Memo (NPO).pdf
+[2026-02-10 12:09:38] [INFO    ] [Worker-1] Worker-1 starting OCR (0.04 MB) | fname=37151454 Process Non-PO Credit Memo (NPO).pdf
+[2026-02-10 12:09:38] [DEBUG   ] [MainProcess] File enqueued successfully (30/36) | fname=37689388 Process Non-PO Invoice (NPO).pdf
+[2026-02-10 12:09:38] [DEBUG   ] [MainProcess] Putting file 31/36 into queue | fname=37689884 Invalid Vendor (NPO).pdf
+[2026-02-10 12:09:42] [INFO    ] [Worker-3] Worker-3 OCR completed in 7.08s | fname=36532827   Missing Mandatory Information (NPO).pdf
+[2026-02-10 12:09:42] [INFO    ] [Worker-3] Worker-3 extracted 15 lines from 1 page(s) | fname=36532827   Missing Mandatory Information (NPO).pdf
+[2026-02-10 12:09:42] [INFO    ] [Worker-3] Worker-3 output written to ./ocr_output/36532827   Missing Mandatory Information (NPO).pdf.txt (0.0003s) | fname=36532827   Missing Mandatory Information (NPO).pdf
+[2026-02-10 12:09:42] [INFO    ] [Worker-3] Worker-3 completed (OCR=7.08s, total=7.08s) | fname=36532827   Missing Mandatory Information (NPO).pdf
+[2026-02-10 12:09:42] [DEBUG   ] [Worker-3] Worker-3 waiting for next task from queue | fname=QUEUE_WAIT
+[2026-02-10 12:09:42] [INFO    ] [Worker-3] Worker-3 picked up task | fname=37290355 Process PO Credit Memo (PO).pdf
+[2026-02-10 12:09:42] [INFO    ] [Worker-3] Worker-3 starting OCR (0.03 MB) | fname=37290355 Process PO Credit Memo (PO).pdf
+[2026-02-10 12:09:42] [DEBUG   ] [MainProcess] File enqueued successfully (31/36) | fname=37689884 Invalid Vendor (NPO).pdf
+[2026-02-10 12:09:42] [DEBUG   ] [MainProcess] Putting file 32/36 into queue | fname=37691076 Please Index (PO).pdf
+[2026-02-10 12:09:42] [INFO    ] [Worker-4] Worker-4 OCR completed in 21.70s | fname=36114864 Invalid Tax Info (NPO).pdf
+[2026-02-10 12:09:42] [INFO    ] [Worker-4] Worker-4 extracted 45 lines from 3 page(s) | fname=36114864 Invalid Tax Info (NPO).pdf
+[2026-02-10 12:09:42] [INFO    ] [Worker-4] Worker-4 output written to ./ocr_output/36114864 Invalid Tax Info (NPO).pdf.txt (0.0003s) | fname=36114864 Invalid Tax Info (NPO).pdf
+[2026-02-10 12:09:42] [INFO    ] [Worker-4] Worker-4 completed (OCR=21.70s, total=21.70s) | fname=36114864 Invalid Tax Info (NPO).pdf
+[2026-02-10 12:09:42] [DEBUG   ] [Worker-4] Worker-4 waiting for next task from queue | fname=QUEUE_WAIT
+[2026-02-10 12:09:42] [INFO    ] [Worker-4] Worker-4 picked up task | fname=37371307 Invalid Currency (PO).pdf
+[2026-02-10 12:09:42] [DEBUG   ] [MainProcess] File enqueued successfully (32/36) | fname=37691076 Please Index (PO).pdf
+[2026-02-10 12:09:42] [INFO    ] [Worker-4] Worker-4 starting OCR (0.03 MB) | fname=37371307 Invalid Currency (PO).pdf
+[2026-02-10 12:09:42] [DEBUG   ] [MainProcess] Putting file 33/36 into queue | fname=37691214 Missing Vendor Invoice Reference (PO).pdf
+[2026-02-10 12:09:42] [INFO    ] [Worker-0] Worker-0 OCR completed in 13.44s | fname=36364887 Accounting Vendor Maintenance Required (PO).pdf
+[2026-02-10 12:09:42] [INFO    ] [Worker-0] Worker-0 extracted 30 lines from 2 page(s) | fname=36364887 Accounting Vendor Maintenance Required (PO).pdf
+[2026-02-10 12:09:42] [INFO    ] [Worker-0] Worker-0 output written to ./ocr_output/36364887 Accounting Vendor Maintenance Required (PO).pdf.txt (0.0003s) | fname=36364887 Accounting Vendor Maintenance Required (PO).pdf
+[2026-02-10 12:09:42] [INFO    ] [Worker-0] Worker-0 completed (OCR=13.44s, total=13.44s) | fname=36364887 Accounting Vendor Maintenance Required (PO).pdf
+[2026-02-10 12:09:42] [DEBUG   ] [Worker-0] Worker-0 waiting for next task from queue | fname=QUEUE_WAIT
+[2026-02-10 12:09:42] [INFO    ] [Worker-0] Worker-0 picked up task | fname=37451662 Missing Vendor Invoice Reference Number (NPO).pdf
+[2026-02-10 12:09:42] [INFO    ] [Worker-0] Worker-0 starting OCR (0.06 MB) | fname=37451662 Missing Vendor Invoice Reference Number (NPO).pdf
+[2026-02-10 12:09:42] [DEBUG   ] [MainProcess] File enqueued successfully (33/36) | fname=37691214 Missing Vendor Invoice Reference (PO).pdf
+[2026-02-10 12:09:42] [DEBUG   ] [MainProcess] Putting file 34/36 into queue | fname=37692967 Invalid UOM (PO).pdf
+[2026-02-10 12:09:43] [INFO    ] [Worker-6] Worker-6 OCR completed in 15.93s | fname=36292740 Suspected Duplicate (NPO).pdf
+[2026-02-10 12:09:43] [INFO    ] [Worker-6] Worker-6 extracted 45 lines from 3 page(s) | fname=36292740 Suspected Duplicate (NPO).pdf
+[2026-02-10 12:09:43] [INFO    ] [Worker-6] Worker-6 output written to ./ocr_output/36292740 Suspected Duplicate (NPO).pdf.txt (0.0003s) | fname=36292740 Suspected Duplicate (NPO).pdf
+[2026-02-10 12:09:43] [INFO    ] [Worker-6] Worker-6 completed (OCR=15.93s, total=15.93s) | fname=36292740 Suspected Duplicate (NPO).pdf
+[2026-02-10 12:09:43] [DEBUG   ] [Worker-6] Worker-6 waiting for next task from queue | fname=QUEUE_WAIT
+[2026-02-10 12:09:43] [INFO    ] [Worker-6] Worker-6 picked up task | fname=37654394 Invalid PO Number (PO).pdf
+[2026-02-10 12:09:43] [INFO    ] [Worker-6] Worker-6 starting OCR (0.01 MB) | fname=37654394 Invalid PO Number (PO).pdf
+[2026-02-10 12:09:43] [DEBUG   ] [MainProcess] File enqueued successfully (34/36) | fname=37692967 Invalid UOM (PO).pdf
+[2026-02-10 12:09:43] [DEBUG   ] [MainProcess] Putting file 35/36 into queue | fname=37768719 Approval Required (NPO).pdf
+[2026-02-10 12:09:46] [INFO    ] [Worker-7] Worker-7 OCR completed in 19.08s | fname=36289708  Process Non Invoice Document.pdf
+[2026-02-10 12:09:46] [INFO    ] [Worker-7] Worker-7 extracted 45 lines from 3 page(s) | fname=36289708  Process Non Invoice Document.pdf
+[2026-02-10 12:09:46] [INFO    ] [Worker-7] Worker-7 output written to ./ocr_output/36289708  Process Non Invoice Document.pdf.txt (0.0003s) | fname=36289708  Process Non Invoice Document.pdf
+[2026-02-10 12:09:46] [INFO    ] [Worker-7] Worker-7 completed (OCR=19.08s, total=19.08s) | fname=36289708  Process Non Invoice Document.pdf
+[2026-02-10 12:09:46] [DEBUG   ] [Worker-7] Worker-7 waiting for next task from queue | fname=QUEUE_WAIT
+[2026-02-10 12:09:46] [INFO    ] [Worker-7] Worker-7 picked up task | fname=37689388 Process Non-PO Invoice (NPO).pdf
+[2026-02-10 12:09:46] [DEBUG   ] [MainProcess] File enqueued successfully (35/36) | fname=37768719 Approval Required (NPO).pdf
+[2026-02-10 12:09:46] [INFO    ] [Worker-7] Worker-7 starting OCR (0.02 MB) | fname=37689388 Process Non-PO Invoice (NPO).pdf
+[2026-02-10 12:09:46] [DEBUG   ] [MainProcess] Putting file 36/36 into queue | fname=37794522 Invalid Vendor (PO).pdf
+[2026-02-10 12:09:48] [INFO    ] [Worker-5] Worker-5 OCR completed in 51.87s | fname=33815264 Invalid Currency (NPO).pdf
+[2026-02-10 12:09:48] [INFO    ] [Worker-5] Worker-5 extracted 105 lines from 7 page(s) | fname=33815264 Invalid Currency (NPO).pdf
+[2026-02-10 12:09:48] [INFO    ] [Worker-5] Worker-5 output written to ./ocr_output/33815264 Invalid Currency (NPO).pdf.txt (0.0003s) | fname=33815264 Invalid Currency (NPO).pdf
+[2026-02-10 12:09:48] [INFO    ] [Worker-5] Worker-5 completed (OCR=51.87s, total=51.87s) | fname=33815264 Invalid Currency (NPO).pdf
+[2026-02-10 12:09:48] [DEBUG   ] [Worker-5] Worker-5 waiting for next task from queue | fname=QUEUE_WAIT
+[2026-02-10 12:09:48] [INFO    ] [Worker-5] Worker-5 picked up task | fname=37689884 Invalid Vendor (NPO).pdf
+[2026-02-10 12:09:48] [INFO    ] [Worker-5] Worker-5 starting OCR (0.04 MB) | fname=37689884 Invalid Vendor (NPO).pdf
+[2026-02-10 12:09:48] [DEBUG   ] [MainProcess] File enqueued successfully (36/36) | fname=37794522 Invalid Vendor (PO).pdf
+[2026-02-10 12:09:48] [INFO    ] [MainProcess] All 36 files enqueued in 69.846s | fname=ENQUEUE
+[2026-02-10 12:09:48] [INFO    ] [MainProcess] Sending 8 sentinel(s) to shut down workers | fname=SHUTDOWN
+[2026-02-10 12:09:49] [INFO    ] [Worker-6] Worker-6 OCR completed in 6.00s | fname=37654394 Invalid PO Number (PO).pdf
+[2026-02-10 12:09:49] [INFO    ] [Worker-6] Worker-6 extracted 15 lines from 1 page(s) | fname=37654394 Invalid PO Number (PO).pdf
+[2026-02-10 12:09:49] [INFO    ] [Worker-6] Worker-6 output written to ./ocr_output/37654394 Invalid PO Number (PO).pdf.txt (0.0003s) | fname=37654394 Invalid PO Number (PO).pdf
+[2026-02-10 12:09:49] [INFO    ] [Worker-6] Worker-6 completed (OCR=6.00s, total=6.00s) | fname=37654394 Invalid PO Number (PO).pdf
+[2026-02-10 12:09:49] [DEBUG   ] [Worker-6] Worker-6 waiting for next task from queue | fname=QUEUE_WAIT
+[2026-02-10 12:09:49] [INFO    ] [Worker-6] Worker-6 picked up task | fname=37691076 Please Index (PO).pdf
+[2026-02-10 12:09:49] [INFO    ] [Worker-6] Worker-6 starting OCR (0.06 MB) | fname=37691076 Please Index (PO).pdf
+[2026-02-10 12:09:51] [INFO    ] [Worker-2] Worker-2 OCR completed in 13.96s | fname=36761716 Invoice Older than Allowed (NPO).pdf
+[2026-02-10 12:09:51] [INFO    ] [Worker-2] Worker-2 extracted 30 lines from 2 page(s) | fname=36761716 Invoice Older than Allowed (NPO).pdf
+[2026-02-10 12:09:51] [INFO    ] [Worker-2] Worker-2 output written to ./ocr_output/36761716 Invoice Older than Allowed (NPO).pdf.txt (0.0003s) | fname=36761716 Invoice Older than Allowed (NPO).pdf
+[2026-02-10 12:09:51] [INFO    ] [Worker-2] Worker-2 completed (OCR=13.96s, total=13.96s) | fname=36761716 Invoice Older than Allowed (NPO).pdf
+[2026-02-10 12:09:51] [DEBUG   ] [Worker-2] Worker-2 waiting for next task from queue | fname=QUEUE_WAIT
+[2026-02-10 12:09:51] [INFO    ] [Worker-2] Worker-2 picked up task | fname=37691214 Missing Vendor Invoice Reference (PO).pdf
+[2026-02-10 12:09:51] [INFO    ] [Worker-2] Worker-2 starting OCR (0.18 MB) | fname=37691214 Missing Vendor Invoice Reference (PO).pdf
+[2026-02-10 12:09:52] [INFO    ] [Worker-4] Worker-4 OCR completed in 10.04s | fname=37371307 Invalid Currency (PO).pdf
+[2026-02-10 12:09:52] [INFO    ] [Worker-4] Worker-4 extracted 30 lines from 2 page(s) | fname=37371307 Invalid Currency (PO).pdf
+[2026-02-10 12:09:52] [INFO    ] [Worker-4] Worker-4 output written to ./ocr_output/37371307 Invalid Currency (PO).pdf.txt (0.0002s) | fname=37371307 Invalid Currency (PO).pdf
+[2026-02-10 12:09:52] [INFO    ] [Worker-4] Worker-4 completed (OCR=10.04s, total=10.04s) | fname=37371307 Invalid Currency (PO).pdf
+[2026-02-10 12:09:52] [DEBUG   ] [Worker-4] Worker-4 waiting for next task from queue | fname=QUEUE_WAIT
+[2026-02-10 12:09:52] [INFO    ] [Worker-4] Worker-4 picked up task | fname=37692967 Invalid UOM (PO).pdf
+[2026-02-10 12:09:52] [INFO    ] [Worker-4] Worker-4 starting OCR (0.10 MB) | fname=37692967 Invalid UOM (PO).pdf
+[2026-02-10 12:09:57] [INFO    ] [Worker-1] Worker-1 OCR completed in 19.63s | fname=37151454 Process Non-PO Credit Memo (NPO).pdf
+[2026-02-10 12:09:57] [INFO    ] [Worker-1] Worker-1 extracted 45 lines from 3 page(s) | fname=37151454 Process Non-PO Credit Memo (NPO).pdf
+[2026-02-10 12:09:57] [INFO    ] [Worker-1] Worker-1 output written to ./ocr_output/37151454 Process Non-PO Credit Memo (NPO).pdf.txt (0.0003s) | fname=37151454 Process Non-PO Credit Memo (NPO).pdf
+[2026-02-10 12:09:57] [INFO    ] [Worker-1] Worker-1 completed (OCR=19.63s, total=19.63s) | fname=37151454 Process Non-PO Credit Memo (NPO).pdf
+[2026-02-10 12:09:57] [DEBUG   ] [Worker-1] Worker-1 waiting for next task from queue | fname=QUEUE_WAIT
+[2026-02-10 12:09:57] [INFO    ] [Worker-1] Worker-1 picked up task | fname=37768719 Approval Required (NPO).pdf
+[2026-02-10 12:09:57] [INFO    ] [Worker-1] Worker-1 starting OCR (0.02 MB) | fname=37768719 Approval Required (NPO).pdf
+[2026-02-10 12:09:58] [INFO    ] [Worker-3] Worker-3 OCR completed in 16.06s | fname=37290355 Process PO Credit Memo (PO).pdf
+[2026-02-10 12:09:58] [INFO    ] [Worker-3] Worker-3 extracted 30 lines from 2 page(s) | fname=37290355 Process PO Credit Memo (PO).pdf
+[2026-02-10 12:09:58] [INFO    ] [Worker-3] Worker-3 output written to ./ocr_output/37290355 Process PO Credit Memo (PO).pdf.txt (0.0003s) | fname=37290355 Process PO Credit Memo (PO).pdf
+[2026-02-10 12:09:58] [INFO    ] [Worker-3] Worker-3 completed (OCR=16.06s, total=16.07s) | fname=37290355 Process PO Credit Memo (PO).pdf
+[2026-02-10 12:09:58] [DEBUG   ] [Worker-3] Worker-3 waiting for next task from queue | fname=QUEUE_WAIT
+[2026-02-10 12:09:58] [INFO    ] [Worker-3] Worker-3 picked up task | fname=37794522 Invalid Vendor (PO).pdf
+[2026-02-10 12:09:58] [INFO    ] [Worker-3] Worker-3 starting OCR (0.09 MB) | fname=37794522 Invalid Vendor (PO).pdf
+[2026-02-10 12:10:01] [INFO    ] [Worker-7] Worker-7 OCR completed in 14.58s | fname=37689388 Process Non-PO Invoice (NPO).pdf
+[2026-02-10 12:10:01] [INFO    ] [Worker-7] Worker-7 extracted 30 lines from 2 page(s) | fname=37689388 Process Non-PO Invoice (NPO).pdf
+[2026-02-10 12:10:01] [INFO    ] [Worker-7] Worker-7 output written to ./ocr_output/37689388 Process Non-PO Invoice (NPO).pdf.txt (0.0002s) | fname=37689388 Process Non-PO Invoice (NPO).pdf
+[2026-02-10 12:10:01] [INFO    ] [Worker-7] Worker-7 completed (OCR=14.58s, total=14.58s) | fname=37689388 Process Non-PO Invoice (NPO).pdf
+[2026-02-10 12:10:01] [DEBUG   ] [Worker-7] Worker-7 waiting for next task from queue | fname=QUEUE_WAIT
+[2026-02-10 12:10:01] [INFO    ] [Worker-7] Worker-7 received sentinel. Shutting down. | fname=SENTINEL
+[2026-02-10 12:10:01] [INFO    ] [Worker-7] Worker-7 summary — processed=3, failed=0, total_ocr_time=74.68s, avg_ocr_per_file=24.89s, model_init_time=7.26s | fname=SUMMARY
+[2026-02-10 12:10:01] [INFO    ] [Worker-7] Worker-7 exiting | fname=SHUTDOWN
+[2026-02-10 12:10:02] [INFO    ] [Worker-6] Worker-6 OCR completed in 12.79s | fname=37691076 Please Index (PO).pdf
+[2026-02-10 12:10:02] [INFO    ] [Worker-6] Worker-6 extracted 30 lines from 2 page(s) | fname=37691076 Please Index (PO).pdf
+[2026-02-10 12:10:02] [INFO    ] [Worker-6] Worker-6 output written to ./ocr_output/37691076 Please Index (PO).pdf.txt (0.0002s) | fname=37691076 Please Index (PO).pdf
+[2026-02-10 12:10:02] [INFO    ] [Worker-6] Worker-6 completed (OCR=12.79s, total=12.79s) | fname=37691076 Please Index (PO).pdf
+[2026-02-10 12:10:02] [DEBUG   ] [Worker-6] Worker-6 waiting for next task from queue | fname=QUEUE_WAIT
+[2026-02-10 12:10:02] [INFO    ] [Worker-6] Worker-6 received sentinel. Shutting down. | fname=SENTINEL
+[2026-02-10 12:10:02] [INFO    ] [Worker-6] Worker-6 summary — processed=5, failed=0, total_ocr_time=75.33s, avg_ocr_per_file=15.07s, model_init_time=8.17s | fname=SUMMARY
+[2026-02-10 12:10:02] [INFO    ] [Worker-6] Worker-6 exiting | fname=SHUTDOWN
+[2026-02-10 12:10:10] [INFO    ] [Worker-1] Worker-1 OCR completed in 12.86s | fname=37768719 Approval Required (NPO).pdf
+[2026-02-10 12:10:10] [INFO    ] [Worker-1] Worker-1 extracted 30 lines from 2 page(s) | fname=37768719 Approval Required (NPO).pdf
+[2026-02-10 12:10:10] [INFO    ] [Worker-1] Worker-1 output written to ./ocr_output/37768719 Approval Required (NPO).pdf.txt (0.0002s) | fname=37768719 Approval Required (NPO).pdf
+[2026-02-10 12:10:10] [INFO    ] [Worker-1] Worker-1 completed (OCR=12.86s, total=12.86s) | fname=37768719 Approval Required (NPO).pdf
+[2026-02-10 12:10:10] [DEBUG   ] [Worker-1] Worker-1 waiting for next task from queue | fname=QUEUE_WAIT
+[2026-02-10 12:10:10] [INFO    ] [Worker-1] Worker-1 received sentinel. Shutting down. | fname=SENTINEL
+[2026-02-10 12:10:10] [INFO    ] [Worker-1] Worker-1 summary — processed=5, failed=0, total_ocr_time=83.92s, avg_ocr_per_file=16.78s, model_init_time=7.52s | fname=SUMMARY
+[2026-02-10 12:10:10] [INFO    ] [Worker-1] Worker-1 exiting | fname=SHUTDOWN
+[2026-02-10 12:10:10] [DEBUG   ] [MainProcess] All sentinels sent | fname=SHUTDOWN
+[2026-02-10 12:10:10] [INFO    ] [MainProcess] Waiting for workers to finish... | fname=SHUTDOWN
+[2026-02-10 12:10:10] [INFO    ] [Worker-0] Worker-0 OCR completed in 28.14s | fname=37451662 Missing Vendor Invoice Reference Number (NPO).pdf
+[2026-02-10 12:10:10] [INFO    ] [Worker-0] Worker-0 extracted 60 lines from 4 page(s) | fname=37451662 Missing Vendor Invoice Reference Number (NPO).pdf
+[2026-02-10 12:10:10] [INFO    ] [Worker-0] Worker-0 output written to ./ocr_output/37451662 Missing Vendor Invoice Reference Number (NPO).pdf.txt (0.0002s) | fname=37451662 Missing Vendor Invoice Reference Number (NPO).pdf
+[2026-02-10 12:10:10] [INFO    ] [Worker-0] Worker-0 completed (OCR=28.14s, total=28.14s) | fname=37451662 Missing Vendor Invoice Reference Number (NPO).pdf
+[2026-02-10 12:10:10] [DEBUG   ] [Worker-0] Worker-0 waiting for next task from queue | fname=QUEUE_WAIT
+[2026-02-10 12:10:10] [INFO    ] [Worker-0] Worker-0 received sentinel. Shutting down. | fname=SENTINEL
+[2026-02-10 12:10:10] [INFO    ] [Worker-0] Worker-0 summary — processed=4, failed=0, total_ocr_time=84.35s, avg_ocr_per_file=21.09s, model_init_time=7.30s | fname=SUMMARY
+[2026-02-10 12:10:10] [INFO    ] [Worker-0] Worker-0 exiting | fname=SHUTDOWN
+[2026-02-10 12:10:11] [INFO    ] [MainProcess] Worker Worker-0 (PID=35497) joined — OK | fname=SHUTDOWN
+[2026-02-10 12:10:11] [INFO    ] [MainProcess] Worker Worker-1 (PID=35498) joined — OK | fname=SHUTDOWN
+[2026-02-10 12:10:15] [INFO    ] [Worker-5] Worker-5 OCR completed in 26.79s | fname=37689884 Invalid Vendor (NPO).pdf
+[2026-02-10 12:10:15] [INFO    ] [Worker-5] Worker-5 extracted 60 lines from 4 page(s) | fname=37689884 Invalid Vendor (NPO).pdf
+[2026-02-10 12:10:15] [INFO    ] [Worker-5] Worker-5 output written to ./ocr_output/37689884 Invalid Vendor (NPO).pdf.txt (0.0002s) | fname=37689884 Invalid Vendor (NPO).pdf
+[2026-02-10 12:10:15] [INFO    ] [Worker-5] Worker-5 completed (OCR=26.79s, total=26.79s) | fname=37689884 Invalid Vendor (NPO).pdf
+[2026-02-10 12:10:15] [DEBUG   ] [Worker-5] Worker-5 waiting for next task from queue | fname=QUEUE_WAIT
+[2026-02-10 12:10:15] [INFO    ] [Worker-5] Worker-5 received sentinel. Shutting down. | fname=SENTINEL
+[2026-02-10 12:10:15] [INFO    ] [Worker-5] Worker-5 summary — processed=3, failed=0, total_ocr_time=88.98s, avg_ocr_per_file=29.66s, model_init_time=7.61s | fname=SUMMARY
+[2026-02-10 12:10:15] [INFO    ] [Worker-5] Worker-5 exiting | fname=SHUTDOWN
+[2026-02-10 12:10:22] [INFO    ] [Worker-2] Worker-2 OCR completed in 30.80s | fname=37691214 Missing Vendor Invoice Reference (PO).pdf
+[2026-02-10 12:10:22] [INFO    ] [Worker-2] Worker-2 extracted 60 lines from 4 page(s) | fname=37691214 Missing Vendor Invoice Reference (PO).pdf
+[2026-02-10 12:10:22] [INFO    ] [Worker-2] Worker-2 output written to ./ocr_output/37691214 Missing Vendor Invoice Reference (PO).pdf.txt (0.0003s) | fname=37691214 Missing Vendor Invoice Reference (PO).pdf
+[2026-02-10 12:10:22] [INFO    ] [Worker-2] Worker-2 completed (OCR=30.80s, total=30.81s) | fname=37691214 Missing Vendor Invoice Reference (PO).pdf
+[2026-02-10 12:10:22] [DEBUG   ] [Worker-2] Worker-2 waiting for next task from queue | fname=QUEUE_WAIT
+[2026-02-10 12:10:22] [INFO    ] [Worker-2] Worker-2 received sentinel. Shutting down. | fname=SENTINEL
+[2026-02-10 12:10:22] [INFO    ] [Worker-2] Worker-2 summary — processed=5, failed=0, total_ocr_time=95.56s, avg_ocr_per_file=19.11s, model_init_time=7.39s | fname=SUMMARY
+[2026-02-10 12:10:22] [INFO    ] [Worker-2] Worker-2 exiting | fname=SHUTDOWN
+[2026-02-10 12:10:22] [INFO    ] [MainProcess] Worker Worker-2 (PID=35499) joined — OK | fname=SHUTDOWN
+[2026-02-10 12:10:25] [INFO    ] [Worker-4] Worker-4 OCR completed in 32.60s | fname=37692967 Invalid UOM (PO).pdf
+[2026-02-10 12:10:25] [INFO    ] [Worker-4] Worker-4 extracted 90 lines from 6 page(s) | fname=37692967 Invalid UOM (PO).pdf
+[2026-02-10 12:10:25] [INFO    ] [Worker-4] Worker-4 output written to ./ocr_output/37692967 Invalid UOM (PO).pdf.txt (0.0003s) | fname=37692967 Invalid UOM (PO).pdf
+[2026-02-10 12:10:25] [INFO    ] [Worker-4] Worker-4 completed (OCR=32.60s, total=32.61s) | fname=37692967 Invalid UOM (PO).pdf
+[2026-02-10 12:10:25] [DEBUG   ] [Worker-4] Worker-4 waiting for next task from queue | fname=QUEUE_WAIT
+[2026-02-10 12:10:25] [INFO    ] [Worker-4] Worker-4 received sentinel. Shutting down. | fname=SENTINEL
+[2026-02-10 12:10:25] [INFO    ] [Worker-4] Worker-4 summary — processed=5, failed=0, total_ocr_time=98.31s, avg_ocr_per_file=19.66s, model_init_time=7.64s | fname=SUMMARY
+[2026-02-10 12:10:25] [INFO    ] [Worker-4] Worker-4 exiting | fname=SHUTDOWN
+[2026-02-10 12:10:26] [INFO    ] [Worker-3] Worker-3 OCR completed in 28.28s | fname=37794522 Invalid Vendor (PO).pdf
+[2026-02-10 12:10:26] [INFO    ] [Worker-3] Worker-3 extracted 75 lines from 5 page(s) | fname=37794522 Invalid Vendor (PO).pdf
+[2026-02-10 12:10:26] [INFO    ] [Worker-3] Worker-3 output written to ./ocr_output/37794522 Invalid Vendor (PO).pdf.txt (0.0002s) | fname=37794522 Invalid Vendor (PO).pdf
+[2026-02-10 12:10:26] [INFO    ] [Worker-3] Worker-3 completed (OCR=28.28s, total=28.28s) | fname=37794522 Invalid Vendor (PO).pdf
+[2026-02-10 12:10:26] [DEBUG   ] [Worker-3] Worker-3 waiting for next task from queue | fname=QUEUE_WAIT
+[2026-02-10 12:10:26] [INFO    ] [Worker-3] Worker-3 received sentinel. Shutting down. | fname=SENTINEL
+[2026-02-10 12:10:26] [INFO    ] [Worker-3] Worker-3 summary — processed=6, failed=0, total_ocr_time=100.26s, avg_ocr_per_file=16.71s, model_init_time=7.16s | fname=SUMMARY
+[2026-02-10 12:10:26] [INFO    ] [Worker-3] Worker-3 exiting | fname=SHUTDOWN
+[2026-02-10 12:10:26] [INFO    ] [MainProcess] Worker Worker-3 (PID=35500) joined — OK | fname=SHUTDOWN
+[2026-02-10 12:10:26] [INFO    ] [MainProcess] Worker Worker-4 (PID=35501) joined — OK | fname=SHUTDOWN
+[2026-02-10 12:10:26] [INFO    ] [MainProcess] Worker Worker-5 (PID=35502) joined — OK | fname=SHUTDOWN
+[2026-02-10 12:10:26] [INFO    ] [MainProcess] Worker Worker-6 (PID=35503) joined — OK | fname=SHUTDOWN
+[2026-02-10 12:10:26] [INFO    ] [MainProcess] Worker Worker-7 (PID=35504) joined — OK | fname=SHUTDOWN
+[2026-02-10 12:10:26] [INFO    ] [MainProcess] ========== OCR Pipeline Complete ========== | fname=DONE
+[2026-02-10 12:10:26] [INFO    ] [MainProcess] Total files processed : 36 | fname=DONE
+[2026-02-10 12:10:26] [INFO    ] [MainProcess] Total wall-clock time : 107.99s | fname=DONE
+[2026-02-10 12:10:26] [INFO    ] [MainProcess] Average time per file : 3.00s | fname=DONE
+[2026-02-10 12:10:26] [INFO    ] [MainProcess] Log saved to          : ./logs/ocr_run_20260210_120839.log | fname=DONE

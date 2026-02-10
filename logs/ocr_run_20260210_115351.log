@@ -1,0 +1,493 @@
+[2026-02-10 11:53:51] [INFO    ] [MainProcess] Log file created: ./logs/ocr_run_20260210_115351.log | fname=
+[2026-02-10 11:53:51] [INFO    ] [MainProcess] ========== OCR Pipeline Starting ========== | fname=INIT
+[2026-02-10 11:53:51] [INFO    ] [MainProcess] Input directory : /home/whirldata/cpu_multi_paddle_try/pepsico_attachments | fname=INIT
+[2026-02-10 11:53:51] [INFO    ] [MainProcess] Output directory: /home/whirldata/cpu_multi_paddle_try/ocr_output | fname=INIT
+[2026-02-10 11:53:51] [INFO    ] [MainProcess] Total vCPUs     : 60 | fname=INIT
+[2026-02-10 11:53:51] [INFO    ] [MainProcess] Num workers     : 10 | fname=INIT
+[2026-02-10 11:53:51] [INFO    ] [MainProcess] Threads/worker  : 5 | fname=INIT
+[2026-02-10 11:53:51] [INFO    ] [MainProcess] Queue size      : 5 | fname=INIT
+[2026-02-10 11:53:51] [INFO    ] [MainProcess] Supported exts  : {'.bmp', '.tiff', '.pdf', '.webp', '.png', '.jpg', '.jpeg', '.tif'} | fname=INIT
+[2026-02-10 11:53:51] [INFO    ] [MainProcess] Total entries found in input directory: 36 | fname=SCAN
+[2026-02-10 11:53:51] [DEBUG   ] [MainProcess] All entries: ['34260911 Missing Item Qty. (PO).pdf', '35659400  Company Code Mismatch (PO).pdf', '36364887 Accounting Vendor Maintenance Required (PO).pdf', '36289708  Process Non Invoice Document.pdf', '37290355 Process PO Credit Memo (PO).pdf', '37151454 Process Non-PO Credit Memo (NPO).pdf', '37689388 Process Non-PO Invoice (NPO).pdf', '37451662 Missing Vendor Invoice Reference Number (NPO).pdf', '12124087 Mismatch PepsiCo Company Name (PO).pdf', '23996926 Manual Check of Indexing Lines (PO).pdf', '37794522 Invalid Vendor (PO).pdf', '30313542 Suspected Duplicate (PO).pdf', '37768719 Approval Required (NPO).pdf', '37691076 Please Index (PO).pdf', '37689884 Invalid Vendor (NPO).pdf', '37654394 Invalid PO Number (PO).pdf', '35294023 Please Index (NPO).pdf', '24551639 Process PO Invoice (PO).pdf', '37691214 Missing Vendor Invoice Reference (PO).pdf', '37692967 Invalid UOM (PO).pdf', '33365033 Unable to Determine Company Code (NPO).pdf', '34606454 Multiple Bank Accounts Exist (PO).pdf', '32527148 UOM Mismatch (PO).pdf', '34046864 Invalid Tax Info. (PO).pdf', '36289412 Missing Invoice Date (PO).pdf', '33815264 Invalid Currency (NPO).pdf', '34728178 Vendor Mismatch (PO).pdf', '34388480 Invalid Requestor ID (NPO).pdf', '36532827   Missing Mandatory Information (NPO).pdf', '36292740 Suspected Duplicate (NPO).pdf', '23867942 Invoice Older than Allowed (PO).pdf', '37371307 Invalid Currency (PO).pdf', '28536941 Invalid Recipient VAT Number (PO).pdf', '36761716 Invoice Older than Allowed (NPO).pdf', '36114864 Invalid Tax Info (NPO).pdf', '24280319 Currency Mismatch (PO).pdf'] | fname=SCAN
+[2026-02-10 11:53:51] [DEBUG   ] [MainProcess] Queuing file: 12124087 Mismatch PepsiCo Company Name (PO).pdf (0.04 MB) | fname=12124087 Mismatch PepsiCo Company Name (PO).pdf
+[2026-02-10 11:53:51] [DEBUG   ] [MainProcess] Queuing file: 23867942 Invoice Older than Allowed (PO).pdf (0.11 MB) | fname=23867942 Invoice Older than Allowed (PO).pdf
+[2026-02-10 11:53:51] [DEBUG   ] [MainProcess] Queuing file: 23996926 Manual Check of Indexing Lines (PO).pdf (0.05 MB) | fname=23996926 Manual Check of Indexing Lines (PO).pdf
+[2026-02-10 11:53:51] [DEBUG   ] [MainProcess] Queuing file: 24280319 Currency Mismatch (PO).pdf (0.01 MB) | fname=24280319 Currency Mismatch (PO).pdf
+[2026-02-10 11:53:51] [DEBUG   ] [MainProcess] Queuing file: 24551639 Process PO Invoice (PO).pdf (0.03 MB) | fname=24551639 Process PO Invoice (PO).pdf
+[2026-02-10 11:53:51] [DEBUG   ] [MainProcess] Queuing file: 28536941 Invalid Recipient VAT Number (PO).pdf (0.06 MB) | fname=28536941 Invalid Recipient VAT Number (PO).pdf
+[2026-02-10 11:53:51] [DEBUG   ] [MainProcess] Queuing file: 30313542 Suspected Duplicate (PO).pdf (0.03 MB) | fname=30313542 Suspected Duplicate (PO).pdf
+[2026-02-10 11:53:51] [DEBUG   ] [MainProcess] Queuing file: 32527148 UOM Mismatch (PO).pdf (0.04 MB) | fname=32527148 UOM Mismatch (PO).pdf
+[2026-02-10 11:53:51] [DEBUG   ] [MainProcess] Queuing file: 33365033 Unable to Determine Company Code (NPO).pdf (0.05 MB) | fname=33365033 Unable to Determine Company Code (NPO).pdf
+[2026-02-10 11:53:51] [DEBUG   ] [MainProcess] Queuing file: 33815264 Invalid Currency (NPO).pdf (0.06 MB) | fname=33815264 Invalid Currency (NPO).pdf
+[2026-02-10 11:53:51] [DEBUG   ] [MainProcess] Queuing file: 34046864 Invalid Tax Info. (PO).pdf (0.02 MB) | fname=34046864 Invalid Tax Info. (PO).pdf
+[2026-02-10 11:53:51] [DEBUG   ] [MainProcess] Queuing file: 34260911 Missing Item Qty. (PO).pdf (0.04 MB) | fname=34260911 Missing Item Qty. (PO).pdf
+[2026-02-10 11:53:51] [DEBUG   ] [MainProcess] Queuing file: 34388480 Invalid Requestor ID (NPO).pdf (0.03 MB) | fname=34388480 Invalid Requestor ID (NPO).pdf
+[2026-02-10 11:53:51] [DEBUG   ] [MainProcess] Queuing file: 34606454 Multiple Bank Accounts Exist (PO).pdf (0.06 MB) | fname=34606454 Multiple Bank Accounts Exist (PO).pdf
+[2026-02-10 11:53:51] [DEBUG   ] [MainProcess] Queuing file: 34728178 Vendor Mismatch (PO).pdf (0.04 MB) | fname=34728178 Vendor Mismatch (PO).pdf
+[2026-02-10 11:53:51] [DEBUG   ] [MainProcess] Queuing file: 35294023 Please Index (NPO).pdf (0.04 MB) | fname=35294023 Please Index (NPO).pdf
+[2026-02-10 11:53:51] [DEBUG   ] [MainProcess] Queuing file: 35659400  Company Code Mismatch (PO).pdf (0.07 MB) | fname=35659400  Company Code Mismatch (PO).pdf
+[2026-02-10 11:53:51] [DEBUG   ] [MainProcess] Queuing file: 36114864 Invalid Tax Info (NPO).pdf (0.06 MB) | fname=36114864 Invalid Tax Info (NPO).pdf
+[2026-02-10 11:53:51] [DEBUG   ] [MainProcess] Queuing file: 36289412 Missing Invoice Date (PO).pdf (0.03 MB) | fname=36289412 Missing Invoice Date (PO).pdf
+[2026-02-10 11:53:51] [DEBUG   ] [MainProcess] Queuing file: 36289708  Process Non Invoice Document.pdf (0.05 MB) | fname=36289708  Process Non Invoice Document.pdf
+[2026-02-10 11:53:51] [DEBUG   ] [MainProcess] Queuing file: 36292740 Suspected Duplicate (NPO).pdf (0.03 MB) | fname=36292740 Suspected Duplicate (NPO).pdf
+[2026-02-10 11:53:51] [DEBUG   ] [MainProcess] Queuing file: 36364887 Accounting Vendor Maintenance Required (PO).pdf (0.02 MB) | fname=36364887 Accounting Vendor Maintenance Required (PO).pdf
+[2026-02-10 11:53:51] [DEBUG   ] [MainProcess] Queuing file: 36532827   Missing Mandatory Information (NPO).pdf (0.02 MB) | fname=36532827   Missing Mandatory Information (NPO).pdf
+[2026-02-10 11:53:51] [DEBUG   ] [MainProcess] Queuing file: 36761716 Invoice Older than Allowed (NPO).pdf (0.03 MB) | fname=36761716 Invoice Older than Allowed (NPO).pdf
+[2026-02-10 11:53:51] [DEBUG   ] [MainProcess] Queuing file: 37151454 Process Non-PO Credit Memo (NPO).pdf (0.04 MB) | fname=37151454 Process Non-PO Credit Memo (NPO).pdf
+[2026-02-10 11:53:51] [DEBUG   ] [MainProcess] Queuing file: 37290355 Process PO Credit Memo (PO).pdf (0.03 MB) | fname=37290355 Process PO Credit Memo (PO).pdf
+[2026-02-10 11:53:51] [DEBUG   ] [MainProcess] Queuing file: 37371307 Invalid Currency (PO).pdf (0.03 MB) | fname=37371307 Invalid Currency (PO).pdf
+[2026-02-10 11:53:51] [DEBUG   ] [MainProcess] Queuing file: 37451662 Missing Vendor Invoice Reference Number (NPO).pdf (0.06 MB) | fname=37451662 Missing Vendor Invoice Reference Number (NPO).pdf
+[2026-02-10 11:53:51] [DEBUG   ] [MainProcess] Queuing file: 37654394 Invalid PO Number (PO).pdf (0.01 MB) | fname=37654394 Invalid PO Number (PO).pdf
+[2026-02-10 11:53:51] [DEBUG   ] [MainProcess] Queuing file: 37689388 Process Non-PO Invoice (NPO).pdf (0.02 MB) | fname=37689388 Process Non-PO Invoice (NPO).pdf
+[2026-02-10 11:53:51] [DEBUG   ] [MainProcess] Queuing file: 37689884 Invalid Vendor (NPO).pdf (0.04 MB) | fname=37689884 Invalid Vendor (NPO).pdf
+[2026-02-10 11:53:51] [DEBUG   ] [MainProcess] Queuing file: 37691076 Please Index (PO).pdf (0.06 MB) | fname=37691076 Please Index (PO).pdf
+[2026-02-10 11:53:51] [DEBUG   ] [MainProcess] Queuing file: 37691214 Missing Vendor Invoice Reference (PO).pdf (0.18 MB) | fname=37691214 Missing Vendor Invoice Reference (PO).pdf
+[2026-02-10 11:53:51] [DEBUG   ] [MainProcess] Queuing file: 37692967 Invalid UOM (PO).pdf (0.10 MB) | fname=37692967 Invalid UOM (PO).pdf
+[2026-02-10 11:53:51] [DEBUG   ] [MainProcess] Queuing file: 37768719 Approval Required (NPO).pdf (0.02 MB) | fname=37768719 Approval Required (NPO).pdf
+[2026-02-10 11:53:51] [DEBUG   ] [MainProcess] Queuing file: 37794522 Invalid Vendor (PO).pdf (0.09 MB) | fname=37794522 Invalid Vendor (PO).pdf
+[2026-02-10 11:53:51] [INFO    ] [MainProcess] Files to process: 36, Skipped: 0 | fname=SCAN
+[2026-02-10 11:53:51] [INFO    ] [MainProcess] Multiprocessing start method set to 'spawn' | fname=INIT
+[2026-02-10 11:53:51] [DEBUG   ] [MainProcess] Task queue created with maxsize=5 | fname=INIT
+[2026-02-10 11:53:51] [INFO    ] [MainProcess] Spawning 10 worker processes... | fname=INIT
+[2026-02-10 11:53:51] [INFO    ] [MainProcess] Worker-0 started (PID=4830) | fname=INIT
+[2026-02-10 11:53:51] [INFO    ] [MainProcess] Worker-1 started (PID=4831) | fname=INIT
+[2026-02-10 11:53:51] [INFO    ] [MainProcess] Worker-2 started (PID=4832) | fname=INIT
+[2026-02-10 11:53:51] [INFO    ] [MainProcess] Worker-3 started (PID=4833) | fname=INIT
+[2026-02-10 11:53:51] [INFO    ] [MainProcess] Worker-4 started (PID=4834) | fname=INIT
+[2026-02-10 11:53:51] [INFO    ] [MainProcess] Worker-5 started (PID=4835) | fname=INIT
+[2026-02-10 11:53:51] [INFO    ] [MainProcess] Worker-6 started (PID=4836) | fname=INIT
+[2026-02-10 11:53:51] [INFO    ] [MainProcess] Worker-7 started (PID=4837) | fname=INIT
+[2026-02-10 11:53:51] [INFO    ] [MainProcess] Worker-8 started (PID=4838) | fname=INIT
+[2026-02-10 11:53:51] [INFO    ] [MainProcess] Worker-9 started (PID=4839) | fname=INIT
+[2026-02-10 11:53:51] [INFO    ] [MainProcess] Enqueuing 36 file(s)... | fname=ENQUEUE
+[2026-02-10 11:53:51] [DEBUG   ] [MainProcess] Putting file 1/36 into queue | fname=12124087 Mismatch PepsiCo Company Name (PO).pdf
+[2026-02-10 11:53:51] [DEBUG   ] [MainProcess] File enqueued successfully (1/36) | fname=12124087 Mismatch PepsiCo Company Name (PO).pdf
+[2026-02-10 11:53:51] [DEBUG   ] [MainProcess] Putting file 2/36 into queue | fname=23867942 Invoice Older than Allowed (PO).pdf
+[2026-02-10 11:53:51] [DEBUG   ] [MainProcess] File enqueued successfully (2/36) | fname=23867942 Invoice Older than Allowed (PO).pdf
+[2026-02-10 11:53:51] [DEBUG   ] [MainProcess] Putting file 3/36 into queue | fname=23996926 Manual Check of Indexing Lines (PO).pdf
+[2026-02-10 11:53:51] [DEBUG   ] [MainProcess] File enqueued successfully (3/36) | fname=23996926 Manual Check of Indexing Lines (PO).pdf
+[2026-02-10 11:53:51] [DEBUG   ] [MainProcess] Putting file 4/36 into queue | fname=24280319 Currency Mismatch (PO).pdf
+[2026-02-10 11:53:51] [DEBUG   ] [MainProcess] File enqueued successfully (4/36) | fname=24280319 Currency Mismatch (PO).pdf
+[2026-02-10 11:53:51] [DEBUG   ] [MainProcess] Putting file 5/36 into queue | fname=24551639 Process PO Invoice (PO).pdf
+[2026-02-10 11:53:51] [DEBUG   ] [MainProcess] File enqueued successfully (5/36) | fname=24551639 Process PO Invoice (PO).pdf
+[2026-02-10 11:53:51] [DEBUG   ] [MainProcess] Putting file 6/36 into queue | fname=28536941 Invalid Recipient VAT Number (PO).pdf
+[2026-02-10 11:53:51] [INFO    ] [Worker-0] Worker-0 process started (PID=4830) | fname=INIT
+[2026-02-10 11:53:51] [INFO    ] [Worker-0] Thread env — OMP=5, MKL=5, NUMEXPR=5 | fname=INIT
+[2026-02-10 11:53:51] [INFO    ] [Worker-0] Worker-0 initializing PaddleOCR model... | fname=INIT
+[2026-02-10 11:53:51] [INFO    ] [Worker-1] Worker-1 process started (PID=4831) | fname=INIT
+[2026-02-10 11:53:51] [INFO    ] [Worker-2] Worker-2 process started (PID=4832) | fname=INIT
+[2026-02-10 11:53:51] [INFO    ] [Worker-4] Worker-4 process started (PID=4834) | fname=INIT
+[2026-02-10 11:53:51] [INFO    ] [Worker-3] Worker-3 process started (PID=4833) | fname=INIT
+[2026-02-10 11:53:51] [INFO    ] [Worker-1] Thread env — OMP=5, MKL=5, NUMEXPR=5 | fname=INIT
+[2026-02-10 11:53:51] [INFO    ] [Worker-2] Thread env — OMP=5, MKL=5, NUMEXPR=5 | fname=INIT
+[2026-02-10 11:53:51] [INFO    ] [Worker-4] Thread env — OMP=5, MKL=5, NUMEXPR=5 | fname=INIT
+[2026-02-10 11:53:51] [INFO    ] [Worker-3] Thread env — OMP=5, MKL=5, NUMEXPR=5 | fname=INIT
+[2026-02-10 11:53:51] [INFO    ] [Worker-1] Worker-1 initializing PaddleOCR model... | fname=INIT
+[2026-02-10 11:53:51] [INFO    ] [Worker-2] Worker-2 initializing PaddleOCR model... | fname=INIT
+[2026-02-10 11:53:51] [INFO    ] [Worker-4] Worker-4 initializing PaddleOCR model... | fname=INIT
+[2026-02-10 11:53:51] [INFO    ] [Worker-3] Worker-3 initializing PaddleOCR model... | fname=INIT
+[2026-02-10 11:53:51] [INFO    ] [Worker-6] Worker-6 process started (PID=4836) | fname=INIT
+[2026-02-10 11:53:51] [INFO    ] [Worker-6] Thread env — OMP=5, MKL=5, NUMEXPR=5 | fname=INIT
+[2026-02-10 11:53:51] [INFO    ] [Worker-6] Worker-6 initializing PaddleOCR model... | fname=INIT
+[2026-02-10 11:53:51] [INFO    ] [Worker-5] Worker-5 process started (PID=4835) | fname=INIT
+[2026-02-10 11:53:51] [INFO    ] [Worker-5] Thread env — OMP=5, MKL=5, NUMEXPR=5 | fname=INIT
+[2026-02-10 11:53:51] [INFO    ] [Worker-5] Worker-5 initializing PaddleOCR model... | fname=INIT
+[2026-02-10 11:53:51] [INFO    ] [Worker-7] Worker-7 process started (PID=4837) | fname=INIT
+[2026-02-10 11:53:51] [INFO    ] [Worker-7] Thread env — OMP=5, MKL=5, NUMEXPR=5 | fname=INIT
+[2026-02-10 11:53:51] [INFO    ] [Worker-7] Worker-7 initializing PaddleOCR model... | fname=INIT
+[2026-02-10 11:53:51] [INFO    ] [Worker-8] Worker-8 process started (PID=4838) | fname=INIT
+[2026-02-10 11:53:51] [INFO    ] [Worker-8] Thread env — OMP=5, MKL=5, NUMEXPR=5 | fname=INIT
+[2026-02-10 11:53:51] [INFO    ] [Worker-8] Worker-8 initializing PaddleOCR model... | fname=INIT
+[2026-02-10 11:53:51] [INFO    ] [Worker-9] Worker-9 process started (PID=4839) | fname=INIT
+[2026-02-10 11:53:51] [INFO    ] [Worker-9] Thread env — OMP=5, MKL=5, NUMEXPR=5 | fname=INIT
+[2026-02-10 11:53:51] [INFO    ] [Worker-9] Worker-9 initializing PaddleOCR model... | fname=INIT
+[2026-02-10 11:53:55] [CRITICAL] [Worker-4] Worker-4 FAILED to initialize PaddleOCR after 3.88s: libGL.so.1: cannot open shared object file: No such file or directory | fname=INIT
+[2026-02-10 11:53:55] [DEBUG   ] [Worker-4] Traceback:
+Traceback (most recent call last):
+  File "/home/whirldata/cpu_multi_paddle_try/ocr_worker.py", line 54, in ocr_worker
+    from paddleocr import PaddleOCR
+  File "/home/whirldata/cpu_multi_paddle_try/venv/lib/python3.11/site-packages/paddleocr/__init__.py", line 15, in <module>
+    from paddlex.inference.utils.benchmark import benchmark
+  File "/home/whirldata/cpu_multi_paddle_try/venv/lib/python3.11/site-packages/paddlex/__init__.py", line 49, in <module>
+    from .inference import create_pipeline, create_predictor
+  File "/home/whirldata/cpu_multi_paddle_try/venv/lib/python3.11/site-packages/paddlex/inference/__init__.py", line 16, in <module>
+    from .models import create_predictor
+  File "/home/whirldata/cpu_multi_paddle_try/venv/lib/python3.11/site-packages/paddlex/inference/models/__init__.py", line 26, in <module>
+    from .anomaly_detection import UadPredictor
+  File "/home/whirldata/cpu_multi_paddle_try/venv/lib/python3.11/site-packages/paddlex/inference/models/anomaly_detection/__init__.py", line 15, in <module>
+    from .predictor import UadPredictor
+  File "/home/whirldata/cpu_multi_paddle_try/venv/lib/python3.11/site-packages/paddlex/inference/models/anomaly_detection/predictor.py", line 19, in <module>
+    from ....modules.anomaly_detection.model_list import MODELS
+  File "/home/whirldata/cpu_multi_paddle_try/venv/lib/python3.11/site-packages/paddlex/modules/__init__.py", line 16, in <module>
+    from .anomaly_detection import UadDatasetChecker, UadEvaluator, UadExportor, UadTrainer
+  File "/home/whirldata/cpu_multi_paddle_try/venv/lib/python3.11/site-packages/paddlex/modules/anomaly_detection/__init__.py", line 15, in <module>
+    from .dataset_checker import UadDatasetChecker
+  File "/home/whirldata/cpu_multi_paddle_try/venv/lib/python3.11/site-packages/paddlex/modules/anomaly_detection/dataset_checker/__init__.py", line 21, in <module>
+    from .dataset_src import anaylse_dataset, check_dataset, convert_dataset, split_dataset
+  File "/home/whirldata/cpu_multi_paddle_try/venv/lib/python3.11/site-packages/paddlex/modules/anomaly_detection/dataset_checker/dataset_src/__init__.py", line 17, in <module>
+    from .check_dataset import check_dataset
+  File "/home/whirldata/cpu_multi_paddle_try/venv/lib/python3.11/site-packages/paddlex/modules/anomaly_detection/dataset_checker/dataset_src/check_dataset.py", line 26, in <module>
+    from .utils.visualizer import visualize
+  File "/home/whirldata/cpu_multi_paddle_try/venv/lib/python3.11/site-packages/paddlex/modules/anomaly_detection/dataset_checker/dataset_src/utils/visualizer.py", line 21, in <module>
+    import cv2
+  File "/home/whirldata/cpu_multi_paddle_try/venv/lib/python3.11/site-packages/cv2/__init__.py", line 181, in <module>
+    bootstrap()
+  File "/home/whirldata/cpu_multi_paddle_try/venv/lib/python3.11/site-packages/cv2/__init__.py", line 153, in bootstrap
+    native_module = importlib.import_module("cv2")
+                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/lib/python3.11/importlib/__init__.py", line 126, in import_module
+    return _bootstrap._gcd_import(name[level:], package, level)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+ImportError: libGL.so.1: cannot open shared object file: No such file or directory
+ | fname=INIT
+[2026-02-10 11:53:55] [CRITICAL] [Worker-5] Worker-5 FAILED to initialize PaddleOCR after 3.93s: libGL.so.1: cannot open shared object file: No such file or directory | fname=INIT
+[2026-02-10 11:53:55] [DEBUG   ] [Worker-5] Traceback:
+Traceback (most recent call last):
+  File "/home/whirldata/cpu_multi_paddle_try/ocr_worker.py", line 54, in ocr_worker
+    from paddleocr import PaddleOCR
+  File "/home/whirldata/cpu_multi_paddle_try/venv/lib/python3.11/site-packages/paddleocr/__init__.py", line 15, in <module>
+    from paddlex.inference.utils.benchmark import benchmark
+  File "/home/whirldata/cpu_multi_paddle_try/venv/lib/python3.11/site-packages/paddlex/__init__.py", line 49, in <module>
+    from .inference import create_pipeline, create_predictor
+  File "/home/whirldata/cpu_multi_paddle_try/venv/lib/python3.11/site-packages/paddlex/inference/__init__.py", line 16, in <module>
+    from .models import create_predictor
+  File "/home/whirldata/cpu_multi_paddle_try/venv/lib/python3.11/site-packages/paddlex/inference/models/__init__.py", line 26, in <module>
+    from .anomaly_detection import UadPredictor
+  File "/home/whirldata/cpu_multi_paddle_try/venv/lib/python3.11/site-packages/paddlex/inference/models/anomaly_detection/__init__.py", line 15, in <module>
+    from .predictor import UadPredictor
+  File "/home/whirldata/cpu_multi_paddle_try/venv/lib/python3.11/site-packages/paddlex/inference/models/anomaly_detection/predictor.py", line 19, in <module>
+    from ....modules.anomaly_detection.model_list import MODELS
+  File "/home/whirldata/cpu_multi_paddle_try/venv/lib/python3.11/site-packages/paddlex/modules/__init__.py", line 16, in <module>
+    from .anomaly_detection import UadDatasetChecker, UadEvaluator, UadExportor, UadTrainer
+  File "/home/whirldata/cpu_multi_paddle_try/venv/lib/python3.11/site-packages/paddlex/modules/anomaly_detection/__init__.py", line 15, in <module>
+    from .dataset_checker import UadDatasetChecker
+  File "/home/whirldata/cpu_multi_paddle_try/venv/lib/python3.11/site-packages/paddlex/modules/anomaly_detection/dataset_checker/__init__.py", line 21, in <module>
+    from .dataset_src import anaylse_dataset, check_dataset, convert_dataset, split_dataset
+  File "/home/whirldata/cpu_multi_paddle_try/venv/lib/python3.11/site-packages/paddlex/modules/anomaly_detection/dataset_checker/dataset_src/__init__.py", line 17, in <module>
+    from .check_dataset import check_dataset
+  File "/home/whirldata/cpu_multi_paddle_try/venv/lib/python3.11/site-packages/paddlex/modules/anomaly_detection/dataset_checker/dataset_src/check_dataset.py", line 26, in <module>
+    from .utils.visualizer import visualize
+  File "/home/whirldata/cpu_multi_paddle_try/venv/lib/python3.11/site-packages/paddlex/modules/anomaly_detection/dataset_checker/dataset_src/utils/visualizer.py", line 21, in <module>
+    import cv2
+  File "/home/whirldata/cpu_multi_paddle_try/venv/lib/python3.11/site-packages/cv2/__init__.py", line 181, in <module>
+    bootstrap()
+  File "/home/whirldata/cpu_multi_paddle_try/venv/lib/python3.11/site-packages/cv2/__init__.py", line 153, in bootstrap
+    native_module = importlib.import_module("cv2")
+                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/lib/python3.11/importlib/__init__.py", line 126, in import_module
+    return _bootstrap._gcd_import(name[level:], package, level)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+ImportError: libGL.so.1: cannot open shared object file: No such file or directory
+ | fname=INIT
+[2026-02-10 11:53:55] [CRITICAL] [Worker-8] Worker-8 FAILED to initialize PaddleOCR after 3.96s: libGL.so.1: cannot open shared object file: No such file or directory | fname=INIT
+[2026-02-10 11:53:55] [DEBUG   ] [Worker-8] Traceback:
+Traceback (most recent call last):
+  File "/home/whirldata/cpu_multi_paddle_try/ocr_worker.py", line 54, in ocr_worker
+    from paddleocr import PaddleOCR
+  File "/home/whirldata/cpu_multi_paddle_try/venv/lib/python3.11/site-packages/paddleocr/__init__.py", line 15, in <module>
+    from paddlex.inference.utils.benchmark import benchmark
+  File "/home/whirldata/cpu_multi_paddle_try/venv/lib/python3.11/site-packages/paddlex/__init__.py", line 49, in <module>
+    from .inference import create_pipeline, create_predictor
+  File "/home/whirldata/cpu_multi_paddle_try/venv/lib/python3.11/site-packages/paddlex/inference/__init__.py", line 16, in <module>
+    from .models import create_predictor
+  File "/home/whirldata/cpu_multi_paddle_try/venv/lib/python3.11/site-packages/paddlex/inference/models/__init__.py", line 26, in <module>
+    from .anomaly_detection import UadPredictor
+  File "/home/whirldata/cpu_multi_paddle_try/venv/lib/python3.11/site-packages/paddlex/inference/models/anomaly_detection/__init__.py", line 15, in <module>
+    from .predictor import UadPredictor
+  File "/home/whirldata/cpu_multi_paddle_try/venv/lib/python3.11/site-packages/paddlex/inference/models/anomaly_detection/predictor.py", line 19, in <module>
+    from ....modules.anomaly_detection.model_list import MODELS
+  File "/home/whirldata/cpu_multi_paddle_try/venv/lib/python3.11/site-packages/paddlex/modules/__init__.py", line 16, in <module>
+    from .anomaly_detection import UadDatasetChecker, UadEvaluator, UadExportor, UadTrainer
+  File "/home/whirldata/cpu_multi_paddle_try/venv/lib/python3.11/site-packages/paddlex/modules/anomaly_detection/__init__.py", line 15, in <module>
+    from .dataset_checker import UadDatasetChecker
+  File "/home/whirldata/cpu_multi_paddle_try/venv/lib/python3.11/site-packages/paddlex/modules/anomaly_detection/dataset_checker/__init__.py", line 21, in <module>
+    from .dataset_src import anaylse_dataset, check_dataset, convert_dataset, split_dataset
+  File "/home/whirldata/cpu_multi_paddle_try/venv/lib/python3.11/site-packages/paddlex/modules/anomaly_detection/dataset_checker/dataset_src/__init__.py", line 17, in <module>
+    from .check_dataset import check_dataset
+  File "/home/whirldata/cpu_multi_paddle_try/venv/lib/python3.11/site-packages/paddlex/modules/anomaly_detection/dataset_checker/dataset_src/check_dataset.py", line 26, in <module>
+    from .utils.visualizer import visualize
+  File "/home/whirldata/cpu_multi_paddle_try/venv/lib/python3.11/site-packages/paddlex/modules/anomaly_detection/dataset_checker/dataset_src/utils/visualizer.py", line 21, in <module>
+    import cv2
+  File "/home/whirldata/cpu_multi_paddle_try/venv/lib/python3.11/site-packages/cv2/__init__.py", line 181, in <module>
+    bootstrap()
+  File "/home/whirldata/cpu_multi_paddle_try/venv/lib/python3.11/site-packages/cv2/__init__.py", line 153, in bootstrap
+    native_module = importlib.import_module("cv2")
+                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/lib/python3.11/importlib/__init__.py", line 126, in import_module
+    return _bootstrap._gcd_import(name[level:], package, level)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+ImportError: libGL.so.1: cannot open shared object file: No such file or directory
+ | fname=INIT
+[2026-02-10 11:53:55] [CRITICAL] [Worker-3] Worker-3 FAILED to initialize PaddleOCR after 3.99s: libGL.so.1: cannot open shared object file: No such file or directory | fname=INIT
+[2026-02-10 11:53:55] [DEBUG   ] [Worker-3] Traceback:
+Traceback (most recent call last):
+  File "/home/whirldata/cpu_multi_paddle_try/ocr_worker.py", line 54, in ocr_worker
+    from paddleocr import PaddleOCR
+  File "/home/whirldata/cpu_multi_paddle_try/venv/lib/python3.11/site-packages/paddleocr/__init__.py", line 15, in <module>
+    from paddlex.inference.utils.benchmark import benchmark
+  File "/home/whirldata/cpu_multi_paddle_try/venv/lib/python3.11/site-packages/paddlex/__init__.py", line 49, in <module>
+    from .inference import create_pipeline, create_predictor
+  File "/home/whirldata/cpu_multi_paddle_try/venv/lib/python3.11/site-packages/paddlex/inference/__init__.py", line 16, in <module>
+    from .models import create_predictor
+  File "/home/whirldata/cpu_multi_paddle_try/venv/lib/python3.11/site-packages/paddlex/inference/models/__init__.py", line 26, in <module>
+    from .anomaly_detection import UadPredictor
+  File "/home/whirldata/cpu_multi_paddle_try/venv/lib/python3.11/site-packages/paddlex/inference/models/anomaly_detection/__init__.py", line 15, in <module>
+    from .predictor import UadPredictor
+  File "/home/whirldata/cpu_multi_paddle_try/venv/lib/python3.11/site-packages/paddlex/inference/models/anomaly_detection/predictor.py", line 19, in <module>
+    from ....modules.anomaly_detection.model_list import MODELS
+  File "/home/whirldata/cpu_multi_paddle_try/venv/lib/python3.11/site-packages/paddlex/modules/__init__.py", line 16, in <module>
+    from .anomaly_detection import UadDatasetChecker, UadEvaluator, UadExportor, UadTrainer
+  File "/home/whirldata/cpu_multi_paddle_try/venv/lib/python3.11/site-packages/paddlex/modules/anomaly_detection/__init__.py", line 15, in <module>
+    from .dataset_checker import UadDatasetChecker
+  File "/home/whirldata/cpu_multi_paddle_try/venv/lib/python3.11/site-packages/paddlex/modules/anomaly_detection/dataset_checker/__init__.py", line 21, in <module>
+    from .dataset_src import anaylse_dataset, check_dataset, convert_dataset, split_dataset
+  File "/home/whirldata/cpu_multi_paddle_try/venv/lib/python3.11/site-packages/paddlex/modules/anomaly_detection/dataset_checker/dataset_src/__init__.py", line 17, in <module>
+    from .check_dataset import check_dataset
+  File "/home/whirldata/cpu_multi_paddle_try/venv/lib/python3.11/site-packages/paddlex/modules/anomaly_detection/dataset_checker/dataset_src/check_dataset.py", line 26, in <module>
+    from .utils.visualizer import visualize
+  File "/home/whirldata/cpu_multi_paddle_try/venv/lib/python3.11/site-packages/paddlex/modules/anomaly_detection/dataset_checker/dataset_src/utils/visualizer.py", line 21, in <module>
+    import cv2
+  File "/home/whirldata/cpu_multi_paddle_try/venv/lib/python3.11/site-packages/cv2/__init__.py", line 181, in <module>
+    bootstrap()
+  File "/home/whirldata/cpu_multi_paddle_try/venv/lib/python3.11/site-packages/cv2/__init__.py", line 153, in bootstrap
+    native_module = importlib.import_module("cv2")
+                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/lib/python3.11/importlib/__init__.py", line 126, in import_module
+    return _bootstrap._gcd_import(name[level:], package, level)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+ImportError: libGL.so.1: cannot open shared object file: No such file or directory
+ | fname=INIT
+[2026-02-10 11:53:55] [CRITICAL] [Worker-0] Worker-0 FAILED to initialize PaddleOCR after 4.07s: libGL.so.1: cannot open shared object file: No such file or directory | fname=INIT
+[2026-02-10 11:53:55] [DEBUG   ] [Worker-0] Traceback:
+Traceback (most recent call last):
+  File "/home/whirldata/cpu_multi_paddle_try/ocr_worker.py", line 54, in ocr_worker
+    from paddleocr import PaddleOCR
+  File "/home/whirldata/cpu_multi_paddle_try/venv/lib/python3.11/site-packages/paddleocr/__init__.py", line 15, in <module>
+    from paddlex.inference.utils.benchmark import benchmark
+  File "/home/whirldata/cpu_multi_paddle_try/venv/lib/python3.11/site-packages/paddlex/__init__.py", line 49, in <module>
+    from .inference import create_pipeline, create_predictor
+  File "/home/whirldata/cpu_multi_paddle_try/venv/lib/python3.11/site-packages/paddlex/inference/__init__.py", line 16, in <module>
+    from .models import create_predictor
+  File "/home/whirldata/cpu_multi_paddle_try/venv/lib/python3.11/site-packages/paddlex/inference/models/__init__.py", line 26, in <module>
+    from .anomaly_detection import UadPredictor
+  File "/home/whirldata/cpu_multi_paddle_try/venv/lib/python3.11/site-packages/paddlex/inference/models/anomaly_detection/__init__.py", line 15, in <module>
+    from .predictor import UadPredictor
+  File "/home/whirldata/cpu_multi_paddle_try/venv/lib/python3.11/site-packages/paddlex/inference/models/anomaly_detection/predictor.py", line 19, in <module>
+    from ....modules.anomaly_detection.model_list import MODELS
+  File "/home/whirldata/cpu_multi_paddle_try/venv/lib/python3.11/site-packages/paddlex/modules/__init__.py", line 16, in <module>
+    from .anomaly_detection import UadDatasetChecker, UadEvaluator, UadExportor, UadTrainer
+  File "/home/whirldata/cpu_multi_paddle_try/venv/lib/python3.11/site-packages/paddlex/modules/anomaly_detection/__init__.py", line 15, in <module>
+    from .dataset_checker import UadDatasetChecker
+  File "/home/whirldata/cpu_multi_paddle_try/venv/lib/python3.11/site-packages/paddlex/modules/anomaly_detection/dataset_checker/__init__.py", line 21, in <module>
+    from .dataset_src import anaylse_dataset, check_dataset, convert_dataset, split_dataset
+  File "/home/whirldata/cpu_multi_paddle_try/venv/lib/python3.11/site-packages/paddlex/modules/anomaly_detection/dataset_checker/dataset_src/__init__.py", line 17, in <module>
+    from .check_dataset import check_dataset
+  File "/home/whirldata/cpu_multi_paddle_try/venv/lib/python3.11/site-packages/paddlex/modules/anomaly_detection/dataset_checker/dataset_src/check_dataset.py", line 26, in <module>
+    from .utils.visualizer import visualize
+  File "/home/whirldata/cpu_multi_paddle_try/venv/lib/python3.11/site-packages/paddlex/modules/anomaly_detection/dataset_checker/dataset_src/utils/visualizer.py", line 21, in <module>
+    import cv2
+  File "/home/whirldata/cpu_multi_paddle_try/venv/lib/python3.11/site-packages/cv2/__init__.py", line 181, in <module>
+    bootstrap()
+  File "/home/whirldata/cpu_multi_paddle_try/venv/lib/python3.11/site-packages/cv2/__init__.py", line 153, in bootstrap
+    native_module = importlib.import_module("cv2")
+                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/lib/python3.11/importlib/__init__.py", line 126, in import_module
+    return _bootstrap._gcd_import(name[level:], package, level)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+ImportError: libGL.so.1: cannot open shared object file: No such file or directory
+ | fname=INIT
+[2026-02-10 11:53:55] [CRITICAL] [Worker-7] Worker-7 FAILED to initialize PaddleOCR after 4.09s: libGL.so.1: cannot open shared object file: No such file or directory | fname=INIT
+[2026-02-10 11:53:55] [DEBUG   ] [Worker-7] Traceback:
+Traceback (most recent call last):
+  File "/home/whirldata/cpu_multi_paddle_try/ocr_worker.py", line 54, in ocr_worker
+    from paddleocr import PaddleOCR
+  File "/home/whirldata/cpu_multi_paddle_try/venv/lib/python3.11/site-packages/paddleocr/__init__.py", line 15, in <module>
+    from paddlex.inference.utils.benchmark import benchmark
+  File "/home/whirldata/cpu_multi_paddle_try/venv/lib/python3.11/site-packages/paddlex/__init__.py", line 49, in <module>
+    from .inference import create_pipeline, create_predictor
+  File "/home/whirldata/cpu_multi_paddle_try/venv/lib/python3.11/site-packages/paddlex/inference/__init__.py", line 16, in <module>
+    from .models import create_predictor
+  File "/home/whirldata/cpu_multi_paddle_try/venv/lib/python3.11/site-packages/paddlex/inference/models/__init__.py", line 26, in <module>
+    from .anomaly_detection import UadPredictor
+  File "/home/whirldata/cpu_multi_paddle_try/venv/lib/python3.11/site-packages/paddlex/inference/models/anomaly_detection/__init__.py", line 15, in <module>
+    from .predictor import UadPredictor
+  File "/home/whirldata/cpu_multi_paddle_try/venv/lib/python3.11/site-packages/paddlex/inference/models/anomaly_detection/predictor.py", line 19, in <module>
+    from ....modules.anomaly_detection.model_list import MODELS
+  File "/home/whirldata/cpu_multi_paddle_try/venv/lib/python3.11/site-packages/paddlex/modules/__init__.py", line 16, in <module>
+    from .anomaly_detection import UadDatasetChecker, UadEvaluator, UadExportor, UadTrainer
+  File "/home/whirldata/cpu_multi_paddle_try/venv/lib/python3.11/site-packages/paddlex/modules/anomaly_detection/__init__.py", line 15, in <module>
+    from .dataset_checker import UadDatasetChecker
+  File "/home/whirldata/cpu_multi_paddle_try/venv/lib/python3.11/site-packages/paddlex/modules/anomaly_detection/dataset_checker/__init__.py", line 21, in <module>
+    from .dataset_src import anaylse_dataset, check_dataset, convert_dataset, split_dataset
+  File "/home/whirldata/cpu_multi_paddle_try/venv/lib/python3.11/site-packages/paddlex/modules/anomaly_detection/dataset_checker/dataset_src/__init__.py", line 17, in <module>
+    from .check_dataset import check_dataset
+  File "/home/whirldata/cpu_multi_paddle_try/venv/lib/python3.11/site-packages/paddlex/modules/anomaly_detection/dataset_checker/dataset_src/check_dataset.py", line 26, in <module>
+    from .utils.visualizer import visualize
+  File "/home/whirldata/cpu_multi_paddle_try/venv/lib/python3.11/site-packages/paddlex/modules/anomaly_detection/dataset_checker/dataset_src/utils/visualizer.py", line 21, in <module>
+    import cv2
+  File "/home/whirldata/cpu_multi_paddle_try/venv/lib/python3.11/site-packages/cv2/__init__.py", line 181, in <module>
+    bootstrap()
+  File "/home/whirldata/cpu_multi_paddle_try/venv/lib/python3.11/site-packages/cv2/__init__.py", line 153, in bootstrap
+    native_module = importlib.import_module("cv2")
+                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/lib/python3.11/importlib/__init__.py", line 126, in import_module
+    return _bootstrap._gcd_import(name[level:], package, level)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+ImportError: libGL.so.1: cannot open shared object file: No such file or directory
+ | fname=INIT
+[2026-02-10 11:53:55] [CRITICAL] [Worker-6] Worker-6 FAILED to initialize PaddleOCR after 4.18s: libGL.so.1: cannot open shared object file: No such file or directory | fname=INIT
+[2026-02-10 11:53:55] [DEBUG   ] [Worker-6] Traceback:
+Traceback (most recent call last):
+  File "/home/whirldata/cpu_multi_paddle_try/ocr_worker.py", line 54, in ocr_worker
+    from paddleocr import PaddleOCR
+  File "/home/whirldata/cpu_multi_paddle_try/venv/lib/python3.11/site-packages/paddleocr/__init__.py", line 15, in <module>
+    from paddlex.inference.utils.benchmark import benchmark
+  File "/home/whirldata/cpu_multi_paddle_try/venv/lib/python3.11/site-packages/paddlex/__init__.py", line 49, in <module>
+    from .inference import create_pipeline, create_predictor
+  File "/home/whirldata/cpu_multi_paddle_try/venv/lib/python3.11/site-packages/paddlex/inference/__init__.py", line 16, in <module>
+    from .models import create_predictor
+  File "/home/whirldata/cpu_multi_paddle_try/venv/lib/python3.11/site-packages/paddlex/inference/models/__init__.py", line 26, in <module>
+    from .anomaly_detection import UadPredictor
+  File "/home/whirldata/cpu_multi_paddle_try/venv/lib/python3.11/site-packages/paddlex/inference/models/anomaly_detection/__init__.py", line 15, in <module>
+    from .predictor import UadPredictor
+  File "/home/whirldata/cpu_multi_paddle_try/venv/lib/python3.11/site-packages/paddlex/inference/models/anomaly_detection/predictor.py", line 19, in <module>
+    from ....modules.anomaly_detection.model_list import MODELS
+  File "/home/whirldata/cpu_multi_paddle_try/venv/lib/python3.11/site-packages/paddlex/modules/__init__.py", line 16, in <module>
+    from .anomaly_detection import UadDatasetChecker, UadEvaluator, UadExportor, UadTrainer
+  File "/home/whirldata/cpu_multi_paddle_try/venv/lib/python3.11/site-packages/paddlex/modules/anomaly_detection/__init__.py", line 15, in <module>
+    from .dataset_checker import UadDatasetChecker
+  File "/home/whirldata/cpu_multi_paddle_try/venv/lib/python3.11/site-packages/paddlex/modules/anomaly_detection/dataset_checker/__init__.py", line 21, in <module>
+    from .dataset_src import anaylse_dataset, check_dataset, convert_dataset, split_dataset
+  File "/home/whirldata/cpu_multi_paddle_try/venv/lib/python3.11/site-packages/paddlex/modules/anomaly_detection/dataset_checker/dataset_src/__init__.py", line 17, in <module>
+    from .check_dataset import check_dataset
+  File "/home/whirldata/cpu_multi_paddle_try/venv/lib/python3.11/site-packages/paddlex/modules/anomaly_detection/dataset_checker/dataset_src/check_dataset.py", line 26, in <module>
+    from .utils.visualizer import visualize
+  File "/home/whirldata/cpu_multi_paddle_try/venv/lib/python3.11/site-packages/paddlex/modules/anomaly_detection/dataset_checker/dataset_src/utils/visualizer.py", line 21, in <module>
+    import cv2
+  File "/home/whirldata/cpu_multi_paddle_try/venv/lib/python3.11/site-packages/cv2/__init__.py", line 181, in <module>
+    bootstrap()
+  File "/home/whirldata/cpu_multi_paddle_try/venv/lib/python3.11/site-packages/cv2/__init__.py", line 153, in bootstrap
+    native_module = importlib.import_module("cv2")
+                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/lib/python3.11/importlib/__init__.py", line 126, in import_module
+    return _bootstrap._gcd_import(name[level:], package, level)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+ImportError: libGL.so.1: cannot open shared object file: No such file or directory
+ | fname=INIT
+[2026-02-10 11:53:56] [CRITICAL] [Worker-9] Worker-9 FAILED to initialize PaddleOCR after 4.71s: libGL.so.1: cannot open shared object file: No such file or directory | fname=INIT
+[2026-02-10 11:53:56] [DEBUG   ] [Worker-9] Traceback:
+Traceback (most recent call last):
+  File "/home/whirldata/cpu_multi_paddle_try/ocr_worker.py", line 54, in ocr_worker
+    from paddleocr import PaddleOCR
+  File "/home/whirldata/cpu_multi_paddle_try/venv/lib/python3.11/site-packages/paddleocr/__init__.py", line 15, in <module>
+    from paddlex.inference.utils.benchmark import benchmark
+  File "/home/whirldata/cpu_multi_paddle_try/venv/lib/python3.11/site-packages/paddlex/__init__.py", line 49, in <module>
+    from .inference import create_pipeline, create_predictor
+  File "/home/whirldata/cpu_multi_paddle_try/venv/lib/python3.11/site-packages/paddlex/inference/__init__.py", line 16, in <module>
+    from .models import create_predictor
+  File "/home/whirldata/cpu_multi_paddle_try/venv/lib/python3.11/site-packages/paddlex/inference/models/__init__.py", line 26, in <module>
+    from .anomaly_detection import UadPredictor
+  File "/home/whirldata/cpu_multi_paddle_try/venv/lib/python3.11/site-packages/paddlex/inference/models/anomaly_detection/__init__.py", line 15, in <module>
+    from .predictor import UadPredictor
+  File "/home/whirldata/cpu_multi_paddle_try/venv/lib/python3.11/site-packages/paddlex/inference/models/anomaly_detection/predictor.py", line 19, in <module>
+    from ....modules.anomaly_detection.model_list import MODELS
+  File "/home/whirldata/cpu_multi_paddle_try/venv/lib/python3.11/site-packages/paddlex/modules/__init__.py", line 16, in <module>
+    from .anomaly_detection import UadDatasetChecker, UadEvaluator, UadExportor, UadTrainer
+  File "/home/whirldata/cpu_multi_paddle_try/venv/lib/python3.11/site-packages/paddlex/modules/anomaly_detection/__init__.py", line 15, in <module>
+    from .dataset_checker import UadDatasetChecker
+  File "/home/whirldata/cpu_multi_paddle_try/venv/lib/python3.11/site-packages/paddlex/modules/anomaly_detection/dataset_checker/__init__.py", line 21, in <module>
+    from .dataset_src import anaylse_dataset, check_dataset, convert_dataset, split_dataset
+  File "/home/whirldata/cpu_multi_paddle_try/venv/lib/python3.11/site-packages/paddlex/modules/anomaly_detection/dataset_checker/dataset_src/__init__.py", line 17, in <module>
+    from .check_dataset import check_dataset
+  File "/home/whirldata/cpu_multi_paddle_try/venv/lib/python3.11/site-packages/paddlex/modules/anomaly_detection/dataset_checker/dataset_src/check_dataset.py", line 26, in <module>
+    from .utils.visualizer import visualize
+  File "/home/whirldata/cpu_multi_paddle_try/venv/lib/python3.11/site-packages/paddlex/modules/anomaly_detection/dataset_checker/dataset_src/utils/visualizer.py", line 21, in <module>
+    import cv2
+  File "/home/whirldata/cpu_multi_paddle_try/venv/lib/python3.11/site-packages/cv2/__init__.py", line 181, in <module>
+    bootstrap()
+  File "/home/whirldata/cpu_multi_paddle_try/venv/lib/python3.11/site-packages/cv2/__init__.py", line 153, in bootstrap
+    native_module = importlib.import_module("cv2")
+                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/lib/python3.11/importlib/__init__.py", line 126, in import_module
+    return _bootstrap._gcd_import(name[level:], package, level)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+ImportError: libGL.so.1: cannot open shared object file: No such file or directory
+ | fname=INIT
+[2026-02-10 11:53:56] [CRITICAL] [Worker-2] Worker-2 FAILED to initialize PaddleOCR after 4.92s: libGL.so.1: cannot open shared object file: No such file or directory | fname=INIT
+[2026-02-10 11:53:56] [DEBUG   ] [Worker-2] Traceback:
+Traceback (most recent call last):
+  File "/home/whirldata/cpu_multi_paddle_try/ocr_worker.py", line 54, in ocr_worker
+    from paddleocr import PaddleOCR
+  File "/home/whirldata/cpu_multi_paddle_try/venv/lib/python3.11/site-packages/paddleocr/__init__.py", line 15, in <module>
+    from paddlex.inference.utils.benchmark import benchmark
+  File "/home/whirldata/cpu_multi_paddle_try/venv/lib/python3.11/site-packages/paddlex/__init__.py", line 49, in <module>
+    from .inference import create_pipeline, create_predictor
+  File "/home/whirldata/cpu_multi_paddle_try/venv/lib/python3.11/site-packages/paddlex/inference/__init__.py", line 16, in <module>
+    from .models import create_predictor
+  File "/home/whirldata/cpu_multi_paddle_try/venv/lib/python3.11/site-packages/paddlex/inference/models/__init__.py", line 26, in <module>
+    from .anomaly_detection import UadPredictor
+  File "/home/whirldata/cpu_multi_paddle_try/venv/lib/python3.11/site-packages/paddlex/inference/models/anomaly_detection/__init__.py", line 15, in <module>
+    from .predictor import UadPredictor
+  File "/home/whirldata/cpu_multi_paddle_try/venv/lib/python3.11/site-packages/paddlex/inference/models/anomaly_detection/predictor.py", line 19, in <module>
+    from ....modules.anomaly_detection.model_list import MODELS
+  File "/home/whirldata/cpu_multi_paddle_try/venv/lib/python3.11/site-packages/paddlex/modules/__init__.py", line 16, in <module>
+    from .anomaly_detection import UadDatasetChecker, UadEvaluator, UadExportor, UadTrainer
+  File "/home/whirldata/cpu_multi_paddle_try/venv/lib/python3.11/site-packages/paddlex/modules/anomaly_detection/__init__.py", line 15, in <module>
+    from .dataset_checker import UadDatasetChecker
+  File "/home/whirldata/cpu_multi_paddle_try/venv/lib/python3.11/site-packages/paddlex/modules/anomaly_detection/dataset_checker/__init__.py", line 21, in <module>
+    from .dataset_src import anaylse_dataset, check_dataset, convert_dataset, split_dataset
+  File "/home/whirldata/cpu_multi_paddle_try/venv/lib/python3.11/site-packages/paddlex/modules/anomaly_detection/dataset_checker/dataset_src/__init__.py", line 17, in <module>
+    from .check_dataset import check_dataset
+  File "/home/whirldata/cpu_multi_paddle_try/venv/lib/python3.11/site-packages/paddlex/modules/anomaly_detection/dataset_checker/dataset_src/check_dataset.py", line 26, in <module>
+    from .utils.visualizer import visualize
+  File "/home/whirldata/cpu_multi_paddle_try/venv/lib/python3.11/site-packages/paddlex/modules/anomaly_detection/dataset_checker/dataset_src/utils/visualizer.py", line 21, in <module>
+    import cv2
+  File "/home/whirldata/cpu_multi_paddle_try/venv/lib/python3.11/site-packages/cv2/__init__.py", line 181, in <module>
+    bootstrap()
+  File "/home/whirldata/cpu_multi_paddle_try/venv/lib/python3.11/site-packages/cv2/__init__.py", line 153, in bootstrap
+    native_module = importlib.import_module("cv2")
+                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/lib/python3.11/importlib/__init__.py", line 126, in import_module
+    return _bootstrap._gcd_import(name[level:], package, level)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+ImportError: libGL.so.1: cannot open shared object file: No such file or directory
+ | fname=INIT
+[2026-02-10 11:53:56] [CRITICAL] [Worker-1] Worker-1 FAILED to initialize PaddleOCR after 4.96s: libGL.so.1: cannot open shared object file: No such file or directory | fname=INIT
+[2026-02-10 11:53:56] [DEBUG   ] [Worker-1] Traceback:
+Traceback (most recent call last):
+  File "/home/whirldata/cpu_multi_paddle_try/ocr_worker.py", line 54, in ocr_worker
+    from paddleocr import PaddleOCR
+  File "/home/whirldata/cpu_multi_paddle_try/venv/lib/python3.11/site-packages/paddleocr/__init__.py", line 15, in <module>
+    from paddlex.inference.utils.benchmark import benchmark
+  File "/home/whirldata/cpu_multi_paddle_try/venv/lib/python3.11/site-packages/paddlex/__init__.py", line 49, in <module>
+    from .inference import create_pipeline, create_predictor
+  File "/home/whirldata/cpu_multi_paddle_try/venv/lib/python3.11/site-packages/paddlex/inference/__init__.py", line 16, in <module>
+    from .models import create_predictor
+  File "/home/whirldata/cpu_multi_paddle_try/venv/lib/python3.11/site-packages/paddlex/inference/models/__init__.py", line 26, in <module>
+    from .anomaly_detection import UadPredictor
+  File "/home/whirldata/cpu_multi_paddle_try/venv/lib/python3.11/site-packages/paddlex/inference/models/anomaly_detection/__init__.py", line 15, in <module>
+    from .predictor import UadPredictor
+  File "/home/whirldata/cpu_multi_paddle_try/venv/lib/python3.11/site-packages/paddlex/inference/models/anomaly_detection/predictor.py", line 19, in <module>
+    from ....modules.anomaly_detection.model_list import MODELS
+  File "/home/whirldata/cpu_multi_paddle_try/venv/lib/python3.11/site-packages/paddlex/modules/__init__.py", line 16, in <module>
+    from .anomaly_detection import UadDatasetChecker, UadEvaluator, UadExportor, UadTrainer
+  File "/home/whirldata/cpu_multi_paddle_try/venv/lib/python3.11/site-packages/paddlex/modules/anomaly_detection/__init__.py", line 15, in <module>
+    from .dataset_checker import UadDatasetChecker
+  File "/home/whirldata/cpu_multi_paddle_try/venv/lib/python3.11/site-packages/paddlex/modules/anomaly_detection/dataset_checker/__init__.py", line 21, in <module>
+    from .dataset_src import anaylse_dataset, check_dataset, convert_dataset, split_dataset
+  File "/home/whirldata/cpu_multi_paddle_try/venv/lib/python3.11/site-packages/paddlex/modules/anomaly_detection/dataset_checker/dataset_src/__init__.py", line 17, in <module>
+    from .check_dataset import check_dataset
+  File "/home/whirldata/cpu_multi_paddle_try/venv/lib/python3.11/site-packages/paddlex/modules/anomaly_detection/dataset_checker/dataset_src/check_dataset.py", line 26, in <module>
+    from .utils.visualizer import visualize
+  File "/home/whirldata/cpu_multi_paddle_try/venv/lib/python3.11/site-packages/paddlex/modules/anomaly_detection/dataset_checker/dataset_src/utils/visualizer.py", line 21, in <module>
+    import cv2
+  File "/home/whirldata/cpu_multi_paddle_try/venv/lib/python3.11/site-packages/cv2/__init__.py", line 181, in <module>
+    bootstrap()
+  File "/home/whirldata/cpu_multi_paddle_try/venv/lib/python3.11/site-packages/cv2/__init__.py", line 153, in bootstrap
+    native_module = importlib.import_module("cv2")
+                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/lib/python3.11/importlib/__init__.py", line 126, in import_module
+    return _bootstrap._gcd_import(name[level:], package, level)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+ImportError: libGL.so.1: cannot open shared object file: No such file or directory
+ | fname=INIT
