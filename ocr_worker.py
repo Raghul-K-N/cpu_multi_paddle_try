@@ -255,13 +255,41 @@ def ocr_worker(task_queue, output_dir, worker_id, log_filename, threads_per_work
     try:
         from paddleocr import PaddleOCR
 
+        # ocr = PaddleOCR(
+        #     use_angle_cls=True,
+        #     lang="de",
+        #     enable_mkldnn=True,
+        #     device="cpu",
+        #     mkldnn_cache_capacity=15,
+        #     cpu_threads=threads_per_worker
+        # )
         ocr = PaddleOCR(
-            use_angle_cls=True,
-            lang="de",
+    # Language and version
+            lang='en',
+            # lang='korean',
+            ocr_version='PP-OCRv5',
+
+            # CRITICAL: Text Detection Parameters to prevent edge cutting
+            text_det_limit_side_len=960,  # Use 'max' type, so this limits maximum side
+            text_det_limit_type='max',  # CHANGED: 'max' prevents upscaling, preserves original
+            text_det_thresh=0.2,  # LOWER = more sensitive (was 0.3)
+            text_det_box_thresh=0.45,  # LOWER = accept more edge boxes (was 0.6)
+            text_det_unclip_ratio=1.6,  # HIGHER expansion for edge text (was 1.5)
+
+            # Text Recognition Parameters  
+            text_rec_score_thresh=0.3,
+            text_recognition_batch_size=6,
+
+            # Preprocessing (recommended for documents)
+            use_doc_orientation_classify=False,  # Disable if not needed (adds processing)
+            use_doc_unwarping=False,  # Disable if images are flat
+            use_textline_orientation=True,  # Keep for rotated text
+
+            # Performance
             enable_mkldnn=True,
-            device="cpu",
             mkldnn_cache_capacity=15,
-            cpu_threads=threads_per_worker
+            cpu_threads=threads_per_worker,
+            device='cpu'
         )
         model_init_elapsed = time.time() - model_init_start
         logger.info(
@@ -316,7 +344,13 @@ def ocr_worker(task_queue, output_dir, worker_id, log_filename, threads_per_work
         # --- Run OCR ---
         ocr_start = time.time()
         try:
-            result = ocr.predict(file_path)
+            result = ocr.predict(file_path,
+                                text_det_limit_side_len=960,
+                                text_det_limit_type='max',
+                                text_det_thresh=0.2,
+                                text_det_box_thresh=0.45,
+                                text_det_unclip_ratio=1.6,
+                                text_rec_score_thresh=0.3)
             ocr_elapsed = time.time() - ocr_start
             total_ocr_time += ocr_elapsed
             logger.info(
