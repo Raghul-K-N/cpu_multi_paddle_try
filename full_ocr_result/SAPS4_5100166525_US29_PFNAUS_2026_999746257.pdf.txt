@@ -1,0 +1,211 @@
+==================================<Page 1 - START>================================
+Standard Invoice
+                                                                                                                   ARBON
+Original tax invoice has been submitted electronically. This is a
+human readable representation (copy) of the original tax invoice.
+                                                                                                                      3452603
+                                                                 Invoice Number
+                                                                 (Supplier Reference No.)
+                                                                 Invoice Date                  Wednesday 4 Feb 2026 12:00 PM GMT-05:00
+                                                                                                                 $5,981.25 USD
+                                                                 Amount Due
+    Contact Information                                                        Shipping Information
+    Supplier
+                                  Customer                                                              Ship To
+                                                                           Ship From
+    Arbon Equipment Corporation        Rolling Frito-Lay Sales
+                                                                           Arbon Equipment Corporation        US-DC-BRADENTON-FL-RFLS
+    8900 N. Arbon Drive              c/o PEPSICO NASS                          195 S RITE HITE WAY            Denise.Hedgepath@pepsico.com
+    Milwaukee
+                                  ACCOUNTS PAYABLES                       Milwaukee                     US-DC-BRADENTON-FL-RFLS
+    WI
+                                  PO BOX 1800                              WI                          6222 29TH ST E
+    53223
+                                  Winston Salem                              53204                        BRADENTON
+     United States                   NC                                      United States                   FL
+                                  27105                                                                34203-5304
+                                  United States                                                           United States
+                                  Address ID: US29                                                        Address ID: 2167
+                                                                                                       Phone: 3524477
+  Line Items
+                                                          PO No. : M412701871                                      PO Date : 13 Dec 2024
+   Line No.    PO Line No.
+                                Type    Supplier Part No. /             Customer Part No.        Quantity            Unit Price         Subtotal
+                                        Description                                       (UOM)
+   1         1                  Material Plants & Building Maintenance-
+                                                                                       5.347 / (EA)         $1.00 USD    $5,347.00 USD
+                                        Services (PGT) / Plants &amp;
+                                        Building Maintenance-Services
+                                        (PGT)
+          Taxes, Allowances and Charges
+           Category                  Applicable To         Details                 Base Amount
+                                                                                                Rate %       Amount
+            Sales Tax                 Line               Tax Description : A/P Sales   $0.00 USD          0%          $0.00 USD
+                                                       Tax
+                                                                                                  Line Item Total : $5,347.00 USD
+      Tax Summary
+      Category              Details                          Base Amount               Rate %          Amount
+      Sales Tax              Tax Description : A/P Sales Tax         $0.00 USD                 0%            $0.00 USD
+                                                                              Amount Summary
+                                                                              Line item subtotal                         $5,347.00 USD
+                                                                                                                     $634.25 USD
+                                                                              Shipping charges
+                                                                              Gross amount                           $5,981.25 USD
+                                                                              Net amount                             $5,981.25 USD
+                                                                              Total tax amount                            $0.00 USD
+                                                                              Total withholding tax amount
+                                                                              Amount Due                            $5,981.25 USD
+     Additional Information
+    Payment Method
+    ACH
+    Billing Information                                                         Remittance Information
+    Bill From                      Bill To
+                                                                          Remit To
+    Arbon Equipment Corporation        Rolling Frito-Lay Sales                         ARBON EQUIPMENT
+    195 S RITE HITE WAY            c/o PEPSICO NASS                          CORPORATION
+    Milwaukee                     ACCOUNTS PAYABLES                       CHICAGO01_CHICAGO01_100__6788
+    WI                          PO BOX 1800                              6
+    53204                        Winston Salem                              CUST # 256396
+    United States                   NC                                      25464 NETWORK PL
+                                 27105                                    CHICAGO
+                                 United States                               IL
+                                 Address ID: US29                            60673-1254
+                                                                          United States
+                                                                          Tax ID of Supplier
+                                                                          391913565
+Payment Terms
+  Net payment Terms (Days) :
+ 90
+==================================<Page 1 - END>================================
+==================================<Page 2 - START>================================
+ appenuix
+                                                        Supplier Part No. / Description
+Line No.    PO Line No. Type
+1          1          Material
+Additional Details:
+Classification Domain : Custom
+Classification Code : FAC703001
+Supplier Part ID : Plants & Building Maintenance-Services
+(PGT)
+PDF generated on Thursday 5 Feb 2026 11:08 AM GMT-08:00
+==================================<Page 2 - END>================================
+==================================<Page 3 - START>================================
+                                         Remit To:
+                                                                                                              3452603
+ARBON                                                                  Invoice No.
+                                         Arbon Equipment Corporation
+                                          Customer # 3376348                                                   02/04/26
+                                                                                              Invoice Date:
+EQUIPMENT CORPORATION
+                                          25464 Network Place
+            A RITE-HITE* COMPANY
+                                          Chicago, IL 60673-1254                                Payment Terms:NET 15
+                                                                                                             WB   R
+                                                                                              Invoice Type:
+                                          8008331636
+BILL TO: 3376348                                           SHIP TO: 258746
+                                                                       FRITO LAY
+           PEPSICO NASS PAYABLES
+           PO BOX 1800                                                6222 29TH STREET
+                                                                       BRADENTON FL 34203
+           WINSTON SALEM NC 27105
+Customer PO                                        Date Worked                    WO No.
+                                                      12/11/25                         38608880
+M412701871
+WORK PERFORMED / EQUIPMENT SERVICED
+Arbon Equipment           Equipment                                    Equipment Location
+ 1    AS258746
+   > OTHER | OTHER | INSPECT AND REPAIR:
+     * INSPECTED EQUIPMENT AND TESTED FOR PROPER OPERATION. EQUIPMENT WAS NOT FUNCTIONING PROPERLY. REPAIRED
+     EQUIPMENT AND TESTED FOR PROPER OPERATION.
+     * 1/4/2026 replaced 4 header seals on doors and side jams. installed seals on 4 dock levers
+                                                                                             Unit Price       Total
+Part #               Part Description                                                  Qty
+                                                                                                             603.00
+A6AP               Brush                                                           9.00       67.0000
+                    Retainer                                                         8.00       32.0000      256.00
+A6AP
+                                                                                    12.00       74.0000      888.00
+A6AP               Brush
+                                                                                    12.00       34.0000      408.00
+A6AP               Retainer
+                                                                                    4.00      198.0000      792.00
+A6AP               Brush Bottom Sea
+                                                                                               634.2500      634.25
+77777A              SHIPPING AND HANDLING FREIGHT                                  1.00
+77777A              SHIPPING AND HANDLING FREIGHT                                  1.00
+                                                                                                           2,400.00
+                    LABOR
+                                                                                                           5,981.25
+                                                                                             SUBTOTAL
+                                                                                                              0.00
+                                                                                              Sales Tax
+                                                                                                                    USD
+                                                                                       PAY THIS AMOUNT      5,981.25
+THIS INVOICE & ORDER DOCUMENT IS GOVERNED BY AND SUBJECT TO THE ARBON EQUIPMENT CORPORATION
+STANDARD TERMS AND CONDITIONS CONTAINED ON http://www.ritehite.net/arbonorderterms.pdfWHICH ARE
+NCORPORATED HEREIN BY REFERENCE AS MAY BE AMENDED FROM TIME TO TIME BY ARBON. PERFORMANCE OF
+ALL OR ANY PART OF THE SALE OR SERVICE SHALL CONSTITUTE ACCEPTANCE OF THE ARBON EQUIPMENT
+CORPORATION STANDARD TERMS AND CONDITIONS.
+Thank you for choosing Arbon Equipment.
+==================================<Page 3 - END>================================
+==================================<Page 4 - START>================================
+                                         Remit To:
+                                                                                                              3452603
+ARBON                                                                  Invoice No.
+                                         Arbon Equipment Corporation
+                                          Customer # 3376348                                                   02/04/26
+                                                                                              Invoice Date:
+EQUIPMENT CORPORATION
+                                          25464 Network Place
+            A RITE-HITE* COMPANY
+                                          Chicago, IL 60673-1254                                Payment Terms:NET 15
+                                                                                                             WB   R
+                                                                                              Invoice Type:
+                                          8008331636
+BILL TO: 3376348                                           SHIP TO: 258746
+                                                                       FRITO LAY
+           PEPSICO NASS PAYABLES
+           PO BOX 1800                                                6222 29TH STREET
+                                                                       BRADENTON FL 34203
+           WINSTON SALEM NC 27105
+Customer PO                                        Date Worked                    WO No.
+                                                      12/11/25                         38608880
+M412701871
+WORK PERFORMED / EQUIPMENT SERVICED
+Arbon Equipment           Equipment                                    Equipment Location
+ 1    AS258746
+   > OTHER | OTHER | INSPECT AND REPAIR:
+     * INSPECTED EQUIPMENT AND TESTED FOR PROPER OPERATION. EQUIPMENT WAS NOT FUNCTIONING PROPERLY. REPAIRED
+     EQUIPMENT AND TESTED FOR PROPER OPERATION.
+     * 1/4/2026 replaced 4 header seals on doors and side jams. installed seals on 4 dock levers
+                                                                                             Unit Price       Total
+Part #               Part Description                                                  Qty
+                                                                                                             603.00
+A6AP               Brush                                                           9.00       67.0000
+                    Retainer                                                         8.00       32.0000      256.00
+A6AP
+                                                                                    12.00       74.0000      888.00
+A6AP               Brush
+                                                                                    12.00       34.0000      408.00
+A6AP               Retainer
+                                                                                    4.00      198.0000      792.00
+A6AP               Brush Bottom Sea
+                                                                                               634.2500      634.25
+77777A              SHIPPING AND HANDLING FREIGHT                                  1.00
+77777A              SHIPPING AND HANDLING FREIGHT                                  1.00
+                                                                                                           2,400.00
+                    LABOR
+                                                                                                           5,981.25
+                                                                                             SUBTOTAL
+                                                                                                              0.00
+                                                                                              Sales Tax
+                                                                                                                    USD
+                                                                                       PAY THIS AMOUNT      5,981.25
+THIS INVOICE & ORDER DOCUMENT IS GOVERNED BY AND SUBJECT TO THE ARBON EQUIPMENT CORPORATION
+STANDARD TERMS AND CONDITIONS CONTAINED ON http://www.ritehite.net/arbonorderterms.pdfWHICH ARE
+NCORPORATED HEREIN BY REFERENCE AS MAY BE AMENDED FROM TIME TO TIME BY ARBON. PERFORMANCE OF
+ALL OR ANY PART OF THE SALE OR SERVICE SHALL CONSTITUTE ACCEPTANCE OF THE ARBON EQUIPMENT
+CORPORATION STANDARD TERMS AND CONDITIONS.
+Thank you for choosing Arbon Equipment.
+==================================<Page 4 - END>================================

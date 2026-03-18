@@ -1,0 +1,59 @@
+{
+  "invoice_data": {
+    "invoice_number": "1122088312",
+    "invoice_date": "08/15/2025",
+    "invoice_amount": "3577.90",
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": "466.68",
+    "po_number": [
+      "425231640"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "Henkel Canada Corporation",
+    "vendor_address": "2515 Meadowpine Boulevard,CA,L5N 6C3,Mississauga",
+    "po_line_items": [
+      {
+        "description": "TECHNOMELT EM 377 BX-EMM1KG",
+        "quantity": 10.0,
+        "net_price": 3111.22
+      }
+    ],
+    "vat_amount": null,
+    "gl_account": null,
+    "bank_name": null,
+    "account_holder_name": null,
+    "banking_account_number": null,
+    "remit_to_address": null,
+    "bill_to_address": null,
+    "transaction_type": "debit"
+  },
+  "filename": "SAPS4_5101094020_CA02_PBNACA_2026_328638271.pdf",
+  "raw_response": {
+    "invoice_number": "1122088312",
+    "invoice_date": "08/15/2025",
+    "invoice_amount": "3577.90",
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": "466.68",
+    "po_number": [
+      "425231640"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "Henkel Canada Corporation",
+    "vendor_address": "2515 Meadowpine Boulevard,CA,L5N 6C3,Mississauga",
+    "po_line_items": [
+      {
+        "description": "TECHNOMELT EM 377 BX-EMM1KG",
+        "quantity": 10.0,
+        "net_price": 3111.22
+      }
+    ]
+  }
+}

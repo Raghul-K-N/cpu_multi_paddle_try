@@ -1,0 +1,59 @@
+{
+  "invoice_data": {
+    "invoice_number": "NF 10365652",
+    "invoice_date": "01/31/2026",
+    "invoice_amount": null,
+    "invoice_currency": [
+      "CAD"
+    ],
+    "tax_amount": null,
+    "po_number": [
+      "M413539441"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "Pepsi-Cola Canada Limited",
+    "vendor_address": "5 Glencoe Drive, Mount Pearl, NL A1N 4S4, Canada",
+    "po_line_items": [
+      {
+        "description": "Not Available / BPO Temp Labour St. John's DC",
+        "quantity": 1.0,
+        "net_price": 121.24
+      }
+    ],
+    "vat_amount": null,
+    "gl_account": null,
+    "bank_name": null,
+    "account_holder_name": null,
+    "banking_account_number": null,
+    "remit_to_address": null,
+    "bill_to_address": null,
+    "transaction_type": "debit"
+  },
+  "filename": "SAPS4_5100076008_CA11_PFNACA_2026_304654704.pdf",
+  "raw_response": {
+    "invoice_number": "NF 10365652",
+    "invoice_date": "01/31/2026",
+    "invoice_amount": null,
+    "invoice_currency": [
+      "CAD"
+    ],
+    "tax_amount": null,
+    "po_number": [
+      "M413539441"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "Pepsi-Cola Canada Limited",
+    "vendor_address": "5 Glencoe Drive, Mount Pearl, NL A1N 4S4, Canada",
+    "po_line_items": [
+      {
+        "description": "Not Available / BPO Temp Labour St. John's DC",
+        "quantity": 1.0,
+        "net_price": 121.24
+      }
+    ]
+  }
+}

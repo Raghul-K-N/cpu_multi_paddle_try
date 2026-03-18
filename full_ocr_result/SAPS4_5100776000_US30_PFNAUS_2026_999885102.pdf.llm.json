@@ -1,0 +1,89 @@
+{
+  "invoice_data": {
+    "invoice_number": "XA111921801",
+    "invoice_date": "2/2/2026",
+    "invoice_amount": "389.03",
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": "26.97",
+    "po_number": [
+      "23568378"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "Mountain West Truck Center - West Valley City (P731)(P)",
+    "vendor_address": "7114 W SR201 North Frontage Rd, West Valley City, UT 84128, 801-975-0380",
+    "po_line_items": [
+      {
+        "description": "FLANGE SCREW",
+        "quantity": 4.0,
+        "net_price": 0.91
+      },
+      {
+        "description": "SPACER WASHER",
+        "quantity": 4.0,
+        "net_price": 10.55
+      },
+      {
+        "description": "FLANGE LOCK NUT",
+        "quantity": 4.0,
+        "net_price": 0.58
+      },
+      {
+        "description": "SENSOR",
+        "quantity": 1.0,
+        "net_price": 313.9
+      }
+    ],
+    "vat_amount": null,
+    "gl_account": null,
+    "bank_name": null,
+    "account_holder_name": null,
+    "banking_account_number": null,
+    "remit_to_address": null,
+    "bill_to_address": null,
+    "transaction_type": "debit"
+  },
+  "filename": "SAPS4_5100776000_US30_PFNAUS_2026_999885102.pdf",
+  "raw_response": {
+    "invoice_number": "XA111921801",
+    "invoice_date": "2/2/2026",
+    "invoice_amount": "389.03",
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": "26.97",
+    "po_number": [
+      "23568378"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "Mountain West Truck Center - West Valley City (P731)(P)",
+    "vendor_address": "7114 W SR201 North Frontage Rd, West Valley City, UT 84128, 801-975-0380",
+    "po_line_items": [
+      {
+        "description": "FLANGE SCREW",
+        "quantity": 4.0,
+        "net_price": 0.91
+      },
+      {
+        "description": "SPACER WASHER",
+        "quantity": 4.0,
+        "net_price": 10.55
+      },
+      {
+        "description": "FLANGE LOCK NUT",
+        "quantity": 4.0,
+        "net_price": 0.58
+      },
+      {
+        "description": "SENSOR",
+        "quantity": 1.0,
+        "net_price": 313.9
+      }
+    ]
+  }
+}

@@ -1,0 +1,69 @@
+{
+  "invoice_data": {
+    "invoice_number": "1439695P",
+    "invoice_date": "2/10/2026",
+    "invoice_amount": "404.02",
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": null,
+    "po_number": [
+      "23573085"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "TEC Equipment - Portland (P732)(P)",
+    "vendor_address": "750 NE Columbia Blvd, Portland, OR 97211, 503-285-7667",
+    "po_line_items": [
+      {
+        "description": "WIPER ARM",
+        "quantity": 1.0,
+        "net_price": 94.48
+      },
+      {
+        "description": "SENSOR",
+        "quantity": 1.0,
+        "net_price": 308.01
+      }
+    ],
+    "vat_amount": null,
+    "gl_account": null,
+    "bank_name": null,
+    "account_holder_name": null,
+    "banking_account_number": null,
+    "remit_to_address": null,
+    "bill_to_address": null,
+    "transaction_type": "debit"
+  },
+  "filename": "SAPS4_5100016518_US30_PFNAUS_2026_999884994.pdf",
+  "raw_response": {
+    "invoice_number": "1439695P",
+    "invoice_date": "2/10/2026",
+    "invoice_amount": "404.02",
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": null,
+    "po_number": [
+      "23573085"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "TEC Equipment - Portland (P732)(P)",
+    "vendor_address": "750 NE Columbia Blvd, Portland, OR 97211, 503-285-7667",
+    "po_line_items": [
+      {
+        "description": "WIPER ARM",
+        "quantity": 1.0,
+        "net_price": 94.48
+      },
+      {
+        "description": "SENSOR",
+        "quantity": 1.0,
+        "net_price": 308.01
+      }
+    ]
+  }
+}

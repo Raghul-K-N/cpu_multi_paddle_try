@@ -1,0 +1,39 @@
+{
+  "invoice_data": {
+    "invoice_number": "C013533579",
+    "invoice_date": "February 6, 2026",
+    "invoice_amount": null,
+    "invoice_currency": null,
+    "tax_amount": null,
+    "po_number": null,
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "PENSKE TRUCK LEASING CO., L.P.",
+    "vendor_address": "PENSKE MONTGOMERY NY(0859-10), MONTGOMERY, NY 12549-2820, FRITO LAY SALES/IN MARKET, FORT WORTH, TX 76106-1919, 1315, 4701 PYLON ST, 42874-26717, 42874, 136 NEELYTOWN RD",
+    "po_line_items": null,
+    "vat_amount": null,
+    "gl_account": null,
+    "bank_name": null,
+    "account_holder_name": null,
+    "banking_account_number": null,
+    "remit_to_address": null,
+    "bill_to_address": null,
+    "transaction_type": "debit"
+  },
+  "filename": "SAPS4_5100225532_US29_PFNAUS_2026_999884974.pdf",
+  "raw_response": {
+    "invoice_number": "C013533579",
+    "invoice_date": "February 6, 2026",
+    "invoice_amount": null,
+    "invoice_currency": null,
+    "tax_amount": null,
+    "po_number": null,
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "PENSKE TRUCK LEASING CO., L.P.",
+    "vendor_address": "PENSKE MONTGOMERY NY(0859-10), MONTGOMERY, NY 12549-2820, FRITO LAY SALES/IN MARKET, FORT WORTH, TX 76106-1919, 1315, 4701 PYLON ST, 42874-26717, 42874, 136 NEELYTOWN RD",
+    "po_line_items": null
+  }
+}

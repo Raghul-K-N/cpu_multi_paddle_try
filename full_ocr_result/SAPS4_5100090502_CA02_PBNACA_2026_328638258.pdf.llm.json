@@ -1,0 +1,87 @@
+{
+  "invoice_data": {
+    "invoice_number": "4590CR32",
+    "invoice_date": "11/28/25",
+    "invoice_amount": null,
+    "invoice_currency": [
+      "CAD"
+    ],
+    "tax_amount": null,
+    "po_number": [
+      "45900747",
+      "45900749",
+      "45900751",
+      "45900753",
+      "45900755"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "Ryder Supply Chain Solutions Canada ULC",
+    "vendor_address": "700 Creditstone Road, Concord, ON L4K 5A5, Tel: 905-542-5407, PO Box 7883, Station A, Toronto, Ontario, M5W 2R2, Canada",
+    "po_line_items": [
+      {
+        "description": "IT Change request",
+        "quantity": 1.0,
+        "net_price": 71986.32
+      },
+      {
+        "description": "Project Title: Pepsi ERP Upgrade to SAP S4",
+        "quantity": 1.0,
+        "net_price": 71986.32
+      },
+      {
+        "description": "FX",
+        "quantity": 0.4,
+        "net_price": 28833.4
+      }
+    ],
+    "vat_amount": null,
+    "gl_account": null,
+    "bank_name": null,
+    "account_holder_name": null,
+    "banking_account_number": null,
+    "remit_to_address": null,
+    "bill_to_address": null,
+    "transaction_type": "debit"
+  },
+  "filename": "SAPS4_5100090502_CA02_PBNACA_2026_328638258.pdf",
+  "raw_response": {
+    "invoice_number": "4590CR32",
+    "invoice_date": "11/28/25",
+    "invoice_amount": null,
+    "invoice_currency": [
+      "CAD"
+    ],
+    "tax_amount": null,
+    "po_number": [
+      "45900747",
+      "45900749",
+      "45900751",
+      "45900753",
+      "45900755"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "Ryder Supply Chain Solutions Canada ULC",
+    "vendor_address": "700 Creditstone Road, Concord, ON L4K 5A5, Tel: 905-542-5407, PO Box 7883, Station A, Toronto, Ontario, M5W 2R2, Canada",
+    "po_line_items": [
+      {
+        "description": "IT Change request",
+        "quantity": 1.0,
+        "net_price": 71986.32
+      },
+      {
+        "description": "Project Title: Pepsi ERP Upgrade to SAP S4",
+        "quantity": 1.0,
+        "net_price": 71986.32
+      },
+      {
+        "description": "FX",
+        "quantity": 0.4,
+        "net_price": 28833.4
+      }
+    ]
+  }
+}

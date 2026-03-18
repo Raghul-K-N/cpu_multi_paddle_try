@@ -1,0 +1,59 @@
+{
+  "invoice_data": {
+    "invoice_number": "TX59-01048220",
+    "invoice_date": "12/13/24",
+    "invoice_amount": "2137.81",
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": "162.93",
+    "po_number": [
+      "4504367971"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "REMIT MOTION INDUSTRIES, INC.",
+    "vendor_address": "BRANCH ADDRESS, 4810 N SAM HOUSTON PKWY W, HOUSTON, TX 77086, PHONE: 7139560150, FAX: 7133451110",
+    "po_line_items": [
+      {
+        "description": "SUCSPM205 16 L4L OTHER BALL BRG.MTD.UNITS",
+        "quantity": 16.0,
+        "net_price": 1974.88
+      }
+    ],
+    "vat_amount": null,
+    "gl_account": null,
+    "bank_name": null,
+    "account_holder_name": null,
+    "banking_account_number": null,
+    "remit_to_address": null,
+    "bill_to_address": null,
+    "transaction_type": "debit"
+  },
+  "filename": "SAPS4_5100322033_US28_PFNAUS_2026_999706933.pdf",
+  "raw_response": {
+    "invoice_number": "TX59-01048220",
+    "invoice_date": "12/13/24",
+    "invoice_amount": "2137.81",
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": "162.93",
+    "po_number": [
+      "4504367971"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "REMIT MOTION INDUSTRIES, INC.",
+    "vendor_address": "BRANCH ADDRESS, 4810 N SAM HOUSTON PKWY W, HOUSTON, TX 77086, PHONE: 7139560150, FAX: 7133451110",
+    "po_line_items": [
+      {
+        "description": "SUCSPM205 16 L4L OTHER BALL BRG.MTD.UNITS",
+        "quantity": 16.0,
+        "net_price": 1974.88
+      }
+    ]
+  }
+}

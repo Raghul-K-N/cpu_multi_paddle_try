@@ -1,0 +1,47 @@
+{
+  "invoice_data": {
+    "invoice_number": "X410998302",
+    "invoice_date": "2/5/2026",
+    "invoice_amount": "324.95",
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": "15.40",
+    "po_number": [
+      "23569321"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "Kriete Truck Center - Madison",
+    "vendor_address": "3722 Commercial Ave, Madison, WI 53714, 508-244-3506",
+    "po_line_items": null,
+    "vat_amount": null,
+    "gl_account": null,
+    "bank_name": null,
+    "account_holder_name": null,
+    "banking_account_number": null,
+    "remit_to_address": null,
+    "bill_to_address": null,
+    "transaction_type": "debit"
+  },
+  "filename": "SAPS4_5100199010_US30_PFNAUS_2026_999936504.pdf",
+  "raw_response": {
+    "invoice_number": "X410998302",
+    "invoice_date": "2/5/2026",
+    "invoice_amount": "324.95",
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": "15.40",
+    "po_number": [
+      "23569321"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "Kriete Truck Center - Madison",
+    "vendor_address": "3722 Commercial Ave, Madison, WI 53714, 508-244-3506",
+    "po_line_items": null
+  }
+}

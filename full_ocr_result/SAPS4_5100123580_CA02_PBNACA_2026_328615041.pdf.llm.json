@@ -1,0 +1,79 @@
+{
+  "invoice_data": {
+    "invoice_number": "54809A",
+    "invoice_date": "2/27/2025",
+    "invoice_amount": "958.91",
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": null,
+    "po_number": [
+      "4505100914"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": "162.41",
+    "cost_center": null,
+    "vendor_name": "Universal Packaging & Machinery Sales Corporation",
+    "vendor_address": "965 Shadick Dr., Orange City, FL 32763-8904",
+    "po_line_items": [
+      {
+        "description": "1ULM-23 2-pc V/T Ass'y, 24oz. CSD PET",
+        "quantity": 1.0,
+        "net_price": 79.65
+      },
+      {
+        "description": "4ULM-23 2-pc V/T Ass'y, 24oz. CSD PET",
+        "quantity": 4.0,
+        "net_price": 79.65
+      },
+      {
+        "description": "5ULM-23 2-pc V/T Ass'y, 200z. CSD PET",
+        "quantity": 5.0,
+        "net_price": 79.65
+      }
+    ],
+    "vat_amount": null,
+    "gl_account": null,
+    "bank_name": null,
+    "account_holder_name": null,
+    "banking_account_number": null,
+    "remit_to_address": null,
+    "bill_to_address": null,
+    "transaction_type": "debit"
+  },
+  "filename": "SAPS4_5100123580_CA02_PBNACA_2026_328615041.pdf",
+  "raw_response": {
+    "invoice_number": "54809A",
+    "invoice_date": "2/27/2025",
+    "invoice_amount": "958.91",
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": null,
+    "po_number": [
+      "4505100914"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": "162.41",
+    "cost_center": null,
+    "vendor_name": "Universal Packaging & Machinery Sales Corporation",
+    "vendor_address": "965 Shadick Dr., Orange City, FL 32763-8904",
+    "po_line_items": [
+      {
+        "description": "1ULM-23 2-pc V/T Ass'y, 24oz. CSD PET",
+        "quantity": 1.0,
+        "net_price": 79.65
+      },
+      {
+        "description": "4ULM-23 2-pc V/T Ass'y, 24oz. CSD PET",
+        "quantity": 4.0,
+        "net_price": 79.65
+      },
+      {
+        "description": "5ULM-23 2-pc V/T Ass'y, 200z. CSD PET",
+        "quantity": 5.0,
+        "net_price": 79.65
+      }
+    ]
+  }
+}

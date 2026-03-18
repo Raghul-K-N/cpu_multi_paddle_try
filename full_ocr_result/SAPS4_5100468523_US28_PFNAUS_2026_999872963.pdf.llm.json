@@ -1,0 +1,79 @@
+{
+  "invoice_data": {
+    "invoice_number": "980675235926",
+    "invoice_date": "Thursday 12 Feb 2026 5:29 AM GMT-07:00",
+    "invoice_amount": "584.30",
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": "47.64",
+    "po_number": [
+      "M413555632"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "Grainger",
+    "vendor_address": "Grainger, 100 Grainger Pkwy, Lake Forest, IL, United States",
+    "po_line_items": [
+      {
+        "description": "786F07 / Disinfecting Wipes,White,Lemon,PK 6",
+        "quantity": 1.0,
+        "net_price": 59.06
+      },
+      {
+        "description": "4GC49 / DisposableGloves,Green,M,Size8,PK100",
+        "quantity": 20.0,
+        "net_price": 11.94
+      },
+      {
+        "description": "4GC50 / DisposableGloves,Green,L,Size9,PK100",
+        "quantity": 20.0,
+        "net_price": 11.94
+      }
+    ],
+    "vat_amount": null,
+    "gl_account": null,
+    "bank_name": null,
+    "account_holder_name": null,
+    "banking_account_number": null,
+    "remit_to_address": null,
+    "bill_to_address": null,
+    "transaction_type": "debit"
+  },
+  "filename": "SAPS4_5100468523_US28_PFNAUS_2026_999872963.pdf",
+  "raw_response": {
+    "invoice_number": "980675235926",
+    "invoice_date": "Thursday 12 Feb 2026 5:29 AM GMT-07:00",
+    "invoice_amount": "584.30",
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": "47.64",
+    "po_number": [
+      "M413555632"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "Grainger",
+    "vendor_address": "Grainger, 100 Grainger Pkwy, Lake Forest, IL, United States",
+    "po_line_items": [
+      {
+        "description": "786F07 / Disinfecting Wipes,White,Lemon,PK 6",
+        "quantity": 1.0,
+        "net_price": 59.06
+      },
+      {
+        "description": "4GC49 / DisposableGloves,Green,M,Size8,PK100",
+        "quantity": 20.0,
+        "net_price": 11.94
+      },
+      {
+        "description": "4GC50 / DisposableGloves,Green,L,Size9,PK100",
+        "quantity": 20.0,
+        "net_price": 11.94
+      }
+    ]
+  }
+}

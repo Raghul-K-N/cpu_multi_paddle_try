@@ -1,0 +1,89 @@
+{
+  "invoice_data": {
+    "invoice_number": "174673",
+    "invoice_date": "11/4/2025",
+    "invoice_amount": null,
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": null,
+    "po_number": [
+      "4504047195"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": "61.78",
+    "cost_center": null,
+    "vendor_name": "B FRITO-LAY, INC.-ORLANDO",
+    "vendor_address": "2800 SILVER STAR RD., ORLANDO FL 32808, US",
+    "po_line_items": [
+      {
+        "description": "QUAD RING, 2-1/8\" ID X .210\" C/S, FDA",
+        "quantity": 25.0,
+        "net_price": 249.25
+      },
+      {
+        "description": "THUMB KNOB, 5/16-18 THD, V750A EXTRUDER",
+        "quantity": 1.0,
+        "net_price": 57.61
+      },
+      {
+        "description": "PRESSURE REDUCING CARTRIDGE VALVE",
+        "quantity": 1.0,
+        "net_price": 219.95
+      },
+      {
+        "description": "641174",
+        "quantity": 1.0,
+        "net_price": 376.84
+      }
+    ],
+    "vat_amount": null,
+    "gl_account": null,
+    "bank_name": null,
+    "account_holder_name": null,
+    "banking_account_number": null,
+    "remit_to_address": null,
+    "bill_to_address": null,
+    "transaction_type": "debit"
+  },
+  "filename": "SAPS4_5100116509_US28_PFNAUS_2026_999884334.pdf",
+  "raw_response": {
+    "invoice_number": "174673",
+    "invoice_date": "11/4/2025",
+    "invoice_amount": null,
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": null,
+    "po_number": [
+      "4504047195"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": "61.78",
+    "cost_center": null,
+    "vendor_name": "B FRITO-LAY, INC.-ORLANDO",
+    "vendor_address": "2800 SILVER STAR RD., ORLANDO FL 32808, US",
+    "po_line_items": [
+      {
+        "description": "QUAD RING, 2-1/8\" ID X .210\" C/S, FDA",
+        "quantity": 25.0,
+        "net_price": 249.25
+      },
+      {
+        "description": "THUMB KNOB, 5/16-18 THD, V750A EXTRUDER",
+        "quantity": 1.0,
+        "net_price": 57.61
+      },
+      {
+        "description": "PRESSURE REDUCING CARTRIDGE VALVE",
+        "quantity": 1.0,
+        "net_price": 219.95
+      },
+      {
+        "description": "641174",
+        "quantity": 1.0,
+        "net_price": 376.84
+      }
+    ]
+  }
+}

@@ -1,0 +1,278 @@
+==================================<Page 1 - START>================================
+Standard Invoice
+                                                                                                                    odp
+Original tax invoice has been submitted electronically. This is a
+human readable representation (copy) of the original tax invoice.
+                                                                 Invoice Number                                      455309859001
+                                                                 (Supplier Reference No.)
+                                                                 Invoice Date                     Friday 13 Feb 2026 12:00 PM GMT-05:00
+                                                                 Amount Due                                         $174.77 USD
+    Contact Information                                                        Shipping Information
+    Supplier                      Customer
+                                                                          Ship From                     Ship To
+     ODP BUSINESS SOLUTIONS,       ROLLING FRITO-LAY SALES
+                                                                           ODP BUSINESS SOLUTIONS.       GULFPORT MS GES PEC
+    LLC
+                                  13350 DEDEAUX RD                          LLC                          13350 DEDEAUX RD
+     6600 North Military Trail            GULFPORT                                                             GULEPORT
+     Boca Raton                    MS                                                                   MS
+     FL                          395034518                                                              395034518
+     33496                        United States                                                            United States
+     US                                                                                               Address ID:
+                                                                                                       ADBUYER883810024
+   Line Items                                              PO No. : M413555415                                      PO Date : 12 Feb 2026
+                                                                                                                         Subtotal
+   Line No.    PO Line No.          Type    Supplier Part No. /             Customer Part No.        Quantity            Unit Price
+                                       Description
+                                                                                      (UOM)
+   1                           Material 444970 / TAPE.PKG.2X800.6/                          2 / (PK)           $11.69 USD
+             2
+                                       PK,CLEAR
+   Line No.                      Type    Supplier Part No. /             Customer Part No.        Quantity            Unit Price         Subtotal
+             PO Line No.
+                                       Description                                       (UOM)
+   2        3                 Material 424152 / PAPER.ASTROBRIGHT                        1 / (PK)            $7.95 USD
+                                       65#,LTR,BLU
+                                Type   Supplier Part No. /             Customer Part No.        Quantity            Unit Price         Subtotal
+   Line No.    PO Line No.
+                                       Description                                       (UOM)
+    3        4                 Material  196517 /                                         1 / (CS)          $40.36 USD
+                                       PAPER,X-9,8.5X11,20LB,10CA
+                                                                                                        Unit Price         Subtotal
+    Line No.   PO Line No.         Type   Supplier Part No. /             Customer Part No.        Quantity
+                                       Description                                       (UOM)
+   4                          Material 681112/                                        2 / (BX)          $16.43 USD
+              5
+                                       COFFEE,KCUP,FLGRS,CLASSIC,24BX
+                                                                                                                         Subtotal
+    Line No.   PO Line No.         Type   Supplier Part No. /             Customer Part No.        Quantity            Unit Price
+                                                                                      (UOM)
+                                       Description
+                                Material 681256 /                                         1 / (BX)           $16.43 USD
+    5        6
+                                       COFFEE,KCUP,FLGRS,VBISCOT.24BX
+    Line No.    PO Line No.         Type    Supplier Part No. /             Customer Part No.        Quantity            Unit Price         Subtotal
+                                       Description                                       (UOM)
+                                Material 681265 /                                         1 / (BX)           $16.43 USD
+    6        7
+                                       COFFEE,KCUP,FLGRS,CRML
+                                       D,24BX
+    Line No.    PO Line No.         Type   Supplier Part No. /             Customer Part No.        Quantity            Unit Price         Subtotal
+                                       Description
+                                                                                      (UOM)
+    7        8                 Material 654521 / SPRAY,LYSOL,LINEN                         3 / (EA)            $9.05 USD
+                                       SCNT,19OZ EA
+       Tax Summary
+       Category              Details                         Base Amount               Rate %
+                                                                                                   Amount
+       Sales Tax                                                                     6.204%          $10.21 USD
+                                                                             Amount Summary
+                                                                              Line item subtotal
+                                                                                                                     $164.56 USD
+                                                                              Gross amount                             $174.77 USD
+                                                                             Net amount
+                                                                                                                    $174.77 USD
+                                                                             Total tax amount
+                                                                                                                     $10.21 USD
+                                                                             Total withholding tax amount
+                                                                             Amount Due                              $174.77 USD
+     Additional Information
+     invoice due date
+     20260514
+     Billing Information                                                        Remittance Information
+     Bill To                                                               Remit To
+     PEPSICO INC ARIBA                                                     ODP BUSINESS SOLUTIONS,
+     700 ANDERSON HILL RD                                                  LLC
+     PURCHASE                                                           PO BOX 633204
+     NY                                                                 CINCINNATI
+     105771444                                                            OH
+     United States                                                          45263-3204
+     Address ID: 47140624                                                     United States
+  Payment Terms                                                       Reference Documents
+   Net payment Terms (Days) :                                               Original Supplier Order #: 455309859001
+  90
+==================================<Page 1 - END>================================
+==================================<Page 2 - START>================================
+   Appendix
+  Line No.    PO Line No. Type
+                                                        Supplier Part No. / Description
+   1
+              2         Material
+                                                        444970 / TAPE,PKG,2X800,6/PK,CLEAR
+  Additional Details:
+  Supplier Part ID : 444970
+  UNSPSC : 31201517
+  Line No.    PO Line No. Type
+                                                        Supplier Part No. / Description
+  2
+             3         Material
+                                                        424152 / PAPER,ASTROBRIGHT 65#,LTR,BLU
+  Additional Details:
+  Supplier Part ID : 424152
+  UNSPSC : 14111609
+  Line No.    PO Line No. Type                           Supplier Part No. / Description
+  3         4         Material                         196517 / PAPER,X-9,8.5X11,20LB,10CA
+  Additional Details:
+  Supplier Part ID : 196517
+  UNSPSC : 14111507
+  Line No.    PO Line No. Type                           Supplier Part No. / Description
+  4         5          Material                         681112 / COFFEE,KCUP,FLGRS,CLASSIC,24BX
+  Additional Details:
+  Supplier Part ID : 681112
+  UNSPSC : 50201706
+  Line No.    PO Line No. Type                            Supplier Part No. / Description
+  5         6          Material                         681256 / COFFEE,KCUP,FLGRS,VBISCOT,24BX
+  Additional Details:
+  Supplier Part ID : 681256
+  UNSPSC : 50201706
+ Line No.    PO Line No. Type                            Supplier Part No. / Description
+ 6         7         Material                          681265 / COFFEE,KCUP,FLGRS,CRML D,24BX
+ Additional Details:
+ Supplier Part ID : 681265
+ UNSPSC : 50201706
+Line No.    PO Line No. Type                            Supplier Part No. / Description
+ 7         8         Material                         654521 / SPRAY,LYSOL,LINEN SCNT,19OZ EA
+Additional Details:
+ Supplier Part ID : 654521
+UNSPSC : 47131812
+PDF generated on Friday 13 Feb 2026 12:26 PM GMT-08:00
+==================================<Page 2 - END>================================
+==================================<Page 3 - START>================================
+Standard Invoice
+                                                                                                                     odp
+Original tax invoice has been submitted electronically. This is a
+human readable representation (copy) of the original tax invoice.
+                                                                 Invoice Number                                      455309859001
+                                                                 (Supplier Reference No.)
+                                                                 Invoice Date                     Friday 13 Feb 2026 12:00 PM GMT-05:00
+                                                                 Amount Due                                         $174.77 USD
+     Contact Information                                                        Shipping Information
+     Supplier                      Customer
+                                                                           Ship From                     Ship To
+     ODP BUSINESS SOLUTIONS,       ROLLING FRITO-LAY SALES
+                                                                           ODP BUSINESS SOLUTIONS.       GULFPORT MS GES PEC
+     LLC
+                                  13350 DEDEAUX RD                          LLC                          13350 DEDEAUX RD
+     6600 North Military Trail            GULFPORT                                                             GULEPORT
+     Boca Raton                    MS                                                                   MS
+     FL                          395034518                                                              395034518
+     33496                        United States                                                            United States
+     US                                                                                               Address ID:
+                                                                                                        ADBUYER883810024
+   Line Items                                              PO No. : M413555415                                      PO Date : 12 Feb 2026
+                                                                                                                         Subtotal
+   Line No.    PO Line No.          Type    Supplier Part No. /             Customer Part No.        Quantity            Unit Price
+                                        Description
+                                                                                       (UOM)
+    1                           Material 444970 / TAPE.PKG.2X800.6/                          2 / (PK)           $11.69 USD
+              2
+                                        PK,CLEAR
+    Line No.                      Type    Supplier Part No. /             Customer Part No.        Quantity            Unit Price         Subtotal
+              PO Line No.
+                                       Description                                       (UOM)
+    2        3                 Material 424152 / PAPER.ASTROBRIGHT                        1 / (PK)            $7.95 USD
+                                        65#,LTR,BLU
+                                Type   Supplier Part No. /             Customer Part No.        Quantity            Unit Price         Subtotal
+    Line No.    PO Line No.
+                                       Description                                       (UOM)
+    3        4                 Material  196517 /                                         1 / (CS)          $40.36 USD
+                                        PAPER,X-9,8.5X11,20LB,10CA
+                                                                                                         Unit Price         Subtotal
+    Line No.   PO Line No.         Type   Supplier Part No. /             Customer Part No.        Quantity
+                                        Description                                       (UOM)
+    4                          Material 681112/                                        2 / (BX)          $16.43 USD
+              5
+                                        COFFEE,KCUP,FLGRS,CLASSIC,24BX
+                                                                                                                         Subtotal
+    Line No.   PO Line No.         Type   Supplier Part No. /             Customer Part No.        Quantity            Unit Price
+                                                                                      (UOM)
+                                        Description
+                                Material 681256 /                                         1 / (BX)           $16.43 USD
+    5        6
+                                        COFFEE,KCUP,FLGRS,VBISCOT.24BX
+    Line No.    PO Line No.         Type    Supplier Part No. /             Customer Part No.        Quantity            Unit Price         Subtotal
+                                       Description                                       (UOM)
+                                Material 681265 /                                         1 / (BX)           $16.43 USD
+    6        7
+                                       COFFEE,KCUP,FLGRS,CRML
+                                       D,24BX
+    Line No.    PO Line No.         Type   Supplier Part No. /             Customer Part No.        Quantity            Unit Price         Subtotal
+                                       Description
+                                                                                      (UOM)
+    7        8                 Material 654521 / SPRAY,LYSOL,LINEN                         3 / (EA)            $9.05 USD
+                                        SCNT,19OZ EA
+       Tax Summary
+       Category              Details                         Base Amount               Rate %
+                                                                                                    Amount
+       Sales Tax                                                                     6.204%          $10.21 USD
+                                                                              Amount Summary
+                                                                              Line item subtotal
+                                                                                                                     $164.56 USD
+                                                                              Gross amount                             $174.77 USD
+                                                                              Net amount
+                                                                                                                     $174.77 USD
+                                                                              Total tax amount
+                                                                                                                      $10.21 USD
+                                                                              Total withholding tax amount
+                                                                              Amount Due                              $174.77 USD
+      Additional Information
+      invoice due date
+      20260514
+     Billing Information                                                        Remittance Information
+     Bill To                                                               Remit To
+     PEPSICO INC ARIBA                                                     ODP BUSINESS SOLUTIONS,
+     700 ANDERSON HILL RD                                                  LLC
+     PURCHASE                                                           PO BOX 633204
+     NY                                                                 CINCINNATI
+     105771444                                                            OH
+     United States                                                          45263-3204
+     Address ID: 47140624                                                     United States
+   Payment Terms                                                       Reference Documents
+   Net payment Terms (Days) :                                               Original Supplier Order #: 455309859001
+   90
+==================================<Page 3 - END>================================
+==================================<Page 4 - START>================================
+   Appendix
+  Line No.    PO Line No. Type
+                                                        Supplier Part No. / Description
+   1
+              2         Material
+                                                        444970 / TAPE,PKG,2X800,6/PK,CLEAR
+  Additional Details:
+  Supplier Part ID : 444970
+  UNSPSC : 31201517
+  Line No.    PO Line No. Type
+                                                        Supplier Part No. / Description
+  2
+             3         Material
+                                                        424152 / PAPER,ASTROBRIGHT 65#,LTR,BLU
+  Additional Details:
+  Supplier Part ID : 424152
+  UNSPSC : 14111609
+  Line No.    PO Line No. Type                           Supplier Part No. / Description
+  3         4         Material                         196517 / PAPER,X-9,8.5X11,20LB,10CA
+  Additional Details:
+  Supplier Part ID : 196517
+  UNSPSC : 14111507
+  Line No.    PO Line No. Type                           Supplier Part No. / Description
+  4         5          Material                         681112 / COFFEE,KCUP,FLGRS,CLASSIC,24BX
+  Additional Details:
+  Supplier Part ID : 681112
+  UNSPSC : 50201706
+  Line No.    PO Line No. Type                            Supplier Part No. / Description
+  5         6          Material                         681256 / COFFEE,KCUP,FLGRS,VBISCOT,24BX
+  Additional Details:
+  Supplier Part ID : 681256
+  UNSPSC : 50201706
+ Line No.    PO Line No. Type                            Supplier Part No. / Description
+ 6         7         Material                          681265 / COFFEE,KCUP,FLGRS,CRML D,24BX
+ Additional Details:
+ Supplier Part ID : 681265
+ UNSPSC : 50201706
+Line No.    PO Line No. Type                            Supplier Part No. / Description
+ 7         8         Material                         654521 / SPRAY,LYSOL,LINEN SCNT,19OZ EA
+Additional Details:
+ Supplier Part ID : 654521
+UNSPSC : 47131812
+PDF generated on Friday 13 Feb 2026 12:26 PM GMT-08:00
+==================================<Page 4 - END>================================

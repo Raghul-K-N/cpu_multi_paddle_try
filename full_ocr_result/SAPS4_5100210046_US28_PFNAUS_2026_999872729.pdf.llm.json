@@ -1,0 +1,59 @@
+{
+  "invoice_data": {
+    "invoice_number": "27206",
+    "invoice_date": "02/02/2026",
+    "invoice_amount": "1643.46",
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": "125.25",
+    "po_number": [
+      "M413451270"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "PLANT CARE CO",
+    "vendor_address": "12520 Schroeder Rd Suite 103, Dallas, TX 75243",
+    "po_line_items": [
+      {
+        "description": "Landscaping / Blanket PO for 2026",
+        "quantity": 1.0,
+        "net_price": 1518.21
+      }
+    ],
+    "vat_amount": null,
+    "gl_account": null,
+    "bank_name": null,
+    "account_holder_name": null,
+    "banking_account_number": null,
+    "remit_to_address": null,
+    "bill_to_address": null,
+    "transaction_type": "debit"
+  },
+  "filename": "SAPS4_5100210046_US28_PFNAUS_2026_999872729.pdf",
+  "raw_response": {
+    "invoice_number": "27206",
+    "invoice_date": "02/02/2026",
+    "invoice_amount": "1643.46",
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": "125.25",
+    "po_number": [
+      "M413451270"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "PLANT CARE CO",
+    "vendor_address": "12520 Schroeder Rd Suite 103, Dallas, TX 75243",
+    "po_line_items": [
+      {
+        "description": "Landscaping / Blanket PO for 2026",
+        "quantity": 1.0,
+        "net_price": 1518.21
+      }
+    ]
+  }
+}

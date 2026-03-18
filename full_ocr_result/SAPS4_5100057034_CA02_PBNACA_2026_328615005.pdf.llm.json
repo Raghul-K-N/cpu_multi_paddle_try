@@ -1,0 +1,53 @@
+{
+  "invoice_data": {
+    "invoice_number": "321976520",
+    "invoice_date": "01/22/2026",
+    "invoice_amount": null,
+    "invoice_currency": [
+      "CAD"
+    ],
+    "tax_amount": null,
+    "po_number": [
+      "4504698944",
+      "4351508",
+      "90004860",
+      "K131787"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "KRONES INC.",
+    "vendor_address": "9600 South 58th Street, P.O. Box 321801, Franklin,WI 53132-6241",
+    "po_line_items": null,
+    "vat_amount": null,
+    "gl_account": null,
+    "bank_name": null,
+    "account_holder_name": null,
+    "banking_account_number": null,
+    "remit_to_address": null,
+    "bill_to_address": null,
+    "transaction_type": "debit"
+  },
+  "filename": "SAPS4_5100057034_CA02_PBNACA_2026_328615005.pdf",
+  "raw_response": {
+    "invoice_number": "321976520",
+    "invoice_date": "01/22/2026",
+    "invoice_amount": null,
+    "invoice_currency": [
+      "CAD"
+    ],
+    "tax_amount": null,
+    "po_number": [
+      "4504698944",
+      "4351508",
+      "90004860",
+      "K131787"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "KRONES INC.",
+    "vendor_address": "9600 South 58th Street, P.O. Box 321801, Franklin,WI 53132-6241",
+    "po_line_items": null
+  }
+}

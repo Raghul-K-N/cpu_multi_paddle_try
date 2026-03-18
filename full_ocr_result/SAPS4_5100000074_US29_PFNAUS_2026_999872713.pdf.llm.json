@@ -1,0 +1,79 @@
+{
+  "invoice_data": {
+    "invoice_number": "179177832",
+    "invoice_date": "2/12/2026",
+    "invoice_amount": "638.61",
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": "60.69",
+    "po_number": [
+      "M413399943"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "Crown Equipment Corporation",
+    "vendor_address": "901 Labarre Rd Suite 202, Metairie, LA 70001, Tel 504-739-9500, Fax 504-739-9800, crown.com",
+    "po_line_items": [
+      {
+        "description": "Tire Asm Rubber 10 X 5 X 6.5 Steer Hd Sm",
+        "quantity": 2.0,
+        "net_price": 263.68
+      },
+      {
+        "description": "Labor",
+        "quantity": 1.0,
+        "net_price": 284.24
+      },
+      {
+        "description": "Tire Disposal Fee",
+        "quantity": 1.0,
+        "net_price": 30.0
+      }
+    ],
+    "vat_amount": null,
+    "gl_account": null,
+    "bank_name": null,
+    "account_holder_name": null,
+    "banking_account_number": null,
+    "remit_to_address": null,
+    "bill_to_address": null,
+    "transaction_type": "debit"
+  },
+  "filename": "SAPS4_5100000074_US29_PFNAUS_2026_999872713.pdf",
+  "raw_response": {
+    "invoice_number": "179177832",
+    "invoice_date": "2/12/2026",
+    "invoice_amount": "638.61",
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": "60.69",
+    "po_number": [
+      "M413399943"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "Crown Equipment Corporation",
+    "vendor_address": "901 Labarre Rd Suite 202, Metairie, LA 70001, Tel 504-739-9500, Fax 504-739-9800, crown.com",
+    "po_line_items": [
+      {
+        "description": "Tire Asm Rubber 10 X 5 X 6.5 Steer Hd Sm",
+        "quantity": 2.0,
+        "net_price": 263.68
+      },
+      {
+        "description": "Labor",
+        "quantity": 1.0,
+        "net_price": 284.24
+      },
+      {
+        "description": "Tire Disposal Fee",
+        "quantity": 1.0,
+        "net_price": 30.0
+      }
+    ]
+  }
+}

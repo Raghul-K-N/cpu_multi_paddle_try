@@ -1,0 +1,95 @@
+{
+  "invoice_data": {
+    "invoice_number": "INV-8626",
+    "invoice_date": "1/26/2026",
+    "invoice_amount": null,
+    "invoice_currency": null,
+    "tax_amount": null,
+    "po_number": [
+      "4504299159"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "PepsiCo Foods Canada",
+    "vendor_address": "5815 Coopers Avenue, Mississauga, Ontario L4Z 1R9, Canada",
+    "po_line_items": [
+      {
+        "description": "Project",
+        "quantity": null,
+        "net_price": 525.0
+      },
+      {
+        "description": "Production Art",
+        "quantity": null,
+        "net_price": 812.5
+      },
+      {
+        "description": "Production Misc Item",
+        "quantity": null,
+        "net_price": 253.13
+      },
+      {
+        "description": "REDO OILERS",
+        "quantity": null,
+        "net_price": 253.13
+      },
+      {
+        "description": "Stickers/Inserts/Tags/Strips",
+        "quantity": null,
+        "net_price": 1843.76
+      }
+    ],
+    "vat_amount": null,
+    "gl_account": null,
+    "bank_name": null,
+    "account_holder_name": null,
+    "banking_account_number": null,
+    "remit_to_address": null,
+    "bill_to_address": null,
+    "transaction_type": "debit"
+  },
+  "filename": "SAPS4_5100069011_CA11_PFNACA_2026_304667652.pdf",
+  "raw_response": {
+    "invoice_number": "INV-8626",
+    "invoice_date": "1/26/2026",
+    "invoice_amount": null,
+    "invoice_currency": null,
+    "tax_amount": null,
+    "po_number": [
+      "4504299159"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "PepsiCo Foods Canada",
+    "vendor_address": "5815 Coopers Avenue, Mississauga, Ontario L4Z 1R9, Canada",
+    "po_line_items": [
+      {
+        "description": "Project",
+        "quantity": null,
+        "net_price": 525.0
+      },
+      {
+        "description": "Production Art",
+        "quantity": null,
+        "net_price": 812.5
+      },
+      {
+        "description": "Production Misc Item",
+        "quantity": null,
+        "net_price": 253.13
+      },
+      {
+        "description": "REDO OILERS",
+        "quantity": null,
+        "net_price": 253.13
+      },
+      {
+        "description": "Stickers/Inserts/Tags/Strips",
+        "quantity": null,
+        "net_price": 1843.76
+      }
+    ]
+  }
+}

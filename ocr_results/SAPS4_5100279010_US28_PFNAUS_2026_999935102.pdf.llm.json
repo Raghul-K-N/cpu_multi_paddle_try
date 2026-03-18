@@ -1,0 +1,69 @@
+{
+  "invoice_data": {
+    "invoice_number": "F260204-FL",
+    "invoice_date": "2/12/2026",
+    "invoice_amount": null,
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": null,
+    "po_number": [
+      "M413524219"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "SES Field Services LLC",
+    "vendor_address": "21750 Hardy Oak Blvd., Ste 102-2, San Antonio, TX 78258, 210-686-1083",
+    "po_line_items": [
+      {
+        "description": "L1/ SES Field Services_Owner Representative Services",
+        "quantity": 456300.0,
+        "net_price": 456300.0
+      },
+      {
+        "description": "L2/ SES Field Services_Owner Travel & Expense",
+        "quantity": 177600.0,
+        "net_price": 177600.0
+      }
+    ],
+    "vat_amount": null,
+    "gl_account": null,
+    "bank_name": null,
+    "account_holder_name": null,
+    "banking_account_number": null,
+    "remit_to_address": null,
+    "bill_to_address": null,
+    "transaction_type": "debit"
+  },
+  "filename": "SAPS4_5100279010_US28_PFNAUS_2026_999935102.pdf",
+  "raw_response": {
+    "invoice_number": "F260204-FL",
+    "invoice_date": "2/12/2026",
+    "invoice_amount": null,
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": null,
+    "po_number": [
+      "M413524219"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "SES Field Services LLC",
+    "vendor_address": "21750 Hardy Oak Blvd., Ste 102-2, San Antonio, TX 78258, 210-686-1083",
+    "po_line_items": [
+      {
+        "description": "L1/ SES Field Services_Owner Representative Services",
+        "quantity": 456300.0,
+        "net_price": 456300.0
+      },
+      {
+        "description": "L2/ SES Field Services_Owner Travel & Expense",
+        "quantity": 177600.0,
+        "net_price": 177600.0
+      }
+    ]
+  }
+}

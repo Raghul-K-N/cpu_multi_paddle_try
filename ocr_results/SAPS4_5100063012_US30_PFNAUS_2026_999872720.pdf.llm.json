@@ -1,0 +1,79 @@
+{
+  "invoice_data": {
+    "invoice_number": "M00506593",
+    "invoice_date": "1/29/2026",
+    "invoice_amount": "2328.05",
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": "194.67",
+    "po_number": [
+      "M413122948"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "MILESTONE EQUIPMENT COMPANY LLC",
+    "vendor_address": "7701 LEGACY DRIVE, PLANO, TX 75024, DALLAS, TX 75320-5589, BANK: WELLS FARGO, ABA:121000248 ACCT:4685318446",
+    "po_line_items": [
+      {
+        "description": "used emergency services and replace damaged sandshoe, but service call was canceled - dry run charges",
+        "quantity": null,
+        "net_price": 224.75
+      },
+      {
+        "description": "used emergency services and vendor arrived on site to patch the hole in top left corner radius, but the trailer needed to be repaired in the shop",
+        "quantity": null,
+        "net_price": 920.0
+      },
+      {
+        "description": "replace damaged 2 roll door panels/hardware",
+        "quantity": null,
+        "net_price": 988.63
+      }
+    ],
+    "vat_amount": null,
+    "gl_account": null,
+    "bank_name": null,
+    "account_holder_name": null,
+    "banking_account_number": null,
+    "remit_to_address": null,
+    "bill_to_address": null,
+    "transaction_type": "debit"
+  },
+  "filename": "SAPS4_5100063012_US30_PFNAUS_2026_999872720.pdf",
+  "raw_response": {
+    "invoice_number": "M00506593",
+    "invoice_date": "1/29/2026",
+    "invoice_amount": "2328.05",
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": "194.67",
+    "po_number": [
+      "M413122948"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "MILESTONE EQUIPMENT COMPANY LLC",
+    "vendor_address": "7701 LEGACY DRIVE, PLANO, TX 75024, DALLAS, TX 75320-5589, BANK: WELLS FARGO, ABA:121000248 ACCT:4685318446",
+    "po_line_items": [
+      {
+        "description": "used emergency services and replace damaged sandshoe, but service call was canceled - dry run charges",
+        "quantity": null,
+        "net_price": 224.75
+      },
+      {
+        "description": "used emergency services and vendor arrived on site to patch the hole in top left corner radius, but the trailer needed to be repaired in the shop",
+        "quantity": null,
+        "net_price": 920.0
+      },
+      {
+        "description": "replace damaged 2 roll door panels/hardware",
+        "quantity": null,
+        "net_price": 988.63
+      }
+    ]
+  }
+}

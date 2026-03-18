@@ -1,0 +1,294 @@
+==================================<Page 1 - START>================================
+Standard Invoice
+                                                                  Invoice Number                                               1252
+                                                                  (Supplier Reference No.)
+                                                                  Invoice Date                     Saturday 7 Feb 2026 12:00 PM GMT-08:00
+                                                                  Amount Due                                        $43,525.00 USD
+                                                                            Shipping Information
+    Contact Information
+    Supplier                       Customer                                                                Ship To
+                                                                            Ship From
+    DNS CONSTRUCTION INC         Frito-Lay, Inc.                                DNS CONSTRUCTION INC         US-PL-CASA GRANDE-AZ-FLI
+                                  c/o PEPSICO NASS                            6250 MICHAUD CT                Preston.Hall@pepsico.com
+    6250 MICHAUD CT
+                                  ACCOUNTS PAYABLES                        PO Box 80993                   US-PL-CASA GRANDE-AZ-FLI
+    BAKERSFIELD
+                                  PO BOX 1800                                Bakersfield. CA 93380              1450 W MARICOPA HWY
+     CA
+                                  Winston Salem                               BAKERSFIELD                   CASA GRANDE
+    93307
+                                                                            CA                           AZ
+     United States                   NC
+                                                                            93307                         85193-5502
+                                  27105
+                                                                            United States                    United States
+                                  United States
+                                                                                                          Address ID: 2092
+                                  Address ID: US28
+                                                                                                          Phone: 3524477
+                                                          PO No. : M413528472                                       PO Date : 30 Jan 2026
+  Line Items
+                                        Supplier Part No. /              Customer Part No.         Quantity            Unit Price         Subtotal
+   Line No.    PO Line No.          Type
+                                        Description                                         (UOM)
+   1        1                 Material Not Available / LABOR                                 14,940 / (EA)        $1.00 USD   $14,940.00 USD
+           Taxes. Allowances and Charges
+                                                                               Base Amount         Rate %
+           Category                  Applicable To         Details                                                 Amount
+                                     Line               Tax Description : A/P Sales  $0.00 USD
+            Sales Tax                                                                                            $0.00 USD
+                                                        Tax
+                                                                                                    Line Item Total : $14,940.00 USD
+   Line No.    PO Line No.          Type    Supplier Part No. /             Customer Part No.        Quantity            Unit Price
+                                                                                                                           Subtotal
+                                        Description                                        (UOM)
+   2        2                 Material Not Available / MATERIAL                              2,320 / (EA)        $1.00 USD    $2,320.00 USD
+           Taxes, Allowances and Charges
+            Category                  Applicable To         Details                 Base Amount         Rate %
+                                                                                                               Amount
+            Sales Tax                 Line               Tax Description : A/P Sales   $0.00 USD                        $165.00 USD
+                                                        Tax
+                                                                                                    Line Item Total : $2,485.00 USD
+    Line No.    PO Line No.          Type    Supplier Part No. /             Customer Part No.        Quantity            Unit Price         Subtotal
+                                        Description                                        (UOM)
+    3                           Material Not Available / EQUIPMENT
+              3                                                                         1,160 / (EA)         $1.00 USD    $1,160.00 USD
+           Taxes, Allowances and Charges
+            Category                  Applicable To         Details                 Base Amount         Rate %       Amount
+                                     Line
+            Sales Tax                                    Tax Description : A/P Sales  $0.00 USD           %0          $0.00 USD
+                                                        Tax
+                                                                                                    Line Item Total : $1,160.00 USD
+    Line No.    PO Line No.          Type    Supplier Part No. /             Customer Part No.        Quantity
+                                                                                                          Unit Price         Subtotal
+                                        Description                                        (UOM)
+    4        4                 Material Not Available / SUBCONTRACTOR                       24,940 / (EA)        $1.00 USD   $24,940.00 USD
+           Taxes, Allowances and Charges
+            Category                  Applicable To         Details
+                                                                              Base Amount         Rate %       Amount
+            Sales Tax                 Line               Tax Description : A/P Sales  $0.00 USD           0%          $0.00 USD
+                                                        Tax
+                                                                                                   Line Item Total : $24,940.00 USD
+       Tax Summary
+       Category              Details                          Base Amount
+                                                                                     Rate %          Amount
+       Sales Tax              Tax Description : A/P Sales Tax         $0.00 USD
+                                                                                                     $0.00 USD
+       Sales Tax
+                            Tax Description : A/P Sales Tax         $0.00 USD
+                                                                                                     $165.00 USD
+                                                                               Amount Summary
+                                                                               Line item subtotal                        $43,360.00 USD
+                                                                               Gross amount                           $43,525.00 USD
+                                                                              Net amount                             $43,525.00 USD
+                                                                              Total tax amount
+                                                                                                                      $165.00 USD
+                                                                              Total withholding tax amount
+                                                                              Amount Due                            $43,525.00 USD
+     Billing Information                                                         Remittance Information
+     Bill From
+                                  Bill To                                    Remit To
+     DNS CONSTRUCTION INC         Frito-Lay. Inc.
+                                                                          DNS CONSTRUCTION INC
+     6250 MICHAUD CT               c/o PEPSICO NASS
+                                                                          PO BOX 70145
+     BAKERSFIELD                 ACCOUNTS PAYABLES
+     CA                                                                  Bakersfield
+                                 PO BOX 1800
+     93307                                                                CA
+                                 Winston Salem                              93387
+     United States
+                                 NC                                      United States
+                                 27105                                    Address ID: US1_471246
+                                 United States
+                                                                          Tax ID of Supplier
+                                 Address ID: US28
+                                                                         264184892
+  Payment Terms
+  Net payment Terms (Days) :
+  60
+==================================<Page 1 - END>================================
+==================================<Page 2 - START>================================
+ Appendix
+ Line No.
+             PO Line No. Type                          Supplier Part No. / Description
+  1          1
+                       Material                        Not Available / LABOR
+ Additional Details:
+  Classification Domain : custom
+ Classification Code : MRO759001
+ Supplier Part ID : Not Available
+ Line No.
+            PO Line No. Type                          Supplier Part No. / Description
+ 2         2
+                       Material                        Not Available / MATERIAL
+ Additional Details:
+ Classification Domain : custom
+ Classification Code : MRO759001
+ Supplier Part ID : Not Available
+Line No.
+            PO Line No. Type
+                                                      Supplier Part No. / Description
+3
+            3         Material                        Not Available / EQUIPMENT
+Additional Details:
+Classification Domain : custom
+Classification Code : MRO759001
+Supplier Part ID : Not Available
+Line No.    PO Line No. Type
+                                                      Supplier Part No. / Description
+4         4         Material
+                                                      Not Available / SUBCONTRACTOR
+Additional Details:
+ Classification Domain : custom
+ Classification Code : MRO759001
+Supplier Part ID : Not Available
+PDF generated on Wednesday 11 Feb 2026 12:43 PM GMT-08:00
+==================================<Page 2 - END>================================
+==================================<Page 3 - START>================================
+Standard Invoice
+                                                                   Invoice Number                                               1252
+                                                                   (Supplier Reference No.)
+                                                                  Invoice Date                     Saturday 7 Feb 2026 12:00 PM GMT-08:00
+                                                                   Amount Due                                        $43,525.00 USD
+                                                                             Shipping Information
+    Contact Information
+    Supplier                       Customer                                                                Ship To
+                                                                            Ship From
+    DNS CONSTRUCTION INC         Frito-Lay, Inc.                                DNS CONSTRUCTION INC         US-PL-CASA GRANDE-AZ-FLI
+                                  c/o PEPSICO NASS                            6250 MICHAUD CT                Preston.Hall@pepsico.com
+    6250 MICHAUD CT
+                                  ACCOUNTS PAYABLES                        PO Box 80993                   US-PL-CASA GRANDE-AZ-FLI
+    BAKERSFIELD
+                                  PO BOX 1800                                Bakersfield. CA 93380              1450 W MARICOPA HWY
+     CA
+                                  Winston Salem                               BAKERSFIELD                   CASA GRANDE
+     93307
+                                                                            CA                           AZ
+     United States                   NC
+                                                                            93307                         85193-5502
+                                  27105
+                                                                            United States                    United States
+                                  United States
+                                                                                                          Address ID: 2092
+                                  Address ID: US28
+                                                                                                          Phone: 3524477
+                                                          PO No. : M413528472                                       PO Date : 30 Jan 2026
+  Line Items
+                                        Supplier Part No. /              Customer Part No.         Quantity            Unit Price         Subtotal
+   Line No.    PO Line No.          Type
+                                        Description                                         (UOM)
+   1        1                 Material Not Available / LABOR                                 14,940 / (EA)        $1.00 USD   $14,940.00 USD
+           Taxes. Allowances and Charges
+                                                                               Base Amount         Rate %
+           Category                  Applicable To         Details                                                 Amount
+                                     Line               Tax Description : A/P Sales  $0.00 USD
+            Sales Tax                                                                                            $0.00 USD
+                                                        Tax
+                                                                                                    Line Item Total : $14,940.00 USD
+   Line No.    PO Line No.          Type    Supplier Part No. /             Customer Part No.        Quantity            Unit Price
+                                                                                                                            Subtotal
+                                        Description                                        (UOM)
+   2        2                 Material Not Available / MATERIAL                              2,320 / (EA)        $1.00 USD    $2,320.00 USD
+           Taxes, Allowances and Charges
+            Category                  Applicable To         Details                 Base Amount         Rate %
+                                                                                                               Amount
+            Sales Tax                 Line               Tax Description : A/P Sales   $0.00 USD                        $165.00 USD
+                                                        Tax
+                                                                                                    Line Item Total : $2,485.00 USD
+    Line No.    PO Line No.          Type    Supplier Part No. /             Customer Part No.        Quantity            Unit Price         Subtotal
+                                        Description                                        (UOM)
+    3                           Material Not Available / EQUIPMENT
+              3                                                                         1,160 / (EA)         $1.00 USD    $1,160.00 USD
+           Taxes, Allowances and Charges
+            Category                  Applicable To         Details                 Base Amount         Rate %       Amount
+                                     Line
+             Sales Tax                                    Tax Description : A/P Sales  $0.00 USD           %0          $0.00 USD
+                                                        Tax
+                                                                                                    Line Item Total : $1,160.00 USD
+    Line No.    PO Line No.          Type    Supplier Part No. /             Customer Part No.        Quantity
+                                                                                                          Unit Price         Subtotal
+                                        Description                                        (UOM)
+    4        4                 Material Not Available / SUBCONTRACTOR                       24,940 / (EA)        $1.00 USD   $24,940.00 USD
+           Taxes, Allowances and Charges
+            Category                  Applicable To         Details
+                                                                              Base Amount         Rate %       Amount
+            Sales Tax                 Line               Tax Description : A/P Sales  $0.00 USD           0%          $0.00 USD
+                                                        Tax
+                                                                                                   Line Item Total : $24,940.00 USD
+       Tax Summary
+       Category              Details                          Base Amount
+                                                                                     Rate %          Amount
+       Sales Tax              Tax Description : A/P Sales Tax         $0.00 USD
+                                                                                                     $0.00 USD
+       Sales Tax
+                            Tax Description : A/P Sales Tax         $0.00 USD
+                                                                                                     $165.00 USD
+                                                                               Amount Summary
+                                                                               Line item subtotal                        $43,360.00 USD
+                                                                               Gross amount                           $43,525.00 USD
+                                                                               Net amount                             $43,525.00 USD
+                                                                              Total tax amount
+                                                                                                                      $165.00 USD
+                                                                               Total withholding tax amount
+                                                                               Amount Due                            $43,525.00 USD
+     Billing Information                                                         Remittance Information
+     Bill From
+                                  Bill To                                    Remit To
+     DNS CONSTRUCTION INC         Frito-Lay. Inc.
+                                                                          DNS CONSTRUCTION INC
+     6250 MICHAUD CT               c/o PEPSICO NASS
+                                                                          PO BOX 70145
+     BAKERSFIELD                 ACCOUNTS PAYABLES
+     CA                                                                  Bakersfield
+                                 PO BOX 1800
+     93307                                                                CA
+                                 Winston Salem                              93387
+     United States
+                                 NC                                      United States
+                                 27105                                    Address ID: US1_471246
+                                 United States
+                                                                          Tax ID of Supplier
+                                 Address ID: US28
+                                                                          264184892
+  Payment Terms
+  Net payment Terms (Days) :
+  60
+==================================<Page 3 - END>================================
+==================================<Page 4 - START>================================
+ Appendix
+ Line No.
+             PO Line No. Type                          Supplier Part No. / Description
+  1          1
+                       Material                        Not Available / LABOR
+ Additional Details:
+  Classification Domain : custom
+ Classification Code : MRO759001
+ Supplier Part ID : Not Available
+ Line No.
+            PO Line No. Type                          Supplier Part No. / Description
+ 2         2
+                       Material                        Not Available / MATERIAL
+ Additional Details:
+ Classification Domain : custom
+ Classification Code : MRO759001
+ Supplier Part ID : Not Available
+Line No.
+            PO Line No. Type
+                                                      Supplier Part No. / Description
+3
+            3         Material                        Not Available / EQUIPMENT
+Additional Details:
+Classification Domain : custom
+Classification Code : MRO759001
+Supplier Part ID : Not Available
+Line No.    PO Line No. Type
+                                                      Supplier Part No. / Description
+4         4         Material
+                                                      Not Available / SUBCONTRACTOR
+Additional Details:
+ Classification Domain : custom
+ Classification Code : MRO759001
+Supplier Part ID : Not Available
+PDF generated on Wednesday 11 Feb 2026 12:43 PM GMT-08:00
+==================================<Page 4 - END>================================

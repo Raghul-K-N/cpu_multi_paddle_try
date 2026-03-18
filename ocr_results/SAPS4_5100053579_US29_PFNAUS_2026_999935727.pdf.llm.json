@@ -1,0 +1,85 @@
+{
+  "invoice_data": {
+    "invoice_number": "Y610955108:01",
+    "invoice_date": "01/16/2026",
+    "invoice_amount": null,
+    "invoice_currency": null,
+    "tax_amount": null,
+    "po_number": [
+      "23556196"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "TAG Truck Group",
+    "vendor_address": "4430 AMERICAN WAY , MEMPHIS, TN 38118",
+    "po_line_items": [
+      {
+        "description": "CHARGE AIR DISTRIBUTION",
+        "quantity": 1.0,
+        "net_price": 607.6
+      },
+      {
+        "description": "CHARGE AIR DISTRIBUTION",
+        "quantity": 1.0,
+        "net_price": 466.48
+      },
+      {
+        "description": "OIL COOLER",
+        "quantity": 1.0,
+        "net_price": 282.24
+      },
+      {
+        "description": "SPRINTER GASKET KIT",
+        "quantity": 1.0,
+        "net_price": 161.04
+      }
+    ],
+    "vat_amount": null,
+    "gl_account": null,
+    "bank_name": null,
+    "account_holder_name": null,
+    "banking_account_number": null,
+    "remit_to_address": null,
+    "bill_to_address": null,
+    "transaction_type": "debit"
+  },
+  "filename": "SAPS4_5100053579_US29_PFNAUS_2026_999935727.pdf",
+  "raw_response": {
+    "invoice_number": "Y610955108:01",
+    "invoice_date": "01/16/2026",
+    "invoice_amount": null,
+    "invoice_currency": null,
+    "tax_amount": null,
+    "po_number": [
+      "23556196"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "TAG Truck Group",
+    "vendor_address": "4430 AMERICAN WAY , MEMPHIS, TN 38118",
+    "po_line_items": [
+      {
+        "description": "CHARGE AIR DISTRIBUTION",
+        "quantity": 1.0,
+        "net_price": 607.6
+      },
+      {
+        "description": "CHARGE AIR DISTRIBUTION",
+        "quantity": 1.0,
+        "net_price": 466.48
+      },
+      {
+        "description": "OIL COOLER",
+        "quantity": 1.0,
+        "net_price": 282.24
+      },
+      {
+        "description": "SPRINTER GASKET KIT",
+        "quantity": 1.0,
+        "net_price": 161.04
+      }
+    ]
+  }
+}

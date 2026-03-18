@@ -1,0 +1,69 @@
+{
+  "invoice_data": {
+    "invoice_number": "132274",
+    "invoice_date": "January 30, 2026",
+    "invoice_amount": "98.82",
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": "12.14",
+    "po_number": [
+      "4505038878"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": "40.12",
+    "cost_center": null,
+    "vendor_name": "DAROSE CONTROL SYSTEMS LTD.",
+    "vendor_address": "155 BLUEWATER ROAD, UNIT 101, BEDFORD, N.S. B4B 1H1",
+    "po_line_items": [
+      {
+        "description": "40MPG 1.5\" GASKET T/C TEFLON",
+        "quantity": 10.0,
+        "net_price": 16.0
+      },
+      {
+        "description": "40MPG 2\" GASKET T/C TEFLON",
+        "quantity": 16.0,
+        "net_price": 30.56
+      }
+    ],
+    "vat_amount": null,
+    "gl_account": null,
+    "bank_name": null,
+    "account_holder_name": null,
+    "banking_account_number": null,
+    "remit_to_address": null,
+    "bill_to_address": null,
+    "transaction_type": "debit"
+  },
+  "filename": "SAPS4_5101592001_CA11_PFNACA_2026_304654809.pdf",
+  "raw_response": {
+    "invoice_number": "132274",
+    "invoice_date": "January 30, 2026",
+    "invoice_amount": "98.82",
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": "12.14",
+    "po_number": [
+      "4505038878"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": "40.12",
+    "cost_center": null,
+    "vendor_name": "DAROSE CONTROL SYSTEMS LTD.",
+    "vendor_address": "155 BLUEWATER ROAD, UNIT 101, BEDFORD, N.S. B4B 1H1",
+    "po_line_items": [
+      {
+        "description": "40MPG 1.5\" GASKET T/C TEFLON",
+        "quantity": 10.0,
+        "net_price": 16.0
+      },
+      {
+        "description": "40MPG 2\" GASKET T/C TEFLON",
+        "quantity": 16.0,
+        "net_price": 30.56
+      }
+    ]
+  }
+}

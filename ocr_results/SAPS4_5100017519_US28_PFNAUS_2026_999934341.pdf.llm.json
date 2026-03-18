@@ -1,0 +1,59 @@
+{
+  "invoice_data": {
+    "invoice_number": "822696084",
+    "invoice_date": "02/04/2026",
+    "invoice_amount": "-17.04",
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": "1.04",
+    "po_number": [
+      "4504047304"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "GRAINGER",
+    "vendor_address": "1721 6TH ST. SW, CANTON, OH 44706-1203",
+    "po_line_items": [
+      {
+        "description": "LKNT,ZNC,STL,3/8\"-24,9/16X15/32IN,50PK",
+        "quantity": 4.0,
+        "net_price": 4.0
+      }
+    ],
+    "vat_amount": null,
+    "gl_account": null,
+    "bank_name": null,
+    "account_holder_name": null,
+    "banking_account_number": null,
+    "remit_to_address": null,
+    "bill_to_address": null,
+    "transaction_type": "credit"
+  },
+  "filename": "SAPS4_5100017519_US28_PFNAUS_2026_999934341.pdf",
+  "raw_response": {
+    "invoice_number": "822696084",
+    "invoice_date": "02/04/2026",
+    "invoice_amount": "-17.04",
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": "1.04",
+    "po_number": [
+      "4504047304"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "GRAINGER",
+    "vendor_address": "1721 6TH ST. SW, CANTON, OH 44706-1203",
+    "po_line_items": [
+      {
+        "description": "LKNT,ZNC,STL,3/8\"-24,9/16X15/32IN,50PK",
+        "quantity": 4.0,
+        "net_price": 4.0
+      }
+    ]
+  }
+}

@@ -1,0 +1,59 @@
+{
+  "invoice_data": {
+    "invoice_number": "02/11/2026",
+    "invoice_date": "02/11/2026",
+    "invoice_amount": "2590.79",
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": null,
+    "po_number": [
+      "4505183291"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": "97.99",
+    "cost_center": null,
+    "vendor_name": "GRAINGER",
+    "vendor_address": "1901 NONCONNAH BLVD., MEMPHIS, TN 38132-2106",
+    "po_line_items": [
+      {
+        "description": "PRECISION AIR REGULATOR,1/4 IN. NPT",
+        "quantity": 8.0,
+        "net_price": 2492.8
+      }
+    ],
+    "vat_amount": null,
+    "gl_account": null,
+    "bank_name": null,
+    "account_holder_name": null,
+    "banking_account_number": null,
+    "remit_to_address": null,
+    "bill_to_address": null,
+    "transaction_type": "debit"
+  },
+  "filename": "SAPS4_5100216021_US28_PFNAUS_2026_999884144.pdf",
+  "raw_response": {
+    "invoice_number": "02/11/2026",
+    "invoice_date": "02/11/2026",
+    "invoice_amount": "2590.79",
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": null,
+    "po_number": [
+      "4505183291"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": "97.99",
+    "cost_center": null,
+    "vendor_name": "GRAINGER",
+    "vendor_address": "1901 NONCONNAH BLVD., MEMPHIS, TN 38132-2106",
+    "po_line_items": [
+      {
+        "description": "PRECISION AIR REGULATOR,1/4 IN. NPT",
+        "quantity": 8.0,
+        "net_price": 2492.8
+      }
+    ]
+  }
+}

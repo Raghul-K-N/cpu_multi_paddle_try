@@ -1,0 +1,45 @@
+{
+  "invoice_data": {
+    "invoice_number": "A20260191",
+    "invoice_date": "0 2 FEB 2 0 2 6",
+    "invoice_amount": null,
+    "invoice_currency": null,
+    "tax_amount": null,
+    "po_number": [
+      "M413534058",
+      "031424"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": null,
+    "vendor_address": null,
+    "po_line_items": null,
+    "vat_amount": null,
+    "gl_account": null,
+    "bank_name": null,
+    "account_holder_name": null,
+    "banking_account_number": null,
+    "remit_to_address": null,
+    "bill_to_address": null,
+    "transaction_type": "debit"
+  },
+  "filename": "SAPS4_5100133045_CA02_PBNACA_2026_328586832.pdf",
+  "raw_response": {
+    "invoice_number": "A20260191",
+    "invoice_date": "0 2 FEB 2 0 2 6",
+    "invoice_amount": null,
+    "invoice_currency": null,
+    "tax_amount": null,
+    "po_number": [
+      "M413534058",
+      "031424"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": null,
+    "vendor_address": null,
+    "po_line_items": null
+  }
+}

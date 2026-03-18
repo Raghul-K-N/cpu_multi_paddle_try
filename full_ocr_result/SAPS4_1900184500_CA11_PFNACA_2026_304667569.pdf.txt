@@ -1,0 +1,250 @@
+==================================<Page 1 - START>================================
+  OpenText Workflow History
+  Vendor
+  W D POTATO LTD
+  RR 2
+  3644 10 SIDERD
+  BEETON ONLOG 1A0
+  CANADA
+  Invoice
+   Reference        IN0235109
+                                                              Document Date
+                                                                                22.12.2025
+  DP Document No.  39413376
+                                                              Net Amount       CAD
+                                                                                            12,534.80
+  Comp. Code       CA11 PepsiCo Canada ULC (FLC)
+                                                              Tax Amount       CAD
+                                                                                                   0.00
+  Posting Date     13.02.2026
+                                                              Gross Amount
+                                                                                CAD        12,534.80
+  SAP Document No. 1900184500 2026
+                                          Pre-Process History
+   ACTIVITY
+                                                         USER       END TIME         DOCUMENT STATUS
+   Update status
+                                                         VRBLAOT_U  09.02.2026       Validation
+                                                         SR         12:56:52
+                                                                                       Complete
+                                      Document Process History
+  ACTIVITY          PROCESS TYPE/BLOCK REASON          USER
+                                                                     END TIME         DOCUMENT STATUS
+  BC Inbound                                            VRBLAOT_U   09.02.2026
+                                                                                       Document
+                                                         SR          12:55:51         Registered
+  Workflow Start   Approval Required (NPO)
+                                                        Record to  09.02.2026        Indexed
+                                                         Report      12:56:52
+                                                         Batch
+                                                        Account
+                                                         Owner:
+    Invoice submitted for Approval
+                                                                     09.02.2026 12:56:54
+    Invoice Approved                                    GEORGES    09.02.2026 14:46:50
+                                                        DION
+    Invoice Approved
+                                                        FABRIZZIO  09.02.2026 15:21:06
+                                                        CANTAGALL
+                                                        o
+ Approval         Approval Required (NPO)
+                                                        SAP_WFRT   09.02.2026        Approval
+Workflow                                                          15:21:13         Complete
+Business Rules
+                   Process Non-PO Invoice (NPO)        SAP_WFRT   09.02.2026        Approval
+Check in BG
+                                                                     15:21:15          Complete
+Post Non-PO      Process Non-PO Invoice (NPO)       VIGNESH    13.02.2026
+                                                                                       Document
+Invoice
+                                                        RENGARAJ   17:05:26          Created
+SAP Document
+                                                        SAP_WFRT   13.02.2026        Posted
+Check
+                                                                     17:05:34
+==================================<Page 1 - END>================================
+==================================<Page 2 - START>================================
+        PEPSICO
+     InstructionsWhen there is not an "Official" Invoice to request payment or Pis not required, complete the information on this form.
+You must fll in all of the fields below and the form must be accompanied with supporting documentation on separate tab(s).
+ Fill in the Description field below with the payment type - for example: Donation / Taxes / Legal / etc.
+ 3. Print Entire Workbook as ONE single PDF file prior to submission.
+                                         Non-PO Invoice
+                                    SAP Payment Request
+                                  Substitute Invoice Form
+  Vendor Name:                      WD Potato
+  Vendor Number:
+                                           2003151895
+  Company Code:                    CA11
+  Remit To Address :                3630 Sideroad 10, Beeton, Ontario, L0G1A0
+  Transaction type:                  Invoice
+ Invoice Date:                        12/22/2025
+ Invoice #:                            IN0235109
+ Purchase Order #
+ Payment GROSS Amount:
+                                           $12,534.80
+ Tax Amount:
+ Payment NET Amount:           $12,534.80
+Currency                            CND
+ Header Text:
+Requestor Name:
+                                          Georges Dion
+Requestor email
+                                          georges.dion@pepsico.com
+Date Requested:                   12/30/2025
+Description:
+                                          Kentville Mangement
+Cost Center (optional - use Tab 2 if multiple):
+                                         2049100201
+GL Account (REQUIRED - use Tab 2 if multiple):
+                                         660028
+WBS Element (optional - use Tab 2 if multiple):
+==================================<Page 2 - END>================================
+==================================<Page 3 - START>================================
+                                                                                                       IN0235109
+                                                                                      INVOICE #
+    WD
+                               3644 SIDEROAD 10,
+                                                                                     INVOICE DATE     Dec 22, 2025
+                               BEETON, ONTARIO. LOG 1AO
+                               TEL: (905) 729-2263
+      POTATO LIMITED   FAX: (905) 729-4136
+                                                                                                     Dec 22, 2025
+              PEPSICO FOODS CANADA                                 1001 BISHOP STREET
+              1001 BISHOP STREET                                      CAMBRIDGE, ONTARIO
+              CAMBRIDGE, ONTARIO                                    N3H 4V8
+              N3H 4V8
+         T                                                          T
+                                                                     o
+        customer No.
+                                            TERMS                        Hst #
+            2001                        NET 30 DAYS                                               MANAGEMENT FEE
+                                                                        R 105605836
+  Source
+                                ITEM DESCRIPTION                   QTY. SHIPPED     PRICE        AMOUNT
+  9910H        MANAGEMENT FEE PD13 WK3                                25,069.60          0.50       12,534.80
+"The perishable agricultural commodities listed on this invoice are sold subject to the statutory trust authorized by section S(c) of
+the Perishabale Agricultural Commodities Act. 1930 (7 U.5.C. 499e(c)]. The seller of these commodities retains a trust
+                                                                                                             claim over
+from the sale of these commodities until full payment is received."
+                                                         Sub-total .
+                                                                      MISC. CHARGES      HST
+                                                                                                         TOTAL
+                                                            12,534.80
+==================================<Page 3 - END>================================
+==================================<Page 4 - START>================================
+age  1
+                               PepsiCo Kentville Management Fee                   12/30/25
+                                                                                                    09:21:52
+ntity
+                               Date Range                           Plants
+ova Scotia
+                               December: 12/14/25 to 12/20/25    * Frito-Lay Kentville
+Date
+                           Plant PQ           Grower                                Shipped Cwt    Fee    Total Fee
+12/14/25
+                   4504498084-10-2730181  * Monaghan Farms *                          684.60    0.50  $   342.30
+2/14/25
+                   4504498084-20-2730182  * Monaghan Farms *                          676.80    0.50  $   338.40
+2/14/25
+                   4504498084-30-2730183  * Monaghan Farms*                           710.00     0.50  $   355.00
+2/14/25
+                   4504498084-40-2730184  * Monaghan Farms *                          703.60    0.50  $   351.80
+2/14/25
+                   4504498084-50-2730185
+                                            * Monaghan Farms *                          735.60     0.50  $    367.80
+2/15/25
+                   4504498084-60-2730186  * Monaghan Farms *
+                                                                                          680.60     0.50  $    340.30
+2/15/25
+                   4504498084-70-2730187  * Monaghan Farms *
+                                                                                          717.20     0.50  $    358.60
+/15/25
+                   4504498084-80-2730188  * Monaghan Farms *
+                                                                                          689.40     0.50  $    344.70
+/15/25
+                  4504498084-90-2730189  * Monaghan Farms *
+                                                                                          706.00     0.50  $    353.00
+/15/25
+                  4504498084-100-2730190 * Monaghan Farms *
+                                                                                          698.40     0.50  $    349.20
+/17/25          4504498084-180-2730198 * Monaghan Farms *
+                                                                                          694.20     0.50  $    347.10
+/17/25           4504498084-190-2730199 * Monaghan Farms *
+                                                                                          685.60     0.50  $   342.80
+/17/25           4504498084-200-2730200 * Monaghan Farms*
+                                                                                          681.20     0.50  $    340.60
+/18/25           4504498084-210-2730201
+                                            * Monaghan Farms*                           700.60     0.50  $    350.30
+/18/25           4504498084-220-2730202                    *
+                                            * Monaghan Farms                             686.00     0.50  $    343.00
+/18/25
+                  4504498084-230-2730203  * Monaghan Farms*                           720.40     0.50  $   360.20
+/18/25
+                  4504498084-240-2730204  * Monaghan Farms*                           692.80     0.50  $    346.40
+/18/25           4504498084-250-2730205  * Monaghan Farms*                           682.00     0.50  $    341.00
+/19/25           4504498084-260-2730206  * Monaghan Farms*                           705.20     0.50  $
+                                                                                                                   352.60
+/19/25           4504498084-270-2730207  * Monaghan Farms *                           714.40     0.50
+                                                                                                             $    357.20
+19/25           4504498084-280-2730208  * Monaghan Farms*                            705.60     0.50  $
+                                                                                                                   352.80
+/19/25           4504498084-290-2730209  * Monaghan Farms*                            687.60     0.50
+                                                                                                             $    343.80
+/19/25           4504498084-300-2730210  * Monaghan Farms*                            692.60     0.50
+                                                                                                             $    346.30
+/20/25           4504498084-310-2730211  * Monaghan Farms*                            713.80     0.50  $
+                                                                                                                  356.90
+/20/25           4504498084-320-2730212  * Monaghan Farms*                            652.80     0,50
+                                                                                                             $    326.40
+/16/25          4504540803-10-2764103   Callaghan Farms                               719.00     0.50  $
+                                                                                                                  359.50
+/16/25          4504540803-20-2764104                                                  730.20     0.50
+                                           Callaghan Farms                                                 $   365.10
+/16/25          4504540803-30-2764105                                                  743.40     0.50
+                                           Callaghan Farms                                                 $   371.70
+/16/25                                                                                              0.50
+                 4504540803-40-2764106   Urbainville Farms Ltd.                       719.00           $   359.50
+/16/25          4504540803-50-2764107   Urbainville Farms Ltd.                       721.40     0.50  $   360.70
+/17/25          4504540803-60-2764108                                                 719.60
+                                           Callaghan Farms                                          0.50  $   359.80
+/17/25                                   Urbainville Farms Ltd.                       710.80     0.50
+                  4504540803-70-2764109                                                                    $   355.40
+2/20/25          4504561514-10-2771966   Urbainville Farms Ltd.                       743.60     0.50  $   371.80
+2/20/25                                                                                 738.40
+                  4504561514-20-2771967   Urbainville Farms Ltd.                                   0.50  $   369.20
+                                                                                         742.60
+2/20/25          4504561514-30-2771968   Urbainville Farms Ltd.                                   0.50 $   371.30
+                                                                                         364.60     0.50
+2/20/25          4504599875-10-2788680   Urbainville Farms Ltd.                                         $   182.30
+                          Total # Loads          36       Total Shipped Cwt        25,069.60            $ 12,534.80
+                                                                     Total Fee
+1ant                          Fee            Shipped Cwt
+==================================<Page 4 - END>================================
+==================================<Page 5 - START>================================
+         2
+  Page                       PepsiCo Kentville Management Fee
+                                                                                                12/30/25
+                                                                                                09:21:52
+ Entity
+                               Date Range                         Plants
+Nova Scotia
+                               December: 12/14/25 to 12/20/25    * Frito-Lay Kentville
+  Date                     Plant PQ          Grower
+                                                                                   Shipped Cwt   Fee    Total Fee
+ * Frito-Lay Kentville
+                                 0.50           25,069.60          12,534.80
+==================================<Page 5 - END>================================
+==================================<Page 6 - START>================================
+          From: "Dion, Georges {PEP}" <Georges.Dion@pepsico.com>
+          Sent: Fri, 6 Feb 2026 22:56:59 (UTC)
+           To: FLCInvoiceSubmission@pepsico.com
+          Subject: Invoices
+          Georges Dion
+          Proc Sr Manager • PFC Div Ops Field buyer
+          PepsiCo
+          georges.dion@pepsico.com418.572.7202
+          pepsico.com
+                pepsico
+                  Food Drinks. Smies.
+==================================<Page 6 - END>================================

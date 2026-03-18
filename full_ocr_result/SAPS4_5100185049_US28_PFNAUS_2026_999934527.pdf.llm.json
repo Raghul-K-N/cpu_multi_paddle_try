@@ -1,0 +1,69 @@
+{
+  "invoice_data": {
+    "invoice_number": "0090544-IN",
+    "invoice_date": "1/29/2026",
+    "invoice_amount": null,
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": null,
+    "po_number": [
+      "4505009348"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "R & D Machine",
+    "vendor_address": "P.O. BOX 560486 · DALLAS, TEXAS 75356-0486\n214-638-2451 · FAX 214-638-4818\nwww.amfan.com",
+    "po_line_items": [
+      {
+        "description": "KNIFE, FCP (6 PER PKG), NEW LONG BLADE",
+        "quantity": 6.0,
+        "net_price": 89.0
+      },
+      {
+        "description": "ADAPTOR, PERMANENT (SEASONER)",
+        "quantity": 2.0,
+        "net_price": 202.0
+      }
+    ],
+    "vat_amount": null,
+    "gl_account": null,
+    "bank_name": null,
+    "account_holder_name": null,
+    "banking_account_number": null,
+    "remit_to_address": null,
+    "bill_to_address": null,
+    "transaction_type": "debit"
+  },
+  "filename": "SAPS4_5100185049_US28_PFNAUS_2026_999934527.pdf",
+  "raw_response": {
+    "invoice_number": "0090544-IN",
+    "invoice_date": "1/29/2026",
+    "invoice_amount": null,
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": null,
+    "po_number": [
+      "4505009348"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "R & D Machine",
+    "vendor_address": "P.O. BOX 560486 · DALLAS, TEXAS 75356-0486\n214-638-2451 · FAX 214-638-4818\nwww.amfan.com",
+    "po_line_items": [
+      {
+        "description": "KNIFE, FCP (6 PER PKG), NEW LONG BLADE",
+        "quantity": 6.0,
+        "net_price": 89.0
+      },
+      {
+        "description": "ADAPTOR, PERMANENT (SEASONER)",
+        "quantity": 2.0,
+        "net_price": 202.0
+      }
+    ]
+  }
+}

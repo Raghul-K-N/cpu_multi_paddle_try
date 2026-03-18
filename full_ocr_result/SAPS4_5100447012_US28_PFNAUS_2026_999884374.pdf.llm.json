@@ -1,0 +1,47 @@
+{
+  "invoice_data": {
+    "invoice_number": "ARM10019631",
+    "invoice_date": "February 02, 2026",
+    "invoice_amount": "48,570.54",
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": "2,900.07",
+    "po_number": [
+      "M413194114"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "Solar Turbines",
+    "vendor_address": "JPMORGAN CHASE BANK, One Chase Manhattan Plaza, New York, NY 10081 USA, P.O.BOX 301087, DALLAS, TX 75303-1087",
+    "po_line_items": null,
+    "vat_amount": null,
+    "gl_account": null,
+    "bank_name": null,
+    "account_holder_name": null,
+    "banking_account_number": null,
+    "remit_to_address": null,
+    "bill_to_address": null,
+    "transaction_type": "debit"
+  },
+  "filename": "SAPS4_5100447012_US28_PFNAUS_2026_999884374.pdf",
+  "raw_response": {
+    "invoice_number": "ARM10019631",
+    "invoice_date": "February 02, 2026",
+    "invoice_amount": "48,570.54",
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": "2,900.07",
+    "po_number": [
+      "M413194114"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "Solar Turbines",
+    "vendor_address": "JPMORGAN CHASE BANK, One Chase Manhattan Plaza, New York, NY 10081 USA, P.O.BOX 301087, DALLAS, TX 75303-1087",
+    "po_line_items": null
+  }
+}

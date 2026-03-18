@@ -1,0 +1,59 @@
+{
+  "invoice_data": {
+    "invoice_number": "INVINC550020095",
+    "invoice_date": "2/6/2026",
+    "invoice_amount": null,
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": "574.16",
+    "po_number": [
+      "M413528547"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "Peak Technologies, Inc.",
+    "vendor_address": "8458 Solutions Center, Chicago, IL 60677-8002, United States",
+    "po_line_items": [
+      {
+        "description": "96078 IDT-4-6-12 4IN X 6 IN DIRECT THERMAL LABEL, ALL-TEMP PERMANENT ADHESIVE, NOT PERFORATED, 3 IN CORE, 12 IN O.D., 2900 LABELS PER ROL L, 2 ROLLS PER CASE, PRICED PER ROLL, MUST BUY IN INCREMENTS OF 2",
+        "quantity": 108.0,
+        "net_price": 64.44
+      }
+    ],
+    "vat_amount": null,
+    "gl_account": null,
+    "bank_name": null,
+    "account_holder_name": null,
+    "banking_account_number": null,
+    "remit_to_address": null,
+    "bill_to_address": null,
+    "transaction_type": "debit"
+  },
+  "filename": "SAPS4_5100159026_US29_PFNAUS_2026_999884877.pdf",
+  "raw_response": {
+    "invoice_number": "INVINC550020095",
+    "invoice_date": "2/6/2026",
+    "invoice_amount": "../../../../7533.68",
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": "574.16",
+    "po_number": [
+      "M413528547"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "Peak Technologies, Inc.",
+    "vendor_address": "8458 Solutions Center, Chicago, IL 60677-8002, United States",
+    "po_line_items": [
+      {
+        "description": "96078 IDT-4-6-12 4IN X 6 IN DIRECT THERMAL LABEL, ALL-TEMP PERMANENT ADHESIVE, NOT PERFORATED, 3 IN CORE, 12 IN O.D., 2900 LABELS PER ROL L, 2 ROLLS PER CASE, PRICED PER ROLL, MUST BUY IN INCREMENTS OF 2",
+        "quantity": 108.0,
+        "net_price": 64.44
+      }
+    ]
+  }
+}

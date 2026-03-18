@@ -1,0 +1,61 @@
+{
+  "invoice_data": {
+    "invoice_number": "88640278",
+    "invoice_date": "04-FEB-26",
+    "invoice_amount": "368.55",
+    "invoice_currency": [
+      "CAD"
+    ],
+    "tax_amount": "17.55",
+    "po_number": [
+      "6052224",
+      "4505093396"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": "0.00",
+    "cost_center": null,
+    "vendor_name": "Mouser Electronics, Inc.",
+    "vendor_address": "1000 North Main Street, Mansfield, TX 76063, USA",
+    "po_line_items": [
+      {
+        "description": "Phoenix Contact 3 Pos 7.62mm pitch P / Pluggable Terminal Bocks",
+        "quantity": 27.0,
+        "net_price": 351.0
+      }
+    ],
+    "vat_amount": null,
+    "gl_account": null,
+    "bank_name": null,
+    "account_holder_name": null,
+    "banking_account_number": null,
+    "remit_to_address": null,
+    "bill_to_address": null,
+    "transaction_type": "debit"
+  },
+  "filename": "SAPS4_5100164014_CA02_PBNACA_2026_328615046.pdf",
+  "raw_response": {
+    "invoice_number": "88640278",
+    "invoice_date": "04-FEB-26",
+    "invoice_amount": "368.55",
+    "invoice_currency": [
+      "CAD"
+    ],
+    "tax_amount": "17.55",
+    "po_number": [
+      "6052224",
+      "4505093396"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": "0.00",
+    "cost_center": null,
+    "vendor_name": "Mouser Electronics, Inc.",
+    "vendor_address": "1000 North Main Street, Mansfield, TX 76063, USA",
+    "po_line_items": [
+      {
+        "description": "Phoenix Contact 3 Pos 7.62mm pitch P / Pluggable Terminal Bocks",
+        "quantity": 27.0,
+        "net_price": 351.0
+      }
+    ]
+  }
+}

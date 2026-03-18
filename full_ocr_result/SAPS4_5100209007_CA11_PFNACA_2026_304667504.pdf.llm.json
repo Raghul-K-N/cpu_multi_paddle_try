@@ -1,0 +1,79 @@
+{
+  "invoice_data": {
+    "invoice_number": "9805661171",
+    "invoice_date": "Thursday 12 Feb. 2026 7:00 a.m. GMT-05:00",
+    "invoice_amount": "120.28",
+    "invoice_currency": [
+      "CAD"
+    ],
+    "tax_amount": "5.73",
+    "po_number": [
+      "M413554235"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "ACKLANDS-GRAINGER INC.",
+    "vendor_address": "PO BOX 2970, WINNIPEG, MB R3C 4B5, CA T1H 5K8, Canada",
+    "po_line_items": [
+      {
+        "description": "SHXCAL28125-3.8-25 / RIVET NUT.M8X1.25 THREAD SIZE.PK25",
+        "quantity": 1.0,
+        "net_price": 12.17
+      },
+      {
+        "description": "SHXRNHT-M4 / RNUT HAND TOOL 4MM",
+        "quantity": 1.0,
+        "net_price": 56.43
+      },
+      {
+        "description": "SHXRNHT2520 / RIVET NUT HAND TOOL,MANUAL",
+        "quantity": 1.0,
+        "net_price": 45.95
+      }
+    ],
+    "vat_amount": null,
+    "gl_account": null,
+    "bank_name": null,
+    "account_holder_name": null,
+    "banking_account_number": null,
+    "remit_to_address": null,
+    "bill_to_address": null,
+    "transaction_type": "debit"
+  },
+  "filename": "SAPS4_5100209007_CA11_PFNACA_2026_304667504.pdf",
+  "raw_response": {
+    "invoice_number": "9805661171",
+    "invoice_date": "Thursday 12 Feb. 2026 7:00 a.m. GMT-05:00",
+    "invoice_amount": "120.28",
+    "invoice_currency": [
+      "CAD"
+    ],
+    "tax_amount": "5.73",
+    "po_number": [
+      "M413554235"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "ACKLANDS-GRAINGER INC.",
+    "vendor_address": "PO BOX 2970, WINNIPEG, MB R3C 4B5, CA T1H 5K8, Canada",
+    "po_line_items": [
+      {
+        "description": "SHXCAL28125-3.8-25 / RIVET NUT.M8X1.25 THREAD SIZE.PK25",
+        "quantity": 1.0,
+        "net_price": 12.17
+      },
+      {
+        "description": "SHXRNHT-M4 / RNUT HAND TOOL 4MM",
+        "quantity": 1.0,
+        "net_price": 56.43
+      },
+      {
+        "description": "SHXRNHT2520 / RIVET NUT HAND TOOL,MANUAL",
+        "quantity": 1.0,
+        "net_price": 45.95
+      }
+    ]
+  }
+}

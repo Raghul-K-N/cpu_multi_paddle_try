@@ -1,0 +1,59 @@
+{
+  "invoice_data": {
+    "invoice_number": "23P164825",
+    "invoice_date": "10/3/2025",
+    "invoice_amount": "-70.50",
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": "-5.96",
+    "po_number": [
+      "23409296"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "Nextran Truck Center - Denver (4347D)",
+    "vendor_address": "7250 E 56th Ave, Commerce City, CO 80022, 388-277-1208",
+    "po_line_items": [
+      {
+        "description": "BATTERY CORE",
+        "quantity": 1.0,
+        "net_price": 32.27
+      }
+    ],
+    "vat_amount": null,
+    "gl_account": null,
+    "bank_name": null,
+    "account_holder_name": null,
+    "banking_account_number": null,
+    "remit_to_address": null,
+    "bill_to_address": null,
+    "transaction_type": "credit"
+  },
+  "filename": "SAPS4_5100801501_US30_PFNAUS_2026_999935981.pdf",
+  "raw_response": {
+    "invoice_number": "23P164825",
+    "invoice_date": "10/3/2025",
+    "invoice_amount": "-70.50",
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": "-5.96",
+    "po_number": [
+      "23409296"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "Nextran Truck Center - Denver (4347D)",
+    "vendor_address": "7250 E 56th Ave, Commerce City, CO 80022, 388-277-1208",
+    "po_line_items": [
+      {
+        "description": "BATTERY CORE",
+        "quantity": 1.0,
+        "net_price": 32.27
+      }
+    ]
+  }
+}

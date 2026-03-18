@@ -1,0 +1,75 @@
+{
+  "invoice_data": {
+    "invoice_number": "5019258",
+    "invoice_date": "01/01/2026",
+    "invoice_amount": "231.00",
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": "0.00",
+    "po_number": null,
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "4C Print Solutions, LLC",
+    "vendor_address": "19027 S Jodi Rd Ste B, Mokena, IL 60448 US",
+    "po_line_items": [
+      {
+        "description": "P:PEPSICO QUARTERLY SERVICE",
+        "quantity": 1.0,
+        "net_price": 0.0
+      },
+      {
+        "description": "P:SERVICE RATE KM 4051i (B/W DESKTOP)",
+        "quantity": 3.0,
+        "net_price": 77.0
+      },
+      {
+        "description": "P:PEPSICO SERVICE & SUPPLY ORDERING",
+        "quantity": 1.0,
+        "net_price": 0.0
+      }
+    ],
+    "vat_amount": null,
+    "gl_account": null,
+    "bank_name": null,
+    "account_holder_name": null,
+    "banking_account_number": null,
+    "remit_to_address": null,
+    "bill_to_address": null,
+    "transaction_type": "debit"
+  },
+  "filename": "SAPS4_5100032565_US29_PFNAUS_2026_999935166.pdf",
+  "raw_response": {
+    "invoice_number": "5019258",
+    "invoice_date": "01/01/2026",
+    "invoice_amount": "231.00",
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": "0.00",
+    "po_number": null,
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "4C Print Solutions, LLC",
+    "vendor_address": "19027 S Jodi Rd Ste B, Mokena, IL 60448 US",
+    "po_line_items": [
+      {
+        "description": "P:PEPSICO QUARTERLY SERVICE",
+        "quantity": 1.0,
+        "net_price": 0.0
+      },
+      {
+        "description": "P:SERVICE RATE KM 4051i (B/W DESKTOP)",
+        "quantity": 3.0,
+        "net_price": 77.0
+      },
+      {
+        "description": "P:PEPSICO SERVICE & SUPPLY ORDERING",
+        "quantity": 1.0,
+        "net_price": 0.0
+      }
+    ]
+  }
+}

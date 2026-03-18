@@ -1,0 +1,59 @@
+{
+  "invoice_data": {
+    "invoice_number": "50598",
+    "invoice_date": "Sunday 8 Feb. 2026 12:00 p.m. GMT-07:00",
+    "invoice_amount": "372.11",
+    "invoice_currency": [
+      "CAD"
+    ],
+    "tax_amount": "17.72",
+    "po_number": [
+      "M413551332"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "DBS ENVIRONMENTAL",
+    "vendor_address": "1430-33RD STREET NORTH, LETHBRIDGE, AB, T1H 5H3, Canada",
+    "po_line_items": [
+      {
+        "description": "Not Available / PICK UP AND DROP OEE PER MANIFEST DBS002742",
+        "quantity": 354.39,
+        "net_price": 1.0
+      }
+    ],
+    "vat_amount": null,
+    "gl_account": null,
+    "bank_name": null,
+    "account_holder_name": null,
+    "banking_account_number": null,
+    "remit_to_address": null,
+    "bill_to_address": null,
+    "transaction_type": "debit"
+  },
+  "filename": "SAPS4_5101591000_CA11_PFNACA_2026_304654730.pdf",
+  "raw_response": {
+    "invoice_number": "50598",
+    "invoice_date": "Sunday 8 Feb. 2026 12:00 p.m. GMT-07:00",
+    "invoice_amount": "372.11",
+    "invoice_currency": [
+      "CAD"
+    ],
+    "tax_amount": "17.72",
+    "po_number": [
+      "M413551332"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "DBS ENVIRONMENTAL",
+    "vendor_address": "1430-33RD STREET NORTH, LETHBRIDGE, AB, T1H 5H3, Canada",
+    "po_line_items": [
+      {
+        "description": "Not Available / PICK UP AND DROP OEE PER MANIFEST DBS002742",
+        "quantity": 354.39,
+        "net_price": 1.0
+      }
+    ]
+  }
+}

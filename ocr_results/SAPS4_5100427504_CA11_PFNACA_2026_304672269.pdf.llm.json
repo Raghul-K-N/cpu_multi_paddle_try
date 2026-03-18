@@ -1,0 +1,75 @@
+{
+  "invoice_data": {
+    "invoice_number": "I136-0085059",
+    "invoice_date": "02/02/2026",
+    "invoice_amount": null,
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": "9.00",
+    "po_number": [
+      "404055",
+      "4501416551"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": [
+      "000"
+    ],
+    "vendor_name": "Paul's Hauling Ltd.",
+    "vendor_address": "272 Oak Point Highway, Winnipeg MB R2R 1V1",
+    "po_line_items": [
+      {
+        "description": "TT01 - Day Cab Wash",
+        "quantity": 1.0,
+        "net_price": 50.0
+      },
+      {
+        "description": "TT10 - Labour - Salt / Mud",
+        "quantity": 1.0,
+        "net_price": 25.0
+      }
+    ],
+    "vat_amount": null,
+    "gl_account": null,
+    "bank_name": null,
+    "account_holder_name": null,
+    "banking_account_number": null,
+    "remit_to_address": null,
+    "bill_to_address": null,
+    "transaction_type": "debit"
+  },
+  "filename": "SAPS4_5100427504_CA11_PFNACA_2026_304672269.pdf",
+  "raw_response": {
+    "invoice_number": "I136-0085059",
+    "invoice_date": "02/02/2026",
+    "invoice_amount": "../../../84.00",
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": "9.00",
+    "po_number": [
+      "404055",
+      "4501416551"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": [
+      "000"
+    ],
+    "vendor_name": "Paul's Hauling Ltd.",
+    "vendor_address": "272 Oak Point Highway, Winnipeg MB R2R 1V1",
+    "po_line_items": [
+      {
+        "description": "TT01 - Day Cab Wash",
+        "quantity": 1.0,
+        "net_price": 50.0
+      },
+      {
+        "description": "TT10 - Labour - Salt / Mud",
+        "quantity": 1.0,
+        "net_price": 25.0
+      }
+    ]
+  }
+}

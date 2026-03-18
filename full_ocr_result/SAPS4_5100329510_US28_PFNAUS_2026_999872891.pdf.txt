@@ -1,0 +1,312 @@
+==================================<Page 1 - START>================================
+Standard Invoice
+                                                                                                                     Burns &
+Original tax invoice has been submitted electronically. This is a
+human readable representation (copy) of the original tax invoice.
+                                                                                                                     178951-15
+                                                                 Invoice Number
+                                                                 (Supplier Reference No.)
+                                                                                                Friday 13 Feb 2026 11:38 AM GMT-06:00
+                                                                 Invoice Date
+                                                                 Amount Due                                      $87,000.00 USD
+    Contact Information
+                                                                           Shipping Information
+    Supplier
+                                  Customer
+                                                                           Ship From                     Ship To
+    Burns & McDonnell Engineering      Frito-Lay, Inc.                                                            US-PL-DENVER-CO-FLI
+    Company Inc                                                            Burns & McDonnell Engineering
+                                  c/o PEPSICO NASS                          Company Inc                   tyler.russell@pepsico.com
+    9400 Ward Pkwy                 ACCOUNTS PAYABLES                                                    US-PL-DENVER-CO-FLI
+                                                                           9400 Ward Pkwy
+    Kansas City                    PO BOX 1800                                                           11645 E 37TH AVE
+                                                                           Kansas City
+    MO                          Winston Salem
+                                                                           MO                          DENVER
+    64114-3319                    NC
+                                                                           64114-3319
+     United States                   27105
+                                                                           United States                   80239-3304
+                                  United States
+                                                                                                       United States
+                                  Address ID: US28
+                                                                                                       Address ID: 2094
+                                                                                                       Phone: 3731624
+  Line Items                                               PO No. : M413120579                                       PO Date : 4 Feb 2026
+  Line No.    PO Line No.          Type    Supplier Part No. /             Customer Part No.        Quantity            Unit Price         Subtotal
+                                       Description                                       (UUOM)
+   1
+             13                Material Not Available / L13/Vend WHSE                         20,000 / (EA)        $1.00 USD   $20,000.00 USD
+                                       Installation Labor
+                                                                                                  Line Item Total : $20,000.00 USD
+  Line No.   PO Line No.                                                                                                   Subtotal
+                                Type    Supplier Part No. /             Customer Part No.        Quantity            Unit Price
+                                       Description
+                                                                                       (UOM)
+   2        14                Material Not Available / L14/Vend WHSE                         67,000 / (EA)        $1.00 USD   $67,000.00 USD
+                                       Labor Pass
+                                       Through
+                                                                                                  Line Item Total : $67,000.00 USD
+                                                                              Amount Summary
+                                                                               Line item subtotal                        $87,000.00 USD
+                                                                              Gross amount                          $87,000.00 USD
+                                                                                                                   $87,000.00 USD
+                                                                               Net amount
+                                                                                                                       $0.00 USD
+                                                                              Total tax amount
+                                                                              Total withholding tax amount
+                                                                                                                    $87,000.00 USD
+                                                                               Amount Due
+     Additional Information
+     Payment Method
+     ACH
+     Billing Information                                                         Remittance Information
+    Bill From                      Bill To
+                                                                           Remit To
+    Burns & McDonnell Engineering      Frito-Lay, Inc.                               Burns & McDonnell Engineering
+    Company Inc                   c/o PEPSICO NASS                          Company Inc
+    9400 Ward Pkwy                ACCOUNTS PAYABLES                       PO Box 411883
+    Kansas City                    PO BOX 1800                               Kansas City
+    MO
+                                 Winston Salem                              MO
+    64114-3319
+                                 NC                                      64141-1883
+    United States
+                                 27105                                    United States
+                                 United States                               Address ID: US1_45520
+                                 Address ID: US28
+                                                                          Tax ID of Supplier
+                                                                           430956142
+ Payment Terms
+  Net payment Terms (Days) :
+  60
+==================================<Page 1 - END>================================
+==================================<Page 2 - START>================================
+Appendix
+Line No.
+             PO Line No. Type                           Supplier Part No. / Description
+1          13
+                        Material                         Not Available / L13/Vend WHSE Installation Labor
+Additional Details:
+Classification Domain : custom
+Classification Code : CAP676014
+Supplier Part ID : Not Available
+Line No.
+             PO Line No. Type                           Supplier Part No. / Description
+2          14
+                        Material                         Not Available / L14/Vend WHSE Labor Pass
+                                                        Through
+Additional Details:
+Classification Domain : custom
+Classification Code : CAP676014
+Supplier Part ID : Not Available
+PDF generated on Friday 13 Feb 2026 9:39 AM GMT-08:00
+==================================<Page 2 - END>================================
+==================================<Page 3 - START>================================
+  Standard Invoice
+                                                                                                                      Burns &
+  Original tax invoice has been submitted electronically. This is a
+  human readable representation (copy) of the original tax invoice.
+                                                                                                                       178951-15
+                                                                   Invoice Number
+                                                                   (Supplier Reference No.)
+                                                                                                 Friday 13 Feb 2026 11:38 AM GMT-06:00
+                                                                   Invoice Date
+                                                                   Amount Due                                      $87,000.00 USD
+      Contact Information
+                                                                            Shipping Information
+      Supplier
+                                   Customer
+                                                                            Ship From                     Ship To
+      Burns & McDonnell Engineering      Frito-Lay, Inc.                                                            US-PL-DENVER-CO-FLI
+      Company Inc                                                            Burns & McDonnell Engineering
+                                   c/o PEPSICO NASS                          Company Inc                   tyler.russell@pepsico.com
+      9400 Ward Pkwy                 ACCOUNTS PAYABLES                                                    US-PL-DENVER-CO-FLI
+                                                                            9400 Ward Pkwy
+      Kansas City                    PO BOX 1800                                                           11645 E 37TH AVE
+                                                                            Kansas City
+      MO                          Winston Salem
+                                                                            MO                          DENVER
+      64114-3319                    NC
+                                                                            64114-3319
+      United States                   27105
+                                                                            United States                   80239-3304
+                                   United States
+                                                                                                         United States
+                                    Address ID: US28
+                                                                                                         Address ID: 2094
+                                                                                                         Phone: 3731624
+    Line Items                                               PO No. : M413120579                                       PO Date : 4 Feb 2026
+    Line No.    PO Line No.          Type    Supplier Part No. /             Customer Part No.        Quantity            Unit Price         Subtotal
+                                         Description                                       (UUOM)
+    1
+              13                Material Not Available / L13/Vend WHSE                         20,000 / (EA)        $1.00 USD   $20,000.00 USD
+                                         Installation Labor
+                                                                                                   Line Item Total : $20,000.00 USD
+    Line No.   PO Line No.                                                                                                   Subtotal
+                                 Type    Supplier Part No. /             Customer Part No.        Quantity            Unit Price
+                                         Description
+                                                                                        (UOM)
+    2        14                Material Not Available / L14/Vend WHSE                         67,000 / (EA)        $1.00 USD   $67,000.00 USD
+                                         Labor Pass
+                                         Through
+                                                                                                   Line Item Total : $67,000.00 USD
+                                                                                Amount Summary
+                                                                                Line item subtotal                        $87,000.00 USD
+                                                                                Gross amount                          $87,000.00 USD
+                                                                                                                     $87,000.00 USD
+                                                                                Net amount
+                                                                                                                         $0.00 USD
+                                                                                Total tax amount
+                                                                                Total withholding tax amount
+                                                                                                                     $87,000.00 USD
+                                                                                Amount Due
+      Additional Information
+      Payment Method
+      ACH
+      Billing Information                                                         Remittance Information
+      Bill From                      Bill To
+                                                                            Remit To
+      Burns & McDonnell Engineering      Frito-Lay, Inc.                               Burns & McDonnell Engineering
+      Company Inc                   c/o PEPSICO NASS                          Company Inc
+      9400 Ward Pkwy                ACCOUNTS PAYABLES                       PO Box 411883
+      Kansas City                    PO BOX 1800                               Kansas City
+      MO
+                                   Winston Salem                              MO
+      64114-3319
+                                   NC                                      64141-1883
+      United States
+                                   27105                                    United States
+                                  United States                               Address ID: US1_45520
+                                   Address ID: US28
+                                                                            Tax ID of Supplier
+                                                                            430956142
+   Payment Terms
+    Net payment Terms (Days) :
+    60
+==================================<Page 3 - END>================================
+==================================<Page 4 - START>================================
+Appendix
+Line No.
+             PO Line No. Type                           Supplier Part No. / Description
+1          13
+                        Material                         Not Available / L13/Vend WHSE Installation Labor
+Additional Details:
+Classification Domain : custom
+Classification Code : CAP676014
+Supplier Part ID : Not Available
+Line No.
+             PO Line No. Type                           Supplier Part No. / Description
+2          14
+                        Material                         Not Available / L14/Vend WHSE Labor Pass
+                                                        Through
+Additional Details:
+Classification Domain : custom
+Classification Code : CAP676014
+Supplier Part ID : Not Available
+PDF generated on Friday 13 Feb 2026 9:39 AM GMT-08:00
+==================================<Page 4 - END>================================
+==================================<Page 5 - START>================================
+  Standard Invoice
+                                                                                                                      Burns &
+  Original tax invoice has been submitted electronically. This is a
+  human readable representation (copy) of the original tax invoice.
+                                                                                                                       178951-15
+                                                                   Invoice Number
+                                                                   (Supplier Reference No.)
+                                                                                                 Friday 13 Feb 2026 11:38 AM GMT-06:00
+                                                                   Invoice Date
+                                                                   Amount Due                                      $87,000.00 USD
+      Contact Information
+                                                                            Shipping Information
+      Supplier
+                                   Customer
+                                                                            Ship From                     Ship To
+      Burns & McDonnell Engineering      Frito-Lay, Inc.                                                            US-PL-DENVER-CO-FLI
+      Company Inc                                                            Burns & McDonnell Engineering
+                                   c/o PEPSICO NASS                          Company Inc                   tyler.russell@pepsico.com
+      9400 Ward Pkwy                 ACCOUNTS PAYABLES                                                    US-PL-DENVER-CO-FLI
+                                                                            9400 Ward Pkwy
+      Kansas City                    PO BOX 1800                                                           11645 E 37TH AVE
+                                                                            Kansas City
+      MO                          Winston Salem
+                                                                            MO                          DENVER
+      64114-3319                    NC
+                                                                            64114-3319
+      United States                   27105
+                                                                            United States                   80239-3304
+                                   United States
+                                                                                                         United States
+                                    Address ID: US28
+                                                                                                         Address ID: 2094
+                                                                                                         Phone: 3731624
+    Line Items                                               PO No. : M413120579                                       PO Date : 4 Feb 2026
+    Line No.    PO Line No.          Type    Supplier Part No. /             Customer Part No.        Quantity            Unit Price         Subtotal
+                                         Description                                       (UUOM)
+    1
+              13                Material Not Available / L13/Vend WHSE                         20,000 / (EA)        $1.00 USD   $20,000.00 USD
+                                         Installation Labor
+                                                                                                   Line Item Total : $20,000.00 USD
+    Line No.   PO Line No.                                                                                                   Subtotal
+                                 Type    Supplier Part No. /             Customer Part No.        Quantity            Unit Price
+                                         Description
+                                                                                        (UOM)
+    2        14                Material Not Available / L14/Vend WHSE                         67,000 / (EA)        $1.00 USD   $67,000.00 USD
+                                         Labor Pass
+                                         Through
+                                                                                                   Line Item Total : $67,000.00 USD
+                                                                                Amount Summary
+                                                                                Line item subtotal                        $87,000.00 USD
+                                                                                Gross amount                          $87,000.00 USD
+                                                                                                                     $87,000.00 USD
+                                                                                Net amount
+                                                                                                                         $0.00 USD
+                                                                                Total tax amount
+                                                                                Total withholding tax amount
+                                                                                                                     $87,000.00 USD
+                                                                                Amount Due
+      Additional Information
+      Payment Method
+      ACH
+      Billing Information                                                         Remittance Information
+      Bill From                      Bill To
+                                                                            Remit To
+      Burns & McDonnell Engineering      Frito-Lay, Inc.                               Burns & McDonnell Engineering
+      Company Inc                   c/o PEPSICO NASS                          Company Inc
+      9400 Ward Pkwy                ACCOUNTS PAYABLES                       PO Box 411883
+      Kansas City                    PO BOX 1800                               Kansas City
+      MO
+                                   Winston Salem                              MO
+      64114-3319
+                                   NC                                      64141-1883
+      United States
+                                   27105                                    United States
+                                  United States                               Address ID: US1_45520
+                                   Address ID: US28
+                                                                            Tax ID of Supplier
+                                                                            430956142
+   Payment Terms
+    Net payment Terms (Days) :
+    60
+==================================<Page 5 - END>================================
+==================================<Page 6 - START>================================
+Appendix
+Line No.
+             PO Line No. Type                           Supplier Part No. / Description
+1          13
+                        Material                         Not Available / L13/Vend WHSE Installation Labor
+Additional Details:
+Classification Domain : custom
+Classification Code : CAP676014
+Supplier Part ID : Not Available
+Line No.
+             PO Line No. Type                           Supplier Part No. / Description
+2          14
+                        Material                         Not Available / L14/Vend WHSE Labor Pass
+                                                        Through
+Additional Details:
+Classification Domain : custom
+Classification Code : CAP676014
+Supplier Part ID : Not Available
+PDF generated on Friday 13 Feb 2026 9:39 AM GMT-08:00
+==================================<Page 6 - END>================================

@@ -1,0 +1,59 @@
+{
+  "invoice_data": {
+    "invoice_number": "872176862",
+    "invoice_date": "02/11/2026",
+    "invoice_amount": "126.63",
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": "7.73",
+    "po_number": [
+      "M413448695"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "GRAINGER",
+    "vendor_address": "1721 6TH ST. SW, CANTON, OH 44706-1203",
+    "po_line_items": [
+      {
+        "description": "K01-9775338S PAPER ROLL,165 FT. LX2-1/4 CUST PART # SPOTBUY NA SPOTBUY MANUFACTURER # 70803 Delivery #6702067390 Date Shipped:02/11/2026 Carrier: FDX GROUNDNo:of Pkgs:1 Wt: 9.000 Trk #:499451065212 SHIPPED FROM: DC MINOOKA 005 701 GRAINGER WAY,MINOOKA,IL 60447-9998",
+        "quantity": 10.0,
+        "net_price": 118.9
+      }
+    ],
+    "vat_amount": null,
+    "gl_account": null,
+    "bank_name": null,
+    "account_holder_name": null,
+    "banking_account_number": null,
+    "remit_to_address": null,
+    "bill_to_address": null,
+    "transaction_type": "debit"
+  },
+  "filename": "SAPS4_5100154044_US28_PFNAUS_2026_999934470.pdf",
+  "raw_response": {
+    "invoice_number": "872176862",
+    "invoice_date": "02/11/2026",
+    "invoice_amount": "126.63",
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": "7.73",
+    "po_number": [
+      "M413448695"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "GRAINGER",
+    "vendor_address": "1721 6TH ST. SW, CANTON, OH 44706-1203",
+    "po_line_items": [
+      {
+        "description": "K01-9775338S PAPER ROLL,165 FT. LX2-1/4 CUST PART # SPOTBUY NA SPOTBUY MANUFACTURER # 70803 Delivery #6702067390 Date Shipped:02/11/2026 Carrier: FDX GROUNDNo:of Pkgs:1 Wt: 9.000 Trk #:499451065212 SHIPPED FROM: DC MINOOKA 005 701 GRAINGER WAY,MINOOKA,IL 60447-9998",
+        "quantity": 10.0,
+        "net_price": 118.9
+      }
+    ]
+  }
+}

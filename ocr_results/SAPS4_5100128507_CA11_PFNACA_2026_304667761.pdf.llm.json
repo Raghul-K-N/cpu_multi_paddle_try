@@ -1,0 +1,43 @@
+{
+  "invoice_data": {
+    "invoice_number": "PG-5C-5577",
+    "invoice_date": "DEC15/25",
+    "invoice_amount": null,
+    "invoice_currency": [
+      "CAD"
+    ],
+    "tax_amount": null,
+    "po_number": null,
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "CANADA INC.",
+    "vendor_address": "1300 - 33 Bloor St. East, Toronto, ON M4W 3H1",
+    "po_line_items": null,
+    "vat_amount": null,
+    "gl_account": null,
+    "bank_name": null,
+    "account_holder_name": null,
+    "banking_account_number": null,
+    "remit_to_address": null,
+    "bill_to_address": null,
+    "transaction_type": "debit"
+  },
+  "filename": "SAPS4_5100128507_CA11_PFNACA_2026_304667761.pdf",
+  "raw_response": {
+    "invoice_number": "PG-5C-5577",
+    "invoice_date": "DEC15/25",
+    "invoice_amount": null,
+    "invoice_currency": [
+      "CAD"
+    ],
+    "tax_amount": null,
+    "po_number": null,
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "CANADA INC.",
+    "vendor_address": "1300 - 33 Bloor St. East, Toronto, ON M4W 3H1",
+    "po_line_items": null
+  }
+}

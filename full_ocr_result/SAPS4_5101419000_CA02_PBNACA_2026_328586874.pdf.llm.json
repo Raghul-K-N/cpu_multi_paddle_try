@@ -1,0 +1,109 @@
+{
+  "invoice_data": {
+    "invoice_number": "77585",
+    "invoice_date": "02/03/2026",
+    "invoice_amount": "153.64",
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": "7.32",
+    "po_number": [
+      "M412738552"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "Klean-Rite Ltd.",
+    "vendor_address": "9903 112 Avenue, Grande Prairie AB T8V 1V5",
+    "po_line_items": [
+      {
+        "description": "3x5 Mat Rental, Changed Bi-Weekly, Invoiced Monthly, 1 @ $16.26",
+        "quantity": 1.0,
+        "net_price": 16.26
+      },
+      {
+        "description": "4x6 Mat Rental, Changed Bi-Weekly, Invoiced Monthly, 1 @ $22.76",
+        "quantity": 1.0,
+        "net_price": 22.76
+      },
+      {
+        "description": "4x12 Mat Rental, Changed Bi-Weekly, Invoiced Monthly, 2 @ $41.78",
+        "quantity": 2.0,
+        "net_price": 83.56
+      },
+      {
+        "description": "36' Dust Mops Changed Bi-Weekly, 3 @ $4.25",
+        "quantity": 3.0,
+        "net_price": 12.75
+      },
+      {
+        "description": "Wet Mop Changed Bi-Weekly, 3 @ $5.17",
+        "quantity": 3.0,
+        "net_price": 15.51
+      },
+      {
+        "description": "Environmental Fee, 1 @ 21.1176",
+        "quantity": 1.0,
+        "net_price": 21.12
+      }
+    ],
+    "vat_amount": null,
+    "gl_account": null,
+    "bank_name": null,
+    "account_holder_name": null,
+    "banking_account_number": null,
+    "remit_to_address": null,
+    "bill_to_address": null,
+    "transaction_type": "debit"
+  },
+  "filename": "SAPS4_5101419000_CA02_PBNACA_2026_328586874.pdf",
+  "raw_response": {
+    "invoice_number": "77585",
+    "invoice_date": "02/03/2026",
+    "invoice_amount": "153.64",
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": "7.32",
+    "po_number": [
+      "M412738552"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "Klean-Rite Ltd.",
+    "vendor_address": "9903 112 Avenue, Grande Prairie AB T8V 1V5",
+    "po_line_items": [
+      {
+        "description": "3x5 Mat Rental, Changed Bi-Weekly, Invoiced Monthly, 1 @ $16.26",
+        "quantity": 1.0,
+        "net_price": 16.26
+      },
+      {
+        "description": "4x6 Mat Rental, Changed Bi-Weekly, Invoiced Monthly, 1 @ $22.76",
+        "quantity": 1.0,
+        "net_price": 22.76
+      },
+      {
+        "description": "4x12 Mat Rental, Changed Bi-Weekly, Invoiced Monthly, 2 @ $41.78",
+        "quantity": 2.0,
+        "net_price": 83.56
+      },
+      {
+        "description": "36' Dust Mops Changed Bi-Weekly, 3 @ $4.25",
+        "quantity": 3.0,
+        "net_price": 12.75
+      },
+      {
+        "description": "Wet Mop Changed Bi-Weekly, 3 @ $5.17",
+        "quantity": 3.0,
+        "net_price": 15.51
+      },
+      {
+        "description": "Environmental Fee, 1 @ 21.1176",
+        "quantity": 1.0,
+        "net_price": 21.12
+      }
+    ]
+  }
+}

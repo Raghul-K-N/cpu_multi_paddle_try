@@ -1,0 +1,47 @@
+{
+  "invoice_data": {
+    "invoice_number": "6122500000233",
+    "invoice_date": "Dec 1, 2025",
+    "invoice_amount": "966.15",
+    "invoice_currency": [
+      "CAD"
+    ],
+    "tax_amount": "111.15",
+    "po_number": [
+      "4504017593"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "EDELMAN PR WORLDWIDE CANADA, INC.",
+    "vendor_address": "JP MORGAN CHASE, N.A P.O. BOX 1591, STATION A TORONTO, ON M5W 3N9 CANADA",
+    "po_line_items": null,
+    "vat_amount": null,
+    "gl_account": null,
+    "bank_name": null,
+    "account_holder_name": null,
+    "banking_account_number": null,
+    "remit_to_address": null,
+    "bill_to_address": null,
+    "transaction_type": "debit"
+  },
+  "filename": "SAPS4_5101324502_CA11_PFNACA_2026_304672277.pdf",
+  "raw_response": {
+    "invoice_number": "6122500000233",
+    "invoice_date": "Dec 1, 2025",
+    "invoice_amount": "966.15",
+    "invoice_currency": [
+      "CAD"
+    ],
+    "tax_amount": "111.15",
+    "po_number": [
+      "4504017593"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "EDELMAN PR WORLDWIDE CANADA, INC.",
+    "vendor_address": "JP MORGAN CHASE, N.A P.O. BOX 1591, STATION A TORONTO, ON M5W 3N9 CANADA",
+    "po_line_items": null
+  }
+}

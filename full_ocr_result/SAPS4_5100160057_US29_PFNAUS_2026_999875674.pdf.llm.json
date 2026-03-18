@@ -1,0 +1,47 @@
+{
+  "invoice_data": {
+    "invoice_number": "501712758A",
+    "invoice_date": "Friday 25 Apr 2025 12:00 PM GMT-05:00",
+    "invoice_amount": null,
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": null,
+    "po_number": [
+      "M413087593"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "KONICA MINOLTA BUSINESS SOLUTIONS USA INC",
+    "vendor_address": "ATTN:ITECH PO BOX 650586, DALLAS, TX 75265, RAMSEY, NJ 7446, Address ID: US1_1037563",
+    "po_line_items": null,
+    "vat_amount": null,
+    "gl_account": null,
+    "bank_name": null,
+    "account_holder_name": null,
+    "banking_account_number": null,
+    "remit_to_address": null,
+    "bill_to_address": null,
+    "transaction_type": "debit"
+  },
+  "filename": "SAPS4_5100160057_US29_PFNAUS_2026_999875674.pdf",
+  "raw_response": {
+    "invoice_number": "501712758A",
+    "invoice_date": "Friday 25 Apr 2025 12:00 PM GMT-05:00",
+    "invoice_amount": null,
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": null,
+    "po_number": [
+      "M413087593"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "KONICA MINOLTA BUSINESS SOLUTIONS USA INC",
+    "vendor_address": "ATTN:ITECH PO BOX 650586, DALLAS, TX 75265, RAMSEY, NJ 7446, Address ID: US1_1037563",
+    "po_line_items": null
+  }
+}

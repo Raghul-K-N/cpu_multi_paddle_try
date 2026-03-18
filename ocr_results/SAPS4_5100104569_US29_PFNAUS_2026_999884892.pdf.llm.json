@@ -1,0 +1,95 @@
+{
+  "invoice_data": {
+    "invoice_number": "5404484218",
+    "invoice_date": "05-JUL-25",
+    "invoice_amount": null,
+    "invoice_currency": null,
+    "tax_amount": null,
+    "po_number": [
+      "44877-37226"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "UHAUL",
+    "vendor_address": "PO BOX 52128, PHOENIX AZ 85072-2128",
+    "po_line_items": [
+      {
+        "description": "15 'TRUCK (DC6613W) ODOM OUT: 119789 ODOM IN: 120363",
+        "quantity": 1.0,
+        "net_price": 711.0
+      },
+      {
+        "description": "ENVIRONMENTAL FEE",
+        "quantity": 1.0,
+        "net_price": 5.0
+      },
+      {
+        "description": "VEHICLE",
+        "quantity": 1.0,
+        "net_price": 1.25
+      },
+      {
+        "description": "FUELCHARGES",
+        "quantity": 1.0,
+        "net_price": 31.45
+      },
+      {
+        "description": "TAX",
+        "quantity": 1.0,
+        "net_price": 52.4
+      }
+    ],
+    "vat_amount": null,
+    "gl_account": null,
+    "bank_name": null,
+    "account_holder_name": null,
+    "banking_account_number": null,
+    "remit_to_address": null,
+    "bill_to_address": null,
+    "transaction_type": "debit"
+  },
+  "filename": "SAPS4_5100104569_US29_PFNAUS_2026_999884892.pdf",
+  "raw_response": {
+    "invoice_number": "5404484218",
+    "invoice_date": "05-JUL-25",
+    "invoice_amount": null,
+    "invoice_currency": null,
+    "tax_amount": null,
+    "po_number": [
+      "44877-37226"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "UHAUL",
+    "vendor_address": "PO BOX 52128, PHOENIX AZ 85072-2128",
+    "po_line_items": [
+      {
+        "description": "15 'TRUCK (DC6613W) ODOM OUT: 119789 ODOM IN: 120363",
+        "quantity": 1.0,
+        "net_price": 711.0
+      },
+      {
+        "description": "ENVIRONMENTAL FEE",
+        "quantity": 1.0,
+        "net_price": 5.0
+      },
+      {
+        "description": "VEHICLE",
+        "quantity": 1.0,
+        "net_price": 1.25
+      },
+      {
+        "description": "FUELCHARGES",
+        "quantity": 1.0,
+        "net_price": 31.45
+      },
+      {
+        "description": "TAX",
+        "quantity": 1.0,
+        "net_price": 52.4
+      }
+    ]
+  }
+}

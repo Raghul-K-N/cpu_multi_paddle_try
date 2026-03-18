@@ -1,0 +1,69 @@
+{
+  "invoice_data": {
+    "invoice_number": "72381025",
+    "invoice_date": "Monday 9 Feb. 2026 6:06 a.m. GMT-07:00",
+    "invoice_amount": "42.61",
+    "invoice_currency": [
+      "CAD"
+    ],
+    "tax_amount": "5.55",
+    "po_number": [
+      "M413545160"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "Staples Canada ULC",
+    "vendor_address": "1616 EIFFEL BOUCHERVILLE QC J4B 8N3 Canada, CA-PL-SAINT LAURENT-QC-PBCCAN SAINT-LAURENT QC H4R 1T8 CA",
+    "po_line_items": [
+      {
+        "description": "SAN81803 / NETTOYANT.TABL EAU BLANC.8OZ",
+        "quantity": 4.0,
+        "net_price": 4.72
+      },
+      {
+        "description": "JOLCB993668 / LYSOL DISINF WIPES SPRG WAT",
+        "quantity": 2.0,
+        "net_price": 9.09
+      }
+    ],
+    "vat_amount": null,
+    "gl_account": null,
+    "bank_name": null,
+    "account_holder_name": null,
+    "banking_account_number": null,
+    "remit_to_address": null,
+    "bill_to_address": null,
+    "transaction_type": "debit"
+  },
+  "filename": "SAPS4_5101081012_CA02_PBNACA_2026_328543652.pdf",
+  "raw_response": {
+    "invoice_number": "72381025",
+    "invoice_date": "Monday 9 Feb. 2026 6:06 a.m. GMT-07:00",
+    "invoice_amount": "42.61",
+    "invoice_currency": [
+      "CAD"
+    ],
+    "tax_amount": "5.55",
+    "po_number": [
+      "M413545160"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "Staples Canada ULC",
+    "vendor_address": "1616 EIFFEL BOUCHERVILLE QC J4B 8N3 Canada, CA-PL-SAINT LAURENT-QC-PBCCAN SAINT-LAURENT QC H4R 1T8 CA",
+    "po_line_items": [
+      {
+        "description": "SAN81803 / NETTOYANT.TABL EAU BLANC.8OZ",
+        "quantity": 4.0,
+        "net_price": 4.72
+      },
+      {
+        "description": "JOLCB993668 / LYSOL DISINF WIPES SPRG WAT",
+        "quantity": 2.0,
+        "net_price": 9.09
+      }
+    ]
+  }
+}

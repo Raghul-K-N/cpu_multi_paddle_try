@@ -1,0 +1,260 @@
+==================================<Page 1 - START>================================
+Standard Invoice
+                                                                                                                    GRAINGER
+Original tax invoice has been submitted electronically. This is a
+human readable representation (copy) of the original tax invoice.
+                                                                                                                  980668274726
+                                                                 Invoice Number
+                                                                 (Supplier Reference No.)
+                                                                                              Thursday 12 Feb 2026 3:13 AM GMT-07:00
+                                                                 Invoice Date
+                                                                                                                   $934.49 USD
+                                                                 Amount Due
+    Contact Information
+                                                                          Shipping Information
+    Supplier
+                                 Customer                                                               Ship To
+                                                                          Ship From
+    Grainger                      Rolling Frito-Lay Sales
+                                                                          Grainger                       US-DC-PHOENIX METRO-AZ-
+    100 Grainger Pkwy               c/o PEPSICO NASS                           4465 E. BROADWAY RD           RFLS
+    Lake Forest                    ACCOUNTS PAYABLES                       PHOENIX                      VMIORDER
+    IL
+                                  PO BOX 1800                               AZ                           2300 S 51ST AVE STE 100
+    Winst                        Winston Salem                              85040                         PHOENIX
+    United States                   NC                                      United States                    AZ
+                                 27105                                                                 85043
+                                 United States                                                            United States
+                                                                                                       Phone: (800) 352-4477
+  Line Items
+                                                         PO No. : M413555700                                       PO Date : 12 Feb 2026
+  Line No.    PO Line No.          Type    Supplier Part No. /             Customer Part No.        Quantity            Unit Price         Subtotal
+                                       Description                                       (UOM)
+  1        1                 Material 40P596 / Coated                                    48 / (EA)           $3.47 USD     $166.56 USD
+                                       Gloves,Nylon,L,PR
+  Line No.
+             PO Line No.         Type   Supplier Part No. /             Customer Part No.        Quantity            Unit Price         Subtotal
+                                       Description                                       (UOM)
+  2        2                 Material  40P597 / Coated
+                                                                                      48 / (EA)           $3.47 USD      $166.56 USD
+                                       Gloves.Nylon.XL.PR
+  Line No.   PO Line No.         Type    Supplier Part No. /                                                                     Subtotal
+                                                                 Customer Part No.        Quantity            Unit Price
+                                       Description
+                                                                                      (UOM)
+   3        3                 Material 53JZ89 / Hand Soap,CLR,1,200                         3 / (EA)           $45.23 USD     $135.69 USD
+                                       mL42818,PK2
+  Line No.    PO Line No.         Type    Supplier Part No. /             Customer Part No.        Quantity            Unit Price         Subtotal
+                                      Description                                       (UOM)
+   4                           Material  1FYX7 /                                                           $0.91 USD      $54.60 USD
+             4                                                                        60 / (EA)
+                                       SafetyGlasses,Clear,AntiFog,ScrtchRsstnt
+  Line No.    PO Line No.         Type    Supplier Part No. /             Customer Part No.        Quantity            Unit Price         Subtotal
+                                      Description                                       (UOM)
+  5        5                 Material 40P595 / Coated                                   48 / (EA)           $3.47 USD     $166.56 USD
+                                      Gloves,Nylon,M,PR
+  Line No.   PO Line No.         Type   Supplier Part No. /             Customer Part No.        Quantity            Unit Price         Subtotal
+                                      Description
+                                                                                      (UOM)
+                               Material 40P594 / Coated
+  6        6                                                                        48 / (EA)           $3.47 USD      $166.56 USD
+                                      Gloves,Nylon,S,PR
+                                                                             Amount Summary
+                                                                             Line item subtotal                          $856.53 USD
+                                                                             Gross amount                             $934.49 USD
+                                                                             Net amount                               $934.49 USD
+                                                                             Total tax amount                            $77.96 USD
+                                                                             Total withholding tax amount
+                                                                             Amount Due                              $934.49 USD
+    Additional Information
+   InvoiceSourceDocument
+   PurchaseOrder
+   InvoiceSubmissionMethod
+   cXML
+   Billing Information                                                         Remittance Information
+   Bill To                                                                 Remit To
+   Rolling Frito-Lay Sales                                                      GRAINGER
+   c/o PEPSICO NASS                                                       DEPT. 873486252
+   ACCOUNTS PAYABLES
+                                                                         KANSAS CITY
+   PO BOX 1800
+                                                                         MO
+  Winston Salem
+                                                                         64141-6267
+  NC
+                                                                         United States
+  27105
+                                                                         Address ID: US1_10359
+  United States
+  Address ID: US29                                                         Tax ID of Supplier
+                                                                         36-1150280
+                                                                     Reference Documents
+                                                                     Original Supplier Order #: 1576033673
+==================================<Page 1 - END>================================
+==================================<Page 2 - START>================================
+ Appendix
+ Line No.
+             PO Line No. Type                           Supplier Part No. / Description
+  1          1         Material
+                                                       40P596 / Coated Gloves,Nylon,L,PR
+ Additional Details:
+ Supplier Part ID : 40P596
+ Supplier Part Auxiliary ID : WWG40P596
+ Line No.    PO Line No. Type                           Supplier Part No. / Description
+ 2
+            2         Material                         40P597 / Coated Gloves,Nylon,XL,PR
+ Additional Details:
+ Supplier Part ID : 40P597
+ Supplier Part Auxiliary ID : WWG40P597
+Line No.    PO Line No. Type                           Supplier Part No. / Description
+ 3         3         Material                         53JZ89 / Hand Soap,CLR,1,200 mL42818,PK2
+ Additional Details:
+ Supplier Part ID : 53JZ89
+ Supplier Part Auxiliary ID : WWG53JZ89
+Line No.    PO Line No. Type                           Supplier Part No. / Description
+ 4         4          Material                         1FYX7 / SafetyGlasses,Clear,AntiFog,ScrtchRsstnt
+ Additional Details:
+Supplier Part ID : 1FYX7
+Supplier Part Auxiliary ID : WWG1FYX7
+Line No.    PO Line No. Type                           Supplier Part No. / Description
+ 5         5         Material                         40P595 / Coated Gloves,Nylon,M,PR
+Additional Details:
+Supplier Part ID : 40P595
+Supplier Part Auxiliary ID : WWG40P595
+Line No.    PO Line No. Type                            Supplier Part No. / Description
+6         6         Material                         40P594 / Coated Gloves,Nylon,S,PR
+Additional Details:
+Supplier Part ID : 40P594
+Supplier Part Auxiliary ID : WWG40P594
+PDF generated on Friday 13 Feb 2026 2:37 AM GMT-08:00
+==================================<Page 2 - END>================================
+==================================<Page 3 - START>================================
+  Standard Invoice
+                                                                                                                     GRAINGER
+ Original tax invoice has been submitted electronically. This is a
+ human readable representation (copy) of the original tax invoice.
+                                                                                                                    980668274726
+                                                                  Invoice Number
+                                                                  (Supplier Reference No.)
+                                                                                               Thursday 12 Feb 2026 3:13 AM GMT-07:00
+                                                                  Invoice Date
+                                                                                                                    $934.49 USD
+                                                                  Amount Due
+      Contact Information
+                                                                            Shipping Information
+     Supplier
+                                  Customer                                                               Ship To
+                                                                            Ship From
+     Grainger                      Rolling Frito-Lay Sales
+                                                                            Grainger                       US-DC-PHOENIX METRO-AZ-
+      100 Grainger Pkwy               c/o PEPSICO NASS                           4465 E. BROADWAY RD           RFLS
+      Lake Forest                    ACCOUNTS PAYABLES                       PHOENIX                      VMIORDER
+      IL
+                                   PO BOX 1800                               AZ                           2300 S 51ST AVE STE 100
+      Winst                        Winston Salem                              85040                         PHOENIX
+      United States                   NC                                      United States                    AZ
+                                  27105                                                                 85043
+                                   United States                                                            United States
+                                                                                                        Phone: (800) 352-4477
+    Line Items
+                                                          PO No. : M413555700                                       PO Date : 12 Feb 2026
+    Line No.    PO Line No.          Type    Supplier Part No. /             Customer Part No.        Quantity            Unit Price         Subtotal
+                                        Description                                       (UOM)
+    1        1                 Material 40P596 / Coated                                    48 / (EA)           $3.47 USD     $166.56 USD
+                                        Gloves,Nylon,L,PR
+    Line No.
+              PO Line No.         Type   Supplier Part No. /             Customer Part No.        Quantity            Unit Price         Subtotal
+                                        Description                                       (UOM)
+    2        2                 Material  40P597 / Coated
+                                                                                       48 / (EA)           $3.47 USD      $166.56 USD
+                                        Gloves.Nylon.XL.PR
+    Line No.   PO Line No.         Type    Supplier Part No. /                                                                     Subtotal
+                                                                  Customer Part No.        Quantity            Unit Price
+                                        Description
+                                                                                       (UOM)
+    3        3                 Material 53JZ89 / Hand Soap,CLR,1,200                         3 / (EA)           $45.23 USD     $135.69 USD
+                                        mL42818,PK2
+    Line No.    PO Line No.         Type    Supplier Part No. /             Customer Part No.        Quantity            Unit Price         Subtotal
+                                        Description                                       (UOM)
+    4                           Material  1FYX7 /                                                           $0.91 USD      $54.60 USD
+              4                                                                        60 / (EA)
+                                        SafetyGlasses,Clear,AntiFog,ScrtchRsstnt
+    Line No.    PO Line No.         Type    Supplier Part No. /             Customer Part No.        Quantity            Unit Price         Subtotal
+                                        Description                                       (UOM)
+    5        5                 Material 40P595 / Coated                                   48 / (EA)           $3.47 USD     $166.56 USD
+                                        Gloves,Nylon,M,PR
+    Line No.   PO Line No.         Type   Supplier Part No. /             Customer Part No.        Quantity            Unit Price         Subtotal
+                                       Description
+                                                                                       (UOM)
+                                Material 40P594 / Coated
+    6        6                                                                        48 / (EA)           $3.47 USD      $166.56 USD
+                                        Gloves,Nylon,S,PR
+                                                                              Amount Summary
+                                                                               Line item subtotal                          $856.53 USD
+                                                                               Gross amount                             $934.49 USD
+                                                                               Net amount                               $934.49 USD
+                                                                               Total tax amount                            $77.96 USD
+                                                                               Total withholding tax amount
+                                                                              Amount Due                              $934.49 USD
+     Additional Information
+     InvoiceSourceDocument
+     PurchaseOrder
+    InvoiceSubmissionMethod
+    cXML
+    Billing Information                                                         Remittance Information
+    Bill To                                                                 Remit To
+    Rolling Frito-Lay Sales                                                      GRAINGER
+    c/o PEPSICO NASS                                                       DEPT. 873486252
+    ACCOUNTS PAYABLES
+                                                                          KANSAS CITY
+    PO BOX 1800
+                                                                          MO
+    Winston Salem
+                                                                          64141-6267
+    NC
+                                                                          United States
+    27105
+                                                                          Address ID: US1_10359
+    United States
+    Address ID: US29                                                         Tax ID of Supplier
+                                                                          36-1150280
+                                                                      Reference Documents
+                                                                       Original Supplier Order #: 1576033673
+==================================<Page 3 - END>================================
+==================================<Page 4 - START>================================
+ Appendix
+ Line No.
+             PO Line No. Type                           Supplier Part No. / Description
+  1          1         Material
+                                                       40P596 / Coated Gloves,Nylon,L,PR
+ Additional Details:
+ Supplier Part ID : 40P596
+ Supplier Part Auxiliary ID : WWG40P596
+ Line No.    PO Line No. Type                           Supplier Part No. / Description
+ 2
+            2         Material                         40P597 / Coated Gloves,Nylon,XL,PR
+ Additional Details:
+ Supplier Part ID : 40P597
+ Supplier Part Auxiliary ID : WWG40P597
+Line No.    PO Line No. Type                           Supplier Part No. / Description
+ 3         3         Material                         53JZ89 / Hand Soap,CLR,1,200 mL42818,PK2
+ Additional Details:
+ Supplier Part ID : 53JZ89
+ Supplier Part Auxiliary ID : WWG53JZ89
+Line No.    PO Line No. Type                           Supplier Part No. / Description
+ 4         4          Material                         1FYX7 / SafetyGlasses,Clear,AntiFog,ScrtchRsstnt
+ Additional Details:
+Supplier Part ID : 1FYX7
+Supplier Part Auxiliary ID : WWG1FYX7
+Line No.    PO Line No. Type                           Supplier Part No. / Description
+ 5         5         Material                         40P595 / Coated Gloves,Nylon,M,PR
+Additional Details:
+Supplier Part ID : 40P595
+Supplier Part Auxiliary ID : WWG40P595
+Line No.    PO Line No. Type                            Supplier Part No. / Description
+6         6         Material                         40P594 / Coated Gloves,Nylon,S,PR
+Additional Details:
+Supplier Part ID : 40P594
+Supplier Part Auxiliary ID : WWG40P594
+PDF generated on Friday 13 Feb 2026 2:37 AM GMT-08:00
+==================================<Page 4 - END>================================

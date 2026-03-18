@@ -1,0 +1,55 @@
+{
+  "invoice_data": {
+    "invoice_number": "I-00031455",
+    "invoice_date": "02/10/26",
+    "invoice_amount": null,
+    "invoice_currency": null,
+    "tax_amount": null,
+    "po_number": [
+      "4505130441"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "S&S Machine, Inc.",
+    "vendor_address": "131 Crennel Drive, P.O. Box 228, Madison Heights, VA 24572, USA",
+    "po_line_items": [
+      {
+        "description": "NEW SLIDEGATES",
+        "quantity": 10.0,
+        "net_price": 14875.0
+      }
+    ],
+    "vat_amount": null,
+    "gl_account": null,
+    "bank_name": null,
+    "account_holder_name": null,
+    "banking_account_number": null,
+    "remit_to_address": null,
+    "bill_to_address": null,
+    "transaction_type": "debit"
+  },
+  "filename": "SAPS4_5100377552_US28_PFNAUS_2026_999884277.pdf",
+  "raw_response": {
+    "invoice_number": "I-00031455",
+    "invoice_date": "02/10/26",
+    "invoice_amount": null,
+    "invoice_currency": null,
+    "tax_amount": null,
+    "po_number": [
+      "4505130441"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "S&S Machine, Inc.",
+    "vendor_address": "131 Crennel Drive, P.O. Box 228, Madison Heights, VA 24572, USA",
+    "po_line_items": [
+      {
+        "description": "NEW SLIDEGATES",
+        "quantity": 10.0,
+        "net_price": 14875.0
+      }
+    ]
+  }
+}

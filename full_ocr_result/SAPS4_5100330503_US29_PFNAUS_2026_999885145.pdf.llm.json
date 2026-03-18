@@ -1,0 +1,55 @@
+{
+  "invoice_data": {
+    "invoice_number": "6305",
+    "invoice_date": "1/27/2026",
+    "invoice_amount": null,
+    "invoice_currency": null,
+    "tax_amount": null,
+    "po_number": [
+      "4505133887"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "Essjay Tech Properties, LLC",
+    "vendor_address": "4110 40th Street South, Suite 104, Fargo, ND 58104",
+    "po_line_items": [
+      {
+        "description": "Tenant (Eric Tschumper/Leah Thomas) 01/24/2026 (Saturday) Tenant called regarding interior boiler not working and no heat with cold front causing concern for damage. Cooridnated and scheduled with vendor for weekend emergency visit. Found boiler locked out due to transformer issue, swapped transformer cycled boiler and Returned to original condition. all trip charge materials, labor, tax included",
+        "quantity": 1.0,
+        "net_price": 1153.0
+      }
+    ],
+    "vat_amount": null,
+    "gl_account": null,
+    "bank_name": null,
+    "account_holder_name": null,
+    "banking_account_number": null,
+    "remit_to_address": null,
+    "bill_to_address": null,
+    "transaction_type": "debit"
+  },
+  "filename": "SAPS4_5100330503_US29_PFNAUS_2026_999885145.pdf",
+  "raw_response": {
+    "invoice_number": "6305",
+    "invoice_date": "1/27/2026",
+    "invoice_amount": null,
+    "invoice_currency": null,
+    "tax_amount": null,
+    "po_number": [
+      "4505133887"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "Essjay Tech Properties, LLC",
+    "vendor_address": "4110 40th Street South, Suite 104, Fargo, ND 58104",
+    "po_line_items": [
+      {
+        "description": "Tenant (Eric Tschumper/Leah Thomas) 01/24/2026 (Saturday) Tenant called regarding interior boiler not working and no heat with cold front causing concern for damage. Cooridnated and scheduled with vendor for weekend emergency visit. Found boiler locked out due to transformer issue, swapped transformer cycled boiler and Returned to original condition. all trip charge materials, labor, tax included",
+        "quantity": 1.0,
+        "net_price": 1153.0
+      }
+    ]
+  }
+}

@@ -1,0 +1,426 @@
+==================================<Page 1 - START>================================
+Standard Invoice                                                                                                  GRAINGER
+Original tax invoice has been submitted electronically. This is a
+human readable representation (copy) of the original tax invoice.
+                                                                                                                     9805191393
+                                                                  Invoice Number
+                                                                  (Supplier Reference No.)
+                                                                  Invoice Date                   Thursday 12 Feb. 2026 7:00 a.m. GMT-05:00
+                                                                 Amount Due                                         $216.21 CAD
+    Contact Information                                                        Shipping Information
+    Supplier
+                                  Customer                                  Ship From                     Ship To
+     ACKLANDS-GRAINGER INC.        EDI ONLY PEPSI FOODS ULC                                                CA-PL-TABER-AB-FLC
+                                                                           ACKLANDS-GRAINGER INC.
+                                  (FLC)                                                                  5904 52ND AVENUE
+     PO BOX 2970                                                            11708 - 167 STREET NW
+     WINNIPEG                    TABER PLANT 5904 52 AVE                     EDMONTON                    TABER
+                                                                                                        AB
+     MB                          TABER                                   AB
+                                                                                                        T1G 1W9
+     R3C 4B5                      AB                                      T5M 3Z2
+                                                                                                        Canada
+     CA                          T1G 1K3                                  Canada
+                                  Canada
+                                                          PO No. : M413551283                                      PO Date : 11 Feb. 2026
+   Line Items
+                                                                                                                          Subtotal
+   Line No.                              Supplier Part No. /             Customer Part No.        Quantity            Unit Price
+             PO Line No.          Type
+                                       Description                                        (UOM)
+                                                                                        4 / (PR)           $11.47 CAD      $45.88 CAD
+   10        1                 MaterialANL11571VP080 / CUT-RESIST
+                                        GLVS.NTRLE/HPPE,8,BLK/GY,PR
+                                                                                                      Line Item Total : $45.88 CAD
+   Line No.                              Supplier Part No. /             Customer Part No.        Quantity            Unit Price         Subtotal
+             PO Line No.          Type
+                                        Description                                        (UOM)
+   20       2                 Material ANL11571VP090 / CUT-RSIST                          5 / (PR)           $11.42 CAD      $57.10 CAD
+                                        GLVS,NITRILE,9,BLK/GY.PR
+                                                                                                      Line Item Total : $57.10 CAD
+                                                                                        Quantity                            Subtotal
+   Line No.    PO Line No.          Type    Supplier Part No. /             Customer Part No.                           Unit Price
+                                        Description                                        (UOM)
+   30                          Material EVREN91 / AA                                      10 / (PK)           $2.00 CAD      $20.00 CAD
+              3
+                                        BATTERY,INDUSTRIAL.1.5V
+                                        DC,PK4
+                                                                                                      Line Item Total : $20.00 CAD
+   Line No.    PO Line No.          Type    Supplier Part No. /             Customer Part No.        Quantity            Unit Price         Subtotal
+                                       Description                                        (UOM)
+   40                          MaterialMDX6415 / EARPLUGS                               7 / (PR)            $3.45 CAD      $24.15 CAD
+              4
+                                        DETECTABLE REUSE CORDED
+                                                                                                      Line Item Total : $24.15 CAD
+   Line No.    PO Line No.          Type    Supplier Part No. /             Customer Part No.         Quantity            Unit Price         Subtotal
+                                       Description                                        (UOM)
+                                       PSPS7210ST / SAFETY                                                               $13.88 CAD
+   60        6                 Material                                                  4 / (EA)            $3.47 CAD
+                                       GLASSES,CLEAR,POLYCARBONATE
+                                                                                                      Line Item Total : $13.88 CAD
+   Line No.    PO Line No.          Type    Supplier Part No. /             Customer Part No.         Quantity            Unit Price         Subtotal
+                                       Description                                        (UOM)
+   70       7                 Material  WWG29UU72 /                                     10 / (PR)           $4.49 CAD      $44.90 CAD
+                                       GLOVES.NATURAL
+                                       RUBBER.10-1/2.PR
+                                                                                                      Line Item Total : $44.90 CAD
+      Tax Summary
+      Category               Details                          Base Amount                Rate %          Amount
+      GST
+                            Tax Description : GOODS AND         $205.91 CAD                5%             $10.30 CAD
+                            SERVICES
+      PST                  Tax Description : State/Provincial
+                                                           $205.91 CAD                0%             $0.00 CAD
+                           Tax
+                                                                              Amount Summary
+                                                                              Line item subtotal                           $205.91 CAD
+                                                                               Gross amount                             $216.21 CAD
+                                                                              Net amount                               $216.21 CAD
+                                                                              Total tax amount                            $10.30 CAD
+                                                                              Total withholding tax amount
+                                                                              Amount Due                              $216.21 CAD
+    Additional Information
+    invioceSourceDocument
+    PurchaseOrder
+    Billing Information                                                         Remittance Information
+   Bill To                                                                 Remit To
+                                                                          ACKLANDS-GRAINGER INC.
+   PEPSI FOODS ULC (FLC)
+                                                                          PO BOX 2970
+   2095 MATHESON BLVD E
+                                                                          WINNIPEG
+   MISSISSAUGA
+   ON                                                                   MB
+   L4W 0G2                                                               R3C 4B5
+                                                                          Canada
+   Canada
+   Address ID:                                                             Address ID: CA1_2751
+   CA1_ARIBA_PAYABLES
+==================================<Page 1 - END>================================
+==================================<Page 2 - START>================================
+  Appendix
+ Line No.    PO Line No. Type
+                                                        Supplier Part No. / Description
+  10
+             1         Material
+                                                       ANL11571VP080 / CUT-RESIST GLVS,NTRLE/HPPE,8,BLK/GY,PR
+  Additional Details:
+  Supplier Part ID : ANL11571VP080
+ Line No.
+             PO Line No. Type                            Supplier Part No. / Description
+  20
+            2         Material
+                                                       ANL11571VP090 / CUT-RSIST GLVS,NITRILE,9,BLK/GY,PR
+  Additional Details:
+  Supplier Part ID : ANL11571VP090
+ Line No.    PO Line No. Type                            Supplier Part No. / Description
+ 30
+            3         Material                         EVREN91 / AA BATTERY,INDUSTRIAL,1.5V DC,PK4
+ Additional Details:
+ Supplier Part ID : EVREN91
+Line No.    PO Line No. Type
+                                                       Supplier Part No. / Description
+ 40
+            4         Material
+                                                       MDX6415 / EARPLUGS DETECTABLE REUSE CORDED
+Additional Details:
+ Supplier Part ID : MDX6415
+Line No.    PO Line No. Type
+                                                       Supplier Part No. / Description
+60        6         Material
+                                                       PSPS7210ST / SAFETY GLASSES,CLEAR,POLYCARBONATE
+Additional Details:
+ Supplier Part ID : PSPS7210ST
+Line No.    PO Line No. Type
+                                                       Supplier Part No. / Description
+70
+            7         Material
+                                                       WWG29UU72 / GLOVES,NATURAL RUBBER ,10-1/2,PR
+Additional Details:
+ Supplier Part ID : WWG29UU72
+PDF generated on Friday 13 Feb. 2026 6:14 a.m. GMT-08:00
+==================================<Page 2 - END>================================
+==================================<Page 3 - START>================================
+  Standard Invoice                                                                                                  GRAINGER
+  Original tax invoice has been submitted electronically. This is a
+  human readable representation (copy) of the original tax invoice.
+                                                                                                                       9805191393
+                                                                   Invoice Number
+                                                                   (Supplier Reference No.)
+                                                                   Invoice Date                   Thursday 12 Feb. 2026 7:00 a.m. GMT-05:00
+                                                                   Amount Due                                         $216.21 CAD
+      Contact Information                                                        Shipping Information
+      Supplier
+                                    Customer                                  Ship From                     Ship To
+       ACKLANDS-GRAINGER INC.        EDI ONLY PEPSI FOODS ULC                                                CA-PL-TABER-AB-FLC
+                                                                             ACKLANDS-GRAINGER INC.
+                                    (FLC)                                                                  5904 52ND AVENUE
+       PO BOX 2970                                                            11708 - 167 STREET NW
+       WINNIPEG                    TABER PLANT 5904 52 AVE                     EDMONTON                    TABER
+                                                                                                          AB
+       MB                          TABER                                   AB
+                                                                                                          T1G 1W9
+       R3C 4B5                      AB                                      T5M 3Z2
+                                                                                                          Canada
+       CA                          T1G 1K3                                  Canada
+                                    Canada
+                                                           PO No. : M413551283                                      PO Date : 11 Feb. 2026
+     Line Items
+                                                                                                                            Subtotal
+     Line No.                              Supplier Part No. /             Customer Part No.        Quantity            Unit Price
+               PO Line No.          Type
+                                         Description                                        (UOM)
+                                                                                         4 / (PR)           $11.47 CAD      $45.88 CAD
+     10        1                 MaterialANL11571VP080 / CUT-RESIST
+                                          GLVS.NTRLE/HPPE,8,BLK/GY,PR
+                                                                                                        Line Item Total : $45.88 CAD
+     Line No.                              Supplier Part No. /             Customer Part No.        Quantity            Unit Price         Subtotal
+               PO Line No.          Type
+                                         Description                                        (UOM)
+     20       2                 Material ANL11571VP090 / CUT-RSIST                          5 / (PR)           $11.42 CAD      $57.10 CAD
+                                          GLVS,NITRILE,9,BLK/GY.PR
+                                                                                                        Line Item Total : $57.10 CAD
+                                                                                         Quantity                            Subtotal
+     Line No.    PO Line No.          Type    Supplier Part No. /             Customer Part No.                           Unit Price
+                                         Description                                        (UOM)
+     30                          Material EVREN91 / AA                                      10 / (PK)           $2.00 CAD      $20.00 CAD
+               3
+                                         BATTERY,INDUSTRIAL.1.5V
+                                         DC,PK4
+                                                                                                        Line Item Total : $20.00 CAD
+     Line No.    PO Line No.          Type    Supplier Part No. /             Customer Part No.        Quantity            Unit Price         Subtotal
+                                         Description                                        (UOM)
+     40                          MaterialMDX6415 / EARPLUGS                               7 / (PR)            $3.45 CAD      $24.15 CAD
+               4
+                                         DETECTABLE REUSE CORDED
+                                                                                                       Line Item Total : $24.15 CAD
+     Line No.    PO Line No.          Type    Supplier Part No. /             Customer Part No.         Quantity            Unit Price         Subtotal
+                                         Description                                        (UOM)
+                                         PSPS7210ST / SAFETY                                                               $13.88 CAD
+     60        6                 Material                                                  4 / (EA)            $3.47 CAD
+                                         GLASSES,CLEAR,POLYCARBONATE
+                                                                                                       Line Item Total : $13.88 CAD
+     Line No.    PO Line No.          Type    Supplier Part No. /             Customer Part No.         Quantity            Unit Price         Subtotal
+                                         Description                                        (UOM)
+     70       7                 Material  WWG29UU72 /                                     10 / (PR)           $4.49 CAD      $44.90 CAD
+                                         GLOVES.NATURAL
+                                         RUBBER.10-1/2.PR
+                                                                                                       Line Item Total : $44.90 CAD
+        Tax Summary
+        Category               Details                          Base Amount                Rate %          Amount
+        GST
+                              Tax Description : GOODS AND         $205.91 CAD                5%             $10.30 CAD
+                              SERVICES
+        PST                  Tax Description : State/Provincial
+                                                             $205.91 CAD                0%             $0.00 CAD
+                             Tax
+                                                                                Amount Summary
+                                                                                Line item subtotal                           $205.91 CAD
+                                                                                Gross amount                             $216.21 CAD
+                                                                                Net amount                               $216.21 CAD
+                                                                                Total tax amount                            $10.30 CAD
+                                                                                Total withholding tax amount
+                                                                                Amount Due                              $216.21 CAD
+      Additional Information
+      invioceSourceDocument
+      PurchaseOrder
+     Billing Information                                                         Remittance Information
+     Bill To                                                                 Remit To
+                                                                            ACKLANDS-GRAINGER INC.
+     PEPSI FOODS ULC (FLC)
+                                                                            PO BOX 2970
+     2095 MATHESON BLVD E
+                                                                            WINNIPEG
+     MISSISSAUGA
+     ON                                                                   MB
+     L4W 0G2                                                               R3C 4B5
+                                                                            Canada
+     Canada
+     Address ID:                                                             Address ID: CA1_2751
+     CA1_ARIBA_PAYABLES
+==================================<Page 3 - END>================================
+==================================<Page 4 - START>================================
+  Appendix
+ Line No.    PO Line No. Type
+                                                        Supplier Part No. / Description
+  10
+             1         Material
+                                                       ANL11571VP080 / CUT-RESIST GLVS,NTRLE/HPPE,8,BLK/GY,PR
+  Additional Details:
+  Supplier Part ID : ANL11571VP080
+ Line No.
+             PO Line No. Type                            Supplier Part No. / Description
+  20
+            2         Material
+                                                       ANL11571VP090 / CUT-RSIST GLVS,NITRILE,9,BLK/GY,PR
+  Additional Details:
+  Supplier Part ID : ANL11571VP090
+ Line No.    PO Line No. Type                            Supplier Part No. / Description
+ 30
+            3         Material                         EVREN91 / AA BATTERY,INDUSTRIAL,1.5V DC,PK4
+ Additional Details:
+ Supplier Part ID : EVREN91
+Line No.    PO Line No. Type
+                                                       Supplier Part No. / Description
+ 40
+            4         Material
+                                                       MDX6415 / EARPLUGS DETECTABLE REUSE CORDED
+Additional Details:
+ Supplier Part ID : MDX6415
+Line No.    PO Line No. Type
+                                                       Supplier Part No. / Description
+60        6         Material
+                                                       PSPS7210ST / SAFETY GLASSES,CLEAR,POLYCARBONATE
+Additional Details:
+ Supplier Part ID : PSPS7210ST
+Line No.    PO Line No. Type
+                                                       Supplier Part No. / Description
+70
+            7         Material
+                                                       WWG29UU72 / GLOVES,NATURAL RUBBER ,10-1/2,PR
+Additional Details:
+ Supplier Part ID : WWG29UU72
+PDF generated on Friday 13 Feb. 2026 6:14 a.m. GMT-08:00
+==================================<Page 4 - END>================================
+==================================<Page 5 - START>================================
+  Standard Invoice                                                                                                  GRAINGER
+  Original tax invoice has been submitted electronically. This is a
+  human readable representation (copy) of the original tax invoice.
+                                                                                                                       9805191393
+                                                                   Invoice Number
+                                                                   (Supplier Reference No.)
+                                                                   Invoice Date                   Thursday 12 Feb. 2026 7:00 a.m. GMT-05:00
+                                                                   Amount Due                                         $216.21 CAD
+      Contact Information                                                        Shipping Information
+      Supplier
+                                    Customer                                  Ship From                     Ship To
+       ACKLANDS-GRAINGER INC.        EDI ONLY PEPSI FOODS ULC                                                CA-PL-TABER-AB-FLC
+                                                                             ACKLANDS-GRAINGER INC.
+                                    (FLC)                                                                  5904 52ND AVENUE
+       PO BOX 2970                                                            11708 - 167 STREET NW
+       WINNIPEG                    TABER PLANT 5904 52 AVE                     EDMONTON                    TABER
+                                                                                                          AB
+       MB                          TABER                                   AB
+                                                                                                          T1G 1W9
+       R3C 4B5                      AB                                      T5M 3Z2
+                                                                                                          Canada
+       CA                          T1G 1K3                                  Canada
+                                    Canada
+                                                           PO No. : M413551283                                      PO Date : 11 Feb. 2026
+     Line Items
+                                                                                                                            Subtotal
+     Line No.                              Supplier Part No. /             Customer Part No.        Quantity            Unit Price
+               PO Line No.          Type
+                                         Description                                        (UOM)
+                                                                                         4 / (PR)           $11.47 CAD      $45.88 CAD
+     10        1                 MaterialANL11571VP080 / CUT-RESIST
+                                          GLVS.NTRLE/HPPE,8,BLK/GY,PR
+                                                                                                        Line Item Total : $45.88 CAD
+     Line No.                              Supplier Part No. /             Customer Part No.        Quantity            Unit Price         Subtotal
+               PO Line No.          Type
+                                         Description                                        (UOM)
+     20       2                 Material ANL11571VP090 / CUT-RSIST                          5 / (PR)           $11.42 CAD      $57.10 CAD
+                                          GLVS,NITRILE,9,BLK/GY.PR
+                                                                                                        Line Item Total : $57.10 CAD
+                                                                                         Quantity                            Subtotal
+     Line No.    PO Line No.          Type    Supplier Part No. /             Customer Part No.                           Unit Price
+                                         Description                                        (UOM)
+     30                          Material EVREN91 / AA                                      10 / (PK)           $2.00 CAD      $20.00 CAD
+               3
+                                         BATTERY,INDUSTRIAL.1.5V
+                                         DC,PK4
+                                                                                                        Line Item Total : $20.00 CAD
+     Line No.    PO Line No.          Type    Supplier Part No. /             Customer Part No.        Quantity            Unit Price         Subtotal
+                                         Description                                        (UOM)
+     40                          MaterialMDX6415 / EARPLUGS                               7 / (PR)            $3.45 CAD      $24.15 CAD
+               4
+                                         DETECTABLE REUSE CORDED
+                                                                                                       Line Item Total : $24.15 CAD
+     Line No.    PO Line No.          Type    Supplier Part No. /             Customer Part No.         Quantity            Unit Price         Subtotal
+                                         Description                                        (UOM)
+                                         PSPS7210ST / SAFETY                                                               $13.88 CAD
+     60        6                 Material                                                  4 / (EA)            $3.47 CAD
+                                         GLASSES,CLEAR,POLYCARBONATE
+                                                                                                       Line Item Total : $13.88 CAD
+     Line No.    PO Line No.          Type    Supplier Part No. /             Customer Part No.         Quantity            Unit Price         Subtotal
+                                         Description                                        (UOM)
+     70       7                 Material  WWG29UU72 /                                     10 / (PR)           $4.49 CAD      $44.90 CAD
+                                         GLOVES.NATURAL
+                                         RUBBER.10-1/2.PR
+                                                                                                       Line Item Total : $44.90 CAD
+        Tax Summary
+        Category               Details                          Base Amount                Rate %          Amount
+        GST
+                              Tax Description : GOODS AND         $205.91 CAD                5%             $10.30 CAD
+                              SERVICES
+        PST                  Tax Description : State/Provincial
+                                                             $205.91 CAD                0%             $0.00 CAD
+                             Tax
+                                                                                Amount Summary
+                                                                                Line item subtotal                           $205.91 CAD
+                                                                                Gross amount                             $216.21 CAD
+                                                                                Net amount                               $216.21 CAD
+                                                                                Total tax amount                            $10.30 CAD
+                                                                                Total withholding tax amount
+                                                                                Amount Due                              $216.21 CAD
+      Additional Information
+      invioceSourceDocument
+      PurchaseOrder
+     Billing Information                                                         Remittance Information
+     Bill To                                                                 Remit To
+                                                                            ACKLANDS-GRAINGER INC.
+     PEPSI FOODS ULC (FLC)
+                                                                            PO BOX 2970
+     2095 MATHESON BLVD E
+                                                                            WINNIPEG
+     MISSISSAUGA
+     ON                                                                   MB
+     L4W 0G2                                                               R3C 4B5
+                                                                            Canada
+     Canada
+     Address ID:                                                             Address ID: CA1_2751
+     CA1_ARIBA_PAYABLES
+==================================<Page 5 - END>================================
+==================================<Page 6 - START>================================
+  Appendix
+ Line No.    PO Line No. Type
+                                                        Supplier Part No. / Description
+  10
+             1         Material
+                                                       ANL11571VP080 / CUT-RESIST GLVS,NTRLE/HPPE,8,BLK/GY,PR
+  Additional Details:
+  Supplier Part ID : ANL11571VP080
+ Line No.
+             PO Line No. Type                            Supplier Part No. / Description
+  20
+            2         Material
+                                                       ANL11571VP090 / CUT-RSIST GLVS,NITRILE,9,BLK/GY,PR
+  Additional Details:
+  Supplier Part ID : ANL11571VP090
+ Line No.    PO Line No. Type                            Supplier Part No. / Description
+ 30
+            3         Material                         EVREN91 / AA BATTERY,INDUSTRIAL,1.5V DC,PK4
+ Additional Details:
+ Supplier Part ID : EVREN91
+Line No.    PO Line No. Type
+                                                       Supplier Part No. / Description
+ 40
+            4         Material
+                                                       MDX6415 / EARPLUGS DETECTABLE REUSE CORDED
+Additional Details:
+ Supplier Part ID : MDX6415
+Line No.    PO Line No. Type
+                                                       Supplier Part No. / Description
+60        6         Material
+                                                       PSPS7210ST / SAFETY GLASSES,CLEAR,POLYCARBONATE
+Additional Details:
+ Supplier Part ID : PSPS7210ST
+Line No.    PO Line No. Type
+                                                       Supplier Part No. / Description
+70
+            7         Material
+                                                       WWG29UU72 / GLOVES,NATURAL RUBBER ,10-1/2,PR
+Additional Details:
+ Supplier Part ID : WWG29UU72
+PDF generated on Friday 13 Feb. 2026 6:14 a.m. GMT-08:00
+==================================<Page 6 - END>================================

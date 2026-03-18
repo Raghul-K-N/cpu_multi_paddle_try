@@ -1,0 +1,61 @@
+{
+  "invoice_data": {
+    "invoice_number": "17456",
+    "invoice_date": "2/05/2026",
+    "invoice_amount": null,
+    "invoice_currency": null,
+    "tax_amount": null,
+    "po_number": null,
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "JEM Building Services Inc.",
+    "vendor_address": "54114 Loudoun Road, Oak Bluff, MB R4G 0C4",
+    "po_line_items": [
+      {
+        "description": "290089 Tork White Roll Paper Towel 6/700'",
+        "quantity": null,
+        "net_price": 282.87
+      },
+      {
+        "description": "91591-00 Kleenex Luxury Foam Skin Cleanser Dye Free 2/1.2L",
+        "quantity": null,
+        "net_price": 140.78
+      }
+    ],
+    "vat_amount": null,
+    "gl_account": null,
+    "bank_name": null,
+    "account_holder_name": null,
+    "banking_account_number": null,
+    "remit_to_address": null,
+    "bill_to_address": null,
+    "transaction_type": "debit"
+  },
+  "filename": "SAPS4_5100158522_CA02_PBNACA_2026_328638255.pdf",
+  "raw_response": {
+    "invoice_number": "17456",
+    "invoice_date": "2/05/2026",
+    "invoice_amount": null,
+    "invoice_currency": null,
+    "tax_amount": null,
+    "po_number": null,
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "JEM Building Services Inc.",
+    "vendor_address": "54114 Loudoun Road, Oak Bluff, MB R4G 0C4",
+    "po_line_items": [
+      {
+        "description": "290089 Tork White Roll Paper Towel 6/700'",
+        "quantity": null,
+        "net_price": 282.87
+      },
+      {
+        "description": "91591-00 Kleenex Luxury Foam Skin Cleanser Dye Free 2/1.2L",
+        "quantity": null,
+        "net_price": 140.78
+      }
+    ]
+  }
+}

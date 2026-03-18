@@ -1,0 +1,438 @@
+==================================<Page 1 - START>================================
+Standard Invoice
+                                                                                                                      H
+Original tax invoice has been submitted electronically. This is a
+human readable representation (copy) of the original tax invoice.                                                                        HANTOM
+                                                                                                                        I4524901
+                                                                  Invoice Number
+                                                                  (Supplier Reference No.)
+                                                                  Invoice Date                   Thursday 12 Feb 2026 11:13 PM GMT+00:00
+    Contact Information
+                                                                            Shipping Information
+    Supplier
+                                  Customer                                  Ship From                     Ship To
+    HANTOVER - KANSAS CITY -       FRITO-LAY                                                              FRITO LAY-TOPEKA PLANT
+    90                                                                     HANTOVER - KANSAS CITY -
+                                  PO BOX 650586                             90                           4236 KIRKLAWN AVENUE
+     8600 NE UNDERGROUND
+                                  DALLAS                                   8600 NE UNDERGROUND          TOPEKA
+     DRIVE
+                                  TX                                      DRIVE                        KS
+     PILLAR 219
+                                  75268                                    PILLAR 219                     66609
+     KANSAS CITY
+                                  United States                                KANSAS CITY                   United States
+     MO
+                                  Address ID: 315912                           MO                          Address ID: 2104
+     64161
+                                                                           64161
+     United States                                                            United States
+   Line Items                                               PO No. : M413550942                                      PO Date : 11 Feb 2026
+   Line No.                              Supplier Part No. /                                  Quantity            Unit Price         Subtotal
+             PO Line No.          Type                              Customer Part No.
+                                        Description                                        (UOM)
+   1         1                  Material 22394SB / GLOVE NITRILE                            30 / (EA)           $3.80 USD     $114.00 USD
+                                        DISPOSABLE 4 MIL MED BLUE
+                                        POWDER FREE TEXTURED 100/
+                                        BX 10 BX/CS (OL
+   Line No.                              Supplier Part No. /
+             PO Line No.          Type                              Customer Part No.        Quantity            Unit Price         Subtotal
+                                        Description
+                                                                                       (UOM)
+   2        2                 Material 22396SB / GLOVE NITRILE                            50 / (EA)           $3.80 USD     $190.00 USD
+                                        DISPOSABLE 4 MIL XL BLUE
+                                       POWDER FREE TEXTURED 100/
+                                        BX 10 BX/CS (OLD
+                                Type   Supplier Part No. /                                                                     Subtotal
+   Line No.    PO Line No.                                            Customer Part No.        Quantity            Unit Price
+                                        Description
+                                                                                       (UOM)
+   3        3                 Material 22395SB / GLOVE NITRILE                            20 / (EA)           $3.80 USD      $76.00 USD
+                                       DISPOSABLE 4 MIL LARGE BLUE
+                                       POWDER FREE TEXTURED 100/
+                                       BX 10 BX/CS (
+                                                                                                         Unit Price         Subtotal
+   Line No.    PO Line No.          Type    Supplier Part No. /             Customer Part No.        Quantity
+                                       Description
+   4                           Material  52876 / GLOVE NITRILE                              60 / (BX)           $8.75 USD     $525.00 USD
+             4
+                                       DISPOSABLE 6 MIL MED
+                                       GREEN VISIBLE POWDER FREE
+                                       TEXTURED 100/BX 1
+                                                                                                         Unit Price         Subtotal
+  Line No.    PO Line No.          Type    Supplier Part No. /             Customer Part No.        Quantity
+                                       Description
+                                                                                       (UOM)
+                                Material  52878 / GLOVE NITRILE                              20 / (BX)           $8.75 USD     $175.00 USD
+  5        5
+                                       DISPOSABLE 6 MIL XL GREEN
+                                       VISIBLE POWDER FREE
+                                       TEXTURED 100/BX 10
+                                                                                                                         Subtotal
+  Line No.    PO Line No.          Type    Supplier Part No. /             Customer Part No.        Quantity            Unit Price
+                                       Description
+                                                                                      (UOM)
+  6         6                 Material  52879 / GLOVE NITRILE                              20 / (BX)           $8.75 USD     $175.00 USD
+                                       DISPOSABLE 6 MIL 2XL GREEN
+                                       VISIBLE POWDER FREE
+                                       TEXTURED 90/BX 10BX
+                                                                              Amount Summary
+                                                                              Line item subtotal                         $1,255.00 USD
+                                                                              Gross amount                           $1,372.35 USD
+                                                                              Net amount                             $1,372.35 USD
+                                                                              Total tax amount                           $117.35 USD
+                                                                              Total withholding tax amount
+    Additional Information
+   totalNumberOfLineltems
+   6
+                                                                         Remittance Information
+   Billing Information
+                                                                          Remit To
+   Bill To
+                                                                          HANTOVER, INC
+   FRITO-LAY
+                                                                         PO Box 83152
+   PO BOX 650586
+   DALLAS                                                               Chicago
+                                                                         IL
+   TX
+                                                                          606910152
+   75268
+                                                                         United States
+   United States
+==================================<Page 1 - END>================================
+==================================<Page 2 - START>================================
+  Appendix
+ Line No.
+             PO Line No. Type                            Supplier Part No. / Description
+  1
+             1         Material
+                                                        CS (OL
+  Additional Details:
+  Supplier Part ID : 22394SB
+ Line No.    PO Line No. Type                            Supplier Part No. / Description
+  2         2         Material
+                                                       22396SB / GLOVE NITRILE DISPOSABLE 4 MIL XL BLUE POWDER FREE TEXTURED 100/BX 10 BX/
+                                                        CS (OLD
+  Additional Details:
+  Supplier Part ID : 22396SB
+  Line No.    PO Line No. Type                            Supplier Part No. / Description
+  3         3         Material
+                                                       22395SB / GLOVE NITRILE DISPOSABLE 4 MIL LARGE BLUE POWDER FREE TEXTURED 100/BX 10
+                                                        BX/CS (
+ Additional Details:
+  Supplier Part ID : 22395SB
+  Line No.
+            PO Line No. Type                            Supplier Part No. / Description
+ 4         4         Material
+                                                        BX 1
+  Additional Details:
+ Supplier Part ID : 52876
+ Line No.    PO Line No. Type
+                                                       Supplier Part No. / Description
+ 5         5         Material
+                                                       52878 / GLOVE NITRILE DISPOSABLE 6 MIL XL GREEN VISIBLE POWDER FREE TEXTURED 100/BX
+                                                       10
+ Additional Details:
+  Supplier Part ID : 52878
+ Line No.    PO Line No. Type
+                                                       Supplier Part No. / Description
+ 6         6         Material
+                                                       52879 / GLOVE NITRILE DISPOSABLE 6 MIL 2XL GREEN VISIBLE POWDER FREE TEXTURED 90/BX
+                                                       10BX
+ Additional Details:
+ Supplier Part ID : 52879
+PDF generated on Thursday 12 Feb 2026 8:43 PM GMT-08:00
+==================================<Page 2 - END>================================
+==================================<Page 3 - START>================================
+Standard Invoice
+                                                                                                                      H
+Original tax invoice has been submitted electronically. This is a
+human readable representation (copy) of the original tax invoice.                                                                        HANTOM
+                                                                                                                        I4524901
+                                                                  Invoice Number
+                                                                  (Supplier Reference No.)
+                                                                  Invoice Date                   Thursday 12 Feb 2026 11:13 PM GMT+00:00
+    Contact Information
+                                                                            Shipping Information
+    Supplier
+                                  Customer                                  Ship From                     Ship To
+    HANTOVER - KANSAS CITY -       FRITO-LAY                                                              FRITO LAY-TOPEKA PLANT
+    90                                                                     HANTOVER - KANSAS CITY -
+                                  PO BOX 650586                             90                           4236 KIRKLAWN AVENUE
+     8600 NE UNDERGROUND
+                                  DALLAS                                   8600 NE UNDERGROUND          TOPEKA
+     DRIVE
+                                  TX                                      DRIVE                        KS
+     PILLAR 219
+                                  75268                                    PILLAR 219                     66609
+     KANSAS CITY
+                                  United States                                KANSAS CITY                   United States
+     MO
+                                  Address ID: 315912                           MO                          Address ID: 2104
+     64161
+                                                                           64161
+     United States                                                            United States
+   Line Items                                               PO No. : M413550942                                      PO Date : 11 Feb 2026
+   Line No.                              Supplier Part No. /                                  Quantity            Unit Price         Subtotal
+             PO Line No.          Type                              Customer Part No.
+                                        Description                                        (UOM)
+   1         1                  Material 22394SB / GLOVE NITRILE                            30 / (EA)           $3.80 USD     $114.00 USD
+                                        DISPOSABLE 4 MIL MED BLUE
+                                        POWDER FREE TEXTURED 100/
+                                        BX 10 BX/CS (OL
+   Line No.                              Supplier Part No. /
+             PO Line No.          Type                              Customer Part No.        Quantity            Unit Price         Subtotal
+                                        Description
+                                                                                       (UOM)
+   2        2                 Material 22396SB / GLOVE NITRILE                            50 / (EA)           $3.80 USD     $190.00 USD
+                                        DISPOSABLE 4 MIL XL BLUE
+                                       POWDER FREE TEXTURED 100/
+                                        BX 10 BX/CS (OLD
+                                Type   Supplier Part No. /                                                                     Subtotal
+   Line No.    PO Line No.                                            Customer Part No.        Quantity            Unit Price
+                                        Description
+                                                                                       (UOM)
+   3        3                 Material 22395SB / GLOVE NITRILE                            20 / (EA)           $3.80 USD      $76.00 USD
+                                       DISPOSABLE 4 MIL LARGE BLUE
+                                       POWDER FREE TEXTURED 100/
+                                       BX 10 BX/CS (
+                                                                                                         Unit Price         Subtotal
+   Line No.    PO Line No.          Type    Supplier Part No. /             Customer Part No.        Quantity
+                                       Description
+   4                           Material  52876 / GLOVE NITRILE                              60 / (BX)           $8.75 USD     $525.00 USD
+             4
+                                       DISPOSABLE 6 MIL MED
+                                       GREEN VISIBLE POWDER FREE
+                                       TEXTURED 100/BX 1
+                                                                                                         Unit Price         Subtotal
+  Line No.    PO Line No.          Type    Supplier Part No. /             Customer Part No.        Quantity
+                                       Description
+                                                                                       (UOM)
+                                Material  52878 / GLOVE NITRILE                              20 / (BX)           $8.75 USD     $175.00 USD
+  5        5
+                                       DISPOSABLE 6 MIL XL GREEN
+                                       VISIBLE POWDER FREE
+                                       TEXTURED 100/BX 10
+                                                                                                                         Subtotal
+  Line No.    PO Line No.          Type    Supplier Part No. /             Customer Part No.        Quantity            Unit Price
+                                       Description
+                                                                                      (UOM)
+  6         6                 Material  52879 / GLOVE NITRILE                              20 / (BX)           $8.75 USD     $175.00 USD
+                                       DISPOSABLE 6 MIL 2XL GREEN
+                                       VISIBLE POWDER FREE
+                                       TEXTURED 90/BX 10BX
+                                                                              Amount Summary
+                                                                              Line item subtotal                         $1,255.00 USD
+                                                                              Gross amount                           $1,372.35 USD
+                                                                              Net amount                             $1,372.35 USD
+                                                                              Total tax amount                           $117.35 USD
+                                                                              Total withholding tax amount
+    Additional Information
+   totalNumberOfLineltems
+   6
+                                                                         Remittance Information
+   Billing Information
+                                                                          Remit To
+   Bill To
+                                                                          HANTOVER, INC
+   FRITO-LAY
+                                                                         PO Box 83152
+   PO BOX 650586
+   DALLAS                                                               Chicago
+                                                                         IL
+   TX
+                                                                          606910152
+   75268
+                                                                         United States
+   United States
+==================================<Page 3 - END>================================
+==================================<Page 4 - START>================================
+  Appendix
+ Line No.
+             PO Line No. Type                            Supplier Part No. / Description
+  1
+             1         Material
+                                                        CS (OL
+  Additional Details:
+  Supplier Part ID : 22394SB
+ Line No.    PO Line No. Type                            Supplier Part No. / Description
+  2         2         Material
+                                                       22396SB / GLOVE NITRILE DISPOSABLE 4 MIL XL BLUE POWDER FREE TEXTURED 100/BX 10 BX/
+                                                        CS (OLD
+  Additional Details:
+  Supplier Part ID : 22396SB
+  Line No.    PO Line No. Type                            Supplier Part No. / Description
+  3         3         Material
+                                                       22395SB / GLOVE NITRILE DISPOSABLE 4 MIL LARGE BLUE POWDER FREE TEXTURED 100/BX 10
+                                                        BX/CS (
+ Additional Details:
+  Supplier Part ID : 22395SB
+  Line No.
+            PO Line No. Type                            Supplier Part No. / Description
+ 4         4         Material
+                                                        BX 1
+  Additional Details:
+ Supplier Part ID : 52876
+ Line No.    PO Line No. Type
+                                                       Supplier Part No. / Description
+ 5         5         Material
+                                                       52878 / GLOVE NITRILE DISPOSABLE 6 MIL XL GREEN VISIBLE POWDER FREE TEXTURED 100/BX
+                                                       10
+ Additional Details:
+  Supplier Part ID : 52878
+ Line No.    PO Line No. Type
+                                                       Supplier Part No. / Description
+ 6         6         Material
+                                                       52879 / GLOVE NITRILE DISPOSABLE 6 MIL 2XL GREEN VISIBLE POWDER FREE TEXTURED 90/BX
+                                                       10BX
+ Additional Details:
+ Supplier Part ID : 52879
+PDF generated on Thursday 12 Feb 2026 8:43 PM GMT-08:00
+==================================<Page 4 - END>================================
+==================================<Page 5 - START>================================
+Standard Invoice
+                                                                                                                      H
+Original tax invoice has been submitted electronically. This is a
+human readable representation (copy) of the original tax invoice.                                                                        HANTOM
+                                                                                                                        I4524901
+                                                                  Invoice Number
+                                                                  (Supplier Reference No.)
+                                                                  Invoice Date                   Thursday 12 Feb 2026 11:13 PM GMT+00:00
+    Contact Information
+                                                                            Shipping Information
+    Supplier
+                                  Customer                                  Ship From                     Ship To
+    HANTOVER - KANSAS CITY -       FRITO-LAY                                                              FRITO LAY-TOPEKA PLANT
+    90                                                                     HANTOVER - KANSAS CITY -
+                                  PO BOX 650586                             90                           4236 KIRKLAWN AVENUE
+     8600 NE UNDERGROUND
+                                  DALLAS                                   8600 NE UNDERGROUND          TOPEKA
+     DRIVE
+                                  TX                                      DRIVE                        KS
+     PILLAR 219
+                                  75268                                    PILLAR 219                     66609
+     KANSAS CITY
+                                  United States                                KANSAS CITY                   United States
+     MO
+                                  Address ID: 315912                           MO                          Address ID: 2104
+     64161
+                                                                           64161
+     United States                                                            United States
+   Line Items                                               PO No. : M413550942                                      PO Date : 11 Feb 2026
+   Line No.                              Supplier Part No. /                                  Quantity            Unit Price         Subtotal
+             PO Line No.          Type                              Customer Part No.
+                                        Description                                        (UOM)
+   1         1                  Material 22394SB / GLOVE NITRILE                            30 / (EA)           $3.80 USD     $114.00 USD
+                                        DISPOSABLE 4 MIL MED BLUE
+                                        POWDER FREE TEXTURED 100/
+                                        BX 10 BX/CS (OL
+   Line No.                              Supplier Part No. /
+             PO Line No.          Type                              Customer Part No.        Quantity            Unit Price         Subtotal
+                                        Description
+                                                                                       (UOM)
+   2        2                 Material 22396SB / GLOVE NITRILE                            50 / (EA)           $3.80 USD     $190.00 USD
+                                        DISPOSABLE 4 MIL XL BLUE
+                                       POWDER FREE TEXTURED 100/
+                                        BX 10 BX/CS (OLD
+                                Type   Supplier Part No. /                                                                     Subtotal
+   Line No.    PO Line No.                                            Customer Part No.        Quantity            Unit Price
+                                        Description
+                                                                                       (UOM)
+   3        3                 Material 22395SB / GLOVE NITRILE                            20 / (EA)           $3.80 USD      $76.00 USD
+                                       DISPOSABLE 4 MIL LARGE BLUE
+                                       POWDER FREE TEXTURED 100/
+                                       BX 10 BX/CS (
+                                                                                                         Unit Price         Subtotal
+   Line No.    PO Line No.          Type    Supplier Part No. /             Customer Part No.        Quantity
+                                       Description
+   4                           Material  52876 / GLOVE NITRILE                              60 / (BX)           $8.75 USD     $525.00 USD
+             4
+                                       DISPOSABLE 6 MIL MED
+                                       GREEN VISIBLE POWDER FREE
+                                       TEXTURED 100/BX 1
+                                                                                                         Unit Price         Subtotal
+  Line No.    PO Line No.          Type    Supplier Part No. /             Customer Part No.        Quantity
+                                       Description
+                                                                                       (UOM)
+                                Material  52878 / GLOVE NITRILE                              20 / (BX)           $8.75 USD     $175.00 USD
+  5        5
+                                       DISPOSABLE 6 MIL XL GREEN
+                                       VISIBLE POWDER FREE
+                                       TEXTURED 100/BX 10
+                                                                                                                         Subtotal
+  Line No.    PO Line No.          Type    Supplier Part No. /             Customer Part No.        Quantity            Unit Price
+                                       Description
+                                                                                      (UOM)
+  6         6                 Material  52879 / GLOVE NITRILE                              20 / (BX)           $8.75 USD     $175.00 USD
+                                       DISPOSABLE 6 MIL 2XL GREEN
+                                       VISIBLE POWDER FREE
+                                       TEXTURED 90/BX 10BX
+                                                                              Amount Summary
+                                                                              Line item subtotal                         $1,255.00 USD
+                                                                              Gross amount                           $1,372.35 USD
+                                                                              Net amount                             $1,372.35 USD
+                                                                              Total tax amount                           $117.35 USD
+                                                                              Total withholding tax amount
+    Additional Information
+   totalNumberOfLineltems
+   6
+                                                                         Remittance Information
+   Billing Information
+                                                                          Remit To
+   Bill To
+                                                                          HANTOVER, INC
+   FRITO-LAY
+                                                                         PO Box 83152
+   PO BOX 650586
+   DALLAS                                                               Chicago
+                                                                         IL
+   TX
+                                                                          606910152
+   75268
+                                                                         United States
+   United States
+==================================<Page 5 - END>================================
+==================================<Page 6 - START>================================
+  Appendix
+ Line No.
+             PO Line No. Type                            Supplier Part No. / Description
+  1
+             1         Material
+                                                        CS (OL
+  Additional Details:
+  Supplier Part ID : 22394SB
+ Line No.    PO Line No. Type                            Supplier Part No. / Description
+  2         2         Material
+                                                       22396SB / GLOVE NITRILE DISPOSABLE 4 MIL XL BLUE POWDER FREE TEXTURED 100/BX 10 BX/
+                                                        CS (OLD
+  Additional Details:
+  Supplier Part ID : 22396SB
+  Line No.    PO Line No. Type                            Supplier Part No. / Description
+  3         3         Material
+                                                       22395SB / GLOVE NITRILE DISPOSABLE 4 MIL LARGE BLUE POWDER FREE TEXTURED 100/BX 10
+                                                        BX/CS (
+ Additional Details:
+  Supplier Part ID : 22395SB
+  Line No.
+            PO Line No. Type                            Supplier Part No. / Description
+ 4         4         Material
+                                                        BX 1
+  Additional Details:
+ Supplier Part ID : 52876
+ Line No.    PO Line No. Type
+                                                       Supplier Part No. / Description
+ 5         5         Material
+                                                       52878 / GLOVE NITRILE DISPOSABLE 6 MIL XL GREEN VISIBLE POWDER FREE TEXTURED 100/BX
+                                                       10
+ Additional Details:
+  Supplier Part ID : 52878
+ Line No.    PO Line No. Type
+                                                       Supplier Part No. / Description
+ 6         6         Material
+                                                       52879 / GLOVE NITRILE DISPOSABLE 6 MIL 2XL GREEN VISIBLE POWDER FREE TEXTURED 90/BX
+                                                       10BX
+ Additional Details:
+ Supplier Part ID : 52879
+PDF generated on Thursday 12 Feb 2026 8:43 PM GMT-08:00
+==================================<Page 6 - END>================================

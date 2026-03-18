@@ -1,0 +1,59 @@
+{
+  "invoice_data": {
+    "invoice_number": "59678914",
+    "invoice_date": "2/11/26",
+    "invoice_amount": null,
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": null,
+    "po_number": [
+      "4505173101"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "McMaster-Carr",
+    "vendor_address": "PO Box 7690, Chicago IL 60680-7690",
+    "po_line_items": [
+      {
+        "description": "1736N12 15 Feet Long Straight Section for Spill-Control Berm Each",
+        "quantity": 2.0,
+        "net_price": 377.42
+      }
+    ],
+    "vat_amount": null,
+    "gl_account": null,
+    "bank_name": null,
+    "account_holder_name": null,
+    "banking_account_number": null,
+    "remit_to_address": null,
+    "bill_to_address": null,
+    "transaction_type": "debit"
+  },
+  "filename": "SAPS4_5100409038_US28_PFNAUS_2026_999934961.pdf",
+  "raw_response": {
+    "invoice_number": "59678914",
+    "invoice_date": "2/11/26",
+    "invoice_amount": null,
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": null,
+    "po_number": [
+      "4505173101"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "McMaster-Carr",
+    "vendor_address": "PO Box 7690, Chicago IL 60680-7690",
+    "po_line_items": [
+      {
+        "description": "1736N12 15 Feet Long Straight Section for Spill-Control Berm Each",
+        "quantity": 2.0,
+        "net_price": 377.42
+      }
+    ]
+  }
+}

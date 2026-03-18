@@ -1,0 +1,59 @@
+{
+  "invoice_data": {
+    "invoice_number": "J034715",
+    "invoice_date": "Feb 05, 2026",
+    "invoice_amount": "16,826.83",
+    "invoice_currency": [
+      "CAD"
+    ],
+    "tax_amount": "1,935.83",
+    "po_number": [
+      "4505010430"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": "0.00",
+    "cost_center": null,
+    "vendor_name": "AIM Industrial Inc.",
+    "vendor_address": "29 Cherry Blossom Rd., Cambridge, ON N3H 4R7, Phone: 519-747-2255, Fax: 519-7474617",
+    "po_line_items": [
+      {
+        "description": "ITEM 00010 QT-QU2025-1435-REPAIR GLYCOL PIPE ROOF",
+        "quantity": 1.0,
+        "net_price": 14891.0
+      }
+    ],
+    "vat_amount": null,
+    "gl_account": null,
+    "bank_name": null,
+    "account_holder_name": null,
+    "banking_account_number": null,
+    "remit_to_address": null,
+    "bill_to_address": null,
+    "transaction_type": "debit"
+  },
+  "filename": "SAPS4_5100269506_CA11_PFNACA_2026_304667655.pdf",
+  "raw_response": {
+    "invoice_number": "J034715",
+    "invoice_date": "Feb 05, 2026",
+    "invoice_amount": "16,826.83",
+    "invoice_currency": [
+      "CAD"
+    ],
+    "tax_amount": "1,935.83",
+    "po_number": [
+      "4505010430"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": "0.00",
+    "cost_center": null,
+    "vendor_name": "AIM Industrial Inc.",
+    "vendor_address": "29 Cherry Blossom Rd., Cambridge, ON N3H 4R7, Phone: 519-747-2255, Fax: 519-7474617",
+    "po_line_items": [
+      {
+        "description": "ITEM 00010 QT-QU2025-1435-REPAIR GLYCOL PIPE ROOF",
+        "quantity": 1.0,
+        "net_price": 14891.0
+      }
+    ]
+  }
+}

@@ -1,0 +1,59 @@
+{
+  "invoice_data": {
+    "invoice_number": "888526581",
+    "invoice_date": "02/11/2026",
+    "invoice_amount": "263.24",
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": "20.06",
+    "po_number": [
+      "M413549946"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "GRAINGER",
+    "vendor_address": "8701 MINOR LANE,LOUISVILLE,KY 40219",
+    "po_line_items": [
+      {
+        "description": "PILOT LIGHT, RED, 30MM, INCANDESCENT",
+        "quantity": 2.0,
+        "net_price": 243.18
+      }
+    ],
+    "vat_amount": null,
+    "gl_account": null,
+    "bank_name": null,
+    "account_holder_name": null,
+    "banking_account_number": null,
+    "remit_to_address": null,
+    "bill_to_address": null,
+    "transaction_type": "debit"
+  },
+  "filename": "SAPS4_5100285552_US28_PFNAUS_2026_999884288.pdf",
+  "raw_response": {
+    "invoice_number": "888526581",
+    "invoice_date": "02/11/2026",
+    "invoice_amount": "263.24",
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": "20.06",
+    "po_number": [
+      "M413549946"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "GRAINGER",
+    "vendor_address": "8701 MINOR LANE,LOUISVILLE,KY 40219",
+    "po_line_items": [
+      {
+        "description": "PILOT LIGHT, RED, 30MM, INCANDESCENT",
+        "quantity": 2.0,
+        "net_price": 243.18
+      }
+    ]
+  }
+}

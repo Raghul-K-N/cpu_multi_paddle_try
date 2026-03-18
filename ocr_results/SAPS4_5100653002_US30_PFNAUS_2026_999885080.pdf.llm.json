@@ -1,0 +1,59 @@
+{
+  "invoice_data": {
+    "invoice_number": "CM392832FF",
+    "invoice_date": "12/4/2025",
+    "invoice_amount": "-187.25",
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": "12.25",
+    "po_number": [
+      "23517845"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "M&K Truck Centers - Indianapolis North (D561)",
+    "vendor_address": "1665 S County Rd 800 W, Frankfort, IN 46041",
+    "po_line_items": [
+      {
+        "description": "CORE RETURN",
+        "quantity": 1.0,
+        "net_price": 175.0
+      }
+    ],
+    "vat_amount": null,
+    "gl_account": null,
+    "bank_name": null,
+    "account_holder_name": null,
+    "banking_account_number": null,
+    "remit_to_address": null,
+    "bill_to_address": null,
+    "transaction_type": "credit"
+  },
+  "filename": "SAPS4_5100653002_US30_PFNAUS_2026_999885080.pdf",
+  "raw_response": {
+    "invoice_number": "CM392832FF",
+    "invoice_date": "12/4/2025",
+    "invoice_amount": "-187.25",
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": "12.25",
+    "po_number": [
+      "23517845"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "M&K Truck Centers - Indianapolis North (D561)",
+    "vendor_address": "1665 S County Rd 800 W, Frankfort, IN 46041",
+    "po_line_items": [
+      {
+        "description": "CORE RETURN",
+        "quantity": 1.0,
+        "net_price": 175.0
+      }
+    ]
+  }
+}

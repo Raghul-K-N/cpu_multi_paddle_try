@@ -1,0 +1,99 @@
+{
+  "invoice_data": {
+    "invoice_number": "872176862",
+    "invoice_date": "02/12/2026",
+    "invoice_amount": "228.88",
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": "13.96",
+    "po_number": [
+      "M413448695"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "GRAINGER",
+    "vendor_address": "1721 6TH ST. SW, CANTON, OH 44706-1203",
+    "po_line_items": [
+      {
+        "description": "K01-43706206 CABLE TIE,PK100",
+        "quantity": 1.0,
+        "net_price": 33.18
+      },
+      {
+        "description": "K01-43706277 JOBBERLENGTHDRILLBIT,9/64IN",
+        "quantity": 1.0,
+        "net_price": 1.79
+      },
+      {
+        "description": "K01-43706292 JOBBERLENGTHDRILLBIT,3/8IN,",
+        "quantity": 1.0,
+        "net_price": 6.76
+      },
+      {
+        "description": "K01-49454194 FLASHLIGHT,METAL,BLACK,500L",
+        "quantity": 2.0,
+        "net_price": 83.34
+      },
+      {
+        "description": "K01-43706436 INSTANT ADHESIVE,0.10 FL OZ",
+        "quantity": 1.0,
+        "net_price": 6.51
+      }
+    ],
+    "vat_amount": null,
+    "gl_account": null,
+    "bank_name": null,
+    "account_holder_name": null,
+    "banking_account_number": null,
+    "remit_to_address": null,
+    "bill_to_address": null,
+    "transaction_type": "debit"
+  },
+  "filename": "SAPS4_5100152031_US28_PFNAUS_2026_999934405.pdf",
+  "raw_response": {
+    "invoice_number": "872176862",
+    "invoice_date": "02/12/2026",
+    "invoice_amount": "228.88",
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": "13.96",
+    "po_number": [
+      "M413448695"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "GRAINGER",
+    "vendor_address": "1721 6TH ST. SW, CANTON, OH 44706-1203",
+    "po_line_items": [
+      {
+        "description": "K01-43706206 CABLE TIE,PK100",
+        "quantity": 1.0,
+        "net_price": 33.18
+      },
+      {
+        "description": "K01-43706277 JOBBERLENGTHDRILLBIT,9/64IN",
+        "quantity": 1.0,
+        "net_price": 1.79
+      },
+      {
+        "description": "K01-43706292 JOBBERLENGTHDRILLBIT,3/8IN,",
+        "quantity": 1.0,
+        "net_price": 6.76
+      },
+      {
+        "description": "K01-49454194 FLASHLIGHT,METAL,BLACK,500L",
+        "quantity": 2.0,
+        "net_price": 83.34
+      },
+      {
+        "description": "K01-43706436 INSTANT ADHESIVE,0.10 FL OZ",
+        "quantity": 1.0,
+        "net_price": 6.51
+      }
+    ]
+  }
+}

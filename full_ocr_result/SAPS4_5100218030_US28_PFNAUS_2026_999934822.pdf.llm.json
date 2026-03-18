@@ -1,0 +1,59 @@
+{
+  "invoice_data": {
+    "invoice_number": "0090314642",
+    "invoice_date": "2/4/2026",
+    "invoice_amount": "204.00",
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": "12.00",
+    "po_number": [
+      "M413474319-1"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "Woodstream Corporation",
+    "vendor_address": "69 North Locust St Lititz, PA 17543",
+    "po_line_items": [
+      {
+        "description": "MONTHLY MONITORING 4/MONTH",
+        "quantity": 48.0,
+        "net_price": 192.0
+      }
+    ],
+    "vat_amount": null,
+    "gl_account": null,
+    "bank_name": null,
+    "account_holder_name": null,
+    "banking_account_number": null,
+    "remit_to_address": null,
+    "bill_to_address": null,
+    "transaction_type": "debit"
+  },
+  "filename": "SAPS4_5100218030_US28_PFNAUS_2026_999934822.pdf",
+  "raw_response": {
+    "invoice_number": "0090314642",
+    "invoice_date": "2/4/2026",
+    "invoice_amount": "204.00",
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": "12.00",
+    "po_number": [
+      "M413474319-1"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "Woodstream Corporation",
+    "vendor_address": "69 North Locust St Lititz, PA 17543",
+    "po_line_items": [
+      {
+        "description": "MONTHLY MONITORING 4/MONTH",
+        "quantity": 48.0,
+        "net_price": 192.0
+      }
+    ]
+  }
+}

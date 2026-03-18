@@ -1,0 +1,61 @@
+{
+  "invoice_data": {
+    "invoice_number": "4234520501",
+    "invoice_date": "1/19/2026",
+    "invoice_amount": null,
+    "invoice_currency": [
+      "CAD"
+    ],
+    "tax_amount": null,
+    "po_number": [
+      "4504134155",
+      "113506-P00411",
+      "113506-P00411",
+      "113506-P00411",
+      "C1930017",
+      "C1930018",
+      "C1930019",
+      "C1930020"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "VestRock Company of Canada Corp.",
+    "vendor_address": "3150 PARK HILL DRIVE, MILTON, ON L9T 5V7, CANADA",
+    "po_line_items": null,
+    "vat_amount": null,
+    "gl_account": null,
+    "bank_name": null,
+    "account_holder_name": null,
+    "banking_account_number": null,
+    "remit_to_address": null,
+    "bill_to_address": null,
+    "transaction_type": "debit"
+  },
+  "filename": "SAPS4_5100078515_CA11_PFNACA_2026_304667689.pdf",
+  "raw_response": {
+    "invoice_number": "4234520501",
+    "invoice_date": "1/19/2026",
+    "invoice_amount": null,
+    "invoice_currency": [
+      "CAD"
+    ],
+    "tax_amount": null,
+    "po_number": [
+      "4504134155",
+      "113506-P00411",
+      "113506-P00411",
+      "113506-P00411",
+      "C1930017",
+      "C1930018",
+      "C1930019",
+      "C1930020"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "VestRock Company of Canada Corp.",
+    "vendor_address": "3150 PARK HILL DRIVE, MILTON, ON L9T 5V7, CANADA",
+    "po_line_items": null
+  }
+}

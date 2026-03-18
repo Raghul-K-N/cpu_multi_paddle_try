@@ -1,0 +1,47 @@
+{
+  "invoice_data": {
+    "invoice_number": "PA033011",
+    "invoice_date": "12/10/25",
+    "invoice_amount": null,
+    "invoice_currency": [
+      "CAD"
+    ],
+    "tax_amount": null,
+    "po_number": [
+      "M413482844"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "Traneport Ltd.",
+    "vendor_address": "PILLARS-STRYDER TRANSPORT, 7271 NELSON ROAD, RICHMOND BC V6W 1G3",
+    "po_line_items": null,
+    "vat_amount": null,
+    "gl_account": null,
+    "bank_name": null,
+    "account_holder_name": null,
+    "banking_account_number": null,
+    "remit_to_address": null,
+    "bill_to_address": null,
+    "transaction_type": "debit"
+  },
+  "filename": "SAPS4_5101412000_CA02_PBNACA_2026_328545353.pdf",
+  "raw_response": {
+    "invoice_number": "PA033011",
+    "invoice_date": "12/10/25",
+    "invoice_amount": null,
+    "invoice_currency": [
+      "CAD"
+    ],
+    "tax_amount": null,
+    "po_number": [
+      "M413482844"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "Traneport Ltd.",
+    "vendor_address": "PILLARS-STRYDER TRANSPORT, 7271 NELSON ROAD, RICHMOND BC V6W 1G3",
+    "po_line_items": null
+  }
+}

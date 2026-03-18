@@ -1,0 +1,59 @@
+{
+  "invoice_data": {
+    "invoice_number": "26-3540",
+    "invoice_date": "2/12/2026",
+    "invoice_amount": null,
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": null,
+    "po_number": [
+      "4505179456"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": "../26.51",
+    "cost_center": null,
+    "vendor_name": "CLM Systems",
+    "vendor_address": "14350 10th St, Dade City, FL 33523",
+    "po_line_items": [
+      {
+        "description": "Sato LT408 203 DPI Print Head",
+        "quantity": 2.0,
+        "net_price": 460.0
+      }
+    ],
+    "vat_amount": null,
+    "gl_account": null,
+    "bank_name": null,
+    "account_holder_name": null,
+    "banking_account_number": null,
+    "remit_to_address": null,
+    "bill_to_address": null,
+    "transaction_type": "debit"
+  },
+  "filename": "SAPS4_5100309028_US28_PFNAUS_2026_999884361.pdf",
+  "raw_response": {
+    "invoice_number": "26-3540",
+    "invoice_date": "2/12/2026",
+    "invoice_amount": "../../946.51",
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": null,
+    "po_number": [
+      "4505179456"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": "../26.51",
+    "cost_center": null,
+    "vendor_name": "CLM Systems",
+    "vendor_address": "14350 10th St, Dade City, FL 33523",
+    "po_line_items": [
+      {
+        "description": "Sato LT408 203 DPI Print Head",
+        "quantity": 2.0,
+        "net_price": 460.0
+      }
+    ]
+  }
+}

@@ -1,0 +1,59 @@
+{
+  "invoice_data": {
+    "invoice_number": "93307259",
+    "invoice_date": "02/11/2026",
+    "invoice_amount": "198.00",
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": null,
+    "po_number": [
+      "4504386085"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "Heat and Control",
+    "vendor_address": "21121 CABOT BLVD, HAYWARD CA 94545-1132",
+    "po_line_items": [
+      {
+        "description": "X100003327000 PROXIMITY SWITCH, MAGNETIC",
+        "quantity": 3.0,
+        "net_price": 66.0
+      }
+    ],
+    "vat_amount": null,
+    "gl_account": null,
+    "bank_name": null,
+    "account_holder_name": null,
+    "banking_account_number": null,
+    "remit_to_address": null,
+    "bill_to_address": null,
+    "transaction_type": "debit"
+  },
+  "filename": "SAPS4_5100329014_US28_PFNAUS_2026_999934284.pdf",
+  "raw_response": {
+    "invoice_number": "93307259",
+    "invoice_date": "02/11/2026",
+    "invoice_amount": "198.00",
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": null,
+    "po_number": [
+      "4504386085"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "Heat and Control",
+    "vendor_address": "21121 CABOT BLVD, HAYWARD CA 94545-1132",
+    "po_line_items": [
+      {
+        "description": "X100003327000 PROXIMITY SWITCH, MAGNETIC",
+        "quantity": 3.0,
+        "net_price": 66.0
+      }
+    ]
+  }
+}

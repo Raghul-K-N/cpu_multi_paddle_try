@@ -1,0 +1,109 @@
+{
+  "invoice_data": {
+    "invoice_number": "9110124957",
+    "invoice_date": "02/10/2025",
+    "invoice_amount": "86.21",
+    "invoice_currency": [
+      "CAD"
+    ],
+    "tax_amount": "11.23",
+    "po_number": [
+      "M413419352"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "Québec Linge",
+    "vendor_address": "75 Norfinch Drive, Toronto, Ontario, M3N 1W8",
+    "po_line_items": [
+      {
+        "description": "Sweatshirt-Crew",
+        "quantity": 1.0,
+        "net_price": 24.99
+      },
+      {
+        "description": "Pers - Custom Embroidery Appli",
+        "quantity": 1.0,
+        "net_price": 0.0
+      },
+      {
+        "description": "Pers - Custom Embroidery Appli",
+        "quantity": 1.0,
+        "net_price": 0.0
+      },
+      {
+        "description": "Jacket-Lt Wght",
+        "quantity": 1.0,
+        "net_price": 49.99
+      },
+      {
+        "description": "Pers - Custom Embroidery Appli",
+        "quantity": 1.0,
+        "net_price": 0.0
+      },
+      {
+        "description": "Pers - Custom Embroidery Appli",
+        "quantity": 1.0,
+        "net_price": 0.0
+      }
+    ],
+    "vat_amount": null,
+    "gl_account": null,
+    "bank_name": null,
+    "account_holder_name": null,
+    "banking_account_number": null,
+    "remit_to_address": null,
+    "bill_to_address": null,
+    "transaction_type": "debit"
+  },
+  "filename": "SAPS4_5100264510_CA11_PFNACA_2026_304672255.pdf",
+  "raw_response": {
+    "invoice_number": "9110124957",
+    "invoice_date": "02/10/2025",
+    "invoice_amount": "86.21",
+    "invoice_currency": [
+      "CAD"
+    ],
+    "tax_amount": "11.23",
+    "po_number": [
+      "M413419352"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "Québec Linge",
+    "vendor_address": "75 Norfinch Drive, Toronto, Ontario, M3N 1W8",
+    "po_line_items": [
+      {
+        "description": "Sweatshirt-Crew",
+        "quantity": 1.0,
+        "net_price": 24.99
+      },
+      {
+        "description": "Pers - Custom Embroidery Appli",
+        "quantity": 1.0,
+        "net_price": 0.0
+      },
+      {
+        "description": "Pers - Custom Embroidery Appli",
+        "quantity": 1.0,
+        "net_price": 0.0
+      },
+      {
+        "description": "Jacket-Lt Wght",
+        "quantity": 1.0,
+        "net_price": 49.99
+      },
+      {
+        "description": "Pers - Custom Embroidery Appli",
+        "quantity": 1.0,
+        "net_price": 0.0
+      },
+      {
+        "description": "Pers - Custom Embroidery Appli",
+        "quantity": 1.0,
+        "net_price": 0.0
+      }
+    ]
+  }
+}

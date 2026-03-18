@@ -1,0 +1,59 @@
+{
+  "invoice_data": {
+    "invoice_number": "214627",
+    "invoice_date": "03-Feb-2026",
+    "invoice_amount": "2079.45",
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": null,
+    "po_number": [
+      "4505055418"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": "530.00",
+    "cost_center": null,
+    "vendor_name": "IET Combustion, LLC",
+    "vendor_address": "2109 Vanco Drive, Irving, Texas 75061, USA",
+    "po_line_items": [
+      {
+        "description": "Pilot Burner for Top, Middle and Bottom Ribbons. CH193 Oven",
+        "quantity": 1.0,
+        "net_price": 1549.45
+      }
+    ],
+    "vat_amount": null,
+    "gl_account": null,
+    "bank_name": null,
+    "account_holder_name": null,
+    "banking_account_number": null,
+    "remit_to_address": null,
+    "bill_to_address": null,
+    "transaction_type": "debit"
+  },
+  "filename": "SAPS4_5100213049_US28_PFNAUS_2026_999934820.pdf",
+  "raw_response": {
+    "invoice_number": "214627",
+    "invoice_date": "03-Feb-2026",
+    "invoice_amount": "2079.45",
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": null,
+    "po_number": [
+      "4505055418"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": "530.00",
+    "cost_center": null,
+    "vendor_name": "IET Combustion, LLC",
+    "vendor_address": "2109 Vanco Drive, Irving, Texas 75061, USA",
+    "po_line_items": [
+      {
+        "description": "Pilot Burner for Top, Middle and Bottom Ribbons. CH193 Oven",
+        "quantity": 1.0,
+        "net_price": 1549.45
+      }
+    ]
+  }
+}

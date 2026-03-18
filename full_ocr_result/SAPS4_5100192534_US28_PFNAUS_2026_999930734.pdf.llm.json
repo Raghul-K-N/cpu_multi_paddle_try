@@ -1,0 +1,59 @@
+{
+  "invoice_data": {
+    "invoice_number": "PSI-001142404",
+    "invoice_date": "Friday 13 Feb 2026 3:04 PM GMT-06:00",
+    "invoice_amount": null,
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": "67.47",
+    "po_number": [
+      "M412916055"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "Shoppa's Material Handling LTD",
+    "vendor_address": "Shoppa's Material Handling LTD, P.O. BOX 612027, Dallas, TX 75261, United States, Address ID: US28",
+    "po_line_items": [
+      {
+        "description": "Material",
+        "quantity": 817.87,
+        "net_price": 1.0
+      }
+    ],
+    "vat_amount": null,
+    "gl_account": null,
+    "bank_name": null,
+    "account_holder_name": null,
+    "banking_account_number": null,
+    "remit_to_address": null,
+    "bill_to_address": null,
+    "transaction_type": "debit"
+  },
+  "filename": "SAPS4_5100192534_US28_PFNAUS_2026_999930734.pdf",
+  "raw_response": {
+    "invoice_number": "PSI-001142404",
+    "invoice_date": "Friday 13 Feb 2026 3:04 PM GMT-06:00",
+    "invoice_amount": "../../../885.34",
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": "67.47",
+    "po_number": [
+      "M412916055"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "Shoppa's Material Handling LTD",
+    "vendor_address": "Shoppa's Material Handling LTD, P.O. BOX 612027, Dallas, TX 75261, United States, Address ID: US28",
+    "po_line_items": [
+      {
+        "description": "Material",
+        "quantity": 817.87,
+        "net_price": 1.0
+      }
+    ]
+  }
+}

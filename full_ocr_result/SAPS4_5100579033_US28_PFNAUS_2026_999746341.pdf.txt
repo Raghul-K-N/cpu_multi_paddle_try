@@ -1,0 +1,262 @@
+==================================<Page 1 - START>================================
+Standard Invoice
+                                                                                                                   GRAINGER
+Original tax invoice has been submitted electronically. This is a
+human readable representation (copy) of the original tax invoice.
+                                                                Invoice Number                                      980610397526
+                                                                (Supplier Reference No.)
+                                                                                              Thursday 12 Feb 2026 2:52 AM GMT-07:00
+                                                                Invoice Date
+                                                                                                                 $1,863.50 USD
+                                                                Amount Due
+    Contact Information
+                                                                          Shipping Information
+    Supplier                       Customer
+                                                                          Ship From                     Ship To
+    Grainger
+                                 Frito-Lay Inc.                               Grainger                      US-PL-JONESBORO-AR-FLI
+    100 Grainger Pkwy               c/o PEPSICO NASS                          4300 OLD AIRWAYS BLVD.         SHANNON.L.BRACK@PEPS
+    Lake Forest                    ACCOUNTS PAYABLES                                                    2810 QUALITY WAY
+                                                                          SOUTHAVEN
+    IL                           PO BOX 1800                              MS                          JONESBORO
+    Winst                        Winston Salem                              38671                        AR
+    United States                   NC                                                                   72401
+                                                                          United States
+                                 27105
+                                                                                                      United States
+                                 United States
+                                                                                                       Phone: (800) 352-4477
+  Line Items                                              PO No. : M413554321                                      PO Date : 12 Feb 2026
+  Line No.   PO Line No.         Type    Supplier Part No. /             Customer Part No.        Quantity            Unit Price         Subtotal
+                                       Description                                       (UOM)
+  1
+            1                 Material 5T913 / Rain Suit w/Jacket/                            2 / (EA)           $26.25 USD      $52.50 USD
+                                      Bib,Unrated,Yellow,L
+  Line No.
+            PO Line No.          Type    Supplier Part No. /             Customer Part No.        Quantity            Unit Price         Subtotal
+                                       Description                                       (UOM)
+  2        2                 Material  1FBB5 / Rain Suit.Jacket/                                              $30.11 USD      $90.33 USD
+                                                                                      3 / (EA)
+                                       Bib.Unrated.Yellow.4XL
+  Line No.   PO Line No.         Type    Supplier Part No. /             Customer Part No.        Quantity            Unit Price         Subtotal
+                                      Description                                       (UOM)
+  3        3                 Material  1FBB6 / Rain Suit.Jacket/                             2 / (EA)          $30.11 USD      $60.22 USD
+                                      Bib,Unrated,Yellow,5XL
+                                                                                                        Unit Price         Subtotal
+  Line No.    PO Line No.          Type    Supplier Part No. /             Customer Part No         Quantity
+                                      Description
+                                                                                      (UOM)
+  4        4                 Material  2U643 / Scouring Pad,9 in                             6 / (EA)          $14.98 USD      $89.88 USD
+                                      L,Green,PK20
+  Line No.    PO Line No.          Type    Supplier Part No. /             Customer Part No.        Quantity            Unit Price         Subtotal
+                                      Description                                       (UOM)
+  5        5                 Material 4A416 / Barricade Tape, Yellow,                         8 / (EA)            $5.04 USD      $40.32 USD
+                                      1,000 ft L, 3 in
+                                                                                                        Unit Price         Subtotal
+  Line No.    PO Line No.          Type    Supplier Part No. /             Customer Part No.        Quantity
+                                      Description
+                                                                                      (UOM)
+  6                           Material 2VJC4 / Dry Wipe,12 x                               25 / (EA)          $61.21 USD    $1,530.25 USD
+            6
+                                      12-1/2.White,PK18
+                                                                             Amount Summary
+                                                                             Line item subtotal                         $1,863.50 USD
+                                                                             Gross amount                           $1,863.50 USD
+                                                                             Net amount                             $1,863.50 USD
+                                                                                                                      $0.00 USD
+                                                                             Total tax amount
+                                                                             Total withholding tax amount
+                                                                                                                   $1,863.50 USD
+                                                                             Amount Due
+   Additional Information
+   InvoiceSourceDocument
+   PurchaseOrder
+   InvoiceSubmissionMethod
+  cXML
+                                                                         Remittance Information
+  Billing Information
+                                                                         Remit To
+  Bill To
+                                                                         GRAINGER
+  Frito-Lay Inc.
+                                                                         DEPT. 853331767
+  c/o PEPSICO NASS
+  ACCOUNTS PAYABLES                                                    KANSAS CITY
+  PO BOX 1800                                                            MO
+  Winston Salem                                                           64141-6267
+  NC                                                                    United States
+  27105                                                                 Address ID: US1_10359
+  United States
+                                                                        Tax ID of Supplier
+  Address ID: US28
+                                                                        36-1150280
+                                                                     Reference Documents
+                                                                     Original Supplier Order #: 1575956047
+==================================<Page 1 - END>================================
+==================================<Page 2 - START>================================
+  Appendix
+ Line No.
+             PO Line No. Type                           Supplier Part No. / Description
+  1          1         Material
+                                                       5T913 / Rain Suit w/Jacket/Bib,Unrated,Yellow,L
+  Additional Details:
+ Supplier Part ID : 5T913
+ Supplier Part Auxiliary ID : WWG5T913
+ Line No.    PO Line No. Type                           Supplier Part No. / Description
+  2         2         Material                         1FBB5 / Rain Suit,Jacket/Bib,Unrated,Yellow,4XL
+ Additional Details:
+ Supplier Part ID : 1FBB5
+ Supplier Part Auxiliary ID : WWG1FBB5
+ Line No.    PO Line No. Type                           Supplier Part No. / Description
+ 3         3         Material                         1FBB6 / Rain Suit,Jacket/Bib,Unrated,Yellow,5XL
+ Additional Details:
+Supplier Part ID : 1FBB6
+Supplier Part Auxiliary ID : WWG1FBB6
+Line No.    PO Line No. Type                           Supplier Part No. / Description
+4         4          Material                         2U643 / Scouring Pad,9 in L,Green,PK20
+ Additional Details:
+Supplier Part ID : 2U643
+Supplier Part Auxiliary ID : WWG2U643
+Line No.    PO Line No. Type                           Supplier Part No. / Description
+5                    Material                         4A416 / Barricade Tape, Yellow, 1,000 ft L, 3 in
+Additional Details:
+Supplier Part ID : 4A416
+Supplier Part Auxiliary ID : WWG4A416
+Line No.    PO Line No. Type                           Supplier Part No. / Description
+6         6         Material                         2VJC4 / Dry Wipe,12 x 12-1/2,White,PK18
+Additional Details:
+Supplier Part ID : 2VJC4
+Supplier Part Auxiliary ID : WWG2VJC4
+PDF generated on Friday 13 Feb 2026 12:53 AM GMT-08:00
+==================================<Page 2 - END>================================
+==================================<Page 3 - START>================================
+ Standard Invoice
+                                                                                                                    GRAINGER
+Original tax invoice has been submitted electronically. This is a
+human readable representation (copy) of the original tax invoice.
+                                                                 Invoice Number                                      980610397526
+                                                                 (Supplier Reference No.)
+                                                                                               Thursday 12 Feb 2026 2:52 AM GMT-07:00
+                                                                 Invoice Date
+                                                                                                                  $1,863.50 USD
+                                                                 Amount Due
+     Contact Information
+                                                                           Shipping Information
+     Supplier                       Customer
+                                                                           Ship From                     Ship To
+     Grainger
+                                  Frito-Lay Inc.                               Grainger                      US-PL-JONESBORO-AR-FLI
+     100 Grainger Pkwy               c/o PEPSICO NASS                          4300 OLD AIRWAYS BLVD.         SHANNON.L.BRACK@PEPS
+     Lake Forest                    ACCOUNTS PAYABLES                                                    2810 QUALITY WAY
+                                                                           SOUTHAVEN
+     IL                           PO BOX 1800                              MS                          JONESBORO
+     Winst                        Winston Salem                              38671                        AR
+     United States                   NC                                                                   72401
+                                                                           United States
+                                  27105
+                                                                                                       United States
+                                  United States
+                                                                                                        Phone: (800) 352-4477
+   Line Items                                              PO No. : M413554321                                      PO Date : 12 Feb 2026
+   Line No.   PO Line No.         Type    Supplier Part No. /             Customer Part No.        Quantity            Unit Price         Subtotal
+                                        Description                                       (UOM)
+   1
+             1                 Material 5T913 / Rain Suit w/Jacket/                            2 / (EA)           $26.25 USD      $52.50 USD
+                                       Bib,Unrated,Yellow,L
+   Line No.
+             PO Line No.          Type    Supplier Part No. /             Customer Part No.        Quantity            Unit Price         Subtotal
+                                        Description                                       (UOM)
+   2        2                 Material  1FBB5 / Rain Suit.Jacket/                                              $30.11 USD      $90.33 USD
+                                                                                       3 / (EA)
+                                        Bib.Unrated.Yellow.4XL
+   Line No.   PO Line No.         Type    Supplier Part No. /             Customer Part No.        Quantity            Unit Price         Subtotal
+                                       Description                                       (UOM)
+   3        3                 Material  1FBB6 / Rain Suit.Jacket/                             2 / (EA)          $30.11 USD      $60.22 USD
+                                       Bib,Unrated,Yellow,5XL
+                                                                                                         Unit Price         Subtotal
+   Line No.    PO Line No.          Type    Supplier Part No. /             Customer Part No         Quantity
+                                       Description
+                                                                                      (UOM)
+   4        4                 Material  2U643 / Scouring Pad,9 in                             6 / (EA)          $14.98 USD      $89.88 USD
+                                       L,Green,PK20
+   Line No.    PO Line No.          Type    Supplier Part No. /             Customer Part No.        Quantity            Unit Price         Subtotal
+                                       Description                                       (UOM)
+   5        5                 Material 4A416 / Barricade Tape, Yellow,                         8 / (EA)            $5.04 USD      $40.32 USD
+                                       1,000 ft L, 3 in
+                                                                                                         Unit Price         Subtotal
+   Line No.    PO Line No.          Type    Supplier Part No. /             Customer Part No.        Quantity
+                                       Description
+                                                                                      (UOM)
+  6                           Material 2VJC4 / Dry Wipe,12 x                               25 / (EA)          $61.21 USD    $1,530.25 USD
+             6
+                                       12-1/2.White,PK18
+                                                                              Amount Summary
+                                                                              Line item subtotal                         $1,863.50 USD
+                                                                              Gross amount                           $1,863.50 USD
+                                                                              Net amount                             $1,863.50 USD
+                                                                                                                       $0.00 USD
+                                                                              Total tax amount
+                                                                              Total withholding tax amount
+                                                                                                                    $1,863.50 USD
+                                                                              Amount Due
+    Additional Information
+    InvoiceSourceDocument
+    PurchaseOrder
+    InvoiceSubmissionMethod
+   cXML
+                                                                          Remittance Information
+   Billing Information
+                                                                          Remit To
+   Bill To
+                                                                          GRAINGER
+   Frito-Lay Inc.
+                                                                          DEPT. 853331767
+   c/o PEPSICO NASS
+   ACCOUNTS PAYABLES                                                    KANSAS CITY
+   PO BOX 1800                                                            MO
+   Winston Salem                                                           64141-6267
+   NC                                                                    United States
+   27105                                                                 Address ID: US1_10359
+   United States
+                                                                         Tax ID of Supplier
+   Address ID: US28
+                                                                         36-1150280
+                                                                      Reference Documents
+                                                                      Original Supplier Order #: 1575956047
+==================================<Page 3 - END>================================
+==================================<Page 4 - START>================================
+  Appendix
+ Line No.
+             PO Line No. Type                           Supplier Part No. / Description
+  1          1         Material
+                                                       5T913 / Rain Suit w/Jacket/Bib,Unrated,Yellow,L
+  Additional Details:
+ Supplier Part ID : 5T913
+ Supplier Part Auxiliary ID : WWG5T913
+ Line No.    PO Line No. Type                           Supplier Part No. / Description
+  2         2         Material                         1FBB5 / Rain Suit,Jacket/Bib,Unrated,Yellow,4XL
+ Additional Details:
+ Supplier Part ID : 1FBB5
+ Supplier Part Auxiliary ID : WWG1FBB5
+ Line No.    PO Line No. Type                           Supplier Part No. / Description
+ 3         3         Material                         1FBB6 / Rain Suit,Jacket/Bib,Unrated,Yellow,5XL
+ Additional Details:
+Supplier Part ID : 1FBB6
+Supplier Part Auxiliary ID : WWG1FBB6
+Line No.    PO Line No. Type                           Supplier Part No. / Description
+4         4          Material                         2U643 / Scouring Pad,9 in L,Green,PK20
+ Additional Details:
+Supplier Part ID : 2U643
+Supplier Part Auxiliary ID : WWG2U643
+Line No.    PO Line No. Type                           Supplier Part No. / Description
+5                    Material                         4A416 / Barricade Tape, Yellow, 1,000 ft L, 3 in
+Additional Details:
+Supplier Part ID : 4A416
+Supplier Part Auxiliary ID : WWG4A416
+Line No.    PO Line No. Type                           Supplier Part No. / Description
+6         6         Material                         2VJC4 / Dry Wipe,12 x 12-1/2,White,PK18
+Additional Details:
+Supplier Part ID : 2VJC4
+Supplier Part Auxiliary ID : WWG2VJC4
+PDF generated on Friday 13 Feb 2026 12:53 AM GMT-08:00
+==================================<Page 4 - END>================================

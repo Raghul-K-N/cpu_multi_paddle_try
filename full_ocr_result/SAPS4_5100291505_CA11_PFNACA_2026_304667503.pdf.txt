@@ -1,0 +1,738 @@
+==================================<Page 1 - START>================================
+Standard Invoice
+                                                                                                                      GRAINGER
+Original tax invoice has been submitted electronically. This is a
+human readable representation (copy) of the original tax invoice.
+                                                                  Invoice Number                                       9806337193
+                                                                   (Supplier Reference No.)
+                                                                   Invoice Date                   Thursday 12 Feb. 2026 7:00 a.m. GMT-05:00
+                                                                                                                    $1,519.52 CAD
+                                                                   Amount Due
+    Contact Information
+                                                                             Shipping Information
+    Supplier                       Customer
+                                                                                                         Ship To
+                                                                             Ship From
+     ACKLANDS-GRAINGER INC.        EDI ONLY PEPSI FOODS ULC                                                CA-PL-CAMBRIDGE-ON-FLC
+                                                                             AGI CALEDON DC
+     PO BOX 2970                   (FLC)
+                                                                             21 Merchant Road                1001 BISHOP ST N
+     WINNIPEG
+                                   1001 BISHOP ST N                           Caledon                       CAMBRIDGE
+     MB                                                                                                  ON
+                                   DELIVER TO RECEIVING                       ON
+     R3C 4B5                                                                                             N3H 4V8
+                                   DOOR                                     L7C 3Y7
+     CA                          CAMBRIDGE                                                             Canada
+                                                                             Canada
+                                   ON
+                                   N3H 4V8
+                                   Canada
+                                                                                                                  PO Date : 12 Feb. 2026
+   Line Items                                                PO No. : M413555388
+                                                                                                                            Subtotal
+   Line No.                                                          Customer Part No.        Quantity            Unit Price
+              PO Line No.          Type    Supplier Part No. /
+                                         Description                                        (UOM)
+                                                                                                                          $64.35 CAD
+   10        1                  Material  ANL11-644-10PP / HYFLEX 11-644                       11 / (PR)           $5.85 CAD
+                                         A2 PU 13G HPPE VEND S10
+                                                                                                        Line Item Total : $64.35 CAD
+                                                                    Customer Part No.        Quantity            Unit Price         Subtotal
+   Line No.    PO Line No.          Type    Supplier Part No. /
+                                                                                          (UOM)
+                                         Description
+                                                                                                                          $42.13 CAD
+   20        2                  Material  ANL11-801-9PP / HYFLEX 11-801                        11 / (PR)           $3.83 CAD
+                                         BLA FOM NIT NYL 15GVEN S9
+                                                                                                        Line Item Total : $42.13 CAD
+                                                                    Customer Part No.         Quantity            Unit Price         Subtotal
+   Line No.    PO Line No.          Type    Supplier Part No. /
+                                         Description                                        (UM)
+                                                                                                                          $67.74 CAD
+   30       3                  Material ANL37-185-8 / GLOVES SOLVEX                        6 / (PR)           $11.29 CAD
+                                         EMB STR/C 18IN SZ8
+                                                                                                        Line Item Total : $67.74 CAD
+                                                                                          Quantity            Unit Price         Subtotal
+   Line No.    PO Line No.          Type    Supplier Part No. /              Customer Part No.
+                                         Description                                         (UOM)
+   40        4                  MaterialANL11-801-10PP / HYFLEX 11-801                        4 / (PR)            $3.83 CAD      $15.32 CAD
+                                         BLA FOM NIT NYL 15GVEN S10
+                                                                                                        Line Item Total : $15.32 CAD
+                                                                                          Quantity            Unit Price         Subtotal
+   Line No.    PO Line No.          Type   Supplier Part No. /             Customer Part No.
+                                         Description
+   50        5                  Material ANL11-644-9PP / HYFLEX 11-644                         48 / (PR)           $5.85 CAD      $280.80 CAD
+                                         A2 PU 13G HPPE VEND S9
+                                                                                                        Line Item Total : $280.80 CAD
+                                                                                                              Unit Price          Subtotal
+   Line No.    PO Line No.          Type    Supplier Part No. /              Customer Part No.         Quantity
+                                         Description                                         (UOM)
+   60                           MaterialEVREN92 / AAA                                     20 / (PK)           $2.13 CAD      $42.60 CAD
+              6
+                                         BATTERY,INDUSTRIAL,1.5V
+                                         DC,PK4
+                                                                                                         Line Item Total : $42.60 CAD
+                                                                                                              Unit Price
+   Line No.    PO Line No.          Type    Supplier Part No. /              Customer Part No.         Quantity                              Subtotal
+                                         Description
+                                                                                          (UOM)
+   70        7                  Material ANL11-644-6PP / HYFLEX 11-644                        4 / (PR)            $5.85 CAD       $23.40 CAD
+                                         A2 PU 13G HPPE VEND S6
+                                                                                                         Line Item Total : $23.40 CAD
+   Line No.    PO Line No.          Type    Supplier Part No. /              Customer Part No.         Quantity             Unit Price          Subtotal
+                                         Description                                         (UOM)
+   80        8                  Material  ANL37-185-11 / GLOVES SOLVEX                        3 / (PR)           $11.29 CAD       $33.87 CAD
+                                        EMB STR/C 18IN SZ11
+                                                                                                         Line Item Total : $33.87 CAD
+  Line No.    PO Line No.          Type    Supplier Part No. /              Customer Part No.         Quantity             Unit Price          Subtotal
+                                        Description                                         (UOM)
+  90       9                  Material  ANL11-644-8PP / HYFLEX 11-644                         37 / (PR)            $5.85 CAD      $216.45 CAD
+                                        A2 PU 13G HPPE VEND S8
+                                                                                                        Line Item Total : $216.45 CAD
+  Line No.    PO Line No.                  Supplier Part No. /              Customer Part No.                             Unit Price
+                                Type                                                      Quantity                              Subtotal
+                                        Description                                         (UOM)
+  100       10                 Material  ANL11-644-7PP / HYFLEX 11-644                         24 / (PR)            $5.85 CAD      $140.40 CAD
+                                        A2 PU 13G HPPE VEND S7
+                                                                                                        Line Item Total : $140.40 CAD
+  Line No.    PO Line No.          Type    Supplier Part No. /              Customer Part No.         Quantity             Unit Price          Subtotal
+                                        Description                                          (UOM)
+ 110                                   MMMSF201SGAFBLU / SAFETY
+            11                  Material                                                    25 / (PR)            $8.09 CAD      $202.25 CAD
+                                        GLASSES,BLUE,XYLEX
+                                                                                                        Line Item Total : $202.25 CAD
+Line No.    PO Line No.                  Supplier Part No. /              Customer Part No.         Quantity             Unit Price
+                                Type                                                                                           Subtotal
+                                        Description
+                                                                                          (UOM)
+120       12                  Material ANL37-185-9 / CHEMICAL                              7 / (PR)           $11.29 CAD
+                                                                                                                            $79.03 CAD
+                                        RESISTANT GLOVES,GREEN,SZ
+                                        9,PR
+                                                                                                         Line Item Total : $79.03 CAD
+Line No.    PO Line No.          Type    Supplier Part No. /              Customer Part No.         Quantity             Unit Price          Subtotal
+                                        Description                                          (UOM)
+130
+           13                  Material  MSFHVS18 /                                        13 / (EA)          $10.49 CAD      $136.37 CAD
+                                        SUSPENDERS,GREEN,SZ
+                                        UNIVERSAL,POLYESTER
+                                                                                                        Line Item Total : $136.37 CAD
+    Tax Summary
+==================================<Page 1 - END>================================
+==================================<Page 2 - START>================================
+                                                          Base Amount                               Amount
+    Category               Details                                                     Rate %
+    GST                  Tax Description : GOODS AND          $1,344.71 CAD              13%            $174.81 CAD
+                          SERVICES
+    PST                  Tax Description : State/Provincial        $1,344.71 CAD              0%             $0.00 CAD
+                          Tax
+                                                                             Amount Summary
+                                                                             Line item subtotal                         $1,344.71 CAD
+                                                                                                                   $1,519.52 CAD
+                                                                             Gross amount
+                                                                                                                   $1,519.52 CAD
+                                                                             Net amount
+                                                                                                                    $174.81 CAD
+                                                                             Total tax amount
+                                                                             Total withholding tax amount
+                                                                             Amount Due                             $1,519.52 CAD
+   Additional Information
+   invioceSourceDocument
+   PurchaseOrder
+                                                                         Remittance Information
+   Billing Information
+                                                                         Remit To
+  Bill To
+                                                                         ACKLANDS-GRAINGER INC.
+   PEPSI FOODS ULC (FLC)
+                                                                         PO BOX 2970
+  2095 MATHESON BLVD E
+                                                                         WINNIPEG
+  MISSISSAUGA
+                                                                         MB
+  ON
+                                                                         R3C 4B5
+  L4W 0G2
+                                                                         Canada
+  Canada
+                                                                         Address ID: CA1_2751
+  Address ID:
+  CA1_ARIBA_PAYABLES
+==================================<Page 2 - END>================================
+==================================<Page 3 - START>================================
+   Appendix
+  Line No.
+              PO Line No. Type
+                                                          Supplier Part No. / Description
+  10
+              1         Material
+                                                          ANL11-644-10PP / HYFLEX 11-644 A2 PU 13G HPPE VEND S10
+  Additional Details:
+  Supplier Part ID : ANL11-644-10PP
+  Line No.
+              PO Line No. Type                            Supplier Part No. / Description
+  20
+              2
+                         Material
+                                                          ANL11-801-9PP / HYFLEX 11-801 BLA FOM NIT NYL 15GVEN S9
+  Additional Details:
+  Supplier Part ID : ANL11-801-9PP
+  Line No.    PO Line No. Type
+                                                          Supplier Part No. / Description
+  30
+              3
+                         Material                          ANL37-185-8 / GLOVES SOLVEX EMB STR/C 18IN SZ8
+  Additional Details:
+  Supplier Part ID : ANL37-185-8
+  Line No.    PO Line No. Type
+                                                          Supplier Part No. / Description
+  40        4         Material
+                                                          ANL11-801-10PP / HYFLEX 11-801 BLA FOM NIT NYL 15GVEN S10
+  Additional Details:
+  Supplier Part ID : ANL11-801-10PP
+  Line No.
+              PO Line No. Type                            Supplier Part No. / Description
+  50        5          Material
+                                                          ANL11-644-9PP / HYFLEX 11-644 A2 PU 13G HPPE VEND S9
+  Additional Details:
+  Supplier Part ID : ANL11-644-9PP
+  Line No.    PO Line No. Type
+                                                          Supplier Part No. / Description
+  60        6          Material
+                                                          EVREN92 / AAA BATTERY,INDUSTRIAL,1.5V DC,PK4
+  Additional Details:
+  Supplier Part ID : EVREN92
+  Line No.    PO Line No. Type
+                                                          Supplier Part No. / Description
+  70        7          Material
+                                                          ANL11-644-6PP / HYFLEX 11-644 A2 PU 13G HPPE VEND S6
+  Additional Details:
+  Supplier Part ID : ANL11-644-6PP
+  Line No.
+             PO Line No. Type                            Supplier Part No. / Description
+  80
+             8          Material                          ANL37-185-11 / GLOVES SOLVEX EMB STR/C 18IN SZ11
+  Additional Details:
+  Supplier Part ID : ANL37-185-11
+  Line No.    PO Line No. Type
+                                                         Supplier Part No. / Description
+  90        9          Material
+                                                         ANL11-644-8PP / HYFLEX 11-644 A2 PU 13G HPPE VEND S8
+  Additional Details:
+  Supplier Part ID : ANL11-644-8PP
+  Line No.
+              PO Line No. Type                            Supplier Part No. / Description
+  100
+              10        Material                          ANL11-644-7PP / HYFLEX 11-644 A2 PU 13G HPPE VEND S7
+  Additional Details:
+   Supplier Part ID : ANL11-644-7PP
+  Line No.    PO Line No. Type                            Supplier Part No. / Description
+  110       11        Material                          MMMSF201SGAFBLU / SAFETY GLASSES.BLUE,XYLEX
+  Additional Details:
+  Supplier Part ID : MMMSF201SGAFBLU
+  Line No.    PO Line No. Type                            Supplier Part No. / Description
+  120       12        Material
+                                                         ANL37-185-9 / CHEMICAL RESISTANT GLOVES.GREEN,SZ 9,PR
+  Additional Details:
+  Supplier Part ID : ANL37-185-9
+  Line No.    PO Line No. Type
+                                                         Supplier Part No. / Description
+  130       13        Material
+                                                         MSFHVS18 / SUSPENDERS,GREEN,SZ UNIVERSAL,POLYESTER
+  Additional Details:
+  Supplier Part ID : MSFHVS18
+ PDF generated on Friday 13 Feb. 2026 6:20 a.m. GMT-08:00
+==================================<Page 3 - END>================================
+==================================<Page 4 - START>================================
+Standard Invoice
+                                                                                                                      GRAINGER
+Original tax invoice has been submitted electronically. This is a
+human readable representation (copy) of the original tax invoice.
+                                                                  Invoice Number                                       9806337193
+                                                                   (Supplier Reference No.)
+                                                                   Invoice Date                   Thursday 12 Feb. 2026 7:00 a.m. GMT-05:00
+                                                                                                                    $1,519.52 CAD
+                                                                   Amount Due
+    Contact Information
+                                                                             Shipping Information
+    Supplier                       Customer
+                                                                                                         Ship To
+                                                                             Ship From
+     ACKLANDS-GRAINGER INC.        EDI ONLY PEPSI FOODS ULC                                                CA-PL-CAMBRIDGE-ON-FLC
+                                                                             AGI CALEDON DC
+     PO BOX 2970                   (FLC)
+                                                                             21 Merchant Road                1001 BISHOP ST N
+     WINNIPEG
+                                   1001 BISHOP ST N                           Caledon                       CAMBRIDGE
+     MB                                                                                                  ON
+                                   DELIVER TO RECEIVING                       ON
+     R3C 4B5                                                                                             N3H 4V8
+                                   DOOR                                     L7C 3Y7
+     CA                          CAMBRIDGE                                                             Canada
+                                                                             Canada
+                                   ON
+                                   N3H 4V8
+                                   Canada
+                                                                                                                  PO Date : 12 Feb. 2026
+   Line Items                                                PO No. : M413555388
+                                                                                                                            Subtotal
+   Line No.                                                          Customer Part No.        Quantity            Unit Price
+              PO Line No.          Type    Supplier Part No. /
+                                         Description                                        (UOM)
+                                                                                                                          $64.35 CAD
+   10        1                  Material  ANL11-644-10PP / HYFLEX 11-644                       11 / (PR)           $5.85 CAD
+                                         A2 PU 13G HPPE VEND S10
+                                                                                                        Line Item Total : $64.35 CAD
+                                                                    Customer Part No.        Quantity            Unit Price         Subtotal
+   Line No.    PO Line No.          Type    Supplier Part No. /
+                                                                                          (UOM)
+                                         Description
+                                                                                                                          $42.13 CAD
+   20        2                  Material  ANL11-801-9PP / HYFLEX 11-801                        11 / (PR)           $3.83 CAD
+                                         BLA FOM NIT NYL 15GVEN S9
+                                                                                                        Line Item Total : $42.13 CAD
+                                                                    Customer Part No.         Quantity            Unit Price         Subtotal
+   Line No.    PO Line No.          Type    Supplier Part No. /
+                                         Description                                        (UM)
+                                                                                                                          $67.74 CAD
+   30       3                  Material ANL37-185-8 / GLOVES SOLVEX                        6 / (PR)           $11.29 CAD
+                                         EMB STR/C 18IN SZ8
+                                                                                                        Line Item Total : $67.74 CAD
+                                                                                          Quantity            Unit Price         Subtotal
+   Line No.    PO Line No.          Type    Supplier Part No. /              Customer Part No.
+                                         Description                                         (UOM)
+   40        4                  MaterialANL11-801-10PP / HYFLEX 11-801                        4 / (PR)            $3.83 CAD      $15.32 CAD
+                                         BLA FOM NIT NYL 15GVEN S10
+                                                                                                        Line Item Total : $15.32 CAD
+                                                                                          Quantity            Unit Price         Subtotal
+   Line No.    PO Line No.          Type   Supplier Part No. /             Customer Part No.
+                                         Description
+   50        5                  Material ANL11-644-9PP / HYFLEX 11-644                         48 / (PR)           $5.85 CAD      $280.80 CAD
+                                         A2 PU 13G HPPE VEND S9
+                                                                                                        Line Item Total : $280.80 CAD
+                                                                                                              Unit Price          Subtotal
+   Line No.    PO Line No.          Type    Supplier Part No. /              Customer Part No.         Quantity
+                                         Description                                         (UOM)
+   60                           MaterialEVREN92 / AAA                                     20 / (PK)           $2.13 CAD      $42.60 CAD
+              6
+                                         BATTERY,INDUSTRIAL,1.5V
+                                         DC,PK4
+                                                                                                         Line Item Total : $42.60 CAD
+                                                                                                              Unit Price
+   Line No.    PO Line No.          Type    Supplier Part No. /              Customer Part No.         Quantity                              Subtotal
+                                         Description
+                                                                                          (UOM)
+   70        7                  Material ANL11-644-6PP / HYFLEX 11-644                        4 / (PR)            $5.85 CAD       $23.40 CAD
+                                         A2 PU 13G HPPE VEND S6
+                                                                                                         Line Item Total : $23.40 CAD
+   Line No.    PO Line No.          Type    Supplier Part No. /              Customer Part No.         Quantity             Unit Price          Subtotal
+                                         Description                                         (UOM)
+   80        8                  Material  ANL37-185-11 / GLOVES SOLVEX                        3 / (PR)           $11.29 CAD       $33.87 CAD
+                                        EMB STR/C 18IN SZ11
+                                                                                                         Line Item Total : $33.87 CAD
+  Line No.    PO Line No.          Type    Supplier Part No. /              Customer Part No.         Quantity             Unit Price          Subtotal
+                                        Description                                         (UOM)
+  90       9                  Material  ANL11-644-8PP / HYFLEX 11-644                         37 / (PR)            $5.85 CAD      $216.45 CAD
+                                        A2 PU 13G HPPE VEND S8
+                                                                                                        Line Item Total : $216.45 CAD
+  Line No.    PO Line No.                  Supplier Part No. /              Customer Part No.                             Unit Price
+                                Type                                                      Quantity                              Subtotal
+                                        Description                                         (UOM)
+  100       10                 Material  ANL11-644-7PP / HYFLEX 11-644                         24 / (PR)            $5.85 CAD      $140.40 CAD
+                                        A2 PU 13G HPPE VEND S7
+                                                                                                        Line Item Total : $140.40 CAD
+  Line No.    PO Line No.          Type    Supplier Part No. /              Customer Part No.         Quantity             Unit Price          Subtotal
+                                        Description                                          (UOM)
+ 110                                   MMMSF201SGAFBLU / SAFETY
+            11                  Material                                                    25 / (PR)            $8.09 CAD      $202.25 CAD
+                                        GLASSES,BLUE,XYLEX
+                                                                                                        Line Item Total : $202.25 CAD
+Line No.    PO Line No.                  Supplier Part No. /              Customer Part No.         Quantity             Unit Price
+                                Type                                                                                           Subtotal
+                                        Description
+                                                                                          (UOM)
+120       12                  Material ANL37-185-9 / CHEMICAL                              7 / (PR)           $11.29 CAD
+                                                                                                                            $79.03 CAD
+                                        RESISTANT GLOVES,GREEN,SZ
+                                        9,PR
+                                                                                                         Line Item Total : $79.03 CAD
+Line No.    PO Line No.          Type    Supplier Part No. /              Customer Part No.         Quantity             Unit Price          Subtotal
+                                        Description                                          (UOM)
+130
+           13                  Material  MSFHVS18 /                                        13 / (EA)          $10.49 CAD      $136.37 CAD
+                                        SUSPENDERS,GREEN,SZ
+                                        UNIVERSAL,POLYESTER
+                                                                                                        Line Item Total : $136.37 CAD
+    Tax Summary
+==================================<Page 4 - END>================================
+==================================<Page 5 - START>================================
+                                                          Base Amount                               Amount
+    Category               Details                                                     Rate %
+    GST                  Tax Description : GOODS AND          $1,344.71 CAD              13%            $174.81 CAD
+                          SERVICES
+    PST                  Tax Description : State/Provincial        $1,344.71 CAD              0%             $0.00 CAD
+                          Tax
+                                                                             Amount Summary
+                                                                             Line item subtotal                         $1,344.71 CAD
+                                                                                                                   $1,519.52 CAD
+                                                                             Gross amount
+                                                                                                                   $1,519.52 CAD
+                                                                             Net amount
+                                                                                                                    $174.81 CAD
+                                                                             Total tax amount
+                                                                             Total withholding tax amount
+                                                                             Amount Due                             $1,519.52 CAD
+   Additional Information
+   invioceSourceDocument
+   PurchaseOrder
+                                                                         Remittance Information
+   Billing Information
+                                                                         Remit To
+  Bill To
+                                                                         ACKLANDS-GRAINGER INC.
+   PEPSI FOODS ULC (FLC)
+                                                                         PO BOX 2970
+  2095 MATHESON BLVD E
+                                                                         WINNIPEG
+  MISSISSAUGA
+                                                                         MB
+  ON
+                                                                         R3C 4B5
+  L4W 0G2
+                                                                         Canada
+  Canada
+                                                                         Address ID: CA1_2751
+  Address ID:
+  CA1_ARIBA_PAYABLES
+==================================<Page 5 - END>================================
+==================================<Page 6 - START>================================
+   Appendix
+  Line No.
+              PO Line No. Type
+                                                          Supplier Part No. / Description
+  10
+              1         Material
+                                                          ANL11-644-10PP / HYFLEX 11-644 A2 PU 13G HPPE VEND S10
+  Additional Details:
+  Supplier Part ID : ANL11-644-10PP
+  Line No.
+              PO Line No. Type                            Supplier Part No. / Description
+  20
+              2
+                         Material
+                                                          ANL11-801-9PP / HYFLEX 11-801 BLA FOM NIT NYL 15GVEN S9
+  Additional Details:
+  Supplier Part ID : ANL11-801-9PP
+  Line No.    PO Line No. Type
+                                                          Supplier Part No. / Description
+  30
+              3
+                         Material                          ANL37-185-8 / GLOVES SOLVEX EMB STR/C 18IN SZ8
+  Additional Details:
+  Supplier Part ID : ANL37-185-8
+  Line No.    PO Line No. Type
+                                                          Supplier Part No. / Description
+  40        4         Material
+                                                          ANL11-801-10PP / HYFLEX 11-801 BLA FOM NIT NYL 15GVEN S10
+  Additional Details:
+  Supplier Part ID : ANL11-801-10PP
+  Line No.
+              PO Line No. Type                            Supplier Part No. / Description
+  50        5          Material
+                                                          ANL11-644-9PP / HYFLEX 11-644 A2 PU 13G HPPE VEND S9
+  Additional Details:
+  Supplier Part ID : ANL11-644-9PP
+  Line No.    PO Line No. Type
+                                                          Supplier Part No. / Description
+  60        6          Material
+                                                          EVREN92 / AAA BATTERY,INDUSTRIAL,1.5V DC,PK4
+  Additional Details:
+  Supplier Part ID : EVREN92
+  Line No.    PO Line No. Type
+                                                          Supplier Part No. / Description
+  70        7          Material
+                                                          ANL11-644-6PP / HYFLEX 11-644 A2 PU 13G HPPE VEND S6
+  Additional Details:
+  Supplier Part ID : ANL11-644-6PP
+  Line No.
+             PO Line No. Type                            Supplier Part No. / Description
+  80
+             8          Material                          ANL37-185-11 / GLOVES SOLVEX EMB STR/C 18IN SZ11
+  Additional Details:
+  Supplier Part ID : ANL37-185-11
+  Line No.    PO Line No. Type
+                                                         Supplier Part No. / Description
+  90        9          Material
+                                                         ANL11-644-8PP / HYFLEX 11-644 A2 PU 13G HPPE VEND S8
+  Additional Details:
+  Supplier Part ID : ANL11-644-8PP
+  Line No.
+              PO Line No. Type                            Supplier Part No. / Description
+  100
+              10        Material                          ANL11-644-7PP / HYFLEX 11-644 A2 PU 13G HPPE VEND S7
+  Additional Details:
+   Supplier Part ID : ANL11-644-7PP
+  Line No.    PO Line No. Type                            Supplier Part No. / Description
+  110       11        Material                          MMMSF201SGAFBLU / SAFETY GLASSES.BLUE,XYLEX
+  Additional Details:
+  Supplier Part ID : MMMSF201SGAFBLU
+  Line No.    PO Line No. Type                            Supplier Part No. / Description
+  120       12        Material
+                                                         ANL37-185-9 / CHEMICAL RESISTANT GLOVES.GREEN,SZ 9,PR
+  Additional Details:
+  Supplier Part ID : ANL37-185-9
+  Line No.    PO Line No. Type
+                                                         Supplier Part No. / Description
+  130       13        Material
+                                                         MSFHVS18 / SUSPENDERS,GREEN,SZ UNIVERSAL,POLYESTER
+  Additional Details:
+  Supplier Part ID : MSFHVS18
+ PDF generated on Friday 13 Feb. 2026 6:20 a.m. GMT-08:00
+==================================<Page 6 - END>================================
+==================================<Page 7 - START>================================
+Standard Invoice
+                                                                                                                      GRAINGER
+Original tax invoice has been submitted electronically. This is a
+human readable representation (copy) of the original tax invoice.
+                                                                  Invoice Number                                       9806337193
+                                                                   (Supplier Reference No.)
+                                                                   Invoice Date                   Thursday 12 Feb. 2026 7:00 a.m. GMT-05:00
+                                                                                                                    $1,519.52 CAD
+                                                                   Amount Due
+    Contact Information
+                                                                             Shipping Information
+    Supplier                       Customer
+                                                                                                         Ship To
+                                                                             Ship From
+     ACKLANDS-GRAINGER INC.        EDI ONLY PEPSI FOODS ULC                                                CA-PL-CAMBRIDGE-ON-FLC
+                                                                             AGI CALEDON DC
+     PO BOX 2970                   (FLC)
+                                                                             21 Merchant Road                1001 BISHOP ST N
+     WINNIPEG
+                                   1001 BISHOP ST N                           Caledon                       CAMBRIDGE
+     MB                                                                                                  ON
+                                   DELIVER TO RECEIVING                       ON
+     R3C 4B5                                                                                             N3H 4V8
+                                   DOOR                                     L7C 3Y7
+     CA                          CAMBRIDGE                                                             Canada
+                                                                             Canada
+                                   ON
+                                   N3H 4V8
+                                   Canada
+                                                                                                                  PO Date : 12 Feb. 2026
+   Line Items                                                PO No. : M413555388
+                                                                                                                            Subtotal
+   Line No.                                                          Customer Part No.        Quantity            Unit Price
+              PO Line No.          Type    Supplier Part No. /
+                                         Description                                        (UOM)
+                                                                                                                          $64.35 CAD
+   10        1                  Material  ANL11-644-10PP / HYFLEX 11-644                       11 / (PR)           $5.85 CAD
+                                         A2 PU 13G HPPE VEND S10
+                                                                                                        Line Item Total : $64.35 CAD
+                                                                    Customer Part No.        Quantity            Unit Price         Subtotal
+   Line No.    PO Line No.          Type    Supplier Part No. /
+                                                                                          (UOM)
+                                         Description
+                                                                                                                          $42.13 CAD
+   20        2                  Material  ANL11-801-9PP / HYFLEX 11-801                        11 / (PR)           $3.83 CAD
+                                         BLA FOM NIT NYL 15GVEN S9
+                                                                                                        Line Item Total : $42.13 CAD
+                                                                    Customer Part No.         Quantity            Unit Price         Subtotal
+   Line No.    PO Line No.          Type    Supplier Part No. /
+                                         Description                                        (UM)
+                                                                                                                          $67.74 CAD
+   30       3                  Material ANL37-185-8 / GLOVES SOLVEX                        6 / (PR)           $11.29 CAD
+                                         EMB STR/C 18IN SZ8
+                                                                                                        Line Item Total : $67.74 CAD
+                                                                                          Quantity            Unit Price         Subtotal
+   Line No.    PO Line No.          Type    Supplier Part No. /              Customer Part No.
+                                         Description                                         (UOM)
+   40        4                  MaterialANL11-801-10PP / HYFLEX 11-801                        4 / (PR)            $3.83 CAD      $15.32 CAD
+                                         BLA FOM NIT NYL 15GVEN S10
+                                                                                                        Line Item Total : $15.32 CAD
+                                                                                          Quantity            Unit Price         Subtotal
+   Line No.    PO Line No.          Type   Supplier Part No. /             Customer Part No.
+                                         Description
+   50        5                  Material ANL11-644-9PP / HYFLEX 11-644                         48 / (PR)           $5.85 CAD      $280.80 CAD
+                                         A2 PU 13G HPPE VEND S9
+                                                                                                        Line Item Total : $280.80 CAD
+                                                                                                              Unit Price          Subtotal
+   Line No.    PO Line No.          Type    Supplier Part No. /              Customer Part No.         Quantity
+                                         Description                                         (UOM)
+   60                           MaterialEVREN92 / AAA                                     20 / (PK)           $2.13 CAD      $42.60 CAD
+              6
+                                         BATTERY,INDUSTRIAL,1.5V
+                                         DC,PK4
+                                                                                                         Line Item Total : $42.60 CAD
+                                                                                                              Unit Price
+   Line No.    PO Line No.          Type    Supplier Part No. /              Customer Part No.         Quantity                              Subtotal
+                                         Description
+                                                                                          (UOM)
+   70        7                  Material ANL11-644-6PP / HYFLEX 11-644                        4 / (PR)            $5.85 CAD       $23.40 CAD
+                                         A2 PU 13G HPPE VEND S6
+                                                                                                         Line Item Total : $23.40 CAD
+   Line No.    PO Line No.          Type    Supplier Part No. /              Customer Part No.         Quantity             Unit Price          Subtotal
+                                         Description                                         (UOM)
+   80        8                  Material  ANL37-185-11 / GLOVES SOLVEX                        3 / (PR)           $11.29 CAD       $33.87 CAD
+                                        EMB STR/C 18IN SZ11
+                                                                                                         Line Item Total : $33.87 CAD
+  Line No.    PO Line No.          Type    Supplier Part No. /              Customer Part No.         Quantity             Unit Price          Subtotal
+                                        Description                                         (UOM)
+  90       9                  Material  ANL11-644-8PP / HYFLEX 11-644                         37 / (PR)            $5.85 CAD      $216.45 CAD
+                                        A2 PU 13G HPPE VEND S8
+                                                                                                        Line Item Total : $216.45 CAD
+  Line No.    PO Line No.                  Supplier Part No. /              Customer Part No.                             Unit Price
+                                Type                                                      Quantity                              Subtotal
+                                        Description                                         (UOM)
+  100       10                 Material  ANL11-644-7PP / HYFLEX 11-644                         24 / (PR)            $5.85 CAD      $140.40 CAD
+                                        A2 PU 13G HPPE VEND S7
+                                                                                                        Line Item Total : $140.40 CAD
+  Line No.    PO Line No.          Type    Supplier Part No. /              Customer Part No.         Quantity             Unit Price          Subtotal
+                                        Description                                          (UOM)
+ 110                                   MMMSF201SGAFBLU / SAFETY
+            11                  Material                                                    25 / (PR)            $8.09 CAD      $202.25 CAD
+                                        GLASSES,BLUE,XYLEX
+                                                                                                        Line Item Total : $202.25 CAD
+Line No.    PO Line No.                  Supplier Part No. /              Customer Part No.         Quantity             Unit Price
+                                Type                                                                                           Subtotal
+                                        Description
+                                                                                          (UOM)
+120       12                  Material ANL37-185-9 / CHEMICAL                              7 / (PR)           $11.29 CAD
+                                                                                                                            $79.03 CAD
+                                        RESISTANT GLOVES,GREEN,SZ
+                                        9,PR
+                                                                                                         Line Item Total : $79.03 CAD
+Line No.    PO Line No.          Type    Supplier Part No. /              Customer Part No.         Quantity             Unit Price          Subtotal
+                                        Description                                          (UOM)
+130
+           13                  Material  MSFHVS18 /                                        13 / (EA)          $10.49 CAD      $136.37 CAD
+                                        SUSPENDERS,GREEN,SZ
+                                        UNIVERSAL,POLYESTER
+                                                                                                        Line Item Total : $136.37 CAD
+    Tax Summary
+==================================<Page 7 - END>================================
+==================================<Page 8 - START>================================
+                                                          Base Amount                               Amount
+    Category               Details                                                     Rate %
+    GST                  Tax Description : GOODS AND          $1,344.71 CAD              13%            $174.81 CAD
+                          SERVICES
+    PST                  Tax Description : State/Provincial        $1,344.71 CAD              0%             $0.00 CAD
+                          Tax
+                                                                             Amount Summary
+                                                                             Line item subtotal                         $1,344.71 CAD
+                                                                                                                   $1,519.52 CAD
+                                                                             Gross amount
+                                                                                                                   $1,519.52 CAD
+                                                                             Net amount
+                                                                                                                    $174.81 CAD
+                                                                             Total tax amount
+                                                                             Total withholding tax amount
+                                                                             Amount Due                             $1,519.52 CAD
+   Additional Information
+   invioceSourceDocument
+   PurchaseOrder
+                                                                         Remittance Information
+   Billing Information
+                                                                         Remit To
+  Bill To
+                                                                         ACKLANDS-GRAINGER INC.
+   PEPSI FOODS ULC (FLC)
+                                                                         PO BOX 2970
+  2095 MATHESON BLVD E
+                                                                         WINNIPEG
+  MISSISSAUGA
+                                                                         MB
+  ON
+                                                                         R3C 4B5
+  L4W 0G2
+                                                                         Canada
+  Canada
+                                                                         Address ID: CA1_2751
+  Address ID:
+  CA1_ARIBA_PAYABLES
+==================================<Page 8 - END>================================
+==================================<Page 9 - START>================================
+   Appendix
+  Line No.
+              PO Line No. Type
+                                                          Supplier Part No. / Description
+  10
+              1         Material
+                                                          ANL11-644-10PP / HYFLEX 11-644 A2 PU 13G HPPE VEND S10
+  Additional Details:
+  Supplier Part ID : ANL11-644-10PP
+  Line No.
+              PO Line No. Type                            Supplier Part No. / Description
+  20
+              2
+                         Material
+                                                          ANL11-801-9PP / HYFLEX 11-801 BLA FOM NIT NYL 15GVEN S9
+  Additional Details:
+  Supplier Part ID : ANL11-801-9PP
+  Line No.    PO Line No. Type
+                                                          Supplier Part No. / Description
+  30
+              3
+                         Material                          ANL37-185-8 / GLOVES SOLVEX EMB STR/C 18IN SZ8
+  Additional Details:
+  Supplier Part ID : ANL37-185-8
+  Line No.    PO Line No. Type
+                                                          Supplier Part No. / Description
+  40        4         Material
+                                                          ANL11-801-10PP / HYFLEX 11-801 BLA FOM NIT NYL 15GVEN S10
+  Additional Details:
+  Supplier Part ID : ANL11-801-10PP
+  Line No.
+              PO Line No. Type                            Supplier Part No. / Description
+  50        5          Material
+                                                          ANL11-644-9PP / HYFLEX 11-644 A2 PU 13G HPPE VEND S9
+  Additional Details:
+  Supplier Part ID : ANL11-644-9PP
+  Line No.    PO Line No. Type
+                                                          Supplier Part No. / Description
+  60        6          Material
+                                                          EVREN92 / AAA BATTERY,INDUSTRIAL,1.5V DC,PK4
+  Additional Details:
+  Supplier Part ID : EVREN92
+  Line No.    PO Line No. Type
+                                                          Supplier Part No. / Description
+  70        7          Material
+                                                          ANL11-644-6PP / HYFLEX 11-644 A2 PU 13G HPPE VEND S6
+  Additional Details:
+  Supplier Part ID : ANL11-644-6PP
+  Line No.
+             PO Line No. Type                            Supplier Part No. / Description
+  80
+             8          Material                          ANL37-185-11 / GLOVES SOLVEX EMB STR/C 18IN SZ11
+  Additional Details:
+  Supplier Part ID : ANL37-185-11
+  Line No.    PO Line No. Type
+                                                         Supplier Part No. / Description
+  90        9          Material
+                                                         ANL11-644-8PP / HYFLEX 11-644 A2 PU 13G HPPE VEND S8
+  Additional Details:
+  Supplier Part ID : ANL11-644-8PP
+  Line No.
+              PO Line No. Type                            Supplier Part No. / Description
+  100
+              10        Material                          ANL11-644-7PP / HYFLEX 11-644 A2 PU 13G HPPE VEND S7
+  Additional Details:
+   Supplier Part ID : ANL11-644-7PP
+  Line No.    PO Line No. Type                            Supplier Part No. / Description
+  110       11        Material                          MMMSF201SGAFBLU / SAFETY GLASSES.BLUE,XYLEX
+  Additional Details:
+  Supplier Part ID : MMMSF201SGAFBLU
+  Line No.    PO Line No. Type                            Supplier Part No. / Description
+  120       12        Material
+                                                         ANL37-185-9 / CHEMICAL RESISTANT GLOVES.GREEN,SZ 9,PR
+  Additional Details:
+  Supplier Part ID : ANL37-185-9
+  Line No.    PO Line No. Type
+                                                         Supplier Part No. / Description
+  130       13        Material
+                                                         MSFHVS18 / SUSPENDERS,GREEN,SZ UNIVERSAL,POLYESTER
+  Additional Details:
+  Supplier Part ID : MSFHVS18
+ PDF generated on Friday 13 Feb. 2026 6:20 a.m. GMT-08:00
+==================================<Page 9 - END>================================

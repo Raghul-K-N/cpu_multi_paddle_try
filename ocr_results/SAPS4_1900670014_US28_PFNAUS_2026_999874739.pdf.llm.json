@@ -1,0 +1,55 @@
+{
+  "invoice_data": {
+    "invoice_number": "3202536988",
+    "invoice_date": "22.01.2026",
+    "invoice_amount": "2293.00",
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": "0.00",
+    "po_number": [
+      "4503530482"
+    ],
+    "gl_account_number": [
+      "2A44100200"
+    ],
+    "freight_and_handling_charges": "2293.00",
+    "cost_center": [
+      "2A44100200"
+    ],
+    "vendor_name": "MENASHA CORPORATION",
+    "vendor_address": "75 REMITTANCE DR, CHICAGO IL 60675-6970, USA",
+    "po_line_items": null,
+    "vat_amount": null,
+    "gl_account": null,
+    "bank_name": null,
+    "account_holder_name": null,
+    "banking_account_number": null,
+    "remit_to_address": null,
+    "bill_to_address": null,
+    "transaction_type": "debit"
+  },
+  "filename": "SAPS4_1900670014_US28_PFNAUS_2026_999874739.pdf",
+  "raw_response": {
+    "invoice_number": "3202536988",
+    "invoice_date": "22.01.2026",
+    "invoice_amount": "2293.00",
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": "0.00",
+    "po_number": [
+      "4503530482"
+    ],
+    "gl_account_number": [
+      "2A44100200"
+    ],
+    "freight_and_handling_charges": "2293.00",
+    "cost_center": [
+      "2A44100200"
+    ],
+    "vendor_name": "MENASHA CORPORATION",
+    "vendor_address": "75 REMITTANCE DR, CHICAGO IL 60675-6970, USA",
+    "po_line_items": null
+  }
+}

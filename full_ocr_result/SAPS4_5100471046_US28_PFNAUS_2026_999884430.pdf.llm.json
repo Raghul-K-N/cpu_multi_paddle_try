@@ -1,0 +1,59 @@
+{
+  "invoice_data": {
+    "invoice_number": "9805016301",
+    "invoice_date": "02/11/2026",
+    "invoice_amount": "364.94",
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": "32.42",
+    "po_number": [
+      "4505129433"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "GRAINGER",
+    "vendor_address": "1912 JORDAN LN. NW, HUNTSVILLE, AL 35816-1542",
+    "po_line_items": [
+      {
+        "description": "1PEL7 STRT,BRASS,PUSH-FIT3/8IN,FNPT3/8IN,PK10",
+        "quantity": 2.0,
+        "net_price": 166.26
+      }
+    ],
+    "vat_amount": null,
+    "gl_account": null,
+    "bank_name": null,
+    "account_holder_name": null,
+    "banking_account_number": null,
+    "remit_to_address": null,
+    "bill_to_address": null,
+    "transaction_type": "debit"
+  },
+  "filename": "SAPS4_5100471046_US28_PFNAUS_2026_999884430.pdf",
+  "raw_response": {
+    "invoice_number": "9805016301",
+    "invoice_date": "02/11/2026",
+    "invoice_amount": "364.94",
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": "32.42",
+    "po_number": [
+      "4505129433"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "GRAINGER",
+    "vendor_address": "1912 JORDAN LN. NW, HUNTSVILLE, AL 35816-1542",
+    "po_line_items": [
+      {
+        "description": "1PEL7 STRT,BRASS,PUSH-FIT3/8IN,FNPT3/8IN,PK10",
+        "quantity": 2.0,
+        "net_price": 166.26
+      }
+    ]
+  }
+}

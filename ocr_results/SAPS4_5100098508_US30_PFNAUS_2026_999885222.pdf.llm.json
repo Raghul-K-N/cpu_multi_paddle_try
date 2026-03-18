@@ -1,0 +1,99 @@
+{
+  "invoice_data": {
+    "invoice_number": "394396FF",
+    "invoice_date": "2/10/2026",
+    "invoice_amount": "2,413.49",
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": "155.77",
+    "po_number": [
+      "23569325"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": "32.50",
+    "cost_center": null,
+    "vendor_name": "M&K Truck Centers - Indy North",
+    "vendor_address": "1665 S County Road 800 W, Frankfort, IN 46041",
+    "po_line_items": [
+      {
+        "description": "SENSOR, CORE CHARGE",
+        "quantity": 1.0,
+        "net_price": 573.03
+      },
+      {
+        "description": "LEVEL SENSOR",
+        "quantity": 1.0,
+        "net_price": 615.26
+      },
+      {
+        "description": "SENSOR,OXYGEN",
+        "quantity": 1.0,
+        "net_price": 328.66
+      },
+      {
+        "description": "SENSOR, CORE CHARGE",
+        "quantity": 1.0,
+        "net_price": 466.58
+      },
+      {
+        "description": "FUEL PIPE",
+        "quantity": 1.0,
+        "net_price": 61.69
+      }
+    ],
+    "vat_amount": null,
+    "gl_account": null,
+    "bank_name": null,
+    "account_holder_name": null,
+    "banking_account_number": null,
+    "remit_to_address": null,
+    "bill_to_address": null,
+    "transaction_type": "debit"
+  },
+  "filename": "SAPS4_5100098508_US30_PFNAUS_2026_999885222.pdf",
+  "raw_response": {
+    "invoice_number": "394396FF",
+    "invoice_date": "2/10/2026",
+    "invoice_amount": "2,413.49",
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": "155.77",
+    "po_number": [
+      "23569325"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": "32.50",
+    "cost_center": null,
+    "vendor_name": "M&K Truck Centers - Indy North",
+    "vendor_address": "1665 S County Road 800 W, Frankfort, IN 46041",
+    "po_line_items": [
+      {
+        "description": "SENSOR, CORE CHARGE",
+        "quantity": 1.0,
+        "net_price": 573.03
+      },
+      {
+        "description": "LEVEL SENSOR",
+        "quantity": 1.0,
+        "net_price": 615.26
+      },
+      {
+        "description": "SENSOR,OXYGEN",
+        "quantity": 1.0,
+        "net_price": 328.66
+      },
+      {
+        "description": "SENSOR, CORE CHARGE",
+        "quantity": 1.0,
+        "net_price": 466.58
+      },
+      {
+        "description": "FUEL PIPE",
+        "quantity": 1.0,
+        "net_price": 61.69
+      }
+    ]
+  }
+}

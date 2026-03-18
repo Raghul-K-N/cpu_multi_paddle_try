@@ -1,0 +1,95 @@
+{
+  "invoice_data": {
+    "invoice_number": "SI209506",
+    "invoice_date": "1/26/2026",
+    "invoice_amount": null,
+    "invoice_currency": null,
+    "tax_amount": null,
+    "po_number": [
+      "WP00035140-WAL IPR END 1/24/26"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "Alliance",
+    "vendor_address": "710 Dorval Dr, Suite 500 Oakville, ON, L6K 3V7",
+    "po_line_items": [
+      {
+        "description": "3.0.2: (2) high direct stacked",
+        "quantity": 10.0,
+        "net_price": 24.15
+      },
+      {
+        "description": "4.01.0: Order Processing Fee/ per BOL",
+        "quantity": 1.0,
+        "net_price": 15.0
+      },
+      {
+        "description": "4.1.4: E-Document Transfer",
+        "quantity": 1.0,
+        "net_price": 6.0
+      },
+      {
+        "description": "4.4.0: LPN Lot Coding Traceability",
+        "quantity": 10.0,
+        "net_price": 2.7
+      },
+      {
+        "description": "4.14.4: Qty plts.< 30 per dock time",
+        "quantity": 20.0,
+        "net_price": 4.7
+      }
+    ],
+    "vat_amount": null,
+    "gl_account": null,
+    "bank_name": null,
+    "account_holder_name": null,
+    "banking_account_number": null,
+    "remit_to_address": null,
+    "bill_to_address": null,
+    "transaction_type": "debit"
+  },
+  "filename": "SAPS4_5101439500_CA02_PBNACA_2026_328615403.pdf",
+  "raw_response": {
+    "invoice_number": "SI209506",
+    "invoice_date": "1/26/2026",
+    "invoice_amount": null,
+    "invoice_currency": null,
+    "tax_amount": null,
+    "po_number": [
+      "WP00035140-WAL IPR END 1/24/26"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "Alliance",
+    "vendor_address": "710 Dorval Dr, Suite 500 Oakville, ON, L6K 3V7",
+    "po_line_items": [
+      {
+        "description": "3.0.2: (2) high direct stacked",
+        "quantity": 10.0,
+        "net_price": 24.15
+      },
+      {
+        "description": "4.01.0: Order Processing Fee/ per BOL",
+        "quantity": 1.0,
+        "net_price": 15.0
+      },
+      {
+        "description": "4.1.4: E-Document Transfer",
+        "quantity": 1.0,
+        "net_price": 6.0
+      },
+      {
+        "description": "4.4.0: LPN Lot Coding Traceability",
+        "quantity": 10.0,
+        "net_price": 2.7
+      },
+      {
+        "description": "4.14.4: Qty plts.< 30 per dock time",
+        "quantity": 20.0,
+        "net_price": 4.7
+      }
+    ]
+  }
+}

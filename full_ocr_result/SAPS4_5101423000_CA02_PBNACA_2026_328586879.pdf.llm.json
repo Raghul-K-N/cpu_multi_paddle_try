@@ -1,0 +1,47 @@
+{
+  "invoice_data": {
+    "invoice_number": "MB21-00952775",
+    "invoice_date": "02/05/26",
+    "invoice_amount": null,
+    "invoice_currency": [
+      "CAD"
+    ],
+    "tax_amount": "12.0000",
+    "po_number": [
+      "4504886073"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "REMIT MOTION INDUSTRIES, (CANADA) INC",
+    "vendor_address": "BRANCH ADDRESS\nSTATION M\nCALGARY, AB T2P 5E1\nUNIT 1 75 MERIDIAN DRIVE\nWINNIPEG, MB R2R 2V9\n1850 ELLICE AVE.\nWINNIPEG, MB R3H 0B8",
+    "po_line_items": null,
+    "vat_amount": null,
+    "gl_account": null,
+    "bank_name": null,
+    "account_holder_name": null,
+    "banking_account_number": null,
+    "remit_to_address": null,
+    "bill_to_address": null,
+    "transaction_type": "debit"
+  },
+  "filename": "SAPS4_5101423000_CA02_PBNACA_2026_328586879.pdf",
+  "raw_response": {
+    "invoice_number": "MB21-00952775",
+    "invoice_date": "02/05/26",
+    "invoice_amount": "../../../../77.06",
+    "invoice_currency": [
+      "CAD"
+    ],
+    "tax_amount": "12.0000",
+    "po_number": [
+      "4504886073"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "REMIT MOTION INDUSTRIES, (CANADA) INC",
+    "vendor_address": "BRANCH ADDRESS\nSTATION M\nCALGARY, AB T2P 5E1\nUNIT 1 75 MERIDIAN DRIVE\nWINNIPEG, MB R2R 2V9\n1850 ELLICE AVE.\nWINNIPEG, MB R3H 0B8",
+    "po_line_items": null
+  }
+}

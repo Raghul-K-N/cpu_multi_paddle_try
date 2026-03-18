@@ -1,0 +1,47 @@
+{
+  "invoice_data": {
+    "invoice_number": "317155106",
+    "invoice_date": "02/04/2026",
+    "invoice_amount": null,
+    "invoice_currency": [
+      "CAD"
+    ],
+    "tax_amount": null,
+    "po_number": [
+      "4504946773"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "CROWN Lift Trucks ULC",
+    "vendor_address": "210 Annagem Blvd, Mississauga, ON L5T 2V5",
+    "po_line_items": null,
+    "vat_amount": null,
+    "gl_account": null,
+    "bank_name": null,
+    "account_holder_name": null,
+    "banking_account_number": null,
+    "remit_to_address": null,
+    "bill_to_address": null,
+    "transaction_type": "debit"
+  },
+  "filename": "SAPS4_5100118010_CA11_PFNACA_2026_304667737.pdf",
+  "raw_response": {
+    "invoice_number": "317155106",
+    "invoice_date": "02/04/2026",
+    "invoice_amount": null,
+    "invoice_currency": [
+      "CAD"
+    ],
+    "tax_amount": null,
+    "po_number": [
+      "4504946773"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "CROWN Lift Trucks ULC",
+    "vendor_address": "210 Annagem Blvd, Mississauga, ON L5T 2V5",
+    "po_line_items": null
+  }
+}

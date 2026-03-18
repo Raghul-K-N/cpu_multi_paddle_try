@@ -1,0 +1,47 @@
+{
+  "invoice_data": {
+    "invoice_number": "CM1423287P",
+    "invoice_date": "9/15/2025",
+    "invoice_amount": "31.83",
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": "0.12",
+    "po_number": [
+      "23471463"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "TEC Equipment - Portland (P732)(P)",
+    "vendor_address": "750 NE Columbia Blvd, Portland, OR 97211, 503-285-7667",
+    "po_line_items": null,
+    "vat_amount": null,
+    "gl_account": null,
+    "bank_name": null,
+    "account_holder_name": null,
+    "banking_account_number": null,
+    "remit_to_address": null,
+    "bill_to_address": null,
+    "transaction_type": "debit"
+  },
+  "filename": "SAPS4_5100784500_US30_PFNAUS_2026_999885170.pdf",
+  "raw_response": {
+    "invoice_number": "CM1423287P",
+    "invoice_date": "9/15/2025",
+    "invoice_amount": "31.83",
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": "0.12",
+    "po_number": [
+      "23471463"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "TEC Equipment - Portland (P732)(P)",
+    "vendor_address": "750 NE Columbia Blvd, Portland, OR 97211, 503-285-7667",
+    "po_line_items": null
+  }
+}

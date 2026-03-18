@@ -1,0 +1,47 @@
+{
+  "invoice_data": {
+    "invoice_number": "150 6TH AVE SW",
+    "invoice_date": "02-02-2026",
+    "invoice_amount": null,
+    "invoice_currency": [
+      "CAD"
+    ],
+    "tax_amount": null,
+    "po_number": [
+      "4504946423"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "PEPSICO CANADA ULC D.B.A. S/N FRITO LAY CANADA",
+    "vendor_address": "3450 BOULAVARD DE LA RIVE-SUD, LEVIS QC G6V 7M5, CANADA, 8450 BOUL GUILLAUME-COUTURE, LÉVIS QC G6V 7L7, CANADA",
+    "po_line_items": null,
+    "vat_amount": null,
+    "gl_account": null,
+    "bank_name": null,
+    "account_holder_name": null,
+    "banking_account_number": null,
+    "remit_to_address": null,
+    "bill_to_address": null,
+    "transaction_type": "debit"
+  },
+  "filename": "SAPS4_5100079010_CA11_PFNACA_2026_304667692.pdf",
+  "raw_response": {
+    "invoice_number": "150 6TH AVE SW",
+    "invoice_date": "02-02-2026",
+    "invoice_amount": null,
+    "invoice_currency": [
+      "CAD"
+    ],
+    "tax_amount": null,
+    "po_number": [
+      "4504946423"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "PEPSICO CANADA ULC D.B.A. S/N FRITO LAY CANADA",
+    "vendor_address": "3450 BOULAVARD DE LA RIVE-SUD, LEVIS QC G6V 7M5, CANADA, 8450 BOUL GUILLAUME-COUTURE, LÉVIS QC G6V 7L7, CANADA",
+    "po_line_items": null
+  }
+}

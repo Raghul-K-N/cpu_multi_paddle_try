@@ -1,0 +1,79 @@
+{
+  "invoice_data": {
+    "invoice_number": "193399",
+    "invoice_date": "2/5/2026",
+    "invoice_amount": "2513.00",
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": null,
+    "po_number": [
+      "M413526114"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "Hoopes Fire Prevention, Inc.",
+    "vendor_address": "Hoopes Fire Prevention, Inc., Newark, DE 19713",
+    "po_line_items": [
+      {
+        "description": "Service Call - Extinguishers",
+        "quantity": null,
+        "net_price": 227.0
+      },
+      {
+        "description": "50lb Wheeled Unit Recharge",
+        "quantity": null,
+        "net_price": 2250.0
+      },
+      {
+        "description": "Tamper Seal",
+        "quantity": null,
+        "net_price": 36.0
+      }
+    ],
+    "vat_amount": null,
+    "gl_account": null,
+    "bank_name": null,
+    "account_holder_name": null,
+    "banking_account_number": null,
+    "remit_to_address": null,
+    "bill_to_address": null,
+    "transaction_type": "debit"
+  },
+  "filename": "SAPS4_5100188040_US28_PFNAUS_2026_999934631.pdf",
+  "raw_response": {
+    "invoice_number": "193399",
+    "invoice_date": "2/5/2026",
+    "invoice_amount": "2513.00",
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": null,
+    "po_number": [
+      "M413526114"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "Hoopes Fire Prevention, Inc.",
+    "vendor_address": "Hoopes Fire Prevention, Inc., Newark, DE 19713",
+    "po_line_items": [
+      {
+        "description": "Service Call - Extinguishers",
+        "quantity": null,
+        "net_price": 227.0
+      },
+      {
+        "description": "50lb Wheeled Unit Recharge",
+        "quantity": null,
+        "net_price": 2250.0
+      },
+      {
+        "description": "Tamper Seal",
+        "quantity": null,
+        "net_price": 36.0
+      }
+    ]
+  }
+}

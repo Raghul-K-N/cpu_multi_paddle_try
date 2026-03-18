@@ -1,0 +1,109 @@
+{
+  "invoice_data": {
+    "invoice_number": "800605446",
+    "invoice_date": "02/03/2026",
+    "invoice_amount": "1712.42",
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": "130.50",
+    "po_number": [
+      "4505075003"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "GRAINGER",
+    "vendor_address": "3900 EASTON DR, BAKERSFIELD, CA 93309-1083",
+    "po_line_items": [
+      {
+        "description": "RATCHET COMB WRENCH SET-SAE/METRIC,15PC",
+        "quantity": 1.0,
+        "net_price": 545.58
+      },
+      {
+        "description": "COMBO WRENCH ST,CV STEEL,CHROME,STANDARD",
+        "quantity": 1.0,
+        "net_price": 23.7
+      },
+      {
+        "description": "NUTSETTER,L:2 9/16\",SOCKET:1/4\"-7/16\"",
+        "quantity": 1.0,
+        "net_price": 19.74
+      },
+      {
+        "description": "PULLER SET,1 AND 2 TON",
+        "quantity": 1.0,
+        "net_price": 617.86
+      },
+      {
+        "description": "IMPACT WRENCH, 18 V DC, SQUARE",
+        "quantity": 1.0,
+        "net_price": 93.9
+      },
+      {
+        "description": "PRY BAR SET,4 PCS.,8\"/12\"/18\"/24\" L",
+        "quantity": 1.0,
+        "net_price": 93.9
+      }
+    ],
+    "vat_amount": null,
+    "gl_account": null,
+    "bank_name": null,
+    "account_holder_name": null,
+    "banking_account_number": null,
+    "remit_to_address": null,
+    "bill_to_address": null,
+    "transaction_type": "debit"
+  },
+  "filename": "SAPS4_5100364018_US28_PFNAUS_2026_999934620.pdf",
+  "raw_response": {
+    "invoice_number": "800605446",
+    "invoice_date": "02/03/2026",
+    "invoice_amount": "1712.42",
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": "130.50",
+    "po_number": [
+      "4505075003"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "GRAINGER",
+    "vendor_address": "3900 EASTON DR, BAKERSFIELD, CA 93309-1083",
+    "po_line_items": [
+      {
+        "description": "RATCHET COMB WRENCH SET-SAE/METRIC,15PC",
+        "quantity": 1.0,
+        "net_price": 545.58
+      },
+      {
+        "description": "COMBO WRENCH ST,CV STEEL,CHROME,STANDARD",
+        "quantity": 1.0,
+        "net_price": 23.7
+      },
+      {
+        "description": "NUTSETTER,L:2 9/16\",SOCKET:1/4\"-7/16\"",
+        "quantity": 1.0,
+        "net_price": 19.74
+      },
+      {
+        "description": "PULLER SET,1 AND 2 TON",
+        "quantity": 1.0,
+        "net_price": 617.86
+      },
+      {
+        "description": "IMPACT WRENCH, 18 V DC, SQUARE",
+        "quantity": 1.0,
+        "net_price": 93.9
+      },
+      {
+        "description": "PRY BAR SET,4 PCS.,8\"/12\"/18\"/24\" L",
+        "quantity": 1.0,
+        "net_price": 93.9
+      }
+    ]
+  }
+}

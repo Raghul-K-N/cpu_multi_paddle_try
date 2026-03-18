@@ -1,0 +1,59 @@
+{
+  "invoice_data": {
+    "invoice_number": "CA15-00998734",
+    "invoice_date": "02/03/26",
+    "invoice_amount": "-96.68",
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": "-7.06",
+    "po_number": [
+      "4504932005"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "REMIT MOTION INDUSTRIES, INC.",
+    "vendor_address": "448 MITCHELL ROAD, MODESTO, CA 95354, PH 2095290261, FAX 2095291812",
+    "po_line_items": [
+      {
+        "description": "8MGT-1600-12 POLY CHAIN BELT",
+        "quantity": 5.0,
+        "net_price": -89.62
+      }
+    ],
+    "vat_amount": null,
+    "gl_account": null,
+    "bank_name": null,
+    "account_holder_name": null,
+    "banking_account_number": null,
+    "remit_to_address": null,
+    "bill_to_address": null,
+    "transaction_type": "credit"
+  },
+  "filename": "SAPS4_5100635002_US28_PFNAUS_2026_999884695.pdf",
+  "raw_response": {
+    "invoice_number": "CA15-00998734",
+    "invoice_date": "02/03/26",
+    "invoice_amount": "-96.68",
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": "-7.06",
+    "po_number": [
+      "4504932005"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "REMIT MOTION INDUSTRIES, INC.",
+    "vendor_address": "448 MITCHELL ROAD, MODESTO, CA 95354, PH 2095290261, FAX 2095291812",
+    "po_line_items": [
+      {
+        "description": "8MGT-1600-12 POLY CHAIN BELT",
+        "quantity": 5.0,
+        "net_price": -89.62
+      }
+    ]
+  }
+}

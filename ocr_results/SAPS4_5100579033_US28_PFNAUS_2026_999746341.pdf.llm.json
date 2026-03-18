@@ -1,0 +1,113 @@
+{
+  "invoice_data": {
+    "invoice_number": "980610397526",
+    "invoice_date": "Thursday 12 Feb 2026 2:52 AM GMT-07:00",
+    "invoice_amount": "1,863.50",
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": null,
+    "po_number": [
+      "M413554321"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": [
+      "853331767"
+    ],
+    "vendor_name": "GRAINGER",
+    "vendor_address": "100 Grainger Pkwy, Lake Forest, IL, United States, 27105",
+    "po_line_items": [
+      {
+        "description": "5T913 / Rain Suit w/Jacket/Bib,Unrated,Yellow,L",
+        "quantity": 2.0,
+        "net_price": 26.25
+      },
+      {
+        "description": "1FBB5 / Rain Suit.Jacket/Bib.Unrated.Yellow.4XL",
+        "quantity": 3.0,
+        "net_price": 30.11
+      },
+      {
+        "description": "1FBB6 / Rain Suit.Jacket/Bib,Unrated,Yellow,5XL",
+        "quantity": 2.0,
+        "net_price": 30.11
+      },
+      {
+        "description": "2U643 / Scouring Pad,9 in L,Green,PK20",
+        "quantity": 6.0,
+        "net_price": 14.98
+      },
+      {
+        "description": "4A416 / Barricade Tape, Yellow, 1,000 ft L, 3 in",
+        "quantity": 8.0,
+        "net_price": 5.04
+      },
+      {
+        "description": "2VJC4 / Dry Wipe,12 x 12-1/2,White,PK18",
+        "quantity": 25.0,
+        "net_price": 61.21
+      }
+    ],
+    "vat_amount": null,
+    "gl_account": null,
+    "bank_name": null,
+    "account_holder_name": null,
+    "banking_account_number": null,
+    "remit_to_address": null,
+    "bill_to_address": null,
+    "transaction_type": "debit"
+  },
+  "filename": "SAPS4_5100579033_US28_PFNAUS_2026_999746341.pdf",
+  "raw_response": {
+    "invoice_number": "980610397526",
+    "invoice_date": "Thursday 12 Feb 2026 2:52 AM GMT-07:00",
+    "invoice_amount": "1,863.50",
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": null,
+    "po_number": [
+      "M413554321"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": [
+      "853331767"
+    ],
+    "vendor_name": "GRAINGER",
+    "vendor_address": "100 Grainger Pkwy, Lake Forest, IL, United States, 27105",
+    "po_line_items": [
+      {
+        "description": "5T913 / Rain Suit w/Jacket/Bib,Unrated,Yellow,L",
+        "quantity": 2.0,
+        "net_price": 26.25
+      },
+      {
+        "description": "1FBB5 / Rain Suit.Jacket/Bib.Unrated.Yellow.4XL",
+        "quantity": 3.0,
+        "net_price": 30.11
+      },
+      {
+        "description": "1FBB6 / Rain Suit.Jacket/Bib,Unrated,Yellow,5XL",
+        "quantity": 2.0,
+        "net_price": 30.11
+      },
+      {
+        "description": "2U643 / Scouring Pad,9 in L,Green,PK20",
+        "quantity": 6.0,
+        "net_price": 14.98
+      },
+      {
+        "description": "4A416 / Barricade Tape, Yellow, 1,000 ft L, 3 in",
+        "quantity": 8.0,
+        "net_price": 5.04
+      },
+      {
+        "description": "2VJC4 / Dry Wipe,12 x 12-1/2,White,PK18",
+        "quantity": 25.0,
+        "net_price": 61.21
+      }
+    ]
+  }
+}

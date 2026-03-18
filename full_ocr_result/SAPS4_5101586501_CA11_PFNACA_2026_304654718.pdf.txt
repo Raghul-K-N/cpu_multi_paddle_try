@@ -1,0 +1,236 @@
+==================================<Page 1 - START>================================
+Standard Invoice
+                                                                                                                      staplest)
+Original tax invoice has been submitted electronically. This is a
+human readable representation (copy) of the original tax invoice.
+                                                                  Invoice Number                                          72399088
+                                                                  (Supplier Reference No.)
+                                                                 Invoice Date                    Tuesday 10 Feb. 2026 5:44 a.m. GMT-07:00
+                                                                 Amount Due                                          $150.56 CAD
+    Contact Information                                                         Shipping Information
+    Supplier                      Customer                                                                Ship To
+                                                                           Ship From
+    Supplier VAT/Tax ID              PEPSICO FOODS CANADA O/                   Staples Canada ULC               FRITO-LAY CDA/PEPSICO
+    126152586RT0001               A FRITO LAY CANADA                         1616 EIFFEL                    BEVERAGE
+                                 5550 EXPLORER DR 8TH                       BOUCHERVILLE                 FANIE.TRUDEAU@PEPSICO.COM
+                                 FLOOR                                    QC                           6755 RUE ERNEST CORMIER
+                                 MISSISSAUGA                              J4B 8N3                        ST - CA-DC-LAVAL-QC-FLC
+                                 ON                                       Canada                        LAVAL
+                                 L4W 0C3                                                                QC
+                                 Canada                                                                 H7C 2T4
+                                 Address ID:                                                              CA
+                                 CA1_ARIBA_PAYABLES                                                     Address ID: shipTo
+  Line Items                                               PO No. : M413548569                                       PO Date : 10 Feb. 2026
+  Line No.    PO Line No.          Type    Supplier Part No. /              Customer Part No.         Quantity            Unit Price         Subtotal
+                                      Description                                        (UOM)
+  1        1                 Material STP344997 / TROMBONES                             1 / (PK)           $16.49 CAD      $16.49 CAD
+                                       ANTIDERAPANTS, 1000
+                                                                                                     Line Item Total : $16.49 CAD
+  Line No.    PO Line No.          Type    Supplier Part No. /                                   Quantity            Unit Price         Subtotal
+                                                                 Customer Part No.
+                                       Description                                        (UOM)
+  2        2                 Material PENBL77BP4M / ENERGEL                            1 / (PK)           $10.99 CAD      $10.99 CAD
+                                      RETRACT MOY VAR 4/PQT
+                                                                                                     Line Item Total : $10.99 CAD
+  Line No.    PO Line No.          Type    Supplier Part No. /             Customer Part No.        Quantity            Unit Price         Subtotal
+                                      Description                                        (UOM)
+                               Material HEWF6U64AN / CARTOUCHE
+   3        3                                                                         1 / (EA)           $89.99 CAD      $89.99 CAD
+                                       HP63XL.HY.NOIR
+                                                                                                     Line Item Total : $89.99 CAD
+  Line No.    PO Line No.          Type    Supplier Part No. /              Customer Part No.        Quantity            Unit Price         Subtotal
+                                      Description                                        (UOM)
+  4        4                 Material TRUTR56252 / OTR STYLO PRISE                       1 / (PK)            $5.99 CAD       $5.99 CAD
+                                      VAR 5/PQT
+                                                                                                      Line Item Total : $5.99 CAD
+  Line No.    PO Line No.          Type    Supplier Part No. /
+                                                                 Customer Part No.         Quantity            Unit Price         Subtotal
+                                      Description
+                                                                                       (UOM)
+  5        5                 Material STP13425CA / STAPLES
+                                                                                       1/ (PK)            $7.49 CAD       $7.49 CAD
+                                      AGRAEES STANDARDS
+                                                                                                      Line Item Total : $7.49 CAD
+      Tax Summary
+      Category              Details
+                                                           Base Amount                Rate %           Amount
+      QST                 Tax Description :
+                                                           $130.95 CAD                9.975%          $13.06 CAD
+                           1010882792TQ0001
+                           Tax Location : CA
+      GST
+                           Tax Description :                   $130.95 CAD
+                                                                                    5%             $6.55 CAD
+                           126152586RT0001
+                           Tax Location : CA
+                                                                              Amount Summary
+                                                                              Line item subtotal                          $130.95 CAD
+                                                                              Gross amount                             $150.56 CAD
+                                                                              Net amount                               $150.56 CAD
+                                                                              Total tax amount                            $19.61 CAD
+                                                                              Total withholding tax amount
+                                                                              Amount Due                              $150.56 CAD
+    Additional Information
+                                                                          Remittance Information
+                                                                         Remit To
+                                                                         Staples Canada ULC
+                                                                         c/o T04446C
+                                                                          PO Box 4446C, STN A
+                                                                          Toronto
+                                                                         ON
+                                                                         M5W 4A2
+                                                                         CA
+                                                                         Address ID: CA1_32220
+==================================<Page 1 - END>================================
+==================================<Page 2 - START>================================
+  Appendix
+ Line No.
+            PO Line No. Type                           Supplier Part No. / Description
+  1
+            1         Material                         STP344997 / TROMBONES ANTIDERAPANTS, 1000
+  Additional Details:
+  Supplier Part ID : STP344997
+ Line No.
+            PO Line No. Type                           Supplier Part No. / Description
+  2         2         Material
+                                                      PENBL77BP4M / ENERGEL RETRACT MOY VAR 4/PQT
+ Additional Details:
+ Supplier Part ID : PENBL77BP4M
+Line No.    PO Line No. Type
+                                                      Supplier Part No. / Description
+ 3         3         Material
+                                                      HEWF6U64AN / CARTOUCHE HP63XL,HY,NOIR
+Additional Details:
+ Supplier Part ID : HEWF6U64AN
+Line No.    PO Line No. Type
+                                                      Supplier Part No. / Description
+4         4         Material
+                                                      TRUTR56252 / OTR STYLO PRISE VAR 5/PQT
+Additional Details:
+Supplier Part ID : TRUTR56252
+Line No.    PO Line No. Type
+                                                      Supplier Part No. / Description
+5         5         Material
+                                                      STP13425CA / STAPLES AGRAFES STANDARDS
+Additional Details:
+Supplier Part ID : STP13425CA
+PDF generated on Wednesday 11 Feb. 2026 2:45 a.m. GMT-08:00
+==================================<Page 2 - END>================================
+==================================<Page 3 - START>================================
+  Standard Invoice
+                                                                                                                       staplest)
+  Original tax invoice has been submitted electronically. This is a
+  human readable representation (copy) of the original tax invoice.
+                                                                   Invoice Number                                          72399088
+                                                                   (Supplier Reference No.)
+                                                                   Invoice Date                    Tuesday 10 Feb. 2026 5:44 a.m. GMT-07:00
+                                                                   Amount Due                                          $150.56 CAD
+      Contact Information                                                         Shipping Information
+     Supplier                      Customer                                                                Ship To
+                                                                             Ship From
+      Supplier VAT/Tax ID              PEPSICO FOODS CANADA O/                   Staples Canada ULC               FRITO-LAY CDA/PEPSICO
+      126152586RT0001               A FRITO LAY CANADA                         1616 EIFFEL                    BEVERAGE
+                                   5550 EXPLORER DR 8TH                       BOUCHERVILLE                 FANIE.TRUDEAU@PEPSICO.COM
+                                   FLOOR                                    QC                           6755 RUE ERNEST CORMIER
+                                   MISSISSAUGA                              J4B 8N3                        ST - CA-DC-LAVAL-QC-FLC
+                                   ON                                       Canada                        LAVAL
+                                   L4W 0C3                                                                QC
+                                   Canada                                                                 H7C 2T4
+                                   Address ID:                                                              CA
+                                   CA1_ARIBA_PAYABLES                                                     Address ID: shipTo
+   Line Items                                               PO No. : M413548569                                       PO Date : 10 Feb. 2026
+    Line No.    PO Line No.          Type    Supplier Part No. /              Customer Part No.         Quantity            Unit Price         Subtotal
+                                        Description                                        (UOM)
+    1        1                 Material STP344997 / TROMBONES                             1 / (PK)           $16.49 CAD      $16.49 CAD
+                                        ANTIDERAPANTS, 1000
+                                                                                                       Line Item Total : $16.49 CAD
+    Line No.    PO Line No.          Type    Supplier Part No. /                                   Quantity            Unit Price         Subtotal
+                                                                   Customer Part No.
+                                        Description                                        (UOM)
+    2        2                 Material PENBL77BP4M / ENERGEL                            1 / (PK)           $10.99 CAD      $10.99 CAD
+                                        RETRACT MOY VAR 4/PQT
+                                                                                                       Line Item Total : $10.99 CAD
+    Line No.    PO Line No.          Type    Supplier Part No. /             Customer Part No.        Quantity            Unit Price         Subtotal
+                                        Description                                        (UOM)
+                                 Material HEWF6U64AN / CARTOUCHE
+    3        3                                                                         1 / (EA)           $89.99 CAD      $89.99 CAD
+                                        HP63XL.HY.NOIR
+                                                                                                       Line Item Total : $89.99 CAD
+    Line No.    PO Line No.          Type    Supplier Part No. /              Customer Part No.        Quantity            Unit Price         Subtotal
+                                        Description                                        (UOM)
+    4        4                 Material TRUTR56252 / OTR STYLO PRISE                       1 / (PK)            $5.99 CAD       $5.99 CAD
+                                        VAR 5/PQT
+                                                                                                        Line Item Total : $5.99 CAD
+    Line No.    PO Line No.          Type    Supplier Part No. /
+                                                                   Customer Part No.         Quantity            Unit Price         Subtotal
+                                        Description
+                                                                                        (UOM)
+    5        5                 Material STP13425CA / STAPLES
+                                                                                        1/ (PK)            $7.49 CAD       $7.49 CAD
+                                        AGRAEES STANDARDS
+                                                                                                        Line Item Total : $7.49 CAD
+       Tax Summary
+       Category              Details
+                                                             Base Amount                Rate %           Amount
+       QST                 Tax Description :
+                                                             $130.95 CAD                9.975%          $13.06 CAD
+                             1010882792TQ0001
+                             Tax Location : CA
+       GST
+                             Tax Description :                   $130.95 CAD
+                                                                                      5%             $6.55 CAD
+                             126152586RT0001
+                             Tax Location : CA
+                                                                               Amount Summary
+                                                                                Line item subtotal                          $130.95 CAD
+                                                                                Gross amount                             $150.56 CAD
+                                                                                Net amount                               $150.56 CAD
+                                                                                Total tax amount                            $19.61 CAD
+                                                                                Total withholding tax amount
+                                                                               Amount Due                              $150.56 CAD
+     Additional Information
+                                                                           Remittance Information
+                                                                           Remit To
+                                                                           Staples Canada ULC
+                                                                           c/o T04446C
+                                                                           PO Box 4446C, STN A
+                                                                           Toronto
+                                                                           ON
+                                                                           M5W 4A2
+                                                                           CA
+                                                                           Address ID: CA1_32220
+==================================<Page 3 - END>================================
+==================================<Page 4 - START>================================
+  Appendix
+ Line No.
+            PO Line No. Type                           Supplier Part No. / Description
+  1
+            1         Material                         STP344997 / TROMBONES ANTIDERAPANTS, 1000
+  Additional Details:
+  Supplier Part ID : STP344997
+ Line No.
+            PO Line No. Type                           Supplier Part No. / Description
+  2         2         Material
+                                                      PENBL77BP4M / ENERGEL RETRACT MOY VAR 4/PQT
+ Additional Details:
+ Supplier Part ID : PENBL77BP4M
+Line No.    PO Line No. Type
+                                                      Supplier Part No. / Description
+ 3         3         Material
+                                                      HEWF6U64AN / CARTOUCHE HP63XL,HY,NOIR
+Additional Details:
+ Supplier Part ID : HEWF6U64AN
+Line No.    PO Line No. Type
+                                                      Supplier Part No. / Description
+4         4         Material
+                                                      TRUTR56252 / OTR STYLO PRISE VAR 5/PQT
+Additional Details:
+Supplier Part ID : TRUTR56252
+Line No.    PO Line No. Type
+                                                      Supplier Part No. / Description
+5         5         Material
+                                                      STP13425CA / STAPLES AGRAFES STANDARDS
+Additional Details:
+Supplier Part ID : STP13425CA
+PDF generated on Wednesday 11 Feb. 2026 2:45 a.m. GMT-08:00
+==================================<Page 4 - END>================================

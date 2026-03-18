@@ -1,0 +1,109 @@
+{
+  "invoice_data": {
+    "invoice_number": "11758",
+    "invoice_date": "2026-02-05",
+    "invoice_amount": null,
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": null,
+    "po_number": [
+      "M413477088"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "AMIKO Control Systems",
+    "vendor_address": "687 Malenfant Blvd, Suite 5, Dieppe, NB E1A 5T8 Phone: 506.388.3385 Fax: 506.388.3626",
+    "po_line_items": [
+      {
+        "description": "Section-1: General Condition",
+        "quantity": 1.0,
+        "net_price": 3270.0
+      },
+      {
+        "description": "Section-2: Demolition",
+        "quantity": 1.0,
+        "net_price": 3000.0
+      },
+      {
+        "description": "Section-3: A Motors, B-Sensor, C-Filtech",
+        "quantity": 1.0,
+        "net_price": 16965.0
+      },
+      {
+        "description": "Section 4: Electrical diagram will need to be created as we dont have anything on File at the plant for any paper format or pdf",
+        "quantity": 1.0,
+        "net_price": 6500.0
+      },
+      {
+        "description": "Section 5: PLC programming and HMI for new profile with existing system",
+        "quantity": 1.0,
+        "net_price": 5000.0
+      },
+      {
+        "description": "Section 6: Start up support for 3 days of 8 hrs",
+        "quantity": 1.0,
+        "net_price": 3000.0
+      }
+    ],
+    "vat_amount": null,
+    "gl_account": null,
+    "bank_name": null,
+    "account_holder_name": null,
+    "banking_account_number": null,
+    "remit_to_address": null,
+    "bill_to_address": null,
+    "transaction_type": "debit"
+  },
+  "filename": "SAPS4_5101431000_CA02_PBNACA_2026_328615259.pdf",
+  "raw_response": {
+    "invoice_number": "11758",
+    "invoice_date": "2026-02-05",
+    "invoice_amount": null,
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": null,
+    "po_number": [
+      "M413477088"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "AMIKO Control Systems",
+    "vendor_address": "687 Malenfant Blvd, Suite 5, Dieppe, NB E1A 5T8 Phone: 506.388.3385 Fax: 506.388.3626",
+    "po_line_items": [
+      {
+        "description": "Section-1: General Condition",
+        "quantity": 1.0,
+        "net_price": 3270.0
+      },
+      {
+        "description": "Section-2: Demolition",
+        "quantity": 1.0,
+        "net_price": 3000.0
+      },
+      {
+        "description": "Section-3: A Motors, B-Sensor, C-Filtech",
+        "quantity": 1.0,
+        "net_price": 16965.0
+      },
+      {
+        "description": "Section 4: Electrical diagram will need to be created as we dont have anything on File at the plant for any paper format or pdf",
+        "quantity": 1.0,
+        "net_price": 6500.0
+      },
+      {
+        "description": "Section 5: PLC programming and HMI for new profile with existing system",
+        "quantity": 1.0,
+        "net_price": 5000.0
+      },
+      {
+        "description": "Section 6: Start up support for 3 days of 8 hrs",
+        "quantity": 1.0,
+        "net_price": 3000.0
+      }
+    ]
+  }
+}

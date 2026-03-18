@@ -1,0 +1,129 @@
+{
+  "invoice_data": {
+    "invoice_number": "5620762061",
+    "invoice_date": "02/12/2026",
+    "invoice_amount": "41.39",
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": "2.29",
+    "po_number": [
+      "M412077984"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": "0.00",
+    "cost_center": null,
+    "vendor_name": "VESTIS",
+    "vendor_address": "2800 SILVER STAR RD, ORLANDO FL 32808",
+    "po_line_items": [
+      {
+        "description": "CE0086SLVN HANGING LOCKER",
+        "quantity": 0.0,
+        "net_price": 0.0
+      },
+      {
+        "description": "CE0096SLVN ST SOIL LOCKER",
+        "quantity": 0.0,
+        "net_price": 0.0
+      },
+      {
+        "description": "CE0194BLAK ATM TWL DISPENSER",
+        "quantity": 2.0,
+        "net_price": 0.0
+      },
+      {
+        "description": "DM0001BLAK MAT NYLON/RUBBER",
+        "quantity": 1.0,
+        "net_price": 2.077
+      },
+      {
+        "description": "DM0002MISC MAT SAFETY SLOGAN",
+        "quantity": 12.0,
+        "net_price": 1.186
+      },
+      {
+        "description": "OW0358WHIT GP TOWEL CTRPL PM",
+        "quantity": 1.0,
+        "net_price": 18.9
+      },
+      {
+        "description": "TS0002FWWT SHOP TOWEL PLAIN",
+        "quantity": 900.0,
+        "net_price": 0.021
+      },
+      {
+        "description": "XX0297GREY LAUNDRY BAG ERGO CLIPS",
+        "quantity": 0.0,
+        "net_price": 0.0
+      }
+    ],
+    "vat_amount": null,
+    "gl_account": null,
+    "bank_name": null,
+    "account_holder_name": null,
+    "banking_account_number": null,
+    "remit_to_address": null,
+    "bill_to_address": null,
+    "transaction_type": "debit"
+  },
+  "filename": "SAPS4_5100012014_US30_PFNAUS_2026_999935741.pdf",
+  "raw_response": {
+    "invoice_number": "5620762061",
+    "invoice_date": "02/12/2026",
+    "invoice_amount": "41.39",
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": "2.29",
+    "po_number": [
+      "M412077984"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": "0.00",
+    "cost_center": null,
+    "vendor_name": "VESTIS",
+    "vendor_address": "2800 SILVER STAR RD, ORLANDO FL 32808",
+    "po_line_items": [
+      {
+        "description": "CE0086SLVN HANGING LOCKER",
+        "quantity": 0.0,
+        "net_price": 0.0
+      },
+      {
+        "description": "CE0096SLVN ST SOIL LOCKER",
+        "quantity": 0.0,
+        "net_price": 0.0
+      },
+      {
+        "description": "CE0194BLAK ATM TWL DISPENSER",
+        "quantity": 2.0,
+        "net_price": 0.0
+      },
+      {
+        "description": "DM0001BLAK MAT NYLON/RUBBER",
+        "quantity": 1.0,
+        "net_price": 2.077
+      },
+      {
+        "description": "DM0002MISC MAT SAFETY SLOGAN",
+        "quantity": 12.0,
+        "net_price": 1.186
+      },
+      {
+        "description": "OW0358WHIT GP TOWEL CTRPL PM",
+        "quantity": 1.0,
+        "net_price": 18.9
+      },
+      {
+        "description": "TS0002FWWT SHOP TOWEL PLAIN",
+        "quantity": 900.0,
+        "net_price": 0.021
+      },
+      {
+        "description": "XX0297GREY LAUNDRY BAG ERGO CLIPS",
+        "quantity": 0.0,
+        "net_price": 0.0
+      }
+    ]
+  }
+}

@@ -1,0 +1,79 @@
+{
+  "invoice_data": {
+    "invoice_number": "131473327",
+    "invoice_date": "01/13/26",
+    "invoice_amount": null,
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": null,
+    "po_number": [
+      "131120-382"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "FleetPride",
+    "vendor_address": "P.O. BOX 281811, 131473327, HEAVY DUTY PARTS & SERVICE, ATLANTA GA 30384-1811",
+    "po_line_items": [
+      {
+        "description": "FILTER, F W SEPRTR",
+        "quantity": 5.0,
+        "net_price": 54.45
+      },
+      {
+        "description": "NOX SENSOR",
+        "quantity": 2.0,
+        "net_price": 631.98
+      },
+      {
+        "description": "SALES TAX",
+        "quantity": 48.05,
+        "net_price": 48.05
+      }
+    ],
+    "vat_amount": null,
+    "gl_account": null,
+    "bank_name": null,
+    "account_holder_name": null,
+    "banking_account_number": null,
+    "remit_to_address": null,
+    "bill_to_address": null,
+    "transaction_type": "debit"
+  },
+  "filename": "SAPS4_5100108506_US30_PFNAUS_2026_999936172.pdf",
+  "raw_response": {
+    "invoice_number": "131473327",
+    "invoice_date": "01/13/26",
+    "invoice_amount": null,
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": null,
+    "po_number": [
+      "131120-382"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "FleetPride",
+    "vendor_address": "P.O. BOX 281811, 131473327, HEAVY DUTY PARTS & SERVICE, ATLANTA GA 30384-1811",
+    "po_line_items": [
+      {
+        "description": "FILTER, F W SEPRTR",
+        "quantity": 5.0,
+        "net_price": 54.45
+      },
+      {
+        "description": "NOX SENSOR",
+        "quantity": 2.0,
+        "net_price": 631.98
+      },
+      {
+        "description": "SALES TAX",
+        "quantity": 48.05,
+        "net_price": 48.05
+      }
+    ]
+  }
+}

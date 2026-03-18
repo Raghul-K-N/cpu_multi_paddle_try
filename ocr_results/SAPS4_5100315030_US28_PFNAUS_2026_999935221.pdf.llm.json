@@ -1,0 +1,65 @@
+{
+  "invoice_data": {
+    "invoice_number": "26413824-02",
+    "invoice_date": "2/12/26",
+    "invoice_amount": null,
+    "invoice_currency": null,
+    "tax_amount": "29.04",
+    "po_number": [
+      "4504868338"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "THE REYNOLDS COMPANY ELECTRICAL SUPPLY",
+    "vendor_address": "6413 TRI COUNTY PKWY, SCHERTZ, TX 78154-9999",
+    "po_line_items": [
+      {
+        "description": "ALBR440NG02096",
+        "quantity": 2.0,
+        "net_price": 352.02
+      },
+      {
+        "description": "A-B 440NG02096 FERROGARD",
+        "quantity": 1.0,
+        "net_price": 0.0
+      }
+    ],
+    "vat_amount": null,
+    "gl_account": null,
+    "bank_name": null,
+    "account_holder_name": null,
+    "banking_account_number": null,
+    "remit_to_address": null,
+    "bill_to_address": null,
+    "transaction_type": "debit"
+  },
+  "filename": "SAPS4_5100315030_US28_PFNAUS_2026_999935221.pdf",
+  "raw_response": {
+    "invoice_number": "26413824-02",
+    "invoice_date": "2/12/26",
+    "invoice_amount": null,
+    "invoice_currency": null,
+    "tax_amount": "29.04",
+    "po_number": [
+      "4504868338"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "THE REYNOLDS COMPANY ELECTRICAL SUPPLY",
+    "vendor_address": "6413 TRI COUNTY PKWY, SCHERTZ, TX 78154-9999",
+    "po_line_items": [
+      {
+        "description": "ALBR440NG02096",
+        "quantity": 2.0,
+        "net_price": 352.02
+      },
+      {
+        "description": "A-B 440NG02096 FERROGARD",
+        "quantity": 1.0,
+        "net_price": 0.0
+      }
+    ]
+  }
+}

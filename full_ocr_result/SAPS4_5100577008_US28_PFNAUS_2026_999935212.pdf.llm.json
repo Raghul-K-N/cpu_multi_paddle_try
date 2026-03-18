@@ -1,0 +1,79 @@
+{
+  "invoice_data": {
+    "invoice_number": "4732535910",
+    "invoice_date": "02/11/2026",
+    "invoice_amount": "9.18",
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": "0.77",
+    "po_number": [
+      "M413362204"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": "0.00",
+    "cost_center": null,
+    "vendor_name": "VESTIS",
+    "vendor_address": "PO BOX 660740, DALLAS TX 75266",
+    "po_line_items": [
+      {
+        "description": "GP0292NAVY PANT FR 9OZ 88/12",
+        "quantity": 15.0,
+        "net_price": 0.277
+      },
+      {
+        "description": "SHIRT FR LS SNAP NOPKT 88/12",
+        "quantity": 15.0,
+        "net_price": 0.283
+      },
+      {
+        "description": "GS1038LTBL",
+        "quantity": null,
+        "net_price": null
+      }
+    ],
+    "vat_amount": null,
+    "gl_account": null,
+    "bank_name": null,
+    "account_holder_name": null,
+    "banking_account_number": null,
+    "remit_to_address": null,
+    "bill_to_address": null,
+    "transaction_type": "debit"
+  },
+  "filename": "SAPS4_5100577008_US28_PFNAUS_2026_999935212.pdf",
+  "raw_response": {
+    "invoice_number": "4732535910",
+    "invoice_date": "02/11/2026",
+    "invoice_amount": "9.18",
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": "0.77",
+    "po_number": [
+      "M413362204"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": "0.00",
+    "cost_center": null,
+    "vendor_name": "VESTIS",
+    "vendor_address": "PO BOX 660740, DALLAS TX 75266",
+    "po_line_items": [
+      {
+        "description": "GP0292NAVY PANT FR 9OZ 88/12",
+        "quantity": 15.0,
+        "net_price": 0.277
+      },
+      {
+        "description": "SHIRT FR LS SNAP NOPKT 88/12",
+        "quantity": 15.0,
+        "net_price": 0.283
+      },
+      {
+        "description": "GS1038LTBL",
+        "quantity": null,
+        "net_price": null
+      }
+    ]
+  }
+}

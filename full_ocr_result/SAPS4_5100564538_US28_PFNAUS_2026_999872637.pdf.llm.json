@@ -1,0 +1,79 @@
+{
+  "invoice_data": {
+    "invoice_number": "980633280626",
+    "invoice_date": "Thursday 12 Feb 2026 3:28 AM GMT-07:00",
+    "invoice_amount": "254.52",
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": "14.40",
+    "po_number": [
+      "M413555083"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "GRAINGER",
+    "vendor_address": "100 Grainger Pkwy, Lake Forest, IL, United States",
+    "po_line_items": [
+      {
+        "description": "60TR14 / Spikeless Traction Devices,Size 5-8,PR",
+        "quantity": 2.0,
+        "net_price": 40.02
+      },
+      {
+        "description": "60TR15 / Spikeless Traction Devices,Size 8-11,PR",
+        "quantity": 2.0,
+        "net_price": 40.02
+      },
+      {
+        "description": "60TR16 / TractionDevice,Blk,Tread,Men's13to14,PR",
+        "quantity": 2.0,
+        "net_price": 40.02
+      }
+    ],
+    "vat_amount": null,
+    "gl_account": null,
+    "bank_name": null,
+    "account_holder_name": null,
+    "banking_account_number": null,
+    "remit_to_address": null,
+    "bill_to_address": null,
+    "transaction_type": "debit"
+  },
+  "filename": "SAPS4_5100564538_US28_PFNAUS_2026_999872637.pdf",
+  "raw_response": {
+    "invoice_number": "980633280626",
+    "invoice_date": "Thursday 12 Feb 2026 3:28 AM GMT-07:00",
+    "invoice_amount": "254.52",
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": "14.40",
+    "po_number": [
+      "M413555083"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "GRAINGER",
+    "vendor_address": "100 Grainger Pkwy, Lake Forest, IL, United States",
+    "po_line_items": [
+      {
+        "description": "60TR14 / Spikeless Traction Devices,Size 5-8,PR",
+        "quantity": 2.0,
+        "net_price": 40.02
+      },
+      {
+        "description": "60TR15 / Spikeless Traction Devices,Size 8-11,PR",
+        "quantity": 2.0,
+        "net_price": 40.02
+      },
+      {
+        "description": "60TR16 / TractionDevice,Blk,Tread,Men's13to14,PR",
+        "quantity": 2.0,
+        "net_price": 40.02
+      }
+    ]
+  }
+}

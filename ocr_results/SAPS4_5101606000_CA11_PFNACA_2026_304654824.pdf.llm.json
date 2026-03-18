@@ -1,0 +1,43 @@
+{
+  "invoice_data": {
+    "invoice_number": "CM998931",
+    "invoice_date": "28 JAN 26",
+    "invoice_amount": "-54.07",
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": "-7.04",
+    "po_number": null,
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "CHARTRAND FORD (VENTES) INC.",
+    "vendor_address": "1610, BOUL ST-MARTIN EST · LAVAL (QUÉBEC) H7G 4W6",
+    "po_line_items": null,
+    "vat_amount": null,
+    "gl_account": null,
+    "bank_name": null,
+    "account_holder_name": null,
+    "banking_account_number": null,
+    "remit_to_address": null,
+    "bill_to_address": null,
+    "transaction_type": "credit"
+  },
+  "filename": "SAPS4_5101606000_CA11_PFNACA_2026_304654824.pdf",
+  "raw_response": {
+    "invoice_number": "CM998931",
+    "invoice_date": "28 JAN 26",
+    "invoice_amount": "-54.07",
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": "-7.04",
+    "po_number": null,
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "CHARTRAND FORD (VENTES) INC.",
+    "vendor_address": "1610, BOUL ST-MARTIN EST · LAVAL (QUÉBEC) H7G 4W6",
+    "po_line_items": null
+  }
+}

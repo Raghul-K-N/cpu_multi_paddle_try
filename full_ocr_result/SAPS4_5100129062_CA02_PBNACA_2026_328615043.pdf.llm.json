@@ -1,0 +1,51 @@
+{
+  "invoice_data": {
+    "invoice_number": "231167",
+    "invoice_date": "January 17, 2026",
+    "invoice_amount": null,
+    "invoice_currency": null,
+    "tax_amount": null,
+    "po_number": null,
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "Logixx Security Inc",
+    "vendor_address": "3650 Victoria Park Ave. Suite 900, North York, ON M2H 3P7",
+    "po_line_items": [
+      {
+        "description": "Security Guard",
+        "quantity": 176.0,
+        "net_price": 26.21
+      }
+    ],
+    "vat_amount": null,
+    "gl_account": null,
+    "bank_name": null,
+    "account_holder_name": null,
+    "banking_account_number": null,
+    "remit_to_address": null,
+    "bill_to_address": null,
+    "transaction_type": "debit"
+  },
+  "filename": "SAPS4_5100129062_CA02_PBNACA_2026_328615043.pdf",
+  "raw_response": {
+    "invoice_number": "231167",
+    "invoice_date": "January 17, 2026",
+    "invoice_amount": null,
+    "invoice_currency": null,
+    "tax_amount": null,
+    "po_number": null,
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "Logixx Security Inc",
+    "vendor_address": "3650 Victoria Park Ave. Suite 900, North York, ON M2H 3P7",
+    "po_line_items": [
+      {
+        "description": "Security Guard",
+        "quantity": 176.0,
+        "net_price": 26.21
+      }
+    ]
+  }
+}

@@ -1,0 +1,59 @@
+{
+  "invoice_data": {
+    "invoice_number": "147524534",
+    "invoice_date": "2/11/2026",
+    "invoice_amount": "160.23",
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": "12.55",
+    "po_number": [
+      "M413460930"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "Crown Equipment Corporation",
+    "vendor_address": "105 Shelby Drive, Ext. Piperton, TN 38017, Tel 901-396-7000, Fax 901-396-7774",
+    "po_line_items": [
+      {
+        "description": "Material Not Available / 2026 BPO Consignment parts",
+        "quantity": 1.0,
+        "net_price": 147.68
+      }
+    ],
+    "vat_amount": null,
+    "gl_account": null,
+    "bank_name": null,
+    "account_holder_name": null,
+    "banking_account_number": null,
+    "remit_to_address": null,
+    "bill_to_address": null,
+    "transaction_type": "debit"
+  },
+  "filename": "SAPS4_5100405028_US28_PFNAUS_2026_999872930.pdf",
+  "raw_response": {
+    "invoice_number": "147524534",
+    "invoice_date": "2/11/2026",
+    "invoice_amount": "160.23",
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": "12.55",
+    "po_number": [
+      "M413460930"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "Crown Equipment Corporation",
+    "vendor_address": "105 Shelby Drive, Ext. Piperton, TN 38017, Tel 901-396-7000, Fax 901-396-7774",
+    "po_line_items": [
+      {
+        "description": "Material Not Available / 2026 BPO Consignment parts",
+        "quantity": 1.0,
+        "net_price": 147.68
+      }
+    ]
+  }
+}

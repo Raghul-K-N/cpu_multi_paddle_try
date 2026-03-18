@@ -1,0 +1,99 @@
+{
+  "invoice_data": {
+    "invoice_number": "PHXN19608",
+    "invoice_date": "02/04/2026",
+    "invoice_amount": null,
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": "../../../../7.57",
+    "po_number": [
+      "M413096467"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "L Transportation Inc",
+    "vendor_address": "P.O. Box 515574, 701 LEGACY DR, Los Angeles CA 90051-4586, LANO , TX , 75024 , USA",
+    "po_line_items": [
+      {
+        "description": "Roadside Assistance Fee",
+        "quantity": 1.0,
+        "net_price": 55.0
+      },
+      {
+        "description": "After hours service call to 410 S 104th Ave Tolleson, AZ",
+        "quantity": 2.0,
+        "net_price": 228.0
+      },
+      {
+        "description": "Inspected 7 Way and lights- No issues were found with the 7-way plug indicating that the problem is likely with the tractor",
+        "quantity": 1.0,
+        "net_price": 163.0
+      },
+      {
+        "description": "Fuel Surcharge",
+        "quantity": 1.0,
+        "net_price": 61.42
+      },
+      {
+        "description": "Miscellaneous Shop Supplies",
+        "quantity": 1.0,
+        "net_price": 21.8
+      }
+    ],
+    "vat_amount": null,
+    "gl_account": null,
+    "bank_name": null,
+    "account_holder_name": null,
+    "banking_account_number": null,
+    "remit_to_address": null,
+    "bill_to_address": null,
+    "transaction_type": "debit"
+  },
+  "filename": "SAPS4_5100144009_US30_PFNAUS_2026_999872781.pdf",
+  "raw_response": {
+    "invoice_number": "PHXN19608",
+    "invoice_date": "02/04/2026",
+    "invoice_amount": "../../../../764.79",
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": "../../../../7.57",
+    "po_number": [
+      "M413096467"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "L Transportation Inc",
+    "vendor_address": "P.O. Box 515574, 701 LEGACY DR, Los Angeles CA 90051-4586, LANO , TX , 75024 , USA",
+    "po_line_items": [
+      {
+        "description": "Roadside Assistance Fee",
+        "quantity": 1.0,
+        "net_price": 55.0
+      },
+      {
+        "description": "After hours service call to 410 S 104th Ave Tolleson, AZ",
+        "quantity": 2.0,
+        "net_price": 228.0
+      },
+      {
+        "description": "Inspected 7 Way and lights- No issues were found with the 7-way plug indicating that the problem is likely with the tractor",
+        "quantity": 1.0,
+        "net_price": 163.0
+      },
+      {
+        "description": "Fuel Surcharge",
+        "quantity": 1.0,
+        "net_price": 61.42
+      },
+      {
+        "description": "Miscellaneous Shop Supplies",
+        "quantity": 1.0,
+        "net_price": 21.8
+      }
+    ]
+  }
+}

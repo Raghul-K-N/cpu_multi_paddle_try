@@ -1,0 +1,39 @@
+{
+  "invoice_data": {
+    "invoice_number": "150 6TH AVE SW",
+    "invoice_date": "12-12-2025",
+    "invoice_amount": null,
+    "invoice_currency": null,
+    "tax_amount": null,
+    "po_number": null,
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "Suncor",
+    "vendor_address": "9514708407",
+    "po_line_items": null,
+    "vat_amount": null,
+    "gl_account": null,
+    "bank_name": null,
+    "account_holder_name": null,
+    "banking_account_number": null,
+    "remit_to_address": null,
+    "bill_to_address": null,
+    "transaction_type": "debit"
+  },
+  "filename": "SAPS4_5100077017_CA11_PFNACA_2026_304667672.pdf",
+  "raw_response": {
+    "invoice_number": "150 6TH AVE SW",
+    "invoice_date": "12-12-2025",
+    "invoice_amount": null,
+    "invoice_currency": null,
+    "tax_amount": null,
+    "po_number": null,
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "Suncor",
+    "vendor_address": "9514708407",
+    "po_line_items": null
+  }
+}

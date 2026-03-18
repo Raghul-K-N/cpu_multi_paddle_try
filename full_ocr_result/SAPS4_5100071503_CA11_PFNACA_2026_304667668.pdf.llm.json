@@ -1,0 +1,99 @@
+{
+  "invoice_data": {
+    "invoice_number": "0000939R4V036",
+    "invoice_date": "January 17, 2026",
+    "invoice_amount": "653.32",
+    "invoice_currency": [
+      "CAD"
+    ],
+    "tax_amount": null,
+    "po_number": [
+      "M413437597"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "UPS",
+    "vendor_address": "8450 DE LA RIVE SUD, LEVIS QC G6V 7L7",
+    "po_line_items": [
+      {
+        "description": "Worldwide Express Saver",
+        "quantity": 1.0,
+        "net_price": 494.6
+      },
+      {
+        "description": "Direct Delivery Only",
+        "quantity": 1.0,
+        "net_price": 2.0
+      },
+      {
+        "description": "International Processing Fee",
+        "quantity": 1.0,
+        "net_price": 117.47
+      },
+      {
+        "description": "Fuel Surcharge",
+        "quantity": 1.0,
+        "net_price": 0.0
+      },
+      {
+        "description": "Paper Commercial Invoice Service Surcharge",
+        "quantity": 1.0,
+        "net_price": 35.75
+      }
+    ],
+    "vat_amount": null,
+    "gl_account": null,
+    "bank_name": null,
+    "account_holder_name": null,
+    "banking_account_number": null,
+    "remit_to_address": null,
+    "bill_to_address": null,
+    "transaction_type": "debit"
+  },
+  "filename": "SAPS4_5100071503_CA11_PFNACA_2026_304667668.pdf",
+  "raw_response": {
+    "invoice_number": "0000939R4V036",
+    "invoice_date": "January 17, 2026",
+    "invoice_amount": "653.32",
+    "invoice_currency": [
+      "CAD"
+    ],
+    "tax_amount": null,
+    "po_number": [
+      "M413437597"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "UPS",
+    "vendor_address": "8450 DE LA RIVE SUD, LEVIS QC G6V 7L7",
+    "po_line_items": [
+      {
+        "description": "Worldwide Express Saver",
+        "quantity": 1.0,
+        "net_price": 494.6
+      },
+      {
+        "description": "Direct Delivery Only",
+        "quantity": 1.0,
+        "net_price": 2.0
+      },
+      {
+        "description": "International Processing Fee",
+        "quantity": 1.0,
+        "net_price": 117.47
+      },
+      {
+        "description": "Fuel Surcharge",
+        "quantity": 1.0,
+        "net_price": 0.0
+      },
+      {
+        "description": "Paper Commercial Invoice Service Surcharge",
+        "quantity": 1.0,
+        "net_price": 35.75
+      }
+    ]
+  }
+}

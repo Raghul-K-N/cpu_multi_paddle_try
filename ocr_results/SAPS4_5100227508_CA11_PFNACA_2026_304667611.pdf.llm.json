@@ -1,0 +1,49 @@
+{
+  "invoice_data": {
+    "invoice_number": "4851277",
+    "invoice_date": "Jan 30 26",
+    "invoice_amount": null,
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": null,
+    "po_number": [
+      "5651349-01",
+      "4502544665"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "REXEL GROUP",
+    "vendor_address": "R P WESTBURNE ONTARIO, M Y A DIVISION OF REXEL CANADA ELECTRICAL INC, PO BOX 1220 STN B MISSISSAUGA ON L4Y 3W5",
+    "po_line_items": null,
+    "vat_amount": null,
+    "gl_account": null,
+    "bank_name": null,
+    "account_holder_name": null,
+    "banking_account_number": null,
+    "remit_to_address": null,
+    "bill_to_address": null,
+    "transaction_type": "debit"
+  },
+  "filename": "SAPS4_5100227508_CA11_PFNACA_2026_304667611.pdf",
+  "raw_response": {
+    "invoice_number": "4851277",
+    "invoice_date": "Jan 30 26",
+    "invoice_amount": null,
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": null,
+    "po_number": [
+      "5651349-01",
+      "4502544665"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "REXEL GROUP",
+    "vendor_address": "R P WESTBURNE ONTARIO, M Y A DIVISION OF REXEL CANADA ELECTRICAL INC, PO BOX 1220 STN B MISSISSAUGA ON L4Y 3W5",
+    "po_line_items": null
+  }
+}

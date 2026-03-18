@@ -1,0 +1,81 @@
+{
+  "invoice_data": {
+    "invoice_number": "4234520874",
+    "invoice_date": "1/26/2026",
+    "invoice_amount": null,
+    "invoice_currency": [
+      "CAD"
+    ],
+    "tax_amount": null,
+    "po_number": [
+      "4504134155",
+      "113503-P00406",
+      "113503-P00406",
+      "113503-P00406",
+      "C1929970",
+      "C1929971",
+      "C1929973"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "WestRock Company of Canada Corp.",
+    "vendor_address": "150 PARK HILL DRIVE, MILTON, ON L9T 5V7, CANADA",
+    "po_line_items": [
+      {
+        "description": "WG PRO (PEPSI) (PEPSI DRP ONLY)(CPU) 3690 36 ST NLETHBRIDGEAB T1H 6G2",
+        "quantity": 6400.0,
+        "net_price": 793.05
+      },
+      {
+        "description": "WG PRO (PEPSI) (PEPSI DRP ONLY)(CPU) 25 x 25 x 25 0.08 EDGE BOARD",
+        "quantity": 1560.0,
+        "net_price": 1000.0
+      }
+    ],
+    "vat_amount": null,
+    "gl_account": null,
+    "bank_name": null,
+    "account_holder_name": null,
+    "banking_account_number": null,
+    "remit_to_address": null,
+    "bill_to_address": null,
+    "transaction_type": "debit"
+  },
+  "filename": "SAPS4_5100235002_CA11_PFNACA_2026_304672243.pdf",
+  "raw_response": {
+    "invoice_number": "4234520874",
+    "invoice_date": "1/26/2026",
+    "invoice_amount": null,
+    "invoice_currency": [
+      "CAD"
+    ],
+    "tax_amount": null,
+    "po_number": [
+      "4504134155",
+      "113503-P00406",
+      "113503-P00406",
+      "113503-P00406",
+      "C1929970",
+      "C1929971",
+      "C1929973"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "WestRock Company of Canada Corp.",
+    "vendor_address": "150 PARK HILL DRIVE, MILTON, ON L9T 5V7, CANADA",
+    "po_line_items": [
+      {
+        "description": "WG PRO (PEPSI) (PEPSI DRP ONLY)(CPU) 3690 36 ST NLETHBRIDGEAB T1H 6G2",
+        "quantity": 6400.0,
+        "net_price": 793.05
+      },
+      {
+        "description": "WG PRO (PEPSI) (PEPSI DRP ONLY)(CPU) 25 x 25 x 25 0.08 EDGE BOARD",
+        "quantity": 1560.0,
+        "net_price": 1000.0
+      }
+    ]
+  }
+}

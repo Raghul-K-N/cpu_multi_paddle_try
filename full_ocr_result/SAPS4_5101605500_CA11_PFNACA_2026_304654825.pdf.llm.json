@@ -1,0 +1,55 @@
+{
+  "invoice_data": {
+    "invoice_number": "37628",
+    "invoice_date": "03/02/2026",
+    "invoice_amount": null,
+    "invoice_currency": null,
+    "tax_amount": null,
+    "po_number": [
+      "4504482977"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "Centre dn Véhjeule Chartrand inc",
+    "vendor_address": "1325Montée Massoo, Laval (Qnébee) Canada H7C 0G7, Tél: 450-661-7140Fax : 450-661-2962",
+    "po_line_items": [
+      {
+        "description": "CVM Camion 2 essieux",
+        "quantity": 1.0,
+        "net_price": 249.0
+      }
+    ],
+    "vat_amount": null,
+    "gl_account": null,
+    "bank_name": null,
+    "account_holder_name": null,
+    "banking_account_number": null,
+    "remit_to_address": null,
+    "bill_to_address": null,
+    "transaction_type": "debit"
+  },
+  "filename": "SAPS4_5101605500_CA11_PFNACA_2026_304654825.pdf",
+  "raw_response": {
+    "invoice_number": "37628",
+    "invoice_date": "03/02/2026",
+    "invoice_amount": null,
+    "invoice_currency": null,
+    "tax_amount": null,
+    "po_number": [
+      "4504482977"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "Centre dn Véhjeule Chartrand inc",
+    "vendor_address": "1325Montée Massoo, Laval (Qnébee) Canada H7C 0G7, Tél: 450-661-7140Fax : 450-661-2962",
+    "po_line_items": [
+      {
+        "description": "CVM Camion 2 essieux",
+        "quantity": 1.0,
+        "net_price": 249.0
+      }
+    ]
+  }
+}

@@ -1,0 +1,85 @@
+{
+  "invoice_data": {
+    "invoice_number": "0032233325",
+    "invoice_date": "December 30, 2025",
+    "invoice_amount": "3291.04",
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": "378.6",
+    "po_number": null,
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "PENSKE TRUCK LEASING CANADA, INC.",
+    "vendor_address": "P.O. BOX 7476, POSTAL STATION A, TORONTO, ON M5W 3C1",
+    "po_line_items": [
+      {
+        "description": "Lease Units",
+        "quantity": 1.0,
+        "net_price": 3291.04
+      },
+      {
+        "description": "Tractors",
+        "quantity": 3720.0,
+        "net_price": 490.3
+      },
+      {
+        "description": "Fixed charge",
+        "quantity": 2422.12,
+        "net_price": 2422.12
+      },
+      {
+        "description": "Variable charge",
+        "quantity": 378.62,
+        "net_price": 378.62
+      }
+    ],
+    "vat_amount": null,
+    "gl_account": null,
+    "bank_name": null,
+    "account_holder_name": null,
+    "banking_account_number": null,
+    "remit_to_address": null,
+    "bill_to_address": null,
+    "transaction_type": "debit"
+  },
+  "filename": "SAPS4_5100129007_CA11_PFNACA_2026_304667597.pdf",
+  "raw_response": {
+    "invoice_number": "0032233325",
+    "invoice_date": "December 30, 2025",
+    "invoice_amount": "3291.04",
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": "378.6",
+    "po_number": null,
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "PENSKE TRUCK LEASING CANADA, INC.",
+    "vendor_address": "P.O. BOX 7476, POSTAL STATION A, TORONTO, ON M5W 3C1",
+    "po_line_items": [
+      {
+        "description": "Lease Units",
+        "quantity": 1.0,
+        "net_price": 3291.04
+      },
+      {
+        "description": "Tractors",
+        "quantity": 3720.0,
+        "net_price": 490.3
+      },
+      {
+        "description": "Fixed charge",
+        "quantity": 2422.12,
+        "net_price": 2422.12
+      },
+      {
+        "description": "Variable charge",
+        "quantity": 378.62,
+        "net_price": 378.62
+      }
+    ]
+  }
+}

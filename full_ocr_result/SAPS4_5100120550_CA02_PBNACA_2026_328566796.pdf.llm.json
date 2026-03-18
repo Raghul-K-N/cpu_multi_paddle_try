@@ -1,0 +1,89 @@
+{
+  "invoice_data": {
+    "invoice_number": "9704186254",
+    "invoice_date": "Friday 7 Nov. 2025 7:00 a.m. GMT-05:00",
+    "invoice_amount": "1368.43",
+    "invoice_currency": [
+      "CAD"
+    ],
+    "tax_amount": "157.43",
+    "po_number": [
+      "M413362293"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "ACKLANDS-GRAINGER INC.",
+    "vendor_address": "PO BOX 2970, WINNIPEG, MB R3C 4B5, CA; CA-DC-OTTAWA-ON-PBCCAN; AGI CALEDON DC; 869 BELFAST RD; 21 Merchant Road; Caledon, ON L7C 3Y7; OTTAWA, ON K1G 0Z4; Canada; Canada",
+    "po_line_items": [
+      {
+        "description": "MLL203 / SNOW BRUSH",
+        "quantity": 30.0,
+        "net_price": 3.9
+      },
+      {
+        "description": "GARYEMECAR / CAR SHOVEL,29 3/4 IN L.9 IN BLADE W",
+        "quantity": 30.0,
+        "net_price": 22.5
+      },
+      {
+        "description": "EBP3ZL55 / KNIT GLVS.PVC/CTTN/PES.L.BEIGE/BLACK.PR",
+        "quantity": 100.0,
+        "net_price": 0.63
+      },
+      {
+        "description": "ANL11-801-9 / COATED GLOVES.NITRILE/NYLON.9.BLK/GY,PR",
+        "quantity": 100.0,
+        "net_price": 3.56
+      }
+    ],
+    "vat_amount": null,
+    "gl_account": null,
+    "bank_name": null,
+    "account_holder_name": null,
+    "banking_account_number": null,
+    "remit_to_address": null,
+    "bill_to_address": null,
+    "transaction_type": "debit"
+  },
+  "filename": "SAPS4_5100120550_CA02_PBNACA_2026_328566796.pdf",
+  "raw_response": {
+    "invoice_number": "9704186254",
+    "invoice_date": "Friday 7 Nov. 2025 7:00 a.m. GMT-05:00",
+    "invoice_amount": "1368.43",
+    "invoice_currency": [
+      "CAD"
+    ],
+    "tax_amount": "157.43",
+    "po_number": [
+      "M413362293"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "ACKLANDS-GRAINGER INC.",
+    "vendor_address": "PO BOX 2970, WINNIPEG, MB R3C 4B5, CA; CA-DC-OTTAWA-ON-PBCCAN; AGI CALEDON DC; 869 BELFAST RD; 21 Merchant Road; Caledon, ON L7C 3Y7; OTTAWA, ON K1G 0Z4; Canada; Canada",
+    "po_line_items": [
+      {
+        "description": "MLL203 / SNOW BRUSH",
+        "quantity": 30.0,
+        "net_price": 3.9
+      },
+      {
+        "description": "GARYEMECAR / CAR SHOVEL,29 3/4 IN L.9 IN BLADE W",
+        "quantity": 30.0,
+        "net_price": 22.5
+      },
+      {
+        "description": "EBP3ZL55 / KNIT GLVS.PVC/CTTN/PES.L.BEIGE/BLACK.PR",
+        "quantity": 100.0,
+        "net_price": 0.63
+      },
+      {
+        "description": "ANL11-801-9 / COATED GLOVES.NITRILE/NYLON.9.BLK/GY,PR",
+        "quantity": 100.0,
+        "net_price": 3.56
+      }
+    ]
+  }
+}

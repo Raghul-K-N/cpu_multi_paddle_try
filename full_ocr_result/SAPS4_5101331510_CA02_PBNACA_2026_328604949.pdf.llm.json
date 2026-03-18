@@ -1,0 +1,59 @@
+{
+  "invoice_data": {
+    "invoice_number": "9786996224",
+    "invoice_date": "Wednesday 28 Jan. 2026 7:00 a.m. GMT-05:00",
+    "invoice_amount": "-32.70",
+    "invoice_currency": [
+      "CAD"
+    ],
+    "tax_amount": "-1.56",
+    "po_number": [
+      "M413356527"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "ACKLANDS-GRAINGER INC.",
+    "vendor_address": "PO BOX 2970, WINNIPEG MB R3C 4B5, Canada\n4815 78 AVE SE, CALGARY AB T2C 2Y9, Canada\n11708 - 167 STREET NW, EDMONTON AB T5M 3Z2, Canada",
+    "po_line_items": [
+      {
+        "description": "SAFETY GLASSES,CLEAR,PVC",
+        "quantity": -9.0,
+        "net_price": 3.46
+      }
+    ],
+    "vat_amount": null,
+    "gl_account": null,
+    "bank_name": null,
+    "account_holder_name": null,
+    "banking_account_number": null,
+    "remit_to_address": null,
+    "bill_to_address": null,
+    "transaction_type": "credit"
+  },
+  "filename": "SAPS4_5101331510_CA02_PBNACA_2026_328604949.pdf",
+  "raw_response": {
+    "invoice_number": "9786996224",
+    "invoice_date": "Wednesday 28 Jan. 2026 7:00 a.m. GMT-05:00",
+    "invoice_amount": "-32.70",
+    "invoice_currency": [
+      "CAD"
+    ],
+    "tax_amount": "-1.56",
+    "po_number": [
+      "M413356527"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "ACKLANDS-GRAINGER INC.",
+    "vendor_address": "PO BOX 2970, WINNIPEG MB R3C 4B5, Canada\n4815 78 AVE SE, CALGARY AB T2C 2Y9, Canada\n11708 - 167 STREET NW, EDMONTON AB T5M 3Z2, Canada",
+    "po_line_items": [
+      {
+        "description": "SAFETY GLASSES,CLEAR,PVC",
+        "quantity": -9.0,
+        "net_price": 3.46
+      }
+    ]
+  }
+}

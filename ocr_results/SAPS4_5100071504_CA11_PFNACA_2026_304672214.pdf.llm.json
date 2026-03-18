@@ -1,0 +1,91 @@
+{
+  "invoice_data": {
+    "invoice_number": "26761943",
+    "invoice_date": "2026-02-04",
+    "invoice_amount": "497.73",
+    "invoice_currency": [
+      "CAD"
+    ],
+    "tax_amount": "57.26",
+    "po_number": [
+      "4504466703",
+      "8169923"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": "17.95",
+    "cost_center": null,
+    "vendor_name": "Wurth Canada Limited",
+    "vendor_address": "345 Hanlon Creek Boulevard, GUELPH, ON, N1C 0A1",
+    "po_line_items": [
+      {
+        "description": "MASS AIRFLOW SENSOR",
+        "quantity": 24.0,
+        "net_price": 136.8
+      },
+      {
+        "description": "CLEANER 354G",
+        "quantity": 2.0,
+        "net_price": 54.44
+      },
+      {
+        "description": "ROST OFF with Moly + PTFE",
+        "quantity": 6.0,
+        "net_price": 151.32
+      },
+      {
+        "description": "PROTECTIVE WELDING SPRAY 1L",
+        "quantity": 1.0,
+        "net_price": 79.96
+      }
+    ],
+    "vat_amount": null,
+    "gl_account": null,
+    "bank_name": null,
+    "account_holder_name": null,
+    "banking_account_number": null,
+    "remit_to_address": null,
+    "bill_to_address": null,
+    "transaction_type": "debit"
+  },
+  "filename": "SAPS4_5100071504_CA11_PFNACA_2026_304672214.pdf",
+  "raw_response": {
+    "invoice_number": "26761943",
+    "invoice_date": "2026-02-04",
+    "invoice_amount": "497.73",
+    "invoice_currency": [
+      "CAD"
+    ],
+    "tax_amount": "57.26",
+    "po_number": [
+      "4504466703",
+      "8169923"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": "17.95",
+    "cost_center": null,
+    "vendor_name": "Wurth Canada Limited",
+    "vendor_address": "345 Hanlon Creek Boulevard, GUELPH, ON, N1C 0A1",
+    "po_line_items": [
+      {
+        "description": "MASS AIRFLOW SENSOR",
+        "quantity": 24.0,
+        "net_price": 136.8
+      },
+      {
+        "description": "CLEANER 354G",
+        "quantity": 2.0,
+        "net_price": 54.44
+      },
+      {
+        "description": "ROST OFF with Moly + PTFE",
+        "quantity": 6.0,
+        "net_price": 151.32
+      },
+      {
+        "description": "PROTECTIVE WELDING SPRAY 1L",
+        "quantity": 1.0,
+        "net_price": 79.96
+      }
+    ]
+  }
+}

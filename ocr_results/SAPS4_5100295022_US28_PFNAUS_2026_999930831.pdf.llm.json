@@ -1,0 +1,69 @@
+{
+  "invoice_data": {
+    "invoice_number": "PA0101399078",
+    "invoice_date": "Friday 13 Feb 2026 3:59 PM GMT-06:00",
+    "invoice_amount": "63.62",
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": null,
+    "po_number": [
+      "M413557216"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "MOTION INDUSTRIES",
+    "vendor_address": "MOTION INDUSTRIES, BOX 504606, ST. LOUIS, MO 631500000, United States, Address ID: 04-979-8643, Address ID: US28",
+    "po_line_items": [
+      {
+        "description": "00222569 / 2517 1-3/4 W/KW TL BUSHING 119120",
+        "quantity": 1.0,
+        "net_price": 30.01
+      },
+      {
+        "description": "00222597 / 2517 1-7/8 W/KW TL BUSHING 119122",
+        "quantity": 1.0,
+        "net_price": 30.01
+      }
+    ],
+    "vat_amount": null,
+    "gl_account": null,
+    "bank_name": null,
+    "account_holder_name": null,
+    "banking_account_number": null,
+    "remit_to_address": null,
+    "bill_to_address": null,
+    "transaction_type": "debit"
+  },
+  "filename": "SAPS4_5100295022_US28_PFNAUS_2026_999930831.pdf",
+  "raw_response": {
+    "invoice_number": "PA0101399078",
+    "invoice_date": "Friday 13 Feb 2026 3:59 PM GMT-06:00",
+    "invoice_amount": "63.62",
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": null,
+    "po_number": [
+      "M413557216"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "MOTION INDUSTRIES",
+    "vendor_address": "MOTION INDUSTRIES, BOX 504606, ST. LOUIS, MO 631500000, United States, Address ID: 04-979-8643, Address ID: US28",
+    "po_line_items": [
+      {
+        "description": "00222569 / 2517 1-3/4 W/KW TL BUSHING 119120",
+        "quantity": 1.0,
+        "net_price": 30.01
+      },
+      {
+        "description": "00222597 / 2517 1-7/8 W/KW TL BUSHING 119122",
+        "quantity": 1.0,
+        "net_price": 30.01
+      }
+    ]
+  }
+}

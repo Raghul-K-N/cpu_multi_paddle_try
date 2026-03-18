@@ -1,0 +1,55 @@
+{
+  "invoice_data": {
+    "invoice_number": "31838580-01",
+    "invoice_date": "02/05/2026",
+    "invoice_amount": null,
+    "invoice_currency": null,
+    "tax_amount": null,
+    "po_number": [
+      "4504262721"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "A Sonepar Company",
+    "vendor_address": "880 Archimede, Levis, QC G6V 7M5",
+    "po_line_items": [
+      {
+        "description": "(208000A01F0601) cable 5c 16awg jaun 8a",
+        "quantity": 1.0,
+        "net_price": 119.0
+      }
+    ],
+    "vat_amount": null,
+    "gl_account": null,
+    "bank_name": null,
+    "account_holder_name": null,
+    "banking_account_number": null,
+    "remit_to_address": null,
+    "bill_to_address": null,
+    "transaction_type": "debit"
+  },
+  "filename": "SAPS4_5100124517_CA11_PFNACA_2026_304672231.pdf",
+  "raw_response": {
+    "invoice_number": "31838580-01",
+    "invoice_date": "02/05/2026",
+    "invoice_amount": null,
+    "invoice_currency": null,
+    "tax_amount": null,
+    "po_number": [
+      "4504262721"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "A Sonepar Company",
+    "vendor_address": "880 Archimede, Levis, QC G6V 7M5",
+    "po_line_items": [
+      {
+        "description": "(208000A01F0601) cable 5c 16awg jaun 8a",
+        "quantity": 1.0,
+        "net_price": 119.0
+      }
+    ]
+  }
+}

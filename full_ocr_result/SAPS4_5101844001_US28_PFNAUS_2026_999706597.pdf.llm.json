@@ -1,0 +1,59 @@
+{
+  "invoice_data": {
+    "invoice_number": "980258715526",
+    "invoice_date": "Tuesday 10 Feb 2026 5:35 AM GMT-07:00",
+    "invoice_amount": "1907.19",
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": null,
+    "po_number": [
+      "M413548698"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "Grainger",
+    "vendor_address": "100 Grainger Pkwy, Lake Forest, IL, United States; 2710 KEYSTONE PACIFIC, PARKWAY, 28801 HAGEMAN RD, PATTERSON, CA, 95363; US-PL-KERN-CA-FLI; United States; United States; Phone: (661) 328-6000",
+    "po_line_items": [
+      {
+        "description": "19N729 / Carton Sealing Tape, 1.8 mil, Clear, PK6",
+        "quantity": 12.0,
+        "net_price": 146.82
+      }
+    ],
+    "vat_amount": null,
+    "gl_account": null,
+    "bank_name": null,
+    "account_holder_name": null,
+    "banking_account_number": null,
+    "remit_to_address": null,
+    "bill_to_address": null,
+    "transaction_type": "debit"
+  },
+  "filename": "SAPS4_5101844001_US28_PFNAUS_2026_999706597.pdf",
+  "raw_response": {
+    "invoice_number": "980258715526",
+    "invoice_date": "Tuesday 10 Feb 2026 5:35 AM GMT-07:00",
+    "invoice_amount": "1907.19",
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": null,
+    "po_number": [
+      "M413548698"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "Grainger",
+    "vendor_address": "100 Grainger Pkwy, Lake Forest, IL, United States; 2710 KEYSTONE PACIFIC, PARKWAY, 28801 HAGEMAN RD, PATTERSON, CA, 95363; US-PL-KERN-CA-FLI; United States; United States; Phone: (661) 328-6000",
+    "po_line_items": [
+      {
+        "description": "19N729 / Carton Sealing Tape, 1.8 mil, Clear, PK6",
+        "quantity": 12.0,
+        "net_price": 146.82
+      }
+    ]
+  }
+}

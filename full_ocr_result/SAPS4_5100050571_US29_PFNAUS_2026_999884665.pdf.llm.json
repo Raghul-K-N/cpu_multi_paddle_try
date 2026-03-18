@@ -1,0 +1,69 @@
+{
+  "invoice_data": {
+    "invoice_number": "1000001750",
+    "invoice_date": "February 2, 2026",
+    "invoice_amount": "7,684.38",
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": null,
+    "po_number": [
+      "82048095"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "Brother International Corporation",
+    "vendor_address": "200 Crossing Blvd, Bridgewater NJ 08807-2861",
+    "po_line_items": [
+      {
+        "description": "PRINTER, RUGGEDJET, RJ4200, BT, BATTERY",
+        "quantity": 15.0,
+        "net_price": 5639.25
+      },
+      {
+        "description": "BATTERY, RJ4200",
+        "quantity": 15.0,
+        "net_price": 1346.55
+      }
+    ],
+    "vat_amount": null,
+    "gl_account": null,
+    "bank_name": null,
+    "account_holder_name": null,
+    "banking_account_number": null,
+    "remit_to_address": null,
+    "bill_to_address": null,
+    "transaction_type": "debit"
+  },
+  "filename": "SAPS4_5100050571_US29_PFNAUS_2026_999884665.pdf",
+  "raw_response": {
+    "invoice_number": "1000001750",
+    "invoice_date": "February 2, 2026",
+    "invoice_amount": "7,684.38",
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": null,
+    "po_number": [
+      "82048095"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "Brother International Corporation",
+    "vendor_address": "200 Crossing Blvd, Bridgewater NJ 08807-2861",
+    "po_line_items": [
+      {
+        "description": "PRINTER, RUGGEDJET, RJ4200, BT, BATTERY",
+        "quantity": 15.0,
+        "net_price": 5639.25
+      },
+      {
+        "description": "BATTERY, RJ4200",
+        "quantity": 15.0,
+        "net_price": 1346.55
+      }
+    ]
+  }
+}

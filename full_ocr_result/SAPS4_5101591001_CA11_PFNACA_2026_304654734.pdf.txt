@@ -1,0 +1,752 @@
+==================================<Page 1 - START>================================
+Standard Invoice                                                                                                   GRAINGER
+Original tax invoice has been submitted electronically. This is a
+human readable representation (copy) of the original tax invoice.
+                                                                                                                      9800705213
+                                                                  Invoice Number
+                                                                  (Supplier Reference No.)
+                                                                  Invoice Date                     Monday 9 Feb. 2026 7:10 a.m. GMT-05:00
+                                                                  Amount Due                                        $4,170.98 CAD
+     Contact Information
+                                                                            Shipping Information
+     Supplier
+                                  Customer
+                                                                            Ship From                     Ship To
+     ACKLANDS-GRAINGER INC.        EDI ONLY PEPSI FOODS ULC
+                                                                            ACKLANDS-GRAINGER INC.        CA-PL-KENTVILLE-NS-FLC
+     PO BOX 2970                   (FLC)                                     210 JOHN SAVAGE DRIVE         59 MINAS WAREHOUSE RD
+     WINNIPEG                     59 NEW MINAS RD                           DARTMOUTH                   KENTVILLE
+     MB                          NEW MINAS                                NS                          NS
+     R3C 4B5                      NS                                       B3B 0C9                       B4N 3W9
+     CA                          B4N 5A5                                   Canada                        Canada
+                                   Canada
+                                                                                                                  PO Date : 9 Feb. 2026
+   Line Items                                               PO No. : M413545124
+                                                                                                            Unit Price         Subtotal
+   Line No.    PO Line No.          Type    Supplier Part No. /              Customer Part No.        Quantity
+                                                                                         (UOM)
+                                        Description
+   10                                  ALM320RSR / LINT ROLLER                            15 / (CA)          $41.77 CAD     $626.55 CAD
+              1                  Material
+                                         REFILL.60 SHEETS.CA12
+                                                                                                      Line Item Total : $626.55 CAD
+                                                                                         Quantity            Unit Price         Subtotal
+   Line No.    PO Line No.          Type    Supplier Part No. /              Customer Part No.
+                                                                                         (UOM)
+                                         Description
+   20                           Material ANL11-801-10 / COATED                              12 / (PR)           $3.91 CAD      $46.92 CAD
+              2
+                                         GLOVES.NITRILE/NYLON,10.BLK/
+                                        GY,PR
+                                                                                                       Line Item Total : $46.92 CAD
+                                                                    Customer Part No.        Quantity            Unit Price         Subtotal
+   Line No.    PO Line No.          Type   Supplier Part No. /
+                                         Description                                        (UOM)
+    30        3                  Material  ANL92-600-10 / DISPOSABLE                           10 / (BX)          $17.75 CAD     $177.50 CAD
+                                         GLOVES,SZ 10,GREEN,BX100
+                                                                                                       Line Item Total : $177.50 CAD
+                                                                                         Quantity            Unit Price         Subtotal
+    Line No.    PO Line No.          Type    Supplier Part No. /              Customer Part No.
+                                         Description                                        (UOM)
+    40        4                  Material ANL92-600-7 / DISPOSABLE                            10 / (BX)          $17.75 CAD      $177.50 CAD
+                                         GLOVES,SZ 7,GREEN,BX100
+                                                                                                       Line Item Total : $177.50 CAD
+                                         Supplier Part No. /             Customer Part No.        Quantity            Unit Price          Subtotal
+    Line No.    PO Line No.          Type
+                                         Description                                        (UOM)
+    50        5                 MaterialANL92-600-8 / DISPOSABLE                            40 / (BX)          $17.75 CAD      $710.00 CAD
+                                         GLOVES,SZ 8,GREEN,BX100
+                                                                                                       Line Item Total : $710.00 CAD
+              PO Line No.                  Supplier Part No. /                                    Quantity            Unit Price          Subtotal
+    Line No.                      Type                               Customer Part No.
+                                         Description                                         (UOM)
+    60        6                  Material  ANL92-600-9 / DISPOSABLE                            60 / (BX)          $17.75 CAD    $1,065.00 CAD
+                                         GLOVES,SZ 9,GREEN,BX100
+                                                                                                      Line Item Total : $1,065.00 CAD
+    Line No.    PO Line No.          Type    Supplier Part No. /              Customer Part No.         Quantity            Unit Price
+                                                                                                                              Subtotal
+                                         Description                                         (UOM)
+    70        7                  Material BOST101BR / 5PK 4X10TPI                             2 / (PK)           $13.05 CAD       $26.10 CAD
+                                         WOOD
+                                                                                                        Line Item Total : $26.10 CAD
+    Line No.    PO Line No.          Type    Supplier Part No. /                                                       Unit Price
+                                                                    Customer Part No.         Quantity                              Subtotal
+                                        Description                                         (UOM)
+   100       10                 Material  EVREN92 / AAA                                     18 / (PK)            $2.13 CAD      $38.34 CAD
+                                         BATTERY,INDUSTRIAL,1.5V
+                                         DC,PK4
+                                                                                                         Line Item Total : $38.34 CAD
+   Line No.    PO Line No.          Type    Supplier Part No. /
+                                                                    Customer Part No.         Quantity             Unit Price          Subtotal
+                                         Description
+                                                                                          (UOM)
+   120
+              12                 Material GGM2WFX2 / SCISSORS SOFT                          6 / (EA)            $2.61 CAD
+                                         GRIP                                                                               $15.66 CAD
+                                                                                                         Line Item Total : $15.66 CAD
+   Line No.    PO Line No.          Type    Supplier Part No. /
+                                                                    Customer Part No.         Quantity             Unit Price          Subtotal
+                                         Description
+                                                                                          (UOM)
+   130                          Material  GNF1878-18004 / DRILL                               10 / (EA)
+                                                                                                             $2.33 CAD      $23.30 CAD
+                                        HD,HSS,BLACK &amp;
+                                         GOLD,1/8&quot;
+                                                                                                         Line Item Total : $23.30 CAD
+   Line No.    PO Line No.          Type    Supplier Part No. /             Customer Part No.
+                                                                                          Quantity             Unit Price
+                                        Description                                                                              Subtotal
+                                                                                          (UOM)
+   140
+             14                 Material  GNF1878-18016 /DRILL                               5 / (EA)
+                                                                                                            $5.40 CAD       $27.00 CAD
+                                        HD,HSS,BLACK &amp;
+                                         GOLD.5/16&quot;
+                                                                                                         Line Item Total : $27.00 CAD
+  Line No.    PO Line No.                  Supplier Part No. /
+                                Type                               Customer Part No.        Quantity
+                                        Description                                                            Unit Price          Subtotal
+                                                                                          (UOM)
+  150
+             15                 MaterialGNF1878-18019 /DRILL
+                                                                                          5 / (EA)
+                                        HD,HSS,BLACK &amp;                                                   $6.57 CAD      $32.85 CAD
+                                        GOLD,23/64&quot;
+  Line No.    PO Line No.          Type    Supplier Part No. /                                                   Line Item Total : $32.85 CAD
+                                                                    Customer Part No.        Quantity
+                                        Description                                                            Unit Price
+                                                                                          (UOM)                               Subtotal
+  160
+             16                 Material  GNF1878-18020 / DRILL
+                                                                                          5 / (EA)
+                                        HD,HSS,BLACK &amp;                                                   $5.75 CAD
+                                                                                                                            $28.75 CAD
+                                        GOLD,3/8&quot;
+                                                                                                         Line Item Total : $28.75 CAD
+==================================<Page 1 - END>================================
+==================================<Page 2 - START>================================
+  Line No.    PO Line No.          Type    Supplier Part No. /                                                                          Subtotal
+                                                                      Customer Part No.         Quantity             Unit Price
+                                         Description
+                                                                                            (UOM)
+  170
+             17                 Material  GNF1878-18021 / DRILL                                3 / (EA)             $8.08 CAD       $24.24 CAD
+                                         HD,HSS,BLACK &amp;
+                                         GOLD,25/64&quot;
+                                                                                                           Line Item Total : $24.24 CAD
+  Line No.    PO Line No.          Type    Supplier Part No. /
+                                                                     Customer Part No.         Quantity             Unit Price          Subtotal
+                                         Description
+                                                                                            (UOM)
+  180       18                 Material  GNF1878-18022 / DRILL                                3 / (EA)            $8.79 CAD
+                                                                                                                              $26.37 CAD
+                                         HD,HSS,BLACK &amp;
+                                         GOLD.13/32&quot;
+                                                                                                           Line Item Total : $26.37 CAD
+  Line No.                                Supplier Part No. /
+             PO Line No.          Type                                Customer Part No.         Quantity             Unit Price          Subtotal
+                                         Description
+                                                                                            (UOM)
+  190       19                 Material  GNF1878-18024 / DRILL
+                                                                                            2 / (EA)            $11.01 CAD       $22.02 CAD
+                                         HD.HSS.BLACK &amp:
+                                         GOLD,7/16&quot;
+                                                                                                           Line Item Total : $22.02 CAD
+  Line No.    PO Line No.          Type    Supplier Part No. /              Customer Part No.         Quantity             Unit Price          Subtotal
+                                         Description                                          (UOM)
+                                       LCT1329837 / THREADLOCKER                          2 / (EA)
+  210       21                 Material                                                                      $25.07 CAD       $50.14 CAD
+                                         243 OIL TOLERANT 10 ML
+                                                                                                          Line Item Total : $50.14 CAD
+   Line No.    PO Line No.          Type    Supplier Part No. /              Customer Part No.         Quantity             Unit Price          Subtotal
+                                         Description                                          (UOM)
+  220       22                 Material LCT1330583 / THREADLOCKER                          3 / (EA)            $23.22 CAD       $69.66 CAD
+                                         263 HI STR FAST CURE 10 ML
+                                                                                                          Line Item Total : $69.66 CAD
+  Line No.    PO Line No.          Type    Supplier Part No. /              Customer Part No.         Quantity
+                                                                                                               Unit Price          Subtotal
+                                         Description                                          (UOM)
+                                 Material
+  230      23                       LCT233744R / ADHESIVE 409                            3 / (EA)            $8.90 CAD       $26.70 CAD
+                                        INDUSTRIAL GEL 3 G
+                                                                                                          Line Item Total : $26.70 CAD
+   Line No.    PO Line No.          Type    Supplier Part No. /              Customer Part No.
+                                                                                           Quantity             Unit Price          Subtotal
+                                        Description
+                                                                                           (UOM)
+  250       25                 Material LCT826034R/                                       3 / (EA)
+                                                                                                             $27.29 CAD       $81.87 CAD
+                                        THREADLOCKER,BLUE.STICK,9G
+                                                                                                          Line Item Total : $81.87 CAD
+  Line No.    PO Line No.          Type    Supplier Part No. /              Customer Part No.         Quantity             Unit Price          Subtotal
+                                        Description
+                                                                                           (UOM)
+  260       26                 MaterialMMM8515 / DISPOSABLE
+                                                                                           3 / (BX)           $48.82 CAD      $146.46 CAD
+                                        RESPIRATOR,UNIVERSAL,N95,PK10
+                                                                                                         Line Item Total : $146.46 CAD
+  Line No.    PO Line No.          Type    Supplier Part No. /              Customer Part No.         Quantity             Unit Price          Subtotal
+                                        Description
+                                                                                          (UOM)
+                                Material  MTL48-00-1420 / BLADES 6IN TC
+  270       27                                                                           2 / (PK)           $29.99 CAD       $59.98 CAD
+                                        SAWZALL 3PKG
+                                                                                                         Line Item Total : $59.98 CAD
+  Line No.    PO Line No.          Type    Supplier Part No. /              Customer Part No.         Quantity
+                                                                                                              Unit Price          Subtotal
+                                        Description                                         (UOM)
+  280      28                 Material PGL80367123 / POT &amp; PAN                          3 / (EA)            $9.23 CAD       $27.69 CAD
+                                        DETERGENT,BLUE,LIQUID
+                                                                                                         Line Item Total : $27.69 CAD
+  Line No.    PO Line No.          Type    Supplier Part No. /              Customer Part No.
+                                                                                          Quantity            Unit Price          Subtotal
+                                        Description
+                                                                                          (UOM)
+  300
+            30                 Material  WWG31TT23 / SPRAY                                 5 / (EA)           $18.70 CAD
+                                        NOZZLE,3/4 IN.,6.5 GPM,100 PSI                                                          $93.50 CAD
+                                                                                                        Line Item Total : $93.50 CAD
+  Line No.    PO Line No.          Type    Supplier Part No. /
+                                                                   Customer Part No.         Quantity            Unit Price         Subtotal
+                                        Description
+                                                                                          (UOM)
+  310       31                  Material  WWG44F710/                                      3 / (EA)
+                                                                                                           $11.55 CAD      $34.65 CAD
+                                        SPATULA,SILICONE,14 IN
+                                                                                                        Line Item Total : $34.65 CAD
+     Tax Summary
+     Category               Details                           Base Amount                Rate %          Amount
+     GST                  Tax Description : GOODS AND
+                                                             $3,658.75 CAD              14%            $512.23 CAD
+                            SERVICES
+     PST                   Tax Description : State/Provincial        $3,658.75 CAD              0%             $0.00 CAD
+                            Tax
+                                                                                Amount Summary
+                                                                                Line item subtotal
+                                                                                                                      $3,658.75 CAD
+                                                                                Gross amount                            $4,170.98 CAD
+                                                                                Net amount
+                                                                                                                      $4,170.98 CAD
+                                                                                Total tax amount                           $512.23 CAD
+                                                                                Total withholding tax amount
+                                                                               Amount Due
+                                                                                                                      $4,170.98 CAD
+    Additional Information
+   invioceSourceDocument
+   PurchaseOrder
+   Billing Information                                                          Remittance Information
+   Bill To                                                                  Remit To
+   PEPSI FOODS ULC (FLC)                                                   ACKLANDS-GRAINGER INC.
+   2095 MATHESON BLVD E                                                   PO BOX 2970
+    MISSISSAUGA                                                           WINNIPEG
+   ON                                                                    MB
+                                                                           R3C 4B5
+   L4W 0G2
+    Canada                                                                 Canada
+    Address ID:                                                              Address ID: CA1_2751
+    CA1_ARIBA_PAYABLES
+==================================<Page 2 - END>================================
+==================================<Page 3 - START>================================
+  Line No.
+             PO Line No. Type                            Supplier Part No. / Description
+  10         1
+                        Material                         ALM320RSR / LINT ROLLER REFILL,60 SHEETS,CA12
+  Additional Details:
+  Supplier Part ID : ALM320RSR
+  Line No.
+             PO Line No. Type                            Supplier Part No. / Description
+  20         2
+                        Material                         ANL11-801-10 / COATED GLOVES,NITRILE/NYLON,10,BLK/GY,PR
+  Additional Details:
+  Supplier Part ID : ANL11-801-10
+  Line No.
+             PO Line No. Type                           Supplier Part No. / Description
+  30
+             3         Material                         ANL92-600-10 / DISPOSABLE GLOVES,SZ 10,GREEN,BX100
+  Additional Details:
+  Supplier Part ID : ANL92-600-10
+  Line No.
+              PO Line No. Type
+                                                         Supplier Part No. / Description
+  40
+              4          Material
+                                                         ANL92-600-7 / DISPOSABLE GLOVES,SZ 7,GREEN,BX100
+  Additional Details:
+  Supplier Part ID : ANL92-600-7
+  Line No.    PO Line No. Type
+                                                         Supplier Part No. / Description
+  50        5          Material                         ANL92-600-8 / DISPOSABLE GLOVES,SZ 8,GREEN,BX100
+  Additional Details:
+  Supplier Part ID : ANL92-600-8
+  Line No.    PO Line No. Type
+                                                         Supplier Part No. / Description
+  60        6          Material                         ANL92-600-9 / DISPOSABLE GLOVES,SZ 9,GREEN,BX100
+  Additional Details:
+  Supplier Part ID : ANL92-600-9
+  Line No.    PO Line No. Type
+                                                         Supplier Part No. / Description
+  70        7          Material                          BOST101BR / 5PK 4X10TPI WOOD
+  Additional Details:
+  Supplier Part ID : BOST101BR
+  Line No.    PO Line No. Type
+                                                         Supplier Part No. / Description
+  100       10        Material
+                                                         EVREN92 / AAA BATTERY,INDUSTRIAL,1.5V DC,PK4
+  Additional Details:
+  Supplier Part ID : EVREN92
+  Line No.    PO Line No. Type
+                                                         Supplier Part No. / Description
+  120       12         Material                          GGM2WFX2 / SCISSORS SOFT GRIP
+  Additional Details:
+  Supplier Part ID : GGM2WFX2
+  Line No.    PO Line No. Type
+                                                         Supplier Part No. / Description
+  130       13        Material                          GNF1878-18004 / DRILL HD,HSS,BLACK &amp; GOLD,1/8&quot;
+  Additional Details:
+  Supplier Part ID : GNF1878-18004
+  Line No.    PO Line No. Type                            Supplier Part No. / Description
+  140       14        Material                          GNF1878-18016 / DRILL HD,HSS,BLACK &amp; GOLD,5/16&quot;
+  Additional Details:
+  Supplier Part ID : GNF1878-18016
+  Line No.    PO Line No. Type                            Supplier Part No. / Description
+  150       15        Material                          GNF1878-18019 / DRILL HD,HSS,BLACK &amp; GOLD,23/64&quot;
+  Additional Details:
+  Supplier Part ID : GNF1878-18019
+  Line No.    PO Line No. Type                            Supplier Part No. / Description
+                        Material
+  160       16                                         GNF1878-18020 / DRILL HD,HSS,BLACK &amp; GOLD,3/8&quot;
+  Additional Details:
+  Supplier Part ID : GNF1878-18020
+  Line No.    PO Line No. Type                            Supplier Part No. / Description
+  170       17        Material                          GNF1878-18021 / DRILL HD,HSS,BLACK &amp; GOLD,25/64&quot;
+  Additional Details:
+  Supplier Part ID : GNF1878-18021
+  Line No.    PO Line No. Type                            Supplier Part No. / Description
+  180       18        Material                          GNF1878-18022 / DRILL HD,HSS,BLACK &amp; GOLD,13/32&quot;
+  Additional Details:
+   Supplier Part ID : GNF1878-18022
+  Line No.    PO Line No. Type                            Supplier Part No. / Description
+  190       19        Material                          GNF1878-18024 / DRILL HD,HSS,BLACK &amp; GOLD,7/16&quot;
+  Additional Details:
+  Supplier Part ID : GNF1878-18024
+  Line No.    PO Line No. Type                            Supplier Part No. / Description
+  210       21        Material                         LCT1329837 / THREADLOCKER 243 OIL TOLERANT 10 ML
+  Additional Details:
+  Supplier Part ID : LCT1329837
+  Line No.    PO Line No. Type                            Supplier Part No. / Description
+  220       22        Material                         LCT1330583 / THREADLOCKER 263 HI STR FAST CURE 10 ML
+  Additional Details:
+  Supplier Part ID : LCT1330583
+  Line No.    PO Line No. Type                           Supplier Part No. / Description
+  230       23        Material                         LCT233744R / ADHESIVE 409 INDUSTRIAL GEL 3 G
+  Additional Details:
+  Supplier Part ID : LCT233744R
+                                                        Supplier Part No. / Description
+  Line No.    PO Line No. Type
+ 250       25        Material                         LCT826034R / THREADLOCKER,BLUE,STICK,9G
+ Additional Details:
+ Supplier Part ID : LCT826034R
+ Line No.    PO Line No. Type                           Supplier Part No. / Description
+            26        Material                         MMM8515 / DISPOSABLE RESPIRATOR,UNIVERSAL,N95,PK10
+260
+Additional Details:
+ Supplier Part ID : MMM8515
+==================================<Page 3 - END>================================
+==================================<Page 4 - START>================================
+  Line No.    PO Line No. Type                           Supplier Part No. / Description
+  270
+            27       Material                         MTL48-00-1420 / BLADES 6IN TC SAWZALL 3PKG
+ Additional Details:
+ Supplier Part ID : MTL48-00-1420
+ Line No.
+            PO Line No. Type                           Supplier Part No. / Description
+ 280       28        Material
+                                                      PGL80367123 / POT &amp; PAN DETERGENT,BLUE,LIQUID
+ Additional Details:
+ Supplier Part ID : PGL80367123
+Line No.    PO Line No. Type                           Supplier Part No. / Description
+300       30        Material                         WWG31TT23 / SPRAY NOZZLE,3/4 IN.,6.5 GPM,100 PSI
+Additional Details:
+Supplier Part ID : WWG31TT23
+Line No.    PO Line No. Type                           Supplier Part No. / Description
+310       31        Material                         WWG44F710 / SPATULA,SILICONE,14 IN
+Additional Details:
+ Supplier Part ID : WWG44F710
+PDF generated on Tuesday 10 Feb. 2026 6:31 a.m. GMT-08:00
+==================================<Page 4 - END>================================
+==================================<Page 5 - START>================================
+  Standard Invoice                                                                                                   GRAINGER
+  Original tax invoice has been submitted electronically. This is a
+  human readable representation (copy) of the original tax invoice.
+                                                                                                                        9800705213
+                                                                    Invoice Number
+                                                                    (Supplier Reference No.)
+                                                                    Invoice Date                     Monday 9 Feb. 2026 7:10 a.m. GMT-05:00
+                                                                    Amount Due                                        $4,170.98 CAD
+       Contact Information
+                                                                              Shipping Information
+       Supplier
+                                    Customer
+                                                                              Ship From                     Ship To
+       ACKLANDS-GRAINGER INC.        EDI ONLY PEPSI FOODS ULC
+                                                                              ACKLANDS-GRAINGER INC.        CA-PL-KENTVILLE-NS-FLC
+       PO BOX 2970                   (FLC)                                     210 JOHN SAVAGE DRIVE         59 MINAS WAREHOUSE RD
+       WINNIPEG                     59 NEW MINAS RD                           DARTMOUTH                   KENTVILLE
+       MB                          NEW MINAS                                NS                          NS
+       R3C 4B5                      NS                                       B3B 0C9                       B4N 3W9
+       CA                          B4N 5A5                                   Canada                        Canada
+                                     Canada
+                                                                                                                    PO Date : 9 Feb. 2026
+     Line Items                                               PO No. : M413545124
+                                                                                                             Unit Price         Subtotal
+     Line No.    PO Line No.          Type    Supplier Part No. /              Customer Part No.        Quantity
+                                                                                           (UOM)
+                                          Description
+     10                                  ALM320RSR / LINT ROLLER                            15 / (CA)          $41.77 CAD     $626.55 CAD
+                1                  Material
+                                           REFILL.60 SHEETS.CA12
+                                                                                                        Line Item Total : $626.55 CAD
+                                                                                           Quantity            Unit Price         Subtotal
+     Line No.    PO Line No.          Type    Supplier Part No. /              Customer Part No.
+                                                                                           (UOM)
+                                          Description
+     20                           Material ANL11-801-10 / COATED                              12 / (PR)           $3.91 CAD      $46.92 CAD
+                2
+                                           GLOVES.NITRILE/NYLON,10.BLK/
+                                          GY,PR
+                                                                                                         Line Item Total : $46.92 CAD
+                                                                     Customer Part No.        Quantity            Unit Price         Subtotal
+     Line No.    PO Line No.          Type   Supplier Part No. /
+                                           Description                                        (UOM)
+     30        3                  Material  ANL92-600-10 / DISPOSABLE                           10 / (BX)          $17.75 CAD     $177.50 CAD
+                                           GLOVES,SZ 10,GREEN,BX100
+                                                                                                         Line Item Total : $177.50 CAD
+                                                                                           Quantity            Unit Price         Subtotal
+     Line No.    PO Line No.          Type    Supplier Part No. /              Customer Part No.
+                                           Description                                        (UOM)
+      40        4                  Material ANL92-600-7 / DISPOSABLE                            10 / (BX)          $17.75 CAD      $177.50 CAD
+                                           GLOVES,SZ 7,GREEN,BX100
+                                                                                                         Line Item Total : $177.50 CAD
+                                          Supplier Part No. /             Customer Part No.        Quantity            Unit Price          Subtotal
+      Line No.    PO Line No.          Type
+                                          Description                                        (UOM)
+      50        5                 MaterialANL92-600-8 / DISPOSABLE                            40 / (BX)          $17.75 CAD      $710.00 CAD
+                                           GLOVES,SZ 8,GREEN,BX100
+                                                                                                         Line Item Total : $710.00 CAD
+                PO Line No.                  Supplier Part No. /                                    Quantity            Unit Price          Subtotal
+      Line No.                      Type                               Customer Part No.
+                                           Description                                         (UOM)
+      60        6                  Material  ANL92-600-9 / DISPOSABLE                            60 / (BX)          $17.75 CAD    $1,065.00 CAD
+                                          GLOVES,SZ 9,GREEN,BX100
+                                                                                                        Line Item Total : $1,065.00 CAD
+      Line No.    PO Line No.          Type    Supplier Part No. /              Customer Part No.         Quantity            Unit Price
+                                                                                                                                Subtotal
+                                           Description                                         (UOM)
+      70        7                  Material BOST101BR / 5PK 4X10TPI                             2 / (PK)           $13.05 CAD       $26.10 CAD
+                                          WOOD
+                                                                                                          Line Item Total : $26.10 CAD
+      Line No.    PO Line No.          Type    Supplier Part No. /                                                       Unit Price
+                                                                      Customer Part No.         Quantity                              Subtotal
+                                          Description                                         (UOM)
+     100       10                 Material  EVREN92 / AAA                                     18 / (PK)            $2.13 CAD      $38.34 CAD
+                                          BATTERY,INDUSTRIAL,1.5V
+                                          DC,PK4
+                                                                                                           Line Item Total : $38.34 CAD
+     Line No.    PO Line No.          Type    Supplier Part No. /
+                                                                      Customer Part No.         Quantity             Unit Price          Subtotal
+                                          Description
+                                                                                            (UOM)
+     120
+               12                 Material GGM2WFX2 / SCISSORS SOFT                          6 / (EA)            $2.61 CAD
+                                          GRIP                                                                               $15.66 CAD
+                                                                                                           Line Item Total : $15.66 CAD
+     Line No.    PO Line No.          Type    Supplier Part No. /
+                                                                      Customer Part No.         Quantity             Unit Price          Subtotal
+                                          Description
+                                                                                            (UOM)
+     130                          Material  GNF1878-18004 / DRILL                               10 / (EA)
+                                                                                                               $2.33 CAD      $23.30 CAD
+                                          HD,HSS,BLACK &amp;
+                                          GOLD,1/8&quot;
+                                                                                                           Line Item Total : $23.30 CAD
+     Line No.    PO Line No.          Type    Supplier Part No. /             Customer Part No.
+                                                                                            Quantity             Unit Price
+                                          Description                                                                              Subtotal
+                                                                                            (UOM)
+    140
+               14                 Material  GNF1878-18016 /DRILL                               5 / (EA)
+                                                                                                              $5.40 CAD       $27.00 CAD
+                                          HD,HSS,BLACK &amp;
+                                          GOLD.5/16&quot;
+                                                                                                           Line Item Total : $27.00 CAD
+    Line No.    PO Line No.                  Supplier Part No. /
+                                  Type                               Customer Part No.        Quantity
+                                          Description                                                            Unit Price          Subtotal
+                                                                                            (UOM)
+    150
+               15                 MaterialGNF1878-18019 /DRILL
+                                                                                            5 / (EA)
+                                          HD,HSS,BLACK &amp;                                                   $6.57 CAD      $32.85 CAD
+                                          GOLD,23/64&quot;
+    Line No.    PO Line No.          Type    Supplier Part No. /                                                   Line Item Total : $32.85 CAD
+                                                                      Customer Part No.        Quantity
+                                          Description                                                            Unit Price
+                                                                                            (UOM)                               Subtotal
+    160
+              16                 Material  GNF1878-18020 / DRILL
+                                                                                            5 / (EA)
+                                          HD,HSS,BLACK &amp;                                                   $5.75 CAD
+                                                                                                                             $28.75 CAD
+                                          GOLD,3/8&quot;
+                                                                                                          Line Item Total : $28.75 CAD
+==================================<Page 5 - END>================================
+==================================<Page 6 - START>================================
+    Line No.    PO Line No.          Type    Supplier Part No. /                                                                          Subtotal
+                                                                       Customer Part No.         Quantity             Unit Price
+                                           Description
+                                                                                              (UOM)
+    170
+               17                 Material  GNF1878-18021 / DRILL                                3 / (EA)             $8.08 CAD       $24.24 CAD
+                                           HD,HSS,BLACK &amp;
+                                           GOLD,25/64&quot;
+                                                                                                             Line Item Total : $24.24 CAD
+    Line No.    PO Line No.          Type    Supplier Part No. /
+                                                                       Customer Part No.         Quantity             Unit Price          Subtotal
+                                           Description
+                                                                                              (UOM)
+    180       18                 Material  GNF1878-18022 / DRILL                                3 / (EA)            $8.79 CAD
+                                                                                                                                $26.37 CAD
+                                           HD,HSS,BLACK &amp;
+                                           GOLD.13/32&quot;
+                                                                                                             Line Item Total : $26.37 CAD
+    Line No.                                Supplier Part No. /
+               PO Line No.          Type                                Customer Part No.         Quantity             Unit Price          Subtotal
+                                           Description
+                                                                                              (UOM)
+    190       19                 Material  GNF1878-18024 / DRILL
+                                                                                             2 / (EA)            $11.01 CAD       $22.02 CAD
+                                           HD.HSS.BLACK &amp:
+                                           GOLD,7/16&quot;
+                                                                                                             Line Item Total : $22.02 CAD
+    Line No.    PO Line No.          Type    Supplier Part No. /              Customer Part No.         Quantity             Unit Price          Subtotal
+                                           Description                                          (UOM)
+                                         LCT1329837 / THREADLOCKER                          2 / (EA)
+    210       21                 Material                                                                      $25.07 CAD       $50.14 CAD
+                                           243 OIL TOLERANT 10 ML
+                                                                                                            Line Item Total : $50.14 CAD
+    Line No.    PO Line No.          Type    Supplier Part No. /              Customer Part No.         Quantity             Unit Price          Subtotal
+                                           Description                                          (UOM)
+    220       22                 Material LCT1330583 / THREADLOCKER                          3 / (EA)            $23.22 CAD       $69.66 CAD
+                                           263 HI STR FAST CURE 10 ML
+                                                                                                            Line Item Total : $69.66 CAD
+    Line No.    PO Line No.          Type    Supplier Part No. /              Customer Part No.         Quantity
+                                                                                                                 Unit Price          Subtotal
+                                          Description                                          (UOM)
+                                   Material
+    230      23                       LCT233744R / ADHESIVE 409                            3 / (EA)            $8.90 CAD       $26.70 CAD
+                                          INDUSTRIAL GEL 3 G
+                                                                                                            Line Item Total : $26.70 CAD
+    Line No.    PO Line No.          Type    Supplier Part No. /              Customer Part No.
+                                                                                             Quantity             Unit Price          Subtotal
+                                          Description
+                                                                                             (UOM)
+    250       25                 Material LCT826034R/                                       3 / (EA)
+                                                                                                               $27.29 CAD       $81.87 CAD
+                                          THREADLOCKER,BLUE.STICK,9G
+                                                                                                            Line Item Total : $81.87 CAD
+    Line No.    PO Line No.          Type    Supplier Part No. /              Customer Part No.         Quantity             Unit Price          Subtotal
+                                          Description
+                                                                                             (UOM)
+    260       26                 MaterialMMM8515 / DISPOSABLE
+                                                                                             3 / (BX)           $48.82 CAD      $146.46 CAD
+                                          RESPIRATOR,UNIVERSAL,N95,PK10
+                                                                                                          Line Item Total : $146.46 CAD
+    Line No.    PO Line No.          Type    Supplier Part No. /              Customer Part No.         Quantity             Unit Price          Subtotal
+                                          Description
+                                                                                            (UOM)
+                                  Material  MTL48-00-1420 / BLADES 6IN TC
+    270       27                                                                           2 / (PK)           $29.99 CAD       $59.98 CAD
+                                          SAWZALL 3PKG
+                                                                                                           Line Item Total : $59.98 CAD
+    Line No.    PO Line No.          Type    Supplier Part No. /              Customer Part No.         Quantity
+                                                                                                               Unit Price          Subtotal
+                                          Description                                         (UOM)
+    280      28                 Material PGL80367123 / POT &amp; PAN                          3 / (EA)            $9.23 CAD       $27.69 CAD
+                                          DETERGENT,BLUE,LIQUID
+                                                                                                           Line Item Total : $27.69 CAD
+    Line No.    PO Line No.          Type    Supplier Part No. /              Customer Part No.
+                                                                                            Quantity            Unit Price          Subtotal
+                                          Description
+                                                                                            (UOM)
+    300
+              30                 Material  WWG31TT23 / SPRAY                                 5 / (EA)           $18.70 CAD
+                                          NOZZLE,3/4 IN.,6.5 GPM,100 PSI                                                          $93.50 CAD
+                                                                                                          Line Item Total : $93.50 CAD
+    Line No.    PO Line No.          Type    Supplier Part No. /
+                                                                     Customer Part No.         Quantity            Unit Price         Subtotal
+                                          Description
+                                                                                            (UOM)
+    310       31                  Material  WWG44F710/                                      3 / (EA)
+                                                                                                             $11.55 CAD      $34.65 CAD
+                                          SPATULA,SILICONE,14 IN
+                                                                                                          Line Item Total : $34.65 CAD
+       Tax Summary
+       Category               Details                           Base Amount                Rate %          Amount
+       GST                  Tax Description : GOODS AND
+                                                               $3,658.75 CAD              14%            $512.23 CAD
+                              SERVICES
+       PST                   Tax Description : State/Provincial        $3,658.75 CAD              0%             $0.00 CAD
+                              Tax
+                                                                                  Amount Summary
+                                                                                  Line item subtotal
+                                                                                                                        $3,658.75 CAD
+                                                                                  Gross amount                            $4,170.98 CAD
+                                                                                 Net amount
+                                                                                                                        $4,170.98 CAD
+                                                                                 Total tax amount                           $512.23 CAD
+                                                                                  Total withholding tax amount
+                                                                                 Amount Due
+                                                                                                                        $4,170.98 CAD
+     Additional Information
+     invioceSourceDocument
+     PurchaseOrder
+     Billing Information                                                          Remittance Information
+     Bill To                                                                  Remit To
+     PEPSI FOODS ULC (FLC)                                                   ACKLANDS-GRAINGER INC.
+     2095 MATHESON BLVD E                                                   PO BOX 2970
+     MISSISSAUGA                                                           WINNIPEG
+     ON                                                                    MB
+                                                                             R3C 4B5
+     L4W 0G2
+     Canada                                                                 Canada
+     Address ID:                                                              Address ID: CA1_2751
+      CA1_ARIBA_PAYABLES
+==================================<Page 6 - END>================================
+==================================<Page 7 - START>================================
+   Line No.
+               PO Line No. Type                            Supplier Part No. / Description
+    10         1
+                          Material                         ALM320RSR / LINT ROLLER REFILL,60 SHEETS,CA12
+    Additional Details:
+    Supplier Part ID : ALM320RSR
+   Line No.
+               PO Line No. Type                            Supplier Part No. / Description
+    20         2
+                          Material                         ANL11-801-10 / COATED GLOVES,NITRILE/NYLON,10,BLK/GY,PR
+    Additional Details:
+    Supplier Part ID : ANL11-801-10
+    Line No.
+               PO Line No. Type                           Supplier Part No. / Description
+    30
+               3         Material                         ANL92-600-10 / DISPOSABLE GLOVES,SZ 10,GREEN,BX100
+    Additional Details:
+    Supplier Part ID : ANL92-600-10
+    Line No.
+               PO Line No. Type
+                                                           Supplier Part No. / Description
+    40
+                4          Material
+                                                           ANL92-600-7 / DISPOSABLE GLOVES,SZ 7,GREEN,BX100
+    Additional Details:
+    Supplier Part ID : ANL92-600-7
+    Line No.    PO Line No. Type
+                                                           Supplier Part No. / Description
+    50        5          Material                         ANL92-600-8 / DISPOSABLE GLOVES,SZ 8,GREEN,BX100
+    Additional Details:
+    Supplier Part ID : ANL92-600-8
+    Line No.    PO Line No. Type
+                                                           Supplier Part No. / Description
+    60        6          Material                         ANL92-600-9 / DISPOSABLE GLOVES,SZ 9,GREEN,BX100
+    Additional Details:
+    Supplier Part ID : ANL92-600-9
+    Line No.    PO Line No. Type
+                                                           Supplier Part No. / Description
+    70        7          Material                          BOST101BR / 5PK 4X10TPI WOOD
+    Additional Details:
+    Supplier Part ID : BOST101BR
+    Line No.    PO Line No. Type
+                                                           Supplier Part No. / Description
+    100       10        Material
+                                                           EVREN92 / AAA BATTERY,INDUSTRIAL,1.5V DC,PK4
+    Additional Details:
+    Supplier Part ID : EVREN92
+    Line No.    PO Line No. Type
+                                                           Supplier Part No. / Description
+    120       12         Material                          GGM2WFX2 / SCISSORS SOFT GRIP
+    Additional Details:
+    Supplier Part ID : GGM2WFX2
+    Line No.    PO Line No. Type
+                                                           Supplier Part No. / Description
+    130       13        Material                          GNF1878-18004 / DRILL HD,HSS,BLACK &amp; GOLD,1/8&quot;
+    Additional Details:
+    Supplier Part ID : GNF1878-18004
+    Line No.    PO Line No. Type                            Supplier Part No. / Description
+    140       14        Material                          GNF1878-18016 / DRILL HD,HSS,BLACK &amp; GOLD,5/16&quot;
+    Additional Details:
+    Supplier Part ID : GNF1878-18016
+    Line No.    PO Line No. Type                            Supplier Part No. / Description
+    150       15        Material                          GNF1878-18019 / DRILL HD,HSS,BLACK &amp; GOLD,23/64&quot;
+    Additional Details:
+    Supplier Part ID : GNF1878-18019
+    Line No.    PO Line No. Type                            Supplier Part No. / Description
+                          Material
+    160       16                                         GNF1878-18020 / DRILL HD,HSS,BLACK &amp; GOLD,3/8&quot;
+    Additional Details:
+    Supplier Part ID : GNF1878-18020
+    Line No.    PO Line No. Type                            Supplier Part No. / Description
+    170       17        Material                          GNF1878-18021 / DRILL HD,HSS,BLACK &amp; GOLD,25/64&quot;
+    Additional Details:
+    Supplier Part ID : GNF1878-18021
+    Line No.    PO Line No. Type                            Supplier Part No. / Description
+    180       18        Material                          GNF1878-18022 / DRILL HD,HSS,BLACK &amp; GOLD,13/32&quot;
+    Additional Details:
+    Supplier Part ID : GNF1878-18022
+    Line No.    PO Line No. Type                            Supplier Part No. / Description
+    190       19        Material                          GNF1878-18024 / DRILL HD,HSS,BLACK &amp; GOLD,7/16&quot;
+    Additional Details:
+    Supplier Part ID : GNF1878-18024
+    Line No.    PO Line No. Type                            Supplier Part No. / Description
+    210       21        Material                         LCT1329837 / THREADLOCKER 243 OIL TOLERANT 10 ML
+    Additional Details:
+    Supplier Part ID : LCT1329837
+    Line No.    PO Line No. Type                            Supplier Part No. / Description
+    220       22        Material                         LCT1330583 / THREADLOCKER 263 HI STR FAST CURE 10 ML
+    Additional Details:
+    Supplier Part ID : LCT1330583
+   Line No.    PO Line No. Type                           Supplier Part No. / Description
+    230       23        Material                         LCT233744R / ADHESIVE 409 INDUSTRIAL GEL 3 G
+    Additional Details:
+    Supplier Part ID : LCT233744R
+                                                         Supplier Part No. / Description
+   Line No.    PO Line No. Type
+   250       25        Material                         LCT826034R / THREADLOCKER,BLUE,STICK,9G
+   Additional Details:
+   Supplier Part ID : LCT826034R
+   Line No.    PO Line No. Type                           Supplier Part No. / Description
+              26        Material                         MMM8515 / DISPOSABLE RESPIRATOR,UNIVERSAL,N95,PK10
+   260
+   Additional Details:
+   Supplier Part ID : MMM8515
+==================================<Page 7 - END>================================
+==================================<Page 8 - START>================================
+  Line No.    PO Line No. Type                           Supplier Part No. / Description
+  270
+            27       Material                         MTL48-00-1420 / BLADES 6IN TC SAWZALL 3PKG
+ Additional Details:
+ Supplier Part ID : MTL48-00-1420
+ Line No.
+            PO Line No. Type                           Supplier Part No. / Description
+ 280       28        Material
+                                                      PGL80367123 / POT &amp; PAN DETERGENT,BLUE,LIQUID
+ Additional Details:
+ Supplier Part ID : PGL80367123
+Line No.    PO Line No. Type                           Supplier Part No. / Description
+300       30        Material                         WWG31TT23 / SPRAY NOZZLE,3/4 IN.,6.5 GPM,100 PSI
+Additional Details:
+Supplier Part ID : WWG31TT23
+Line No.    PO Line No. Type                           Supplier Part No. / Description
+310       31        Material                         WWG44F710 / SPATULA,SILICONE,14 IN
+Additional Details:
+ Supplier Part ID : WWG44F710
+PDF generated on Tuesday 10 Feb. 2026 6:31 a.m. GMT-08:00
+==================================<Page 8 - END>================================

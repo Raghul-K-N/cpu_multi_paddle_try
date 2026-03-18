@@ -1,0 +1,57 @@
+{
+  "invoice_data": {
+    "invoice_number": "CA06-00899306",
+    "invoice_date": "02/04/26",
+    "invoice_amount": null,
+    "invoice_currency": null,
+    "tax_amount": null,
+    "po_number": [
+      "4504712139",
+      "WFQ 5"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "REMIT MOTION INDUSTRIES, INC.",
+    "vendor_address": "19489 WISHON DR, STE 100, BAKERSFIELD, CA 93308, PH 6613246741, FAX 6613242133",
+    "po_line_items": [
+      {
+        "description": "NF20007 FILTER CPNO: 900004763 HYD FILTERS",
+        "quantity": 2.0,
+        "net_price": 534.04
+      }
+    ],
+    "vat_amount": null,
+    "gl_account": null,
+    "bank_name": null,
+    "account_holder_name": null,
+    "banking_account_number": null,
+    "remit_to_address": null,
+    "bill_to_address": null,
+    "transaction_type": "debit"
+  },
+  "filename": "SAPS4_5101907502_US28_PFNAUS_2026_999884804.pdf",
+  "raw_response": {
+    "invoice_number": "CA06-00899306",
+    "invoice_date": "02/04/26",
+    "invoice_amount": null,
+    "invoice_currency": null,
+    "tax_amount": null,
+    "po_number": [
+      "4504712139",
+      "WFQ 5"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "REMIT MOTION INDUSTRIES, INC.",
+    "vendor_address": "19489 WISHON DR, STE 100, BAKERSFIELD, CA 93308, PH 6613246741, FAX 6613242133",
+    "po_line_items": [
+      {
+        "description": "NF20007 FILTER CPNO: 900004763 HYD FILTERS",
+        "quantity": 2.0,
+        "net_price": 534.04
+      }
+    ]
+  }
+}

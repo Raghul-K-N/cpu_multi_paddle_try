@@ -1,0 +1,79 @@
+{
+  "invoice_data": {
+    "invoice_number": "SLS00342709",
+    "invoice_date": "01/30/2026",
+    "invoice_amount": "234.06",
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": "7.80",
+    "po_number": [
+      "M413091166"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "Premier Trailers, LLC.",
+    "vendor_address": "PO Box 206553, Dallas,TX 75320-6553",
+    "po_line_items": [
+      {
+        "description": "PIFZ940243 Arrived to the Orlando Branch with issues as followed: License plate missing.",
+        "quantity": null,
+        "net_price": null
+      },
+      {
+        "description": "License Plate Install",
+        "quantity": null,
+        "net_price": null
+      },
+      {
+        "description": "Install RS Exterior Logistics Post",
+        "quantity": null,
+        "net_price": null
+      }
+    ],
+    "vat_amount": null,
+    "gl_account": null,
+    "bank_name": null,
+    "account_holder_name": null,
+    "banking_account_number": null,
+    "remit_to_address": null,
+    "bill_to_address": null,
+    "transaction_type": "debit"
+  },
+  "filename": "SAPS4_5100793500_US30_PFNAUS_2026_999885217.pdf",
+  "raw_response": {
+    "invoice_number": "SLS00342709",
+    "invoice_date": "01/30/2026",
+    "invoice_amount": "234.06",
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": "7.80",
+    "po_number": [
+      "M413091166"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "Premier Trailers, LLC.",
+    "vendor_address": "PO Box 206553, Dallas,TX 75320-6553",
+    "po_line_items": [
+      {
+        "description": "PIFZ940243 Arrived to the Orlando Branch with issues as followed: License plate missing.",
+        "quantity": null,
+        "net_price": null
+      },
+      {
+        "description": "License Plate Install",
+        "quantity": null,
+        "net_price": null
+      },
+      {
+        "description": "Install RS Exterior Logistics Post",
+        "quantity": null,
+        "net_price": null
+      }
+    ]
+  }
+}

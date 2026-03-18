@@ -1,0 +1,69 @@
+{
+  "invoice_data": {
+    "invoice_number": "JC130367",
+    "invoice_date": "2/10/26",
+    "invoice_amount": "1693.35",
+    "invoice_currency": [
+      "CAD"
+    ],
+    "tax_amount": "80.64",
+    "po_number": [
+      "M413228996"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "BORNE INDUSTRIES LTD.",
+    "vendor_address": "2 - 655 30 ST NORTH, LETHBRIDGEAB T1H 5G5, Canada",
+    "po_line_items": [
+      {
+        "description": "FABRICATE & INSTALL MAGNET MOUNT BRACKETS ON MSV FASTBACK",
+        "quantity": null,
+        "net_price": null
+      },
+      {
+        "description": "Convevor Pans",
+        "quantity": null,
+        "net_price": null
+      }
+    ],
+    "vat_amount": null,
+    "gl_account": null,
+    "bank_name": null,
+    "account_holder_name": null,
+    "banking_account_number": null,
+    "remit_to_address": null,
+    "bill_to_address": null,
+    "transaction_type": "debit"
+  },
+  "filename": "SAPS4_5101597501_CA11_PFNACA_2026_304654743.pdf",
+  "raw_response": {
+    "invoice_number": "JC130367",
+    "invoice_date": "2/10/26",
+    "invoice_amount": "1693.35",
+    "invoice_currency": [
+      "CAD"
+    ],
+    "tax_amount": "80.64",
+    "po_number": [
+      "M413228996"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "BORNE INDUSTRIES LTD.",
+    "vendor_address": "2 - 655 30 ST NORTH, LETHBRIDGEAB T1H 5G5, Canada",
+    "po_line_items": [
+      {
+        "description": "FABRICATE & INSTALL MAGNET MOUNT BRACKETS ON MSV FASTBACK",
+        "quantity": null,
+        "net_price": null
+      },
+      {
+        "description": "Convevor Pans",
+        "quantity": null,
+        "net_price": null
+      }
+    ]
+  }
+}

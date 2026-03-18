@@ -1,0 +1,91 @@
+{
+  "invoice_data": {
+    "invoice_number": "3010755829",
+    "invoice_date": "02/11/2026",
+    "invoice_amount": "26.59",
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": "1.59",
+    "po_number": [
+      "N92695-FRITO",
+      "M411611040"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": "0.00",
+    "cost_center": null,
+    "vendor_name": "vestis",
+    "vendor_address": "100 COMMERCE DR STE 100, BRAINTREE MS 02184",
+    "po_line_items": [
+      {
+        "description": "DP0002REDD DUST MOP ENVELOPE",
+        "quantity": 5.0,
+        "net_price": 1.88
+      },
+      {
+        "description": "DP0018YELO MOP DUST SYNTHETIC",
+        "quantity": 6.0,
+        "net_price": 0.618
+      },
+      {
+        "description": "TO0108NAVY MICROFIBER WIPER 16X16",
+        "quantity": 1.0,
+        "net_price": 0.021
+      },
+      {
+        "description": "TS0002REDD SHOP TOWEL PLAIN",
+        "quantity": 500.0,
+        "net_price": 0.067
+      }
+    ],
+    "vat_amount": null,
+    "gl_account": null,
+    "bank_name": null,
+    "account_holder_name": null,
+    "banking_account_number": null,
+    "remit_to_address": null,
+    "bill_to_address": null,
+    "transaction_type": "debit"
+  },
+  "filename": "SAPS4_5100037561_US29_PFNAUS_2026_999884505.pdf",
+  "raw_response": {
+    "invoice_number": "3010755829",
+    "invoice_date": "02/11/2026",
+    "invoice_amount": "26.59",
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": "1.59",
+    "po_number": [
+      "N92695-FRITO",
+      "M411611040"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": "0.00",
+    "cost_center": null,
+    "vendor_name": "vestis",
+    "vendor_address": "100 COMMERCE DR STE 100, BRAINTREE MS 02184",
+    "po_line_items": [
+      {
+        "description": "DP0002REDD DUST MOP ENVELOPE",
+        "quantity": 5.0,
+        "net_price": 1.88
+      },
+      {
+        "description": "DP0018YELO MOP DUST SYNTHETIC",
+        "quantity": 6.0,
+        "net_price": 0.618
+      },
+      {
+        "description": "TO0108NAVY MICROFIBER WIPER 16X16",
+        "quantity": 1.0,
+        "net_price": 0.021
+      },
+      {
+        "description": "TS0002REDD SHOP TOWEL PLAIN",
+        "quantity": 500.0,
+        "net_price": 0.067
+      }
+    ]
+  }
+}

@@ -1,0 +1,89 @@
+{
+  "invoice_data": {
+    "invoice_number": "15893",
+    "invoice_date": "01-30-2026",
+    "invoice_amount": "642.18",
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": "73.88",
+    "po_number": [
+      "4504946840"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": "34.80",
+    "cost_center": null,
+    "vendor_name": "CHISHOLM MACHINERY SOLUTIONS",
+    "vendor_address": "5760 Valley Way, P.O. Box 245, Niagara Falls, Ontario, Canada L2E 6T3",
+    "po_line_items": [
+      {
+        "description": "203108.001 STRIP RETAINING WINDOW 1030-01 (20 MTR RLL = 65.6) SOLD BY THE ROLL OF 65.6 FT",
+        "quantity": 65.6,
+        "net_price": 4.8
+      },
+      {
+        "description": "203109.001 STRIP LOCKING RETAINING WINDOW 1030-04 (20M = 65.6 FT) (SOLD BY THE ROLL OF 65.6FT)",
+        "quantity": 65.6,
+        "net_price": 1.29
+      },
+      {
+        "description": "1061416 WINDOW TOP",
+        "quantity": 2.0,
+        "net_price": 0.0
+      },
+      {
+        "description": "022273 GSKT MAT'L 1/16 INX 1/2 IN CL CELL EPDM GRAY PSA ON ONE SIDE (SOLD BY THE ROLL OF 50 FT)",
+        "quantity": 50.0,
+        "net_price": 2.28
+      }
+    ],
+    "vat_amount": null,
+    "gl_account": null,
+    "bank_name": null,
+    "account_holder_name": null,
+    "banking_account_number": null,
+    "remit_to_address": null,
+    "bill_to_address": null,
+    "transaction_type": "debit"
+  },
+  "filename": "SAPS4_5101604001_CA11_PFNACA_2026_304654823.pdf",
+  "raw_response": {
+    "invoice_number": "15893",
+    "invoice_date": "01-30-2026",
+    "invoice_amount": "642.18",
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": "73.88",
+    "po_number": [
+      "4504946840"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": "34.80",
+    "cost_center": null,
+    "vendor_name": "CHISHOLM MACHINERY SOLUTIONS",
+    "vendor_address": "5760 Valley Way, P.O. Box 245, Niagara Falls, Ontario, Canada L2E 6T3",
+    "po_line_items": [
+      {
+        "description": "203108.001 STRIP RETAINING WINDOW 1030-01 (20 MTR RLL = 65.6) SOLD BY THE ROLL OF 65.6 FT",
+        "quantity": 65.6,
+        "net_price": 4.8
+      },
+      {
+        "description": "203109.001 STRIP LOCKING RETAINING WINDOW 1030-04 (20M = 65.6 FT) (SOLD BY THE ROLL OF 65.6FT)",
+        "quantity": 65.6,
+        "net_price": 1.29
+      },
+      {
+        "description": "1061416 WINDOW TOP",
+        "quantity": 2.0,
+        "net_price": 0.0
+      },
+      {
+        "description": "022273 GSKT MAT'L 1/16 INX 1/2 IN CL CELL EPDM GRAY PSA ON ONE SIDE (SOLD BY THE ROLL OF 50 FT)",
+        "quantity": 50.0,
+        "net_price": 2.28
+      }
+    ]
+  }
+}

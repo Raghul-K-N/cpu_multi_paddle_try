@@ -1,0 +1,79 @@
+{
+  "invoice_data": {
+    "invoice_number": "90187065",
+    "invoice_date": "02/04/2026",
+    "invoice_amount": "819.75",
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": "67.91",
+    "po_number": [
+      "4505038839"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": "21.84",
+    "cost_center": null,
+    "vendor_name": "Daifuku Intralogistics America Corporation",
+    "vendor_address": "6300 Northwind Parkway, Hobart, IN, 46342, Phone: (219)777-2220 Fax: (708)229-2495, Email: AR_Shared@wynright.com, PO Box 71383, Chicago, IL 60694-1383",
+    "po_line_items": [
+      {
+        "description": "M_FREIGHT-002 FREIGHT @ $21.84 EA",
+        "quantity": 1.0,
+        "net_price": 21.84
+      },
+      {
+        "description": "W-030220-03 RLR21.5C267H0 @ $70.44 EA",
+        "quantity": 10.0,
+        "net_price": 70.44
+      },
+      {
+        "description": "W-910124-01 BELT-R-.25W11L-N @ $2.56 EA",
+        "quantity": 10.0,
+        "net_price": 2.56
+      }
+    ],
+    "vat_amount": null,
+    "gl_account": null,
+    "bank_name": null,
+    "account_holder_name": null,
+    "banking_account_number": null,
+    "remit_to_address": null,
+    "bill_to_address": null,
+    "transaction_type": "debit"
+  },
+  "filename": "SAPS4_5100186557_US28_PFNAUS_2026_999884378.pdf",
+  "raw_response": {
+    "invoice_number": "90187065",
+    "invoice_date": "02/04/2026",
+    "invoice_amount": "819.75",
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": "67.91",
+    "po_number": [
+      "4505038839"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": "21.84",
+    "cost_center": null,
+    "vendor_name": "Daifuku Intralogistics America Corporation",
+    "vendor_address": "6300 Northwind Parkway, Hobart, IN, 46342, Phone: (219)777-2220 Fax: (708)229-2495, Email: AR_Shared@wynright.com, PO Box 71383, Chicago, IL 60694-1383",
+    "po_line_items": [
+      {
+        "description": "M_FREIGHT-002 FREIGHT @ $21.84 EA",
+        "quantity": 1.0,
+        "net_price": 21.84
+      },
+      {
+        "description": "W-030220-03 RLR21.5C267H0 @ $70.44 EA",
+        "quantity": 10.0,
+        "net_price": 70.44
+      },
+      {
+        "description": "W-910124-01 BELT-R-.25W11L-N @ $2.56 EA",
+        "quantity": 10.0,
+        "net_price": 2.56
+      }
+    ]
+  }
+}

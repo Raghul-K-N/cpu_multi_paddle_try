@@ -1,0 +1,69 @@
+{
+  "invoice_data": {
+    "invoice_number": "2911845587",
+    "invoice_date": "12/18/2025",
+    "invoice_amount": "......8,463.00",
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": null,
+    "po_number": [
+      "4504096056-10"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "Cargill",
+    "vendor_address": "CARGILL DRY CORN INGREDIENTS, INC. S16 SOUTH JEFFERSON AVENUE PARIS IL 61944-0550 USA",
+    "po_line_items": [
+      {
+        "description": "0335001 ENRCD ML GRAN",
+        "quantity": 20.15,
+        "net_price": 8463.0
+      },
+      {
+        "description": "YLW 2000LB TT",
+        "quantity": 21.0,
+        "net_price": null
+      }
+    ],
+    "vat_amount": null,
+    "gl_account": null,
+    "bank_name": null,
+    "account_holder_name": null,
+    "banking_account_number": null,
+    "remit_to_address": null,
+    "bill_to_address": null,
+    "transaction_type": "debit"
+  },
+  "filename": "SAPS4_5100276511_CA11_PFNACA_2026_304672257.pdf",
+  "raw_response": {
+    "invoice_number": "2911845587",
+    "invoice_date": "12/18/2025",
+    "invoice_amount": "../../../8,463.00",
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": null,
+    "po_number": [
+      "4504096056-10"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "Cargill",
+    "vendor_address": "CARGILL DRY CORN INGREDIENTS, INC. S16 SOUTH JEFFERSON AVENUE PARIS IL 61944-0550 USA",
+    "po_line_items": [
+      {
+        "description": "0335001 ENRCD ML GRAN",
+        "quantity": 20.15,
+        "net_price": 8463.0
+      },
+      {
+        "description": "YLW 2000LB TT",
+        "quantity": 21.0,
+        "net_price": null
+      }
+    ]
+  }
+}

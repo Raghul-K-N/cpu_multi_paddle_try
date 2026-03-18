@@ -1,0 +1,69 @@
+{
+  "invoice_data": {
+    "invoice_number": "0000218737",
+    "invoice_date": "Jan-31-26",
+    "invoice_amount": "471.50",
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": "61.50",
+    "po_number": [
+      "M413415626"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "Fero Waste & Recycling Inc.",
+    "vendor_address": "203 Desbrisay Ave, Moncton, NB E1E 0G7",
+    "po_line_items": [
+      {
+        "description": "Monthly Rental",
+        "quantity": 1.0,
+        "net_price": 345.0
+      },
+      {
+        "description": "Winterization Charge",
+        "quantity": 1.0,
+        "net_price": 65.0
+      }
+    ],
+    "vat_amount": null,
+    "gl_account": null,
+    "bank_name": null,
+    "account_holder_name": null,
+    "banking_account_number": null,
+    "remit_to_address": null,
+    "bill_to_address": null,
+    "transaction_type": "debit"
+  },
+  "filename": "SAPS4_5101377505_CA11_PFNACA_2026_304667663.pdf",
+  "raw_response": {
+    "invoice_number": "0000218737",
+    "invoice_date": "Jan-31-26",
+    "invoice_amount": "471.50",
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": "61.50",
+    "po_number": [
+      "M413415626"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "Fero Waste & Recycling Inc.",
+    "vendor_address": "203 Desbrisay Ave, Moncton, NB E1E 0G7",
+    "po_line_items": [
+      {
+        "description": "Monthly Rental",
+        "quantity": 1.0,
+        "net_price": 345.0
+      },
+      {
+        "description": "Winterization Charge",
+        "quantity": 1.0,
+        "net_price": 65.0
+      }
+    ]
+  }
+}

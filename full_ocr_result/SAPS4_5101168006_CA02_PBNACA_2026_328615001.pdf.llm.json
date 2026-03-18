@@ -1,0 +1,119 @@
+{
+  "invoice_data": {
+    "invoice_number": "SI210554",
+    "invoice_date": "2/1/2026",
+    "invoice_amount": "2406.93",
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": "276.90",
+    "po_number": [
+      "WP00035140-HF"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": "75.00",
+    "cost_center": null,
+    "vendor_name": "Pepsico Beverages Canada",
+    "vendor_address": "WAREHOUSING, Ted Kessaram, 5900 Falbourne Street, Mississauga, ON, L5R 3M2",
+    "po_line_items": [
+      {
+        "description": "3.0.3: (3) high direct stacked -RECURRING",
+        "quantity": 32.0,
+        "net_price": 10.1
+      },
+      {
+        "description": "3.0.2: (2) high direct stacked -RECURRING",
+        "quantity": 23.0,
+        "net_price": 15.15
+      },
+      {
+        "description": "WS4.14.01: Min. Recurring per SKU (6plts.)",
+        "quantity": 18.0,
+        "net_price": 63.0
+      },
+      {
+        "description": "3.0.3: (3) high direct stack",
+        "quantity": 7.0,
+        "net_price": 0.0
+      },
+      {
+        "description": "3.0.2: (2) high direct stacked",
+        "quantity": 9.0,
+        "net_price": 0.0
+      },
+      {
+        "description": "4.01.0: Order Processing Fee/ per BOL",
+        "quantity": 5.0,
+        "net_price": 15.0
+      },
+      {
+        "description": "4.1.3: Customer System Entry",
+        "quantity": 52.5,
+        "net_price": 4.75
+      }
+    ],
+    "vat_amount": null,
+    "gl_account": null,
+    "bank_name": null,
+    "account_holder_name": null,
+    "banking_account_number": null,
+    "remit_to_address": null,
+    "bill_to_address": null,
+    "transaction_type": "debit"
+  },
+  "filename": "SAPS4_5101168006_CA02_PBNACA_2026_328615001.pdf",
+  "raw_response": {
+    "invoice_number": "SI210554",
+    "invoice_date": "2/1/2026",
+    "invoice_amount": "2406.93",
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": "276.90",
+    "po_number": [
+      "WP00035140-HF"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": "75.00",
+    "cost_center": null,
+    "vendor_name": "Pepsico Beverages Canada",
+    "vendor_address": "WAREHOUSING, Ted Kessaram, 5900 Falbourne Street, Mississauga, ON, L5R 3M2",
+    "po_line_items": [
+      {
+        "description": "3.0.3: (3) high direct stacked -RECURRING",
+        "quantity": 32.0,
+        "net_price": 10.1
+      },
+      {
+        "description": "3.0.2: (2) high direct stacked -RECURRING",
+        "quantity": 23.0,
+        "net_price": 15.15
+      },
+      {
+        "description": "WS4.14.01: Min. Recurring per SKU (6plts.)",
+        "quantity": 18.0,
+        "net_price": 63.0
+      },
+      {
+        "description": "3.0.3: (3) high direct stack",
+        "quantity": 7.0,
+        "net_price": 0.0
+      },
+      {
+        "description": "3.0.2: (2) high direct stacked",
+        "quantity": 9.0,
+        "net_price": 0.0
+      },
+      {
+        "description": "4.01.0: Order Processing Fee/ per BOL",
+        "quantity": 5.0,
+        "net_price": 15.0
+      },
+      {
+        "description": "4.1.3: Customer System Entry",
+        "quantity": 52.5,
+        "net_price": 4.75
+      }
+    ]
+  }
+}

@@ -1,0 +1,47 @@
+{
+  "invoice_data": {
+    "invoice_number": "F000833",
+    "invoice_date": "22-DÉC-2025",
+    "invoice_amount": null,
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": null,
+    "po_number": [
+      "FRIT600"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "Summum Formation & Logistique Inc.",
+    "vendor_address": "1-35 Boul. de la Pinière, Terrebonne (Québec), J6X 4P7, Téléphone / Phone no.: 514 351-2333No. fax / fax no.: Télécopieur : 514 351-188",
+    "po_line_items": null,
+    "vat_amount": null,
+    "gl_account": null,
+    "bank_name": null,
+    "account_holder_name": null,
+    "banking_account_number": null,
+    "remit_to_address": null,
+    "bill_to_address": null,
+    "transaction_type": "debit"
+  },
+  "filename": "SAPS4_5101427503_CA11_PFNACA_2026_304654793.pdf",
+  "raw_response": {
+    "invoice_number": "F000833",
+    "invoice_date": "22-DÉC-2025",
+    "invoice_amount": null,
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": null,
+    "po_number": [
+      "FRIT600"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "Summum Formation & Logistique Inc.",
+    "vendor_address": "1-35 Boul. de la Pinière, Terrebonne (Québec), J6X 4P7, Téléphone / Phone no.: 514 351-2333No. fax / fax no.: Télécopieur : 514 351-188",
+    "po_line_items": null
+  }
+}

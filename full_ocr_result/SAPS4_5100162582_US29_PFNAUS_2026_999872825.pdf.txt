@@ -1,0 +1,498 @@
+==================================<Page 1 - START>================================
+Standard Invoice
+                                                                                                                     GRAINGER
+Original tax invoice has been submitted electronically. This is a
+human readable representation (copy) of the original tax invoice.
+                                                                                                                   980643361226
+                                                                 Invoice Number
+                                                                 (Supplier Reference No.)
+                                                                                               Thursday 12 Feb 2026 5:20 AM GMT-07:00
+                                                                 Invoice Date
+                                                                                                                    $847.92 USD
+                                                                 Amount Due
+    Contact Information                                                        Shipping Information
+    Supplier                      Customer
+                                                                           Ship From                      Ship To
+    Grainger                      Rolling Frito-Lay Sales                                                      FRITO LAY ATTN: KYLE
+                                                                           Grainger
+                                                                           701 GRAINGER WAY              EKSTROM/DAN CU
+    100 Grainger Pkwy               c/o PEPSICO NASS
+    Lake Forest                                                             MINOOKA                      LAUREN.JOHNSON1@PEPS
+                                 ACCOUNTS PAYABLES
+    IL                          PO BOX 1800                               IL                            1269 TURRET DR
+    Winst                        Winston Salem                              60447                         MACHESNEY PARK
+                                 NC                                      United States                    IL
+     United States
+                                 27105                                                                  61115
+                                 United States                                                             United States
+                                                                                                        Phone: (262) 252-2601
+  Line Items                                              PO No. : M413554927                                       PO Date : 12 Feb 2026
+                                                                                                         Unit Price         Subtotal
+  Line No.    PO Line No.          Type    Supplier Part No. /             Customer Part No.         Quantity
+                                                                                      (UOM)
+                                       Description
+   1        1                 Material 52CF87 / Glass Clnr,Trig Spray                          2 / (EA)           $50.48 USD      $100.96 USD
+                                       Btl,23 oz,PK8
+  Line No.    PO Line No.          Type    Supplier Part No. /             Customer Part No.        Quantity            Unit Price         Subtotal
+                                       Description                                       (UOM)
+   2                           Material 2KU16 / Angle Broom,48 in Handle
+             2                                                                        8 / (EA)            $8.00 USD       $64.00 USD
+                                       L,12 in Face
+   Line No.    PO Line No.         Type   Supplier Part No. /             Customer Part No.        Quantity            Unit Price         Subtotal
+                                      Description                                       (UOM)
+   3        3                 Material 22UY43 / Paper Towel                                1 / (EA)           $27.30 USD       $27.30 USD
+                                       Roll,85.White,PK30
+                               Type    Supplier Part No. /                                                     Unit Price
+   Line No.    PO Line No.                                           Customer Part No.        Quantity                             Subtotal
+                                       Description
+   4        4                 Material 878HN8 / Five GI 70 Mil Plastic Pail                       8 / (EA)            $6.50 USD       $52.00 USD
+   Line No.    PO Line No.         Type    Supplier Part No. /             Customer Part No.        Quantity            Unit Price         Subtotal
+                                       Description                                        (UOM)
+                               Material 786F07 / Disinfecting
+   5        5                                                                        2 / (EA)           $59.06 USD      $118.12 USD
+                                       Wipes.White.Lemon,PK 6
+   Line No.    PO Line No.         Type    Supplier Part No. /             Customer Part No.                           Unit Price         Subtotal
+                                                                                      Quantity
+                                      Description                                        (UOM)
+   6        6                 Material 4PGN5 / Trash Can, Blk, 7 gal,                          16 / (EA)           $9.22 USD      $147.52 USD
+                                      Plastic
+            PO Line No.         Type   Supplier Part No. /
+  Line No.                                                        Customer Part No.        Quantity            Unit Price         Subtotal
+                                      Description
+                                                                                      (UOM)
+  7        7                 Material  15J219 / Disp Hot Cup,12
+                                                                                      1 / (EA)          $124.93 USD     $124.93 USD
+                                      oz,WH,5342CD,PK1000
+            PO Line No.          Type
+  Line No.                              Supplier Part No. /             Customer Part No.        Quantity            Unit Price
+                                      Description                                                                           Subtotal
+                                                                                      (UOM)
+  8        8                 Material 15J208 / Disp Hot Cup Lid,10oz-20
+                                                                                      1 / (EA)          $129.57 USD      $129.57 USD
+                                      oz,D9542,PK1000
+                                                                             Amount Summary
+                                                                              Line item subtotal                           $764.40 USD
+                                                                              Shipping charges                            $30.00 USD
+                                                                              Gross amount                             $847.92 USD
+                                                                             Net amount
+                                                                                                                     $847.92 USD
+                                                                              Total tax amount
+                                                                                                                      $53.52 USD
+                                                                              Total withholding tax amount
+                                                                             Amount Due                              $847.92 USD
+   Additional Information
+   InvoiceSourceDocument
+   PurchaseOrder
+   InvoiceSubmissionMethod
+   cXML
+   Billing Information
+                                                                         Remittance Information
+  Bill To
+                                                                         Remit To
+  Rolling Frito-Lay Sales                                                     GRAINGER
+  c/o PEPSICO NASS                                                       DEPT. 875541948
+  ACCOUNTS PAYABLES                                                    PALATINE
+  PO BOX 1800                                                            IL
+  Winston Salem                                                           60038-0001
+  NC
+                                                                        United States
+  27105
+                                                                        Address ID: US1_10359
+  United States
+  Address ID: US29                                                        Tax ID of Supplier
+                                                                        36-1150280
+                                                                     Reference Documents
+                                                                     Original Supplier Order #: 1575665893
+==================================<Page 1 - END>================================
+==================================<Page 2 - START>================================
+  Appendix
+  Line No.
+             PO Line No. Type
+                                                        Supplier Part No. / Description
+  1
+             1         Material
+                                                        52CF87 / Glass Clnr,Trig Spray Btl,23 oz,PK8
+  Additional Details:
+  Supplier Part ID : 52CF87
+  Supplier Part Auxiliary ID : WWG52CF87
+  Line No.    PO Line No. Type                           Supplier Part No. / Description
+  2
+             2         Material
+                                                        2KU16 / Angle Broom,48 in Handle L,12 in Face
+  Additional Details:
+  Supplier Part ID : 2KU16
+  Supplier Part Auxiliary ID : WWG2KU16
+ Line No.    PO Line No. Type                           Supplier Part No. / Description
+  3          3         Material                         22UY43 / Paper Towel Roll,85,White,PK30
+ Additional Details:
+  Supplier Part ID : 22UY43
+ Supplier Part Auxiliary ID : WWG22UY43
+ Line No.
+            PO Line No. Type                            Supplier Part No. / Description
+ 4                    Material
+            4                                          878HN8 / Five Gl 70 Mil Plastic Pail
+ Additional Details:
+ Supplier Part ID : 878HN8
+ Supplier Part Auxiliary ID : WWG878HN8
+            PO Line No. Type
+Line No.                                               Supplier Part No. / Description
+ 5         5         Material
+                                                       786F07 / Disinfecting Wipes,White,Lemon,PK 6
+ Additional Details:
+Supplier Part ID : 786F07
+Supplier Part Auxiliary ID : WWG786F07
+Line No.    PO Line No. Type
+                                                       Supplier Part No. / Description
+            6         Material
+6                                                    4PGN5 / Trash Can, Blk, 7 gal, Plastic
+Additional Details:
+Supplier Part ID : 4PGN5
+Supplier Part Auxiliary ID : WWG4PGN5
+Line No.
+            PO Line No. Type                            Supplier Part No. / Description
+7         7         Material
+                                                       15J219 / Disp Hot Cup,12 oz,WH,5342CD,PK1000
+Additional Details:
+Supplier Part ID : 15J219
+Supplier Part Auxiliary ID : WWG15J219
+Line No.
+            PO Line No. Type                            Supplier Part No. / Description
+8         8
+                       Material                         15J208 / Disp Hot Cup Lid,10oz-20 oz,D9542,PK1000
+Additional Details:
+Supplier Part ID : 15J208
+Supplier Part Auxiliary ID : WWG15J208
+PDF generated on Friday 13 Feb 2026 4:43 AM GMT-08:00
+==================================<Page 2 - END>================================
+==================================<Page 3 - START>================================
+Standard Invoice
+                                                                                                                     GRAINGER
+Original tax invoice has been submitted electronically. This is a
+human readable representation (copy) of the original tax invoice.
+                                                                                                                    980643361226
+                                                                  Invoice Number
+                                                                  (Supplier Reference No.)
+                                                                                               Thursday 12 Feb 2026 5:20 AM GMT-07:00
+                                                                  Invoice Date
+                                                                                                                     $847.92 USD
+                                                                 Amount Due
+     Contact Information                                                        Shipping Information
+     Supplier                      Customer
+                                                                           Ship From                      Ship To
+     Grainger                      Rolling Frito-Lay Sales                                                      FRITO LAY ATTN: KYLE
+                                                                           Grainger
+                                                                           701 GRAINGER WAY              EKSTROM/DAN CU
+     100 Grainger Pkwy               c/o PEPSICO NASS
+     Lake Forest                                                             MINOOKA                      LAUREN.JOHNSON1@PEPS
+                                  ACCOUNTS PAYABLES
+     IL                          PO BOX 1800                               IL                            1269 TURRET DR
+     Winst                        Winston Salem                              60447                         MACHESNEY PARK
+                                  NC                                      United States                    IL
+     United States
+                                  27105                                                                  61115
+                                  United States                                                             United States
+                                                                                                        Phone: (262) 252-2601
+   Line Items                                              PO No. : M413554927                                       PO Date : 12 Feb 2026
+                                                                                                          Unit Price         Subtotal
+   Line No.    PO Line No.          Type    Supplier Part No. /             Customer Part No.         Quantity
+                                                                                       (UOM)
+                                       Description
+   1        1                 Material 52CF87 / Glass Clnr,Trig Spray                          2 / (EA)           $50.48 USD      $100.96 USD
+                                       Btl,23 oz,PK8
+   Line No.    PO Line No.          Type    Supplier Part No. /             Customer Part No.        Quantity            Unit Price         Subtotal
+                                       Description                                       (UOM)
+   2                           Material 2KU16 / Angle Broom,48 in Handle
+             2                                                                        8 / (EA)            $8.00 USD       $64.00 USD
+                                       L,12 in Face
+   Line No.    PO Line No.         Type   Supplier Part No. /             Customer Part No.        Quantity            Unit Price         Subtotal
+                                       Description                                       (UOM)
+   3        3                 Material 22UY43 / Paper Towel                                1 / (EA)           $27.30 USD       $27.30 USD
+                                       Roll,85.White,PK30
+                                Type    Supplier Part No. /                                                     Unit Price
+   Line No.    PO Line No.                                           Customer Part No.        Quantity                             Subtotal
+                                       Description
+    4        4                 Material 878HN8 / Five GI 70 Mil Plastic Pail                       8 / (EA)            $6.50 USD       $52.00 USD
+   Line No.    PO Line No.         Type    Supplier Part No. /             Customer Part No.        Quantity            Unit Price         Subtotal
+                                       Description                                        (UOM)
+                                Material 786F07 / Disinfecting
+   5        5                                                                        2 / (EA)           $59.06 USD      $118.12 USD
+                                       Wipes.White.Lemon,PK 6
+   Line No.    PO Line No.         Type    Supplier Part No. /             Customer Part No.                           Unit Price         Subtotal
+                                                                                       Quantity
+                                       Description                                        (UOM)
+   6        6                 Material 4PGN5 / Trash Can, Blk, 7 gal,                          16 / (EA)           $9.22 USD      $147.52 USD
+                                       Plastic
+             PO Line No.         Type   Supplier Part No. /
+   Line No.                                                        Customer Part No.        Quantity            Unit Price         Subtotal
+                                       Description
+                                                                                       (UOM)
+   7        7                 Material  15J219 / Disp Hot Cup,12
+                                                                                       1 / (EA)          $124.93 USD     $124.93 USD
+                                       oz,WH,5342CD,PK1000
+             PO Line No.          Type
+   Line No.                              Supplier Part No. /             Customer Part No.        Quantity            Unit Price
+                                       Description                                                                           Subtotal
+                                                                                       (UOM)
+   8        8                 Material 15J208 / Disp Hot Cup Lid,10oz-20
+                                                                                       1 / (EA)          $129.57 USD      $129.57 USD
+                                       oz,D9542,PK1000
+                                                                              Amount Summary
+                                                                              Line item subtotal                           $764.40 USD
+                                                                              Shipping charges                            $30.00 USD
+                                                                              Gross amount                             $847.92 USD
+                                                                              Net amount
+                                                                                                                      $847.92 USD
+                                                                              Total tax amount
+                                                                                                                      $53.52 USD
+                                                                              Total withholding tax amount
+                                                                              Amount Due                              $847.92 USD
+    Additional Information
+    InvoiceSourceDocument
+    PurchaseOrder
+   InvoiceSubmissionMethod
+   cXML
+   Billing Information
+                                                                          Remittance Information
+   Bill To
+                                                                         Remit To
+   Rolling Frito-Lay Sales                                                     GRAINGER
+   c/o PEPSICO NASS                                                       DEPT. 875541948
+   ACCOUNTS PAYABLES                                                    PALATINE
+   PO BOX 1800                                                            IL
+   Winston Salem                                                           60038-0001
+   NC
+                                                                         United States
+   27105
+                                                                         Address ID: US1_10359
+   United States
+   Address ID: US29                                                        Tax ID of Supplier
+                                                                         36-1150280
+                                                                      Reference Documents
+                                                                      Original Supplier Order #: 1575665893
+==================================<Page 3 - END>================================
+==================================<Page 4 - START>================================
+  Appendix
+  Line No.
+             PO Line No. Type
+                                                        Supplier Part No. / Description
+  1
+             1         Material
+                                                        52CF87 / Glass Clnr,Trig Spray Btl,23 oz,PK8
+  Additional Details:
+  Supplier Part ID : 52CF87
+  Supplier Part Auxiliary ID : WWG52CF87
+  Line No.    PO Line No. Type                           Supplier Part No. / Description
+  2
+             2         Material
+                                                        2KU16 / Angle Broom,48 in Handle L,12 in Face
+  Additional Details:
+  Supplier Part ID : 2KU16
+  Supplier Part Auxiliary ID : WWG2KU16
+ Line No.    PO Line No. Type                           Supplier Part No. / Description
+  3          3         Material                         22UY43 / Paper Towel Roll,85,White,PK30
+ Additional Details:
+  Supplier Part ID : 22UY43
+ Supplier Part Auxiliary ID : WWG22UY43
+ Line No.
+            PO Line No. Type                            Supplier Part No. / Description
+ 4                    Material
+            4                                          878HN8 / Five Gl 70 Mil Plastic Pail
+ Additional Details:
+ Supplier Part ID : 878HN8
+ Supplier Part Auxiliary ID : WWG878HN8
+            PO Line No. Type
+Line No.                                               Supplier Part No. / Description
+ 5         5         Material
+                                                       786F07 / Disinfecting Wipes,White,Lemon,PK 6
+ Additional Details:
+Supplier Part ID : 786F07
+Supplier Part Auxiliary ID : WWG786F07
+Line No.    PO Line No. Type
+                                                       Supplier Part No. / Description
+            6         Material
+6                                                    4PGN5 / Trash Can, Blk, 7 gal, Plastic
+Additional Details:
+Supplier Part ID : 4PGN5
+Supplier Part Auxiliary ID : WWG4PGN5
+Line No.
+            PO Line No. Type                            Supplier Part No. / Description
+7         7         Material
+                                                       15J219 / Disp Hot Cup,12 oz,WH,5342CD,PK1000
+Additional Details:
+Supplier Part ID : 15J219
+Supplier Part Auxiliary ID : WWG15J219
+Line No.
+            PO Line No. Type                            Supplier Part No. / Description
+8         8
+                       Material                         15J208 / Disp Hot Cup Lid,10oz-20 oz,D9542,PK1000
+Additional Details:
+Supplier Part ID : 15J208
+Supplier Part Auxiliary ID : WWG15J208
+PDF generated on Friday 13 Feb 2026 4:43 AM GMT-08:00
+==================================<Page 4 - END>================================
+==================================<Page 5 - START>================================
+Standard Invoice
+                                                                                                                     GRAINGER
+Original tax invoice has been submitted electronically. This is a
+human readable representation (copy) of the original tax invoice.
+                                                                                                                    980643361226
+                                                                  Invoice Number
+                                                                  (Supplier Reference No.)
+                                                                                               Thursday 12 Feb 2026 5:20 AM GMT-07:00
+                                                                  Invoice Date
+                                                                                                                     $847.92 USD
+                                                                 Amount Due
+     Contact Information                                                        Shipping Information
+     Supplier                      Customer
+                                                                           Ship From                      Ship To
+     Grainger                      Rolling Frito-Lay Sales                                                      FRITO LAY ATTN: KYLE
+                                                                           Grainger
+                                                                           701 GRAINGER WAY              EKSTROM/DAN CU
+     100 Grainger Pkwy               c/o PEPSICO NASS
+     Lake Forest                                                             MINOOKA                      LAUREN.JOHNSON1@PEPS
+                                  ACCOUNTS PAYABLES
+     IL                          PO BOX 1800                               IL                            1269 TURRET DR
+     Winst                        Winston Salem                              60447                         MACHESNEY PARK
+                                  NC                                      United States                    IL
+     United States
+                                  27105                                                                  61115
+                                  United States                                                             United States
+                                                                                                        Phone: (262) 252-2601
+   Line Items                                              PO No. : M413554927                                       PO Date : 12 Feb 2026
+                                                                                                          Unit Price         Subtotal
+   Line No.    PO Line No.          Type    Supplier Part No. /             Customer Part No.         Quantity
+                                                                                       (UOM)
+                                       Description
+   1        1                 Material 52CF87 / Glass Clnr,Trig Spray                          2 / (EA)           $50.48 USD      $100.96 USD
+                                       Btl,23 oz,PK8
+   Line No.    PO Line No.          Type    Supplier Part No. /             Customer Part No.        Quantity            Unit Price         Subtotal
+                                       Description                                       (UOM)
+   2                           Material 2KU16 / Angle Broom,48 in Handle
+             2                                                                        8 / (EA)            $8.00 USD       $64.00 USD
+                                       L,12 in Face
+   Line No.    PO Line No.         Type   Supplier Part No. /             Customer Part No.        Quantity            Unit Price         Subtotal
+                                       Description                                       (UOM)
+   3        3                 Material 22UY43 / Paper Towel                                1 / (EA)           $27.30 USD       $27.30 USD
+                                       Roll,85.White,PK30
+                                Type    Supplier Part No. /                                                     Unit Price
+   Line No.    PO Line No.                                           Customer Part No.        Quantity                             Subtotal
+                                       Description
+    4        4                 Material 878HN8 / Five GI 70 Mil Plastic Pail                       8 / (EA)            $6.50 USD       $52.00 USD
+   Line No.    PO Line No.         Type    Supplier Part No. /             Customer Part No.        Quantity            Unit Price         Subtotal
+                                       Description                                        (UOM)
+                                Material 786F07 / Disinfecting
+   5        5                                                                        2 / (EA)           $59.06 USD      $118.12 USD
+                                       Wipes.White.Lemon,PK 6
+   Line No.    PO Line No.         Type    Supplier Part No. /             Customer Part No.                           Unit Price         Subtotal
+                                                                                       Quantity
+                                       Description                                        (UOM)
+   6        6                 Material 4PGN5 / Trash Can, Blk, 7 gal,                          16 / (EA)           $9.22 USD      $147.52 USD
+                                       Plastic
+             PO Line No.         Type   Supplier Part No. /
+   Line No.                                                        Customer Part No.        Quantity            Unit Price         Subtotal
+                                       Description
+                                                                                       (UOM)
+   7        7                 Material  15J219 / Disp Hot Cup,12
+                                                                                       1 / (EA)          $124.93 USD     $124.93 USD
+                                       oz,WH,5342CD,PK1000
+             PO Line No.          Type
+   Line No.                              Supplier Part No. /             Customer Part No.        Quantity            Unit Price
+                                       Description                                                                           Subtotal
+                                                                                       (UOM)
+   8        8                 Material 15J208 / Disp Hot Cup Lid,10oz-20
+                                                                                       1 / (EA)          $129.57 USD      $129.57 USD
+                                       oz,D9542,PK1000
+                                                                              Amount Summary
+                                                                              Line item subtotal                           $764.40 USD
+                                                                              Shipping charges                            $30.00 USD
+                                                                              Gross amount                             $847.92 USD
+                                                                              Net amount
+                                                                                                                      $847.92 USD
+                                                                              Total tax amount
+                                                                                                                      $53.52 USD
+                                                                              Total withholding tax amount
+                                                                              Amount Due                              $847.92 USD
+    Additional Information
+    InvoiceSourceDocument
+    PurchaseOrder
+   InvoiceSubmissionMethod
+   cXML
+   Billing Information
+                                                                          Remittance Information
+   Bill To
+                                                                         Remit To
+   Rolling Frito-Lay Sales                                                     GRAINGER
+   c/o PEPSICO NASS                                                       DEPT. 875541948
+   ACCOUNTS PAYABLES                                                    PALATINE
+   PO BOX 1800                                                            IL
+   Winston Salem                                                           60038-0001
+   NC
+                                                                         United States
+   27105
+                                                                         Address ID: US1_10359
+   United States
+   Address ID: US29                                                        Tax ID of Supplier
+                                                                         36-1150280
+                                                                      Reference Documents
+                                                                      Original Supplier Order #: 1575665893
+==================================<Page 5 - END>================================
+==================================<Page 6 - START>================================
+  Appendix
+  Line No.
+             PO Line No. Type
+                                                        Supplier Part No. / Description
+  1
+             1         Material
+                                                        52CF87 / Glass Clnr,Trig Spray Btl,23 oz,PK8
+  Additional Details:
+  Supplier Part ID : 52CF87
+  Supplier Part Auxiliary ID : WWG52CF87
+  Line No.    PO Line No. Type                           Supplier Part No. / Description
+  2
+             2         Material
+                                                        2KU16 / Angle Broom,48 in Handle L,12 in Face
+  Additional Details:
+  Supplier Part ID : 2KU16
+  Supplier Part Auxiliary ID : WWG2KU16
+ Line No.    PO Line No. Type                           Supplier Part No. / Description
+  3          3         Material                         22UY43 / Paper Towel Roll,85,White,PK30
+ Additional Details:
+  Supplier Part ID : 22UY43
+ Supplier Part Auxiliary ID : WWG22UY43
+ Line No.
+            PO Line No. Type                            Supplier Part No. / Description
+ 4                    Material
+            4                                          878HN8 / Five Gl 70 Mil Plastic Pail
+ Additional Details:
+ Supplier Part ID : 878HN8
+ Supplier Part Auxiliary ID : WWG878HN8
+            PO Line No. Type
+Line No.                                               Supplier Part No. / Description
+ 5         5         Material
+                                                       786F07 / Disinfecting Wipes,White,Lemon,PK 6
+ Additional Details:
+Supplier Part ID : 786F07
+Supplier Part Auxiliary ID : WWG786F07
+Line No.    PO Line No. Type
+                                                       Supplier Part No. / Description
+            6         Material
+6                                                    4PGN5 / Trash Can, Blk, 7 gal, Plastic
+Additional Details:
+Supplier Part ID : 4PGN5
+Supplier Part Auxiliary ID : WWG4PGN5
+Line No.
+            PO Line No. Type                            Supplier Part No. / Description
+7         7         Material
+                                                       15J219 / Disp Hot Cup,12 oz,WH,5342CD,PK1000
+Additional Details:
+Supplier Part ID : 15J219
+Supplier Part Auxiliary ID : WWG15J219
+Line No.
+            PO Line No. Type                            Supplier Part No. / Description
+8         8
+                       Material                         15J208 / Disp Hot Cup Lid,10oz-20 oz,D9542,PK1000
+Additional Details:
+Supplier Part ID : 15J208
+Supplier Part Auxiliary ID : WWG15J208
+PDF generated on Friday 13 Feb 2026 4:43 AM GMT-08:00
+==================================<Page 6 - END>================================

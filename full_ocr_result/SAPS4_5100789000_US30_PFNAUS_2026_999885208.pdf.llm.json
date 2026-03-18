@@ -1,0 +1,47 @@
+{
+  "invoice_data": {
+    "invoice_number": "560418P",
+    "invoice_date": "11/18/2025",
+    "invoice_amount": "-212.50",
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": null,
+    "po_number": [
+      "23257030"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": "-212.50",
+    "cost_center": null,
+    "vendor_name": "Dario Diesel Service (5125D)",
+    "vendor_address": "182 Southwest Cutoff, Norcester, MA 01604",
+    "po_line_items": null,
+    "vat_amount": null,
+    "gl_account": null,
+    "bank_name": null,
+    "account_holder_name": null,
+    "banking_account_number": null,
+    "remit_to_address": null,
+    "bill_to_address": null,
+    "transaction_type": "credit"
+  },
+  "filename": "SAPS4_5100789000_US30_PFNAUS_2026_999885208.pdf",
+  "raw_response": {
+    "invoice_number": "560418P",
+    "invoice_date": "11/18/2025",
+    "invoice_amount": "-212.50",
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": null,
+    "po_number": [
+      "23257030"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": "-212.50",
+    "cost_center": null,
+    "vendor_name": "Dario Diesel Service (5125D)",
+    "vendor_address": "182 Southwest Cutoff, Norcester, MA 01604",
+    "po_line_items": null
+  }
+}

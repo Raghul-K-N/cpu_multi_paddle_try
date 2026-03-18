@@ -1,0 +1,109 @@
+{
+  "invoice_data": {
+    "invoice_number": "M00506602",
+    "invoice_date": "1/29/2026",
+    "invoice_amount": "4,314.51",
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": "296.46",
+    "po_number": [
+      "M413267653"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "MILESTONE EQUIPMENT COMPANY LLC",
+    "vendor_address": "PO Box 205589, Dallas, TX 75320-5589, United States",
+    "po_line_items": [
+      {
+        "description": "After Hours Service 1/18/26, Greensburg PA, Rpl Damaged RS Mud Flap",
+        "quantity": null,
+        "net_price": 1109.29
+      },
+      {
+        "description": "service call, update fhwa",
+        "quantity": null,
+        "net_price": 297.01
+      },
+      {
+        "description": "Service call for brake adjustment",
+        "quantity": null,
+        "net_price": 310.98
+      },
+      {
+        "description": "After Hours Service on 1/7/26, Kathleen GA, FHWA Inspection",
+        "quantity": null,
+        "net_price": 974.39
+      },
+      {
+        "description": "Service call to Valdosta GA on 12/21/25, Diagnose and Repair Damaged Landing Gear, Landing Gear assembly was found damaged beyond repair and neede to be replaced. When vendor returned to repair with parts the trailer had been loaded and moved charge for two calls to Valdosta GA",
+        "quantity": null,
+        "net_price": 979.96
+      },
+      {
+        "description": "service call, replace mudflap",
+        "quantity": null,
+        "net_price": 346.42
+      }
+    ],
+    "vat_amount": null,
+    "gl_account": null,
+    "bank_name": null,
+    "account_holder_name": null,
+    "banking_account_number": null,
+    "remit_to_address": null,
+    "bill_to_address": null,
+    "transaction_type": "debit"
+  },
+  "filename": "SAPS4_5100087515_US30_PFNAUS_2026_999930782.pdf",
+  "raw_response": {
+    "invoice_number": "M00506602",
+    "invoice_date": "1/29/2026",
+    "invoice_amount": "4,314.51",
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": "296.46",
+    "po_number": [
+      "M413267653"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "MILESTONE EQUIPMENT COMPANY LLC",
+    "vendor_address": "PO Box 205589, Dallas, TX 75320-5589, United States",
+    "po_line_items": [
+      {
+        "description": "After Hours Service 1/18/26, Greensburg PA, Rpl Damaged RS Mud Flap",
+        "quantity": null,
+        "net_price": 1109.29
+      },
+      {
+        "description": "service call, update fhwa",
+        "quantity": null,
+        "net_price": 297.01
+      },
+      {
+        "description": "Service call for brake adjustment",
+        "quantity": null,
+        "net_price": 310.98
+      },
+      {
+        "description": "After Hours Service on 1/7/26, Kathleen GA, FHWA Inspection",
+        "quantity": null,
+        "net_price": 974.39
+      },
+      {
+        "description": "Service call to Valdosta GA on 12/21/25, Diagnose and Repair Damaged Landing Gear, Landing Gear assembly was found damaged beyond repair and neede to be replaced. When vendor returned to repair with parts the trailer had been loaded and moved charge for two calls to Valdosta GA",
+        "quantity": null,
+        "net_price": 979.96
+      },
+      {
+        "description": "service call, replace mudflap",
+        "quantity": null,
+        "net_price": 346.42
+      }
+    ]
+  }
+}

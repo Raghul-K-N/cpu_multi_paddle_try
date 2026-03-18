@@ -1,0 +1,59 @@
+{
+  "invoice_data": {
+    "invoice_number": "9800524671",
+    "invoice_date": "Monday 9 Feb. 2026 7:00 a.m. GMT-05:00",
+    "invoice_amount": "15.18",
+    "invoice_currency": [
+      "CAD"
+    ],
+    "tax_amount": "1.98",
+    "po_number": [
+      "M413484738"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "ACKLANDS-GRAINGER INC.",
+    "vendor_address": "PO BOX 2970, WINNIPEG, MB R3C 4B5, CA; G6V 7L7, QC, Canada; G6V 7L7, Canada",
+    "po_line_items": [
+      {
+        "description": "EBP22UD61 / BOULON TC D912 ALA4 M6-1X12.50/PQ",
+        "quantity": 2.0,
+        "net_price": 6.6
+      }
+    ],
+    "vat_amount": null,
+    "gl_account": null,
+    "bank_name": null,
+    "account_holder_name": null,
+    "banking_account_number": null,
+    "remit_to_address": null,
+    "bill_to_address": null,
+    "transaction_type": "debit"
+  },
+  "filename": "SAPS4_5101588501_CA11_PFNACA_2026_304654724.pdf",
+  "raw_response": {
+    "invoice_number": "9800524671",
+    "invoice_date": "Monday 9 Feb. 2026 7:00 a.m. GMT-05:00",
+    "invoice_amount": "15.18",
+    "invoice_currency": [
+      "CAD"
+    ],
+    "tax_amount": "1.98",
+    "po_number": [
+      "M413484738"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "ACKLANDS-GRAINGER INC.",
+    "vendor_address": "PO BOX 2970, WINNIPEG, MB R3C 4B5, CA; G6V 7L7, QC, Canada; G6V 7L7, Canada",
+    "po_line_items": [
+      {
+        "description": "EBP22UD61 / BOULON TC D912 ALA4 M6-1X12.50/PQ",
+        "quantity": 2.0,
+        "net_price": 6.6
+      }
+    ]
+  }
+}

@@ -1,0 +1,99 @@
+{
+  "invoice_data": {
+    "invoice_number": "9801246696",
+    "invoice_date": "Monday 9 Feb. 2026 7:00 a.m. GMT-05:00",
+    "invoice_amount": "1356.25",
+    "invoice_currency": [
+      "CAD"
+    ],
+    "tax_amount": "156.03",
+    "po_number": [
+      "M413546244"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "ACKLANDS-GRAINGER INC.",
+    "vendor_address": "PO BOX 2970, WINNIPEG, MB R3C 4B5, CA; 1 WATER TOWER GATE, SCARBOROUGH, ON M1B 6C5, Canada",
+    "po_line_items": [
+      {
+        "description": "Material WWG16U863 / INSTRUCTIONAL LABEL, CARE, PK500",
+        "quantity": 4.0,
+        "net_price": 44.82
+      },
+      {
+        "description": "Material CPGBC400 / PACKING SLIP ENVELOPE,7\"OH,PK1000",
+        "quantity": 4.0,
+        "net_price": 116.16
+      },
+      {
+        "description": "Material CGT9170/30R / SURFACE DISINFECTANT WIPES,WHITE",
+        "quantity": 50.0,
+        "net_price": 3.06
+      },
+      {
+        "description": "Material WWG6FWH8 / TRASH BAG.96 GAL.,BLACK,PK50",
+        "quantity": 5.0,
+        "net_price": 72.96
+      },
+      {
+        "description": "Material EBP4VCG3 / SAFETY GLASSES,CLEAR,POLYCARBONATE",
+        "quantity": 25.0,
+        "net_price": 1.54
+      }
+    ],
+    "vat_amount": null,
+    "gl_account": null,
+    "bank_name": null,
+    "account_holder_name": null,
+    "banking_account_number": null,
+    "remit_to_address": null,
+    "bill_to_address": null,
+    "transaction_type": "debit"
+  },
+  "filename": "SAPS4_5101603000_CA11_PFNACA_2026_304654766.pdf",
+  "raw_response": {
+    "invoice_number": "9801246696",
+    "invoice_date": "Monday 9 Feb. 2026 7:00 a.m. GMT-05:00",
+    "invoice_amount": "1356.25",
+    "invoice_currency": [
+      "CAD"
+    ],
+    "tax_amount": "156.03",
+    "po_number": [
+      "M413546244"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "ACKLANDS-GRAINGER INC.",
+    "vendor_address": "PO BOX 2970, WINNIPEG, MB R3C 4B5, CA; 1 WATER TOWER GATE, SCARBOROUGH, ON M1B 6C5, Canada",
+    "po_line_items": [
+      {
+        "description": "Material WWG16U863 / INSTRUCTIONAL LABEL, CARE, PK500",
+        "quantity": 4.0,
+        "net_price": 44.82
+      },
+      {
+        "description": "Material CPGBC400 / PACKING SLIP ENVELOPE,7\"OH,PK1000",
+        "quantity": 4.0,
+        "net_price": 116.16
+      },
+      {
+        "description": "Material CGT9170/30R / SURFACE DISINFECTANT WIPES,WHITE",
+        "quantity": 50.0,
+        "net_price": 3.06
+      },
+      {
+        "description": "Material WWG6FWH8 / TRASH BAG.96 GAL.,BLACK,PK50",
+        "quantity": 5.0,
+        "net_price": 72.96
+      },
+      {
+        "description": "Material EBP4VCG3 / SAFETY GLASSES,CLEAR,POLYCARBONATE",
+        "quantity": 25.0,
+        "net_price": 1.54
+      }
+    ]
+  }
+}

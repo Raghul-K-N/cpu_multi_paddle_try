@@ -1,0 +1,81 @@
+{
+  "invoice_data": {
+    "invoice_number": "1800590673",
+    "invoice_date": "02/10/2026",
+    "invoice_amount": "432.32",
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": null,
+    "po_number": [
+      "4505106340",
+      "R601220057"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": "16.19",
+    "cost_center": null,
+    "vendor_name": "Advanced Technology Services, Inc.",
+    "vendor_address": "8201 North University · Peoria, Illinois 61615, PO Box 10182, Peoria, IL 61612",
+    "po_line_items": [
+      {
+        "description": "ATS BARCODE: K-021879 MODEL NUMBER: 2711P-T6C21D8S DESCRIPTION: PANELVIEW PLUS 7 SET CODE: JONESBOR P.O. RELEASE#: CPN#: REFNO: SHIP REFERENCE: 1Z6453750300739242",
+        "quantity": null,
+        "net_price": null
+      },
+      {
+        "description": "REPAIR SERVICES",
+        "quantity": null,
+        "net_price": null
+      },
+      {
+        "description": "SHIPPING",
+        "quantity": null,
+        "net_price": null
+      }
+    ],
+    "vat_amount": null,
+    "gl_account": null,
+    "bank_name": null,
+    "account_holder_name": null,
+    "banking_account_number": null,
+    "remit_to_address": null,
+    "bill_to_address": null,
+    "transaction_type": "debit"
+  },
+  "filename": "SAPS4_5100369528_US28_PFNAUS_2026_999884267.pdf",
+  "raw_response": {
+    "invoice_number": "1800590673",
+    "invoice_date": "02/10/2026",
+    "invoice_amount": "432.32",
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": null,
+    "po_number": [
+      "4505106340",
+      "R601220057"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": "16.19",
+    "cost_center": null,
+    "vendor_name": "Advanced Technology Services, Inc.",
+    "vendor_address": "8201 North University · Peoria, Illinois 61615, PO Box 10182, Peoria, IL 61612",
+    "po_line_items": [
+      {
+        "description": "ATS BARCODE: K-021879 MODEL NUMBER: 2711P-T6C21D8S DESCRIPTION: PANELVIEW PLUS 7 SET CODE: JONESBOR P.O. RELEASE#: CPN#: REFNO: SHIP REFERENCE: 1Z6453750300739242",
+        "quantity": null,
+        "net_price": null
+      },
+      {
+        "description": "REPAIR SERVICES",
+        "quantity": null,
+        "net_price": null
+      },
+      {
+        "description": "SHIPPING",
+        "quantity": null,
+        "net_price": null
+      }
+    ]
+  }
+}

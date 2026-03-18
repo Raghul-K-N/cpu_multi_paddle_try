@@ -1,0 +1,300 @@
+==================================<Page 1 - START>================================
+Standard Invoice
+                                                                                                                   GRAINGR
+Original tax invoice has been submitted electronically. This is a
+human readable representation (copy) of the original tax invoice.
+                                                                Invoice Number                                     980675235926
+                                                                (Supplier Reference No.)
+                                                                                             Thursday 12 Feb 2026 5:29 AM GMT-07:00
+                                                                Invoice Date
+                                                                                                                  $584.30 USD
+                                                                Amount Due
+    Contact Information
+                                                                          Shipping Information
+    Supplier                      Customer
+                                                                          Ship From                     Ship To
+    Grainger
+                                 Frito-Lay Inc.                               Grainger                      US-PL-MODESTO-CA-FLI
+    100 Grainger Pkwy               c/o PEPSICO NASS                                                       GRAINGER REP/CAGE
+                                                                         2710 KEYSTONE PACIFIC
+    Lake Forest                    ACCOUNTS PAYABLES                                                    600 GARNER RD
+                                                                         PARKWAY
+    IL                           PO BOX 1800                              PATTERSON                   MODESTO
+    Winst                        Winston Salem                              CA                          CA
+    United States                  NC                                      95363                        95357
+                                 27105
+                                                                          United States                   United States
+                                 United States                                                           Phone: (209) 544-5400
+  Line Items                                              PO No. : M413555632                                      PO Date : 12 Feb 2026
+  Line No.   PO Line No.          Type    Supplier Part No. /             Customer Part No.        Quantity            Unit Price         Subtotal
+                                      Description                                       (UOM)
+  1
+            1                 Material 786F07 / Disinfecting                                1 / (EA)          $59.06 USD      $59.06 USD
+                                      Wipes,White,Lemon,PK 6
+  Line No.                                                                                              Unit Price         Subtotal
+            PO Line No.          Type    Supplier Part No. /             Customer Part No.        Quantity
+                                      Description                                       (UOM)
+  2        2                 Material 4GC49 /                                                         $11.94 USD     $238.80 USD
+                                                                                     20 / (EA)
+                                      DisposableGloves,Green,M,Size8,PK100
+  Line No.   PO Line No.         Type   Supplier Part No. /             Customer Part No.        Quantity           Unit Price         Subtotal
+                                      Description                                       UOM)
+                                                                                                                    $238.80 USD
+  3        3                 Material 4GC50 /                                         20 / (EA)          $11.94 USD
+                                      DisposableGloves,Green,L,Size9,PK100
+                                                                             Amount Summary
+                                                                                                                    $536.66 USD
+                                                                             Line item subtotal
+                                                                             Gross amount                            $584.30 USD
+                                                                             Net amount                              $584.30 USD
+                                                                                                                     $47.64 USD
+                                                                             Total tax amount
+                                                                             Total withholding tax amount
+                                                                                                                    $584.30 USD
+                                                                             Amount Due
+    Additional Information
+    InvoiceSourceDocument
+    PurchaseOrder
+   InvoiceSubmissionMethod
+   cXML
+   Billing Information                                                         Remittance Information
+   Bill To                                                                 Remit To
+   Frito-Lay Inc.                                                            GRAINGER
+   c/o PEPSICO NASS                                                       DEPT. 820208205
+   ACCOUNTS PAYABLES                                                    PALATINE
+   PO BOX 1800                                                            IL
+   Winston Salem                                                           60038-0001
+   NC                                                                   United States
+                                                                         Address ID: US1_10359
+   27105
+   United States                                                            Tax ID of Supplier
+   Address ID: US28                                                         36-1150280
+                                                                     Reference Documents
+                                                                      Original Supplier Order #: 1576038461
+==================================<Page 1 - END>================================
+==================================<Page 2 - START>================================
+ Appendix
+Line No.
+            PO Line No. Type                            Supplier Part No. / Description
+1         1
+                       Material                          786F07 / Disinfecting Wipes,White,Lemon,PK 6
+Additional Details:
+Supplier Part ID : 786F07
+Supplier Part Auxiliary ID : WWG786F07
+Line No.    PO Line No. Type
+                                                       Supplier Part No. / Description
+2
+           2         Material
+                                                       4GC49 / DisposableGloves,Green,M,Size8,PK100
+Additional Details:
+Supplier Part ID : 4GC49
+Supplier Part Auxiliary ID : WWG4GC49
+Line No.
+            PO Line No. Type                            Supplier Part No. / Description
+3         3
+                       Material                         4GC50 / DisposableGloves,Green,L,Size9,PK100
+Additional Details:
+Supplier Part ID : 4GC50
+Supplier Part Auxiliary ID : WWG4GC50
+PDF generated on Friday 13 Feb 2026 5:19 AM GMT-08:00
+==================================<Page 2 - END>================================
+==================================<Page 3 - START>================================
+   Standard Invoice
+                                                                                                                     GRAINGR
+  Original tax invoice has been submitted electronically. This is a
+  human readable representation (copy) of the original tax invoice.
+                                                                  Invoice Number                                     980675235926
+                                                                  (Supplier Reference No.)
+                                                                                                Thursday 12 Feb 2026 5:29 AM GMT-07:00
+                                                                  Invoice Date
+                                                                                                                    $584.30 USD
+                                                                  Amount Due
+      Contact Information
+                                                                            Shipping Information
+      Supplier                      Customer
+                                                                            Ship From                     Ship To
+      Grainger
+                                   Frito-Lay Inc.                               Grainger                      US-PL-MODESTO-CA-FLI
+      100 Grainger Pkwy               c/o PEPSICO NASS                                                       GRAINGER REP/CAGE
+                                                                            2710 KEYSTONE PACIFIC
+      Lake Forest                    ACCOUNTS PAYABLES                                                    600 GARNER RD
+                                                                            PARKWAY
+      IL                           PO BOX 1800                              PATTERSON                   MODESTO
+      Winst                        Winston Salem                              CA                          CA
+      United States                  NC                                      95363                        95357
+                                   27105
+                                                                            United States                   United States
+                                   United States                                                           Phone: (209) 544-5400
+    Line Items                                              PO No. : M413555632                                      PO Date : 12 Feb 2026
+    Line No.   PO Line No.          Type    Supplier Part No. /             Customer Part No.        Quantity            Unit Price         Subtotal
+                                        Description                                       (UOM)
+    1
+              1                 Material 786F07 / Disinfecting                                1 / (EA)          $59.06 USD      $59.06 USD
+                                         Wipes,White,Lemon,PK 6
+    Line No.                                                                                              Unit Price         Subtotal
+              PO Line No.          Type    Supplier Part No. /             Customer Part No.        Quantity
+                                         Description                                       (UOM)
+    2        2                 Material 4GC49 /                                                         $11.94 USD     $238.80 USD
+                                                                                       20 / (EA)
+                                         DisposableGloves,Green,M,Size8,PK100
+    Line No.   PO Line No.         Type   Supplier Part No. /             Customer Part No.        Quantity           Unit Price         Subtotal
+                                        Description                                       UOM)
+                                                                                                                      $238.80 USD
+    3        3                 Material 4GC50 /                                         20 / (EA)          $11.94 USD
+                                         DisposableGloves,Green,L,Size9,PK100
+                                                                               Amount Summary
+                                                                                                                      $536.66 USD
+                                                                               Line item subtotal
+                                                                               Gross amount                            $584.30 USD
+                                                                               Net amount                              $584.30 USD
+                                                                                                                       $47.64 USD
+                                                                               Total tax amount
+                                                                               Total withholding tax amount
+                                                                                                                      $584.30 USD
+                                                                               Amount Due
+      Additional Information
+      InvoiceSourceDocument
+      PurchaseOrder
+      InvoiceSubmissionMethod
+     cXML
+     Billing Information                                                         Remittance Information
+     Bill To                                                                 Remit To
+     Frito-Lay Inc.                                                            GRAINGER
+     c/o PEPSICO NASS                                                       DEPT. 820208205
+     ACCOUNTS PAYABLES                                                    PALATINE
+     PO BOX 1800                                                            IL
+     Winston Salem                                                           60038-0001
+     NC                                                                   United States
+                                                                           Address ID: US1_10359
+     27105
+     United States                                                            Tax ID of Supplier
+     Address ID: US28                                                         36-1150280
+                                                                        Reference Documents
+                                                                        Original Supplier Order #: 1576038461
+==================================<Page 3 - END>================================
+==================================<Page 4 - START>================================
+ Appendix
+Line No.
+            PO Line No. Type                            Supplier Part No. / Description
+1         1
+                       Material                          786F07 / Disinfecting Wipes,White,Lemon,PK 6
+Additional Details:
+Supplier Part ID : 786F07
+Supplier Part Auxiliary ID : WWG786F07
+Line No.    PO Line No. Type
+                                                       Supplier Part No. / Description
+2
+           2         Material
+                                                       4GC49 / DisposableGloves,Green,M,Size8,PK100
+Additional Details:
+Supplier Part ID : 4GC49
+Supplier Part Auxiliary ID : WWG4GC49
+Line No.
+            PO Line No. Type                            Supplier Part No. / Description
+3         3
+                       Material                         4GC50 / DisposableGloves,Green,L,Size9,PK100
+Additional Details:
+Supplier Part ID : 4GC50
+Supplier Part Auxiliary ID : WWG4GC50
+PDF generated on Friday 13 Feb 2026 5:19 AM GMT-08:00
+==================================<Page 4 - END>================================
+==================================<Page 5 - START>================================
+   Standard Invoice
+                                                                                                                     GRAINGR
+  Original tax invoice has been submitted electronically. This is a
+  human readable representation (copy) of the original tax invoice.
+                                                                  Invoice Number                                     980675235926
+                                                                  (Supplier Reference No.)
+                                                                                                Thursday 12 Feb 2026 5:29 AM GMT-07:00
+                                                                  Invoice Date
+                                                                                                                    $584.30 USD
+                                                                  Amount Due
+      Contact Information
+                                                                            Shipping Information
+      Supplier                      Customer
+                                                                            Ship From                     Ship To
+      Grainger
+                                   Frito-Lay Inc.                               Grainger                      US-PL-MODESTO-CA-FLI
+      100 Grainger Pkwy               c/o PEPSICO NASS                                                       GRAINGER REP/CAGE
+                                                                            2710 KEYSTONE PACIFIC
+      Lake Forest                    ACCOUNTS PAYABLES                                                    600 GARNER RD
+                                                                            PARKWAY
+      IL                           PO BOX 1800                              PATTERSON                   MODESTO
+      Winst                        Winston Salem                              CA                          CA
+      United States                  NC                                      95363                        95357
+                                   27105
+                                                                            United States                   United States
+                                   United States                                                           Phone: (209) 544-5400
+    Line Items                                              PO No. : M413555632                                      PO Date : 12 Feb 2026
+    Line No.   PO Line No.          Type    Supplier Part No. /             Customer Part No.        Quantity            Unit Price         Subtotal
+                                        Description                                       (UOM)
+    1
+              1                 Material 786F07 / Disinfecting                                1 / (EA)          $59.06 USD      $59.06 USD
+                                         Wipes,White,Lemon,PK 6
+    Line No.                                                                                              Unit Price         Subtotal
+              PO Line No.          Type    Supplier Part No. /             Customer Part No.        Quantity
+                                         Description                                       (UOM)
+    2        2                 Material 4GC49 /                                                         $11.94 USD     $238.80 USD
+                                                                                       20 / (EA)
+                                         DisposableGloves,Green,M,Size8,PK100
+    Line No.   PO Line No.         Type   Supplier Part No. /             Customer Part No.        Quantity           Unit Price         Subtotal
+                                        Description                                       UOM)
+                                                                                                                      $238.80 USD
+    3        3                 Material 4GC50 /                                         20 / (EA)          $11.94 USD
+                                         DisposableGloves,Green,L,Size9,PK100
+                                                                               Amount Summary
+                                                                                                                      $536.66 USD
+                                                                               Line item subtotal
+                                                                               Gross amount                            $584.30 USD
+                                                                               Net amount                              $584.30 USD
+                                                                                                                       $47.64 USD
+                                                                               Total tax amount
+                                                                               Total withholding tax amount
+                                                                                                                      $584.30 USD
+                                                                               Amount Due
+      Additional Information
+      InvoiceSourceDocument
+      PurchaseOrder
+      InvoiceSubmissionMethod
+     cXML
+     Billing Information                                                         Remittance Information
+     Bill To                                                                 Remit To
+     Frito-Lay Inc.                                                            GRAINGER
+     c/o PEPSICO NASS                                                       DEPT. 820208205
+     ACCOUNTS PAYABLES                                                    PALATINE
+     PO BOX 1800                                                            IL
+     Winston Salem                                                           60038-0001
+     NC                                                                   United States
+                                                                           Address ID: US1_10359
+     27105
+     United States                                                            Tax ID of Supplier
+     Address ID: US28                                                         36-1150280
+                                                                        Reference Documents
+                                                                        Original Supplier Order #: 1576038461
+==================================<Page 5 - END>================================
+==================================<Page 6 - START>================================
+ Appendix
+Line No.
+            PO Line No. Type                            Supplier Part No. / Description
+1         1
+                       Material                          786F07 / Disinfecting Wipes,White,Lemon,PK 6
+Additional Details:
+Supplier Part ID : 786F07
+Supplier Part Auxiliary ID : WWG786F07
+Line No.    PO Line No. Type
+                                                       Supplier Part No. / Description
+2
+           2         Material
+                                                       4GC49 / DisposableGloves,Green,M,Size8,PK100
+Additional Details:
+Supplier Part ID : 4GC49
+Supplier Part Auxiliary ID : WWG4GC49
+Line No.
+            PO Line No. Type                            Supplier Part No. / Description
+3         3
+                       Material                         4GC50 / DisposableGloves,Green,L,Size9,PK100
+Additional Details:
+Supplier Part ID : 4GC50
+Supplier Part Auxiliary ID : WWG4GC50
+PDF generated on Friday 13 Feb 2026 5:19 AM GMT-08:00
+==================================<Page 6 - END>================================

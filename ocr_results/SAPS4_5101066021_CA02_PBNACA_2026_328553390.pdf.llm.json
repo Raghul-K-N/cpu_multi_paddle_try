@@ -1,0 +1,59 @@
+{
+  "invoice_data": {
+    "invoice_number": "72393005",
+    "invoice_date": "Tuesday 10 Feb. 2026 5:44 a.m. GMT-07:00",
+    "invoice_amount": "19.99",
+    "invoice_currency": [
+      "CAD"
+    ],
+    "tax_amount": null,
+    "po_number": [
+      "M413533037"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "STAPLES CANADA ULC",
+    "vendor_address": "5550 EXPLORER DR 8TH FLOOR MISSISSAUGA ON L4W 0C3 Canada, 1845 KINGSWAY PORT COQUITLAM BC V3C 1S9 Canada, 911 CAMOSUN CRESCENT KAMLOOPS BC V2C 6G1 CA",
+    "po_line_items": [
+      {
+        "description": "K-CUP TIM HORTON HOT CHOC",
+        "quantity": 1.0,
+        "net_price": 19.99
+      }
+    ],
+    "vat_amount": null,
+    "gl_account": null,
+    "bank_name": null,
+    "account_holder_name": null,
+    "banking_account_number": null,
+    "remit_to_address": null,
+    "bill_to_address": null,
+    "transaction_type": "debit"
+  },
+  "filename": "SAPS4_5101066021_CA02_PBNACA_2026_328553390.pdf",
+  "raw_response": {
+    "invoice_number": "72393005",
+    "invoice_date": "Tuesday 10 Feb. 2026 5:44 a.m. GMT-07:00",
+    "invoice_amount": "19.99",
+    "invoice_currency": [
+      "CAD"
+    ],
+    "tax_amount": null,
+    "po_number": [
+      "M413533037"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "STAPLES CANADA ULC",
+    "vendor_address": "5550 EXPLORER DR 8TH FLOOR MISSISSAUGA ON L4W 0C3 Canada, 1845 KINGSWAY PORT COQUITLAM BC V3C 1S9 Canada, 911 CAMOSUN CRESCENT KAMLOOPS BC V2C 6G1 CA",
+    "po_line_items": [
+      {
+        "description": "K-CUP TIM HORTON HOT CHOC",
+        "quantity": 1.0,
+        "net_price": 19.99
+      }
+    ]
+  }
+}

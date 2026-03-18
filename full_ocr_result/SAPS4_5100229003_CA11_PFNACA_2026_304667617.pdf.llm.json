@@ -1,0 +1,59 @@
+{
+  "invoice_data": {
+    "invoice_number": "58556",
+    "invoice_date": "09/19/2025",
+    "invoice_amount": "256.50",
+    "invoice_currency": [
+      "CAD"
+    ],
+    "tax_amount": "31.50",
+    "po_number": [
+      "M413447804"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "Sonitrol of South Central Ontario Inc.",
+    "vendor_address": "2419 Industrial Street, Burlington, Ontario L7P 1A6, Canada",
+    "po_line_items": [
+      {
+        "description": "Proximity Cards with Photo: A Govier, O Samarska, Warehouse Spare #1, Warehouse Spare #2, Warehouse Spare #3, B Chasse, J Montes, A Anthony, P Neves. NS - NS HST",
+        "quantity": 9.0,
+        "net_price": 225.0
+      }
+    ],
+    "vat_amount": null,
+    "gl_account": null,
+    "bank_name": null,
+    "account_holder_name": null,
+    "banking_account_number": null,
+    "remit_to_address": null,
+    "bill_to_address": null,
+    "transaction_type": "debit"
+  },
+  "filename": "SAPS4_5100229003_CA11_PFNACA_2026_304667617.pdf",
+  "raw_response": {
+    "invoice_number": "58556",
+    "invoice_date": "09/19/2025",
+    "invoice_amount": "256.50",
+    "invoice_currency": [
+      "CAD"
+    ],
+    "tax_amount": "31.50",
+    "po_number": [
+      "M413447804"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "Sonitrol of South Central Ontario Inc.",
+    "vendor_address": "2419 Industrial Street, Burlington, Ontario L7P 1A6, Canada",
+    "po_line_items": [
+      {
+        "description": "Proximity Cards with Photo: A Govier, O Samarska, Warehouse Spare #1, Warehouse Spare #2, Warehouse Spare #3, B Chasse, J Montes, A Anthony, P Neves. NS - NS HST",
+        "quantity": 9.0,
+        "net_price": 225.0
+      }
+    ]
+  }
+}

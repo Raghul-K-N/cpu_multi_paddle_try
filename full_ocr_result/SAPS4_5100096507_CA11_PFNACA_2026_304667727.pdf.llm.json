@@ -1,0 +1,47 @@
+{
+  "invoice_data": {
+    "invoice_number": "6236756974",
+    "invoice_date": "January 14, 2026",
+    "invoice_amount": "339.00",
+    "invoice_currency": [
+      "CAD"
+    ],
+    "tax_amount": "39.00",
+    "po_number": [
+      "4505005969"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "C.H. Robinson Company (Canada) Ltd.",
+    "vendor_address": "2095 MATHESON BLVD E, MISSISSAUGA, ON L4W 0G2, CANADA",
+    "po_line_items": null,
+    "vat_amount": null,
+    "gl_account": null,
+    "bank_name": null,
+    "account_holder_name": null,
+    "banking_account_number": null,
+    "remit_to_address": null,
+    "bill_to_address": null,
+    "transaction_type": "debit"
+  },
+  "filename": "SAPS4_5100096507_CA11_PFNACA_2026_304667727.pdf",
+  "raw_response": {
+    "invoice_number": "6236756974",
+    "invoice_date": "January 14, 2026",
+    "invoice_amount": "339.00",
+    "invoice_currency": [
+      "CAD"
+    ],
+    "tax_amount": "39.00",
+    "po_number": [
+      "4505005969"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "C.H. Robinson Company (Canada) Ltd.",
+    "vendor_address": "2095 MATHESON BLVD E, MISSISSAUGA, ON L4W 0G2, CANADA",
+    "po_line_items": null
+  }
+}

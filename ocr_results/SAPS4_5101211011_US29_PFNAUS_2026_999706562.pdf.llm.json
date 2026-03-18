@@ -1,0 +1,79 @@
+{
+  "invoice_data": {
+    "invoice_number": "136951456",
+    "invoice_date": "Monday 9 Feb 2026 12:00 PM GMT-05:00",
+    "invoice_amount": "1,503.45",
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": "51.41",
+    "po_number": [
+      "M413347696"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "Crown Equipment Corporation",
+    "vendor_address": "4100 Olympic Blvd., Joliet, IL 60431, Tel 815-773-0022, Fax 815-773-0033, crown.com",
+    "po_line_items": [
+      {
+        "description": "Not Available / Crown Lift Trucks - Summit -BPO 2026 (Maintenance)- SOPS",
+        "quantity": 1452.04,
+        "net_price": 1.0
+      },
+      {
+        "description": "MISC                      Tire",
+        "quantity": 1.0,
+        "net_price": 587.59
+      },
+      {
+        "description": "Labor",
+        "quantity": 1.0,
+        "net_price": 864.45
+      }
+    ],
+    "vat_amount": null,
+    "gl_account": null,
+    "bank_name": null,
+    "account_holder_name": null,
+    "banking_account_number": null,
+    "remit_to_address": null,
+    "bill_to_address": null,
+    "transaction_type": "debit"
+  },
+  "filename": "SAPS4_5101211011_US29_PFNAUS_2026_999706562.pdf",
+  "raw_response": {
+    "invoice_number": "136951456",
+    "invoice_date": "Monday 9 Feb 2026 12:00 PM GMT-05:00",
+    "invoice_amount": "1,503.45",
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": "51.41",
+    "po_number": [
+      "M413347696"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "Crown Equipment Corporation",
+    "vendor_address": "4100 Olympic Blvd., Joliet, IL 60431, Tel 815-773-0022, Fax 815-773-0033, crown.com",
+    "po_line_items": [
+      {
+        "description": "Not Available / Crown Lift Trucks - Summit -BPO 2026 (Maintenance)- SOPS",
+        "quantity": 1452.04,
+        "net_price": 1.0
+      },
+      {
+        "description": "MISC                      Tire",
+        "quantity": 1.0,
+        "net_price": 587.59
+      },
+      {
+        "description": "Labor",
+        "quantity": 1.0,
+        "net_price": 864.45
+      }
+    ]
+  }
+}

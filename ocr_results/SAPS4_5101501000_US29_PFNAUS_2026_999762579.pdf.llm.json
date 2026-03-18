@@ -1,0 +1,59 @@
+{
+  "invoice_data": {
+    "invoice_number": "7534641",
+    "invoice_date": "1/27/2026",
+    "invoice_amount": "53372.82",
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": "1078.48",
+    "po_number": [
+      "4505099754"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "Banc of America Leasing",
+    "vendor_address": "100 N Tryon Street, Charlotte, NC",
+    "po_line_items": [
+      {
+        "description": "Unit Lease",
+        "quantity": null,
+        "net_price": null
+      }
+    ],
+    "vat_amount": null,
+    "gl_account": null,
+    "bank_name": null,
+    "account_holder_name": null,
+    "banking_account_number": null,
+    "remit_to_address": null,
+    "bill_to_address": null,
+    "transaction_type": "debit"
+  },
+  "filename": "SAPS4_5101501000_US29_PFNAUS_2026_999762579.pdf",
+  "raw_response": {
+    "invoice_number": "7534641",
+    "invoice_date": "1/27/2026",
+    "invoice_amount": "53372.82",
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": "1078.48",
+    "po_number": [
+      "4505099754"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "Banc of America Leasing",
+    "vendor_address": "100 N Tryon Street, Charlotte, NC",
+    "po_line_items": [
+      {
+        "description": "Unit Lease",
+        "quantity": null,
+        "net_price": null
+      }
+    ]
+  }
+}

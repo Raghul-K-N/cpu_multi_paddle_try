@@ -1,0 +1,79 @@
+{
+  "invoice_data": {
+    "invoice_number": "1297545",
+    "invoice_date": "02/01/2026",
+    "invoice_amount": "94.48",
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": "4.50",
+    "po_number": [
+      "M413201860"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "RecordXpress,a division of StorageVault Canada Inc",
+    "vendor_address": "50 Ottawa St. S., Kitchener, ON N2G 3S7",
+    "po_line_items": [
+      {
+        "description": "CYBER SECURITY AND PRIVACY",
+        "quantity": 1.0,
+        "net_price": 28.62
+      },
+      {
+        "description": "DESTRUCTION  CONSOLE RECYCLING FEE  40 INCH",
+        "quantity": 2.0,
+        "net_price": 3.2872
+      },
+      {
+        "description": "DESTRUCTION  CONSOLE SERVICE  40 INCH",
+        "quantity": 2.0,
+        "net_price": 27.3934
+      }
+    ],
+    "vat_amount": null,
+    "gl_account": null,
+    "bank_name": null,
+    "account_holder_name": null,
+    "banking_account_number": null,
+    "remit_to_address": null,
+    "bill_to_address": null,
+    "transaction_type": "debit"
+  },
+  "filename": "SAPS4_5101132010_CA02_PBNACA_2026_328586850.pdf",
+  "raw_response": {
+    "invoice_number": "1297545",
+    "invoice_date": "02/01/2026",
+    "invoice_amount": "94.48",
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": "4.50",
+    "po_number": [
+      "M413201860"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "RecordXpress,a division of StorageVault Canada Inc",
+    "vendor_address": "50 Ottawa St. S., Kitchener, ON N2G 3S7",
+    "po_line_items": [
+      {
+        "description": "CYBER SECURITY AND PRIVACY",
+        "quantity": 1.0,
+        "net_price": 28.62
+      },
+      {
+        "description": "DESTRUCTION  CONSOLE RECYCLING FEE  40 INCH",
+        "quantity": 2.0,
+        "net_price": 3.2872
+      },
+      {
+        "description": "DESTRUCTION  CONSOLE SERVICE  40 INCH",
+        "quantity": 2.0,
+        "net_price": 27.3934
+      }
+    ]
+  }
+}

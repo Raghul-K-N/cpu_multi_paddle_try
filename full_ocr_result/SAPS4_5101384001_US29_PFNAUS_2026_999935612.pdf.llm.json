@@ -1,0 +1,47 @@
+{
+  "invoice_data": {
+    "invoice_number": "01P207329",
+    "invoice_date": "9/26/2025",
+    "invoice_amount": "-2291.68",
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": "169.76",
+    "po_number": [
+      "23451155"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "TranSource Truck & Trailer Centers - Greensboro (C)",
+    "vendor_address": "3700 Triad Drive, Colfax, NC 27235",
+    "po_line_items": null,
+    "vat_amount": null,
+    "gl_account": null,
+    "bank_name": null,
+    "account_holder_name": null,
+    "banking_account_number": null,
+    "remit_to_address": null,
+    "bill_to_address": null,
+    "transaction_type": "credit"
+  },
+  "filename": "SAPS4_5101384001_US29_PFNAUS_2026_999935612.pdf",
+  "raw_response": {
+    "invoice_number": "01P207329",
+    "invoice_date": "9/26/2025",
+    "invoice_amount": "-2291.68",
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": "169.76",
+    "po_number": [
+      "23451155"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "TranSource Truck & Trailer Centers - Greensboro (C)",
+    "vendor_address": "3700 Triad Drive, Colfax, NC 27235",
+    "po_line_items": null
+  }
+}

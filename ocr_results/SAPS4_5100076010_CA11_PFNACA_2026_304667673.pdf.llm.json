@@ -1,0 +1,71 @@
+{
+  "invoice_data": {
+    "invoice_number": "4860111",
+    "invoice_date": "Feb 05 26",
+    "invoice_amount": "235.22",
+    "invoice_currency": [
+      "CAD"
+    ],
+    "tax_amount": null,
+    "po_number": [
+      "5654749-01",
+      "4504627765"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "WESTBURNE",
+    "vendor_address": "E P WESTBURNE ONTARIO, E A A DIVISION OF REXEL CANADA ELECTRICAL INC, M Y PO BOX 1220 STN B MISSISSAUGA ON L4Y 3W5",
+    "po_line_items": [
+      {
+        "description": "PHCEATEMPW+350 1424657 SACC-M12MS-4PL M",
+        "quantity": 4.0,
+        "net_price": 102.32
+      },
+      {
+        "description": "PHCEATEMPW+351 1424655 SACC-M12FS-4PL M",
+        "quantity": 4.0,
+        "net_price": 105.84
+      }
+    ],
+    "vat_amount": null,
+    "gl_account": null,
+    "bank_name": null,
+    "account_holder_name": null,
+    "banking_account_number": null,
+    "remit_to_address": null,
+    "bill_to_address": null,
+    "transaction_type": "debit"
+  },
+  "filename": "SAPS4_5100076010_CA11_PFNACA_2026_304667673.pdf",
+  "raw_response": {
+    "invoice_number": "4860111",
+    "invoice_date": "Feb 05 26",
+    "invoice_amount": "235.22",
+    "invoice_currency": [
+      "CAD"
+    ],
+    "tax_amount": null,
+    "po_number": [
+      "5654749-01",
+      "4504627765"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "WESTBURNE",
+    "vendor_address": "E P WESTBURNE ONTARIO, E A A DIVISION OF REXEL CANADA ELECTRICAL INC, M Y PO BOX 1220 STN B MISSISSAUGA ON L4Y 3W5",
+    "po_line_items": [
+      {
+        "description": "PHCEATEMPW+350 1424657 SACC-M12MS-4PL M",
+        "quantity": 4.0,
+        "net_price": 102.32
+      },
+      {
+        "description": "PHCEATEMPW+351 1424655 SACC-M12FS-4PL M",
+        "quantity": 4.0,
+        "net_price": 105.84
+      }
+    ]
+  }
+}

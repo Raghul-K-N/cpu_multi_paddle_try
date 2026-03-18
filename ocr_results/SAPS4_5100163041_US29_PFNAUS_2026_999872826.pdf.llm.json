@@ -1,0 +1,89 @@
+{
+  "invoice_data": {
+    "invoice_number": "980658332526",
+    "invoice_date": "Thursday 12 Feb 2026 5:20 AM GMT-07:00",
+    "invoice_amount": "440.75",
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": "20.99",
+    "po_number": [
+      "M413555628"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "Grainger",
+    "vendor_address": "100 Grainger Pkwy, Lake Forest, IL, United States",
+    "po_line_items": [
+      {
+        "description": "Material 380YG4 / VF,Coated Gloves.Gry.10,5AJ30.PR",
+        "quantity": 12.0,
+        "net_price": 3.25
+      },
+      {
+        "description": "Material 20KJ80 / Cut Resistant Gloves,Black/Orange,10.PR",
+        "quantity": 12.0,
+        "net_price": 10.45
+      },
+      {
+        "description": "Material 20GY49 / VF.Coated Gloves,3/4Dip,8,5AJ28,PR",
+        "quantity": 24.0,
+        "net_price": 3.04
+      },
+      {
+        "description": "Material 20GY50 / VF.Coated Gloves,3/4Dip,9,5AJ29.PR",
+        "quantity": 60.0,
+        "net_price": 3.04
+      }
+    ],
+    "vat_amount": null,
+    "gl_account": null,
+    "bank_name": null,
+    "account_holder_name": null,
+    "banking_account_number": null,
+    "remit_to_address": null,
+    "bill_to_address": null,
+    "transaction_type": "debit"
+  },
+  "filename": "SAPS4_5100163041_US29_PFNAUS_2026_999872826.pdf",
+  "raw_response": {
+    "invoice_number": "980658332526",
+    "invoice_date": "Thursday 12 Feb 2026 5:20 AM GMT-07:00",
+    "invoice_amount": "440.75",
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": "20.99",
+    "po_number": [
+      "M413555628"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "Grainger",
+    "vendor_address": "100 Grainger Pkwy, Lake Forest, IL, United States",
+    "po_line_items": [
+      {
+        "description": "Material 380YG4 / VF,Coated Gloves.Gry.10,5AJ30.PR",
+        "quantity": 12.0,
+        "net_price": 3.25
+      },
+      {
+        "description": "Material 20KJ80 / Cut Resistant Gloves,Black/Orange,10.PR",
+        "quantity": 12.0,
+        "net_price": 10.45
+      },
+      {
+        "description": "Material 20GY49 / VF.Coated Gloves,3/4Dip,8,5AJ28,PR",
+        "quantity": 24.0,
+        "net_price": 3.04
+      },
+      {
+        "description": "Material 20GY50 / VF.Coated Gloves,3/4Dip,9,5AJ29.PR",
+        "quantity": 60.0,
+        "net_price": 3.04
+      }
+    ]
+  }
+}

@@ -1,0 +1,819 @@
+==================================<Page 1 - START>================================
+  Standard Invoice
+  Original tax invoice has been submitted electronically. This is a
+  human readable representation (copy) of the original tax invoice.
+                                                                    Invoice Number                                      TX2800813716
+                                                                     (Supplier Reference No.)
+                                                                    Invoice Date                      Friday 13 Feb 2026 9:10 AM GMT-06:00
+                                                                                                    Friday 13 Feb 2026 9:10 AM GMT-06:00
+                                                                    Shipping Date
+                                                                    Amount Due                                         $797.35 USD
+       Contact Information                                                         Shipping Information
+       Supplier
+                                     Customer                                  Ship From                      Ship To
+       MOTION INDUSTRIES            Frito-Lay, Inc.
+                                                                              MOTION INDUSTRIES             US-PL-IRVING-TX-FLI
+       BOX 504606
+                                     c/o PEPSICO NASS                           BOX 504606                    701 N WILDWOOD
+       ST. LOUIS                     ACCOUNTS PAYABLES                                                     IRVING
+                                                                              ST. LOUIS
+       MO                           PO BOX 1800                                                            TX
+                                                                              MO
+       631500000                     Winston Salem                              631500000                     75061-8831
+       United States                   NC                                       United States                    United States
+       Address ID: 07-669-8349           27105                                     Address ID: 07-669-8349           Address ID: 2096
+                                     United States
+                                     Address ID: US28
+     Line Items                                                PO No. : M413551493                                      PO Date : 11 Feb 2026
+     Line No.    PO Line No.
+                                  Type    Supplier Part No./              Customer Part No.         Quantity            Unit Price         Subtotal
+                                          Description                                        (UOM)
+     1         1                  Material 02040835 / KQ2L11-34AS                              10 / (EA)           $1.84 USD      $18.40 USD
+                                          FITTINGSMC CART 02/04/26
+     Line No.    PO Line No.                                                                                                     Subtotal
+                                  Type    Supplier Part No. /              Customer Part No.        Quantity            Unit Price
+                                          Description                                        (UOM)
+     3         3                  Material 01993136 / KQ2R07-09A FITTING,                       20 / (EA)           $0.78 USD      $15.60 USD
+                                          PLUG-IN REDUCER(OLD
+                                          KQ2R07-09) SMC CART 02/04/26
+     Line No.    PO Line No.          Type   Supplier Part No. /                                   Quantity            Unit Price         Subtotal
+                                                                      Customer Part No.
+                                          Description                                        (UOM)
+                                   Material
+     5        5                         01952042 / KQ2P-07 PLUGSMC                         30 / (EA)           $0.36 USD      $10.80 USD
+                                          CART 02/04/26
+     Line No.    PO Line No.          Type    Supplier Part No. /              Customer Part No.        Quantity            Unit Price         Subtotal
+                                          Description                                        (UM)
+                                   Material
+     6         6                         01635435 / KQ2U11-00A 40976 Y                        25 / (EA)           $3.95 USD      $98.75 USD
+                                          FITTING(OLD KQ2U11-00) SMC
+                                          CART 02/04/26
+     Line No.    PO Line No.          Type    Supplier Part No. /              Customer Part No.        Quantity            Unit Price         Subtotal
+                                          Description
+                                                                                           (UOM)
+     7         7                  Material 01992522 / KQ2L06-M5A FITTING,                        10 / (EA)           $1.30 USD      $13.00 USD
+                                          MALE ELBOW(OLD KQ2L06-M5)
+                                          SMC CART 02/04/26
+     Line No.    PO Line No.          Type    Supplier Part No. /                                                      Unit Price
+                                                                     Customer Part No.         Quantity                             Subtotal
+                                          Description                                         (UOM)
+     8         8                  Material  01952019 / KQ2L06-01AS                              30 / (EA)           $1.00 USD      $30.00 USD
+                                          FITTING, MALE ELBOWSMC
+                                          CART 02/04/26
+     Line No.    PO Line No.          Type    Supplier Part No. /              Customer Part No.        Quantity            Unit Price         Subtotal
+                                          Description                                         (UOM)
+               10                 Material 01994160 / KQ2T06-00A FITTING,
+    10                                                                                    10 / (EA)           $1.54 USD      $15.40 USD
+                                          UNION TEE(OLD KQ2T06-00)
+                                          SMC CART 02/04/26
+    Line No.    PO Line No.          Type
+                                          Supplier Part No. /              Customer Part No.         Quantity            Unit Price         Subtotal
+                                         Description
+                                                                                           (UOM)
+    11        11                 Material  05870565 / AS1201F-M5-07A                            16 / (EA)           $4.19 USD      $67.04 USD
+                                         SPEED CONTROL W/
+                                         FITTINGSMC CART 02/04/26
+    Line No.    PO Line No.          Type
+                                         Supplier Part No. /              Customer Part No.        Quantity             Unit Price         Subtotal
+                                         Description
+                                                                                           (UOM)
+    12        12                 Material  03933687 / ASV410F-                                 10 / (EA)           $11.38 USD      $113.80 USD
+                                         N02-09S SPEED EXHAUST
+                                         CONTROLLERSMC CART
+                                         02/04/26
+   Line No.    PO Line No.          Type    Supplier Part No. /              Customer Part No.         Quantity             Unit Price         Subtotal
+                                         Description                                         (UOM)
+   15        15
+                                 Material  01984402 / AS2201F-01-06SD                           10 / (EA)            $6.23 USD      $62.30 USD
+                                         SPEED CONTROL W/FITTSMC
+                                         CART 02/04/26
+  Line No.    PO Line No.          Type    Supplier Part No. /              Customer Part No.         Quantity                             Subtotal
+                                                                                                              Unit Price
+                                         Description                                         (UOM)
+  16        16
+                                 Material  03972410 / ASV310F-                                  22 / (EA)           $10.21 USD      $224.62 USD
+                                         N01-07S SPEED EXHAUST
+                                         CONTROLLERSMC CART
+                                         02/04/26
+  Line No.    PO Line No.          Type    Supplier Part No. /              Customer Part No.         Quantity             Unit Price         Subtotal
+                                         Description                                         (UOM)
+ 19        19
+                                 Material  02004635 / TIUB07R-20 TUBING,                         2 / (EA)            $10.21 USD      $20.42 USD
+                                         POLYURETHANESMC CART
+                                         02/04/26
+ Line No.    PO Line No.          Type    Supplier Part No. /              Customer Part No.
+                                                                                           Quantity            Unit Price         Subtotal
+                                         Description                                         (UOM)
+20        20                  Material  02004686 / TIUB11BU-20                               2 / (EA)           $19.57 USD       $39.14 USD
+                                         TUBING.3/8&quot;OD,BLU,20MSMC
+                                         CART 02/04/26
+Line No.    PO Line No.          Type                                Customer Part No.
+                                        Supplier Part No. /                                    Quantity            Unit Price         Subtotal
+                                                                                           (UOM)
+                                        Description
+22        22                  Material 02004762 / TIUB13BU-20                               2 / (EA)           $34.04 USD
+                                                                                                                            $68.08 USD
+                                        TUBING,1/2&quot;OD,BLU,20MSMC
+                                        CART 02/04/26
+==================================<Page 1 - END>================================
+==================================<Page 2 - START>================================
+                                                                             Amount Summary
+                                                                                                                    $797.35 USD
+                                                                             Line item subtotal
+                                                                             Gross amount                             $797.35 USD
+                                                                                                                    $797.35 USD
+                                                                             Net amount
+                                                                                                                      $0.00 USD
+                                                                             Total tax amount
+                                                                             Total withholding tax amount
+                                                                                                                    $797.35 USD
+                                                                             Amount Due
+    Additional Information
+    totalNumberOfLineltems
+    14
+    Billing Information                                                        Remittance Information
+    Bill To                                                                Remit To
+                                                                         MOTION INDUSTRIES
+    Frito-Lay, Inc.
+                                                                         BOX 504606
+    c/o PEPSICO NASS
+   ACCOUNTS PAYABLES                                                   ST. LOUIS
+   PO BOX 1800                                                           MO
+   Winston Salem                                                          631500000
+   NC                                                                   United States
+   27105                                                                 Address ID: US1 _10878
+   United States
+   Address ID: US28
+==================================<Page 2 - END>================================
+==================================<Page 3 - START>================================
+   ppenulx
+  Line No.
+              PO Line No. Type                            Supplier Part No. / Description
+  1
+              1
+                         Material                          02040835 / KQ2L11-34AS FITTINGSMC CART 02/04/26
+  Additional Details:
+  Classification Domain : UNSPSC
+  Classification Code : 31250000
+  Supplier Part ID : 02040835
+  Supplier Part Auxiliary ID : Quote TX28-0000529081
+  Line No.
+              PO Line No. Type
+                                                         Supplier Part No. / Description
+  3
+              3         Material
+                                                         01993136 / KQ2R07-09A FITTING, PLUG-IN REDUCER(OLD KQ2R07-09) SMC CART 02/04/26
+  Additional Details:
+  Classification Domain : UNSPSC
+  Classification Code : 31250000
+  Supplier Part ID : 01993136
+  Supplier Part Auxiliary ID : Quote TX28-0000529081
+  Line No.    PO Line No. Type
+                                                         Supplier Part No. / Description
+   5          5          Material
+                                                         01952042 / KQ2P-07 PLUGSMC CART 02/04/26
+   Additional Details:
+   Classification Domain : UNSPSC
+   Classification Code : 31250000
+   Supplier Part ID : 01952042
+   Supplier Part Auxiliary ID : Quote TX28-0000529081
+   Line No.
+              PO Line No. Type                            Supplier Part No. / Description
+   6
+              6         Material
+                                                         01635435 / KQ2U11-00A 40976 Y FITTING(OLD KQ2U11-00) SMC CART 02/04/26
+   Additional Details:
+   Classification Domain : UNSPSC
+   Classification Code : 31250000
+   Supplier Part ID : 01635435
+   Supplier Part Auxiliary ID : Quote TX28-0000529081
+   Line No.    PO Line No. Type
+                                                         Supplier Part No. / Description
+   7         7         Material
+                                                         01992522 / KQ2L06-M5A FITTING, MALE ELBOW(OLD KQ2L06-M5) SMC CART 02/04/26
+   Additional Details:
+   Classification Domain : UNSPSC
+   Classification Code : 31250000
+   Supplier Part ID : 01992522
+   Supplier Part Auxiliary ID : Quote TX28-0000529081
+   Line No.
+              PO Line No. Type                            Supplier Part No. / Description
+   8         8         Material
+                                                         01952019 / KQ2L06-01AS FITTING, MALE ELBOWSMC CART 02/04/26
+   Additional Details:
+   Classification Domain : UNSPSC
+   Classification Code : 31250000
+   Supplier Part ID : 01952019
+   Supplier Part Auxiliary ID : Quote TX28-0000529081
+   Line No.    PO Line No. Type                            Supplier Part No. / Description
+   10        10        Material
+                                                        01994160 / KQ2T06-00A FITTING, UNION TEE(OLD KQ2T06-00) SMC CART 02/04/26
+   Additional Details:
+   Classification Domain : UNSPSC
+   Classification Code : 31250000
+   Supplier Part ID : 01994160
+   Supplier Part Auxiliary ID : Quote TX28-0000529081
+   Line No.    PO Line No. Type                            Supplier Part No. / Description
+   11        11        Material
+                                                        05870565 / AS1201F-M5-07A SPEED CONTROL W/FITTINGSMC CART 02/04/26
+   Additional Details:
+   Classification Domain : UNSPSC
+   Classification Code : 31250000
+   Supplier Part ID : 05870565
+   Supplier Part Auxiliary ID : Quote TX28-0000529081
+   Line No.    PO Line No. Type                            Supplier Part No. / Description
+   12                   Material
+              12                                        03933687 / ASV410F-N02-09S SPEED EXHAUST CONTROLLERSMC CART 02/04/26
+   Additional Details:
+   Classification Domain : UNSPSC
+   Classification Code : 31250000
+   Supplier Part ID : 03933687
+   Supplier Part Auxiliary ID : Quote TX28-0000529081
+   Line No.    PO Line No. Type                            Supplier Part No. / Description
+   15
+             15        Material                         01984402 / AS2201F-01-06SD SPEED CONTROL W/FITTSMC CART 02/04/26
+   Additional Details:
+   Classification Domain : UNSPSC
+   Classification Code : 40141603
+   Supplier Part ID : 01984402
+   Supplier Part Auxiliary ID : Quote TX28-0000529081
+  Line No.
+             PO Line No. Type                            Supplier Part No. / Description
+   16        16
+                        Material                         03972410 / ASV310F-N01-07S SPEED EXHAUST CONTROLLERSMC CART 02/04/26
+   Additional Details:
+   Classification Domain : UNSPSC
+   Classification Code : 40141603
+   Supplier Part ID : 03972410
+   Supplier Part Auxiliary ID : Quote TX28-0000529081
+  Line No.
+             PO Line No. Type                            Supplier Part No. / Description
+   19        19        Material                         02004635 / TIUB07R-20 TUBING, POLYURETHANESMC CART 02/04/26
+  Additional Details:
+   Classification Domain : UNSPSC
+   Classification Code : 31250000
+   Supplier Part ID : 02004635
+  Supplier Part Auxiliary ID : Quote TX28-0000529081
+  Line No.    PO Line No. Type                           Supplier Part No. / Description
+  20        20        Material
+                                                       02004686 / TIUB11BU-20 TUBING,3/8&quot;OD,BLU,20MSMC CART 02/04/26
+  Additional Details:
+   Classification Domain : UNSPSC
+  Classification Code : 31250000
+  Supplier Part ID : 02004686
+  Supplier Part Auxiliary ID : Quote TX28-0000529081
+  Line No.    PO Line No. Type                            Supplier Part No. / Description
+                        Material                         02004762 / TIUB13BU-20 TUBING,1/2&quot;OD,BLU,20MSMC CART 02/04/26
+  22        22
+  Additional Details:
+  Classification Domain : UNSPSC
+  Classification Code : 31250000
+  Supplier Part ID : 02004762
+  Supplier Part Auxiliary ID : Quote TX28-0000529081
+==================================<Page 3 - END>================================
+==================================<Page 5 - START>================================
+  Standard Invoice
+  Original tax invoice has been submitted electronically. This is a
+  human readable representation (copy) of the original tax invoice.
+                                                                    Invoice Number                                      TX2800813716
+                                                                     (Supplier Reference No.)
+                                                                    Invoice Date                      Friday 13 Feb 2026 9:10 AM GMT-06:00
+                                                                                                    Friday 13 Feb 2026 9:10 AM GMT-06:00
+                                                                    Shipping Date
+                                                                    Amount Due                                         $797.35 USD
+       Contact Information                                                         Shipping Information
+       Supplier
+                                     Customer                                  Ship From                      Ship To
+       MOTION INDUSTRIES            Frito-Lay, Inc.
+                                                                              MOTION INDUSTRIES             US-PL-IRVING-TX-FLI
+       BOX 504606
+                                     c/o PEPSICO NASS                           BOX 504606                    701 N WILDWOOD
+       ST. LOUIS                     ACCOUNTS PAYABLES                                                     IRVING
+                                                                              ST. LOUIS
+       MO                           PO BOX 1800                                                            TX
+                                                                              MO
+       631500000                     Winston Salem                              631500000                     75061-8831
+       United States                   NC                                       United States                    United States
+       Address ID: 07-669-8349           27105                                     Address ID: 07-669-8349           Address ID: 2096
+                                     United States
+                                     Address ID: US28
+     Line Items                                                PO No. : M413551493                                      PO Date : 11 Feb 2026
+     Line No.    PO Line No.
+                                  Type    Supplier Part No./              Customer Part No.         Quantity            Unit Price         Subtotal
+                                          Description                                        (UOM)
+     1         1                  Material 02040835 / KQ2L11-34AS                              10 / (EA)           $1.84 USD      $18.40 USD
+                                          FITTINGSMC CART 02/04/26
+     Line No.    PO Line No.                                                                                                     Subtotal
+                                  Type    Supplier Part No. /              Customer Part No.        Quantity            Unit Price
+                                          Description                                        (UOM)
+     3         3                  Material 01993136 / KQ2R07-09A FITTING,                       20 / (EA)           $0.78 USD      $15.60 USD
+                                          PLUG-IN REDUCER(OLD
+                                          KQ2R07-09) SMC CART 02/04/26
+     Line No.    PO Line No.          Type   Supplier Part No. /                                   Quantity            Unit Price         Subtotal
+                                                                      Customer Part No.
+                                          Description                                        (UOM)
+                                   Material
+     5        5                         01952042 / KQ2P-07 PLUGSMC                         30 / (EA)           $0.36 USD      $10.80 USD
+                                          CART 02/04/26
+     Line No.    PO Line No.          Type    Supplier Part No. /              Customer Part No.        Quantity            Unit Price         Subtotal
+                                          Description                                        (UM)
+                                   Material
+     6         6                         01635435 / KQ2U11-00A 40976 Y                        25 / (EA)           $3.95 USD      $98.75 USD
+                                          FITTING(OLD KQ2U11-00) SMC
+                                          CART 02/04/26
+     Line No.    PO Line No.          Type    Supplier Part No. /              Customer Part No.        Quantity            Unit Price         Subtotal
+                                          Description
+                                                                                           (UOM)
+     7         7                  Material 01992522 / KQ2L06-M5A FITTING,                        10 / (EA)           $1.30 USD      $13.00 USD
+                                          MALE ELBOW(OLD KQ2L06-M5)
+                                          SMC CART 02/04/26
+     Line No.    PO Line No.          Type    Supplier Part No. /                                                      Unit Price
+                                                                     Customer Part No.         Quantity                             Subtotal
+                                          Description                                         (UOM)
+     8         8                  Material  01952019 / KQ2L06-01AS                              30 / (EA)           $1.00 USD      $30.00 USD
+                                          FITTING, MALE ELBOWSMC
+                                          CART 02/04/26
+     Line No.    PO Line No.          Type    Supplier Part No. /              Customer Part No.        Quantity            Unit Price         Subtotal
+                                          Description                                         (UOM)
+               10                 Material 01994160 / KQ2T06-00A FITTING,
+    10                                                                                    10 / (EA)           $1.54 USD      $15.40 USD
+                                          UNION TEE(OLD KQ2T06-00)
+                                          SMC CART 02/04/26
+    Line No.    PO Line No.          Type
+                                          Supplier Part No. /              Customer Part No.         Quantity            Unit Price         Subtotal
+                                         Description
+                                                                                           (UOM)
+    11        11                 Material  05870565 / AS1201F-M5-07A                            16 / (EA)           $4.19 USD      $67.04 USD
+                                         SPEED CONTROL W/
+                                         FITTINGSMC CART 02/04/26
+    Line No.    PO Line No.          Type
+                                         Supplier Part No. /              Customer Part No.        Quantity             Unit Price         Subtotal
+                                         Description
+                                                                                           (UOM)
+    12        12                 Material  03933687 / ASV410F-                                 10 / (EA)           $11.38 USD      $113.80 USD
+                                         N02-09S SPEED EXHAUST
+                                         CONTROLLERSMC CART
+                                         02/04/26
+   Line No.    PO Line No.          Type    Supplier Part No. /              Customer Part No.         Quantity             Unit Price         Subtotal
+                                         Description                                         (UOM)
+   15        15
+                                 Material  01984402 / AS2201F-01-06SD                           10 / (EA)            $6.23 USD      $62.30 USD
+                                         SPEED CONTROL W/FITTSMC
+                                         CART 02/04/26
+  Line No.    PO Line No.          Type    Supplier Part No. /              Customer Part No.         Quantity                             Subtotal
+                                                                                                              Unit Price
+                                         Description                                         (UOM)
+  16        16
+                                 Material  03972410 / ASV310F-                                  22 / (EA)           $10.21 USD      $224.62 USD
+                                         N01-07S SPEED EXHAUST
+                                         CONTROLLERSMC CART
+                                         02/04/26
+  Line No.    PO Line No.          Type    Supplier Part No. /              Customer Part No.         Quantity             Unit Price         Subtotal
+                                         Description                                         (UOM)
+ 19        19
+                                 Material  02004635 / TIUB07R-20 TUBING,                         2 / (EA)            $10.21 USD      $20.42 USD
+                                         POLYURETHANESMC CART
+                                         02/04/26
+ Line No.    PO Line No.          Type    Supplier Part No. /              Customer Part No.
+                                                                                           Quantity            Unit Price         Subtotal
+                                         Description                                         (UOM)
+20        20                  Material  02004686 / TIUB11BU-20                               2 / (EA)           $19.57 USD       $39.14 USD
+                                         TUBING.3/8&quot;OD,BLU,20MSMC
+                                         CART 02/04/26
+Line No.    PO Line No.          Type                                Customer Part No.
+                                        Supplier Part No. /                                    Quantity            Unit Price         Subtotal
+                                                                                           (UOM)
+                                        Description
+22        22                  Material 02004762 / TIUB13BU-20                               2 / (EA)           $34.04 USD
+                                                                                                                            $68.08 USD
+                                        TUBING,1/2&quot;OD,BLU,20MSMC
+                                        CART 02/04/26
+==================================<Page 5 - END>================================
+==================================<Page 6 - START>================================
+                                                                             Amount Summary
+                                                                                                                    $797.35 USD
+                                                                             Line item subtotal
+                                                                             Gross amount                             $797.35 USD
+                                                                                                                    $797.35 USD
+                                                                             Net amount
+                                                                                                                      $0.00 USD
+                                                                             Total tax amount
+                                                                             Total withholding tax amount
+                                                                                                                    $797.35 USD
+                                                                             Amount Due
+    Additional Information
+    totalNumberOfLineltems
+    14
+    Billing Information                                                        Remittance Information
+    Bill To                                                                Remit To
+                                                                         MOTION INDUSTRIES
+    Frito-Lay, Inc.
+                                                                         BOX 504606
+    c/o PEPSICO NASS
+   ACCOUNTS PAYABLES                                                   ST. LOUIS
+   PO BOX 1800                                                           MO
+   Winston Salem                                                          631500000
+   NC                                                                   United States
+   27105                                                                 Address ID: US1 _10878
+   United States
+   Address ID: US28
+==================================<Page 6 - END>================================
+==================================<Page 7 - START>================================
+   ppenulx
+  Line No.
+              PO Line No. Type                            Supplier Part No. / Description
+  1
+              1
+                         Material                          02040835 / KQ2L11-34AS FITTINGSMC CART 02/04/26
+  Additional Details:
+  Classification Domain : UNSPSC
+  Classification Code : 31250000
+  Supplier Part ID : 02040835
+  Supplier Part Auxiliary ID : Quote TX28-0000529081
+  Line No.
+              PO Line No. Type
+                                                         Supplier Part No. / Description
+  3
+              3         Material
+                                                         01993136 / KQ2R07-09A FITTING, PLUG-IN REDUCER(OLD KQ2R07-09) SMC CART 02/04/26
+  Additional Details:
+  Classification Domain : UNSPSC
+  Classification Code : 31250000
+  Supplier Part ID : 01993136
+  Supplier Part Auxiliary ID : Quote TX28-0000529081
+  Line No.    PO Line No. Type
+                                                         Supplier Part No. / Description
+   5          5          Material
+                                                         01952042 / KQ2P-07 PLUGSMC CART 02/04/26
+   Additional Details:
+   Classification Domain : UNSPSC
+   Classification Code : 31250000
+   Supplier Part ID : 01952042
+   Supplier Part Auxiliary ID : Quote TX28-0000529081
+   Line No.
+              PO Line No. Type                            Supplier Part No. / Description
+   6
+              6         Material
+                                                         01635435 / KQ2U11-00A 40976 Y FITTING(OLD KQ2U11-00) SMC CART 02/04/26
+   Additional Details:
+   Classification Domain : UNSPSC
+   Classification Code : 31250000
+   Supplier Part ID : 01635435
+   Supplier Part Auxiliary ID : Quote TX28-0000529081
+   Line No.    PO Line No. Type
+                                                         Supplier Part No. / Description
+   7         7         Material
+                                                         01992522 / KQ2L06-M5A FITTING, MALE ELBOW(OLD KQ2L06-M5) SMC CART 02/04/26
+   Additional Details:
+   Classification Domain : UNSPSC
+   Classification Code : 31250000
+   Supplier Part ID : 01992522
+   Supplier Part Auxiliary ID : Quote TX28-0000529081
+   Line No.
+              PO Line No. Type                            Supplier Part No. / Description
+   8         8         Material
+                                                         01952019 / KQ2L06-01AS FITTING, MALE ELBOWSMC CART 02/04/26
+   Additional Details:
+   Classification Domain : UNSPSC
+   Classification Code : 31250000
+   Supplier Part ID : 01952019
+   Supplier Part Auxiliary ID : Quote TX28-0000529081
+   Line No.    PO Line No. Type                            Supplier Part No. / Description
+   10        10        Material
+                                                        01994160 / KQ2T06-00A FITTING, UNION TEE(OLD KQ2T06-00) SMC CART 02/04/26
+   Additional Details:
+   Classification Domain : UNSPSC
+   Classification Code : 31250000
+   Supplier Part ID : 01994160
+   Supplier Part Auxiliary ID : Quote TX28-0000529081
+   Line No.    PO Line No. Type                            Supplier Part No. / Description
+   11        11        Material
+                                                        05870565 / AS1201F-M5-07A SPEED CONTROL W/FITTINGSMC CART 02/04/26
+   Additional Details:
+   Classification Domain : UNSPSC
+   Classification Code : 31250000
+   Supplier Part ID : 05870565
+   Supplier Part Auxiliary ID : Quote TX28-0000529081
+   Line No.    PO Line No. Type                            Supplier Part No. / Description
+   12                   Material
+              12                                        03933687 / ASV410F-N02-09S SPEED EXHAUST CONTROLLERSMC CART 02/04/26
+   Additional Details:
+   Classification Domain : UNSPSC
+   Classification Code : 31250000
+   Supplier Part ID : 03933687
+   Supplier Part Auxiliary ID : Quote TX28-0000529081
+   Line No.    PO Line No. Type                            Supplier Part No. / Description
+   15
+             15        Material                         01984402 / AS2201F-01-06SD SPEED CONTROL W/FITTSMC CART 02/04/26
+   Additional Details:
+   Classification Domain : UNSPSC
+   Classification Code : 40141603
+   Supplier Part ID : 01984402
+   Supplier Part Auxiliary ID : Quote TX28-0000529081
+  Line No.
+             PO Line No. Type                            Supplier Part No. / Description
+   16        16
+                        Material                         03972410 / ASV310F-N01-07S SPEED EXHAUST CONTROLLERSMC CART 02/04/26
+   Additional Details:
+   Classification Domain : UNSPSC
+   Classification Code : 40141603
+   Supplier Part ID : 03972410
+   Supplier Part Auxiliary ID : Quote TX28-0000529081
+  Line No.
+             PO Line No. Type                            Supplier Part No. / Description
+   19        19        Material                         02004635 / TIUB07R-20 TUBING, POLYURETHANESMC CART 02/04/26
+  Additional Details:
+   Classification Domain : UNSPSC
+   Classification Code : 31250000
+   Supplier Part ID : 02004635
+  Supplier Part Auxiliary ID : Quote TX28-0000529081
+  Line No.    PO Line No. Type                           Supplier Part No. / Description
+  20        20        Material
+                                                       02004686 / TIUB11BU-20 TUBING,3/8&quot;OD,BLU,20MSMC CART 02/04/26
+  Additional Details:
+   Classification Domain : UNSPSC
+  Classification Code : 31250000
+  Supplier Part ID : 02004686
+  Supplier Part Auxiliary ID : Quote TX28-0000529081
+  Line No.    PO Line No. Type                            Supplier Part No. / Description
+                        Material                         02004762 / TIUB13BU-20 TUBING,1/2&quot;OD,BLU,20MSMC CART 02/04/26
+  22        22
+  Additional Details:
+  Classification Domain : UNSPSC
+  Classification Code : 31250000
+  Supplier Part ID : 02004762
+  Supplier Part Auxiliary ID : Quote TX28-0000529081
+==================================<Page 7 - END>================================
+==================================<Page 9 - START>================================
+  Standard Invoice
+  Original tax invoice has been submitted electronically. This is a
+  human readable representation (copy) of the original tax invoice.
+                                                                    Invoice Number                                      TX2800813716
+                                                                     (Supplier Reference No.)
+                                                                    Invoice Date                      Friday 13 Feb 2026 9:10 AM GMT-06:00
+                                                                                                    Friday 13 Feb 2026 9:10 AM GMT-06:00
+                                                                    Shipping Date
+                                                                    Amount Due                                         $797.35 USD
+       Contact Information                                                         Shipping Information
+       Supplier
+                                     Customer                                  Ship From                      Ship To
+       MOTION INDUSTRIES            Frito-Lay, Inc.
+                                                                              MOTION INDUSTRIES             US-PL-IRVING-TX-FLI
+       BOX 504606
+                                     c/o PEPSICO NASS                           BOX 504606                    701 N WILDWOOD
+       ST. LOUIS                     ACCOUNTS PAYABLES                                                     IRVING
+                                                                              ST. LOUIS
+       MO                           PO BOX 1800                                                            TX
+                                                                              MO
+       631500000                     Winston Salem                              631500000                     75061-8831
+       United States                   NC                                       United States                    United States
+       Address ID: 07-669-8349           27105                                     Address ID: 07-669-8349           Address ID: 2096
+                                     United States
+                                     Address ID: US28
+     Line Items                                                PO No. : M413551493                                      PO Date : 11 Feb 2026
+     Line No.    PO Line No.
+                                  Type    Supplier Part No./              Customer Part No.         Quantity            Unit Price         Subtotal
+                                          Description                                        (UOM)
+     1         1                  Material 02040835 / KQ2L11-34AS                              10 / (EA)           $1.84 USD      $18.40 USD
+                                          FITTINGSMC CART 02/04/26
+     Line No.    PO Line No.                                                                                                     Subtotal
+                                  Type    Supplier Part No. /              Customer Part No.        Quantity            Unit Price
+                                          Description                                        (UOM)
+     3         3                  Material 01993136 / KQ2R07-09A FITTING,                       20 / (EA)           $0.78 USD      $15.60 USD
+                                          PLUG-IN REDUCER(OLD
+                                          KQ2R07-09) SMC CART 02/04/26
+     Line No.    PO Line No.          Type   Supplier Part No. /                                   Quantity            Unit Price         Subtotal
+                                                                      Customer Part No.
+                                          Description                                        (UOM)
+                                   Material
+     5        5                         01952042 / KQ2P-07 PLUGSMC                         30 / (EA)           $0.36 USD      $10.80 USD
+                                          CART 02/04/26
+     Line No.    PO Line No.          Type    Supplier Part No. /              Customer Part No.        Quantity            Unit Price         Subtotal
+                                          Description                                        (UM)
+                                   Material
+     6         6                         01635435 / KQ2U11-00A 40976 Y                        25 / (EA)           $3.95 USD      $98.75 USD
+                                          FITTING(OLD KQ2U11-00) SMC
+                                          CART 02/04/26
+     Line No.    PO Line No.          Type    Supplier Part No. /              Customer Part No.        Quantity            Unit Price         Subtotal
+                                          Description
+                                                                                           (UOM)
+     7         7                  Material 01992522 / KQ2L06-M5A FITTING,                        10 / (EA)           $1.30 USD      $13.00 USD
+                                          MALE ELBOW(OLD KQ2L06-M5)
+                                          SMC CART 02/04/26
+     Line No.    PO Line No.          Type    Supplier Part No. /                                                      Unit Price
+                                                                     Customer Part No.         Quantity                             Subtotal
+                                          Description                                         (UOM)
+     8         8                  Material  01952019 / KQ2L06-01AS                              30 / (EA)           $1.00 USD      $30.00 USD
+                                          FITTING, MALE ELBOWSMC
+                                          CART 02/04/26
+     Line No.    PO Line No.          Type    Supplier Part No. /              Customer Part No.        Quantity            Unit Price         Subtotal
+                                          Description                                         (UOM)
+               10                 Material 01994160 / KQ2T06-00A FITTING,
+    10                                                                                    10 / (EA)           $1.54 USD      $15.40 USD
+                                          UNION TEE(OLD KQ2T06-00)
+                                          SMC CART 02/04/26
+    Line No.    PO Line No.          Type
+                                          Supplier Part No. /              Customer Part No.         Quantity            Unit Price         Subtotal
+                                         Description
+                                                                                           (UOM)
+    11        11                 Material  05870565 / AS1201F-M5-07A                            16 / (EA)           $4.19 USD      $67.04 USD
+                                         SPEED CONTROL W/
+                                         FITTINGSMC CART 02/04/26
+    Line No.    PO Line No.          Type
+                                         Supplier Part No. /              Customer Part No.        Quantity             Unit Price         Subtotal
+                                         Description
+                                                                                           (UOM)
+    12        12                 Material  03933687 / ASV410F-                                 10 / (EA)           $11.38 USD      $113.80 USD
+                                         N02-09S SPEED EXHAUST
+                                         CONTROLLERSMC CART
+                                         02/04/26
+   Line No.    PO Line No.          Type    Supplier Part No. /              Customer Part No.         Quantity             Unit Price         Subtotal
+                                         Description                                         (UOM)
+   15        15
+                                 Material  01984402 / AS2201F-01-06SD                           10 / (EA)            $6.23 USD      $62.30 USD
+                                         SPEED CONTROL W/FITTSMC
+                                         CART 02/04/26
+  Line No.    PO Line No.          Type    Supplier Part No. /              Customer Part No.         Quantity                             Subtotal
+                                                                                                              Unit Price
+                                         Description                                         (UOM)
+  16        16
+                                 Material  03972410 / ASV310F-                                  22 / (EA)           $10.21 USD      $224.62 USD
+                                         N01-07S SPEED EXHAUST
+                                         CONTROLLERSMC CART
+                                         02/04/26
+  Line No.    PO Line No.          Type    Supplier Part No. /              Customer Part No.         Quantity             Unit Price         Subtotal
+                                         Description                                         (UOM)
+ 19        19
+                                 Material  02004635 / TIUB07R-20 TUBING,                         2 / (EA)            $10.21 USD      $20.42 USD
+                                         POLYURETHANESMC CART
+                                         02/04/26
+ Line No.    PO Line No.          Type    Supplier Part No. /              Customer Part No.
+                                                                                           Quantity            Unit Price         Subtotal
+                                         Description                                         (UOM)
+20        20                  Material  02004686 / TIUB11BU-20                               2 / (EA)           $19.57 USD       $39.14 USD
+                                         TUBING.3/8&quot;OD,BLU,20MSMC
+                                         CART 02/04/26
+Line No.    PO Line No.          Type                                Customer Part No.
+                                        Supplier Part No. /                                    Quantity            Unit Price         Subtotal
+                                                                                           (UOM)
+                                        Description
+22        22                  Material 02004762 / TIUB13BU-20                               2 / (EA)           $34.04 USD
+                                                                                                                            $68.08 USD
+                                        TUBING,1/2&quot;OD,BLU,20MSMC
+                                        CART 02/04/26
+==================================<Page 9 - END>================================
+==================================<Page 10 - START>================================
+                                                                             Amount Summary
+                                                                                                                    $797.35 USD
+                                                                             Line item subtotal
+                                                                             Gross amount                             $797.35 USD
+                                                                                                                    $797.35 USD
+                                                                             Net amount
+                                                                                                                      $0.00 USD
+                                                                             Total tax amount
+                                                                             Total withholding tax amount
+                                                                                                                    $797.35 USD
+                                                                             Amount Due
+    Additional Information
+    totalNumberOfLineltems
+    14
+    Billing Information                                                        Remittance Information
+    Bill To                                                                Remit To
+                                                                         MOTION INDUSTRIES
+    Frito-Lay, Inc.
+                                                                         BOX 504606
+    c/o PEPSICO NASS
+   ACCOUNTS PAYABLES                                                   ST. LOUIS
+   PO BOX 1800                                                           MO
+   Winston Salem                                                          631500000
+   NC                                                                   United States
+   27105                                                                 Address ID: US1 _10878
+   United States
+   Address ID: US28
+==================================<Page 10 - END>================================
+==================================<Page 11 - START>================================
+   ppenulx
+  Line No.
+              PO Line No. Type                            Supplier Part No. / Description
+  1
+              1
+                         Material                          02040835 / KQ2L11-34AS FITTINGSMC CART 02/04/26
+  Additional Details:
+  Classification Domain : UNSPSC
+  Classification Code : 31250000
+  Supplier Part ID : 02040835
+  Supplier Part Auxiliary ID : Quote TX28-0000529081
+  Line No.
+              PO Line No. Type
+                                                         Supplier Part No. / Description
+  3
+              3         Material
+                                                         01993136 / KQ2R07-09A FITTING, PLUG-IN REDUCER(OLD KQ2R07-09) SMC CART 02/04/26
+  Additional Details:
+  Classification Domain : UNSPSC
+  Classification Code : 31250000
+  Supplier Part ID : 01993136
+  Supplier Part Auxiliary ID : Quote TX28-0000529081
+  Line No.    PO Line No. Type
+                                                         Supplier Part No. / Description
+   5          5          Material
+                                                         01952042 / KQ2P-07 PLUGSMC CART 02/04/26
+   Additional Details:
+   Classification Domain : UNSPSC
+   Classification Code : 31250000
+   Supplier Part ID : 01952042
+   Supplier Part Auxiliary ID : Quote TX28-0000529081
+   Line No.
+              PO Line No. Type                            Supplier Part No. / Description
+   6
+              6         Material
+                                                         01635435 / KQ2U11-00A 40976 Y FITTING(OLD KQ2U11-00) SMC CART 02/04/26
+   Additional Details:
+   Classification Domain : UNSPSC
+   Classification Code : 31250000
+   Supplier Part ID : 01635435
+   Supplier Part Auxiliary ID : Quote TX28-0000529081
+   Line No.    PO Line No. Type
+                                                         Supplier Part No. / Description
+   7         7         Material
+                                                         01992522 / KQ2L06-M5A FITTING, MALE ELBOW(OLD KQ2L06-M5) SMC CART 02/04/26
+   Additional Details:
+   Classification Domain : UNSPSC
+   Classification Code : 31250000
+   Supplier Part ID : 01992522
+   Supplier Part Auxiliary ID : Quote TX28-0000529081
+   Line No.
+              PO Line No. Type                            Supplier Part No. / Description
+   8         8         Material
+                                                         01952019 / KQ2L06-01AS FITTING, MALE ELBOWSMC CART 02/04/26
+   Additional Details:
+   Classification Domain : UNSPSC
+   Classification Code : 31250000
+   Supplier Part ID : 01952019
+   Supplier Part Auxiliary ID : Quote TX28-0000529081
+   Line No.    PO Line No. Type                            Supplier Part No. / Description
+   10        10        Material
+                                                        01994160 / KQ2T06-00A FITTING, UNION TEE(OLD KQ2T06-00) SMC CART 02/04/26
+   Additional Details:
+   Classification Domain : UNSPSC
+   Classification Code : 31250000
+   Supplier Part ID : 01994160
+   Supplier Part Auxiliary ID : Quote TX28-0000529081
+   Line No.    PO Line No. Type                            Supplier Part No. / Description
+   11        11        Material
+                                                        05870565 / AS1201F-M5-07A SPEED CONTROL W/FITTINGSMC CART 02/04/26
+   Additional Details:
+   Classification Domain : UNSPSC
+   Classification Code : 31250000
+   Supplier Part ID : 05870565
+   Supplier Part Auxiliary ID : Quote TX28-0000529081
+   Line No.    PO Line No. Type                            Supplier Part No. / Description
+   12                   Material
+              12                                        03933687 / ASV410F-N02-09S SPEED EXHAUST CONTROLLERSMC CART 02/04/26
+   Additional Details:
+   Classification Domain : UNSPSC
+   Classification Code : 31250000
+   Supplier Part ID : 03933687
+   Supplier Part Auxiliary ID : Quote TX28-0000529081
+   Line No.    PO Line No. Type                            Supplier Part No. / Description
+   15
+             15        Material                         01984402 / AS2201F-01-06SD SPEED CONTROL W/FITTSMC CART 02/04/26
+   Additional Details:
+   Classification Domain : UNSPSC
+   Classification Code : 40141603
+   Supplier Part ID : 01984402
+   Supplier Part Auxiliary ID : Quote TX28-0000529081
+  Line No.
+             PO Line No. Type                            Supplier Part No. / Description
+   16        16
+                        Material                         03972410 / ASV310F-N01-07S SPEED EXHAUST CONTROLLERSMC CART 02/04/26
+   Additional Details:
+   Classification Domain : UNSPSC
+   Classification Code : 40141603
+   Supplier Part ID : 03972410
+   Supplier Part Auxiliary ID : Quote TX28-0000529081
+  Line No.
+             PO Line No. Type                            Supplier Part No. / Description
+   19        19        Material                         02004635 / TIUB07R-20 TUBING, POLYURETHANESMC CART 02/04/26
+  Additional Details:
+   Classification Domain : UNSPSC
+   Classification Code : 31250000
+   Supplier Part ID : 02004635
+  Supplier Part Auxiliary ID : Quote TX28-0000529081
+  Line No.    PO Line No. Type                           Supplier Part No. / Description
+  20        20        Material
+                                                       02004686 / TIUB11BU-20 TUBING,3/8&quot;OD,BLU,20MSMC CART 02/04/26
+  Additional Details:
+   Classification Domain : UNSPSC
+  Classification Code : 31250000
+  Supplier Part ID : 02004686
+  Supplier Part Auxiliary ID : Quote TX28-0000529081
+  Line No.    PO Line No. Type                            Supplier Part No. / Description
+                        Material                         02004762 / TIUB13BU-20 TUBING,1/2&quot;OD,BLU,20MSMC CART 02/04/26
+  22        22
+  Additional Details:
+  Classification Domain : UNSPSC
+  Classification Code : 31250000
+  Supplier Part ID : 02004762
+  Supplier Part Auxiliary ID : Quote TX28-0000529081
+==================================<Page 11 - END>================================

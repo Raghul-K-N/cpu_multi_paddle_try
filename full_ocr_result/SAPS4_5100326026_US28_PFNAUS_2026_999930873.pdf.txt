@@ -1,0 +1,304 @@
+==================================<Page 1 - START>================================
+Standard Invoice
+                                                                                                                    odp
+Original tax invoice has been submitted electronically. This is a
+human readable representation (copy) of the original tax invoice.
+                                                                Invoice Number                                      459723168001
+                                                                 (Supplier Reference No.)
+                                                                Invoice Date                     Friday 13 Feb 2026 12:00 PM GMT-05:00
+                                                                                                                   $378.67 USD
+                                                                Amount Due
+     Contact Information
+                                                                          Shipping Information
+    Supplier                      Customer                                                              Ship To
+                                                                          Ship From
+     ODP BUSINESS SOLUTIONS,       FRITO-LAY, INC.                             ODP BUSINESS SOLUTIONS,       US-PL-MODESTO-CA-FLI
+     LLC                                                                  LLC                          600 GARNER RD
+                                  600 GARNER RD
+                                                                                                       MODESTO
+     6600 North Military Trail            MODESTO
+                                                                                                       CA
+     Boca Raton                    CA
+                                                                                                       953570514
+     FL                          953570514
+                                                                                                       United States
+     33496                       United States
+                                                                                                       Address ID: 2010
+     US
+                                                         PO No. : M413554858                                      PO Date : 12 Feb 2026
+   Line Items
+                                                                                                                         Subtotal
+                                       Supplier Part No. /             Customer Part No.        Quantity            Unit Price
+   Line No.   PO Line No.          Type
+                                       Description                                       (UOM)
+                                                                                                       $13.93 USD
+   1        1                 Material 2640507 / PEN,GEL,RT,50                             8 / (PK)
+                                       CT,BLUE
+                                                                                                        Unit Price         Subtotal
+   Line No.    PO Line No.         Type   Supplier Part No. /             Customer Part No.        Quantity
+                                                                                      (UOM)
+                                       Description
+                                Material 5782367 / PEN,GEL,RT,50                            8 / (PK)           $14.99 USD
+   2        2
+                                       CT,BLACK
+                                                                                                                         Subtotal
+             PO Line No.         Type   Supplier Part No. /             Customer Part No.        Quantity            Unit Price
+    Line No.
+                                       Description                                       (UOM)
+                                                                                                      $11.99 USD
+   3                          Material 765798 /                                         4 / (PK)
+              4
+                                       BOOK,MEMO.WRBND.TOP.CR.60S.12
+                                       Supplier Part No. /             Customer Part No.        Quantity            Unit Price         Subtotal
+    Line No.   PO Line No.         Type
+                                       Description                                       (UOM)
+                                Material  991686 / FLDR HANGING RECY                        2 / (BX)           $24.69 USD
+   4        5
+                                       AST LTR 25BX
+                                                                                                        Unit Price         Subtotal
+             PO Line No.         Type   Supplier Part No. /             Customer Part No.        Quantity
+    Line No.
+                                       Description                                       (UOM)
+                               Material 4928895 /                                        1 / (BX)          $13.39 USD
+    5        6
+                                       CLIP,BINDER,SMALL,144PC,BK
+                                                                                                                         Subtotal
+                               Type   Supplier Part No. /             Customer Part No.        Quantity            Unit Price
+    Line No.   PO Line No.
+                                       Description                                       (UOM)
+                                                                                                       $8.94 USD
+             7                 Material 892314 / TISSUE,KLEENEX,ANTI-                       1 / (PK)
+   6
+                                       V,WE
+       Tax Summary
+                            Details                          Base Amount               Rate %          Amount
+       Category
+       Sales Tax                                                                      7.875%          $27.64 USD
+                                                                             Amount Summary
+                                                                                                                    $351.03 USD
+                                                                              Line item subtotal
+                                                                              Gross amount                            $378.67 USD
+                                                                                                                    $378.67 USD
+                                                                             Net amount
+                                                                                                                     $27.64 USD
+                                                                              Total tax amount
+                                                                              Total withholding tax amount
+                                                                                                                    $378.67 USD
+                                                                             Amount Due
+     Additional Information
+     invoice due date
+     20260514
+                                                                          Remittance Information
+     Billing Information
+                                                                          Remit To
+     Bill To
+                                                                          ODP BUSINESS SOLUTIONS,
+     PEPSICO INC ARIBA
+                                                                          LLC
+     700 ANDERSON HILL RD                                                  PO BOX 633204
+     PURCHASE                                                            CINCINNATI
+     NY                                                                  OH
+     105771444                                                            45263-3204
+     United States                                                           United States
+     Address ID: 47140624
+                                                                     Reference Documents
+  Payment Terms
+                                                                      Original Supplier Order #: 459723168001
+  Net payment Terms (Days) :
+  90
+==================================<Page 1 - END>================================
+==================================<Page 2 - START>================================
+  Appendix
+  Line No.
+              PO Line No. Type                           Supplier Part No. / Description
+  1          1         Material
+                                                        2640507 / PEN,GEL,RT,50 CT,BLUE
+  Additional Details:
+  Supplier Part ID : 2640507
+  UNSPSC : 44121701
+  Line No.
+             PO Line No. Type                           Supplier Part No. / Description
+  2
+             2         Material                         5782367 / PEN,GEL,RT,50 CT,BLACK
+  Additional Details:
+  Supplier Part ID : 5782367
+  UNSPSC : 44121701
+  Line No.
+             PO Line No. Type                           Supplier Part No. / Description
+  3
+             4          Material                         765798 / BOOK,MEMO,WRBND,TOP,CR,60S,12
+  Additional Details:
+  Supplier Part ID : 765798
+  UNSPSC : 14111514
+ Line No.    PO Line No. Type                           Supplier Part No. / Description
+  4         5          Material                         991686 / FLDR HANGING RECY AST LTR 25BX
+ Additional Details:
+  Supplier Part ID : 991686
+  UNSPSC : 44122017
+ Line No.    PO Line No. Type                           Supplier Part No. / Description
+                       Material
+ 5         6                                         4928895 / CLIP,BINDER,SMALL,144PC,BK
+Additional Details:
+ Supplier Part ID : 4928895
+ UNSPSC : 44122104
+ Line No.
+            PO Line No. Type                            Supplier Part No. / Description
+            7         Material                         892314 / TISSUE,KLEENEX,ANTI-V,WE
+6
+Additional Details:
+Supplier Part ID : 892314
+ UNSPSC : 14111701
+PDF generated on Friday 13 Feb 2026 12:34 PM GMT-08:00
+==================================<Page 2 - END>================================
+==================================<Page 3 - START>================================
+Standard Invoice
+                                                                                                                    odp
+Original tax invoice has been submitted electronically. This is a
+human readable representation (copy) of the original tax invoice.
+                                                                 Invoice Number                                      459723168001
+                                                                 (Supplier Reference No.)
+                                                                 Invoice Date                     Friday 13 Feb 2026 12:00 PM GMT-05:00
+                                                                                                                    $378.67 USD
+                                                                 Amount Due
+     Contact Information
+                                                                           Shipping Information
+     Supplier                      Customer                                                              Ship To
+                                                                           Ship From
+     ODP BUSINESS SOLUTIONS,       FRITO-LAY, INC.                             ODP BUSINESS SOLUTIONS,       US-PL-MODESTO-CA-FLI
+     LLC                                                                  LLC                          600 GARNER RD
+                                  600 GARNER RD
+                                                                                                        MODESTO
+      6600 North Military Trail            MODESTO
+                                                                                                        CA
+      Boca Raton                    CA
+                                                                                                        953570514
+      FL                          953570514
+                                                                                                        United States
+      33496                       United States
+                                                                                                        Address ID: 2010
+      US
+                                                         PO No. : M413554858                                      PO Date : 12 Feb 2026
+    Line Items
+                                                                                                                          Subtotal
+                                        Supplier Part No. /             Customer Part No.        Quantity            Unit Price
+    Line No.   PO Line No.          Type
+                                        Description                                       (UOM)
+                                                                                                       $13.93 USD
+    1        1                 Material 2640507 / PEN,GEL,RT,50                             8 / (PK)
+                                        CT,BLUE
+                                                                                                         Unit Price         Subtotal
+    Line No.    PO Line No.         Type   Supplier Part No. /             Customer Part No.        Quantity
+                                                                                       (UOM)
+                                        Description
+                                Material 5782367 / PEN,GEL,RT,50                            8 / (PK)           $14.99 USD
+    2        2
+                                        CT,BLACK
+                                                                                                                          Subtotal
+              PO Line No.         Type   Supplier Part No. /             Customer Part No.        Quantity            Unit Price
+    Line No.
+                                        Description                                       (UOM)
+                                                                                                       $11.99 USD
+    3                          Material 765798 /                                         4 / (PK)
+              4
+                                        BOOK,MEMO.WRBND.TOP.CR.60S.12
+                                        Supplier Part No. /             Customer Part No.        Quantity            Unit Price         Subtotal
+    Line No.   PO Line No.         Type
+                                        Description                                       (UOM)
+                                Material  991686 / FLDR HANGING RECY                        2 / (BX)           $24.69 USD
+    4        5
+                                        AST LTR 25BX
+                                                                                                         Unit Price         Subtotal
+              PO Line No.         Type   Supplier Part No. /             Customer Part No.        Quantity
+    Line No.
+                                        Description                                       (UOM)
+                                Material 4928895 /                                        1 / (BX)          $13.39 USD
+    5        6
+                                        CLIP,BINDER,SMALL,144PC,BK
+                                                                                                                         Subtotal
+                                Type   Supplier Part No. /             Customer Part No.        Quantity            Unit Price
+    Line No.   PO Line No.
+                                        Description                                       (UOM)
+                                                                                                        $8.94 USD
+              7                 Material 892314 / TISSUE,KLEENEX,ANTI-                       1 / (PK)
+    6
+                                        V,WE
+       Tax Summary
+                            Details                          Base Amount               Rate %          Amount
+       Category
+       Sales Tax                                                                      7.875%          $27.64 USD
+                                                                              Amount Summary
+                                                                                                                     $351.03 USD
+                                                                              Line item subtotal
+                                                                              Gross amount                            $378.67 USD
+                                                                                                                     $378.67 USD
+                                                                              Net amount
+                                                                                                                      $27.64 USD
+                                                                              Total tax amount
+                                                                              Total withholding tax amount
+                                                                                                                     $378.67 USD
+                                                                              Amount Due
+      Additional Information
+      invoice due date
+      20260514
+                                                                          Remittance Information
+      Billing Information
+                                                                          Remit To
+     Bill To
+                                                                          ODP BUSINESS SOLUTIONS,
+      PEPSICO INC ARIBA
+                                                                          LLC
+      700 ANDERSON HILL RD                                                  PO BOX 633204
+      PURCHASE                                                            CINCINNATI
+     NY                                                                  OH
+      105771444                                                            45263-3204
+     United States                                                           United States
+     Address ID: 47140624
+                                                                      Reference Documents
+  Payment Terms
+                                                                       Original Supplier Order #: 459723168001
+   Net payment Terms (Days) :
+   90
+==================================<Page 3 - END>================================
+==================================<Page 4 - START>================================
+  Appendix
+  Line No.
+              PO Line No. Type                           Supplier Part No. / Description
+  1          1         Material
+                                                        2640507 / PEN,GEL,RT,50 CT,BLUE
+  Additional Details:
+  Supplier Part ID : 2640507
+  UNSPSC : 44121701
+  Line No.
+             PO Line No. Type                           Supplier Part No. / Description
+  2
+             2         Material                         5782367 / PEN,GEL,RT,50 CT,BLACK
+  Additional Details:
+  Supplier Part ID : 5782367
+  UNSPSC : 44121701
+  Line No.
+             PO Line No. Type                           Supplier Part No. / Description
+  3
+             4          Material                         765798 / BOOK,MEMO,WRBND,TOP,CR,60S,12
+  Additional Details:
+  Supplier Part ID : 765798
+  UNSPSC : 14111514
+ Line No.    PO Line No. Type                           Supplier Part No. / Description
+  4         5          Material                         991686 / FLDR HANGING RECY AST LTR 25BX
+ Additional Details:
+  Supplier Part ID : 991686
+  UNSPSC : 44122017
+ Line No.    PO Line No. Type                           Supplier Part No. / Description
+                       Material
+ 5         6                                         4928895 / CLIP,BINDER,SMALL,144PC,BK
+Additional Details:
+ Supplier Part ID : 4928895
+ UNSPSC : 44122104
+ Line No.
+            PO Line No. Type                            Supplier Part No. / Description
+            7         Material                         892314 / TISSUE,KLEENEX,ANTI-V,WE
+6
+Additional Details:
+Supplier Part ID : 892314
+ UNSPSC : 14111701
+PDF generated on Friday 13 Feb 2026 12:34 PM GMT-08:00
+==================================<Page 4 - END>================================

@@ -1,0 +1,109 @@
+{
+  "invoice_data": {
+    "invoice_number": "5510679707",
+    "invoice_date": "02/11/2026",
+    "invoice_amount": "23.99",
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": "1.83",
+    "po_number": [
+      "M411391555"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": "0.00",
+    "cost_center": null,
+    "vendor_name": "VESTIS",
+    "vendor_address": "PO BOX 731676, DALLAS TX 75373-1676",
+    "po_line_items": [
+      {
+        "description": "GO0575CHAR JACKET TEAM KNIT CUFF 65/35",
+        "quantity": 1.0,
+        "net_price": 0.08
+      },
+      {
+        "description": "GP0002CHAR PANT WORK TWILL 65/35",
+        "quantity": 13.0,
+        "net_price": 0.135
+      },
+      {
+        "description": "GP0007NAVY  PANT WORK JEAN CUT 65/35",
+        "quantity": 11.0,
+        "net_price": 0.232
+      },
+      {
+        "description": "GS2657NVSR  SHIRT EVIS SS FLEXFIT PEPSI",
+        "quantity": 13.0,
+        "net_price": 0.232
+      },
+      {
+        "description": "CE0194BLAK  ATM TWL DISPENSER",
+        "quantity": 1.0,
+        "net_price": 1.946
+      },
+      {
+        "description": "TS0002REDD  SHOP TOWEL PLAIN",
+        "quantity": 660.0,
+        "net_price": 0.021
+      }
+    ],
+    "vat_amount": null,
+    "gl_account": null,
+    "bank_name": null,
+    "account_holder_name": null,
+    "banking_account_number": null,
+    "remit_to_address": null,
+    "bill_to_address": null,
+    "transaction_type": "debit"
+  },
+  "filename": "SAPS4_5100002072_US29_PFNAUS_2026_999884436.pdf",
+  "raw_response": {
+    "invoice_number": "5510679707",
+    "invoice_date": "02/11/2026",
+    "invoice_amount": "23.99",
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": "1.83",
+    "po_number": [
+      "M411391555"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": "0.00",
+    "cost_center": null,
+    "vendor_name": "VESTIS",
+    "vendor_address": "PO BOX 731676, DALLAS TX 75373-1676",
+    "po_line_items": [
+      {
+        "description": "GO0575CHAR JACKET TEAM KNIT CUFF 65/35",
+        "quantity": 1.0,
+        "net_price": 0.08
+      },
+      {
+        "description": "GP0002CHAR PANT WORK TWILL 65/35",
+        "quantity": 13.0,
+        "net_price": 0.135
+      },
+      {
+        "description": "GP0007NAVY  PANT WORK JEAN CUT 65/35",
+        "quantity": 11.0,
+        "net_price": 0.232
+      },
+      {
+        "description": "GS2657NVSR  SHIRT EVIS SS FLEXFIT PEPSI",
+        "quantity": 13.0,
+        "net_price": 0.232
+      },
+      {
+        "description": "CE0194BLAK  ATM TWL DISPENSER",
+        "quantity": 1.0,
+        "net_price": 1.946
+      },
+      {
+        "description": "TS0002REDD  SHOP TOWEL PLAIN",
+        "quantity": 660.0,
+        "net_price": 0.021
+      }
+    ]
+  }
+}

@@ -1,0 +1,73 @@
+{
+  "invoice_data": {
+    "invoice_number": "321974472",
+    "invoice_date": "01/16/2026",
+    "invoice_amount": "1826.94",
+    "invoice_currency": [
+      "CAD"
+    ],
+    "tax_amount": "87.00",
+    "po_number": [
+      "M412844449",
+      "4340184",
+      "92038175"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "KRONES INC.",
+    "vendor_address": "9600 South 58th Street, P.O. Box 321801, Franklin,WI 53132-6241",
+    "po_line_items": [
+      {
+        "description": "Roller",
+        "quantity": 1.0,
+        "net_price": 1641.35
+      },
+      {
+        "description": "Freight and Insurance",
+        "quantity": 1.0,
+        "net_price": 98.59
+      }
+    ],
+    "vat_amount": null,
+    "gl_account": null,
+    "bank_name": null,
+    "account_holder_name": null,
+    "banking_account_number": null,
+    "remit_to_address": null,
+    "bill_to_address": null,
+    "transaction_type": "debit"
+  },
+  "filename": "SAPS4_5101082024_CA02_PBNACA_2026_328615371.pdf",
+  "raw_response": {
+    "invoice_number": "321974472",
+    "invoice_date": "01/16/2026",
+    "invoice_amount": "1826.94",
+    "invoice_currency": [
+      "CAD"
+    ],
+    "tax_amount": "87.00",
+    "po_number": [
+      "M412844449",
+      "4340184",
+      "92038175"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "KRONES INC.",
+    "vendor_address": "9600 South 58th Street, P.O. Box 321801, Franklin,WI 53132-6241",
+    "po_line_items": [
+      {
+        "description": "Roller",
+        "quantity": 1.0,
+        "net_price": 1641.35
+      },
+      {
+        "description": "Freight and Insurance",
+        "quantity": 1.0,
+        "net_price": 98.59
+      }
+    ]
+  }
+}

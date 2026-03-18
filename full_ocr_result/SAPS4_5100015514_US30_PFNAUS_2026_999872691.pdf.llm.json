@@ -1,0 +1,69 @@
+{
+  "invoice_data": {
+    "invoice_number": "980657983626",
+    "invoice_date": "Thursday 12 Feb 2026 5:20 AM GMT-07:00",
+    "invoice_amount": "140.52",
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": "7.32",
+    "po_number": [
+      "M413555491"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "GRAINGER",
+    "vendor_address": "100 Grainger Pkwy, Lake Forest, IL, United States, 27105; US-FL-BELOIT-WI-FLT; 701 GRAINGER WAY, MINOOKA, IL, 60447; United States, 53511",
+    "po_line_items": [
+      {
+        "description": "3U560 / Glass Cleaner,Jug,1 gal.",
+        "quantity": 4.0,
+        "net_price": 11.22
+      },
+      {
+        "description": "11Y670 / Toilet Bowl Cleaner,32 oz.,Mint,Blue",
+        "quantity": 12.0,
+        "net_price": 7.36
+      }
+    ],
+    "vat_amount": null,
+    "gl_account": null,
+    "bank_name": null,
+    "account_holder_name": null,
+    "banking_account_number": null,
+    "remit_to_address": null,
+    "bill_to_address": null,
+    "transaction_type": "debit"
+  },
+  "filename": "SAPS4_5100015514_US30_PFNAUS_2026_999872691.pdf",
+  "raw_response": {
+    "invoice_number": "980657983626",
+    "invoice_date": "Thursday 12 Feb 2026 5:20 AM GMT-07:00",
+    "invoice_amount": "140.52",
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": "7.32",
+    "po_number": [
+      "M413555491"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "GRAINGER",
+    "vendor_address": "100 Grainger Pkwy, Lake Forest, IL, United States, 27105; US-FL-BELOIT-WI-FLT; 701 GRAINGER WAY, MINOOKA, IL, 60447; United States, 53511",
+    "po_line_items": [
+      {
+        "description": "3U560 / Glass Cleaner,Jug,1 gal.",
+        "quantity": 4.0,
+        "net_price": 11.22
+      },
+      {
+        "description": "11Y670 / Toilet Bowl Cleaner,32 oz.,Mint,Blue",
+        "quantity": 12.0,
+        "net_price": 7.36
+      }
+    ]
+  }
+}

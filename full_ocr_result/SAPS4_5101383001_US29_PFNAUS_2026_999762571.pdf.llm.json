@@ -1,0 +1,43 @@
+{
+  "invoice_data": {
+    "invoice_number": "E-FWS-08500",
+    "invoice_date": "1/27/2026",
+    "invoice_amount": null,
+    "invoice_currency": null,
+    "tax_amount": null,
+    "po_number": [
+      "4505132920"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "Fleetworthy",
+    "vendor_address": "5301 Buttonwood Drive, Madison, WI 53718",
+    "po_line_items": null,
+    "vat_amount": null,
+    "gl_account": null,
+    "bank_name": null,
+    "account_holder_name": null,
+    "banking_account_number": null,
+    "remit_to_address": null,
+    "bill_to_address": null,
+    "transaction_type": "debit"
+  },
+  "filename": "SAPS4_5101383001_US29_PFNAUS_2026_999762571.pdf",
+  "raw_response": {
+    "invoice_number": "E-FWS-08500",
+    "invoice_date": "1/27/2026",
+    "invoice_amount": null,
+    "invoice_currency": null,
+    "tax_amount": null,
+    "po_number": [
+      "4505132920"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "Fleetworthy",
+    "vendor_address": "5301 Buttonwood Drive, Madison, WI 53718",
+    "po_line_items": null
+  }
+}

@@ -1,0 +1,89 @@
+{
+  "invoice_data": {
+    "invoice_number": "6006 E. BEN WHITE BLVD",
+    "invoice_date": "02/25/2026",
+    "invoice_amount": "346.21",
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": "26.39",
+    "po_number": [
+      "M413340168"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "GRAINGER",
+    "vendor_address": "6006 E. BEN WHITE BLVD, AUSTIN, TX 78741-7504",
+    "po_line_items": [
+      {
+        "description": "SAFETY GLASSES, CLEAR, ANTI CUST PART # 2CVH2",
+        "quantity": 40.0,
+        "net_price": 128.0
+      },
+      {
+        "description": "VF,CUTRES GLVES,BL/GRY,10,6 CUST PART # 382XJ6",
+        "quantity": 18.0,
+        "net_price": 96.3
+      },
+      {
+        "description": "SAFETYGLASSES,CLEAR,SCRATCH CUST PART # 1FYX6",
+        "quantity": 36.0,
+        "net_price": 31.32
+      },
+      {
+        "description": "VF,CUT RES GLVES,BL/GR,8,61 CUST PART # 382XJ4",
+        "quantity": 12.0,
+        "net_price": 64.2
+      }
+    ],
+    "vat_amount": null,
+    "gl_account": null,
+    "bank_name": null,
+    "account_holder_name": null,
+    "banking_account_number": null,
+    "remit_to_address": null,
+    "bill_to_address": null,
+    "transaction_type": "debit"
+  },
+  "filename": "SAPS4_5100005553_US28_PFNAUS_2026_999934295.pdf",
+  "raw_response": {
+    "invoice_number": "6006 E. BEN WHITE BLVD",
+    "invoice_date": "02/25/2026",
+    "invoice_amount": "346.21",
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": "26.39",
+    "po_number": [
+      "M413340168"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "GRAINGER",
+    "vendor_address": "6006 E. BEN WHITE BLVD, AUSTIN, TX 78741-7504",
+    "po_line_items": [
+      {
+        "description": "SAFETY GLASSES, CLEAR, ANTI CUST PART # 2CVH2",
+        "quantity": 40.0,
+        "net_price": 128.0
+      },
+      {
+        "description": "VF,CUTRES GLVES,BL/GRY,10,6 CUST PART # 382XJ6",
+        "quantity": 18.0,
+        "net_price": 96.3
+      },
+      {
+        "description": "SAFETYGLASSES,CLEAR,SCRATCH CUST PART # 1FYX6",
+        "quantity": 36.0,
+        "net_price": 31.32
+      },
+      {
+        "description": "VF,CUT RES GLVES,BL/GR,8,61 CUST PART # 382XJ4",
+        "quantity": 12.0,
+        "net_price": 64.2
+      }
+    ]
+  }
+}

@@ -1,0 +1,139 @@
+{
+  "invoice_data": {
+    "invoice_number": "00804-066343",
+    "invoice_date": "2 February 2026",
+    "invoice_amount": "1,558.01",
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": "166.93",
+    "po_number": [
+      "4504479328"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "Ryder Truck Rental Canada",
+    "vendor_address": "Ryder Truck Rental Canada, P.O. BOX 6416 STN TERMINAL, VANCOUVER,BC,V6B 6R3",
+    "po_line_items": [
+      {
+        "description": "Vehicle/Agreement: Rental",
+        "quantity": null,
+        "net_price": 1223.8
+      },
+      {
+        "description": "Vehicle/Agreement: Agreements",
+        "quantity": null,
+        "net_price": 1223.8
+      },
+      {
+        "description": "Vehicle number: 541904",
+        "quantity": 4.0,
+        "net_price": 983.8
+      },
+      {
+        "description": "Vehicle description: 26' Diesel Dry Van",
+        "quantity": null,
+        "net_price": null
+      },
+      {
+        "description": "Coverage/Protection: $0 DED $1 MIL CSL",
+        "quantity": 4.0,
+        "net_price": 36.0
+      },
+      {
+        "description": "Licensing & Recovery Fee",
+        "quantity": 4.0,
+        "net_price": 5.0
+      },
+      {
+        "description": "Physical DMG - $1500 DED",
+        "quantity": 4.0,
+        "net_price": 19.0
+      },
+      {
+        "description": "Mileage charges",
+        "quantity": 526.0,
+        "net_price": 0.28
+      },
+      {
+        "description": "Environmental fee",
+        "quantity": 4.0,
+        "net_price": 5.0
+      }
+    ],
+    "vat_amount": null,
+    "gl_account": null,
+    "bank_name": null,
+    "account_holder_name": null,
+    "banking_account_number": null,
+    "remit_to_address": null,
+    "bill_to_address": null,
+    "transaction_type": "debit"
+  },
+  "filename": "SAPS4_5100064511_CA11_PFNACA_2026_304672209.pdf",
+  "raw_response": {
+    "invoice_number": "00804-066343",
+    "invoice_date": "2 February 2026",
+    "invoice_amount": "1,558.01",
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": "166.93",
+    "po_number": [
+      "4504479328"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "Ryder Truck Rental Canada",
+    "vendor_address": "Ryder Truck Rental Canada, P.O. BOX 6416 STN TERMINAL, VANCOUVER,BC,V6B 6R3",
+    "po_line_items": [
+      {
+        "description": "Vehicle/Agreement: Rental",
+        "quantity": null,
+        "net_price": 1223.8
+      },
+      {
+        "description": "Vehicle/Agreement: Agreements",
+        "quantity": null,
+        "net_price": 1223.8
+      },
+      {
+        "description": "Vehicle number: 541904",
+        "quantity": 4.0,
+        "net_price": 983.8
+      },
+      {
+        "description": "Vehicle description: 26' Diesel Dry Van",
+        "quantity": null,
+        "net_price": null
+      },
+      {
+        "description": "Coverage/Protection: $0 DED $1 MIL CSL",
+        "quantity": 4.0,
+        "net_price": 36.0
+      },
+      {
+        "description": "Licensing & Recovery Fee",
+        "quantity": 4.0,
+        "net_price": 5.0
+      },
+      {
+        "description": "Physical DMG - $1500 DED",
+        "quantity": 4.0,
+        "net_price": 19.0
+      },
+      {
+        "description": "Mileage charges",
+        "quantity": 526.0,
+        "net_price": 0.28
+      },
+      {
+        "description": "Environmental fee",
+        "quantity": 4.0,
+        "net_price": 5.0
+      }
+    ]
+  }
+}

@@ -1,0 +1,69 @@
+{
+  "invoice_data": {
+    "invoice_number": "9803338228",
+    "invoice_date": "Tuesday 10 Feb. 2026 7:00 a.m. GMT-05:00",
+    "invoice_amount": "343.48",
+    "invoice_currency": [
+      "CAD"
+    ],
+    "tax_amount": "34.04",
+    "po_number": [
+      "M413549236"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "ACKLANDS-GRAINGER INC.",
+    "vendor_address": "PO BOX 2970, WINNIPEG, MB R3C 4B5, CA; ACKLANDS-GRAINGER INC. CA-DC-SASKATOON-SK- 11708 - 167 STREET NW, EDMONTON, AB T5M 3Z2, Canada",
+    "po_line_items": [
+      {
+        "description": "KMB05843 / WIPERS L30 SMALL ROLL WH 70/RL",
+        "quantity": 2.0,
+        "net_price": 124.06
+      },
+      {
+        "description": "KLE885 / GLASS CLEANER 550 G CONTAINER SZ",
+        "quantity": 12.0,
+        "net_price": 5.11
+      }
+    ],
+    "vat_amount": null,
+    "gl_account": null,
+    "bank_name": null,
+    "account_holder_name": null,
+    "banking_account_number": null,
+    "remit_to_address": null,
+    "bill_to_address": null,
+    "transaction_type": "debit"
+  },
+  "filename": "SAPS4_5101413500_CA02_PBNACA_2026_328553406.pdf",
+  "raw_response": {
+    "invoice_number": "9803338228",
+    "invoice_date": "Tuesday 10 Feb. 2026 7:00 a.m. GMT-05:00",
+    "invoice_amount": "343.48",
+    "invoice_currency": [
+      "CAD"
+    ],
+    "tax_amount": "34.04",
+    "po_number": [
+      "M413549236"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "ACKLANDS-GRAINGER INC.",
+    "vendor_address": "PO BOX 2970, WINNIPEG, MB R3C 4B5, CA; ACKLANDS-GRAINGER INC. CA-DC-SASKATOON-SK- 11708 - 167 STREET NW, EDMONTON, AB T5M 3Z2, Canada",
+    "po_line_items": [
+      {
+        "description": "KMB05843 / WIPERS L30 SMALL ROLL WH 70/RL",
+        "quantity": 2.0,
+        "net_price": 124.06
+      },
+      {
+        "description": "KLE885 / GLASS CLEANER 550 G CONTAINER SZ",
+        "quantity": 12.0,
+        "net_price": 5.11
+      }
+    ]
+  }
+}

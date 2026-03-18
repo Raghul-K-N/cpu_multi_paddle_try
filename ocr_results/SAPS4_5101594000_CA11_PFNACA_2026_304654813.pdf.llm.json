@@ -1,0 +1,99 @@
+{
+  "invoice_data": {
+    "invoice_number": "40168",
+    "invoice_date": "08/12/2025",
+    "invoice_amount": "1195.69",
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": "56.95",
+    "po_number": [
+      "4504548262"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "Beer Industrial Service Inc.",
+    "vendor_address": "3110 24THAVENUE NORTH, LETHBRIDGE AB T1H 5K3",
+    "po_line_items": [
+      {
+        "description": "LABOR - IN SHOP",
+        "quantity": 3.5,
+        "net_price": 145.0
+      },
+      {
+        "description": "CONSUMABLES, ENV.DISP, MILEAGE (IF APPL,)",
+        "quantity": 1.0,
+        "net_price": 43.1375
+      },
+      {
+        "description": "HYD OIL",
+        "quantity": 2.0,
+        "net_price": 8.67
+      },
+      {
+        "description": "SEAL KIT",
+        "quantity": 1.0,
+        "net_price": 506.25
+      },
+      {
+        "description": "MACHING: CLEAN UP THREADS ON GLAND AND TUBE",
+        "quantity": 1.0,
+        "net_price": 506.25
+      }
+    ],
+    "vat_amount": null,
+    "gl_account": null,
+    "bank_name": null,
+    "account_holder_name": null,
+    "banking_account_number": null,
+    "remit_to_address": null,
+    "bill_to_address": null,
+    "transaction_type": "debit"
+  },
+  "filename": "SAPS4_5101594000_CA11_PFNACA_2026_304654813.pdf",
+  "raw_response": {
+    "invoice_number": "40168",
+    "invoice_date": "08/12/2025",
+    "invoice_amount": "1195.69",
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": "56.95",
+    "po_number": [
+      "4504548262"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "Beer Industrial Service Inc.",
+    "vendor_address": "3110 24THAVENUE NORTH, LETHBRIDGE AB T1H 5K3",
+    "po_line_items": [
+      {
+        "description": "LABOR - IN SHOP",
+        "quantity": 3.5,
+        "net_price": 145.0
+      },
+      {
+        "description": "CONSUMABLES, ENV.DISP, MILEAGE (IF APPL,)",
+        "quantity": 1.0,
+        "net_price": 43.1375
+      },
+      {
+        "description": "HYD OIL",
+        "quantity": 2.0,
+        "net_price": 8.67
+      },
+      {
+        "description": "SEAL KIT",
+        "quantity": 1.0,
+        "net_price": 506.25
+      },
+      {
+        "description": "MACHING: CLEAN UP THREADS ON GLAND AND TUBE",
+        "quantity": 1.0,
+        "net_price": 506.25
+      }
+    ]
+  }
+}

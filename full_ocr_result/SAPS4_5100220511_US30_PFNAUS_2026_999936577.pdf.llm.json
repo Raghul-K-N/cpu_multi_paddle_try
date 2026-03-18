@@ -1,0 +1,47 @@
+{
+  "invoice_data": {
+    "invoice_number": "XA909186301",
+    "invoice_date": "7/30/2025",
+    "invoice_amount": "-192.29",
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": "0.00",
+    "po_number": [
+      "23352036"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": "192.29",
+    "cost_center": null,
+    "vendor_name": "Bruckner Truck Sales - Denver/Commerce City (F706)",
+    "vendor_address": "7626 Brighton Road, Commerce City, CO 80022, 377-577-8263",
+    "po_line_items": null,
+    "vat_amount": null,
+    "gl_account": null,
+    "bank_name": null,
+    "account_holder_name": null,
+    "banking_account_number": null,
+    "remit_to_address": null,
+    "bill_to_address": null,
+    "transaction_type": "credit"
+  },
+  "filename": "SAPS4_5100220511_US30_PFNAUS_2026_999936577.pdf",
+  "raw_response": {
+    "invoice_number": "XA909186301",
+    "invoice_date": "7/30/2025",
+    "invoice_amount": "-192.29",
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": "0.00",
+    "po_number": [
+      "23352036"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": "192.29",
+    "cost_center": null,
+    "vendor_name": "Bruckner Truck Sales - Denver/Commerce City (F706)",
+    "vendor_address": "7626 Brighton Road, Commerce City, CO 80022, 377-577-8263",
+    "po_line_items": null
+  }
+}

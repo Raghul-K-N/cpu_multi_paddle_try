@@ -1,0 +1,79 @@
+{
+  "invoice_data": {
+    "invoice_number": "13000851212",
+    "invoice_date": "January 31, 2026",
+    "invoice_amount": "2746.02",
+    "invoice_currency": [
+      "CAD"
+    ],
+    "tax_amount": "130.76",
+    "po_number": [
+      "4505132643"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "Tyco Integrated Fire & Security Canada, Inc.",
+    "vendor_address": "747 Chester Rd., Delta, BC V3M 6E7 CA, PO BOX 46123, STN A, Toronto, Ontario M5W 4K9",
+    "po_line_items": [
+      {
+        "description": "CCTV - Point Activated Alarm Verification",
+        "quantity": null,
+        "net_price": 1441.92
+      },
+      {
+        "description": "Commercial - Sprinkler Riser Premium",
+        "quantity": null,
+        "net_price": 8437.56
+      },
+      {
+        "description": "DSC GSM Active Communication Backup",
+        "quantity": null,
+        "net_price": 581.64
+      }
+    ],
+    "vat_amount": null,
+    "gl_account": null,
+    "bank_name": null,
+    "account_holder_name": null,
+    "banking_account_number": null,
+    "remit_to_address": null,
+    "bill_to_address": null,
+    "transaction_type": "debit"
+  },
+  "filename": "SAPS4_5101033011_CA02_PBNACA_2026_328615308.pdf",
+  "raw_response": {
+    "invoice_number": "13000851212",
+    "invoice_date": "January 31, 2026",
+    "invoice_amount": "2746.02",
+    "invoice_currency": [
+      "CAD"
+    ],
+    "tax_amount": "130.76",
+    "po_number": [
+      "4505132643"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "Tyco Integrated Fire & Security Canada, Inc.",
+    "vendor_address": "747 Chester Rd., Delta, BC V3M 6E7 CA, PO BOX 46123, STN A, Toronto, Ontario M5W 4K9",
+    "po_line_items": [
+      {
+        "description": "CCTV - Point Activated Alarm Verification",
+        "quantity": null,
+        "net_price": 1441.92
+      },
+      {
+        "description": "Commercial - Sprinkler Riser Premium",
+        "quantity": null,
+        "net_price": 8437.56
+      },
+      {
+        "description": "DSC GSM Active Communication Backup",
+        "quantity": null,
+        "net_price": 581.64
+      }
+    ]
+  }
+}

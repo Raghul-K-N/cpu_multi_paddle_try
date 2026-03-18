@@ -1,0 +1,59 @@
+{
+  "invoice_data": {
+    "invoice_number": "MD73-01106611",
+    "invoice_date": "02/12/26",
+    "invoice_amount": "206.10",
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": null,
+    "po_number": [
+      "4505181944"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "REMIT MOTION INDUSTRIES, INC.",
+    "vendor_address": "MiMOTION, 8415-250 KELSO DR, BALTIMORE, MD 21221, PH 4106872700, FAX 4106875147",
+    "po_line_items": [
+      {
+        "description": "UEFT205-16 1 2-BOLT FLG OTHER BALL BRG.MTD.UNITS",
+        "quantity": 6.0,
+        "net_price": 34.35
+      }
+    ],
+    "vat_amount": null,
+    "gl_account": null,
+    "bank_name": null,
+    "account_holder_name": null,
+    "banking_account_number": null,
+    "remit_to_address": null,
+    "bill_to_address": null,
+    "transaction_type": "debit"
+  },
+  "filename": "SAPS4_5100212542_US28_PFNAUS_2026_999934821.pdf",
+  "raw_response": {
+    "invoice_number": "MD73-01106611",
+    "invoice_date": "02/12/26",
+    "invoice_amount": "206.10",
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": null,
+    "po_number": [
+      "4505181944"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "REMIT MOTION INDUSTRIES, INC.",
+    "vendor_address": "MiMOTION, 8415-250 KELSO DR, BALTIMORE, MD 21221, PH 4106872700, FAX 4106875147",
+    "po_line_items": [
+      {
+        "description": "UEFT205-16 1 2-BOLT FLG OTHER BALL BRG.MTD.UNITS",
+        "quantity": 6.0,
+        "net_price": 34.35
+      }
+    ]
+  }
+}

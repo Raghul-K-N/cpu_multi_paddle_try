@@ -1,0 +1,47 @@
+{
+  "invoice_data": {
+    "invoice_number": "5103701481",
+    "invoice_date": "01/17/2026",
+    "invoice_amount": null,
+    "invoice_currency": [
+      "CAD"
+    ],
+    "tax_amount": null,
+    "po_number": [
+      "4505056045"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "CHEP",
+    "vendor_address": "PO BOX 4267 STN A, Toronto, ON M5W 5T9, 747 Chester Road, Delta BC V3M 6E7",
+    "po_line_items": null,
+    "vat_amount": null,
+    "gl_account": null,
+    "bank_name": null,
+    "account_holder_name": null,
+    "banking_account_number": null,
+    "remit_to_address": null,
+    "bill_to_address": null,
+    "transaction_type": "debit"
+  },
+  "filename": "SAPS4_5100139023_CA02_PBNACA_2026_328586834.pdf",
+  "raw_response": {
+    "invoice_number": "5103701481",
+    "invoice_date": "01/17/2026",
+    "invoice_amount": null,
+    "invoice_currency": [
+      "CAD"
+    ],
+    "tax_amount": null,
+    "po_number": [
+      "4505056045"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "CHEP",
+    "vendor_address": "PO BOX 4267 STN A, Toronto, ON M5W 5T9, 747 Chester Road, Delta BC V3M 6E7",
+    "po_line_items": null
+  }
+}

@@ -1,0 +1,59 @@
+{
+  "invoice_data": {
+    "invoice_number": "JC130366",
+    "invoice_date": "2/10/26",
+    "invoice_amount": "58.29",
+    "invoice_currency": [
+      "CAD"
+    ],
+    "tax_amount": "2.78",
+    "po_number": [
+      "M413536674"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "BORNE INDUSTRIES LTD.",
+    "vendor_address": "2 - 655 30 ST NORTH, LETHBRIDGEAB T1H 5G5",
+    "po_line_items": [
+      {
+        "description": "SUPPLY 1\" x 1\" x 3/16\" STAINLESS STEEL ANGLE",
+        "quantity": null,
+        "net_price": null
+      }
+    ],
+    "vat_amount": null,
+    "gl_account": null,
+    "bank_name": null,
+    "account_holder_name": null,
+    "banking_account_number": null,
+    "remit_to_address": null,
+    "bill_to_address": null,
+    "transaction_type": "debit"
+  },
+  "filename": "SAPS4_5101597500_CA11_PFNACA_2026_304654741.pdf",
+  "raw_response": {
+    "invoice_number": "JC130366",
+    "invoice_date": "2/10/26",
+    "invoice_amount": "58.29",
+    "invoice_currency": [
+      "CAD"
+    ],
+    "tax_amount": "2.78",
+    "po_number": [
+      "M413536674"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "BORNE INDUSTRIES LTD.",
+    "vendor_address": "2 - 655 30 ST NORTH, LETHBRIDGEAB T1H 5G5",
+    "po_line_items": [
+      {
+        "description": "SUPPLY 1\" x 1\" x 3/16\" STAINLESS STEEL ANGLE",
+        "quantity": null,
+        "net_price": null
+      }
+    ]
+  }
+}

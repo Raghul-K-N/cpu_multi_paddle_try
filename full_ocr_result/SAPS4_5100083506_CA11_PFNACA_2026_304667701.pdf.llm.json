@@ -1,0 +1,59 @@
+{
+  "invoice_data": {
+    "invoice_number": "INV004695",
+    "invoice_date": "11 Dec 2025",
+    "invoice_amount": null,
+    "invoice_currency": [
+      "CAD"
+    ],
+    "tax_amount": "845.00",
+    "po_number": [
+      "4504371907"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "Angus Reid Group Inc.",
+    "vendor_address": "14 - 6th Ave E, Vancouver, BC, V5T 1J4, Canada",
+    "po_line_items": [
+      {
+        "description": "Pepsi - Innovation Tracker Nov 2025 wave",
+        "quantity": 1.0,
+        "net_price": 6500.0
+      }
+    ],
+    "vat_amount": null,
+    "gl_account": null,
+    "bank_name": null,
+    "account_holder_name": null,
+    "banking_account_number": null,
+    "remit_to_address": null,
+    "bill_to_address": null,
+    "transaction_type": "debit"
+  },
+  "filename": "SAPS4_5100083506_CA11_PFNACA_2026_304667701.pdf",
+  "raw_response": {
+    "invoice_number": "INV004695",
+    "invoice_date": "11 Dec 2025",
+    "invoice_amount": "../../../../7345.00",
+    "invoice_currency": [
+      "CAD"
+    ],
+    "tax_amount": "845.00",
+    "po_number": [
+      "4504371907"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "Angus Reid Group Inc.",
+    "vendor_address": "14 - 6th Ave E, Vancouver, BC, V5T 1J4, Canada",
+    "po_line_items": [
+      {
+        "description": "Pepsi - Innovation Tracker Nov 2025 wave",
+        "quantity": 1.0,
+        "net_price": 6500.0
+      }
+    ]
+  }
+}

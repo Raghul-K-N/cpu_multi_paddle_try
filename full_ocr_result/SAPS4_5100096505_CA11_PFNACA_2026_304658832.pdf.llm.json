@@ -1,0 +1,47 @@
+{
+  "invoice_data": {
+    "invoice_number": "79883515",
+    "invoice_date": "31-Jan-2026",
+    "invoice_amount": "98.09",
+    "invoice_currency": [
+      "CAD"
+    ],
+    "tax_amount": "11.29",
+    "po_number": [
+      "4504466704"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "Air Liquide",
+    "vendor_address": "1700 STEELES AVE E, BRAMPTON, ON L6T 1A6",
+    "po_line_items": null,
+    "vat_amount": null,
+    "gl_account": null,
+    "bank_name": null,
+    "account_holder_name": null,
+    "banking_account_number": null,
+    "remit_to_address": null,
+    "bill_to_address": null,
+    "transaction_type": "debit"
+  },
+  "filename": "SAPS4_5100096505_CA11_PFNACA_2026_304658832.pdf",
+  "raw_response": {
+    "invoice_number": "79883515",
+    "invoice_date": "31-Jan-2026",
+    "invoice_amount": "98.09",
+    "invoice_currency": [
+      "CAD"
+    ],
+    "tax_amount": "11.29",
+    "po_number": [
+      "4504466704"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "Air Liquide",
+    "vendor_address": "1700 STEELES AVE E, BRAMPTON, ON L6T 1A6",
+    "po_line_items": null
+  }
+}

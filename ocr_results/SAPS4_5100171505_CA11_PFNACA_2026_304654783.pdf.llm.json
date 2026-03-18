@@ -1,0 +1,109 @@
+{
+  "invoice_data": {
+    "invoice_number": "6302145051",
+    "invoice_date": "02/06/2026",
+    "invoice_amount": "42.00",
+    "invoice_currency": [
+      "CAD"
+    ],
+    "tax_amount": null,
+    "po_number": [
+      "M412759939"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "Canadian Linen and Uniform Service Corp.",
+    "vendor_address": "1818 Third Av S, Lethbridge, AB T1J 0L5",
+    "po_line_items": [
+      {
+        "description": "Emblem Charges",
+        "quantity": 1.0,
+        "net_price": 1.5
+      },
+      {
+        "description": "Emblem Charges",
+        "quantity": 1.0,
+        "net_price": 0.95
+      },
+      {
+        "description": "Coverall-Actn Back-En Vis Ysy",
+        "quantity": 7.0,
+        "net_price": 5.39
+      },
+      {
+        "description": "Prep Charges",
+        "quantity": 1.0,
+        "net_price": 0.0
+      },
+      {
+        "description": "Soil Bin/Locker",
+        "quantity": 4.0,
+        "net_price": 0.0
+      },
+      {
+        "description": "Green Pp/Pe Route Bag W 3 Clip",
+        "quantity": 2.0,
+        "net_price": 2.0
+      }
+    ],
+    "vat_amount": null,
+    "gl_account": null,
+    "bank_name": null,
+    "account_holder_name": null,
+    "banking_account_number": null,
+    "remit_to_address": null,
+    "bill_to_address": null,
+    "transaction_type": "debit"
+  },
+  "filename": "SAPS4_5100171505_CA11_PFNACA_2026_304654783.pdf",
+  "raw_response": {
+    "invoice_number": "6302145051",
+    "invoice_date": "02/06/2026",
+    "invoice_amount": "42.00",
+    "invoice_currency": [
+      "CAD"
+    ],
+    "tax_amount": null,
+    "po_number": [
+      "M412759939"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "Canadian Linen and Uniform Service Corp.",
+    "vendor_address": "1818 Third Av S, Lethbridge, AB T1J 0L5",
+    "po_line_items": [
+      {
+        "description": "Emblem Charges",
+        "quantity": 1.0,
+        "net_price": 1.5
+      },
+      {
+        "description": "Emblem Charges",
+        "quantity": 1.0,
+        "net_price": 0.95
+      },
+      {
+        "description": "Coverall-Actn Back-En Vis Ysy",
+        "quantity": 7.0,
+        "net_price": 5.39
+      },
+      {
+        "description": "Prep Charges",
+        "quantity": 1.0,
+        "net_price": 0.0
+      },
+      {
+        "description": "Soil Bin/Locker",
+        "quantity": 4.0,
+        "net_price": 0.0
+      },
+      {
+        "description": "Green Pp/Pe Route Bag W 3 Clip",
+        "quantity": 2.0,
+        "net_price": 2.0
+      }
+    ]
+  }
+}

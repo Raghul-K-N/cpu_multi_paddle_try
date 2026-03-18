@@ -1,0 +1,43 @@
+{
+  "invoice_data": {
+    "invoice_number": "85386",
+    "invoice_date": "02/01/2026",
+    "invoice_amount": null,
+    "invoice_currency": null,
+    "tax_amount": null,
+    "po_number": [
+      "M410843801"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "ServiceMaster Contract Services",
+    "vendor_address": "1135 Clyde Court, Unit 1+2, Kingston, Ontario K7P 2E4",
+    "po_line_items": null,
+    "vat_amount": null,
+    "gl_account": null,
+    "bank_name": null,
+    "account_holder_name": null,
+    "banking_account_number": null,
+    "remit_to_address": null,
+    "bill_to_address": null,
+    "transaction_type": "debit"
+  },
+  "filename": "SAPS4_5101450500_CA02_PBNACA_2026_328638299.pdf",
+  "raw_response": {
+    "invoice_number": "85386",
+    "invoice_date": "02/01/2026",
+    "invoice_amount": null,
+    "invoice_currency": null,
+    "tax_amount": null,
+    "po_number": [
+      "M410843801"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "ServiceMaster Contract Services",
+    "vendor_address": "1135 Clyde Court, Unit 1+2, Kingston, Ontario K7P 2E4",
+    "po_line_items": null
+  }
+}

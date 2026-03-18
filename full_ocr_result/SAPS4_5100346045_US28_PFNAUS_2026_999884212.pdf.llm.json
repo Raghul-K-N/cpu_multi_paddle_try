@@ -1,0 +1,89 @@
+{
+  "invoice_data": {
+    "invoice_number": "GA29-00920324",
+    "invoice_date": "12/18/25",
+    "invoice_amount": "175.00",
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": null,
+    "po_number": [
+      "4504558920"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "REMIT MOTION INDUSTRIES, INC.",
+    "vendor_address": "MOTION, 2499 INDUSTRIAL PARK DR., MACON, GA 31216, PH 4787840500, FAX 4787881500",
+    "po_line_items": [
+      {
+        "description": "KQ2L13-35AS 1/4NPT X 40910 MALE ELBOW CPNO: 10010302 FITTINGS",
+        "quantity": 30.0,
+        "net_price": 67.5
+      },
+      {
+        "description": "KQ2L09-34AS 1/8NPT X 41045 MALE ELBOW IND HOSE ENDS",
+        "quantity": 10.0,
+        "net_price": 14.9
+      },
+      {
+        "description": "KQ2L09-34AS 1/8NPT X 41045 MALE ELBOW IND HOSE ENDS",
+        "quantity": 40.0,
+        "net_price": 59.6
+      },
+      {
+        "description": "KQ2L03-32N FITTING PNEUMATIC PARTS",
+        "quantity": 30.0,
+        "net_price": 33.0
+      }
+    ],
+    "vat_amount": null,
+    "gl_account": null,
+    "bank_name": null,
+    "account_holder_name": null,
+    "banking_account_number": null,
+    "remit_to_address": null,
+    "bill_to_address": null,
+    "transaction_type": "debit"
+  },
+  "filename": "SAPS4_5100346045_US28_PFNAUS_2026_999884212.pdf",
+  "raw_response": {
+    "invoice_number": "GA29-00920324",
+    "invoice_date": "12/18/25",
+    "invoice_amount": "175.00",
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": null,
+    "po_number": [
+      "4504558920"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "REMIT MOTION INDUSTRIES, INC.",
+    "vendor_address": "MOTION, 2499 INDUSTRIAL PARK DR., MACON, GA 31216, PH 4787840500, FAX 4787881500",
+    "po_line_items": [
+      {
+        "description": "KQ2L13-35AS 1/4NPT X 40910 MALE ELBOW CPNO: 10010302 FITTINGS",
+        "quantity": 30.0,
+        "net_price": 67.5
+      },
+      {
+        "description": "KQ2L09-34AS 1/8NPT X 41045 MALE ELBOW IND HOSE ENDS",
+        "quantity": 10.0,
+        "net_price": 14.9
+      },
+      {
+        "description": "KQ2L09-34AS 1/8NPT X 41045 MALE ELBOW IND HOSE ENDS",
+        "quantity": 40.0,
+        "net_price": 59.6
+      },
+      {
+        "description": "KQ2L03-32N FITTING PNEUMATIC PARTS",
+        "quantity": 30.0,
+        "net_price": 33.0
+      }
+    ]
+  }
+}

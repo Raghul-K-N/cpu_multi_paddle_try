@@ -1,0 +1,55 @@
+{
+  "invoice_data": {
+    "invoice_number": "M413522967",
+    "invoice_date": "2026 January 1.",
+    "invoice_amount": null,
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": null,
+    "po_number": null,
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "RecycleSmart Solutions, Inc.",
+    "vendor_address": "310-10851 Shellbridge Way, Richmond, BC V6X 2W8, 1.888.892.1796, billingcanada@rts.com",
+    "po_line_items": [
+      {
+        "description": "CS005445 - PepsiCo Laval",
+        "quantity": 1.0,
+        "net_price": 5034.73
+      }
+    ],
+    "vat_amount": null,
+    "gl_account": null,
+    "bank_name": null,
+    "account_holder_name": null,
+    "banking_account_number": null,
+    "remit_to_address": null,
+    "bill_to_address": null,
+    "transaction_type": "debit"
+  },
+  "filename": "SAPS4_5100069508_CA11_PFNACA_2026_304667651.pdf",
+  "raw_response": {
+    "invoice_number": "M413522967",
+    "invoice_date": "2026 January 1.",
+    "invoice_amount": null,
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": null,
+    "po_number": null,
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "RecycleSmart Solutions, Inc.",
+    "vendor_address": "310-10851 Shellbridge Way, Richmond, BC V6X 2W8, 1.888.892.1796, billingcanada@rts.com",
+    "po_line_items": [
+      {
+        "description": "CS005445 - PepsiCo Laval",
+        "quantity": 1.0,
+        "net_price": 5034.73
+      }
+    ]
+  }
+}

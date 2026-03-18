@@ -1,0 +1,69 @@
+{
+  "invoice_data": {
+    "invoice_number": "Y610955380:01",
+    "invoice_date": "01/16/2026",
+    "invoice_amount": "2,157.77",
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": "164.45",
+    "po_number": [
+      "23556595"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "TAG Truck Group",
+    "vendor_address": "4430 AMERICAN WAY , MEMPHIS, TN 38118",
+    "po_line_items": [
+      {
+        "description": "EXCHANGE EXHAUST SYSTE",
+        "quantity": 1.0,
+        "net_price": 1814.96
+      },
+      {
+        "description": "EXCHANGE EXHAUST SYSTE",
+        "quantity": 1.0,
+        "net_price": 178.36
+      }
+    ],
+    "vat_amount": null,
+    "gl_account": null,
+    "bank_name": null,
+    "account_holder_name": null,
+    "banking_account_number": null,
+    "remit_to_address": null,
+    "bill_to_address": null,
+    "transaction_type": "debit"
+  },
+  "filename": "SAPS4_5100130556_US29_PFNAUS_2026_999936497.pdf",
+  "raw_response": {
+    "invoice_number": "Y610955380:01",
+    "invoice_date": "01/16/2026",
+    "invoice_amount": "2,157.77",
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": "164.45",
+    "po_number": [
+      "23556595"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "TAG Truck Group",
+    "vendor_address": "4430 AMERICAN WAY , MEMPHIS, TN 38118",
+    "po_line_items": [
+      {
+        "description": "EXCHANGE EXHAUST SYSTE",
+        "quantity": 1.0,
+        "net_price": 1814.96
+      },
+      {
+        "description": "EXCHANGE EXHAUST SYSTE",
+        "quantity": 1.0,
+        "net_price": 178.36
+      }
+    ]
+  }
+}

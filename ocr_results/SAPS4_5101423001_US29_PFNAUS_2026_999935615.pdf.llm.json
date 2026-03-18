@@ -1,0 +1,55 @@
+{
+  "invoice_data": {
+    "invoice_number": "291136",
+    "invoice_date": "1/25/2026",
+    "invoice_amount": null,
+    "invoice_currency": null,
+    "tax_amount": null,
+    "po_number": [
+      "4505049666"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "Essjay Tech Properties, LLC",
+    "vendor_address": "4110 40th Street South, Suite 104, Fargo, ND 58104",
+    "po_line_items": [
+      {
+        "description": "Tenant called 12/02/2025 regarding no heat in entire building Scheduled and coordinated vendor to investigate and repair. Found bad thermostat for office and conf replaced with new. Also found that 2 thermostats in warehouse were not working and one wired incorrectly into floor. replaced with T10 stats and room sensors and removed stat to floor that was inaccurate. Ordered parts and scheduled vendor R&M of fuse replacements. All parts, labor and tax included. all zones operating normally.",
+        "quantity": 1.0,
+        "net_price": 1258.1
+      }
+    ],
+    "vat_amount": null,
+    "gl_account": null,
+    "bank_name": null,
+    "account_holder_name": null,
+    "banking_account_number": null,
+    "remit_to_address": null,
+    "bill_to_address": null,
+    "transaction_type": "debit"
+  },
+  "filename": "SAPS4_5101423001_US29_PFNAUS_2026_999935615.pdf",
+  "raw_response": {
+    "invoice_number": "291136",
+    "invoice_date": "1/25/2026",
+    "invoice_amount": null,
+    "invoice_currency": null,
+    "tax_amount": null,
+    "po_number": [
+      "4505049666"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "Essjay Tech Properties, LLC",
+    "vendor_address": "4110 40th Street South, Suite 104, Fargo, ND 58104",
+    "po_line_items": [
+      {
+        "description": "Tenant called 12/02/2025 regarding no heat in entire building Scheduled and coordinated vendor to investigate and repair. Found bad thermostat for office and conf replaced with new. Also found that 2 thermostats in warehouse were not working and one wired incorrectly into floor. replaced with T10 stats and room sensors and removed stat to floor that was inaccurate. Ordered parts and scheduled vendor R&M of fuse replacements. All parts, labor and tax included. all zones operating normally.",
+        "quantity": 1.0,
+        "net_price": 1258.1
+      }
+    ]
+  }
+}

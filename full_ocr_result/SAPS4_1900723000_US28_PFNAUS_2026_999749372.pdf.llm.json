@@ -1,0 +1,67 @@
+{
+  "invoice_data": {
+    "invoice_number": "6215",
+    "invoice_date": "20.01.2026",
+    "invoice_amount": "500.00",
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": "0.00",
+    "po_number": [
+      "4504106231"
+    ],
+    "gl_account_number": [
+      "2A44100200"
+    ],
+    "freight_and_handling_charges": "500.00",
+    "cost_center": [
+      "4FUSL00000"
+    ],
+    "vendor_name": "MAARGEL PARTNERS LLC",
+    "vendor_address": "3309 E. MIRALOMA AVE STE 105, ANAHEIM CA 92806, USA",
+    "po_line_items": [
+      {
+        "description": "FREIGHT",
+        "quantity": 1.0,
+        "net_price": 500.0
+      }
+    ],
+    "vat_amount": null,
+    "gl_account": null,
+    "bank_name": null,
+    "account_holder_name": null,
+    "banking_account_number": null,
+    "remit_to_address": null,
+    "bill_to_address": null,
+    "transaction_type": "debit"
+  },
+  "filename": "SAPS4_1900723000_US28_PFNAUS_2026_999749372.pdf",
+  "raw_response": {
+    "invoice_number": "6215",
+    "invoice_date": "20.01.2026",
+    "invoice_amount": "500.00",
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": "0.00",
+    "po_number": [
+      "4504106231"
+    ],
+    "gl_account_number": [
+      "2A44100200"
+    ],
+    "freight_and_handling_charges": "500.00",
+    "cost_center": [
+      "4FUSL00000"
+    ],
+    "vendor_name": "MAARGEL PARTNERS LLC",
+    "vendor_address": "3309 E. MIRALOMA AVE STE 105, ANAHEIM CA 92806, USA",
+    "po_line_items": [
+      {
+        "description": "FREIGHT",
+        "quantity": 1.0,
+        "net_price": 500.0
+      }
+    ]
+  }
+}

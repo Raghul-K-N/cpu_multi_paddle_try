@@ -1,0 +1,89 @@
+{
+  "invoice_data": {
+    "invoice_number": "9004230288",
+    "invoice_date": "02/10/2026",
+    "invoice_amount": "1430.00",
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": "0.00",
+    "po_number": [
+      "4505156015"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": "200.00",
+    "cost_center": null,
+    "vendor_name": "Protopak Innovations",
+    "vendor_address": "53 Queen's Plate Dr, Etobicoke ON M9W 6P1, Canada",
+    "po_line_items": [
+      {
+        "description": "File Processing & Printing of 4CT Doritos NC Sweet & Tangy MP for Kroger; 2 files, print, trim, mount, die cut x 1 pcs.",
+        "quantity": null,
+        "net_price": null
+      },
+      {
+        "description": "Die Creation",
+        "quantity": null,
+        "net_price": null
+      },
+      {
+        "description": "Delivery Charges",
+        "quantity": null,
+        "net_price": null
+      },
+      {
+        "description": "25-4762 4CT DORITOS NC SWEET & TANGY MP",
+        "quantity": 1.0,
+        "net_price": 1430.0
+      }
+    ],
+    "vat_amount": null,
+    "gl_account": null,
+    "bank_name": null,
+    "account_holder_name": null,
+    "banking_account_number": null,
+    "remit_to_address": null,
+    "bill_to_address": null,
+    "transaction_type": "debit"
+  },
+  "filename": "SAPS4_5100225501_US27_PFNAUS_2026_999884129.pdf",
+  "raw_response": {
+    "invoice_number": "9004230288",
+    "invoice_date": "02/10/2026",
+    "invoice_amount": "1430.00",
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": "0.00",
+    "po_number": [
+      "4505156015"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": "200.00",
+    "cost_center": null,
+    "vendor_name": "Protopak Innovations",
+    "vendor_address": "53 Queen's Plate Dr, Etobicoke ON M9W 6P1, Canada",
+    "po_line_items": [
+      {
+        "description": "File Processing & Printing of 4CT Doritos NC Sweet & Tangy MP for Kroger; 2 files, print, trim, mount, die cut x 1 pcs.",
+        "quantity": null,
+        "net_price": null
+      },
+      {
+        "description": "Die Creation",
+        "quantity": null,
+        "net_price": null
+      },
+      {
+        "description": "Delivery Charges",
+        "quantity": null,
+        "net_price": null
+      },
+      {
+        "description": "25-4762 4CT DORITOS NC SWEET & TANGY MP",
+        "quantity": 1.0,
+        "net_price": 1430.0
+      }
+    ]
+  }
+}

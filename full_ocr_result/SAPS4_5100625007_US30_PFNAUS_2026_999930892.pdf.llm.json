@@ -1,0 +1,69 @@
+{
+  "invoice_data": {
+    "invoice_number": "M00509471",
+    "invoice_date": "1/31/2026",
+    "invoice_amount": "648.60",
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": "43.60",
+    "po_number": [
+      "M413123380"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "MILESTONE EQUIPMENT COMPANY LLC",
+    "vendor_address": "PO Box 205589, Dallas, TX 75320-5589, United States",
+    "po_line_items": [
+      {
+        "description": "53' Dry Van 2008 & Older- Monthly Rate",
+        "quantity": 1.0,
+        "net_price": 125.0
+      },
+      {
+        "description": "53' Dry Van 2009-2013- Monthly Rate",
+        "quantity": 2.0,
+        "net_price": 240.0
+      }
+    ],
+    "vat_amount": null,
+    "gl_account": null,
+    "bank_name": null,
+    "account_holder_name": null,
+    "banking_account_number": null,
+    "remit_to_address": null,
+    "bill_to_address": null,
+    "transaction_type": "debit"
+  },
+  "filename": "SAPS4_5100625007_US30_PFNAUS_2026_999930892.pdf",
+  "raw_response": {
+    "invoice_number": "M00509471",
+    "invoice_date": "1/31/2026",
+    "invoice_amount": "648.60",
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": "43.60",
+    "po_number": [
+      "M413123380"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "MILESTONE EQUIPMENT COMPANY LLC",
+    "vendor_address": "PO Box 205589, Dallas, TX 75320-5589, United States",
+    "po_line_items": [
+      {
+        "description": "53' Dry Van 2008 & Older- Monthly Rate",
+        "quantity": 1.0,
+        "net_price": 125.0
+      },
+      {
+        "description": "53' Dry Van 2009-2013- Monthly Rate",
+        "quantity": 2.0,
+        "net_price": 240.0
+      }
+    ]
+  }
+}

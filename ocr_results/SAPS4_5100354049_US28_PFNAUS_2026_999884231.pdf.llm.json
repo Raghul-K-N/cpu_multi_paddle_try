@@ -1,0 +1,47 @@
+{
+  "invoice_data": {
+    "invoice_number": "1160601477",
+    "invoice_date": "02/04/2026",
+    "invoice_amount": null,
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": null,
+    "po_number": [
+      "4502905713"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "Coperion Process Solutions LLC",
+    "vendor_address": "PO BOX 19750, Palatine, IL 60055-9750, 7901 NW 107th Terrace, Kansas City, MO 64153",
+    "po_line_items": null,
+    "vat_amount": null,
+    "gl_account": null,
+    "bank_name": null,
+    "account_holder_name": null,
+    "banking_account_number": null,
+    "remit_to_address": null,
+    "bill_to_address": null,
+    "transaction_type": "debit"
+  },
+  "filename": "SAPS4_5100354049_US28_PFNAUS_2026_999884231.pdf",
+  "raw_response": {
+    "invoice_number": "1160601477",
+    "invoice_date": "02/04/2026",
+    "invoice_amount": null,
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": null,
+    "po_number": [
+      "4502905713"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "Coperion Process Solutions LLC",
+    "vendor_address": "PO BOX 19750, Palatine, IL 60055-9750, 7901 NW 107th Terrace, Kansas City, MO 64153",
+    "po_line_items": null
+  }
+}

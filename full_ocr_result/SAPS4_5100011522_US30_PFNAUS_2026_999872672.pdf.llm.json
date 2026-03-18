@@ -1,0 +1,59 @@
+{
+  "invoice_data": {
+    "invoice_number": "PHXN19617",
+    "invoice_date": "02/06/2026",
+    "invoice_amount": "145.00",
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": null,
+    "po_number": [
+      "M413096467"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "FL Transportation Inc",
+    "vendor_address": "ACCOUNTS PAYABLE, 7701 LEGACY DR, PLANO , TX , 75024 , USA",
+    "po_line_items": [
+      {
+        "description": "Service call to 660 S 83rd Ave, Tolleson, AZ 85353 for FMCSA inspection",
+        "quantity": 1.0,
+        "net_price": 145.0
+      }
+    ],
+    "vat_amount": null,
+    "gl_account": null,
+    "bank_name": null,
+    "account_holder_name": null,
+    "banking_account_number": null,
+    "remit_to_address": null,
+    "bill_to_address": null,
+    "transaction_type": "debit"
+  },
+  "filename": "SAPS4_5100011522_US30_PFNAUS_2026_999872672.pdf",
+  "raw_response": {
+    "invoice_number": "PHXN19617",
+    "invoice_date": "02/06/2026",
+    "invoice_amount": "145.00",
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": null,
+    "po_number": [
+      "M413096467"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "FL Transportation Inc",
+    "vendor_address": "ACCOUNTS PAYABLE, 7701 LEGACY DR, PLANO , TX , 75024 , USA",
+    "po_line_items": [
+      {
+        "description": "Service call to 660 S 83rd Ave, Tolleson, AZ 85353 for FMCSA inspection",
+        "quantity": 1.0,
+        "net_price": 145.0
+      }
+    ]
+  }
+}

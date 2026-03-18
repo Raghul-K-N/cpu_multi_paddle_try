@@ -1,0 +1,59 @@
+{
+  "invoice_data": {
+    "invoice_number": "TX59-01118912",
+    "invoice_date": "02/12/26",
+    "invoice_amount": "48.11",
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": "3.67",
+    "po_number": [
+      "4505159592"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": "8.2500",
+    "cost_center": null,
+    "vendor_name": "REMIT MOTION INDUSTRIES, INC.",
+    "vendor_address": "4810 N SAM HOUSTON PKWY W, HOUSTON, TX 77086, PH 7139560150, FAX 7133451110",
+    "po_line_items": [
+      {
+        "description": "3VX670 SUPER HC V BELT",
+        "quantity": 4.0,
+        "net_price": 11.11
+      }
+    ],
+    "vat_amount": null,
+    "gl_account": null,
+    "bank_name": null,
+    "account_holder_name": null,
+    "banking_account_number": null,
+    "remit_to_address": null,
+    "bill_to_address": null,
+    "transaction_type": "debit"
+  },
+  "filename": "SAPS4_5100000032_US28_PFNAUS_2026_999884205.pdf",
+  "raw_response": {
+    "invoice_number": "TX59-01118912",
+    "invoice_date": "02/12/26",
+    "invoice_amount": "48.11",
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": "3.67",
+    "po_number": [
+      "4505159592"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": "8.2500",
+    "cost_center": null,
+    "vendor_name": "REMIT MOTION INDUSTRIES, INC.",
+    "vendor_address": "4810 N SAM HOUSTON PKWY W, HOUSTON, TX 77086, PH 7139560150, FAX 7133451110",
+    "po_line_items": [
+      {
+        "description": "3VX670 SUPER HC V BELT",
+        "quantity": 4.0,
+        "net_price": 11.11
+      }
+    ]
+  }
+}

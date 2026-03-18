@@ -1,0 +1,318 @@
+==================================<Page 1 - START>================================
+Standard Invoice
+Original tax invoice has been submitted electronically. This is a
+human readable representation (copy) of the original tax invoice.
+                                                                  Invoice Number                                          708973
+                                                                  (Supplier Reference No.)
+                                                                  Invoice Date                   Thursday 12 Feb 2026 12:00 PM GMT-06:00
+                                                                 Amount Due                                      $13,595.81 USD
+    Contact Information
+                                                                           Shipping Information
+    Supplier
+                                  Customer
+                                                                           Ship From                     Ship To
+    Urschel Laboratories, Inc.
+                                  Frito-Lay, Inc.
+                                                                           Urschel Laboratories. Inc.           US-PL-WOOSTER-OH-FLI
+    1200 Cutting Edge Drive           c/o PEPSICO NASS
+                                                                           1200 Cutting Edge Drive            Meghan.Kandel@pepsico.com
+    Chesterton                     ACCOUNTS PAYABLES
+                                                                           Chesterton                     US-PL-WOOSTER-OH-FLI
+     IN                           PO BOX 1800
+                                                                           IN                           1626 OLD MANSFIELD RD
+     46304                        Winston Salem
+                                                                           46304                        WOOSTER
+     United States                   NC
+                                                                           United States                   OH
+                                  27105
+                                                                                                        44691-7211
+                                  United States
+                                                                                                        United States
+                                  Address ID: US28
+                                                                                                        Address ID: 2108
+                                                                                                        Phone: 2621070
+   Line Items                                               PO No. : M413551795
+                                                                                                               PO Date : 11 Feb 2026
+   Line No.   PO Line No.          Type    Supplier Part No. /             Customer Part No.                                          Subtotal
+                                                                                       Quantity            Unit Price
+                                        Description
+                                                                                       (UOM)
+   1         1                 Material 25834 / KNIFE, SLICING, FLAT,                         30 / (EA)         $147.00 USD    $4,410.00 USD
+                                        DB, 301 SS.PKG 160
+                                                                                                   Line Item Total : $4.410.00 USD
+   Line No.
+             PO Line No.          Type    Supplier Part No. /             Customer Part No.        Quantity            Unit Price        Subtotal
+                                        Description                                       (UOM)
+   2        2                 Material  34308 / CAM, SLICE                                                 $91.00 USD    $9,100.00 USD
+                                                                                       100 / (EA)
+                                        ADJUSTMENT, LEVER, DYN1
+                                                                                                   Line Item Total : $9,100.00 USD
+                                                                              Amount Summary
+                                                                               Line item subtotal                        $13,510.00 USD
+                                                                               Shipping charges                           $85.81 USD
+                                                                                                                   $13,595.81 USD
+                                                                               Gross amount
+                                                                                                                   $13,595.81 USD
+                                                                               Net amount
+                                                                                                                       $0.00 USD
+                                                                               Total tax amount
+                                                                               Total withholding tax amount
+                                                                                                                    $13,595.81 USD
+                                                                               Amount Due
+     Additional Information
+     Payment Method
+     Check
+     Billing Information                                                         Remittance Information
+    Bill From                      Bill To                                    Remit To
+                                 Frito-Lay, Inc.                               A/R
+    Urschel Laboratories, Inc.
+                                 c/o PEPSICO NASS                          PO BOX 856299
+    1200 Cutting Edge Drive
+                                 ACCOUNTS PAYABLES                       MINNEAPOLIS
+    Chesterton
+    IN
+                                 PO BOX 1800                               MN
+    46304                                                                 55485-6299
+                                 Winston Salem
+    United States                                                            United States
+                                 NC
+                                                                          Address ID: US1_11004
+                                 27105
+                                 United States
+                                 Address ID: US28
+Payment Terms
+  Net payment Terms (Days) :
+  30
+==================================<Page 1 - END>================================
+==================================<Page 2 - START>================================
+Appendix
+Line No.
+            PO Line No. Type                            Supplier Part No. / Description
+1          1
+                       Material                          25834 / KNIFE, SLICING, FLAT, DB, 301 SS,PKG 160
+Additional Details:
+Classification Domain : custom
+Classification Code : MRO757027
+Supplier Part ID : 25834
+Line No.
+            PO Line No. Type                            Supplier Part No. / Description
+2          2
+                        Material                          34308 / CAM, SLICE ADJUSTMENT, LEVER, DYN1
+Additional Details:
+Classification Domain : custom
+Classification Code : MRO757027
+Supplier Part ID : 34308
+PDF generated on Friday 13 Feb 2026 8:39 AM GMT-08:00
+==================================<Page 2 - END>================================
+==================================<Page 3 - START>================================
+  Standard Invoice
+  Original tax invoice has been submitted electronically. This is a
+  human readable representation (copy) of the original tax invoice.
+                                                                    Invoice Number                                          708973
+                                                                    (Supplier Reference No.)
+                                                                    Invoice Date                   Thursday 12 Feb 2026 12:00 PM GMT-06:00
+                                                                    Amount Due                                      $13,595.81 USD
+      Contact Information
+                                                                             Shipping Information
+      Supplier
+                                    Customer
+                                                                             Ship From                     Ship To
+      Urschel Laboratories, Inc.
+                                    Frito-Lay, Inc.
+                                                                             Urschel Laboratories. Inc.           US-PL-WOOSTER-OH-FLI
+       1200 Cutting Edge Drive           c/o PEPSICO NASS
+                                                                             1200 Cutting Edge Drive            Meghan.Kandel@pepsico.com
+       Chesterton                     ACCOUNTS PAYABLES
+                                                                             Chesterton                     US-PL-WOOSTER-OH-FLI
+       IN                           PO BOX 1800
+                                                                             IN                           1626 OLD MANSFIELD RD
+       46304                        Winston Salem
+                                                                             46304                        WOOSTER
+       United States                   NC
+                                                                             United States                   OH
+                                    27105
+                                                                                                          44691-7211
+                                    United States
+                                                                                                          United States
+                                    Address ID: US28
+                                                                                                          Address ID: 2108
+                                                                                                          Phone: 2621070
+     Line Items                                               PO No. : M413551795
+                                                                                                                 PO Date : 11 Feb 2026
+     Line No.   PO Line No.          Type    Supplier Part No. /             Customer Part No.                                          Subtotal
+                                                                                         Quantity            Unit Price
+                                          Description
+                                                                                         (UOM)
+     1         1                 Material 25834 / KNIFE, SLICING, FLAT,                         30 / (EA)         $147.00 USD    $4,410.00 USD
+                                          DB, 301 SS.PKG 160
+                                                                                                     Line Item Total : $4.410.00 USD
+     Line No.
+               PO Line No.          Type    Supplier Part No. /             Customer Part No.        Quantity            Unit Price        Subtotal
+                                          Description                                       (UOM)
+     2        2                 Material  34308 / CAM, SLICE                                                 $91.00 USD    $9,100.00 USD
+                                                                                         100 / (EA)
+                                          ADJUSTMENT, LEVER, DYN1
+                                                                                                     Line Item Total : $9,100.00 USD
+                                                                                Amount Summary
+                                                                                 Line item subtotal                        $13,510.00 USD
+                                                                                 Shipping charges                           $85.81 USD
+                                                                                                                      $13,595.81 USD
+                                                                                 Gross amount
+                                                                                                                      $13,595.81 USD
+                                                                                 Net amount
+                                                                                                                          $0.00 USD
+                                                                                 Total tax amount
+                                                                                 Total withholding tax amount
+                                                                                                                      $13,595.81 USD
+                                                                                 Amount Due
+       Additional Information
+       Payment Method
+       Check
+       Billing Information                                                         Remittance Information
+      Bill From                      Bill To                                    Remit To
+                                   Frito-Lay, Inc.                               A/R
+       Urschel Laboratories, Inc.
+                                   c/o PEPSICO NASS                          PO BOX 856299
+      1200 Cutting Edge Drive
+                                    ACCOUNTS PAYABLES                       MINNEAPOLIS
+       Chesterton
+      IN
+                                   PO BOX 1800                               MN
+      46304                                                                 55485-6299
+                                   Winston Salem
+      United States                                                            United States
+                                   NC
+                                                                             Address ID: US1_11004
+                                   27105
+                                   United States
+                                   Address ID: US28
+   Payment Terms
+    Net payment Terms (Days) :
+    30
+==================================<Page 3 - END>================================
+==================================<Page 4 - START>================================
+Appendix
+Line No.
+            PO Line No. Type                            Supplier Part No. / Description
+1          1
+                       Material                          25834 / KNIFE, SLICING, FLAT, DB, 301 SS,PKG 160
+Additional Details:
+Classification Domain : custom
+Classification Code : MRO757027
+Supplier Part ID : 25834
+Line No.
+            PO Line No. Type                            Supplier Part No. / Description
+2          2
+                        Material                          34308 / CAM, SLICE ADJUSTMENT, LEVER, DYN1
+Additional Details:
+Classification Domain : custom
+Classification Code : MRO757027
+Supplier Part ID : 34308
+PDF generated on Friday 13 Feb 2026 8:39 AM GMT-08:00
+==================================<Page 4 - END>================================
+==================================<Page 5 - START>================================
+  Standard Invoice
+  Original tax invoice has been submitted electronically. This is a
+  human readable representation (copy) of the original tax invoice.
+                                                                    Invoice Number                                          708973
+                                                                    (Supplier Reference No.)
+                                                                    Invoice Date                   Thursday 12 Feb 2026 12:00 PM GMT-06:00
+                                                                    Amount Due                                      $13,595.81 USD
+      Contact Information
+                                                                             Shipping Information
+      Supplier
+                                    Customer
+                                                                             Ship From                     Ship To
+      Urschel Laboratories, Inc.
+                                    Frito-Lay, Inc.
+                                                                             Urschel Laboratories. Inc.           US-PL-WOOSTER-OH-FLI
+       1200 Cutting Edge Drive           c/o PEPSICO NASS
+                                                                             1200 Cutting Edge Drive            Meghan.Kandel@pepsico.com
+       Chesterton                     ACCOUNTS PAYABLES
+                                                                             Chesterton                     US-PL-WOOSTER-OH-FLI
+       IN                           PO BOX 1800
+                                                                             IN                           1626 OLD MANSFIELD RD
+       46304                        Winston Salem
+                                                                             46304                        WOOSTER
+       United States                   NC
+                                                                             United States                   OH
+                                    27105
+                                                                                                          44691-7211
+                                    United States
+                                                                                                          United States
+                                    Address ID: US28
+                                                                                                          Address ID: 2108
+                                                                                                          Phone: 2621070
+     Line Items                                               PO No. : M413551795
+                                                                                                                 PO Date : 11 Feb 2026
+     Line No.   PO Line No.          Type    Supplier Part No. /             Customer Part No.                                          Subtotal
+                                                                                         Quantity            Unit Price
+                                          Description
+                                                                                         (UOM)
+     1         1                 Material 25834 / KNIFE, SLICING, FLAT,                         30 / (EA)         $147.00 USD    $4,410.00 USD
+                                          DB, 301 SS.PKG 160
+                                                                                                     Line Item Total : $4.410.00 USD
+     Line No.
+               PO Line No.          Type    Supplier Part No. /             Customer Part No.        Quantity            Unit Price        Subtotal
+                                          Description                                       (UOM)
+     2        2                 Material  34308 / CAM, SLICE                                                 $91.00 USD    $9,100.00 USD
+                                                                                         100 / (EA)
+                                          ADJUSTMENT, LEVER, DYN1
+                                                                                                     Line Item Total : $9,100.00 USD
+                                                                                Amount Summary
+                                                                                 Line item subtotal                        $13,510.00 USD
+                                                                                 Shipping charges                           $85.81 USD
+                                                                                                                      $13,595.81 USD
+                                                                                 Gross amount
+                                                                                                                      $13,595.81 USD
+                                                                                 Net amount
+                                                                                                                          $0.00 USD
+                                                                                 Total tax amount
+                                                                                 Total withholding tax amount
+                                                                                                                      $13,595.81 USD
+                                                                                 Amount Due
+       Additional Information
+       Payment Method
+       Check
+       Billing Information                                                         Remittance Information
+      Bill From                      Bill To                                    Remit To
+                                   Frito-Lay, Inc.                               A/R
+       Urschel Laboratories, Inc.
+                                   c/o PEPSICO NASS                          PO BOX 856299
+      1200 Cutting Edge Drive
+                                    ACCOUNTS PAYABLES                       MINNEAPOLIS
+       Chesterton
+      IN
+                                   PO BOX 1800                               MN
+      46304                                                                 55485-6299
+                                   Winston Salem
+      United States                                                            United States
+                                   NC
+                                                                             Address ID: US1_11004
+                                   27105
+                                   United States
+                                   Address ID: US28
+   Payment Terms
+    Net payment Terms (Days) :
+    30
+==================================<Page 5 - END>================================
+==================================<Page 6 - START>================================
+Appendix
+Line No.
+            PO Line No. Type                            Supplier Part No. / Description
+1          1
+                       Material                          25834 / KNIFE, SLICING, FLAT, DB, 301 SS,PKG 160
+Additional Details:
+Classification Domain : custom
+Classification Code : MRO757027
+Supplier Part ID : 25834
+Line No.
+            PO Line No. Type                            Supplier Part No. / Description
+2          2
+                        Material                          34308 / CAM, SLICE ADJUSTMENT, LEVER, DYN1
+Additional Details:
+Classification Domain : custom
+Classification Code : MRO757027
+Supplier Part ID : 34308
+PDF generated on Friday 13 Feb 2026 8:39 AM GMT-08:00
+==================================<Page 6 - END>================================

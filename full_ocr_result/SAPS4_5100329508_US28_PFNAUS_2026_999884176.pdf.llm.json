@@ -1,0 +1,79 @@
+{
+  "invoice_data": {
+    "invoice_number": "6380349731",
+    "invoice_date": "02/11/2026",
+    "invoice_amount": "8.18",
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": "0.47",
+    "po_number": [
+      "M412731634"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": "0.00",
+    "cost_center": null,
+    "vendor_name": "VESTIS",
+    "vendor_address": "1127 EAST HAVENS AVENUE, MITCHELL SD 57301",
+    "po_line_items": [
+      {
+        "description": "DM0001DKGY MAT NYLON/RUBBER",
+        "quantity": 3.0,
+        "net_price": 2.077
+      },
+      {
+        "description": "DM0001DKGY MAT NYLON/RUBBER",
+        "quantity": 2.0,
+        "net_price": 0.742
+      },
+      {
+        "description": "DM0025BLAK SCRAPER MAT",
+        "quantity": null,
+        "net_price": null
+      }
+    ],
+    "vat_amount": null,
+    "gl_account": null,
+    "bank_name": null,
+    "account_holder_name": null,
+    "banking_account_number": null,
+    "remit_to_address": null,
+    "bill_to_address": null,
+    "transaction_type": "debit"
+  },
+  "filename": "SAPS4_5100329508_US28_PFNAUS_2026_999884176.pdf",
+  "raw_response": {
+    "invoice_number": "6380349731",
+    "invoice_date": "02/11/2026",
+    "invoice_amount": "8.18",
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": "0.47",
+    "po_number": [
+      "M412731634"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": "0.00",
+    "cost_center": null,
+    "vendor_name": "VESTIS",
+    "vendor_address": "1127 EAST HAVENS AVENUE, MITCHELL SD 57301",
+    "po_line_items": [
+      {
+        "description": "DM0001DKGY MAT NYLON/RUBBER",
+        "quantity": 3.0,
+        "net_price": 2.077
+      },
+      {
+        "description": "DM0001DKGY MAT NYLON/RUBBER",
+        "quantity": 2.0,
+        "net_price": 0.742
+      },
+      {
+        "description": "DM0025BLAK SCRAPER MAT",
+        "quantity": null,
+        "net_price": null
+      }
+    ]
+  }
+}

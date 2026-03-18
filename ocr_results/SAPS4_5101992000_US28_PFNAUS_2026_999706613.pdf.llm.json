@@ -1,0 +1,109 @@
+{
+  "invoice_data": {
+    "invoice_number": "980319153626",
+    "invoice_date": "Tuesday 10 Feb 2026 3:28 AM GMT-07:00",
+    "invoice_amount": "226.46",
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": "12.81",
+    "po_number": [
+      "M413549320"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "GRAINGER",
+    "vendor_address": "100 Grainger Pkwy, Lake Forest, IL, United States\nWinst, United States\nPhone: (410) 273-0822",
+    "po_line_items": [
+      {
+        "description": "793EN8 / Red Buffer Solution,pH 4.00.4L.Plastic",
+        "quantity": 1.0,
+        "net_price": 25.65
+      },
+      {
+        "description": "793EP1 / Yellow Buffer Solution,pH 7.00,4L,Plastc",
+        "quantity": 1.0,
+        "net_price": 33.22
+      },
+      {
+        "description": "45TW63 / Cleaning Vinegar,1 gal,Jug,PK4",
+        "quantity": 1.0,
+        "net_price": 14.5
+      },
+      {
+        "description": "41H893 / Germicidal Bleach,Unscented,121 oz,PK3",
+        "quantity": 2.0,
+        "net_price": 26.83
+      },
+      {
+        "description": "793EP6 / Blue Buffer Solution,pH 10.00.4L.Plastic",
+        "quantity": 1.0,
+        "net_price": 33.22
+      },
+      {
+        "description": "33GY87 / VF,Cut Res Gloves,Gry,11,24L257,PR",
+        "quantity": 12.0,
+        "net_price": 4.45
+      }
+    ],
+    "vat_amount": null,
+    "gl_account": null,
+    "bank_name": null,
+    "account_holder_name": null,
+    "banking_account_number": null,
+    "remit_to_address": null,
+    "bill_to_address": null,
+    "transaction_type": "debit"
+  },
+  "filename": "SAPS4_5101992000_US28_PFNAUS_2026_999706613.pdf",
+  "raw_response": {
+    "invoice_number": "980319153626",
+    "invoice_date": "Tuesday 10 Feb 2026 3:28 AM GMT-07:00",
+    "invoice_amount": "226.46",
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": "12.81",
+    "po_number": [
+      "M413549320"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "GRAINGER",
+    "vendor_address": "100 Grainger Pkwy, Lake Forest, IL, United States\nWinst, United States\nPhone: (410) 273-0822",
+    "po_line_items": [
+      {
+        "description": "793EN8 / Red Buffer Solution,pH 4.00.4L.Plastic",
+        "quantity": 1.0,
+        "net_price": 25.65
+      },
+      {
+        "description": "793EP1 / Yellow Buffer Solution,pH 7.00,4L,Plastc",
+        "quantity": 1.0,
+        "net_price": 33.22
+      },
+      {
+        "description": "45TW63 / Cleaning Vinegar,1 gal,Jug,PK4",
+        "quantity": 1.0,
+        "net_price": 14.5
+      },
+      {
+        "description": "41H893 / Germicidal Bleach,Unscented,121 oz,PK3",
+        "quantity": 2.0,
+        "net_price": 26.83
+      },
+      {
+        "description": "793EP6 / Blue Buffer Solution,pH 10.00.4L.Plastic",
+        "quantity": 1.0,
+        "net_price": 33.22
+      },
+      {
+        "description": "33GY87 / VF,Cut Res Gloves,Gry,11,24L257,PR",
+        "quantity": 12.0,
+        "net_price": 4.45
+      }
+    ]
+  }
+}

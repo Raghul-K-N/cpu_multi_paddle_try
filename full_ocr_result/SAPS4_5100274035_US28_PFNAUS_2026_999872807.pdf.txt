@@ -1,0 +1,486 @@
+==================================<Page 1 - START>================================
+Standard Invoice
+                                                                                                                    GRAINGR
+Original tax invoice has been submitted electronically. This is a
+human readable representation (copy) of the original tax invoice.
+                                                                                                                  980637604326
+                                                                 Invoice Number
+                                                                 (Supplier Reference No.)
+                                                                 Invoice Date                    Thursday 12 Feb 2026 5:20 AM GMT-07:00
+                                                                                                                   $518.59 USD
+                                                                 Amount Due
+    Contact Information                                                       Shipping Information
+    Supplier
+                                 Customer                                  Ship From                      Ship To
+    Grainger                      Frito-Lay Inc.                                                            US-PL-CANTON-OH-FLI
+                                                                          Grainger
+                                                                                                       DUNCAN MCDONALD
+     100 Grainger Pkwy               c/o PEPSICO NASS                          701 GRAINGER WAY
+                                                                                                       4030 16TH ST SW
+     Lake Forest                    ACCOUNTS PAYABLES                       MINOOKA
+     IL                                                                                                CANTON
+                                 PO BOX 1800                               IL
+                                                                                                       OH
+     Winst                        Winston Salem                              60447
+                                                                                                       44710
+     United States                  NC                                      United States
+                                                                                                       United States
+                                 27105
+                                                                                                       Phone: (330) 477-3441
+                                  United States
+   Line Items                                              PO No. : M413555013                                      PO Date : 12 Feb 2026
+   Line No.                      Type   Supplier Part No. /             Customer Part No.        Quantity            Unit Price         Subtotal
+             PO Line No.
+                                       Description                                       (UOM)
+                                                                                      1 / (EA)           $89.42 USD      $89.42 USD
+   1        1                 Material  5EU27 /
+                                       ElectrcInslatedGloves,Sz7,Rd,Rubber.PR
+                                       Supplier Part No. /             Customer Part No.        Quantity            Unit Price         Subtotal
+   Line No.    PO Line No.         Type
+                                       Description                                       (UOM)
+   2                          Material 5EU24 /                                         1 / (EA)           $89.42 USD      $89.42 USD
+             2
+                                       ElectrclnslatedGloves,Sz8,Rd,Rubber.PR
+                                                                                      Quantity            Unit Price
+   Line No.    PO Line No.         Type   Supplier Part No. /             Customer Part No.                                           Subtotal
+                                       Description                                       (UOM)
+                               Material 4JD54 /                                         1 / (EA)           $75.90 USD      $75.90 USD
+   3        4
+                                       ElectrcInslatedGloves,Sz9,Rd,Rubber.PR
+   Line No.    PO Line No.         Type   Supplier Part No. /             Customer Part No.        Quantity            Unit Price         Subtotal
+                                       Description                                       (UOM)
+                               Material 3NEA9 /                                         1 / (EA)           $89.42 USD      $89.42 USD
+   4        5
+                                       ElectrcInslatedGloves,Sz9-1/2,Rd,PR
+                               Type   Supplier Part No. /             Customer Part No.        Quantity            Unit Price         Subtotal
+   Line No.   PO Line No.
+                                      Description                                       (UOM)
+   5        6                 Material 4JD52 /                                          1 / (EA)           $75.90 USD      $75.90 USD
+                                      ElectrcInslatedGloves,Sz10,Rd,Rubber,PR
+                               Type   Supplier Part No. /             Customer Part No.        Quantity            Unit Price         Subtotal
+   Line No.    PO Line No.
+                                      Description                                       (UOM)
+   6        7                 Material 4FPG7 l                                         1 / (EA)           $16.73 USD      $16.73 USD
+                                      ElectriclnsulatingGloveProtectors,Sz7.PR
+   Line No.    PO Line No.         Type   Supplier Part No. /             Customer Part No.        Quantity            Unit Price         Subtotal
+                                      Description
+                                                                                      (UOM)
+   7        8                 Material 5EU28 /                                         1 / (EA)           $16.73 USD      $16.73 USD
+                                      ElectricInsulatingGloveProtectors,Sz8,PR
+   Line No.    PO Line No.         Type   Supplier Part No. /             Customer Part No.        Quantity            Unit Price         Subtotal
+                                      Description
+                                                                                      (UOM)
+   8        9                 Material 4T491/                                                          $16.73 USD      $16.73 USD
+                                                                                      1 / (EA)
+                                      ElectricInsulatingGloveProtectors,Sz9.PR
+  Line No.   PO Line No.         Type   Supplier Part No. /             Customer Part No.        Quantity            Unit Price         Subtotal
+                                      Description                                       (UOM)
+            10                Material 4T557 /
+  9                                                                                 1 / (EA)          $16.73 USD      $16.73 USD
+                                      ElectricInsulatingGloveProtectrs,Sz10,PR
+                                                                             Amount Summary
+                                                                             Line item subtotal                          $486.98 USD
+                                                                             Gross amount                             $518.59 USD
+                                                                             Net amount                              $518.59 USD
+                                                                             Total tax amount                           $31.61 USD
+                                                                             Total withholding tax amount
+                                                                             Amount Due                              $518.59 USD
+    Additional Information
+    InvoiceSourceDocument
+    PurchaseOrder
+    InvoiceSubmissionMethod
+   cXML
+   Billing Information                                                        Remittance Information
+   Bill To                                                                Remit To
+                                                                         GRAINGER
+   Frito-Lay Inc.
+                                                                         DEPT. 822696084
+   c/o PEPSICO NASS
+                                                                         PALATINE
+   ACCOUNTS PAYABLES
+   PO BOX 1800                                                           IL
+   Winston Salem                                                          60038-0001
+   NC                                                                  United States
+   27105                                                                Address ID: US1_10359
+   United States
+                                                                        Tax ID of Supplier
+   Address ID: US28                                                        36-1150280
+                                                                     Reference Documents
+                                                                      Original Supplier Order #: 1576006368
+==================================<Page 1 - END>================================
+==================================<Page 2 - START>================================
+  Appendix
+  Line No.
+             PO Line No. Type                           Supplier Part No. / Description
+  1         1
+                        Material                         5EU27 / ElectrcInslatedGloves,Sz7,Rd,Rubber,PR
+  Additional Details:
+  Supplier Part ID : 5EU27
+  Line No.
+             PO Line No. Type                          Supplier Part No. / Description
+  2         2
+                        Material                        5EU24 / ElectrcInslatedGloves,Sz8,Rd,Rubber,PR
+  Additional Details:
+  Supplier Part ID : 5EU24
+  Line No.    PO Line No. Type                           Supplier Part No. / Description
+  3
+             4         Material                        4JD54 / ElectrcInslatedGloves,Sz9,Rd,Rubber,PR
+  Additional Details:
+  Supplier Part ID : 4JD54
+  Line No.
+             PO Line No. Type                           Supplier Part No. / Description
+ 4         5
+                        Material                         3NEA9 / ElectrcInslatedGloves,Sz9-1/2,Rd,PR
+  Additional Details:
+  Supplier Part ID : 3NEA9
+  Line No.    PO Line No. Type                           Supplier Part No. / Description
+  5
+            6         Material                         4JD52 / ElectrcInslatedGloves,Sz10,Rd,Rubber,PR
+ Additional Details:
+  Supplier Part ID : 4JD52
+ Line No.    PO Line No. Type                           Supplier Part No. / Description
+ 6         7         Material                         4FPG7 / ElectricInsulatingGloveProtectors,Sz7,PR
+ Additional Details:
+ Supplier Part ID : 4FPG7
+ Line No.    PO Line No. Type                           Supplier Part No. / Description
+7         8         Material                         5EU28 / ElectricInsulatingGloveProtectors,Sz8,PR
+Additional Details:
+ Supplier Part ID : 5EU28
+Line No.
+            PO Line No. Type                           Supplier Part No. / Description
+8                   Material
+            9                                        4T491 / ElectricInsulatingGloveProtectors,Sz9,PR
+Additional Details:
+Supplier Part ID : 4T491
+Line No.
+            PO Line No. Type                           Supplier Part No. / Description
+9
+           10        Material                         4T557 / ElectricInsulatingGloveProtectrs,Sz10,PR
+Additional Details:
+Supplier Part ID : 4T557
+PDF generated on Friday 13 Feb 2026 4:45 AM GMT-08:00
+==================================<Page 2 - END>================================
+==================================<Page 3 - START>================================
+Standard Invoice
+                                                                                                                     GRAINGR
+Original tax invoice has been submitted electronically. This is a
+human readable representation (copy) of the original tax invoice.
+                                                                                                                   980637604326
+                                                                 Invoice Number
+                                                                 (Supplier Reference No.)
+                                                                 Invoice Date                    Thursday 12 Feb 2026 5:20 AM GMT-07:00
+                                                                                                                    $518.59 USD
+                                                                 Amount Due
+     Contact Information                                                       Shipping Information
+     Supplier
+                                  Customer                                  Ship From                      Ship To
+     Grainger                      Frito-Lay Inc.                                                            US-PL-CANTON-OH-FLI
+                                                                           Grainger
+                                                                                                        DUNCAN MCDONALD
+     100 Grainger Pkwy               c/o PEPSICO NASS                          701 GRAINGER WAY
+                                                                                                        4030 16TH ST SW
+     Lake Forest                    ACCOUNTS PAYABLES                       MINOOKA
+     IL                                                                                                CANTON
+                                  PO BOX 1800                               IL
+                                                                                                        OH
+     Winst                        Winston Salem                              60447
+                                                                                                        44710
+      United States                  NC                                      United States
+                                                                                                        United States
+                                  27105
+                                                                                                        Phone: (330) 477-3441
+                                  United States
+   Line Items                                              PO No. : M413555013                                      PO Date : 12 Feb 2026
+   Line No.                      Type   Supplier Part No. /             Customer Part No.        Quantity            Unit Price         Subtotal
+             PO Line No.
+                                        Description                                       (UOM)
+                                                                                       1 / (EA)           $89.42 USD      $89.42 USD
+    1        1                 Material  5EU27 /
+                                       ElectrcInslatedGloves,Sz7,Rd,Rubber.PR
+                                       Supplier Part No. /             Customer Part No.        Quantity            Unit Price         Subtotal
+    Line No.    PO Line No.         Type
+                                       Description                                       (UOM)
+    2                          Material 5EU24 /                                         1 / (EA)           $89.42 USD      $89.42 USD
+              2
+                                       ElectrclnslatedGloves,Sz8,Rd,Rubber.PR
+                                                                                      Quantity            Unit Price
+    Line No.    PO Line No.         Type   Supplier Part No. /             Customer Part No.                                           Subtotal
+                                       Description                                       (UOM)
+                                Material 4JD54 /                                         1 / (EA)           $75.90 USD      $75.90 USD
+    3        4
+                                       ElectrcInslatedGloves,Sz9,Rd,Rubber.PR
+    Line No.    PO Line No.         Type   Supplier Part No. /             Customer Part No.        Quantity            Unit Price         Subtotal
+                                       Description                                       (UOM)
+                                Material 3NEA9 /                                         1 / (EA)           $89.42 USD      $89.42 USD
+    4        5
+                                       ElectrcInslatedGloves,Sz9-1/2,Rd,PR
+                                Type   Supplier Part No. /             Customer Part No.        Quantity            Unit Price         Subtotal
+    Line No.   PO Line No.
+                                       Description                                       (UOM)
+    5        6                 Material 4JD52 /                                          1 / (EA)           $75.90 USD      $75.90 USD
+                                       ElectrcInslatedGloves,Sz10,Rd,Rubber,PR
+                                Type   Supplier Part No. /             Customer Part No.        Quantity            Unit Price         Subtotal
+    Line No.    PO Line No.
+                                       Description                                       (UOM)
+    6        7                 Material 4FPG7 l                                         1 / (EA)           $16.73 USD      $16.73 USD
+                                       ElectriclnsulatingGloveProtectors,Sz7.PR
+   Line No.    PO Line No.         Type   Supplier Part No. /             Customer Part No.        Quantity            Unit Price         Subtotal
+                                       Description
+                                                                                      (UOM)
+   7        8                 Material 5EU28 /                                         1 / (EA)           $16.73 USD      $16.73 USD
+                                       ElectricInsulatingGloveProtectors,Sz8,PR
+   Line No.    PO Line No.         Type   Supplier Part No. /             Customer Part No.        Quantity            Unit Price         Subtotal
+                                       Description
+                                                                                      (UOM)
+   8        9                 Material 4T491/                                                          $16.73 USD      $16.73 USD
+                                                                                      1 / (EA)
+                                       ElectricInsulatingGloveProtectors,Sz9.PR
+   Line No.   PO Line No.         Type   Supplier Part No. /             Customer Part No.        Quantity            Unit Price         Subtotal
+                                       Description                                       (UOM)
+             10                Material 4T557 /
+   9                                                                                 1 / (EA)          $16.73 USD      $16.73 USD
+                                       ElectricInsulatingGloveProtectrs,Sz10,PR
+                                                                              Amount Summary
+                                                                              Line item subtotal                          $486.98 USD
+                                                                              Gross amount                             $518.59 USD
+                                                                              Net amount                              $518.59 USD
+                                                                              Total tax amount                           $31.61 USD
+                                                                              Total withholding tax amount
+                                                                              Amount Due                              $518.59 USD
+    Additional Information
+    InvoiceSourceDocument
+    PurchaseOrder
+    InvoiceSubmissionMethod
+    cXML
+    Billing Information                                                        Remittance Information
+    Bill To                                                                Remit To
+                                                                         GRAINGER
+    Frito-Lay Inc.
+                                                                         DEPT. 822696084
+    c/o PEPSICO NASS
+                                                                         PALATINE
+    ACCOUNTS PAYABLES
+    PO BOX 1800                                                           IL
+    Winston Salem                                                          60038-0001
+    NC                                                                  United States
+    27105                                                                Address ID: US1_10359
+    United States
+                                                                         Tax ID of Supplier
+    Address ID: US28                                                        36-1150280
+                                                                      Reference Documents
+                                                                      Original Supplier Order #: 1576006368
+==================================<Page 3 - END>================================
+==================================<Page 4 - START>================================
+  Appendix
+  Line No.
+             PO Line No. Type                           Supplier Part No. / Description
+  1         1
+                        Material                         5EU27 / ElectrcInslatedGloves,Sz7,Rd,Rubber,PR
+  Additional Details:
+  Supplier Part ID : 5EU27
+  Line No.
+             PO Line No. Type                          Supplier Part No. / Description
+  2         2
+                        Material                        5EU24 / ElectrcInslatedGloves,Sz8,Rd,Rubber,PR
+  Additional Details:
+  Supplier Part ID : 5EU24
+  Line No.    PO Line No. Type                           Supplier Part No. / Description
+  3
+             4         Material                        4JD54 / ElectrcInslatedGloves,Sz9,Rd,Rubber,PR
+  Additional Details:
+  Supplier Part ID : 4JD54
+  Line No.
+             PO Line No. Type                           Supplier Part No. / Description
+ 4         5
+                        Material                         3NEA9 / ElectrcInslatedGloves,Sz9-1/2,Rd,PR
+  Additional Details:
+  Supplier Part ID : 3NEA9
+  Line No.    PO Line No. Type                           Supplier Part No. / Description
+  5
+            6         Material                         4JD52 / ElectrcInslatedGloves,Sz10,Rd,Rubber,PR
+ Additional Details:
+  Supplier Part ID : 4JD52
+ Line No.    PO Line No. Type                           Supplier Part No. / Description
+ 6         7         Material                         4FPG7 / ElectricInsulatingGloveProtectors,Sz7,PR
+ Additional Details:
+ Supplier Part ID : 4FPG7
+ Line No.    PO Line No. Type                           Supplier Part No. / Description
+7         8         Material                         5EU28 / ElectricInsulatingGloveProtectors,Sz8,PR
+Additional Details:
+ Supplier Part ID : 5EU28
+Line No.
+            PO Line No. Type                           Supplier Part No. / Description
+8                   Material
+            9                                        4T491 / ElectricInsulatingGloveProtectors,Sz9,PR
+Additional Details:
+Supplier Part ID : 4T491
+Line No.
+            PO Line No. Type                           Supplier Part No. / Description
+9
+           10        Material                         4T557 / ElectricInsulatingGloveProtectrs,Sz10,PR
+Additional Details:
+Supplier Part ID : 4T557
+PDF generated on Friday 13 Feb 2026 4:45 AM GMT-08:00
+==================================<Page 4 - END>================================
+==================================<Page 5 - START>================================
+Standard Invoice
+                                                                                                                     GRAINGR
+Original tax invoice has been submitted electronically. This is a
+human readable representation (copy) of the original tax invoice.
+                                                                                                                   980637604326
+                                                                 Invoice Number
+                                                                 (Supplier Reference No.)
+                                                                 Invoice Date                    Thursday 12 Feb 2026 5:20 AM GMT-07:00
+                                                                                                                    $518.59 USD
+                                                                 Amount Due
+     Contact Information                                                       Shipping Information
+     Supplier
+                                  Customer                                  Ship From                      Ship To
+     Grainger                      Frito-Lay Inc.                                                            US-PL-CANTON-OH-FLI
+                                                                           Grainger
+                                                                                                        DUNCAN MCDONALD
+     100 Grainger Pkwy               c/o PEPSICO NASS                          701 GRAINGER WAY
+                                                                                                        4030 16TH ST SW
+     Lake Forest                    ACCOUNTS PAYABLES                       MINOOKA
+     IL                                                                                                CANTON
+                                  PO BOX 1800                               IL
+                                                                                                        OH
+     Winst                        Winston Salem                              60447
+                                                                                                        44710
+      United States                  NC                                      United States
+                                                                                                        United States
+                                  27105
+                                                                                                        Phone: (330) 477-3441
+                                  United States
+   Line Items                                              PO No. : M413555013                                      PO Date : 12 Feb 2026
+   Line No.                      Type   Supplier Part No. /             Customer Part No.        Quantity            Unit Price         Subtotal
+             PO Line No.
+                                        Description                                       (UOM)
+                                                                                       1 / (EA)           $89.42 USD      $89.42 USD
+    1        1                 Material  5EU27 /
+                                       ElectrcInslatedGloves,Sz7,Rd,Rubber.PR
+                                       Supplier Part No. /             Customer Part No.        Quantity            Unit Price         Subtotal
+    Line No.    PO Line No.         Type
+                                       Description                                       (UOM)
+    2                          Material 5EU24 /                                         1 / (EA)           $89.42 USD      $89.42 USD
+              2
+                                       ElectrclnslatedGloves,Sz8,Rd,Rubber.PR
+                                                                                      Quantity            Unit Price
+    Line No.    PO Line No.         Type   Supplier Part No. /             Customer Part No.                                           Subtotal
+                                       Description                                       (UOM)
+                                Material 4JD54 /                                         1 / (EA)           $75.90 USD      $75.90 USD
+    3        4
+                                       ElectrcInslatedGloves,Sz9,Rd,Rubber.PR
+    Line No.    PO Line No.         Type   Supplier Part No. /             Customer Part No.        Quantity            Unit Price         Subtotal
+                                       Description                                       (UOM)
+                                Material 3NEA9 /                                         1 / (EA)           $89.42 USD      $89.42 USD
+    4        5
+                                       ElectrcInslatedGloves,Sz9-1/2,Rd,PR
+                                Type   Supplier Part No. /             Customer Part No.        Quantity            Unit Price         Subtotal
+    Line No.   PO Line No.
+                                       Description                                       (UOM)
+    5        6                 Material 4JD52 /                                          1 / (EA)           $75.90 USD      $75.90 USD
+                                       ElectrcInslatedGloves,Sz10,Rd,Rubber,PR
+                                Type   Supplier Part No. /             Customer Part No.        Quantity            Unit Price         Subtotal
+    Line No.    PO Line No.
+                                       Description                                       (UOM)
+    6        7                 Material 4FPG7 l                                         1 / (EA)           $16.73 USD      $16.73 USD
+                                       ElectriclnsulatingGloveProtectors,Sz7.PR
+   Line No.    PO Line No.         Type   Supplier Part No. /             Customer Part No.        Quantity            Unit Price         Subtotal
+                                       Description
+                                                                                      (UOM)
+   7        8                 Material 5EU28 /                                         1 / (EA)           $16.73 USD      $16.73 USD
+                                       ElectricInsulatingGloveProtectors,Sz8,PR
+   Line No.    PO Line No.         Type   Supplier Part No. /             Customer Part No.        Quantity            Unit Price         Subtotal
+                                       Description
+                                                                                      (UOM)
+   8        9                 Material 4T491/                                                          $16.73 USD      $16.73 USD
+                                                                                      1 / (EA)
+                                       ElectricInsulatingGloveProtectors,Sz9.PR
+   Line No.   PO Line No.         Type   Supplier Part No. /             Customer Part No.        Quantity            Unit Price         Subtotal
+                                       Description                                       (UOM)
+             10                Material 4T557 /
+   9                                                                                 1 / (EA)          $16.73 USD      $16.73 USD
+                                       ElectricInsulatingGloveProtectrs,Sz10,PR
+                                                                              Amount Summary
+                                                                              Line item subtotal                          $486.98 USD
+                                                                              Gross amount                             $518.59 USD
+                                                                              Net amount                              $518.59 USD
+                                                                              Total tax amount                           $31.61 USD
+                                                                              Total withholding tax amount
+                                                                              Amount Due                              $518.59 USD
+    Additional Information
+    InvoiceSourceDocument
+    PurchaseOrder
+    InvoiceSubmissionMethod
+    cXML
+    Billing Information                                                        Remittance Information
+    Bill To                                                                Remit To
+                                                                         GRAINGER
+    Frito-Lay Inc.
+                                                                         DEPT. 822696084
+    c/o PEPSICO NASS
+                                                                         PALATINE
+    ACCOUNTS PAYABLES
+    PO BOX 1800                                                           IL
+    Winston Salem                                                          60038-0001
+    NC                                                                  United States
+    27105                                                                Address ID: US1_10359
+    United States
+                                                                         Tax ID of Supplier
+    Address ID: US28                                                        36-1150280
+                                                                      Reference Documents
+                                                                      Original Supplier Order #: 1576006368
+==================================<Page 5 - END>================================
+==================================<Page 6 - START>================================
+  Appendix
+  Line No.
+             PO Line No. Type                           Supplier Part No. / Description
+  1         1
+                        Material                         5EU27 / ElectrcInslatedGloves,Sz7,Rd,Rubber,PR
+  Additional Details:
+  Supplier Part ID : 5EU27
+  Line No.
+             PO Line No. Type                          Supplier Part No. / Description
+  2         2
+                        Material                        5EU24 / ElectrcInslatedGloves,Sz8,Rd,Rubber,PR
+  Additional Details:
+  Supplier Part ID : 5EU24
+  Line No.    PO Line No. Type                           Supplier Part No. / Description
+  3
+             4         Material                        4JD54 / ElectrcInslatedGloves,Sz9,Rd,Rubber,PR
+  Additional Details:
+  Supplier Part ID : 4JD54
+  Line No.
+             PO Line No. Type                           Supplier Part No. / Description
+ 4         5
+                        Material                         3NEA9 / ElectrcInslatedGloves,Sz9-1/2,Rd,PR
+  Additional Details:
+  Supplier Part ID : 3NEA9
+  Line No.    PO Line No. Type                           Supplier Part No. / Description
+  5
+            6         Material                         4JD52 / ElectrcInslatedGloves,Sz10,Rd,Rubber,PR
+ Additional Details:
+  Supplier Part ID : 4JD52
+ Line No.    PO Line No. Type                           Supplier Part No. / Description
+ 6         7         Material                         4FPG7 / ElectricInsulatingGloveProtectors,Sz7,PR
+ Additional Details:
+ Supplier Part ID : 4FPG7
+ Line No.    PO Line No. Type                           Supplier Part No. / Description
+7         8         Material                         5EU28 / ElectricInsulatingGloveProtectors,Sz8,PR
+Additional Details:
+ Supplier Part ID : 5EU28
+Line No.
+            PO Line No. Type                           Supplier Part No. / Description
+8                   Material
+            9                                        4T491 / ElectricInsulatingGloveProtectors,Sz9,PR
+Additional Details:
+Supplier Part ID : 4T491
+Line No.
+            PO Line No. Type                           Supplier Part No. / Description
+9
+           10        Material                         4T557 / ElectricInsulatingGloveProtectrs,Sz10,PR
+Additional Details:
+Supplier Part ID : 4T557
+PDF generated on Friday 13 Feb 2026 4:45 AM GMT-08:00
+==================================<Page 6 - END>================================

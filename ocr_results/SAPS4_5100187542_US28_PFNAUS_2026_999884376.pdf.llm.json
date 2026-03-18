@@ -1,0 +1,47 @@
+{
+  "invoice_data": {
+    "invoice_number": "1800590672",
+    "invoice_date": "02/10/2026",
+    "invoice_amount": "1,458.60",
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": null,
+    "po_number": [
+      "4505085686"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "Advanced Technology Services, Inc.",
+    "vendor_address": "8201 North University · Peoria, Illinois 61615, PO Box 10182, Peoria, IL 61612",
+    "po_line_items": null,
+    "vat_amount": null,
+    "gl_account": null,
+    "bank_name": null,
+    "account_holder_name": null,
+    "banking_account_number": null,
+    "remit_to_address": null,
+    "bill_to_address": null,
+    "transaction_type": "debit"
+  },
+  "filename": "SAPS4_5100187542_US28_PFNAUS_2026_999884376.pdf",
+  "raw_response": {
+    "invoice_number": "1800590672",
+    "invoice_date": "02/10/2026",
+    "invoice_amount": "1,458.60",
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": null,
+    "po_number": [
+      "4505085686"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "Advanced Technology Services, Inc.",
+    "vendor_address": "8201 North University · Peoria, Illinois 61615, PO Box 10182, Peoria, IL 61612",
+    "po_line_items": null
+  }
+}

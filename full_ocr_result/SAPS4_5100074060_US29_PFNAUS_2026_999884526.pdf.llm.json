@@ -1,0 +1,109 @@
+{
+  "invoice_data": {
+    "invoice_number": "6585647786",
+    "invoice_date": "12/17/2025",
+    "invoice_amount": "2158.44",
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": "155.56",
+    "po_number": [
+      "0058480"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "BRIDGESTONE RIDGESTONE AMERICAS TIRE OPERATIONS, LLC",
+    "vendor_address": "00 4TH AVENUE SOUTH, SUITE 100, NASHVILLE, TENNESSEE 37201, DALLAS, TX 75373-0026, USA",
+    "po_line_items": [
+      {
+        "description": "OTHER BRAND TIRES",
+        "quantity": 8.0,
+        "net_price": 168.86
+      },
+      {
+        "description": "MOUNT/DISMOUNT TIRE,LT",
+        "quantity": 8.0,
+        "net_price": 12.0
+      },
+      {
+        "description": "BALANCE TIRE, LIGHT TRUCK",
+        "quantity": 8.0,
+        "net_price": 15.0
+      },
+      {
+        "description": "FEE, TIRE DISPOSAL, LT",
+        "quantity": 8.0,
+        "net_price": 7.0
+      },
+      {
+        "description": "VALVE STEM, STEEL TL LT",
+        "quantity": 8.0,
+        "net_price": 5.5
+      },
+      {
+        "description": "REFINISH,R/W,SPEC PROCESS",
+        "quantity": 8.0,
+        "net_price": 41.5
+      }
+    ],
+    "vat_amount": null,
+    "gl_account": null,
+    "bank_name": null,
+    "account_holder_name": null,
+    "banking_account_number": null,
+    "remit_to_address": null,
+    "bill_to_address": null,
+    "transaction_type": "debit"
+  },
+  "filename": "SAPS4_5100074060_US29_PFNAUS_2026_999884526.pdf",
+  "raw_response": {
+    "invoice_number": "6585647786",
+    "invoice_date": "12/17/2025",
+    "invoice_amount": "2158.44",
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": "155.56",
+    "po_number": [
+      "0058480"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "BRIDGESTONE RIDGESTONE AMERICAS TIRE OPERATIONS, LLC",
+    "vendor_address": "00 4TH AVENUE SOUTH, SUITE 100, NASHVILLE, TENNESSEE 37201, DALLAS, TX 75373-0026, USA",
+    "po_line_items": [
+      {
+        "description": "OTHER BRAND TIRES",
+        "quantity": 8.0,
+        "net_price": 168.86
+      },
+      {
+        "description": "MOUNT/DISMOUNT TIRE,LT",
+        "quantity": 8.0,
+        "net_price": 12.0
+      },
+      {
+        "description": "BALANCE TIRE, LIGHT TRUCK",
+        "quantity": 8.0,
+        "net_price": 15.0
+      },
+      {
+        "description": "FEE, TIRE DISPOSAL, LT",
+        "quantity": 8.0,
+        "net_price": 7.0
+      },
+      {
+        "description": "VALVE STEM, STEEL TL LT",
+        "quantity": 8.0,
+        "net_price": 5.5
+      },
+      {
+        "description": "REFINISH,R/W,SPEC PROCESS",
+        "quantity": 8.0,
+        "net_price": 41.5
+      }
+    ]
+  }
+}

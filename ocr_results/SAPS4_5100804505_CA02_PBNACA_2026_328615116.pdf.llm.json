@@ -1,0 +1,43 @@
+{
+  "invoice_data": {
+    "invoice_number": "858526",
+    "invoice_date": "02/02/2026",
+    "invoice_amount": "18403",
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": null,
+    "po_number": null,
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "Armour Transport Inc.",
+    "vendor_address": "350 English Drive, Moncton, NB E1E 3Y§",
+    "po_line_items": null,
+    "vat_amount": null,
+    "gl_account": null,
+    "bank_name": null,
+    "account_holder_name": null,
+    "banking_account_number": null,
+    "remit_to_address": null,
+    "bill_to_address": null,
+    "transaction_type": "debit"
+  },
+  "filename": "SAPS4_5100804505_CA02_PBNACA_2026_328615116.pdf",
+  "raw_response": {
+    "invoice_number": "858526",
+    "invoice_date": "02/02/2026",
+    "invoice_amount": "18403",
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": null,
+    "po_number": null,
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "Armour Transport Inc.",
+    "vendor_address": "350 English Drive, Moncton, NB E1E 3Y§",
+    "po_line_items": null
+  }
+}

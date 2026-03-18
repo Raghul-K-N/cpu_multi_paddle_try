@@ -1,0 +1,69 @@
+{
+  "invoice_data": {
+    "invoice_number": "INV-01932",
+    "invoice_date": "02/06/2026",
+    "invoice_amount": "5281.30",
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": null,
+    "po_number": [
+      "4505007798"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": "75.00",
+    "cost_center": null,
+    "vendor_name": "Hitemp Materials Corp.",
+    "vendor_address": "320 S 66th Street, Houston TX 77011, United States",
+    "po_line_items": [
+      {
+        "description": "HiTef Food Grade T 7 Black, 43\"x348\"",
+        "quantity": 10.0,
+        "net_price": 520.63
+      },
+      {
+        "description": "Shipping",
+        "quantity": 1.0,
+        "net_price": 75.0
+      }
+    ],
+    "vat_amount": null,
+    "gl_account": null,
+    "bank_name": null,
+    "account_holder_name": null,
+    "banking_account_number": null,
+    "remit_to_address": null,
+    "bill_to_address": null,
+    "transaction_type": "debit"
+  },
+  "filename": "SAPS4_5101993500_US28_PFNAUS_2026_999762553.pdf",
+  "raw_response": {
+    "invoice_number": "INV-01932",
+    "invoice_date": "02/06/2026",
+    "invoice_amount": "5281.30",
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": null,
+    "po_number": [
+      "4505007798"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": "75.00",
+    "cost_center": null,
+    "vendor_name": "Hitemp Materials Corp.",
+    "vendor_address": "320 S 66th Street, Houston TX 77011, United States",
+    "po_line_items": [
+      {
+        "description": "HiTef Food Grade T 7 Black, 43\"x348\"",
+        "quantity": 10.0,
+        "net_price": 520.63
+      },
+      {
+        "description": "Shipping",
+        "quantity": 1.0,
+        "net_price": 75.0
+      }
+    ]
+  }
+}

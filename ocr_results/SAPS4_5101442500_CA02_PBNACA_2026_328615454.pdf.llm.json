@@ -1,0 +1,47 @@
+{
+  "invoice_data": {
+    "invoice_number": "20082414",
+    "invoice_date": "02/03/2026",
+    "invoice_amount": "415.80",
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": "19.80",
+    "po_number": [
+      "M412822442"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "Flint Energy Services Limited Partnership",
+    "vendor_address": "205-5th Avenue SW, Suite 3500, Bow Valley Square 2, Calgary AB T2P 2V7, CA - CANADA",
+    "po_line_items": null,
+    "vat_amount": null,
+    "gl_account": null,
+    "bank_name": null,
+    "account_holder_name": null,
+    "banking_account_number": null,
+    "remit_to_address": null,
+    "bill_to_address": null,
+    "transaction_type": "debit"
+  },
+  "filename": "SAPS4_5101442500_CA02_PBNACA_2026_328615454.pdf",
+  "raw_response": {
+    "invoice_number": "20082414",
+    "invoice_date": "02/03/2026",
+    "invoice_amount": "415.80",
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": "19.80",
+    "po_number": [
+      "M412822442"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "Flint Energy Services Limited Partnership",
+    "vendor_address": "205-5th Avenue SW, Suite 3500, Bow Valley Square 2, Calgary AB T2P 2V7, CA - CANADA",
+    "po_line_items": null
+  }
+}

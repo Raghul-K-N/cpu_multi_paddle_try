@@ -1,0 +1,99 @@
+{
+  "invoice_data": {
+    "invoice_number": "004678",
+    "invoice_date": "30-Dec-2025",
+    "invoice_amount": "10106.19",
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": "0.00",
+    "po_number": [
+      "4504367481"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "T-TEK MATERIAL HANDLING, LLC.",
+    "vendor_address": "1930 Hunter Loop Rd, Montgomery, AL, 36108",
+    "po_line_items": [
+      {
+        "description": "A3VT 1-1/8 X 2-1/2 X 1-1/4-B: PNEUMATIC CYLINDER (PAI DIVIDER)",
+        "quantity": 16.0,
+        "net_price": 435.0
+      },
+      {
+        "description": "05798: DIVIDER SHIFT BLOCK (PAI DIVIDER)",
+        "quantity": 8.0,
+        "net_price": 237.0
+      },
+      {
+        "description": "24039: DIVIDER SHIFT POINT (PAI DIVIDER)",
+        "quantity": 16.0,
+        "net_price": 65.0
+      },
+      {
+        "description": "1.00",
+        "quantity": 1.0,
+        "net_price": 210.19
+      },
+      {
+        "description": "Freight ShipVia FREIGHT",
+        "quantity": null,
+        "net_price": null
+      }
+    ],
+    "vat_amount": null,
+    "gl_account": null,
+    "bank_name": null,
+    "account_holder_name": null,
+    "banking_account_number": null,
+    "remit_to_address": null,
+    "bill_to_address": null,
+    "transaction_type": "debit"
+  },
+  "filename": "SAPS4_5100951006_CA02_PBNACA_2026_328615279.pdf",
+  "raw_response": {
+    "invoice_number": "004678",
+    "invoice_date": "30-Dec-2025",
+    "invoice_amount": "10106.19",
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": "0.00",
+    "po_number": [
+      "4504367481"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "T-TEK MATERIAL HANDLING, LLC.",
+    "vendor_address": "1930 Hunter Loop Rd, Montgomery, AL, 36108",
+    "po_line_items": [
+      {
+        "description": "A3VT 1-1/8 X 2-1/2 X 1-1/4-B: PNEUMATIC CYLINDER (PAI DIVIDER)",
+        "quantity": 16.0,
+        "net_price": 435.0
+      },
+      {
+        "description": "05798: DIVIDER SHIFT BLOCK (PAI DIVIDER)",
+        "quantity": 8.0,
+        "net_price": 237.0
+      },
+      {
+        "description": "24039: DIVIDER SHIFT POINT (PAI DIVIDER)",
+        "quantity": 16.0,
+        "net_price": 65.0
+      },
+      {
+        "description": "1.00",
+        "quantity": 1.0,
+        "net_price": 210.19
+      },
+      {
+        "description": "Freight ShipVia FREIGHT",
+        "quantity": null,
+        "net_price": null
+      }
+    ]
+  }
+}

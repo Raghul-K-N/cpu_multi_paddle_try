@@ -1,0 +1,59 @@
+{
+  "invoice_data": {
+    "invoice_number": "980590208826",
+    "invoice_date": "Thursday 12 Feb 2026 3:10 AM GMT-07:00",
+    "invoice_amount": "92.15",
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": "7.61",
+    "po_number": [
+      "M413554318"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "GRAINGER",
+    "vendor_address": "100 Grainger Pkwy, Lake Forest, IL, United States, 27105; 6725 S. TODD BLVD., TUKWILA, WA, 98188; UnitedStates, 99206",
+    "po_line_items": [
+      {
+        "description": "55ET61 / Tie Down Strap,E-Track,Yellow",
+        "quantity": 6.0,
+        "net_price": 14.09
+      }
+    ],
+    "vat_amount": null,
+    "gl_account": null,
+    "bank_name": null,
+    "account_holder_name": null,
+    "banking_account_number": null,
+    "remit_to_address": null,
+    "bill_to_address": null,
+    "transaction_type": "debit"
+  },
+  "filename": "SAPS4_5100072561_US29_PFNAUS_2026_999746353.pdf",
+  "raw_response": {
+    "invoice_number": "980590208826",
+    "invoice_date": "Thursday 12 Feb 2026 3:10 AM GMT-07:00",
+    "invoice_amount": "92.15",
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": "7.61",
+    "po_number": [
+      "M413554318"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "GRAINGER",
+    "vendor_address": "100 Grainger Pkwy, Lake Forest, IL, United States, 27105; 6725 S. TODD BLVD., TUKWILA, WA, 98188; UnitedStates, 99206",
+    "po_line_items": [
+      {
+        "description": "55ET61 / Tie Down Strap,E-Track,Yellow",
+        "quantity": 6.0,
+        "net_price": 14.09
+      }
+    ]
+  }
+}

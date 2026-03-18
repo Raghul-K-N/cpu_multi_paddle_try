@@ -1,0 +1,119 @@
+{
+  "invoice_data": {
+    "invoice_number": "6585589561",
+    "invoice_date": "12/16/2025",
+    "invoice_amount": "1666.55",
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": "133.83",
+    "po_number": [
+      "1220420"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "BRIDGESTONE",
+    "vendor_address": "00 4TH AVENUE SOUTH, SUITE 100, P.O. BOX 140990, NASHVILLE, TENNESSEE 37201, USA",
+    "po_line_items": [
+      {
+        "description": "VALVE STEM, STEEL TL LT",
+        "quantity": 8.0,
+        "net_price": 2.5
+      },
+      {
+        "description": "BILLING NOTE: LIGHT TRUCK DISPOSAL",
+        "quantity": 8.0,
+        "net_price": 6.5
+      },
+      {
+        "description": "MOUNT/DISMOUNT TIRE,LT",
+        "quantity": 8.0,
+        "net_price": 9.0
+      },
+      {
+        "description": "MISC TIRE RELATED PRODUCT",
+        "quantity": 8.0,
+        "net_price": 7.27
+      },
+      {
+        "description": "REFINISHING, RW",
+        "quantity": 8.0,
+        "net_price": 28.5
+      },
+      {
+        "description": "VALVE CAP, FLOW THRU",
+        "quantity": 8.0,
+        "net_price": 1.25
+      },
+      {
+        "description": "TRANS CV2 195/75R16C TLBLPS107RD",
+        "quantity": 13903.0,
+        "net_price": 134.82
+      }
+    ],
+    "vat_amount": null,
+    "gl_account": null,
+    "bank_name": null,
+    "account_holder_name": null,
+    "banking_account_number": null,
+    "remit_to_address": null,
+    "bill_to_address": null,
+    "transaction_type": "debit"
+  },
+  "filename": "SAPS4_5100042060_US29_PFNAUS_2026_999935225.pdf",
+  "raw_response": {
+    "invoice_number": "6585589561",
+    "invoice_date": "12/16/2025",
+    "invoice_amount": "1666.55",
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": "133.83",
+    "po_number": [
+      "1220420"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "BRIDGESTONE",
+    "vendor_address": "00 4TH AVENUE SOUTH, SUITE 100, P.O. BOX 140990, NASHVILLE, TENNESSEE 37201, USA",
+    "po_line_items": [
+      {
+        "description": "VALVE STEM, STEEL TL LT",
+        "quantity": 8.0,
+        "net_price": 2.5
+      },
+      {
+        "description": "BILLING NOTE: LIGHT TRUCK DISPOSAL",
+        "quantity": 8.0,
+        "net_price": 6.5
+      },
+      {
+        "description": "MOUNT/DISMOUNT TIRE,LT",
+        "quantity": 8.0,
+        "net_price": 9.0
+      },
+      {
+        "description": "MISC TIRE RELATED PRODUCT",
+        "quantity": 8.0,
+        "net_price": 7.27
+      },
+      {
+        "description": "REFINISHING, RW",
+        "quantity": 8.0,
+        "net_price": 28.5
+      },
+      {
+        "description": "VALVE CAP, FLOW THRU",
+        "quantity": 8.0,
+        "net_price": 1.25
+      },
+      {
+        "description": "TRANS CV2 195/75R16C TLBLPS107RD",
+        "quantity": 13903.0,
+        "net_price": 134.82
+      }
+    ]
+  }
+}

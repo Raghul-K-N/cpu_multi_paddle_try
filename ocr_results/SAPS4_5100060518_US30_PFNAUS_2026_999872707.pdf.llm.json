@@ -1,0 +1,129 @@
+{
+  "invoice_data": {
+    "invoice_number": "M00506312",
+    "invoice_date": "1/15/2026",
+    "invoice_amount": "555.00",
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": "0.00",
+    "po_number": [
+      "M413267654"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "MILESTONE EQUIPMENT COMPANY LLC",
+    "vendor_address": "PO Box 205589, Dallas, TX 75320-5589, United States",
+    "po_line_items": [
+      {
+        "description": "90 Day Bit Inspection performed by onsite vendor",
+        "quantity": null,
+        "net_price": null
+      },
+      {
+        "description": "FMCSA Inspection",
+        "quantity": null,
+        "net_price": null
+      },
+      {
+        "description": "Resecure LS Mudflap Bracket",
+        "quantity": null,
+        "net_price": null
+      },
+      {
+        "description": "Resecure Air Hoses",
+        "quantity": null,
+        "net_price": null
+      },
+      {
+        "description": "Resecure Under bogey airlines and install airline seperator",
+        "quantity": null,
+        "net_price": null
+      },
+      {
+        "description": "90 Day BIT Inspection",
+        "quantity": null,
+        "net_price": null
+      },
+      {
+        "description": "Resecure RS Mudflap",
+        "quantity": null,
+        "net_price": null
+      },
+      {
+        "description": "Toll: $12.98 Pioneer Parkway|10-Dec-2025 17:04:23",
+        "quantity": null,
+        "net_price": null
+      }
+    ],
+    "vat_amount": null,
+    "gl_account": null,
+    "bank_name": null,
+    "account_holder_name": null,
+    "banking_account_number": null,
+    "remit_to_address": null,
+    "bill_to_address": null,
+    "transaction_type": "debit"
+  },
+  "filename": "SAPS4_5100060518_US30_PFNAUS_2026_999872707.pdf",
+  "raw_response": {
+    "invoice_number": "M00506312",
+    "invoice_date": "1/15/2026",
+    "invoice_amount": "555.00",
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": "0.00",
+    "po_number": [
+      "M413267654"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "MILESTONE EQUIPMENT COMPANY LLC",
+    "vendor_address": "PO Box 205589, Dallas, TX 75320-5589, United States",
+    "po_line_items": [
+      {
+        "description": "90 Day Bit Inspection performed by onsite vendor",
+        "quantity": null,
+        "net_price": null
+      },
+      {
+        "description": "FMCSA Inspection",
+        "quantity": null,
+        "net_price": null
+      },
+      {
+        "description": "Resecure LS Mudflap Bracket",
+        "quantity": null,
+        "net_price": null
+      },
+      {
+        "description": "Resecure Air Hoses",
+        "quantity": null,
+        "net_price": null
+      },
+      {
+        "description": "Resecure Under bogey airlines and install airline seperator",
+        "quantity": null,
+        "net_price": null
+      },
+      {
+        "description": "90 Day BIT Inspection",
+        "quantity": null,
+        "net_price": null
+      },
+      {
+        "description": "Resecure RS Mudflap",
+        "quantity": null,
+        "net_price": null
+      },
+      {
+        "description": "Toll: $12.98 Pioneer Parkway|10-Dec-2025 17:04:23",
+        "quantity": null,
+        "net_price": null
+      }
+    ]
+  }
+}

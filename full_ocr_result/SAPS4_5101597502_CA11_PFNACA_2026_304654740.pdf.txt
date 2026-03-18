@@ -1,0 +1,230 @@
+==================================<Page 1 - START>================================
+Standard Invoice
+                                                                                                                    GRAINGER
+Original tax invoice has been submitted electronically. This is a
+human readable representation (copy) of the original tax invoice.
+                                                                 Invoice Number                                       9801431462
+                                                                 (Supplier Reference No.)
+                                                                 Invoice Date                    Monday 9 Feb. 2026 7:00 a.m. GMT-05:00
+                                                                                                                    $34.89 CAD
+                                                                 Amount Due
+    Contact Information
+                                                                           Shipping Information
+    Supplier
+                                  Customer
+                                                                           Ship From                     Ship To
+    ACKLANDS-GRAINGER INC.        EDI ONLY PEPSI FOODS ULC
+                                                                           ACKLANDS-GRAINGER INC.        CA-PL-LETHBRIDGE-AB-FLC
+    PO BOX 2970                   (FLC)                                                                  2200 31ST STREET
+                                                                           3602 MILLAR AVENUE
+    WINNIPEG                    2200 31 ST N                                                            LETHBRIDGE
+                                                                           SASKATOON
+    MB                          LETH PLNT DISPENSING                                                   AB
+                                                                           SK
+    R3C 4B5                      LETHBRIDGE                                                            T1H 5K8
+                                                                           S7P 0B1
+    CA                          AB
+                                                                           Canada                       Canada
+                                  T1H 5K8
+                                  Canada
+  Line Items                                               PO No. : M413546522                                       PO Date : 9 Feb. 2026
+  Line No.   PO Line No.          Type    Supplier Part No. /             Customer Part No.        Quantity            Unit Price         Subtotal
+                                       Description                                        (UOM)
+  10                                                                                                                  $2.24 CAD
+             1                  MaterialDSIFACP4X6 / INSTANT COLD                         2 / (EA)            $1.12 CAD
+                                       PACK COMPRESS 4 X 6
+                                                                                                      Line Item Total : $2.24 CAD
+  Line No.   PO Line No.                                                                 Quantity            Unit Price         Subtotal
+                               Type    Supplier Part No. /             Customer Part No.
+                                       Description                                        (UOM)
+  20       2                  Material  FCL150169R / BURN RELIEF                           1 / (PK)           $4.13 CAD       $4.13 CAD
+                                       GEL,2 1/4 IN H
+                                                                                                     Line Item Total : $4.13 CAD
+  Line No.    PO Line No.          Type    Supplier Part No. /             Customer Part No.        Quantity            Unit Price         Subtotal
+                                       Description                                        (UOM)
+  30                                 FCL500013R / STRIP                                                 $10.41 CAD      $20.82 CAD
+             3                 Material                                                 2 / (PK)
+                                       BANDAGES.BLUE.FABRIC.3 IN
+                                                                                                    Line Item Total : $20.82 CAD
+  Line No.    PO Line No.          Type    Supplier Part No. /              Customer Part No.        Quantity            Unit Price         Subtotal
+                                       Description                                        (UOM)
+                                                                                                        $3.02 CAD       $6.04 CAD
+  40       4                 Material INN4516 / HEAT PACK,5&quot;L X                       2 / (EA)
+                                       9&quot;W.PK24
+                                                                                                     Line Item Total : $6.04 CAD
+      Tax Summary
+                            Details                          Base Amount               Rate %          Amount
+      Category
+      GST                  Tax Description : GOODS AND          $33.23 CAD                5%             $1.66 CAD
+                            SERVICES
+                                                                                                    $0.00 CAD
+      PST                  Tax Description : State/Provincial        $33.23 CAD                0%
+                            Tax
+                                                                              Amount Summary
+                                                                              Line item subtotal                           $33.23 CAD
+                                                                              Gross amount                             $34.89 CAD
+                                                                                                                      $34.89 CAD
+                                                                              Net amount
+                                                                                                                       $1.66 CAD
+                                                                              Total tax amount
+                                                                              Total withholding tax amount
+                                                                                                                      $34.89 CAD
+                                                                              Amount Due
+     Additional Information
+     invioceSourceDocument
+    PurchaseOrder
+    Billing Information                                                         Remittance Information
+    Bill To                                                                Remit To
+                                                                          ACKLANDS-GRAINGER INC.
+    PEPSI FOODS ULC (FLC)
+                                                                          PO BOX 2970
+    2095 MATHESON BLVD E
+    MISSISSAUGA                                                          WINNIPEG
+    ON                                                                  MB
+    L4W 0G2                                                              R3C 4B5
+    Canada                                                               Canada
+    Address ID:                                                             Address ID: CA1_2751
+    CA1_ARIBA_PAYABLES
+==================================<Page 1 - END>================================
+==================================<Page 2 - START>================================
+   Appendix
+  Line No.    PO Line No. Type                           Supplier Part No. / Description
+  10        1         Material                         DSIFACP4X6 / INSTANT COLD PACK COMPRESS 4 X 6
+  Additional Details:
+  Supplier Part ID : DSIFACP4X6
+  Line No.
+             PO Line No. Type                           Supplier Part No. / Description
+  20        2         Material
+                                                       FCL150169R / BURN RELIEF GEL,2 1/4 IN H
+  Additional Details:
+  Supplier Part ID : FCL150169R
+ Line No.    PO Line No. Type
+                                                       Supplier Part No. / Description
+ 30        3         Material
+                                                       FCL500013R / STRIP BANDAGES,BLUE,FABRIC,3 IN
+ Additional Details:
+ Supplier Part ID : FCL500013R
+ Line No.    PO Line No. Type
+                                                       Supplier Part No. / Description
+ 40
+            4         Material
+                                                       INN4516 / HEAT PACK,5&quot;L X 9&quot;W,PK24
+Additional Details:
+ Supplier Part ID : INN4516
+PDF generated on Tuesday 10 Feb. 2026 6:24 a.m. GMT-08:00
+==================================<Page 2 - END>================================
+==================================<Page 3 - START>================================
+ Standard Invoice
+                                                                                                                     GRAINGER
+Original tax invoice has been submitted electronically. This is a
+human readable representation (copy) of the original tax invoice.
+                                                                  Invoice Number                                       9801431462
+                                                                  (Supplier Reference No.)
+                                                                  Invoice Date                    Monday 9 Feb. 2026 7:00 a.m. GMT-05:00
+                                                                                                                     $34.89 CAD
+                                                                  Amount Due
+     Contact Information
+                                                                            Shipping Information
+     Supplier
+                                   Customer
+                                                                            Ship From                     Ship To
+     ACKLANDS-GRAINGER INC.        EDI ONLY PEPSI FOODS ULC
+                                                                            ACKLANDS-GRAINGER INC.        CA-PL-LETHBRIDGE-AB-FLC
+     PO BOX 2970                   (FLC)                                                                  2200 31ST STREET
+                                                                            3602 MILLAR AVENUE
+     WINNIPEG                    2200 31 ST N                                                            LETHBRIDGE
+                                                                            SASKATOON
+     MB                          LETH PLNT DISPENSING                                                   AB
+                                                                            SK
+     R3C 4B5                      LETHBRIDGE                                                            T1H 5K8
+                                                                            S7P 0B1
+     CA                          AB
+                                                                            Canada                       Canada
+                                   T1H 5K8
+                                   Canada
+   Line Items                                               PO No. : M413546522                                       PO Date : 9 Feb. 2026
+   Line No.   PO Line No.          Type    Supplier Part No. /             Customer Part No.        Quantity            Unit Price         Subtotal
+                                        Description                                        (UOM)
+   10                                                                                                                  $2.24 CAD
+              1                  MaterialDSIFACP4X6 / INSTANT COLD                         2 / (EA)            $1.12 CAD
+                                        PACK COMPRESS 4 X 6
+                                                                                                       Line Item Total : $2.24 CAD
+   Line No.   PO Line No.                                                                 Quantity            Unit Price         Subtotal
+                                Type    Supplier Part No. /             Customer Part No.
+                                        Description                                        (UOM)
+   20       2                  Material  FCL150169R / BURN RELIEF                           1 / (PK)           $4.13 CAD       $4.13 CAD
+                                        GEL,2 1/4 IN H
+                                                                                                      Line Item Total : $4.13 CAD
+   Line No.    PO Line No.          Type    Supplier Part No. /             Customer Part No.        Quantity            Unit Price         Subtotal
+                                        Description                                        (UOM)
+   30                                 FCL500013R / STRIP                                                 $10.41 CAD      $20.82 CAD
+              3                 Material                                                 2 / (PK)
+                                        BANDAGES.BLUE.FABRIC.3 IN
+                                                                                                     Line Item Total : $20.82 CAD
+   Line No.    PO Line No.          Type    Supplier Part No. /              Customer Part No.        Quantity            Unit Price         Subtotal
+                                        Description                                        (UOM)
+                                                                                                         $3.02 CAD       $6.04 CAD
+   40       4                 Material INN4516 / HEAT PACK,5&quot;L X                       2 / (EA)
+                                        9&quot;W.PK24
+                                                                                                      Line Item Total : $6.04 CAD
+       Tax Summary
+                            Details                          Base Amount               Rate %          Amount
+       Category
+       GST                  Tax Description : GOODS AND          $33.23 CAD                5%             $1.66 CAD
+                            SERVICES
+                                                                                                     $0.00 CAD
+       PST                  Tax Description : State/Provincial        $33.23 CAD                0%
+                            Tax
+                                                                               Amount Summary
+                                                                               Line item subtotal                           $33.23 CAD
+                                                                               Gross amount                             $34.89 CAD
+                                                                                                                       $34.89 CAD
+                                                                               Net amount
+                                                                                                                        $1.66 CAD
+                                                                               Total tax amount
+                                                                               Total withholding tax amount
+                                                                                                                       $34.89 CAD
+                                                                               Amount Due
+      Additional Information
+      invioceSourceDocument
+     PurchaseOrder
+     Billing Information                                                         Remittance Information
+     Bill To                                                                Remit To
+                                                                           ACKLANDS-GRAINGER INC.
+     PEPSI FOODS ULC (FLC)
+                                                                           PO BOX 2970
+     2095 MATHESON BLVD E
+     MISSISSAUGA                                                          WINNIPEG
+     ON                                                                  MB
+     L4W 0G2                                                              R3C 4B5
+     Canada                                                               Canada
+     Address ID:                                                             Address ID: CA1_2751
+     CA1_ARIBA_PAYABLES
+==================================<Page 3 - END>================================
+==================================<Page 4 - START>================================
+   Appendix
+  Line No.    PO Line No. Type                           Supplier Part No. / Description
+  10        1         Material                         DSIFACP4X6 / INSTANT COLD PACK COMPRESS 4 X 6
+  Additional Details:
+  Supplier Part ID : DSIFACP4X6
+  Line No.
+             PO Line No. Type                           Supplier Part No. / Description
+  20        2         Material
+                                                       FCL150169R / BURN RELIEF GEL,2 1/4 IN H
+  Additional Details:
+  Supplier Part ID : FCL150169R
+ Line No.    PO Line No. Type
+                                                       Supplier Part No. / Description
+ 30        3         Material
+                                                       FCL500013R / STRIP BANDAGES,BLUE,FABRIC,3 IN
+ Additional Details:
+ Supplier Part ID : FCL500013R
+ Line No.    PO Line No. Type
+                                                       Supplier Part No. / Description
+ 40
+            4         Material
+                                                       INN4516 / HEAT PACK,5&quot;L X 9&quot;W,PK24
+Additional Details:
+ Supplier Part ID : INN4516
+PDF generated on Tuesday 10 Feb. 2026 6:24 a.m. GMT-08:00
+==================================<Page 4 - END>================================

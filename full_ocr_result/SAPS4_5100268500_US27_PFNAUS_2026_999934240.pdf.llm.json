@@ -1,0 +1,79 @@
+{
+  "invoice_data": {
+    "invoice_number": "31012354055",
+    "invoice_date": "02/03/2026",
+    "invoice_amount": "1540.01",
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": "112.10",
+    "po_number": [
+      "4505087437"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "Southern Graphic Systems, LLC",
+    "vendor_address": "24453 Network Place, Chicago, IL 60673-1244, Fax: (502) 635-8179, Tel: (502) 635-8180, Email: remit@sgsco.com, General Inquiry: SGsCredit@sgsco.com",
+    "po_line_items": [
+      {
+        "description": "Production",
+        "quantity": 1.0,
+        "net_price": 918.81
+      },
+      {
+        "description": "Account Management",
+        "quantity": 1.0,
+        "net_price": 180.71
+      },
+      {
+        "description": "Proofing & Shipping",
+        "quantity": 1.0,
+        "net_price": 328.39
+      }
+    ],
+    "vat_amount": null,
+    "gl_account": null,
+    "bank_name": null,
+    "account_holder_name": null,
+    "banking_account_number": null,
+    "remit_to_address": null,
+    "bill_to_address": null,
+    "transaction_type": "debit"
+  },
+  "filename": "SAPS4_5100268500_US27_PFNAUS_2026_999934240.pdf",
+  "raw_response": {
+    "invoice_number": "31012354055",
+    "invoice_date": "02/03/2026",
+    "invoice_amount": "1540.01",
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": "112.10",
+    "po_number": [
+      "4505087437"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "Southern Graphic Systems, LLC",
+    "vendor_address": "24453 Network Place, Chicago, IL 60673-1244, Fax: (502) 635-8179, Tel: (502) 635-8180, Email: remit@sgsco.com, General Inquiry: SGsCredit@sgsco.com",
+    "po_line_items": [
+      {
+        "description": "Production",
+        "quantity": 1.0,
+        "net_price": 918.81
+      },
+      {
+        "description": "Account Management",
+        "quantity": 1.0,
+        "net_price": 180.71
+      },
+      {
+        "description": "Proofing & Shipping",
+        "quantity": 1.0,
+        "net_price": 328.39
+      }
+    ]
+  }
+}

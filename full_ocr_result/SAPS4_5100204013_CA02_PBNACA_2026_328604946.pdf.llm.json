@@ -1,0 +1,89 @@
+{
+  "invoice_data": {
+    "invoice_number": "121060",
+    "invoice_date": "9/16/25",
+    "invoice_amount": "2437.68",
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": null,
+    "po_number": [
+      "625954"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "U.S. Bottlers Machinery Company",
+    "vendor_address": "11911 Steele Creek Road, Charlotte, NC 28273",
+    "po_line_items": [
+      {
+        "description": "WORM ASSY- DETENT COLLAR",
+        "quantity": 1.0,
+        "net_price": 1986.97
+      },
+      {
+        "description": "ELG-80-100 98600-1",
+        "quantity": 0.0,
+        "net_price": 450.71
+      },
+      {
+        "description": "FREIGHT",
+        "quantity": 0.0,
+        "net_price": 0.0
+      },
+      {
+        "description": "SHIP VIA: UPS 1 CARTON 40x12x7\" @ 23lbs / 10.43kgs",
+        "quantity": 1.0,
+        "net_price": 2437.68
+      }
+    ],
+    "vat_amount": null,
+    "gl_account": null,
+    "bank_name": null,
+    "account_holder_name": null,
+    "banking_account_number": null,
+    "remit_to_address": null,
+    "bill_to_address": null,
+    "transaction_type": "debit"
+  },
+  "filename": "SAPS4_5100204013_CA02_PBNACA_2026_328604946.pdf",
+  "raw_response": {
+    "invoice_number": "121060",
+    "invoice_date": "9/16/25",
+    "invoice_amount": "2437.68",
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": null,
+    "po_number": [
+      "625954"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "U.S. Bottlers Machinery Company",
+    "vendor_address": "11911 Steele Creek Road, Charlotte, NC 28273",
+    "po_line_items": [
+      {
+        "description": "WORM ASSY- DETENT COLLAR",
+        "quantity": 1.0,
+        "net_price": 1986.97
+      },
+      {
+        "description": "ELG-80-100 98600-1",
+        "quantity": 0.0,
+        "net_price": 450.71
+      },
+      {
+        "description": "FREIGHT",
+        "quantity": 0.0,
+        "net_price": 0.0
+      },
+      {
+        "description": "SHIP VIA: UPS 1 CARTON 40x12x7\" @ 23lbs / 10.43kgs",
+        "quantity": 1.0,
+        "net_price": 2437.68
+      }
+    ]
+  }
+}

@@ -1,0 +1,79 @@
+{
+  "invoice_data": {
+    "invoice_number": "XA115996401",
+    "invoice_date": "11/19/2025",
+    "invoice_amount": "35677.53",
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": null,
+    "po_number": [
+      "23508631"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": "800.00",
+    "cost_center": null,
+    "vendor_name": "Vanguard Truck Centers - Atlanta (5391D)",
+    "vendor_address": "700 Ruskin Dr, Forest Park, GA 30297",
+    "po_line_items": [
+      {
+        "description": "DEVICE,AFTERTREATME",
+        "quantity": 1.0,
+        "net_price": 25033.78
+      },
+      {
+        "description": "DEVICE,AFTERTREATME",
+        "quantity": 1.0,
+        "net_price": 9843.75
+      },
+      {
+        "description": "FREIGHT",
+        "quantity": 1.0,
+        "net_price": 800.0
+      }
+    ],
+    "vat_amount": null,
+    "gl_account": null,
+    "bank_name": null,
+    "account_holder_name": null,
+    "banking_account_number": null,
+    "remit_to_address": null,
+    "bill_to_address": null,
+    "transaction_type": "debit"
+  },
+  "filename": "SAPS4_5100149508_US30_PFNAUS_2026_999936361.pdf",
+  "raw_response": {
+    "invoice_number": "XA115996401",
+    "invoice_date": "11/19/2025",
+    "invoice_amount": "35677.53",
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": null,
+    "po_number": [
+      "23508631"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": "800.00",
+    "cost_center": null,
+    "vendor_name": "Vanguard Truck Centers - Atlanta (5391D)",
+    "vendor_address": "700 Ruskin Dr, Forest Park, GA 30297",
+    "po_line_items": [
+      {
+        "description": "DEVICE,AFTERTREATME",
+        "quantity": 1.0,
+        "net_price": 25033.78
+      },
+      {
+        "description": "DEVICE,AFTERTREATME",
+        "quantity": 1.0,
+        "net_price": 9843.75
+      },
+      {
+        "description": "FREIGHT",
+        "quantity": 1.0,
+        "net_price": 800.0
+      }
+    ]
+  }
+}

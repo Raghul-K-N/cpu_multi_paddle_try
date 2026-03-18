@@ -1,0 +1,59 @@
+{
+  "invoice_data": {
+    "invoice_number": "957143",
+    "invoice_date": "2/04/26",
+    "invoice_amount": "98.60",
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": null,
+    "po_number": [
+      "4504634308"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": "23.26",
+    "cost_center": null,
+    "vendor_name": "Douglas Machine Inc.",
+    "vendor_address": "1705 34th Ave W Alexandria, Minnesota 56308 USA",
+    "po_line_items": [
+      {
+        "description": "ELM MURR 7000-40021-014 1000*",
+        "quantity": 2.0,
+        "net_price": 37.67
+      }
+    ],
+    "vat_amount": null,
+    "gl_account": null,
+    "bank_name": null,
+    "account_holder_name": null,
+    "banking_account_number": null,
+    "remit_to_address": null,
+    "bill_to_address": null,
+    "transaction_type": "debit"
+  },
+  "filename": "SAPS4_5100519055_US28_PFNAUS_2026_999884510.pdf",
+  "raw_response": {
+    "invoice_number": "957143",
+    "invoice_date": "2/04/26",
+    "invoice_amount": "98.60",
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": null,
+    "po_number": [
+      "4504634308"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": "23.26",
+    "cost_center": null,
+    "vendor_name": "Douglas Machine Inc.",
+    "vendor_address": "1705 34th Ave W Alexandria, Minnesota 56308 USA",
+    "po_line_items": [
+      {
+        "description": "ELM MURR 7000-40021-014 1000*",
+        "quantity": 2.0,
+        "net_price": 37.67
+      }
+    ]
+  }
+}

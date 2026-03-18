@@ -1,0 +1,69 @@
+{
+  "invoice_data": {
+    "invoice_number": "FR17438",
+    "invoice_date": "10/11/24",
+    "invoice_amount": "170.18",
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": "13.78",
+    "po_number": [
+      "M413116373"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": "170.18",
+    "cost_center": null,
+    "vendor_name": "Thermo Fluids, Inc.",
+    "vendor_address": "42 Longwater Dr., Norwell, MA 02061",
+    "po_line_items": [
+      {
+        "description": "PRODUCT DELIVERY FEE",
+        "quantity": 1.0,
+        "net_price": 0.0
+      },
+      {
+        "description": "ICE BREAKER WINTER -4, BULK",
+        "quantity": 92.0,
+        "net_price": 1.7
+      }
+    ],
+    "vat_amount": null,
+    "gl_account": null,
+    "bank_name": null,
+    "account_holder_name": null,
+    "banking_account_number": null,
+    "remit_to_address": null,
+    "bill_to_address": null,
+    "transaction_type": "debit"
+  },
+  "filename": "SAPS4_5100056517_US30_PFNAUS_2026_999875681.pdf",
+  "raw_response": {
+    "invoice_number": "FR17438",
+    "invoice_date": "10/11/24",
+    "invoice_amount": "170.18",
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": "13.78",
+    "po_number": [
+      "M413116373"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": "170.18",
+    "cost_center": null,
+    "vendor_name": "Thermo Fluids, Inc.",
+    "vendor_address": "42 Longwater Dr., Norwell, MA 02061",
+    "po_line_items": [
+      {
+        "description": "PRODUCT DELIVERY FEE",
+        "quantity": 1.0,
+        "net_price": 0.0
+      },
+      {
+        "description": "ICE BREAKER WINTER -4, BULK",
+        "quantity": 92.0,
+        "net_price": 1.7
+      }
+    ]
+  }
+}

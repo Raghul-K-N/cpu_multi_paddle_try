@@ -1,0 +1,69 @@
+{
+  "invoice_data": {
+    "invoice_number": "980590250026",
+    "invoice_date": "Thursday 12 Feb 2026 2:52 AM GMT-07:00",
+    "invoice_amount": "1528.78",
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": "135.82",
+    "po_number": [
+      "M413552726"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "Grainger",
+    "vendor_address": "100 Grainger Pkwy, Lake Forest, IL, United States; 27105",
+    "po_line_items": [
+      {
+        "description": "4ZR10 / Sanding Hand Pad, 6in W. 9in L,Very Fine",
+        "quantity": 360.0,
+        "net_price": 1.53
+      },
+      {
+        "description": "2LVA5 / Dry Wipe,12 x 12-1/2.White,PK12",
+        "quantity": 12.0,
+        "net_price": 70.18
+      }
+    ],
+    "vat_amount": null,
+    "gl_account": null,
+    "bank_name": null,
+    "account_holder_name": null,
+    "banking_account_number": null,
+    "remit_to_address": null,
+    "bill_to_address": null,
+    "transaction_type": "debit"
+  },
+  "filename": "SAPS4_5100210544_US28_PFNAUS_2026_999746313.pdf",
+  "raw_response": {
+    "invoice_number": "980590250026",
+    "invoice_date": "Thursday 12 Feb 2026 2:52 AM GMT-07:00",
+    "invoice_amount": "1528.78",
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": "135.82",
+    "po_number": [
+      "M413552726"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "Grainger",
+    "vendor_address": "100 Grainger Pkwy, Lake Forest, IL, United States; 27105",
+    "po_line_items": [
+      {
+        "description": "4ZR10 / Sanding Hand Pad, 6in W. 9in L,Very Fine",
+        "quantity": 360.0,
+        "net_price": 1.53
+      },
+      {
+        "description": "2LVA5 / Dry Wipe,12 x 12-1/2.White,PK12",
+        "quantity": 12.0,
+        "net_price": 70.18
+      }
+    ]
+  }
+}

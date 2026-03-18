@@ -1,0 +1,59 @@
+{
+  "invoice_data": {
+    "invoice_number": "822696084",
+    "invoice_date": "02/04/2026",
+    "invoice_amount": "-4037.20",
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": "246.40",
+    "po_number": [
+      "4504958161"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "GRAINGER",
+    "vendor_address": "1721 6TH ST. SW, CANTON, OH 44706-1203",
+    "po_line_items": [
+      {
+        "description": "FLEX PLASTIC CONDUIT,PVC,TRD SZ 1/2IN",
+        "quantity": 36.0,
+        "net_price": 105.3
+      }
+    ],
+    "vat_amount": null,
+    "gl_account": null,
+    "bank_name": null,
+    "account_holder_name": null,
+    "banking_account_number": null,
+    "remit_to_address": null,
+    "bill_to_address": null,
+    "transaction_type": "credit"
+  },
+  "filename": "SAPS4_5100098518_US28_PFNAUS_2026_999762528.pdf",
+  "raw_response": {
+    "invoice_number": "822696084",
+    "invoice_date": "02/04/2026",
+    "invoice_amount": "-4037.20",
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": "246.40",
+    "po_number": [
+      "4504958161"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "GRAINGER",
+    "vendor_address": "1721 6TH ST. SW, CANTON, OH 44706-1203",
+    "po_line_items": [
+      {
+        "description": "FLEX PLASTIC CONDUIT,PVC,TRD SZ 1/2IN",
+        "quantity": 36.0,
+        "net_price": 105.3
+      }
+    ]
+  }
+}

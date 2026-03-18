@@ -1,0 +1,59 @@
+{
+  "invoice_data": {
+    "invoice_number": "980517143726",
+    "invoice_date": "Thursday 12 Feb 2026 3:16 AM GMT-07:00",
+    "invoice_amount": "312.15",
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": "23.79",
+    "po_number": [
+      "M413549014"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "GRAINNGER",
+    "vendor_address": "100 Grainger Pkwy, Lake Forest, IL, United States, US-PL-ARLINGTON-TX-FLI",
+    "po_line_items": [
+      {
+        "description": "253Y20 / Pad Holder,PK10",
+        "quantity": 1.0,
+        "net_price": 288.36
+      }
+    ],
+    "vat_amount": null,
+    "gl_account": null,
+    "bank_name": null,
+    "account_holder_name": null,
+    "banking_account_number": null,
+    "remit_to_address": null,
+    "bill_to_address": null,
+    "transaction_type": "debit"
+  },
+  "filename": "SAPS4_5100251545_US28_PFNAUS_2026_999746318.pdf",
+  "raw_response": {
+    "invoice_number": "980517143726",
+    "invoice_date": "Thursday 12 Feb 2026 3:16 AM GMT-07:00",
+    "invoice_amount": "312.15",
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": "23.79",
+    "po_number": [
+      "M413549014"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "GRAINNGER",
+    "vendor_address": "100 Grainger Pkwy, Lake Forest, IL, United States, US-PL-ARLINGTON-TX-FLI",
+    "po_line_items": [
+      {
+        "description": "253Y20 / Pad Holder,PK10",
+        "quantity": 1.0,
+        "net_price": 288.36
+      }
+    ]
+  }
+}

@@ -1,0 +1,47 @@
+{
+  "invoice_data": {
+    "invoice_number": "140311",
+    "invoice_date": "Tuesday 10 Feb 2026 12:00 PM GMT-08:00",
+    "invoice_amount": "15,504.00",
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": null,
+    "po_number": [
+      "M412914005"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "PPM Technologies Holdings. LLC",
+    "vendor_address": "500 E. Illinois Street, Newberg, OR 97132, United States, Address ID: US28",
+    "po_line_items": null,
+    "vat_amount": null,
+    "gl_account": null,
+    "bank_name": null,
+    "account_holder_name": null,
+    "banking_account_number": null,
+    "remit_to_address": null,
+    "bill_to_address": null,
+    "transaction_type": "debit"
+  },
+  "filename": "SAPS4_5100403030_US28_PFNAUS_2026_999930903.pdf",
+  "raw_response": {
+    "invoice_number": "140311",
+    "invoice_date": "Tuesday 10 Feb 2026 12:00 PM GMT-08:00",
+    "invoice_amount": "15,504.00",
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": null,
+    "po_number": [
+      "M412914005"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "PPM Technologies Holdings. LLC",
+    "vendor_address": "500 E. Illinois Street, Newberg, OR 97132, United States, Address ID: US28",
+    "po_line_items": null
+  }
+}

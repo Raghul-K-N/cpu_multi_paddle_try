@@ -1,0 +1,65 @@
+{
+  "invoice_data": {
+    "invoice_number": "1396",
+    "invoice_date": "Feb 11, 2026",
+    "invoice_amount": null,
+    "invoice_currency": null,
+    "tax_amount": null,
+    "po_number": [
+      "M413146173"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "FRITO LAY",
+    "vendor_address": "42742 West Red Arrow Highway, Paw Paw MI 49079",
+    "po_line_items": [
+      {
+        "description": "Jan 01, 2026 SNOWPLOW SEASON 2026",
+        "quantity": 26.0,
+        "net_price": 1950.0
+      },
+      {
+        "description": "Jan 01, 2026 SALTING SEASON 2026",
+        "quantity": 6.0,
+        "net_price": 450.0
+      }
+    ],
+    "vat_amount": null,
+    "gl_account": null,
+    "bank_name": null,
+    "account_holder_name": null,
+    "banking_account_number": null,
+    "remit_to_address": null,
+    "bill_to_address": null,
+    "transaction_type": "debit"
+  },
+  "filename": "SAPS4_5100066546_US29_PFNAUS_2026_999935899.pdf",
+  "raw_response": {
+    "invoice_number": "1396",
+    "invoice_date": "Feb 11, 2026",
+    "invoice_amount": null,
+    "invoice_currency": null,
+    "tax_amount": null,
+    "po_number": [
+      "M413146173"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "FRITO LAY",
+    "vendor_address": "42742 West Red Arrow Highway, Paw Paw MI 49079",
+    "po_line_items": [
+      {
+        "description": "Jan 01, 2026 SNOWPLOW SEASON 2026",
+        "quantity": 26.0,
+        "net_price": 1950.0
+      },
+      {
+        "description": "Jan 01, 2026 SALTING SEASON 2026",
+        "quantity": 6.0,
+        "net_price": 450.0
+      }
+    ]
+  }
+}

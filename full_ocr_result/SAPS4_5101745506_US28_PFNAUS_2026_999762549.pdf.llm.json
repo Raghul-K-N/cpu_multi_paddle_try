@@ -1,0 +1,59 @@
+{
+  "invoice_data": {
+    "invoice_number": "1012812",
+    "invoice_date": "2026-02-01",
+    "invoice_amount": "7189.39",
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": "30.73",
+    "po_number": [
+      "4504997762"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "ID Technology, LLC",
+    "vendor_address": "P.O. Box 73419, Cleveland, 0H 44193 USA",
+    "po_line_items": [
+      {
+        "description": "Item: R07333000",
+        "quantity": 10.0,
+        "net_price": 675.17
+      }
+    ],
+    "vat_amount": null,
+    "gl_account": null,
+    "bank_name": null,
+    "account_holder_name": null,
+    "banking_account_number": null,
+    "remit_to_address": null,
+    "bill_to_address": null,
+    "transaction_type": "debit"
+  },
+  "filename": "SAPS4_5101745506_US28_PFNAUS_2026_999762549.pdf",
+  "raw_response": {
+    "invoice_number": "1012812",
+    "invoice_date": "2026-02-01",
+    "invoice_amount": "7189.39",
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": "30.73",
+    "po_number": [
+      "4504997762"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "ID Technology, LLC",
+    "vendor_address": "P.O. Box 73419, Cleveland, 0H 44193 USA",
+    "po_line_items": [
+      {
+        "description": "Item: R07333000",
+        "quantity": 10.0,
+        "net_price": 675.17
+      }
+    ]
+  }
+}

@@ -1,0 +1,89 @@
+{
+  "invoice_data": {
+    "invoice_number": "M00506596",
+    "invoice_date": "1/29/2026",
+    "invoice_amount": "2554.70",
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": "105.39",
+    "po_number": [
+      "M413123290"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "MILESTONE EQUIPMENT COMPANY LLC",
+    "vendor_address": "PO Box 205589, Dallas, TX 75320-5589, United States",
+    "po_line_items": [
+      {
+        "description": "Second time out.",
+        "quantity": null,
+        "net_price": null
+      },
+      {
+        "description": "FHWA Grease cam bushings and slack adjusters Repair wiring Adjust ABS sensors",
+        "quantity": null,
+        "net_price": null
+      },
+      {
+        "description": "FHWA",
+        "quantity": null,
+        "net_price": null
+      },
+      {
+        "description": "Carrie Cardena called in service call 469-589-4794 City: Irving ,TX Request: Brakes need service Found: No issue with brakes",
+        "quantity": null,
+        "net_price": null
+      }
+    ],
+    "vat_amount": null,
+    "gl_account": null,
+    "bank_name": null,
+    "account_holder_name": null,
+    "banking_account_number": null,
+    "remit_to_address": null,
+    "bill_to_address": null,
+    "transaction_type": "debit"
+  },
+  "filename": "SAPS4_5100170008_US30_PFNAUS_2026_999930839.pdf",
+  "raw_response": {
+    "invoice_number": "M00506596",
+    "invoice_date": "1/29/2026",
+    "invoice_amount": "2554.70",
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": "105.39",
+    "po_number": [
+      "M413123290"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "MILESTONE EQUIPMENT COMPANY LLC",
+    "vendor_address": "PO Box 205589, Dallas, TX 75320-5589, United States",
+    "po_line_items": [
+      {
+        "description": "Second time out.",
+        "quantity": null,
+        "net_price": null
+      },
+      {
+        "description": "FHWA Grease cam bushings and slack adjusters Repair wiring Adjust ABS sensors",
+        "quantity": null,
+        "net_price": null
+      },
+      {
+        "description": "FHWA",
+        "quantity": null,
+        "net_price": null
+      },
+      {
+        "description": "Carrie Cardena called in service call 469-589-4794 City: Irving ,TX Request: Brakes need service Found: No issue with brakes",
+        "quantity": null,
+        "net_price": null
+      }
+    ]
+  }
+}

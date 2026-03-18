@@ -1,0 +1,39 @@
+{
+  "invoice_data": {
+    "invoice_number": "LEDM01012026",
+    "invoice_date": "January 1, 2026",
+    "invoice_amount": null,
+    "invoice_currency": null,
+    "tax_amount": null,
+    "po_number": null,
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "Alsco Canada",
+    "vendor_address": "14630 - 123 Ave, Edmonton AB T5L 2Y4",
+    "po_line_items": null,
+    "vat_amount": null,
+    "gl_account": null,
+    "bank_name": null,
+    "account_holder_name": null,
+    "banking_account_number": null,
+    "remit_to_address": null,
+    "bill_to_address": null,
+    "transaction_type": "debit"
+  },
+  "filename": "SAPS4_5101432500_CA02_PBNACA_2026_328615302.pdf",
+  "raw_response": {
+    "invoice_number": "LEDM01012026",
+    "invoice_date": "January 1, 2026",
+    "invoice_amount": null,
+    "invoice_currency": null,
+    "tax_amount": null,
+    "po_number": null,
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "Alsco Canada",
+    "vendor_address": "14630 - 123 Ave, Edmonton AB T5L 2Y4",
+    "po_line_items": null
+  }
+}

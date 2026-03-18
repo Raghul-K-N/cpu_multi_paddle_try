@@ -1,0 +1,59 @@
+{
+  "invoice_data": {
+    "invoice_number": "RSA00338220",
+    "invoice_date": "Friday 13 Feb 2026 11:20 AM GMT-06:00",
+    "invoice_amount": null,
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": null,
+    "po_number": [
+      "M412703591"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "The Bailey Company, Inc",
+    "vendor_address": "501 Cowan St, P. O. Box 280565, Nashville, TN 37228, United States, Address ID: US28",
+    "po_line_items": [
+      {
+        "description": "Material Not Available / 2025 Blanket PO for MFG Forklift Rentals/Repairs",
+        "quantity": 920.0,
+        "net_price": 1.0
+      }
+    ],
+    "vat_amount": null,
+    "gl_account": null,
+    "bank_name": null,
+    "account_holder_name": null,
+    "banking_account_number": null,
+    "remit_to_address": null,
+    "bill_to_address": null,
+    "transaction_type": "debit"
+  },
+  "filename": "SAPS4_5100553021_US28_PFNAUS_2026_999872977.pdf",
+  "raw_response": {
+    "invoice_number": "RSA00338220",
+    "invoice_date": "Friday 13 Feb 2026 11:20 AM GMT-06:00",
+    "invoice_amount": null,
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": null,
+    "po_number": [
+      "M412703591"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "The Bailey Company, Inc",
+    "vendor_address": "501 Cowan St, P. O. Box 280565, Nashville, TN 37228, United States, Address ID: US28",
+    "po_line_items": [
+      {
+        "description": "Material Not Available / 2025 Blanket PO for MFG Forklift Rentals/Repairs",
+        "quantity": 920.0,
+        "net_price": 1.0
+      }
+    ]
+  }
+}

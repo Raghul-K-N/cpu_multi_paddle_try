@@ -1,0 +1,69 @@
+{
+  "invoice_data": {
+    "invoice_number": "800605446",
+    "invoice_date": "02/12/2026",
+    "invoice_amount": "187.89",
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": "14.32",
+    "po_number": [
+      "4505183306"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "GRAINGER",
+    "vendor_address": "3900 EASTON DR, BAKERSFIELD, CA 93309-1083",
+    "po_line_items": [
+      {
+        "description": "SLEDGE HAMMER,4 LB.,12 IN,FIBERGLASS",
+        "quantity": 1.0,
+        "net_price": 149.9
+      },
+      {
+        "description": "SLEDGE HAMMER,15\"L,ROUND",
+        "quantity": 1.0,
+        "net_price": 23.67
+      }
+    ],
+    "vat_amount": null,
+    "gl_account": null,
+    "bank_name": null,
+    "account_holder_name": null,
+    "banking_account_number": null,
+    "remit_to_address": null,
+    "bill_to_address": null,
+    "transaction_type": "debit"
+  },
+  "filename": "SAPS4_5100262054_US28_PFNAUS_2026_999884239.pdf",
+  "raw_response": {
+    "invoice_number": "800605446",
+    "invoice_date": "02/12/2026",
+    "invoice_amount": "187.89",
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": "14.32",
+    "po_number": [
+      "4505183306"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "GRAINGER",
+    "vendor_address": "3900 EASTON DR, BAKERSFIELD, CA 93309-1083",
+    "po_line_items": [
+      {
+        "description": "SLEDGE HAMMER,4 LB.,12 IN,FIBERGLASS",
+        "quantity": 1.0,
+        "net_price": 149.9
+      },
+      {
+        "description": "SLEDGE HAMMER,15\"L,ROUND",
+        "quantity": 1.0,
+        "net_price": 23.67
+      }
+    ]
+  }
+}

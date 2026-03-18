@@ -1,0 +1,47 @@
+{
+  "invoice_data": {
+    "invoice_number": "2109860109",
+    "invoice_date": "02/05/2026",
+    "invoice_amount": "2244.27",
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": null,
+    "po_number": [
+      "M413541002"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "MESSER CANADA INC.",
+    "vendor_address": "15687 P.O. BOX 15687, STATION A, TORONTO ON M5W 1C1, 5615 RUE VANDEN ABEELE, ST-LAURENT QC H4S 1S1",
+    "po_line_items": null,
+    "vat_amount": null,
+    "gl_account": null,
+    "bank_name": null,
+    "account_holder_name": null,
+    "banking_account_number": null,
+    "remit_to_address": null,
+    "bill_to_address": null,
+    "transaction_type": "debit"
+  },
+  "filename": "SAPS4_5101095511_CA02_PBNACA_2026_328638270.pdf",
+  "raw_response": {
+    "invoice_number": "2109860109",
+    "invoice_date": "02/05/2026",
+    "invoice_amount": "2244.27",
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": null,
+    "po_number": [
+      "M413541002"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "MESSER CANADA INC.",
+    "vendor_address": "15687 P.O. BOX 15687, STATION A, TORONTO ON M5W 1C1, 5615 RUE VANDEN ABEELE, ST-LAURENT QC H4S 1S1",
+    "po_line_items": null
+  }
+}

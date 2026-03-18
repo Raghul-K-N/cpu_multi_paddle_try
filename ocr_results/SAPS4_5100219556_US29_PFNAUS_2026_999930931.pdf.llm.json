@@ -1,0 +1,119 @@
+{
+  "invoice_data": {
+    "invoice_number": "459541234001",
+    "invoice_date": "Thursday 12 Feb 2026 12:00 PM GMT-05:00",
+    "invoice_amount": null,
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": "6.68",
+    "po_number": [
+      "M413554341"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "ODP BUSINESS SOLUTIONS, LLC",
+    "vendor_address": "ODP BUSINESS SOLUTIONS, LLC, 6600 North Military Trail, Boca Raton, FL 33496, United States, 381169402",
+    "po_line_items": [
+      {
+        "description": "WEBCAM.HD.C270.LOGITECH",
+        "quantity": 1.0,
+        "net_price": 26.08
+      },
+      {
+        "description": "HIGHLIGHTER.BRITE LINERAST.24",
+        "quantity": 1.0,
+        "net_price": 4.0
+      },
+      {
+        "description": "MARKER,SHARPIE,FINE.DZ.BLACK",
+        "quantity": 1.0,
+        "net_price": 13.99
+      },
+      {
+        "description": "PEN.SHARPE.SGEL,GRNBRL.BLK.4PK",
+        "quantity": 1.0,
+        "net_price": 6.59
+      },
+      {
+        "description": "DISPENSER,TAPE,SEALING",
+        "quantity": 1.0,
+        "net_price": 8.0
+      },
+      {
+        "description": "DISPENSER,DESK,1 CORE,BLACK",
+        "quantity": 1.0,
+        "net_price": 1.66
+      },
+      {
+        "description": "SHARPIE,GEL,0.7MM,12OS,BLACK",
+        "quantity": 1.0,
+        "net_price": 8.18
+      }
+    ],
+    "vat_amount": null,
+    "gl_account": null,
+    "bank_name": null,
+    "account_holder_name": null,
+    "banking_account_number": null,
+    "remit_to_address": null,
+    "bill_to_address": null,
+    "transaction_type": "debit"
+  },
+  "filename": "SAPS4_5100219556_US29_PFNAUS_2026_999930931.pdf",
+  "raw_response": {
+    "invoice_number": "459541234001",
+    "invoice_date": "Thursday 12 Feb 2026 12:00 PM GMT-05:00",
+    "invoice_amount": "../../../../75.18",
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": "6.68",
+    "po_number": [
+      "M413554341"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "ODP BUSINESS SOLUTIONS, LLC",
+    "vendor_address": "ODP BUSINESS SOLUTIONS, LLC, 6600 North Military Trail, Boca Raton, FL 33496, United States, 381169402",
+    "po_line_items": [
+      {
+        "description": "WEBCAM.HD.C270.LOGITECH",
+        "quantity": 1.0,
+        "net_price": 26.08
+      },
+      {
+        "description": "HIGHLIGHTER.BRITE LINERAST.24",
+        "quantity": 1.0,
+        "net_price": 4.0
+      },
+      {
+        "description": "MARKER,SHARPIE,FINE.DZ.BLACK",
+        "quantity": 1.0,
+        "net_price": 13.99
+      },
+      {
+        "description": "PEN.SHARPE.SGEL,GRNBRL.BLK.4PK",
+        "quantity": 1.0,
+        "net_price": 6.59
+      },
+      {
+        "description": "DISPENSER,TAPE,SEALING",
+        "quantity": 1.0,
+        "net_price": 8.0
+      },
+      {
+        "description": "DISPENSER,DESK,1 CORE,BLACK",
+        "quantity": 1.0,
+        "net_price": 1.66
+      },
+      {
+        "description": "SHARPIE,GEL,0.7MM,12OS,BLACK",
+        "quantity": 1.0,
+        "net_price": 8.18
+      }
+    ]
+  }
+}

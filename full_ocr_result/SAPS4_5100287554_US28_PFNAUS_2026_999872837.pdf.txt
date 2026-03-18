@@ -1,0 +1,1035 @@
+==================================<Page 1 - START>================================
+        Standard Invoice
+        Original tax invoice has been submitted electronically. This is a                    Invoice Number                                             44093
+                                                                           (Supplier Reference No.)
+                                                                           Invoice Date                    Thursday 12 Feb 2026 12:00 PM GMT-05:00
+                                                                           Amount Due                                       $340,102.00 USD
+            Contact Information                                                          Shipping Information
+            Supplier                        Customer
+                                                                                     Ship From                      Ship To
+            GREENER CORP
+                                          Frito-Lay, Inc.                                                              US-PL-PERRY-GA-FLI
+                                                                                     GREENER CORP
+           4 Helmly St                     c/o PEPSICO NASS                                                         monika.michalik@pepsico.com
+                                                                                     4 Helmly St
+           Bayville                        ACCOUNTS PAYABLES                                                      US-PL-PERRY-GA-FLI
+                                                                                     Bayville
+           NJ                            PO BOX 1800                                                              1200 GA HIGHWAY 247 S
+                                                                                     NJ
+           08721-2188                     Winston Salem                                                              KATHLEEN
+                                                                                     08721-2188
+            United States                    NC                                                                      GA
+                                                                                     United States
+                                          27105                                                                    31047-2302
+                                          United States                                                               United States
+                                          Address ID: US28                                                            Address ID: 2018
+                                                                                                                   Phone: 9876100
+         Line Items
+                                                                  PO No. : M413348541                                         PO Date : 31 Oct 2025
+         Line No.    PO Line No.          Type    Supplier Part No. /              Customer Part No.         Quantity             Unit Price
+                                                                                                                                      Subtotal
+                                               Description                                         (UOM)
+         1         1                  Material  Not Available / L1 / (QTY 4) Size                          13,600 / (EA)        $1.00 USD   $13,600.00 USD
+                                               5.25&quot; RCC Former - Gas
+                                               Flush
+                 Taxes, Allowances and Charges
+                 Category
+                                            Applicable To         Details                  Base Amount          Rate %        Amount
+                  Sales Tax                  Line
+                                                                Tax Description : A/P Sales   $0.00 USD            0%          $0.00 USD
+                                                                Tax
+                                                                                                            Line Item Total : $13,600.00 USD
+        Line No.    PO Line No.          Type    Supplier Part No. /              Customer Part No.
+                                                                                                 Quantity             Unit Price         Subtotal
+                                               Description
+        2         2
+                                      Material Not Available / L2 / (QTY 20) Size                         68,000 / (EA)
+                                                                                                                    $1.00 USD   $68,000.00 USD
+                                               5.5&quot; RCC Former - Gas Flush
+                Taxes, Allowances and Charges
+                Category                   Applicable To         Details                  Base Amount
+                                                                                                           Rate %       Amount
+                 Sales Tax
+                                           Line                Tax Description : A/P Sales   $0.00 USD            0%
+                                                                                                                         $0.00 USD
+                                                                Tax
+                                                                                                            Line Item Total : $68,000.00 USD
+       Line No.    PO Line No.          Type    Supplier Part No. /
+                                                                          Customer Part No.         Quantity             Unit Price         Subtotal
+                                              Description
+                                                                                                (UOM)
+      3         3                   Material Not Available / L3 / (QTY 12) Size
+                                                                                                 30,864 / (EA)        $1.00 USD   $30,864.00 USD
+                                              5.75&quot; RCC Former - Gas
+                                              Flush
+              Taxes, Allowances and Charges
+               Category                    Applicable To          Details
+                                                                                      Base Amount          Rate %        Amount
+               Sales Tax                   Line                Tax Description : A/P Sales
+                                                                                       $0.00 USD            %0          $0.00 USD
+                                                               Tax
+                                                                                                            Line Item Total : $30,864.00 USD
+    Line No.    PO Line No.           Type    Supplier Part No. /              Customer Part No.         Quantity
+                                                                                                                    Unit Price         Subtotal
+                                             Description                                          (UOM)
+    4                               Material
+                4                           Not Available / L4 / (QTY 10) Size                          26,970 / (EA)        $1.00 USD
+                                                                                                                               $26,970.00 USD
+                                             6.5&quot; RCC Former - Gas Flush
+            Taxes, Allowances and Charges
+             Category                    Applicable To          Details
+                                                                                      Base Amount          Rate %       Amount
+              Sales Tax                    Line                 Tax Description : A/P Sales   $0.00 USD            0%          $0.00 USD
+                                                              Tax
+                                                                                                            Line Item Total : $26,970.00 USD
+  Line No.    PO Line No.           Type    Supplier Part No. /              Customer Part No.         Quantity             Unit Price         Subtotal
+                                            Description                                          (UOM)
+              5
+  5                                Material  Not Available / L5 / (QTY 4) Size                           11,804 / (EA)         $1.00 USD   $11,804.00 USD
+                                            7&guot; RCC Former - Gas Flush
+           Taxes, Allowances and Charges
+            Category                     Applicable To          Details                  Base Amount          Rate %
+                                                                                                                        Amount
+            Sales Tax                    Line                 Tax Description : A/P Sales   $0.00 USD            0%           $0.00 USD
+                                                              Tax
+                                                                                                            Line Item Total : $11,804.00 USD
+ Line No.    PO Line No.            Type    Supplier Part No. /              Customer Part No.         Quantity             Unit Price         Subtotal
+                                            Description                                           (UOM)
+             6
+6                                 Material Not Available / L6 / (QTY 6) Size                           17,706 / (EA)         $1.00 USD   $17,706.00 USD
+                                            7.5&quot; RCC Former - Gas Flush
+          Taxes, Allowances and Charges
+           Category                     Applicable To          Details                  Base Amount          Rate %        Amount
+            Sales Tax                    Line                 Tax Description : A/P Sales   $0.00 USD            0%           $0.00 USD
+                                                             Tax
+                                                                                                           Line Item Total : $17,706.00 USD
+Line No.    PO Line No.           Type    Supplier Part No. /              Customer Part No.         Quantity             Unit Price
+                                                                                                                                    Subtotal
+                                           Description                                           (UOM)
+7           7                    Material  Not Available / L7 / (QTY 17) Size                          50,167 / (EA)        $1.00 USD   $50,167.00 USD
+                                           8.5&quot; RCC Former - Gas Flush
+          Taxes, Allowances and Charges
+          Category                     Applicable To         Details                  Base Amount          Rate %       Amount
+           Sales Tax
+                                        Line                Tax Description : A/P Sales   $0.00 USD            0%           $0.00 USD
+                                                             Tax
+                                                                                                           Line Item Total : $50,167.00 USD
+==================================<Page 1 - END>================================
+==================================<Page 2 - START>================================
+  Line No.     PO Line No.           Type    Supplier Part No. /                                                            Unit Price          Subtotal
+                                                                            Customer Part No.         Quantity
+                                             Description
+                                                                                                    (UOM)
+  8
+              8                    Material  Not Available / L8 / (QTY 2) Size                                                              $5,902.00 USD
+                                                                                                    5,902 / (EA)          $1.00 USD
+                                             9&quot; RCC Former - Gas Flush
+            Taxes, Allowances and Charges
+             Category                    Applicable To          Details                   Base Amount          Rate %        Amount
+             Sales Tax
+                                          Line                  Tax Description : A/P Sales   $0.00 USD            0%           $0.00 USD
+                                                                Tax
+                                                                                                                 Line Item Total : $5,902.00 USD
+  Line No.
+               PO Line No.           Type    Supplier Part No. /               Customer Part No.         Quantity              Unit Price           Subtotal
+                                             Description                                            (UOM)
+  6
+               9                    MaterialNot Available / L9 / (QTY 10) Size                           29,510 / (EA)         $1.00 USD    $29,510.00 USD
+                                             9.5&quot; RCC Former - Gas Flush
+            Taxes, Allowances and Charges
+                                                                Details                   Base Amount           Rate %        Amount
+             Category                    Applicable To
+             Sales Tax                    Line                 Tax Description : A/P Sales   $0.00 USD             0%           $0.00 USD
+                                                                Tax
+                                                                                                               Line Item Total : $29,510.00 USD
+  Line No.    PO Line No.           Type    Supplier Part No. /               Customer Part No.         Quantity              Unit Price           Subtotal
+                                             Description                                            (UOM)
+   10         10                  Material  Not Available / L10 / (QTY 6) Size                           17,706 / (EA)         $1.00 USD    $17,706.00 USD
+                                             10&quot; RCC Former - Gas Flush
+            Taxes, Allowances and Charges
+                                          Applicable To          Details                  Base Amount          Rate %        Amount
+              Category
+                                          Line                 Tax Description : A/P Sales   $0.00 USD            0%            $0.00 USD
+              Sales Tax
+                                                               Tax
+                                                                                                              Line Item Total : $17,706.00 USD
+                PO Line No.           Type    Supplier Part No. /              Customer Part No.         Quantity              Unit Price          Subtotal
+   Line No.                                                                                       (UOM)
+                                             Description
+                                     Material                                                       26,559 / (EA)         $1.00 USD
+                11                          Not Available / L11 / (QTY 9) Size                                                           $26,559.00 USD
+                                             10.5&quot; RCC Former - Gas
+                                             Flush
+             Taxes, Allowances and Charges
+                                                                                        Base Amount
+              Category                    Applicable To          Details                                        Rate %        Amount
+                                          Line                 Tax Description : A/P Sales   $0.00 USD
+               Sales Tax                                                                                     0%           $0.00 USD
+                                                               Tax
+                                                                                                              Line Item Total : $26,559.00 USD
+                                     Type    Supplier Part No. /              Customer Part No.         Quantity              Unit Price          Subtotal
+     Line No.    PO Line No.
+                                             Description                                           (UOM)
+                                     MaterialNot Available / L12 / (QTY 3) Size                          8,853 / (EA)          $1.00 USD     $8,853.00 USD
+     12         12
+                                              11&quot; RCC Former - Gas Flush
+              Taxes, Allowances and Charges
+                                           Applicable To          Details                  Base Amount          Rate %        Amount
+                Category
+                                                               Tax Description : A/P Sales   $0.00 USD
+                Sales Tax                   Line                                                             0%           $0.00 USD
+                                                               Tax
+                                                                                                              Line Item Total : $8.853.00 USD
+                                              Supplier Part No. /              Customer Part No.         Quantity             Unit Price
+      Line No.    PO Line No.          Type                                                                                             Subtotal
+                                              Description                                           (UOM)
+                  13                 Material  Not Available / L13 / (QTY 3) Size                          8,853 / (EA)          $1.00 USD    $8,853.00 USD
+      13
+                                              11.5&guot: RCC Former - Gas
+                                              Flush
+               Taxes, Allowances and Charges
+                Category                   Applicable To          Details                  Base Amount          Rate %        Amount
+                                           Line                Tax Description : A/P Sales   $0.00 USD
+                 Sales Tax                                                                                   0%           $0.00 USD
+                                                               Tax
+                                                                                                              Line Item Total : $8,853.00 USD
+       Line No.    PO Line No.          Type    Supplier Part No. /              Customer Part No.         Quantity             Unit Price
+                                                                                                                                     Subtotal
+                                              Description                                          (UOM)
+        14        14                 Material Not Available / L14 / (QTY 8) Size
+                                                                                                 23,608 / (EA)        $1.00 USD   $23,608.00 USD
+                                              12'&quot; RCC Former - Gas Flush
+                Taxes, Allowances and Charges
+                Category                                       Details                 Base Amount
+                                           Applicable To                                                     Rate %       Amount
+                 Sales Tax                   Line                Tax Description : A/P Sales   $0.00 USD            0%          $0.00 USD
+                                                               Tax
+                                                                                                            Line Item Total : $23,608.00 USD
+            Tax Summary
+           Category               Details                            Base Amount                Rate %          Amount
+            Sales Tax               Tax Description : A/P Sales Tax         $0.00 USD                  0%             $0.00 USD
+                                                                                       Amount Summary
+                                                                                       Line item subtotal                        $340,102.00 USD
+                                                                                       Gross amount                          $340,102.00 USD
+                                                                                       Net amount                            $340,102.00 USD
+                                                                                       Total tax amount                             $0.00 USD
+                                                                                       Total withholding tax amount
+                                                                                       Amount Due                            $340,102.00 USD
+           Additional Information
+           Payment Method
+           Wire
+           Billing Information                                                          Remittance Information
+           Bill From                       Bill To                                     Remit To
+           GREENER CORP                                                          Lynda
+                                         Frito-Lay, Inc.
+           4 Helmly St                     c/o PEPSICO NASS                           4 Helmly Street
+           Bayville                        ACCOUNTS PAYABLES                       Bayville
+           NJ                                                                     NJ
+                                         PO BOX 1800
+           08721-2188                     Winston Salem                              08721
+           United States                   NC                                       United States
+                                                                                  Address ID: US1_11513
+                                         27105
+                                         United States
+                                         Address ID: US28
+         Payment Terms
+==================================<Page 2 - END>================================
+==================================<Page 4 - START>================================
+            Appendix
+            Line No.
+                       PO Line No. Type                           Supplier Part No. / Description
+            1
+                       1         Material                         Not Available / L1 / (QTY 4) Size 5.25&quot; RCC Former - Gas Flush
+            Additional Details:
+            Classification Domain : custom
+            Classification Code : CAP678017
+            Supplier Part ID : Not Available
+           Line No.
+                       PO Line No. Type                           Supplier Part No. / Description
+            2
+                       2         Material
+                                                                  Not Available / L2 / (QTY 20) Size 5.5&quot; RCC Former - Gas Flush
+           Additional Details:
+           Classification Domain : custom
+           Classification Code : CAP678017
+            Supplier Part ID : Not Available
+           Line No.
+                       PO Line No. Type                           Supplier Part No. / Description
+            3
+                      3         Material                         Not Available / L3 / (QTY 12) Size 5.75&quot; RCC Former - Gas Flush
+            Additional Details:
+            Classification Domain : custom
+            Classification Code : CAP678017
+            Supplier Part ID : Not Available
+           Line No.
+                      PO Line No. Type                           Supplier Part No. / Description
+            4
+                       4          Material                         Not Available / L4 / (QTY 10) Size 6.5&quot; RCC Former - Gas Flush
+            Additional Details:
+            Classification Domain : custom
+            Classification Code : CAP678017
+            Supplier Part ID : Not Available
+           Line No.    PO Line No. Type
+                                                                 Supplier Part No. / Description
+            5         5         Material
+                                                                 Not Available / L5 / (QTY 4) Size 7&quot; RCC Former - Gas Flush
+            Additional Details:
+            Classification Domain : custom
+            Classification Code : CAP678017
+            Supplier Part ID : Not Available
+           Line No.    PO Line No. Type                            Supplier Part No. / Description
+            6         6         Material
+                                                                 Not Available / L6 / (QTY 6) Size 7.5&quot; RCC Former - Gas Flush
+            Additional Details:
+            Classification Domain : custom
+            Classification Code : CAP678017
+            Supplier Part ID : Not Available
+           Line No.    PO Line No. Type                           Supplier Part No. / Description
+            7         7         Material
+                                                                Not Available / L7 / (QTY 17) Size 8.5&quot; RCC Former - Gas Flush
+            Additional Details:
+            Classification Domain : custom
+            Classification Code : CAP678017
+            Supplier Part ID : Not Available
+           Line No.    PO Line No. Type                           Supplier Part No. / Description
+            8         8         Material                         Not Available / L8 / (QTY 2) Size 9&quot; RCC Former - Gas Flush
+           Additional Details:
+            Classification Domain : custom
+            Classification Code : CAP678017
+            Supplier Part ID : Not Available
+           Line No.
+                      PO Line No. Type                           Supplier Part No. / Description
+           9
+                      9         Material                         Not Available / L9 / (QTY 10) Size 9.5&quot; RCC Former - Gas Flush
+           Additional Details:
+            Classification Domain : custom
+           Classification Code : CAP678017
+           Supplier Part ID : Not Available
+           Line No.    PO Line No. Type
+                                                                Supplier Part No. / Description
+           10        10        Material
+                                                                Not Available / L10 / (QTY 6) Size 10&guot; RCC Former - Gas Flush
+           Additional Details:
+           Classification Domain : custom
+           Classification Code : CAP678017
+           Supplier Part ID : Not Available
+           Line No.    PO Line No. Type                           Supplier Part No. / Description
+           11        11        Material                         Not Available / L11 / (QTY 9) Size 10.5&quot; RCC Former - Gas Flush
+           Additional Details:
+           Classification Domain : custom
+           Classification Code : CAP678017
+            Supplier Part ID : Not Available
+           Line No.    PO Line No. Type
+                                                                Supplier Part No. / Description
+           12        12        Material                         Not Available / L12 / (QTY 3) Size 11&quot; RCC Former - Gas Flush
+           Additional Details:
+           Classification Domain : custom
+           Classification Code : CAP678017
+           Supplier Part ID : Not Available
+           Line No.
+                     PO Line No. Type                           Supplier Part No. / Description
+           13        13        Material
+                                                               Not Available / L13 / (QTY 3) Size 11.5&quot; RCC Former - Gas Flush
+           Additional Details:
+           Classification Domain : custom
+           Classification Code : CAP678017
+           Supplier Part ID : Not Available
+           Line No.    PO Line No. Type                           Supplier Part No. / Description
+           14
+                     14        Material                        Not Available / L14 / (QTY 8) Size 12'&quot; RCC Former - Gas Flush
+           Additional Details:
+           Classification Domain : custom
+           Classification Code : CAP678017
+           Supplier Part ID : Not Available
+          PDF generated on Friday 13 Feb 2026 8:49 AM GMT-08:00
+==================================<Page 4 - END>================================
+==================================<Page 5 - START>================================
+        Standard Invoice
+        Original tax invoice has been submitted electronically. This is a                    Invoice Number                                             44093
+                                                                           (Supplier Reference No.)
+                                                                           Invoice Date                    Thursday 12 Feb 2026 12:00 PM GMT-05:00
+                                                                           Amount Due                                       $340,102.00 USD
+            Contact Information                                                          Shipping Information
+            Supplier                        Customer
+                                                                                     Ship From                      Ship To
+            GREENER CORP
+                                          Frito-Lay, Inc.                                                              US-PL-PERRY-GA-FLI
+                                                                                     GREENER CORP
+           4 Helmly St                     c/o PEPSICO NASS                                                         monika.michalik@pepsico.com
+                                                                                     4 Helmly St
+           Bayville                        ACCOUNTS PAYABLES                                                      US-PL-PERRY-GA-FLI
+                                                                                     Bayville
+           NJ                            PO BOX 1800                                                              1200 GA HIGHWAY 247 S
+                                                                                     NJ
+           08721-2188                     Winston Salem                                                              KATHLEEN
+                                                                                     08721-2188
+            United States                    NC                                                                      GA
+                                                                                     United States
+                                          27105                                                                    31047-2302
+                                          United States                                                               United States
+                                          Address ID: US28                                                            Address ID: 2018
+                                                                                                                   Phone: 9876100
+         Line Items
+                                                                  PO No. : M413348541                                         PO Date : 31 Oct 2025
+         Line No.    PO Line No.          Type    Supplier Part No. /              Customer Part No.         Quantity             Unit Price
+                                                                                                                                      Subtotal
+                                               Description                                         (UOM)
+         1         1                  Material  Not Available / L1 / (QTY 4) Size                          13,600 / (EA)        $1.00 USD   $13,600.00 USD
+                                               5.25&quot; RCC Former - Gas
+                                               Flush
+                 Taxes, Allowances and Charges
+                 Category
+                                            Applicable To         Details                  Base Amount          Rate %        Amount
+                  Sales Tax                  Line
+                                                                Tax Description : A/P Sales   $0.00 USD            0%          $0.00 USD
+                                                                Tax
+                                                                                                            Line Item Total : $13,600.00 USD
+        Line No.    PO Line No.          Type    Supplier Part No. /              Customer Part No.
+                                                                                                 Quantity             Unit Price         Subtotal
+                                               Description
+        2         2
+                                      Material Not Available / L2 / (QTY 20) Size                         68,000 / (EA)
+                                                                                                                    $1.00 USD   $68,000.00 USD
+                                               5.5&quot; RCC Former - Gas Flush
+                Taxes, Allowances and Charges
+                Category                   Applicable To         Details                  Base Amount
+                                                                                                           Rate %       Amount
+                 Sales Tax
+                                           Line                Tax Description : A/P Sales   $0.00 USD            0%
+                                                                                                                         $0.00 USD
+                                                                Tax
+                                                                                                            Line Item Total : $68,000.00 USD
+       Line No.    PO Line No.          Type    Supplier Part No. /
+                                                                          Customer Part No.         Quantity             Unit Price         Subtotal
+                                              Description
+                                                                                                (UOM)
+      3         3                   Material Not Available / L3 / (QTY 12) Size
+                                                                                                 30,864 / (EA)        $1.00 USD   $30,864.00 USD
+                                              5.75&quot; RCC Former - Gas
+                                              Flush
+              Taxes, Allowances and Charges
+               Category                    Applicable To          Details
+                                                                                      Base Amount          Rate %        Amount
+               Sales Tax                   Line                Tax Description : A/P Sales
+                                                                                       $0.00 USD            %0          $0.00 USD
+                                                               Tax
+                                                                                                            Line Item Total : $30,864.00 USD
+    Line No.    PO Line No.           Type    Supplier Part No. /              Customer Part No.         Quantity
+                                                                                                                    Unit Price         Subtotal
+                                             Description                                          (UOM)
+    4                               Material
+                4                           Not Available / L4 / (QTY 10) Size                          26,970 / (EA)        $1.00 USD
+                                                                                                                               $26,970.00 USD
+                                             6.5&quot; RCC Former - Gas Flush
+            Taxes, Allowances and Charges
+             Category                    Applicable To          Details
+                                                                                      Base Amount          Rate %       Amount
+              Sales Tax                    Line                 Tax Description : A/P Sales   $0.00 USD            0%          $0.00 USD
+                                                              Tax
+                                                                                                            Line Item Total : $26,970.00 USD
+  Line No.    PO Line No.           Type    Supplier Part No. /              Customer Part No.         Quantity             Unit Price         Subtotal
+                                            Description                                          (UOM)
+              5
+  5                                Material  Not Available / L5 / (QTY 4) Size                           11,804 / (EA)         $1.00 USD   $11,804.00 USD
+                                            7&guot; RCC Former - Gas Flush
+           Taxes, Allowances and Charges
+            Category                     Applicable To          Details                  Base Amount          Rate %
+                                                                                                                        Amount
+            Sales Tax                    Line                 Tax Description : A/P Sales   $0.00 USD            0%           $0.00 USD
+                                                              Tax
+                                                                                                            Line Item Total : $11,804.00 USD
+ Line No.    PO Line No.            Type    Supplier Part No. /              Customer Part No.         Quantity             Unit Price         Subtotal
+                                            Description                                           (UOM)
+             6
+6                                 Material Not Available / L6 / (QTY 6) Size                           17,706 / (EA)         $1.00 USD   $17,706.00 USD
+                                            7.5&quot; RCC Former - Gas Flush
+          Taxes, Allowances and Charges
+           Category                     Applicable To          Details                  Base Amount          Rate %        Amount
+            Sales Tax                    Line                 Tax Description : A/P Sales   $0.00 USD            0%           $0.00 USD
+                                                             Tax
+                                                                                                           Line Item Total : $17,706.00 USD
+Line No.    PO Line No.           Type    Supplier Part No. /              Customer Part No.         Quantity             Unit Price
+                                                                                                                                    Subtotal
+                                           Description                                           (UOM)
+7           7                    Material  Not Available / L7 / (QTY 17) Size                          50,167 / (EA)        $1.00 USD   $50,167.00 USD
+                                           8.5&quot; RCC Former - Gas Flush
+          Taxes, Allowances and Charges
+          Category                     Applicable To         Details                  Base Amount          Rate %       Amount
+           Sales Tax
+                                        Line                Tax Description : A/P Sales   $0.00 USD            0%           $0.00 USD
+                                                             Tax
+                                                                                                           Line Item Total : $50,167.00 USD
+==================================<Page 5 - END>================================
+==================================<Page 6 - START>================================
+  Line No.     PO Line No.           Type    Supplier Part No. /                                                            Unit Price          Subtotal
+                                                                            Customer Part No.         Quantity
+                                             Description
+                                                                                                    (UOM)
+  8
+              8                    Material  Not Available / L8 / (QTY 2) Size                                                              $5,902.00 USD
+                                                                                                    5,902 / (EA)          $1.00 USD
+                                             9&quot; RCC Former - Gas Flush
+            Taxes, Allowances and Charges
+             Category                    Applicable To          Details                   Base Amount          Rate %        Amount
+             Sales Tax
+                                          Line                  Tax Description : A/P Sales   $0.00 USD            0%           $0.00 USD
+                                                                Tax
+                                                                                                                 Line Item Total : $5,902.00 USD
+  Line No.
+               PO Line No.           Type    Supplier Part No. /               Customer Part No.         Quantity              Unit Price           Subtotal
+                                             Description                                            (UOM)
+  6
+               9                    MaterialNot Available / L9 / (QTY 10) Size                           29,510 / (EA)         $1.00 USD    $29,510.00 USD
+                                             9.5&quot; RCC Former - Gas Flush
+            Taxes, Allowances and Charges
+                                                                Details                   Base Amount           Rate %        Amount
+             Category                    Applicable To
+             Sales Tax                    Line                 Tax Description : A/P Sales   $0.00 USD             0%           $0.00 USD
+                                                                Tax
+                                                                                                               Line Item Total : $29,510.00 USD
+  Line No.    PO Line No.           Type    Supplier Part No. /               Customer Part No.         Quantity              Unit Price           Subtotal
+                                             Description                                            (UOM)
+   10         10                  Material  Not Available / L10 / (QTY 6) Size                           17,706 / (EA)         $1.00 USD    $17,706.00 USD
+                                             10&quot; RCC Former - Gas Flush
+            Taxes, Allowances and Charges
+                                          Applicable To          Details                  Base Amount          Rate %        Amount
+              Category
+                                          Line                 Tax Description : A/P Sales   $0.00 USD            0%            $0.00 USD
+              Sales Tax
+                                                               Tax
+                                                                                                              Line Item Total : $17,706.00 USD
+                PO Line No.           Type    Supplier Part No. /              Customer Part No.         Quantity              Unit Price          Subtotal
+   Line No.                                                                                       (UOM)
+                                             Description
+                                     Material                                                       26,559 / (EA)         $1.00 USD
+                11                          Not Available / L11 / (QTY 9) Size                                                           $26,559.00 USD
+                                             10.5&quot; RCC Former - Gas
+                                             Flush
+             Taxes, Allowances and Charges
+                                                                                        Base Amount
+              Category                    Applicable To          Details                                        Rate %        Amount
+                                          Line                 Tax Description : A/P Sales   $0.00 USD
+               Sales Tax                                                                                     0%           $0.00 USD
+                                                               Tax
+                                                                                                              Line Item Total : $26,559.00 USD
+                                     Type    Supplier Part No. /              Customer Part No.         Quantity              Unit Price          Subtotal
+     Line No.    PO Line No.
+                                             Description                                           (UOM)
+                                     MaterialNot Available / L12 / (QTY 3) Size                          8,853 / (EA)          $1.00 USD     $8,853.00 USD
+     12         12
+                                              11&quot; RCC Former - Gas Flush
+              Taxes, Allowances and Charges
+                                           Applicable To          Details                  Base Amount          Rate %        Amount
+                Category
+                                                               Tax Description : A/P Sales   $0.00 USD
+                Sales Tax                   Line                                                             0%           $0.00 USD
+                                                               Tax
+                                                                                                              Line Item Total : $8.853.00 USD
+                                              Supplier Part No. /              Customer Part No.         Quantity             Unit Price
+      Line No.    PO Line No.          Type                                                                                             Subtotal
+                                              Description                                           (UOM)
+                  13                 Material  Not Available / L13 / (QTY 3) Size                          8,853 / (EA)          $1.00 USD    $8,853.00 USD
+      13
+                                              11.5&guot: RCC Former - Gas
+                                              Flush
+               Taxes, Allowances and Charges
+                Category                   Applicable To          Details                  Base Amount          Rate %        Amount
+                                           Line                Tax Description : A/P Sales   $0.00 USD
+                 Sales Tax                                                                                   0%           $0.00 USD
+                                                               Tax
+                                                                                                              Line Item Total : $8,853.00 USD
+       Line No.    PO Line No.          Type    Supplier Part No. /              Customer Part No.         Quantity             Unit Price
+                                                                                                                                     Subtotal
+                                              Description                                          (UOM)
+        14        14                 Material Not Available / L14 / (QTY 8) Size
+                                                                                                 23,608 / (EA)        $1.00 USD   $23,608.00 USD
+                                              12'&quot; RCC Former - Gas Flush
+                Taxes, Allowances and Charges
+                Category                                       Details                 Base Amount
+                                           Applicable To                                                     Rate %       Amount
+                 Sales Tax                   Line                Tax Description : A/P Sales   $0.00 USD            0%          $0.00 USD
+                                                               Tax
+                                                                                                            Line Item Total : $23,608.00 USD
+            Tax Summary
+           Category               Details                            Base Amount                Rate %          Amount
+            Sales Tax               Tax Description : A/P Sales Tax         $0.00 USD                  0%             $0.00 USD
+                                                                                       Amount Summary
+                                                                                       Line item subtotal                        $340,102.00 USD
+                                                                                       Gross amount                          $340,102.00 USD
+                                                                                       Net amount                            $340,102.00 USD
+                                                                                       Total tax amount                             $0.00 USD
+                                                                                       Total withholding tax amount
+                                                                                       Amount Due                            $340,102.00 USD
+           Additional Information
+           Payment Method
+           Wire
+           Billing Information                                                          Remittance Information
+           Bill From                       Bill To                                     Remit To
+           GREENER CORP                                                          Lynda
+                                         Frito-Lay, Inc.
+           4 Helmly St                     c/o PEPSICO NASS                           4 Helmly Street
+           Bayville                        ACCOUNTS PAYABLES                       Bayville
+           NJ                                                                     NJ
+                                         PO BOX 1800
+           08721-2188                     Winston Salem                              08721
+           United States                   NC                                       United States
+                                                                                  Address ID: US1_11513
+                                         27105
+                                         United States
+                                         Address ID: US28
+         Payment Terms
+==================================<Page 6 - END>================================
+==================================<Page 8 - START>================================
+            Appendix
+            Line No.
+                       PO Line No. Type                           Supplier Part No. / Description
+            1
+                       1         Material                         Not Available / L1 / (QTY 4) Size 5.25&quot; RCC Former - Gas Flush
+            Additional Details:
+            Classification Domain : custom
+            Classification Code : CAP678017
+            Supplier Part ID : Not Available
+           Line No.
+                       PO Line No. Type                           Supplier Part No. / Description
+            2
+                       2         Material
+                                                                  Not Available / L2 / (QTY 20) Size 5.5&quot; RCC Former - Gas Flush
+           Additional Details:
+           Classification Domain : custom
+           Classification Code : CAP678017
+            Supplier Part ID : Not Available
+           Line No.
+                       PO Line No. Type                           Supplier Part No. / Description
+            3
+                      3         Material                         Not Available / L3 / (QTY 12) Size 5.75&quot; RCC Former - Gas Flush
+            Additional Details:
+            Classification Domain : custom
+            Classification Code : CAP678017
+            Supplier Part ID : Not Available
+           Line No.
+                      PO Line No. Type                           Supplier Part No. / Description
+            4
+                       4          Material                         Not Available / L4 / (QTY 10) Size 6.5&quot; RCC Former - Gas Flush
+            Additional Details:
+            Classification Domain : custom
+            Classification Code : CAP678017
+            Supplier Part ID : Not Available
+           Line No.    PO Line No. Type
+                                                                 Supplier Part No. / Description
+            5         5         Material
+                                                                 Not Available / L5 / (QTY 4) Size 7&quot; RCC Former - Gas Flush
+            Additional Details:
+            Classification Domain : custom
+            Classification Code : CAP678017
+            Supplier Part ID : Not Available
+           Line No.    PO Line No. Type                            Supplier Part No. / Description
+            6         6         Material
+                                                                 Not Available / L6 / (QTY 6) Size 7.5&quot; RCC Former - Gas Flush
+            Additional Details:
+            Classification Domain : custom
+            Classification Code : CAP678017
+            Supplier Part ID : Not Available
+           Line No.    PO Line No. Type                           Supplier Part No. / Description
+            7         7         Material
+                                                                Not Available / L7 / (QTY 17) Size 8.5&quot; RCC Former - Gas Flush
+            Additional Details:
+            Classification Domain : custom
+            Classification Code : CAP678017
+            Supplier Part ID : Not Available
+           Line No.    PO Line No. Type                           Supplier Part No. / Description
+            8         8         Material                         Not Available / L8 / (QTY 2) Size 9&quot; RCC Former - Gas Flush
+           Additional Details:
+            Classification Domain : custom
+            Classification Code : CAP678017
+            Supplier Part ID : Not Available
+           Line No.
+                      PO Line No. Type                           Supplier Part No. / Description
+           9
+                      9         Material                         Not Available / L9 / (QTY 10) Size 9.5&quot; RCC Former - Gas Flush
+           Additional Details:
+            Classification Domain : custom
+           Classification Code : CAP678017
+           Supplier Part ID : Not Available
+           Line No.    PO Line No. Type
+                                                                Supplier Part No. / Description
+           10        10        Material
+                                                                Not Available / L10 / (QTY 6) Size 10&guot; RCC Former - Gas Flush
+           Additional Details:
+           Classification Domain : custom
+           Classification Code : CAP678017
+           Supplier Part ID : Not Available
+           Line No.    PO Line No. Type                           Supplier Part No. / Description
+           11        11        Material                         Not Available / L11 / (QTY 9) Size 10.5&quot; RCC Former - Gas Flush
+           Additional Details:
+           Classification Domain : custom
+           Classification Code : CAP678017
+            Supplier Part ID : Not Available
+           Line No.    PO Line No. Type
+                                                                Supplier Part No. / Description
+           12        12        Material                         Not Available / L12 / (QTY 3) Size 11&quot; RCC Former - Gas Flush
+           Additional Details:
+           Classification Domain : custom
+           Classification Code : CAP678017
+           Supplier Part ID : Not Available
+           Line No.
+                     PO Line No. Type                           Supplier Part No. / Description
+           13        13        Material
+                                                               Not Available / L13 / (QTY 3) Size 11.5&quot; RCC Former - Gas Flush
+           Additional Details:
+           Classification Domain : custom
+           Classification Code : CAP678017
+           Supplier Part ID : Not Available
+           Line No.    PO Line No. Type                           Supplier Part No. / Description
+           14
+                     14        Material                        Not Available / L14 / (QTY 8) Size 12'&quot; RCC Former - Gas Flush
+           Additional Details:
+           Classification Domain : custom
+           Classification Code : CAP678017
+           Supplier Part ID : Not Available
+          PDF generated on Friday 13 Feb 2026 8:49 AM GMT-08:00
+==================================<Page 8 - END>================================
+==================================<Page 9 - START>================================
+        Standard Invoice
+        Original tax invoice has been submitted electronically. This is a                    Invoice Number                                             44093
+                                                                           (Supplier Reference No.)
+                                                                           Invoice Date                    Thursday 12 Feb 2026 12:00 PM GMT-05:00
+                                                                           Amount Due                                       $340,102.00 USD
+            Contact Information                                                          Shipping Information
+            Supplier                        Customer
+                                                                                     Ship From                      Ship To
+            GREENER CORP
+                                          Frito-Lay, Inc.                                                              US-PL-PERRY-GA-FLI
+                                                                                     GREENER CORP
+           4 Helmly St                     c/o PEPSICO NASS                                                         monika.michalik@pepsico.com
+                                                                                     4 Helmly St
+           Bayville                        ACCOUNTS PAYABLES                                                      US-PL-PERRY-GA-FLI
+                                                                                     Bayville
+           NJ                            PO BOX 1800                                                              1200 GA HIGHWAY 247 S
+                                                                                     NJ
+           08721-2188                     Winston Salem                                                              KATHLEEN
+                                                                                     08721-2188
+            United States                    NC                                                                      GA
+                                                                                     United States
+                                          27105                                                                    31047-2302
+                                          United States                                                               United States
+                                          Address ID: US28                                                            Address ID: 2018
+                                                                                                                   Phone: 9876100
+         Line Items
+                                                                  PO No. : M413348541                                         PO Date : 31 Oct 2025
+         Line No.    PO Line No.          Type    Supplier Part No. /              Customer Part No.         Quantity             Unit Price
+                                                                                                                                      Subtotal
+                                               Description                                         (UOM)
+         1         1                  Material  Not Available / L1 / (QTY 4) Size                          13,600 / (EA)        $1.00 USD   $13,600.00 USD
+                                               5.25&quot; RCC Former - Gas
+                                               Flush
+                 Taxes, Allowances and Charges
+                 Category
+                                            Applicable To         Details                  Base Amount          Rate %        Amount
+                  Sales Tax                  Line
+                                                                Tax Description : A/P Sales   $0.00 USD            0%          $0.00 USD
+                                                                Tax
+                                                                                                            Line Item Total : $13,600.00 USD
+        Line No.    PO Line No.          Type    Supplier Part No. /              Customer Part No.
+                                                                                                 Quantity             Unit Price         Subtotal
+                                               Description
+        2         2
+                                      Material Not Available / L2 / (QTY 20) Size                         68,000 / (EA)
+                                                                                                                    $1.00 USD   $68,000.00 USD
+                                               5.5&quot; RCC Former - Gas Flush
+                Taxes, Allowances and Charges
+                Category                   Applicable To         Details                  Base Amount
+                                                                                                           Rate %       Amount
+                 Sales Tax
+                                           Line                Tax Description : A/P Sales   $0.00 USD            0%
+                                                                                                                         $0.00 USD
+                                                                Tax
+                                                                                                            Line Item Total : $68,000.00 USD
+       Line No.    PO Line No.          Type    Supplier Part No. /
+                                                                          Customer Part No.         Quantity             Unit Price         Subtotal
+                                              Description
+                                                                                                (UOM)
+      3         3                   Material Not Available / L3 / (QTY 12) Size
+                                                                                                 30,864 / (EA)        $1.00 USD   $30,864.00 USD
+                                              5.75&quot; RCC Former - Gas
+                                              Flush
+              Taxes, Allowances and Charges
+               Category                    Applicable To          Details
+                                                                                      Base Amount          Rate %        Amount
+               Sales Tax                   Line                Tax Description : A/P Sales
+                                                                                       $0.00 USD            %0          $0.00 USD
+                                                               Tax
+                                                                                                            Line Item Total : $30,864.00 USD
+    Line No.    PO Line No.           Type    Supplier Part No. /              Customer Part No.         Quantity
+                                                                                                                    Unit Price         Subtotal
+                                             Description                                          (UOM)
+    4                               Material
+                4                           Not Available / L4 / (QTY 10) Size                          26,970 / (EA)        $1.00 USD
+                                                                                                                               $26,970.00 USD
+                                             6.5&quot; RCC Former - Gas Flush
+            Taxes, Allowances and Charges
+             Category                    Applicable To          Details
+                                                                                      Base Amount          Rate %       Amount
+              Sales Tax                    Line                 Tax Description : A/P Sales   $0.00 USD            0%          $0.00 USD
+                                                              Tax
+                                                                                                            Line Item Total : $26,970.00 USD
+  Line No.    PO Line No.           Type    Supplier Part No. /              Customer Part No.         Quantity             Unit Price         Subtotal
+                                            Description                                          (UOM)
+              5
+  5                                Material  Not Available / L5 / (QTY 4) Size                           11,804 / (EA)         $1.00 USD   $11,804.00 USD
+                                            7&guot; RCC Former - Gas Flush
+           Taxes, Allowances and Charges
+            Category                     Applicable To          Details                  Base Amount          Rate %
+                                                                                                                        Amount
+            Sales Tax                    Line                 Tax Description : A/P Sales   $0.00 USD            0%           $0.00 USD
+                                                              Tax
+                                                                                                            Line Item Total : $11,804.00 USD
+ Line No.    PO Line No.            Type    Supplier Part No. /              Customer Part No.         Quantity             Unit Price         Subtotal
+                                            Description                                           (UOM)
+             6
+6                                 Material Not Available / L6 / (QTY 6) Size                           17,706 / (EA)         $1.00 USD   $17,706.00 USD
+                                            7.5&quot; RCC Former - Gas Flush
+          Taxes, Allowances and Charges
+           Category                     Applicable To          Details                  Base Amount          Rate %        Amount
+            Sales Tax                    Line                 Tax Description : A/P Sales   $0.00 USD            0%           $0.00 USD
+                                                             Tax
+                                                                                                           Line Item Total : $17,706.00 USD
+Line No.    PO Line No.           Type    Supplier Part No. /              Customer Part No.         Quantity             Unit Price
+                                                                                                                                    Subtotal
+                                           Description                                           (UOM)
+7           7                    Material  Not Available / L7 / (QTY 17) Size                          50,167 / (EA)        $1.00 USD   $50,167.00 USD
+                                           8.5&quot; RCC Former - Gas Flush
+          Taxes, Allowances and Charges
+          Category                     Applicable To         Details                  Base Amount          Rate %       Amount
+           Sales Tax
+                                        Line                Tax Description : A/P Sales   $0.00 USD            0%           $0.00 USD
+                                                             Tax
+                                                                                                           Line Item Total : $50,167.00 USD
+==================================<Page 9 - END>================================
+==================================<Page 10 - START>================================
+  Line No.     PO Line No.           Type    Supplier Part No. /                                                            Unit Price          Subtotal
+                                                                            Customer Part No.         Quantity
+                                             Description
+                                                                                                    (UOM)
+  8
+              8                    Material  Not Available / L8 / (QTY 2) Size                                                              $5,902.00 USD
+                                                                                                    5,902 / (EA)          $1.00 USD
+                                             9&quot; RCC Former - Gas Flush
+            Taxes, Allowances and Charges
+             Category                    Applicable To          Details                   Base Amount          Rate %        Amount
+             Sales Tax
+                                          Line                  Tax Description : A/P Sales   $0.00 USD            0%           $0.00 USD
+                                                                Tax
+                                                                                                                 Line Item Total : $5,902.00 USD
+  Line No.
+               PO Line No.           Type    Supplier Part No. /               Customer Part No.         Quantity              Unit Price           Subtotal
+                                             Description                                            (UOM)
+  6
+               9                    MaterialNot Available / L9 / (QTY 10) Size                           29,510 / (EA)         $1.00 USD    $29,510.00 USD
+                                             9.5&quot; RCC Former - Gas Flush
+            Taxes, Allowances and Charges
+                                                                Details                   Base Amount           Rate %        Amount
+             Category                    Applicable To
+             Sales Tax                    Line                 Tax Description : A/P Sales   $0.00 USD             0%           $0.00 USD
+                                                                Tax
+                                                                                                               Line Item Total : $29,510.00 USD
+  Line No.    PO Line No.           Type    Supplier Part No. /               Customer Part No.         Quantity              Unit Price           Subtotal
+                                             Description                                            (UOM)
+   10         10                  Material  Not Available / L10 / (QTY 6) Size                           17,706 / (EA)         $1.00 USD    $17,706.00 USD
+                                             10&quot; RCC Former - Gas Flush
+            Taxes, Allowances and Charges
+                                          Applicable To          Details                  Base Amount          Rate %        Amount
+              Category
+                                          Line                 Tax Description : A/P Sales   $0.00 USD            0%            $0.00 USD
+              Sales Tax
+                                                               Tax
+                                                                                                              Line Item Total : $17,706.00 USD
+                PO Line No.           Type    Supplier Part No. /              Customer Part No.         Quantity              Unit Price          Subtotal
+   Line No.                                                                                       (UOM)
+                                             Description
+                                     Material                                                       26,559 / (EA)         $1.00 USD
+                11                          Not Available / L11 / (QTY 9) Size                                                           $26,559.00 USD
+                                             10.5&quot; RCC Former - Gas
+                                             Flush
+             Taxes, Allowances and Charges
+                                                                                        Base Amount
+              Category                    Applicable To          Details                                        Rate %        Amount
+                                          Line                 Tax Description : A/P Sales   $0.00 USD
+               Sales Tax                                                                                     0%           $0.00 USD
+                                                               Tax
+                                                                                                              Line Item Total : $26,559.00 USD
+                                     Type    Supplier Part No. /              Customer Part No.         Quantity              Unit Price          Subtotal
+     Line No.    PO Line No.
+                                             Description                                           (UOM)
+                                     MaterialNot Available / L12 / (QTY 3) Size                          8,853 / (EA)          $1.00 USD     $8,853.00 USD
+     12         12
+                                              11&quot; RCC Former - Gas Flush
+              Taxes, Allowances and Charges
+                                           Applicable To          Details                  Base Amount          Rate %        Amount
+                Category
+                                                               Tax Description : A/P Sales   $0.00 USD
+                Sales Tax                   Line                                                             0%           $0.00 USD
+                                                               Tax
+                                                                                                              Line Item Total : $8.853.00 USD
+                                              Supplier Part No. /              Customer Part No.         Quantity             Unit Price
+      Line No.    PO Line No.          Type                                                                                             Subtotal
+                                              Description                                           (UOM)
+                  13                 Material  Not Available / L13 / (QTY 3) Size                          8,853 / (EA)          $1.00 USD    $8,853.00 USD
+      13
+                                              11.5&guot: RCC Former - Gas
+                                              Flush
+               Taxes, Allowances and Charges
+                Category                   Applicable To          Details                  Base Amount          Rate %        Amount
+                                           Line                Tax Description : A/P Sales   $0.00 USD
+                 Sales Tax                                                                                   0%           $0.00 USD
+                                                               Tax
+                                                                                                              Line Item Total : $8,853.00 USD
+       Line No.    PO Line No.          Type    Supplier Part No. /              Customer Part No.         Quantity             Unit Price
+                                                                                                                                     Subtotal
+                                              Description                                          (UOM)
+        14        14                 Material Not Available / L14 / (QTY 8) Size
+                                                                                                 23,608 / (EA)        $1.00 USD   $23,608.00 USD
+                                              12'&quot; RCC Former - Gas Flush
+                Taxes, Allowances and Charges
+                Category                                       Details                 Base Amount
+                                           Applicable To                                                     Rate %       Amount
+                 Sales Tax                   Line                Tax Description : A/P Sales   $0.00 USD            0%          $0.00 USD
+                                                               Tax
+                                                                                                            Line Item Total : $23,608.00 USD
+            Tax Summary
+           Category               Details                            Base Amount                Rate %          Amount
+            Sales Tax               Tax Description : A/P Sales Tax         $0.00 USD                  0%             $0.00 USD
+                                                                                       Amount Summary
+                                                                                       Line item subtotal                        $340,102.00 USD
+                                                                                       Gross amount                          $340,102.00 USD
+                                                                                       Net amount                            $340,102.00 USD
+                                                                                       Total tax amount                             $0.00 USD
+                                                                                       Total withholding tax amount
+                                                                                       Amount Due                            $340,102.00 USD
+           Additional Information
+           Payment Method
+           Wire
+           Billing Information                                                          Remittance Information
+           Bill From                       Bill To                                     Remit To
+           GREENER CORP                                                          Lynda
+                                         Frito-Lay, Inc.
+           4 Helmly St                     c/o PEPSICO NASS                           4 Helmly Street
+           Bayville                        ACCOUNTS PAYABLES                       Bayville
+           NJ                                                                     NJ
+                                         PO BOX 1800
+           08721-2188                     Winston Salem                              08721
+           United States                   NC                                       United States
+                                                                                  Address ID: US1_11513
+                                         27105
+                                         United States
+                                         Address ID: US28
+         Payment Terms
+==================================<Page 10 - END>================================
+==================================<Page 12 - START>================================
+            Appendix
+            Line No.
+                       PO Line No. Type                           Supplier Part No. / Description
+            1
+                       1         Material                         Not Available / L1 / (QTY 4) Size 5.25&quot; RCC Former - Gas Flush
+            Additional Details:
+            Classification Domain : custom
+            Classification Code : CAP678017
+            Supplier Part ID : Not Available
+           Line No.
+                       PO Line No. Type                           Supplier Part No. / Description
+            2
+                       2         Material
+                                                                  Not Available / L2 / (QTY 20) Size 5.5&quot; RCC Former - Gas Flush
+           Additional Details:
+           Classification Domain : custom
+           Classification Code : CAP678017
+            Supplier Part ID : Not Available
+           Line No.
+                       PO Line No. Type                           Supplier Part No. / Description
+            3
+                      3         Material                         Not Available / L3 / (QTY 12) Size 5.75&quot; RCC Former - Gas Flush
+            Additional Details:
+            Classification Domain : custom
+            Classification Code : CAP678017
+            Supplier Part ID : Not Available
+           Line No.
+                      PO Line No. Type                           Supplier Part No. / Description
+            4
+                       4          Material                         Not Available / L4 / (QTY 10) Size 6.5&quot; RCC Former - Gas Flush
+            Additional Details:
+            Classification Domain : custom
+            Classification Code : CAP678017
+            Supplier Part ID : Not Available
+           Line No.    PO Line No. Type
+                                                                 Supplier Part No. / Description
+            5         5         Material
+                                                                 Not Available / L5 / (QTY 4) Size 7&quot; RCC Former - Gas Flush
+            Additional Details:
+            Classification Domain : custom
+            Classification Code : CAP678017
+            Supplier Part ID : Not Available
+           Line No.    PO Line No. Type                            Supplier Part No. / Description
+            6         6         Material
+                                                                 Not Available / L6 / (QTY 6) Size 7.5&quot; RCC Former - Gas Flush
+            Additional Details:
+            Classification Domain : custom
+            Classification Code : CAP678017
+            Supplier Part ID : Not Available
+           Line No.    PO Line No. Type                           Supplier Part No. / Description
+            7         7         Material
+                                                                Not Available / L7 / (QTY 17) Size 8.5&quot; RCC Former - Gas Flush
+            Additional Details:
+            Classification Domain : custom
+            Classification Code : CAP678017
+            Supplier Part ID : Not Available
+           Line No.    PO Line No. Type                           Supplier Part No. / Description
+            8         8         Material                         Not Available / L8 / (QTY 2) Size 9&quot; RCC Former - Gas Flush
+           Additional Details:
+            Classification Domain : custom
+            Classification Code : CAP678017
+            Supplier Part ID : Not Available
+           Line No.
+                      PO Line No. Type                           Supplier Part No. / Description
+           9
+                      9         Material                         Not Available / L9 / (QTY 10) Size 9.5&quot; RCC Former - Gas Flush
+           Additional Details:
+            Classification Domain : custom
+           Classification Code : CAP678017
+           Supplier Part ID : Not Available
+           Line No.    PO Line No. Type
+                                                                Supplier Part No. / Description
+           10        10        Material
+                                                                Not Available / L10 / (QTY 6) Size 10&guot; RCC Former - Gas Flush
+           Additional Details:
+           Classification Domain : custom
+           Classification Code : CAP678017
+           Supplier Part ID : Not Available
+           Line No.    PO Line No. Type                           Supplier Part No. / Description
+           11        11        Material                         Not Available / L11 / (QTY 9) Size 10.5&quot; RCC Former - Gas Flush
+           Additional Details:
+           Classification Domain : custom
+           Classification Code : CAP678017
+            Supplier Part ID : Not Available
+           Line No.    PO Line No. Type
+                                                                Supplier Part No. / Description
+           12        12        Material                         Not Available / L12 / (QTY 3) Size 11&quot; RCC Former - Gas Flush
+           Additional Details:
+           Classification Domain : custom
+           Classification Code : CAP678017
+           Supplier Part ID : Not Available
+           Line No.
+                     PO Line No. Type                           Supplier Part No. / Description
+           13        13        Material
+                                                               Not Available / L13 / (QTY 3) Size 11.5&quot; RCC Former - Gas Flush
+           Additional Details:
+           Classification Domain : custom
+           Classification Code : CAP678017
+           Supplier Part ID : Not Available
+           Line No.    PO Line No. Type                           Supplier Part No. / Description
+           14
+                     14        Material                        Not Available / L14 / (QTY 8) Size 12'&quot; RCC Former - Gas Flush
+           Additional Details:
+           Classification Domain : custom
+           Classification Code : CAP678017
+           Supplier Part ID : Not Available
+          PDF generated on Friday 13 Feb 2026 8:49 AM GMT-08:00
+==================================<Page 12 - END>================================

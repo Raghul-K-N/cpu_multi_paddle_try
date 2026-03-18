@@ -1,0 +1,59 @@
+{
+  "invoice_data": {
+    "invoice_number": "7610",
+    "invoice_date": "Tuesday 10 Feb. 2026 11:14 a.m. GMT-05:00",
+    "invoice_amount": "5328.50",
+    "invoice_currency": [
+      "CAD"
+    ],
+    "tax_amount": "613.01",
+    "po_number": [
+      "M413536640"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "HIGH PURITY WATER SERVICES",
+    "vendor_address": "2095 Matheson Blvd East, N Service RD E, Oakville, ON L6H 1A7, Canada, Address ID: CA11",
+    "po_line_items": [
+      {
+        "description": "HP-Service / Distilled Water System - Service and Training - QUOTE# 2945",
+        "quantity": 1.0,
+        "net_price": 4715.49
+      }
+    ],
+    "vat_amount": null,
+    "gl_account": null,
+    "bank_name": null,
+    "account_holder_name": null,
+    "banking_account_number": null,
+    "remit_to_address": null,
+    "bill_to_address": null,
+    "transaction_type": "debit"
+  },
+  "filename": "SAPS4_5101589002_CA11_PFNACA_2026_304654729.pdf",
+  "raw_response": {
+    "invoice_number": "7610",
+    "invoice_date": "Tuesday 10 Feb. 2026 11:14 a.m. GMT-05:00",
+    "invoice_amount": "5328.50",
+    "invoice_currency": [
+      "CAD"
+    ],
+    "tax_amount": "613.01",
+    "po_number": [
+      "M413536640"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "HIGH PURITY WATER SERVICES",
+    "vendor_address": "2095 Matheson Blvd East, N Service RD E, Oakville, ON L6H 1A7, Canada, Address ID: CA11",
+    "po_line_items": [
+      {
+        "description": "HP-Service / Distilled Water System - Service and Training - QUOTE# 2945",
+        "quantity": 1.0,
+        "net_price": 4715.49
+      }
+    ]
+  }
+}

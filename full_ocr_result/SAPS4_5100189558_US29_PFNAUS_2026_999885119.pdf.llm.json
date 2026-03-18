@@ -1,0 +1,85 @@
+{
+  "invoice_data": {
+    "invoice_number": "5325",
+    "invoice_date": "02/11/2026",
+    "invoice_amount": "1251.18",
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": null,
+    "po_number": null,
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "PROFESSIONAL TECHNOLOGY SERVICES, INC.",
+    "vendor_address": "100 LOUIS STREET, SOUTH HACKENSACK, NJ 07606",
+    "po_line_items": [
+      {
+        "description": "Service Call Scope of Work: We received a call from Antonio that there is an issue with the baler at the Wayne location. We arrived on-site and found that the key switch has been broken on the controls. We removed the broken key switch and found wires knocked loose. We replaced the key switch with a spring to center selector switch. Checked all wired connections for more loose connections. Ran and tested the unit no other issues found.",
+        "quantity": 1.0,
+        "net_price": 550.0
+      },
+      {
+        "description": "Service Call Scope of Work: While there Antonio explained that the compactor is not working well. We explained to Antonio that it is due to the cold and the compactor will run slower than normal until the unit heats up. We brought our heater and began to heat the unit, continuously ran the compactor to unfreeze it. Adjusted the timing as needed to ensure a full cycle.",
+        "quantity": 1.0,
+        "net_price": 550.0
+      },
+      {
+        "description": "Spring to Center 22MM Selector Switch",
+        "quantity": 1.0,
+        "net_price": 88.98
+      },
+      {
+        "description": "N.O. Contact Block",
+        "quantity": 1.0,
+        "net_price": 62.2
+      }
+    ],
+    "vat_amount": null,
+    "gl_account": null,
+    "bank_name": null,
+    "account_holder_name": null,
+    "banking_account_number": null,
+    "remit_to_address": null,
+    "bill_to_address": null,
+    "transaction_type": "debit"
+  },
+  "filename": "SAPS4_5100189558_US29_PFNAUS_2026_999885119.pdf",
+  "raw_response": {
+    "invoice_number": "5325",
+    "invoice_date": "02/11/2026",
+    "invoice_amount": "1251.18",
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": null,
+    "po_number": null,
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "PROFESSIONAL TECHNOLOGY SERVICES, INC.",
+    "vendor_address": "100 LOUIS STREET, SOUTH HACKENSACK, NJ 07606",
+    "po_line_items": [
+      {
+        "description": "Service Call Scope of Work: We received a call from Antonio that there is an issue with the baler at the Wayne location. We arrived on-site and found that the key switch has been broken on the controls. We removed the broken key switch and found wires knocked loose. We replaced the key switch with a spring to center selector switch. Checked all wired connections for more loose connections. Ran and tested the unit no other issues found.",
+        "quantity": 1.0,
+        "net_price": 550.0
+      },
+      {
+        "description": "Service Call Scope of Work: While there Antonio explained that the compactor is not working well. We explained to Antonio that it is due to the cold and the compactor will run slower than normal until the unit heats up. We brought our heater and began to heat the unit, continuously ran the compactor to unfreeze it. Adjusted the timing as needed to ensure a full cycle.",
+        "quantity": 1.0,
+        "net_price": 550.0
+      },
+      {
+        "description": "Spring to Center 22MM Selector Switch",
+        "quantity": 1.0,
+        "net_price": 88.98
+      },
+      {
+        "description": "N.O. Contact Block",
+        "quantity": 1.0,
+        "net_price": 62.2
+      }
+    ]
+  }
+}

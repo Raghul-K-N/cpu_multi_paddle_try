@@ -1,0 +1,69 @@
+{
+  "invoice_data": {
+    "invoice_number": "93305531",
+    "invoice_date": "02/03/2026",
+    "invoice_amount": "231.76",
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": null,
+    "po_number": [
+      "4504739895"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": "37.31",
+    "cost_center": null,
+    "vendor_name": "Heat and Control",
+    "vendor_address": "21121 CABOT BLVD, HAYWARD CA 94545-1132",
+    "po_line_items": [
+      {
+        "description": "X000111731602 BASE, PULL BELT",
+        "quantity": 1.0,
+        "net_price": 194.45
+      },
+      {
+        "description": "1010 FREIGHT",
+        "quantity": 1.0,
+        "net_price": 37.31
+      }
+    ],
+    "vat_amount": null,
+    "gl_account": null,
+    "bank_name": null,
+    "account_holder_name": null,
+    "banking_account_number": null,
+    "remit_to_address": null,
+    "bill_to_address": null,
+    "transaction_type": "debit"
+  },
+  "filename": "SAPS4_5100007523_US28_PFNAUS_2026_999884243.pdf",
+  "raw_response": {
+    "invoice_number": "93305531",
+    "invoice_date": "02/03/2026",
+    "invoice_amount": "231.76",
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": null,
+    "po_number": [
+      "4504739895"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": "37.31",
+    "cost_center": null,
+    "vendor_name": "Heat and Control",
+    "vendor_address": "21121 CABOT BLVD, HAYWARD CA 94545-1132",
+    "po_line_items": [
+      {
+        "description": "X000111731602 BASE, PULL BELT",
+        "quantity": 1.0,
+        "net_price": 194.45
+      },
+      {
+        "description": "1010 FREIGHT",
+        "quantity": 1.0,
+        "net_price": 37.31
+      }
+    ]
+  }
+}

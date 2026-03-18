@@ -1,0 +1,47 @@
+{
+  "invoice_data": {
+    "invoice_number": "710243",
+    "invoice_date": "12/9/2025",
+    "invoice_amount": null,
+    "invoice_currency": [
+      "CAD"
+    ],
+    "tax_amount": null,
+    "po_number": [
+      "4504980075"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "Environics Analytics",
+    "vendor_address": "33 Bloor Street East, Suite 400, Toronto, Ontario, M4W 3H1",
+    "po_line_items": null,
+    "vat_amount": null,
+    "gl_account": null,
+    "bank_name": null,
+    "account_holder_name": null,
+    "banking_account_number": null,
+    "remit_to_address": null,
+    "bill_to_address": null,
+    "transaction_type": "debit"
+  },
+  "filename": "SAPS4_5101431003_CA11_PFNACA_2026_304658870.pdf",
+  "raw_response": {
+    "invoice_number": "710243",
+    "invoice_date": "12/9/2025",
+    "invoice_amount": null,
+    "invoice_currency": [
+      "CAD"
+    ],
+    "tax_amount": null,
+    "po_number": [
+      "4504980075"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "Environics Analytics",
+    "vendor_address": "33 Bloor Street East, Suite 400, Toronto, Ontario, M4W 3H1",
+    "po_line_items": null
+  }
+}

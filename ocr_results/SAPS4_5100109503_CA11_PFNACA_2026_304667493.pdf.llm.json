@@ -1,0 +1,59 @@
+{
+  "invoice_data": {
+    "invoice_number": "9806615754",
+    "invoice_date": "Thursday 12 Feb. 2026 7:00 a.m. GMT-05:00",
+    "invoice_amount": "64.16",
+    "invoice_currency": [
+      "CAD"
+    ],
+    "tax_amount": "3.06",
+    "po_number": [
+      "M413539689"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "ACKLANDS-GRAINGER INC.",
+    "vendor_address": "PO BOX 2970, WINNIPEG, MB R3C 4B5, CA; TABER PLANT 5904 52 AVE, TABER, AB T1G 1K3, Canada; 11708 - 167 STREET NW, EDMONTON, AB T5M 3Z2, Canada",
+    "po_line_items": [
+      {
+        "description": "DSB50272EA / AIR FRESHENER,2 1/2 IN W.CLEAR",
+        "quantity": 10.0,
+        "net_price": 6.11
+      }
+    ],
+    "vat_amount": null,
+    "gl_account": null,
+    "bank_name": null,
+    "account_holder_name": null,
+    "banking_account_number": null,
+    "remit_to_address": null,
+    "bill_to_address": null,
+    "transaction_type": "debit"
+  },
+  "filename": "SAPS4_5100109503_CA11_PFNACA_2026_304667493.pdf",
+  "raw_response": {
+    "invoice_number": "9806615754",
+    "invoice_date": "Thursday 12 Feb. 2026 7:00 a.m. GMT-05:00",
+    "invoice_amount": "64.16",
+    "invoice_currency": [
+      "CAD"
+    ],
+    "tax_amount": "3.06",
+    "po_number": [
+      "M413539689"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "ACKLANDS-GRAINGER INC.",
+    "vendor_address": "PO BOX 2970, WINNIPEG, MB R3C 4B5, CA; TABER PLANT 5904 52 AVE, TABER, AB T1G 1K3, Canada; 11708 - 167 STREET NW, EDMONTON, AB T5M 3Z2, Canada",
+    "po_line_items": [
+      {
+        "description": "DSB50272EA / AIR FRESHENER,2 1/2 IN W.CLEAR",
+        "quantity": 10.0,
+        "net_price": 6.11
+      }
+    ]
+  }
+}

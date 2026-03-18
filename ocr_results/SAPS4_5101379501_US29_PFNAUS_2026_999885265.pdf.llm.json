@@ -1,0 +1,61 @@
+{
+  "invoice_data": {
+    "invoice_number": "1329186",
+    "invoice_date": "2/1/2026",
+    "invoice_amount": null,
+    "invoice_currency": null,
+    "tax_amount": null,
+    "po_number": null,
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "CASSONE LEASING, INC.",
+    "vendor_address": "1900 LAKELAND AVE., RONKONKOMA , NY 11779",
+    "po_line_items": [
+      {
+        "description": "40 Ft Ground Level Storage C located at 12 Richbern Ct Wyandanch",
+        "quantity": null,
+        "net_price": 395.0
+      },
+      {
+        "description": "40 Ft Ground Level Storage C located at 12 Richbern Ct Wyandanch",
+        "quantity": null,
+        "net_price": 395.0
+      }
+    ],
+    "vat_amount": null,
+    "gl_account": null,
+    "bank_name": null,
+    "account_holder_name": null,
+    "banking_account_number": null,
+    "remit_to_address": null,
+    "bill_to_address": null,
+    "transaction_type": "debit"
+  },
+  "filename": "SAPS4_5101379501_US29_PFNAUS_2026_999885265.pdf",
+  "raw_response": {
+    "invoice_number": "1329186",
+    "invoice_date": "2/1/2026",
+    "invoice_amount": null,
+    "invoice_currency": null,
+    "tax_amount": null,
+    "po_number": null,
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "CASSONE LEASING, INC.",
+    "vendor_address": "1900 LAKELAND AVE., RONKONKOMA , NY 11779",
+    "po_line_items": [
+      {
+        "description": "40 Ft Ground Level Storage C located at 12 Richbern Ct Wyandanch",
+        "quantity": null,
+        "net_price": 395.0
+      },
+      {
+        "description": "40 Ft Ground Level Storage C located at 12 Richbern Ct Wyandanch",
+        "quantity": null,
+        "net_price": 395.0
+      }
+    ]
+  }
+}

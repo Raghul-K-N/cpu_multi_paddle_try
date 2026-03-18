@@ -1,0 +1,75 @@
+{
+  "invoice_data": {
+    "invoice_number": "FLWAR-102125",
+    "invoice_date": "01/30/2026",
+    "invoice_amount": null,
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": null,
+    "po_number": null,
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "Frito Lay Warwick",
+    "vendor_address": "145 Commerce Dr, Warwick, RI 02886",
+    "po_line_items": [
+      {
+        "description": "Service Estimate requested by EA for repair work on door #10 that was struct by delivery truck from traffic.",
+        "quantity": 1.0,
+        "net_price": 1200.0
+      },
+      {
+        "description": "Product Replacement top",
+        "quantity": 1.0,
+        "net_price": 500.0
+      },
+      {
+        "description": "Service Lift rental",
+        "quantity": 1.0,
+        "net_price": 4750.0
+      }
+    ],
+    "vat_amount": null,
+    "gl_account": null,
+    "bank_name": null,
+    "account_holder_name": null,
+    "banking_account_number": null,
+    "remit_to_address": null,
+    "bill_to_address": null,
+    "transaction_type": "debit"
+  },
+  "filename": "SAPS4_5101503000_US29_PFNAUS_2026_999762580.pdf",
+  "raw_response": {
+    "invoice_number": "FLWAR-102125",
+    "invoice_date": "01/30/2026",
+    "invoice_amount": null,
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": null,
+    "po_number": null,
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "Frito Lay Warwick",
+    "vendor_address": "145 Commerce Dr, Warwick, RI 02886",
+    "po_line_items": [
+      {
+        "description": "Service Estimate requested by EA for repair work on door #10 that was struct by delivery truck from traffic.",
+        "quantity": 1.0,
+        "net_price": 1200.0
+      },
+      {
+        "description": "Product Replacement top",
+        "quantity": 1.0,
+        "net_price": 500.0
+      },
+      {
+        "description": "Service Lift rental",
+        "quantity": 1.0,
+        "net_price": 4750.0
+      }
+    ]
+  }
+}

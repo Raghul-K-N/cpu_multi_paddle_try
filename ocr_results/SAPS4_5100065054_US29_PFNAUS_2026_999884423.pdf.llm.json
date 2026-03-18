@@ -1,0 +1,113 @@
+{
+  "invoice_data": {
+    "invoice_number": "5090484305",
+    "invoice_date": "02/11/2026",
+    "invoice_amount": "13.55",
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": "0.0",
+    "po_number": [
+      "M413357644",
+      "N92695-FRITO",
+      "509"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": "0.00",
+    "cost_center": null,
+    "vendor_name": "vestis",
+    "vendor_address": "1209 TRADE DRIVE, LAS VEGAS NV 89030",
+    "po_line_items": [
+      {
+        "description": "CE0102BLAK DUST MOP HANDLE",
+        "quantity": 0.0,
+        "net_price": 0.0
+      },
+      {
+        "description": "CE0112BLAK AC MOP FRAME",
+        "quantity": 48.0,
+        "net_price": 0.0
+      },
+      {
+        "description": "MAT NYLON/RUBBER 4X6",
+        "quantity": 2.0,
+        "net_price": 1.661
+      },
+      {
+        "description": "DM0001DKGY 3X4",
+        "quantity": 7.0,
+        "net_price": 0.826
+      },
+      {
+        "description": "DP0018REDD MOP DUST SYNTHETIC",
+        "quantity": 3.0,
+        "net_price": 0.375
+      },
+      {
+        "description": "DP0018YELO MOP DUST SYNTHETIC",
+        "quantity": 3.0,
+        "net_price": 1.105
+      }
+    ],
+    "vat_amount": null,
+    "gl_account": null,
+    "bank_name": null,
+    "account_holder_name": null,
+    "banking_account_number": null,
+    "remit_to_address": null,
+    "bill_to_address": null,
+    "transaction_type": "debit"
+  },
+  "filename": "SAPS4_5100065054_US29_PFNAUS_2026_999884423.pdf",
+  "raw_response": {
+    "invoice_number": "5090484305",
+    "invoice_date": "02/11/2026",
+    "invoice_amount": "13.55",
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": "0.0",
+    "po_number": [
+      "M413357644",
+      "N92695-FRITO",
+      "509"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": "0.00",
+    "cost_center": null,
+    "vendor_name": "vestis",
+    "vendor_address": "1209 TRADE DRIVE, LAS VEGAS NV 89030",
+    "po_line_items": [
+      {
+        "description": "CE0102BLAK DUST MOP HANDLE",
+        "quantity": 0.0,
+        "net_price": 0.0
+      },
+      {
+        "description": "CE0112BLAK AC MOP FRAME",
+        "quantity": 48.0,
+        "net_price": 0.0
+      },
+      {
+        "description": "MAT NYLON/RUBBER 4X6",
+        "quantity": 2.0,
+        "net_price": 1.661
+      },
+      {
+        "description": "DM0001DKGY 3X4",
+        "quantity": 7.0,
+        "net_price": 0.826
+      },
+      {
+        "description": "DP0018REDD MOP DUST SYNTHETIC",
+        "quantity": 3.0,
+        "net_price": 0.375
+      },
+      {
+        "description": "DP0018YELO MOP DUST SYNTHETIC",
+        "quantity": 3.0,
+        "net_price": 1.105
+      }
+    ]
+  }
+}

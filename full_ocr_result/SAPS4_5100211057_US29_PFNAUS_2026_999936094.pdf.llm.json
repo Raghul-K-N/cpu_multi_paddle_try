@@ -1,0 +1,89 @@
+{
+  "invoice_data": {
+    "invoice_number": "5067072500",
+    "invoice_date": "02/11/2026",
+    "invoice_amount": "5.09",
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": "5.09",
+    "po_number": [
+      "M412629381"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": "0.00",
+    "cost_center": null,
+    "vendor_name": "vestis",
+    "vendor_address": "VESTIS\nPO BOX 101179\nPASADENA CA 91189-1179",
+    "po_line_items": [
+      {
+        "description": "GP0096NAVY PANT SHORTS TWILL 65/35",
+        "quantity": 5.0,
+        "net_price": 0.135
+      },
+      {
+        "description": "PANT CARGO 65/35",
+        "quantity": 11.0,
+        "net_price": 0.165
+      },
+      {
+        "description": "GP0730NAVY PANT SHORTS CARGO 65/35",
+        "quantity": 6.0,
+        "net_price": 0.165
+      },
+      {
+        "description": "GS1748PSBL SHIRT CAMP SS PEPSI 65/35",
+        "quantity": 11.0,
+        "net_price": 0.145
+      }
+    ],
+    "vat_amount": null,
+    "gl_account": null,
+    "bank_name": null,
+    "account_holder_name": null,
+    "banking_account_number": null,
+    "remit_to_address": null,
+    "bill_to_address": null,
+    "transaction_type": "debit"
+  },
+  "filename": "SAPS4_5100211057_US29_PFNAUS_2026_999936094.pdf",
+  "raw_response": {
+    "invoice_number": "5067072500",
+    "invoice_date": "02/11/2026",
+    "invoice_amount": "5.09",
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": "5.09",
+    "po_number": [
+      "M412629381"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": "0.00",
+    "cost_center": null,
+    "vendor_name": "vestis",
+    "vendor_address": "VESTIS\nPO BOX 101179\nPASADENA CA 91189-1179",
+    "po_line_items": [
+      {
+        "description": "GP0096NAVY PANT SHORTS TWILL 65/35",
+        "quantity": 5.0,
+        "net_price": 0.135
+      },
+      {
+        "description": "PANT CARGO 65/35",
+        "quantity": 11.0,
+        "net_price": 0.165
+      },
+      {
+        "description": "GP0730NAVY PANT SHORTS CARGO 65/35",
+        "quantity": 6.0,
+        "net_price": 0.165
+      },
+      {
+        "description": "GS1748PSBL SHIRT CAMP SS PEPSI 65/35",
+        "quantity": 11.0,
+        "net_price": 0.145
+      }
+    ]
+  }
+}

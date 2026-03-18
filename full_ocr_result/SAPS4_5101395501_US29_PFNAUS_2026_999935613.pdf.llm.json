@@ -1,0 +1,121 @@
+{
+  "invoice_data": {
+    "invoice_number": "6140753959",
+    "invoice_date": "02/04/2026",
+    "invoice_amount": "64.71",
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": "4.74",
+    "po_number": [
+      "M412050755",
+      "N92695-FLEET"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": "0.00",
+    "cost_center": null,
+    "vendor_name": "VESTIS",
+    "vendor_address": "25259 NETWORK PLACE, CHICAGO IL 60673-1252",
+    "po_line_items": [
+      {
+        "description": "GOS218NVOT JACKET HIP EVIS 65/35",
+        "quantity": 3.0,
+        "net_price": 0.5
+      },
+      {
+        "description": "GP0002NAVY PANT WORK TWILL 65/35",
+        "quantity": 11.0,
+        "net_price": 0.135
+      },
+      {
+        "description": "GS2638NVSR SHIRT EVIS LS FLEXFIT PEPSI",
+        "quantity": 11.0,
+        "net_price": 0.232
+      },
+      {
+        "description": "PRODUCT EMBLEM CH",
+        "quantity": 24.0,
+        "net_price": 1.193
+      },
+      {
+        "description": "NAME EMBL CHARGE",
+        "quantity": 11.0,
+        "net_price": 0.601
+      },
+      {
+        "description": "PREP CHARGE",
+        "quantity": 24.0,
+        "net_price": 0.2
+      },
+      {
+        "description": "GOS218NVOT JACKET HIP EVIS 65/35",
+        "quantity": 2.0,
+        "net_price": 0.168
+      }
+    ],
+    "vat_amount": null,
+    "gl_account": null,
+    "bank_name": null,
+    "account_holder_name": null,
+    "banking_account_number": null,
+    "remit_to_address": null,
+    "bill_to_address": null,
+    "transaction_type": "debit"
+  },
+  "filename": "SAPS4_5101395501_US29_PFNAUS_2026_999935613.pdf",
+  "raw_response": {
+    "invoice_number": "6140753959",
+    "invoice_date": "02/04/2026",
+    "invoice_amount": "64.71",
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": "4.74",
+    "po_number": [
+      "M412050755",
+      "N92695-FLEET"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": "0.00",
+    "cost_center": null,
+    "vendor_name": "VESTIS",
+    "vendor_address": "25259 NETWORK PLACE, CHICAGO IL 60673-1252",
+    "po_line_items": [
+      {
+        "description": "GOS218NVOT JACKET HIP EVIS 65/35",
+        "quantity": 3.0,
+        "net_price": 0.5
+      },
+      {
+        "description": "GP0002NAVY PANT WORK TWILL 65/35",
+        "quantity": 11.0,
+        "net_price": 0.135
+      },
+      {
+        "description": "GS2638NVSR SHIRT EVIS LS FLEXFIT PEPSI",
+        "quantity": 11.0,
+        "net_price": 0.232
+      },
+      {
+        "description": "PRODUCT EMBLEM CH",
+        "quantity": 24.0,
+        "net_price": 1.193
+      },
+      {
+        "description": "NAME EMBL CHARGE",
+        "quantity": 11.0,
+        "net_price": 0.601
+      },
+      {
+        "description": "PREP CHARGE",
+        "quantity": 24.0,
+        "net_price": 0.2
+      },
+      {
+        "description": "GOS218NVOT JACKET HIP EVIS 65/35",
+        "quantity": 2.0,
+        "net_price": 0.168
+      }
+    ]
+  }
+}

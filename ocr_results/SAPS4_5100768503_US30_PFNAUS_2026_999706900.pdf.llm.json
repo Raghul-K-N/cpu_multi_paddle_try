@@ -1,0 +1,113 @@
+{
+  "invoice_data": {
+    "invoice_number": "I001FK0459",
+    "invoice_date": "12/10/25",
+    "invoice_amount": "379.20",
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": "5.50 % WI SALES TAX",
+    "po_number": [
+      "m413083669",
+      "M413350261",
+      "P001P93340"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": "98.95",
+    "cost_center": null,
+    "vendor_name": "Imperial",
+    "vendor_address": "JANESVILLE - CHARLOTTE DALLAS · RENO • SCRANTON\nPhone: 920-494-7474 Toll-Free: 1-800-558-2808 Fax: 1-800-553-8769 Web; www,imperiąlsupplies.com",
+    "po_line_items": [
+      {
+        "description": "7577 SILICONE CLEAR",
+        "quantity": 12.0,
+        "net_price": 162.84
+      },
+      {
+        "description": "7596-2 SIKAFLEX 221 GRAY",
+        "quantity": 9.0,
+        "net_price": 77.31
+      },
+      {
+        "description": "82210 BRUSH PARTS CLEANING",
+        "quantity": 1.0,
+        "net_price": 5.29
+      },
+      {
+        "description": "260020-7 IMPERIAL 20\" BEAM PLUS",
+        "quantity": 10.0,
+        "net_price": 42.9
+      },
+      {
+        "description": "PUSHNUT 1/2\" ID/1\"OD ZINC",
+        "quantity": 100.0,
+        "net_price": 41.27
+      },
+      {
+        "description": "928785 Cold Protection",
+        "quantity": 1.0,
+        "net_price": 29.82
+      }
+    ],
+    "vat_amount": null,
+    "gl_account": null,
+    "bank_name": null,
+    "account_holder_name": null,
+    "banking_account_number": null,
+    "remit_to_address": null,
+    "bill_to_address": null,
+    "transaction_type": "debit"
+  },
+  "filename": "SAPS4_5100768503_US30_PFNAUS_2026_999706900.pdf",
+  "raw_response": {
+    "invoice_number": "I001FK0459",
+    "invoice_date": "12/10/25",
+    "invoice_amount": "379.20",
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": "5.50 % WI SALES TAX",
+    "po_number": [
+      "m413083669",
+      "M413350261",
+      "P001P93340"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": "98.95",
+    "cost_center": null,
+    "vendor_name": "Imperial",
+    "vendor_address": "JANESVILLE - CHARLOTTE DALLAS · RENO • SCRANTON\nPhone: 920-494-7474 Toll-Free: 1-800-558-2808 Fax: 1-800-553-8769 Web; www,imperiąlsupplies.com",
+    "po_line_items": [
+      {
+        "description": "7577 SILICONE CLEAR",
+        "quantity": 12.0,
+        "net_price": 162.84
+      },
+      {
+        "description": "7596-2 SIKAFLEX 221 GRAY",
+        "quantity": 9.0,
+        "net_price": 77.31
+      },
+      {
+        "description": "82210 BRUSH PARTS CLEANING",
+        "quantity": 1.0,
+        "net_price": 5.29
+      },
+      {
+        "description": "260020-7 IMPERIAL 20\" BEAM PLUS",
+        "quantity": 10.0,
+        "net_price": 42.9
+      },
+      {
+        "description": "PUSHNUT 1/2\" ID/1\"OD ZINC",
+        "quantity": 100.0,
+        "net_price": 41.27
+      },
+      {
+        "description": "928785 Cold Protection",
+        "quantity": 1.0,
+        "net_price": 29.82
+      }
+    ]
+  }
+}

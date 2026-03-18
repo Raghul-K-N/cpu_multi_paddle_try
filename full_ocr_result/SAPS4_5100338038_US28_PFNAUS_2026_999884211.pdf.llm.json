@@ -1,0 +1,89 @@
+{
+  "invoice_data": {
+    "invoice_number": "844397786",
+    "invoice_date": "02/04/2026",
+    "invoice_amount": "678.38",
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": null,
+    "po_number": [
+      "4505093349"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "GRAINGER",
+    "vendor_address": "3900 GREENBRIAR DR., STAFFORD, TX 77477-3919",
+    "po_line_items": [
+      {
+        "description": "MANUAL 2-WAY BALL VALVE,NPT,316 SS",
+        "quantity": 4.0,
+        "net_price": 167.44
+      },
+      {
+        "description": "MANUAL 2-WAY BALL VALVE,SOCKET,316 SS",
+        "quantity": 1.0,
+        "net_price": 113.94
+      },
+      {
+        "description": "MANUAL 2-WAY BALL VALVE,NPT,SS",
+        "quantity": 2.0,
+        "net_price": 293.84
+      },
+      {
+        "description": "MANUAL 2-WAY BALL VALVE,NPT,316 SS",
+        "quantity": 4.0,
+        "net_price": 103.16
+      }
+    ],
+    "vat_amount": null,
+    "gl_account": null,
+    "bank_name": null,
+    "account_holder_name": null,
+    "banking_account_number": null,
+    "remit_to_address": null,
+    "bill_to_address": null,
+    "transaction_type": "debit"
+  },
+  "filename": "SAPS4_5100338038_US28_PFNAUS_2026_999884211.pdf",
+  "raw_response": {
+    "invoice_number": "844397786",
+    "invoice_date": "02/04/2026",
+    "invoice_amount": "678.38",
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": null,
+    "po_number": [
+      "4505093349"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "GRAINGER",
+    "vendor_address": "3900 GREENBRIAR DR., STAFFORD, TX 77477-3919",
+    "po_line_items": [
+      {
+        "description": "MANUAL 2-WAY BALL VALVE,NPT,316 SS",
+        "quantity": 4.0,
+        "net_price": 167.44
+      },
+      {
+        "description": "MANUAL 2-WAY BALL VALVE,SOCKET,316 SS",
+        "quantity": 1.0,
+        "net_price": 113.94
+      },
+      {
+        "description": "MANUAL 2-WAY BALL VALVE,NPT,SS",
+        "quantity": 2.0,
+        "net_price": 293.84
+      },
+      {
+        "description": "MANUAL 2-WAY BALL VALVE,NPT,316 SS",
+        "quantity": 4.0,
+        "net_price": 103.16
+      }
+    ]
+  }
+}

@@ -1,0 +1,89 @@
+{
+  "invoice_data": {
+    "invoice_number": "79218476",
+    "invoice_date": "27-AUG-25",
+    "invoice_amount": "921.39",
+    "invoice_currency": [
+      "CAD"
+    ],
+    "tax_amount": "120.18",
+    "po_number": [
+      "M413536584"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "Air Liquide Canada Inc.",
+    "vendor_address": "280 JOHN ST, MONCTON NB E1C 9W3",
+    "po_line_items": [
+      {
+        "description": "Po Lady On vacation will provide PO on MONDAY",
+        "quantity": null,
+        "net_price": null
+      },
+      {
+        "description": "ALIGAL 1, 44, (6.32M3 / 223.19SCF), CGA-580",
+        "quantity": 2.0,
+        "net_price": 0.0
+      },
+      {
+        "description": "EMPTY CYLINDER ALIGAL #1, SIZE 44 (6.32 M3), CGA-580",
+        "quantity": 1.0,
+        "net_price": 20.7
+      },
+      {
+        "description": "CHARGE, FUEL SURCHARGE",
+        "quantity": null,
+        "net_price": 290.35
+      }
+    ],
+    "vat_amount": null,
+    "gl_account": null,
+    "bank_name": null,
+    "account_holder_name": null,
+    "banking_account_number": null,
+    "remit_to_address": null,
+    "bill_to_address": null,
+    "transaction_type": "debit"
+  },
+  "filename": "SAPS4_5100832001_CA02_PBNACA_2026_328615162.pdf",
+  "raw_response": {
+    "invoice_number": "79218476",
+    "invoice_date": "27-AUG-25",
+    "invoice_amount": "921.39",
+    "invoice_currency": [
+      "CAD"
+    ],
+    "tax_amount": "120.18",
+    "po_number": [
+      "M413536584"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "Air Liquide Canada Inc.",
+    "vendor_address": "280 JOHN ST, MONCTON NB E1C 9W3",
+    "po_line_items": [
+      {
+        "description": "Po Lady On vacation will provide PO on MONDAY",
+        "quantity": null,
+        "net_price": null
+      },
+      {
+        "description": "ALIGAL 1, 44, (6.32M3 / 223.19SCF), CGA-580",
+        "quantity": 2.0,
+        "net_price": 0.0
+      },
+      {
+        "description": "EMPTY CYLINDER ALIGAL #1, SIZE 44 (6.32 M3), CGA-580",
+        "quantity": 1.0,
+        "net_price": 20.7
+      },
+      {
+        "description": "CHARGE, FUEL SURCHARGE",
+        "quantity": null,
+        "net_price": 290.35
+      }
+    ]
+  }
+}

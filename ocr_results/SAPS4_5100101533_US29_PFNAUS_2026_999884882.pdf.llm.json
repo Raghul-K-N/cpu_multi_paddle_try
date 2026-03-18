@@ -1,0 +1,119 @@
+{
+  "invoice_data": {
+    "invoice_number": "497216862203",
+    "invoice_date": "JAN 31, 2026",
+    "invoice_amount": null,
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": null,
+    "po_number": [
+      "M412890247"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "CyberSource Corporation",
+    "vendor_address": "PO BOX 742842, Los Angeles, CA 90074-2842",
+    "po_line_items": [
+      {
+        "description": "Credit Card Transaction Decision",
+        "quantity": 20879.0,
+        "net_price": 3131.85
+      },
+      {
+        "description": "Credit Card Transaction Fraud",
+        "quantity": 20879.0,
+        "net_price": 2902.18
+      },
+      {
+        "description": "CYBS ACH Credit",
+        "quantity": 17.0,
+        "net_price": 1.7
+      },
+      {
+        "description": "CYBS ACH Debit",
+        "quantity": 1515.0,
+        "net_price": 151.5
+      },
+      {
+        "description": "Advanced Support (Monthly)",
+        "quantity": 1.0,
+        "net_price": 800.0
+      },
+      {
+        "description": "Decision Manager Service - Monthly",
+        "quantity": 1.0,
+        "net_price": 500.0
+      },
+      {
+        "description": "Payment Tokenization Monthly Fee(TMS)",
+        "quantity": 199021.0,
+        "net_price": 1000.0
+      }
+    ],
+    "vat_amount": null,
+    "gl_account": null,
+    "bank_name": null,
+    "account_holder_name": null,
+    "banking_account_number": null,
+    "remit_to_address": null,
+    "bill_to_address": null,
+    "transaction_type": "debit"
+  },
+  "filename": "SAPS4_5100101533_US29_PFNAUS_2026_999884882.pdf",
+  "raw_response": {
+    "invoice_number": "497216862203",
+    "invoice_date": "JAN 31, 2026",
+    "invoice_amount": null,
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": null,
+    "po_number": [
+      "M412890247"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "CyberSource Corporation",
+    "vendor_address": "PO BOX 742842, Los Angeles, CA 90074-2842",
+    "po_line_items": [
+      {
+        "description": "Credit Card Transaction Decision",
+        "quantity": 20879.0,
+        "net_price": 3131.85
+      },
+      {
+        "description": "Credit Card Transaction Fraud",
+        "quantity": 20879.0,
+        "net_price": 2902.18
+      },
+      {
+        "description": "CYBS ACH Credit",
+        "quantity": 17.0,
+        "net_price": 1.7
+      },
+      {
+        "description": "CYBS ACH Debit",
+        "quantity": 1515.0,
+        "net_price": 151.5
+      },
+      {
+        "description": "Advanced Support (Monthly)",
+        "quantity": 1.0,
+        "net_price": 800.0
+      },
+      {
+        "description": "Decision Manager Service - Monthly",
+        "quantity": 1.0,
+        "net_price": 500.0
+      },
+      {
+        "description": "Payment Tokenization Monthly Fee(TMS)",
+        "quantity": 199021.0,
+        "net_price": 1000.0
+      }
+    ]
+  }
+}

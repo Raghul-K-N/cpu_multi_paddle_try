@@ -1,0 +1,47 @@
+{
+  "invoice_data": {
+    "invoice_number": "6028200403",
+    "invoice_date": "26 01 28",
+    "invoice_amount": null,
+    "invoice_currency": [
+      "CAD"
+    ],
+    "tax_amount": null,
+    "po_number": [
+      "4504576395"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "PETRO-CANADA",
+    "vendor_address": "Mailing Address: Suncor Energy Products_ Partnership_ PO Box 8500, Don Mills, ON M3C 3B2",
+    "po_line_items": null,
+    "vat_amount": null,
+    "gl_account": null,
+    "bank_name": null,
+    "account_holder_name": null,
+    "banking_account_number": null,
+    "remit_to_address": null,
+    "bill_to_address": null,
+    "transaction_type": "debit"
+  },
+  "filename": "SAPS4_5101421002_CA11_PFNACA_2026_304658869.pdf",
+  "raw_response": {
+    "invoice_number": "6028200403",
+    "invoice_date": "26 01 28",
+    "invoice_amount": null,
+    "invoice_currency": [
+      "CAD"
+    ],
+    "tax_amount": null,
+    "po_number": [
+      "4504576395"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "PETRO-CANADA",
+    "vendor_address": "Mailing Address: Suncor Energy Products_ Partnership_ PO Box 8500, Don Mills, ON M3C 3B2",
+    "po_line_items": null
+  }
+}

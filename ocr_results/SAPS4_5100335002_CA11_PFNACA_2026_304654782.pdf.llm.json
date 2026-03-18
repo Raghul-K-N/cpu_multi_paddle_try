@@ -1,0 +1,43 @@
+{
+  "invoice_data": {
+    "invoice_number": "19601",
+    "invoice_date": "07/31/2025",
+    "invoice_amount": null,
+    "invoice_currency": null,
+    "tax_amount": null,
+    "po_number": [
+      "M413547871"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "Green Bay Waste Authority Inc.",
+    "vendor_address": "P.O. Box 116, South Brook, NL A0J 1S0",
+    "po_line_items": null,
+    "vat_amount": null,
+    "gl_account": null,
+    "bank_name": null,
+    "account_holder_name": null,
+    "banking_account_number": null,
+    "remit_to_address": null,
+    "bill_to_address": null,
+    "transaction_type": "debit"
+  },
+  "filename": "SAPS4_5100335002_CA11_PFNACA_2026_304654782.pdf",
+  "raw_response": {
+    "invoice_number": "19601",
+    "invoice_date": "07/31/2025",
+    "invoice_amount": null,
+    "invoice_currency": null,
+    "tax_amount": null,
+    "po_number": [
+      "M413547871"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "Green Bay Waste Authority Inc.",
+    "vendor_address": "P.O. Box 116, South Brook, NL A0J 1S0",
+    "po_line_items": null
+  }
+}

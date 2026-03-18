@@ -1,0 +1,428 @@
+==================================<Page 1 - START>================================
+Standard Invoice
+Original tax invoice has been submitted electronically. This is a
+human readable representation (copy) of the original tax invoice.
+                                                                                                                      850272669
+                                                                  Invoice Number
+                                                                  (Supplier Reference No.)
+                                                                  Invoice Date                   Thursday 12 Feb 2026 12:00 PM GMT+05:30
+                                                                                                                    $423.50 USD
+                                                                  Amount Due
+    Contact Information
+                                                                           Shipping Information
+    Supplier
+                                  Customer                                                               Ship To
+                                                                           Ship From
+    METTLER-TOLEDO, LLC
+                                  Frito-Lay, Inc.                                Mettler-Toledo. LLC               US-PL-CASA GRANDE-AZ-FLI
+     1900 Polaris Pkwy                c/o PEPSICO NASS                           1900 Polaris Parkway              Ron Duchene
+     Columbus                     ACCOUNTS PAYABLES                        Columbus                      US-PL-CASA GRANDE-AZ-FLI
+     OH                          PO BOX 1800                               OH                          1450 W MARICOPA HWY
+     43240                        Winston Salem                              43240-4035                     CASA GRANDE
+     United States                  NC                                      United States                    AZ
+                                  27105                                                                 85193-5502
+                                  United States                                                            United States
+                                  Address ID: US28                                                         Address ID: 2092
+                                                                                                        Phone: 3524477
+   Line Items                                              PO No. : M413506342                                       PO Date : 21 Jan 2026
+   Line No.                                                                                                Unit Price         Subtotal
+             PO Line No.          Type    Supplier Part No. /              Customer Part No.         Quantity
+                                                                                       (UOM)
+                                        Description
+   1                           Material Not Available / WgtCal UC,E2 Accr                        1 / (EA)           $84.70 USD      $84.70 USD
+              1
+                                       Ind 2g
+                                                                                                     Line Item Total : $84.70 USD
+   Line No.    PO Line No.          Type   Supplier Part No. /             Customer Part No.        Quantity            Unit Price         Subtotal
+                                       Description                                        (UOM)
+   2                           Material Not Available / WgtCal UC,E2 Accr                        1 / (EA)           $84.70 USD      $84.70 USD
+             2
+                                       Ind 5g
+                                                                                                     Line Item Total : $84.70 USD
+                                                                                                                          Subtotal
+   Line No.    PO Line No.         Type   Supplier Part No. /             Customer Part No.        Quantity            Unit Price
+                                       Description                                        (UOM)
+                                                                                       1 / (EA)           $84.70 USD      $84.70 USD
+   3        3                 Material Not Available / WgtCal UC,E2 Accr
+                                       Ind 10g
+                                                                                                     Line Item Total : $84.70 USD
+   Line No.    PO Line No.          Type    Supplier Part No. /             Customer Part No.         Quantity            Unit Price         Subtotal
+                                       Description                                        (UOM)
+                                                                                       1 / (EA)           $84.70 USD      $84.70 USD
+   4         4                 Material Not Available / WgtCal UC,E2 Accr
+                                       Ind 50g
+                                                                                                     Line Item Total : $84.70 USD
+                               Type    Supplier Part No. /             Customer Part No.        Quantity            Unit Price         Subtotal
+   Line No.    PO Line No.
+                                       Description                                        (UOM)
+                                                                                                        $84.70 USD      $84.70 USD
+   5        5                 MaterialNot Available / WgtCal UC,E2 Accr                        1 / (EA)
+                                       Ind 100g
+                                                                                                     Line Item Total : $84.70 USD
+      Tax Summary
+      Category              Details                          Base Amount                Rate %          Amount
+                                                                                                    $0.00 USD
+      Sales Tax                                              $0.00 USD                 0%
+                                                                              Amount Summary
+                                                                              Line item subtotal                          $423.50 USD
+                                                                              Gross amount                             $423.50 USD
+                                                                              Net amount                               $423.50 USD
+                                                                              Total tax amount                             $0.00 USD
+                                                                              Total withholding tax amount
+                                                                              Amount Due                               $423.50 USD
+    Billing Information                                                         Remittance Information
+                                                                          Remit To
+    Bill From                      Bill To
+                                Frito-Lay, Inc.                               Mettler-Toledo, LLC
+    Mettler-Toledo, LLC
+    columbus                      c/o PEPSICO NASS                          22670 Network Place
+   Ohio                         ACCOUNTS PAYABLES                       Chicago
+   OH                          PO BOX 1800                               IL
+   43240-4035                    Winston Salem                              60673-1226
+   United States                   NC                                      United States
+                                27105
+                                                                          Tax ID of Supplier
+                                United States
+                                                                          133668641
+                                Address ID: US28
+Payment Terms
+Net payment Terms (Days) :
+60
+==================================<Page 1 - END>================================
+==================================<Page 2 - START>================================
+Appendix
+Line No.
+            PO Line No. Type
+                                                       Supplier Part No. / Description
+ 1
+             1         Material                         Not Available / WgtCal UC,E2 Accr Ind 2g
+Additional Details:
+ Classification Domain : custom
+Classification Code : MRO759001
+ Supplier Part ID : Not Available
+Line No.
+            PO Line No. Type                           Supplier Part No. / Description
+2         2
+                       Material                         Not Available / WgtCal UC,E2 Accr Ind 5g
+Additional Details:
+Classification Domain : custom
+Classification Code : MRO759001
+Supplier Part ID : Not Available
+Line No.    PO Line No. Type
+                                                       Supplier Part No. / Description
+3         3         Material
+                                                       Not Available / WgtCal UC,E2 Accr Ind 10g
+Additional Details:
+Classification Domain : custom
+Classification Code : MRO759001
+Supplier Part ID : Not Available
+Line No.    PO Line No. Type
+                                                       Supplier Part No. / Description
+4         4          Material
+                                                       Not Available / WgtCal UC,E2 Accr Ind 50g
+Additional Details:
+Classification Domain : custom
+Classification Code : MRO759001
+ Supplier Part ID : Not Available
+Line No.
+            PO Line No. Type                            Supplier Part No. / Description
+5         5         Material
+                                                       Not Available / WgtCal UC,E2 Accr Ind 100g
+Additional Details:
+ Classification Domain : custom
+ Classification Code : MRO759001
+ Supplier Part ID : Not Available
+PDF generated on Thursday 12 Feb 2026 11:53 PM GMT-08:00
+==================================<Page 2 - END>================================
+==================================<Page 3 - START>================================
+       S01383336
+Page                                                          Mettler-Toledo, LLC
+       1 of 3
+                                                                            Columbus, OH 43240-4035
+                                                              Accts Receivable (866) 247-8957
+                                                                      Email ar@mt.com
+                                                               Sales & Service (800) METTLER
+       Invoice 850272669                                           (800) 638-8537
+                                                                       www.mt.com
+       Bill-To / 301383336
+                                                                           Sold-To / 301383336
+      Pepsico
+      PO Box 1800                                                          Pepsico
+                                                                           PO Box 1800
+      Winston Salem, NC 27105-1800                                            Winston Salem, NC 27105-1800
+      Remit-To
+                                                                           Ship-To / 300604210
+      METTLER TOLEDO
+                                                                          Frito-Lay Inc
+      PO BOX 730867
+                                                                          1450 W Maricopa-Casa Grande Hwy
+     Dallas TX 75373-0867
+                                                                           Casa Grande, AZ 85193-5599
+     Please reference invoice 850272669 with your payment
+     Customer Contact
+                                                                          Invoice Data
+     Name        Ron Duchene
+                                                                          Invoice Date                  02/12/2026
+     Telephone
+                  +1 (520) 426 6274                                         Invoice No.                  850272669
+     Fax
+                  +1 (520) 426 6209                                         Order No.                    221020704
+     E-Mail        ronald.duchene@pepsico.com
+                                                                          Payment Terms       Due 60 Days from Invoice
+                                                                                                          Date
+     Purchase Order No.             Order Date           Customer-No.
+     M413506342                01/21/2026
+                                                   301383336
+                                Ship Date
+                                02/13/2026
+    Item   Description                    Product ID
+                                                          Qty_ Unit       Price per Unit
+                                                                                                      Total USD
+     10    WgtCal UC,E2 Accr Ind 2g          30505151
+                                                           1 EA             84.70                      84.70
+            Commodity Code   8423909000
+    20    WgtCal UC,E2 Accr Ind 5g
+                                        30505149           1 EA
+                                                                            84.70                      84.70
+           Commodity Code   8423909000
+    30    WgtCal UC,E2 Accr Ind 10g         30505148
+                                                           1 EA
+           Commodity Code                                                     84.70                      84.70
+                          8423909000
+    40    WgtCal UC,E2 Accr Ind 50g
+                                       30505144
+                                                           1 EA             84.70
+           Commodity Code  8423909000                                                                    84.70
+    Bank: JPMorgan Chase
+Account #:
+          10-84367
+Swift Code:  CHASUS33
+ABA# - ACH: 071 000 013                                                             METTLER
+                                                                                                  TOLEDO
+ABA# - Wire: 021 000 021
+==================================<Page 3 - END>================================
+==================================<Page 4 - START>================================
+Page
+       2 of 3
+                                                                Mettler-Toledo, LLC
+                                                                             Columbus, OH 43240-4035
+                                                                Accts Receivable
+                                                                             (866) 247-8957
+                                                                       Email àr@mt.com
+                                                                Sales & Service (800) METTLER
+      Invoice 850272669
+                                                                             (800) 638-8537
+                                                                        www.mt.com
+     Item
+             Description
+                                          Product ID          Qty_Unit       Price per Unit
+                                                                                                        Total USD
+      50
+             WgtCal UC,E2 Accr Ind 100g        30505143
+                                                             1 EA            84.70                      84.70
+            ****Shipping & Handling will be an additional charge****
+            Mettler Toledo must assign an RAnumber to your weight calibration before shipping it to our Depot for servicePlease note the CALiBRATIN
+            ADDRESS IS DIFFERENT FROM OUR CORPORATE OFFICES LISTED ON THE QUOTE.
+             ***DO NOT SEND TO ANY ADDRESSES IN OHIO***
+            ISO/IEC17025 NVLAP ACCREDITED
+            Class OIML E2
+            S/N 1000176455  2g
+            S/N 1000173765  5g
+            S/N 1000176457
+                           10g
+            S/N 1000176458
+                           50g
+            S/N 1000173768
+                           100g
+            REIVSED
+            Commodity Code
+                            8423909000
+                                                    Sub-Total
+                                                                                                          423.50
+                                                    Invoice Total USD                                         423.50
+      Account Receivable Contact
+     Name      Richard Enochs
+     Phone     614.438.4585
+     E-Mail
+                RICH.ENOCHS@MT.COM
+     Bank:
+           JPMorgan Chase
+  Account #: 10-84367
+  Swift Code: CHASUS33
+ ABA# - ACH:
+            071 000 013                                                              METTLER
+ ABA# - Wire:                                                                                           TOLEDO
+            021 000 021
+==================================<Page 4 - END>================================
+==================================<Page 5 - START>================================
+   Page                                                        Mettler-Toledo, LLC
+         3 of 3
+                                                                             Columbus, OH 43240-4035
+                                                               Accts Receivable (866) 247-8957
+                                                                       Email ar@mt.com
+                                                                Sales & Service (800) METTLER
+         Invoice 850272669
+                                                                            (800) 638-8537
+                                                                        www.mf.com
+         IMPORTANT NOTICE
+        The bank account/routing information on an invoice will not change without offcial communication in advance.
+        If you receive a request to change payment routing, please contact your customer representative for further action.
+        Terms and Conditions
+        Payment Terms                   Due 60 Days from Invoice Date
+        time of order.
+        Incoterms 2020                   FCA MT Columbus/Worthingfon
+     Bank:
+           JPMorgan Chase
+  Account #: 10-84367
+  Swift Code: CHASUS33
+ABA# - ACH:
+            071 000 013                                                               METTLER
+ ABA# - Wire:                                                                                            TOLEDO
+            021 000 021
+==================================<Page 5 - END>================================
+==================================<Page 6 - START>================================
+          S01383336
+   Page                                                          Mettler-Toledo, LLC
+         1 of 3
+                                                                              Columbus, OH 43240-4035
+                                                                 Accts Receivable (866) 247-8957
+                                                                         Email ar@mt.com
+                                                                  Sales & Service (800) METTLER
+         Invoice 850272669                                           (800) 638-8537
+                                                                          www.mt.com
+         Bill-To / 301383336
+                                                                             Sold-To / 301383336
+         Pepsico
+         PO Box 1800                                                          Pepsico
+                                                                             PO Box 1800
+         Winston Salem, NC 27105-1800                                            Winston Salem, NC 27105-1800
+        Remit-To
+                                                                             Ship-To / 300604210
+        METTLER TOLEDO
+                                                                             Frito-Lay Inc
+        PO BOX 730867
+                                                                             1450 W Maricopa-Casa Grande Hwy
+        Dallas TX 75373-0867
+                                                                             Casa Grande, AZ 85193-5599
+        Please reference invoice 850272669 with your payment
+        Customer Contact
+                                                                             Invoice Data
+       Name        Ron Duchene
+                                                                             Invoice Date                  02/12/2026
+        Telephone
+                     +1 (520) 426 6274                                         Invoice No.                  850272669
+        Fax
+                     +1 (520) 426 6209                                         Order No.                    221020704
+        E-Mail        ronald.duchene@pepsico.com
+                                                                             Payment Terms       Due 60 Days from Invoice
+                                                                                                             Date
+        Purchase Order No.             Order Date           Customer-No.
+        M413506342                01/21/2026
+                                                      301383336
+                                   Ship Date
+                                   02/13/2026
+       Item   Description                    Product ID
+                                                            Qty_ Unit       Price per Unit
+                                                                                                        Total USD
+       10    WgtCal UC,E2 Accr Ind 2g          30505151
+                                                              1 EA             84.70                      84.70
+              Commodity Code   8423909000
+       20    WgtCal UC,E2 Accr Ind 5g
+                                          30505149           1 EA
+                                                                               84.70                      84.70
+              Commodity Code   8423909000
+       30    WgtCal UC,E2 Accr Ind 10g         30505148
+                                                             1 EA
+              Commodity Code                                                     84.70                      84.70
+                             8423909000
+       40    WgtCal UC,E2 Accr Ind 50g
+                                          30505144
+                                                             1 EA             84.70
+              Commodity Code  8423909000                                                                    84.70
+       Bank: JPMorgan Chase
+   Account #:
+             10-84367
+   Swift Code:  CHASUS33
+  ABA# - ACH: 071 000 013                                                             METTLER
+                                                                                                     TOLEDO
+  ABA# - Wire: 021 000 021
+==================================<Page 6 - END>================================
+==================================<Page 7 - START>================================
+Page
+       2 of 3
+                                                                Mettler-Toledo, LLC
+                                                                             Columbus, OH 43240-4035
+                                                                Accts Receivable
+                                                                             (866) 247-8957
+                                                                       Email àr@mt.com
+                                                                Sales & Service (800) METTLER
+      Invoice 850272669
+                                                                             (800) 638-8537
+                                                                        www.mt.com
+     Item
+             Description
+                                          Product ID          Qty_Unit       Price per Unit
+                                                                                                        Total USD
+      50
+             WgtCal UC,E2 Accr Ind 100g        30505143
+                                                             1 EA            84.70                      84.70
+            ****Shipping & Handling will be an additional charge****
+            Mettler Toledo must assign an RAnumber to your weight calibration before shipping it to our Depot for servicePlease note the CALiBRATIN
+            ADDRESS IS DIFFERENT FROM OUR CORPORATE OFFICES LISTED ON THE QUOTE.
+             ***DO NOT SEND TO ANY ADDRESSES IN OHIO***
+            ISO/IEC17025 NVLAP ACCREDITED
+            Class OIML E2
+            S/N 1000176455  2g
+            S/N 1000173765  5g
+            S/N 1000176457
+                           10g
+            S/N 1000176458
+                           50g
+            S/N 1000173768
+                           100g
+            REIVSED
+            Commodity Code
+                            8423909000
+                                                    Sub-Total
+                                                                                                          423.50
+                                                    Invoice Total USD                                         423.50
+      Account Receivable Contact
+     Name      Richard Enochs
+     Phone     614.438.4585
+     E-Mail
+                RICH.ENOCHS@MT.COM
+     Bank:
+           JPMorgan Chase
+  Account #: 10-84367
+  Swift Code: CHASUS33
+ ABA# - ACH:
+            071 000 013                                                              METTLER
+ ABA# - Wire:                                                                                           TOLEDO
+            021 000 021
+==================================<Page 7 - END>================================
+==================================<Page 8 - START>================================
+   Page                                                        Mettler-Toledo, LLC
+         3 of 3
+                                                                             Columbus, OH 43240-4035
+                                                               Accts Receivable (866) 247-8957
+                                                                       Email ar@mt.com
+                                                                Sales & Service (800) METTLER
+         Invoice 850272669
+                                                                            (800) 638-8537
+                                                                        www.mf.com
+         IMPORTANT NOTICE
+        The bank account/routing information on an invoice will not change without offcial communication in advance.
+        If you receive a request to change payment routing, please contact your customer representative for further action.
+        Terms and Conditions
+        Payment Terms                   Due 60 Days from Invoice Date
+        time of order.
+        Incoterms 2020                   FCA MT Columbus/Worthingfon
+     Bank:
+           JPMorgan Chase
+  Account #: 10-84367
+  Swift Code: CHASUS33
+ABA# - ACH:
+            071 000 013                                                               METTLER
+ ABA# - Wire:                                                                                            TOLEDO
+            021 000 021
+==================================<Page 8 - END>================================

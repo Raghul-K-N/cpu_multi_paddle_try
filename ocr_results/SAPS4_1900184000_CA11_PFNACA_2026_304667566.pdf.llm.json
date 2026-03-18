@@ -1,0 +1,51 @@
+{
+  "invoice_data": {
+    "invoice_number": "PFC 202606",
+    "invoice_date": "06.02.2026",
+    "invoice_amount": "1989.99",
+    "invoice_currency": [
+      "CAD"
+    ],
+    "tax_amount": "228.94",
+    "po_number": null,
+    "gl_account_number": [
+      "666700"
+    ],
+    "freight_and_handling_charges": "631.90",
+    "cost_center": [
+      "2509303401"
+    ],
+    "vendor_name": "NULOGX",
+    "vendor_address": "6733 MISSISSAUGA RD, MISSISSAUGA ON L5N 6J5, CANADA",
+    "po_line_items": null,
+    "vat_amount": null,
+    "gl_account": null,
+    "bank_name": null,
+    "account_holder_name": null,
+    "banking_account_number": null,
+    "remit_to_address": null,
+    "bill_to_address": null,
+    "transaction_type": "debit"
+  },
+  "filename": "SAPS4_1900184000_CA11_PFNACA_2026_304667566.pdf",
+  "raw_response": {
+    "invoice_number": "PFC 202606",
+    "invoice_date": "06.02.2026",
+    "invoice_amount": "1989.99",
+    "invoice_currency": [
+      "CAD"
+    ],
+    "tax_amount": "228.94",
+    "po_number": null,
+    "gl_account_number": [
+      "666700"
+    ],
+    "freight_and_handling_charges": "631.90",
+    "cost_center": [
+      "2509303401"
+    ],
+    "vendor_name": "NULOGX",
+    "vendor_address": "6733 MISSISSAUGA RD, MISSISSAUGA ON L5N 6J5, CANADA",
+    "po_line_items": null
+  }
+}

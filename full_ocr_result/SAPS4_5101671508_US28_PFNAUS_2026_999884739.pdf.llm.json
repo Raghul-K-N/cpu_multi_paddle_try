@@ -1,0 +1,59 @@
+{
+  "invoice_data": {
+    "invoice_number": "852449396",
+    "invoice_date": "08/01/2025",
+    "invoice_amount": "106.07",
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": "8.08",
+    "po_number": [
+      "M413270178"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": "26.99",
+    "cost_center": null,
+    "vendor_name": "GRAINGER",
+    "vendor_address": "852449396, GRAINGER ACCOUNT NUMBER, 9593046353, INVOICE NUMBER, 8321 JOHN W.CARPENTER FREEWAY, DALLAS, TX 75247-4724, www.grainger.com, DUE DATE, AMOUNT DUE, $106.07, PO NUMBER: M413270178, CALLER: FRANCISCO OCOHA, SHIP TO: FRITO LAY IRVING/EPRO, 701 N WILDWOOD DR, IRVING TX 75061-8831, BILL TO: FRITO-LAY INC, IRVING PLANT, 701 N WILDWOOD DR, IRVING TX 75061-8831",
+    "po_line_items": [
+      {
+        "description": "HEX REDUCING BUSHING,304 SS,3/8 X 1/4 IN",
+        "quantity": 10.0,
+        "net_price": 71.0
+      }
+    ],
+    "vat_amount": null,
+    "gl_account": null,
+    "bank_name": null,
+    "account_holder_name": null,
+    "banking_account_number": null,
+    "remit_to_address": null,
+    "bill_to_address": null,
+    "transaction_type": "debit"
+  },
+  "filename": "SAPS4_5101671508_US28_PFNAUS_2026_999884739.pdf",
+  "raw_response": {
+    "invoice_number": "852449396",
+    "invoice_date": "08/01/2025",
+    "invoice_amount": "106.07",
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": "8.08",
+    "po_number": [
+      "M413270178"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": "26.99",
+    "cost_center": null,
+    "vendor_name": "GRAINGER",
+    "vendor_address": "852449396, GRAINGER ACCOUNT NUMBER, 9593046353, INVOICE NUMBER, 8321 JOHN W.CARPENTER FREEWAY, DALLAS, TX 75247-4724, www.grainger.com, DUE DATE, AMOUNT DUE, $106.07, PO NUMBER: M413270178, CALLER: FRANCISCO OCOHA, SHIP TO: FRITO LAY IRVING/EPRO, 701 N WILDWOOD DR, IRVING TX 75061-8831, BILL TO: FRITO-LAY INC, IRVING PLANT, 701 N WILDWOOD DR, IRVING TX 75061-8831",
+    "po_line_items": [
+      {
+        "description": "HEX REDUCING BUSHING,304 SS,3/8 X 1/4 IN",
+        "quantity": 10.0,
+        "net_price": 71.0
+      }
+    ]
+  }
+}

@@ -1,0 +1,83 @@
+{
+  "invoice_data": {
+    "invoice_number": "INV010063307",
+    "invoice_date": "11.04.2025",
+    "invoice_amount": "25644.81",
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": "0.00",
+    "po_number": [
+      "26327219/317377-MCN"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": [
+      "2000050201"
+    ],
+    "vendor_name": "AARON THOMAS CO INC",
+    "vendor_address": "7421 CHAPMAN AVE, GARDEN GROVE CA 92841-2115, USA",
+    "po_line_items": [
+      {
+        "description": "Doritos Nacho Holiday Canister - 996943",
+        "quantity": 46882.0,
+        "net_price": 9093.23
+      },
+      {
+        "description": "Flamin Hot Canister-996942",
+        "quantity": 41470.0,
+        "net_price": 8043.52
+      },
+      {
+        "description": "Cheetos Mini Snowy Cheese Balls Canisters-996941",
+        "quantity": 43865.0,
+        "net_price": 8508.06
+      }
+    ],
+    "vat_amount": null,
+    "gl_account": null,
+    "bank_name": null,
+    "account_holder_name": null,
+    "banking_account_number": null,
+    "remit_to_address": null,
+    "bill_to_address": null,
+    "transaction_type": "debit"
+  },
+  "filename": "SAPS4_1900455505_US28_PFNAUS_2026_999749365.pdf",
+  "raw_response": {
+    "invoice_number": "INV010063307",
+    "invoice_date": "11.04.2025",
+    "invoice_amount": "25644.81",
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": "0.00",
+    "po_number": [
+      "26327219/317377-MCN"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": [
+      "2000050201"
+    ],
+    "vendor_name": "AARON THOMAS CO INC",
+    "vendor_address": "7421 CHAPMAN AVE, GARDEN GROVE CA 92841-2115, USA",
+    "po_line_items": [
+      {
+        "description": "Doritos Nacho Holiday Canister - 996943",
+        "quantity": 46882.0,
+        "net_price": 9093.23
+      },
+      {
+        "description": "Flamin Hot Canister-996942",
+        "quantity": 41470.0,
+        "net_price": 8043.52
+      },
+      {
+        "description": "Cheetos Mini Snowy Cheese Balls Canisters-996941",
+        "quantity": 43865.0,
+        "net_price": 8508.06
+      }
+    ]
+  }
+}

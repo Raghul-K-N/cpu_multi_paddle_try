@@ -1,0 +1,79 @@
+{
+  "invoice_data": {
+    "invoice_number": "133231",
+    "invoice_date": "2026-01-27",
+    "invoice_amount": "10045.25",
+    "invoice_currency": [
+      "CAD"
+    ],
+    "tax_amount": "1310.25",
+    "po_number": [
+      "4504243724"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "The Econo-Rack Group (2015) Inc.",
+    "vendor_address": "1080 Champlain St, Unit 5, Dieppe NB E1A 8L8",
+    "po_line_items": [
+      {
+        "description": "Labour to supply and install New vehicle restraint door",
+        "quantity": 6.0,
+        "net_price": 0.0
+      },
+      {
+        "description": "Raised vehicle restraint RVR32 as per quote",
+        "quantity": 1.0,
+        "net_price": 0.0
+      },
+      {
+        "description": "Lot Price",
+        "quantity": 1.0,
+        "net_price": 8735.0
+      }
+    ],
+    "vat_amount": null,
+    "gl_account": null,
+    "bank_name": null,
+    "account_holder_name": null,
+    "banking_account_number": null,
+    "remit_to_address": null,
+    "bill_to_address": null,
+    "transaction_type": "debit"
+  },
+  "filename": "SAPS4_5100826001_CA02_PBNACA_2026_328615140.pdf",
+  "raw_response": {
+    "invoice_number": "133231",
+    "invoice_date": "2026-01-27",
+    "invoice_amount": "10045.25",
+    "invoice_currency": [
+      "CAD"
+    ],
+    "tax_amount": "1310.25",
+    "po_number": [
+      "4504243724"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "The Econo-Rack Group (2015) Inc.",
+    "vendor_address": "1080 Champlain St, Unit 5, Dieppe NB E1A 8L8",
+    "po_line_items": [
+      {
+        "description": "Labour to supply and install New vehicle restraint door",
+        "quantity": 6.0,
+        "net_price": 0.0
+      },
+      {
+        "description": "Raised vehicle restraint RVR32 as per quote",
+        "quantity": 1.0,
+        "net_price": 0.0
+      },
+      {
+        "description": "Lot Price",
+        "quantity": 1.0,
+        "net_price": 8735.0
+      }
+    ]
+  }
+}

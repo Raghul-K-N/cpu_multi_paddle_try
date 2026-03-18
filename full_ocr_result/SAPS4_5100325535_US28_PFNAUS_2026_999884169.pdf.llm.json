@@ -1,0 +1,65 @@
+{
+  "invoice_data": {
+    "invoice_number": "AL03-00809003",
+    "invoice_date": "02/12/26",
+    "invoice_amount": null,
+    "invoice_currency": null,
+    "tax_amount": null,
+    "po_number": [
+      "4505093799"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "REMIT MOTION INDUSTRIES, INC.",
+    "vendor_address": "226 WOODALL ROAD S.W., DECATUR, AL 35601-7445, PHONE: 2563550492, FAX 2563550032",
+    "po_line_items": [
+      {
+        "description": "1/3 HP BLOWER MOTOR DL1036",
+        "quantity": 4.0,
+        "net_price": 233.4
+      },
+      {
+        "description": "TFM556 REPLACEMENT BRACKET",
+        "quantity": 4.0,
+        "net_price": 65.71
+      }
+    ],
+    "vat_amount": null,
+    "gl_account": null,
+    "bank_name": null,
+    "account_holder_name": null,
+    "banking_account_number": null,
+    "remit_to_address": null,
+    "bill_to_address": null,
+    "transaction_type": "debit"
+  },
+  "filename": "SAPS4_5100325535_US28_PFNAUS_2026_999884169.pdf",
+  "raw_response": {
+    "invoice_number": "AL03-00809003",
+    "invoice_date": "02/12/26",
+    "invoice_amount": null,
+    "invoice_currency": null,
+    "tax_amount": null,
+    "po_number": [
+      "4505093799"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "REMIT MOTION INDUSTRIES, INC.",
+    "vendor_address": "226 WOODALL ROAD S.W., DECATUR, AL 35601-7445, PHONE: 2563550492, FAX 2563550032",
+    "po_line_items": [
+      {
+        "description": "1/3 HP BLOWER MOTOR DL1036",
+        "quantity": 4.0,
+        "net_price": 233.4
+      },
+      {
+        "description": "TFM556 REPLACEMENT BRACKET",
+        "quantity": 4.0,
+        "net_price": 65.71
+      }
+    ]
+  }
+}

@@ -1,0 +1,69 @@
+{
+  "invoice_data": {
+    "invoice_number": "814519666",
+    "invoice_date": "02/12/2026",
+    "invoice_amount": "114.73",
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": null,
+    "po_number": [
+      "4505196949"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "GRAINGER",
+    "vendor_address": "101 SOUTHCHASE BLVD,FOUNTAIN INN,SC 29644-9019",
+    "po_line_items": [
+      {
+        "description": "STRT BLD CNR,BLK; WHT.2P3W,ELSTMR,5-15R MANUFACTURER# HBL8219C",
+        "quantity": 1.0,
+        "net_price": 44.73
+      },
+      {
+        "description": "V-BELT PULLEY,1 GROOVE,6.00\" O.D. MANUFACTURER # CA0600X075KW",
+        "quantity": 2.0,
+        "net_price": 35.0
+      }
+    ],
+    "vat_amount": null,
+    "gl_account": null,
+    "bank_name": null,
+    "account_holder_name": null,
+    "banking_account_number": null,
+    "remit_to_address": null,
+    "bill_to_address": null,
+    "transaction_type": "debit"
+  },
+  "filename": "SAPS4_5100347036_US28_PFNAUS_2026_999934398.pdf",
+  "raw_response": {
+    "invoice_number": "814519666",
+    "invoice_date": "02/12/2026",
+    "invoice_amount": "114.73",
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": null,
+    "po_number": [
+      "4505196949"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "GRAINGER",
+    "vendor_address": "101 SOUTHCHASE BLVD,FOUNTAIN INN,SC 29644-9019",
+    "po_line_items": [
+      {
+        "description": "STRT BLD CNR,BLK; WHT.2P3W,ELSTMR,5-15R MANUFACTURER# HBL8219C",
+        "quantity": 1.0,
+        "net_price": 44.73
+      },
+      {
+        "description": "V-BELT PULLEY,1 GROOVE,6.00\" O.D. MANUFACTURER # CA0600X075KW",
+        "quantity": 2.0,
+        "net_price": 35.0
+      }
+    ]
+  }
+}

@@ -1,0 +1,59 @@
+{
+  "invoice_data": {
+    "invoice_number": "44075",
+    "invoice_date": "Thursday 12 Feb 2026 12:00 PM GMT-05:00",
+    "invoice_amount": "1990.23",
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": null,
+    "po_number": [
+      "M413552482"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": "52.73",
+    "cost_center": null,
+    "vendor_name": "GREENER CORP",
+    "vendor_address": "4 Helmly St, Bayville, NJ 08721-2188, United States Address ID: US28",
+    "po_line_items": [
+      {
+        "description": "Douglas 19mm Rear PTFE Strip-Rear PTFE Strip for RCC & SLA ROUND",
+        "quantity": 50.0,
+        "net_price": 1937.5
+      }
+    ],
+    "vat_amount": null,
+    "gl_account": null,
+    "bank_name": null,
+    "account_holder_name": null,
+    "banking_account_number": null,
+    "remit_to_address": null,
+    "bill_to_address": null,
+    "transaction_type": "debit"
+  },
+  "filename": "SAPS4_5100245536_US28_PFNAUS_2026_999872773.pdf",
+  "raw_response": {
+    "invoice_number": "44075",
+    "invoice_date": "Thursday 12 Feb 2026 12:00 PM GMT-05:00",
+    "invoice_amount": "1990.23",
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": null,
+    "po_number": [
+      "M413552482"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": "52.73",
+    "cost_center": null,
+    "vendor_name": "GREENER CORP",
+    "vendor_address": "4 Helmly St, Bayville, NJ 08721-2188, United States Address ID: US28",
+    "po_line_items": [
+      {
+        "description": "Douglas 19mm Rear PTFE Strip-Rear PTFE Strip for RCC & SLA ROUND",
+        "quantity": 50.0,
+        "net_price": 1937.5
+      }
+    ]
+  }
+}

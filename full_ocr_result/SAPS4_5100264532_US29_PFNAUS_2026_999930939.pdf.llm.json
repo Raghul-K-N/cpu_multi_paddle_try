@@ -1,0 +1,109 @@
+{
+  "invoice_data": {
+    "invoice_number": "459713709001",
+    "invoice_date": "Friday 13 Feb 2026 12:00 PM GMT-05:00",
+    "invoice_amount": null,
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": "5.16",
+    "po_number": [
+      "M413555058"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "ODP BUSINESS SOLUTIONS, LLC",
+    "vendor_address": "ODP BUSINESS SOLUTIONS, LLC, 725 PROGRESS INDUSTRIAL B, Boca Raton, FL 33496, US, United States, Address ID: 2159",
+    "po_line_items": [
+      {
+        "description": "TAPE,LBL,LTAG,PLAS,.5,WE,6",
+        "quantity": 1.0,
+        "net_price": 37.69
+      },
+      {
+        "description": "THERMAL POUCHES. 5 MIL, 100 PA",
+        "quantity": 1.0,
+        "net_price": 6.76
+      },
+      {
+        "description": "PEN.ROUND STIC.BIC.60CT.BLACK",
+        "quantity": 4.0,
+        "net_price": 3.51
+      },
+      {
+        "description": "HIGHMARK 8OZ ALOE SANITIZER,CA",
+        "quantity": 1.0,
+        "net_price": 18.49
+      },
+      {
+        "description": "TAPE.MP.1.89X54.6,6PK,CLEAR",
+        "quantity": 1.0,
+        "net_price": 5.55
+      },
+      {
+        "description": "TAPE.CORRECTION,6PK.ASTD",
+        "quantity": 1.0,
+        "net_price": 3.49
+      }
+    ],
+    "vat_amount": null,
+    "gl_account": null,
+    "bank_name": null,
+    "account_holder_name": null,
+    "banking_account_number": null,
+    "remit_to_address": null,
+    "bill_to_address": null,
+    "transaction_type": "debit"
+  },
+  "filename": "SAPS4_5100264532_US29_PFNAUS_2026_999930939.pdf",
+  "raw_response": {
+    "invoice_number": "459713709001",
+    "invoice_date": "Friday 13 Feb 2026 12:00 PM GMT-05:00",
+    "invoice_amount": "../../91.18",
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": "5.16",
+    "po_number": [
+      "M413555058"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "ODP BUSINESS SOLUTIONS, LLC",
+    "vendor_address": "ODP BUSINESS SOLUTIONS, LLC, 725 PROGRESS INDUSTRIAL B, Boca Raton, FL 33496, US, United States, Address ID: 2159",
+    "po_line_items": [
+      {
+        "description": "TAPE,LBL,LTAG,PLAS,.5,WE,6",
+        "quantity": 1.0,
+        "net_price": 37.69
+      },
+      {
+        "description": "THERMAL POUCHES. 5 MIL, 100 PA",
+        "quantity": 1.0,
+        "net_price": 6.76
+      },
+      {
+        "description": "PEN.ROUND STIC.BIC.60CT.BLACK",
+        "quantity": 4.0,
+        "net_price": 3.51
+      },
+      {
+        "description": "HIGHMARK 8OZ ALOE SANITIZER,CA",
+        "quantity": 1.0,
+        "net_price": 18.49
+      },
+      {
+        "description": "TAPE.MP.1.89X54.6,6PK,CLEAR",
+        "quantity": 1.0,
+        "net_price": 5.55
+      },
+      {
+        "description": "TAPE.CORRECTION,6PK.ASTD",
+        "quantity": 1.0,
+        "net_price": 3.49
+      }
+    ]
+  }
+}

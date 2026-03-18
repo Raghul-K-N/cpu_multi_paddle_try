@@ -1,0 +1,99 @@
+{
+  "invoice_data": {
+    "invoice_number": "9801701682",
+    "invoice_date": "Monday 9 Feb. 2026 7:10 a.m. GMT-05:00",
+    "invoice_amount": "166.94",
+    "invoice_currency": [
+      "CAD"
+    ],
+    "tax_amount": "21.74",
+    "po_number": [
+      "M413543926"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "ACKLANDS-GRAINGER INC.",
+    "vendor_address": "PO BOX 2970, WINNIPEG, MB R3C 4B5, CA\nG6V 7L7, Canada\nG6V 7L7, Canada",
+    "po_line_items": [
+      {
+        "description": "Material MTNS148 / SOUFFLETTE LEVIER.1/4PO.POINT CAOUTCHOUC",
+        "quantity": 2.0,
+        "net_price": 23.01
+      },
+      {
+        "description": "Material EBP4FGK5 / TIGE FILETEE ZG UNC 3/8X3PI",
+        "quantity": 2.0,
+        "net_price": 5.77
+      },
+      {
+        "description": "Material EBP4FGK4 / TIGE FILETEE ZG UNC 5/16X3PI",
+        "quantity": 2.0,
+        "net_price": 3.86
+      },
+      {
+        "description": "Material WLT01A016 / FORET COURT,4,000 PO LO,1/4 PO DIA",
+        "quantity": 10.0,
+        "net_price": 6.37
+      },
+      {
+        "description": "Material EBP30-9-473TFL / GANTS P/TEMPS FROIDS,BLEU/JAUNE.PR",
+        "quantity": 2.0,
+        "net_price": 8.11
+      }
+    ],
+    "vat_amount": null,
+    "gl_account": null,
+    "bank_name": null,
+    "account_holder_name": null,
+    "banking_account_number": null,
+    "remit_to_address": null,
+    "bill_to_address": null,
+    "transaction_type": "debit"
+  },
+  "filename": "SAPS4_5101602002_CA11_PFNACA_2026_304654762.pdf",
+  "raw_response": {
+    "invoice_number": "9801701682",
+    "invoice_date": "Monday 9 Feb. 2026 7:10 a.m. GMT-05:00",
+    "invoice_amount": "166.94",
+    "invoice_currency": [
+      "CAD"
+    ],
+    "tax_amount": "21.74",
+    "po_number": [
+      "M413543926"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "ACKLANDS-GRAINGER INC.",
+    "vendor_address": "PO BOX 2970, WINNIPEG, MB R3C 4B5, CA\nG6V 7L7, Canada\nG6V 7L7, Canada",
+    "po_line_items": [
+      {
+        "description": "Material MTNS148 / SOUFFLETTE LEVIER.1/4PO.POINT CAOUTCHOUC",
+        "quantity": 2.0,
+        "net_price": 23.01
+      },
+      {
+        "description": "Material EBP4FGK5 / TIGE FILETEE ZG UNC 3/8X3PI",
+        "quantity": 2.0,
+        "net_price": 5.77
+      },
+      {
+        "description": "Material EBP4FGK4 / TIGE FILETEE ZG UNC 5/16X3PI",
+        "quantity": 2.0,
+        "net_price": 3.86
+      },
+      {
+        "description": "Material WLT01A016 / FORET COURT,4,000 PO LO,1/4 PO DIA",
+        "quantity": 10.0,
+        "net_price": 6.37
+      },
+      {
+        "description": "Material EBP30-9-473TFL / GANTS P/TEMPS FROIDS,BLEU/JAUNE.PR",
+        "quantity": 2.0,
+        "net_price": 8.11
+      }
+    ]
+  }
+}

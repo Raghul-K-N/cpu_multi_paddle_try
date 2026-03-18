@@ -1,0 +1,61 @@
+{
+  "invoice_data": {
+    "invoice_number": "852449396",
+    "invoice_date": "10/07/2025",
+    "invoice_amount": "167.44",
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": "12.76",
+    "po_number": [
+      "M413270178",
+      "00058001"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "GRAINGER",
+    "vendor_address": "852449396, 852449396, 9666096889, 10/07/2025, 02/04/2026, AMOUNT DUE $167.44, SHIP TO ATTN: SERGIO CANTU, FRITO LAY IRVING ERPP, 701 N Wildwood Dr, Irving TX 75061-8831, BILL TO FRITO-LAY INC, IRVING PLANT, 701 N WILDWOOD DR, IRVING TX 75061-8831, UNITED STATES OF AMERICA",
+    "po_line_items": [
+      {
+        "description": "SRX EYEWEAR MID PCKG 2,PR",
+        "quantity": 1.0,
+        "net_price": 154.68
+      }
+    ],
+    "vat_amount": null,
+    "gl_account": null,
+    "bank_name": null,
+    "account_holder_name": null,
+    "banking_account_number": null,
+    "remit_to_address": null,
+    "bill_to_address": null,
+    "transaction_type": "debit"
+  },
+  "filename": "SAPS4_5101679504_US28_PFNAUS_2026_999884762.pdf",
+  "raw_response": {
+    "invoice_number": "852449396",
+    "invoice_date": "10/07/2025",
+    "invoice_amount": "167.44",
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": "12.76",
+    "po_number": [
+      "M413270178",
+      "00058001"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "GRAINGER",
+    "vendor_address": "852449396, 852449396, 9666096889, 10/07/2025, 02/04/2026, AMOUNT DUE $167.44, SHIP TO ATTN: SERGIO CANTU, FRITO LAY IRVING ERPP, 701 N Wildwood Dr, Irving TX 75061-8831, BILL TO FRITO-LAY INC, IRVING PLANT, 701 N WILDWOOD DR, IRVING TX 75061-8831, UNITED STATES OF AMERICA",
+    "po_line_items": [
+      {
+        "description": "SRX EYEWEAR MID PCKG 2,PR",
+        "quantity": 1.0,
+        "net_price": 154.68
+      }
+    ]
+  }
+}

@@ -1,0 +1,59 @@
+{
+  "invoice_data": {
+    "invoice_number": "72378478",
+    "invoice_date": "Monday 9 Feb. 2026 6:06 a.m. GMT-07:00",
+    "invoice_amount": null,
+    "invoice_currency": [
+      "CAD"
+    ],
+    "tax_amount": "8.40",
+    "po_number": [
+      "M413543248"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "PEPSICO FOODS CANADA O/ A FRITO LAY CANADA",
+    "vendor_address": "5550 EXPLORER DR 8TH FLOOR MISSISSAUGA ON L4W 0C3 Canada, V3C 1S9 Canada, CA1 ARIBA PAYABLES, Address ID: V9T 5V9",
+    "po_line_items": [
+      {
+        "description": "Material SC17795838 / OTB COMM MS BLACK IP16",
+        "quantity": 1.0,
+        "net_price": 69.99
+      }
+    ],
+    "vat_amount": null,
+    "gl_account": null,
+    "bank_name": null,
+    "account_holder_name": null,
+    "banking_account_number": null,
+    "remit_to_address": null,
+    "bill_to_address": null,
+    "transaction_type": "debit"
+  },
+  "filename": "SAPS4_5101412500_CA02_PBNACA_2026_328543663.pdf",
+  "raw_response": {
+    "invoice_number": "72378478",
+    "invoice_date": "Monday 9 Feb. 2026 6:06 a.m. GMT-07:00",
+    "invoice_amount": "../../../../78.39",
+    "invoice_currency": [
+      "CAD"
+    ],
+    "tax_amount": "8.40",
+    "po_number": [
+      "M413543248"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "PEPSICO FOODS CANADA O/ A FRITO LAY CANADA",
+    "vendor_address": "5550 EXPLORER DR 8TH FLOOR MISSISSAUGA ON L4W 0C3 Canada, V3C 1S9 Canada, CA1 ARIBA PAYABLES, Address ID: V9T 5V9",
+    "po_line_items": [
+      {
+        "description": "Material SC17795838 / OTB COMM MS BLACK IP16",
+        "quantity": 1.0,
+        "net_price": 69.99
+      }
+    ]
+  }
+}

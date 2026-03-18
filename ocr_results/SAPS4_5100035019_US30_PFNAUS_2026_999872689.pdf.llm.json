@@ -1,0 +1,119 @@
+{
+  "invoice_data": {
+    "invoice_number": "FONN10819",
+    "invoice_date": "02/05/2026",
+    "invoice_amount": null,
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": "14.00",
+    "po_number": [
+      "M413096464"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "L Transportation Inc",
+    "vendor_address": "P.O. Box 515574, 701 LEGACY DR, Los Angeles CA 90051-4586, LANO , TX , 75024 , USA",
+    "po_line_items": [
+      {
+        "description": "Service call to 801 S 75th Ave Phoenix, AZ",
+        "quantity": 1.0,
+        "net_price": 100.0
+      },
+      {
+        "description": "Rehang Swing Door Panel",
+        "quantity": 1.0,
+        "net_price": 100.0
+      },
+      {
+        "description": "Replace Door Hinge on Dry Van",
+        "quantity": 3.0,
+        "net_price": 100.0
+      },
+      {
+        "description": "Repair/Straighten lock rod handle",
+        "quantity": 0.5,
+        "net_price": 100.0
+      },
+      {
+        "description": "Alum Hinge",
+        "quantity": 5.0,
+        "net_price": 20.76
+      },
+      {
+        "description": "Adjust lock rod assy. on Dry Van",
+        "quantity": 0.5,
+        "net_price": 50.0
+      },
+      {
+        "description": "Miscellaneous Shop Supplies",
+        "quantity": 1.0,
+        "net_price": 50.0
+      }
+    ],
+    "vat_amount": null,
+    "gl_account": null,
+    "bank_name": null,
+    "account_holder_name": null,
+    "banking_account_number": null,
+    "remit_to_address": null,
+    "bill_to_address": null,
+    "transaction_type": "debit"
+  },
+  "filename": "SAPS4_5100035019_US30_PFNAUS_2026_999872689.pdf",
+  "raw_response": {
+    "invoice_number": "FONN10819",
+    "invoice_date": "02/05/2026",
+    "invoice_amount": "../../../../767.80",
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": "14.00",
+    "po_number": [
+      "M413096464"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "L Transportation Inc",
+    "vendor_address": "P.O. Box 515574, 701 LEGACY DR, Los Angeles CA 90051-4586, LANO , TX , 75024 , USA",
+    "po_line_items": [
+      {
+        "description": "Service call to 801 S 75th Ave Phoenix, AZ",
+        "quantity": 1.0,
+        "net_price": 100.0
+      },
+      {
+        "description": "Rehang Swing Door Panel",
+        "quantity": 1.0,
+        "net_price": 100.0
+      },
+      {
+        "description": "Replace Door Hinge on Dry Van",
+        "quantity": 3.0,
+        "net_price": 100.0
+      },
+      {
+        "description": "Repair/Straighten lock rod handle",
+        "quantity": 0.5,
+        "net_price": 100.0
+      },
+      {
+        "description": "Alum Hinge",
+        "quantity": 5.0,
+        "net_price": 20.76
+      },
+      {
+        "description": "Adjust lock rod assy. on Dry Van",
+        "quantity": 0.5,
+        "net_price": 50.0
+      },
+      {
+        "description": "Miscellaneous Shop Supplies",
+        "quantity": 1.0,
+        "net_price": 50.0
+      }
+    ]
+  }
+}

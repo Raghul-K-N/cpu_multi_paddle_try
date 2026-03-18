@@ -1,0 +1,69 @@
+{
+  "invoice_data": {
+    "invoice_number": "00013142",
+    "invoice_date": "5th Feb 2026",
+    "invoice_amount": "177.84",
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": "9.60",
+    "po_number": [
+      "4504091241"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": "51.84",
+    "cost_center": null,
+    "vendor_name": "Icon Robotics Limited",
+    "vendor_address": "455 Rosebank Road, Avondale, Auckland 1026, NEW ZEALAND",
+    "po_line_items": [
+      {
+        "description": "Replacement Band",
+        "quantity": 20.0,
+        "net_price": 5.82
+      },
+      {
+        "description": "Delivery",
+        "quantity": 1.0,
+        "net_price": 0.0
+      }
+    ],
+    "vat_amount": null,
+    "gl_account": null,
+    "bank_name": null,
+    "account_holder_name": null,
+    "banking_account_number": null,
+    "remit_to_address": null,
+    "bill_to_address": null,
+    "transaction_type": "debit"
+  },
+  "filename": "SAPS4_5100703008_US28_PFNAUS_2026_999884721.pdf",
+  "raw_response": {
+    "invoice_number": "00013142",
+    "invoice_date": "5th Feb 2026",
+    "invoice_amount": "177.84",
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": "9.60",
+    "po_number": [
+      "4504091241"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": "51.84",
+    "cost_center": null,
+    "vendor_name": "Icon Robotics Limited",
+    "vendor_address": "455 Rosebank Road, Avondale, Auckland 1026, NEW ZEALAND",
+    "po_line_items": [
+      {
+        "description": "Replacement Band",
+        "quantity": 20.0,
+        "net_price": 5.82
+      },
+      {
+        "description": "Delivery",
+        "quantity": 1.0,
+        "net_price": 0.0
+      }
+    ]
+  }
+}

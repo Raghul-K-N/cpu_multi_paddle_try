@@ -1,0 +1,59 @@
+{
+  "invoice_data": {
+    "invoice_number": "MA08-00616221",
+    "invoice_date": "02/12/26",
+    "invoice_amount": null,
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": "6.3500",
+    "po_number": [
+      "4505154233"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "REMIT MOTION INDUSTRIES, INC.",
+    "vendor_address": "36 SWORD ST. UNIT 9D, AUBURN, MA 01501, PHONE: 5082292688, FAX: 5082292940",
+    "po_line_items": [
+      {
+        "description": "CA0400X062KW ZINC \"A\" GROOVE PULLEY FHP SHEAVES",
+        "quantity": 6.0,
+        "net_price": 12.59
+      }
+    ],
+    "vat_amount": null,
+    "gl_account": null,
+    "bank_name": null,
+    "account_holder_name": null,
+    "banking_account_number": null,
+    "remit_to_address": null,
+    "bill_to_address": null,
+    "transaction_type": "debit"
+  },
+  "filename": "SAPS4_5100270051_US28_PFNAUS_2026_999884263.pdf",
+  "raw_response": {
+    "invoice_number": "MA08-00616221",
+    "invoice_date": "02/12/26",
+    "invoice_amount": "../../../80.34",
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": "6.3500",
+    "po_number": [
+      "4505154233"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "REMIT MOTION INDUSTRIES, INC.",
+    "vendor_address": "36 SWORD ST. UNIT 9D, AUBURN, MA 01501, PHONE: 5082292688, FAX: 5082292940",
+    "po_line_items": [
+      {
+        "description": "CA0400X062KW ZINC \"A\" GROOVE PULLEY FHP SHEAVES",
+        "quantity": 6.0,
+        "net_price": 12.59
+      }
+    ]
+  }
+}

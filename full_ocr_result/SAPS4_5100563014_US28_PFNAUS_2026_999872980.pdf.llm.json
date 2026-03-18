@@ -1,0 +1,109 @@
+{
+  "invoice_data": {
+    "invoice_number": "980522553026",
+    "invoice_date": "Thursday 12 Feb 2026 5:29 AM GMT-07:00",
+    "invoice_amount": "1192.84",
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": "80.65",
+    "po_number": [
+      "M413553885"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": "30.00",
+    "cost_center": null,
+    "vendor_name": "GRAINGER",
+    "vendor_address": "100 Grainger Pkwy, Lake Forest, IL, United States\nUS-PL-CHARLOTTE-NC-FLI, 701 GRAINGER WAY, MINOOKA, IL, 60447, United States, 28273, United States",
+    "po_line_items": [
+      {
+        "description": "3LX42 / Cam and Groove Adapter,3,Aluminum",
+        "quantity": 2.0,
+        "net_price": 18.91
+      },
+      {
+        "description": "2WV72 / Black Pipe Nipple,Threaded,3x3 In",
+        "quantity": 2.0,
+        "net_price": 27.66
+      },
+      {
+        "description": "55CH07 / Water Hose,3 ID x 15 ft.,Black",
+        "quantity": 1.0,
+        "net_price": 309.04
+      },
+      {
+        "description": "4TXF8 / Flange,Steel, Threaded,3 in Pipe Size",
+        "quantity": 2.0,
+        "net_price": 178.16
+      },
+      {
+        "description": "45DU25 / Water Hose Assembly,3ID,25 ft.",
+        "quantity": 1.0,
+        "net_price": 140.01
+      },
+      {
+        "description": "45DT97 / Water Hose Assembly,3ID,50 ft.",
+        "quantity": 2.0,
+        "net_price": 180.92
+      }
+    ],
+    "vat_amount": null,
+    "gl_account": null,
+    "bank_name": null,
+    "account_holder_name": null,
+    "banking_account_number": null,
+    "remit_to_address": null,
+    "bill_to_address": null,
+    "transaction_type": "debit"
+  },
+  "filename": "SAPS4_5100563014_US28_PFNAUS_2026_999872980.pdf",
+  "raw_response": {
+    "invoice_number": "980522553026",
+    "invoice_date": "Thursday 12 Feb 2026 5:29 AM GMT-07:00",
+    "invoice_amount": "1192.84",
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": "80.65",
+    "po_number": [
+      "M413553885"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": "30.00",
+    "cost_center": null,
+    "vendor_name": "GRAINGER",
+    "vendor_address": "100 Grainger Pkwy, Lake Forest, IL, United States\nUS-PL-CHARLOTTE-NC-FLI, 701 GRAINGER WAY, MINOOKA, IL, 60447, United States, 28273, United States",
+    "po_line_items": [
+      {
+        "description": "3LX42 / Cam and Groove Adapter,3,Aluminum",
+        "quantity": 2.0,
+        "net_price": 18.91
+      },
+      {
+        "description": "2WV72 / Black Pipe Nipple,Threaded,3x3 In",
+        "quantity": 2.0,
+        "net_price": 27.66
+      },
+      {
+        "description": "55CH07 / Water Hose,3 ID x 15 ft.,Black",
+        "quantity": 1.0,
+        "net_price": 309.04
+      },
+      {
+        "description": "4TXF8 / Flange,Steel, Threaded,3 in Pipe Size",
+        "quantity": 2.0,
+        "net_price": 178.16
+      },
+      {
+        "description": "45DU25 / Water Hose Assembly,3ID,25 ft.",
+        "quantity": 1.0,
+        "net_price": 140.01
+      },
+      {
+        "description": "45DT97 / Water Hose Assembly,3ID,50 ft.",
+        "quantity": 2.0,
+        "net_price": 180.92
+      }
+    ]
+  }
+}

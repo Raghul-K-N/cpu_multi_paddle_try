@@ -1,0 +1,109 @@
+{
+  "invoice_data": {
+    "invoice_number": "59782527",
+    "invoice_date": "2/12/26",
+    "invoice_amount": "478.42",
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": "39.19",
+    "po_number": [
+      "4505189823"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "McMaster-Carr",
+    "vendor_address": "PO Box 7690, Chicago IL 60680-7690",
+    "po_line_items": [
+      {
+        "description": "Bearing Locknut, Carbon Steel, M12 x 1 mm",
+        "quantity": 10.0,
+        "net_price": 10.32
+      },
+      {
+        "description": "Medium-Strength Steel Nylon-Insert Locknut, Fine-Thread, Class 8, Zinc-Plated, M12 x 1 mm Thread, Packs of 10",
+        "quantity": 2.0,
+        "net_price": 7.98
+      },
+      {
+        "description": "Zinc-Plated Carbon Steel Bearing Locknut, M12 x 1 mm Thread Size",
+        "quantity": 4.0,
+        "net_price": 14.84
+      },
+      {
+        "description": "Hook Spanner Wrench for Slots on The Side for 15/32\" to 35/64\" Circle Diameter",
+        "quantity": 1.0,
+        "net_price": 55.0
+      },
+      {
+        "description": "Spring-Impact Center Punch, Starrett 818 with Aluminum Handle",
+        "quantity": 4.0,
+        "net_price": 17.6
+      },
+      {
+        "description": "Zinc-Plated Carbon Steel Bearing Locknut, M25 x 1.5 mm Thread Size",
+        "quantity": 4.0,
+        "net_price": 414.32
+      }
+    ],
+    "vat_amount": null,
+    "gl_account": null,
+    "bank_name": null,
+    "account_holder_name": null,
+    "banking_account_number": null,
+    "remit_to_address": null,
+    "bill_to_address": null,
+    "transaction_type": "debit"
+  },
+  "filename": "SAPS4_5100386549_US28_PFNAUS_2026_999934800.pdf",
+  "raw_response": {
+    "invoice_number": "59782527",
+    "invoice_date": "2/12/26",
+    "invoice_amount": "478.42",
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": "39.19",
+    "po_number": [
+      "4505189823"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "McMaster-Carr",
+    "vendor_address": "PO Box 7690, Chicago IL 60680-7690",
+    "po_line_items": [
+      {
+        "description": "Bearing Locknut, Carbon Steel, M12 x 1 mm",
+        "quantity": 10.0,
+        "net_price": 10.32
+      },
+      {
+        "description": "Medium-Strength Steel Nylon-Insert Locknut, Fine-Thread, Class 8, Zinc-Plated, M12 x 1 mm Thread, Packs of 10",
+        "quantity": 2.0,
+        "net_price": 7.98
+      },
+      {
+        "description": "Zinc-Plated Carbon Steel Bearing Locknut, M12 x 1 mm Thread Size",
+        "quantity": 4.0,
+        "net_price": 14.84
+      },
+      {
+        "description": "Hook Spanner Wrench for Slots on The Side for 15/32\" to 35/64\" Circle Diameter",
+        "quantity": 1.0,
+        "net_price": 55.0
+      },
+      {
+        "description": "Spring-Impact Center Punch, Starrett 818 with Aluminum Handle",
+        "quantity": 4.0,
+        "net_price": 17.6
+      },
+      {
+        "description": "Zinc-Plated Carbon Steel Bearing Locknut, M25 x 1.5 mm Thread Size",
+        "quantity": 4.0,
+        "net_price": 414.32
+      }
+    ]
+  }
+}

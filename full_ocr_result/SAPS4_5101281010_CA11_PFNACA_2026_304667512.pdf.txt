@@ -1,0 +1,519 @@
+==================================<Page 1 - START>================================
+Standard Invoice
+                                                                                                                     GRAINGER
+Original tax invoice has been submitted electronically. This is a
+human readable representation (copy) of the original tax invoice.
+                                                                  Invoice Number                                       9806337219
+                                                                  (Supplier Reference No.)
+                                                                  Invoice Date                   Thursday 12 Feb. 2026 7:00 a.m. GMT-05:00
+                                                                                                                    $219.83 CAD
+                                                                  Amount Due
+    Contact Information                                                         Shipping Information
+    Supplier                       Customer
+                                                                            Ship From                     Ship To
+     ACKLANDS-GRAINGER INC.        EDI ONLY PEPSI FOODS ULC
+                                                                            AGI CALEDON DC               CA-FL-CAMBRIDGE-ON-FLC
+     PO BOX 2970                   (FLC)
+                                                                            21. Merchant Road                1001 BISHOP ST N
+     WINNIPEG                     1001 BISHOP ST N                           Caledon                       CAMBRIDGE
+     MB                                                                                                ON
+                                  DELIVER TO RECEIVING                       ON
+     R3C 4B5                      DOOR                                                                 N3H 4V8
+                                                                            L7C 3Y7
+     CA                          CAMBRIDGE                                                            Canada
+                                                                            Canada
+                                  ON
+                                  N3H 4V8
+                                  Canada
+                                                                                                                PO Date : 12 Feb. 2026
+   Line Items                                               PO No. : M413555361
+                                        Supplier Part No. /             Customer Part No.        Quantity            Unit Price         Subtotal
+   Line No.    PO Line No.          Type
+                                        Description                                        (UOM)
+    10        1                 Material GUS30ZC74 / REPAIR REQUIRED                       2 / (PK)            $5.46 CAD      $10.92 CAD
+                                        TAG,BLCK/ORANGE,PK25
+                                                                                                      Line Item Total : $10.92 CAD
+                                        Supplier Part No. /             Customer Part No.        Quantity            Unit Price         Subtotal
+    Line No.    PO Line No.          Type
+                                        Description                                        (UOM)
+    20                          MaterialSUGSQD-LGE / GLOVES                              6 / (PR)            $0.79 CAD       $4.74 CAD
+              2
+                                        COTTON/POLY PVC DOT PALM L
+                                                                                                       Line Item Total : $4.74 CAD
+                                        Supplier Part No. /             Customer Part No.        Quantity            Unit Price         Subtotal
+    Line No.    PO Line No.          Type
+                                        Description
+    30                          Material ALG271DP / GLOVES FITTER DBL                       9 / (PR)            $5.22 CAD      $46.98 CAD
+              3
+                                        PALM/INDEX 2 1/2 CUFF
+                                                                                                      Line Item Total : $46.98 CAD
+                                                                                                                           Subtotal
+    Line No.    PO Line No.          Type    Supplier Part No. /              Customer Part No.         Quantity            Unit Price
+                                        Description                                        (UOM)
+    40                          Material  ALG271DP/5PK / GLOVE FTTR                          5 / (PR)            $7.26 CAD      $36.30 CAD
+              4
+                                        SPLT DBL PALM 5&quot;,SINGLE
+                                        PK
+                                                                                                      Line Item Total : $36.30 CAD
+                                        Supplier Part No. /             Customer Part No.        Quantity            Unit Price         Subtotal
+    Line No.    PO Line No.          Type
+                                        Description                                        (UOM)
+    50       5                 Material GGS4JND4 / SAFETY                                4 / (EA)            $1.63 CAD       $6.52 CAD
+                                        GLASSES,CLEAR,110 MM,PC
+                                                                                                       Line Item Total : $6.52 CAD
+                                                                                                           Unit Price
+    Line No.    PO Line No.          Type    Supplier Part No. /             Customer Part No.         Quantity                            Subtotal
+                                        Description                                        (UOM)
+    60       6                 Material MSFHVS18/                                      6 / (EA)           $10.49 CAD      $62.94 CAD
+                                        SUSPENDERS.GREEN.SZ
+                                        UNIVERSAL.POLYESTER
+                                                                                                      Line Item Total : $62.94 CAD
+    Line No.    PO Line No.          Type    Supplier Part No. /              Customer Part No.         Quantity            Unit Price         Subtotal
+                                        Description                                        (UOM)
+    70       7                 Material  SUGSQD-MED / GLOVES                              9 / (PR)            $0.79 CAD       $7.11 CAD
+                                        COTTON/POLY PVC DOT PALM M
+                                                                                                       Line Item Total : $7.11 CAD
+    Line No.    PO Line No.          Type    Supplier Part No. /             Customer Part No.         Quantity            Unit Price
+                                                                                                                           Subtotal
+                                        Description                                        (UOM)
+    80       8                  Material
+                                        EGO6990 / HAND WARMERS,UP                        11 / (PR)           $1.73 CAD      $19.03 CAD
+                                        TO 12 HR HEATING TIME.PR
+                                                                                                      Line Item Total : $19.03 CAD
+       Tax Summary
+       Category              Details
+                                                            Base Amount                Rate %          Amount
+       GST                  Tax Description : GOODS AND         $194.54 CAD
+                                                                                      13%            $25.29 CAD
+                             SERVICES
+       PST                  Tax Description : State/Provincial
+                                                            $194.54 CAD                0%             $0.00 CAD
+                             Tax
+                                                                               Amount Summary
+                                                                               Line item subtotal
+                                                                                                                      $194.54 CAD
+                                                                               Gross amount
+                                                                                                                      $219.83 CAD
+                                                                               Net amount
+                                                                                                                      $219.83 CAD
+                                                                               Total tax amount
+                                                                                                                       $25.29 CAD
+                                                                               Total withholding tax amount
+                                                                              Amount Due
+                                                                                                                      $219.83 CAD
+     Additional Information
+     invioceSourceDocument
+     PurchaseOrder
+     Billing Information                                                        Remittance Information
+     Bill To
+                                                                          Remit To
+     PEPSI FOODS ULC (FLC)                                                  ACKLANDS-GRAINGER INC.
+     2095 MATHESON BLVD E
+                                                                          PO BOX 2970
+     MISSISSAUGA
+                                                                          WINNIPEG
+     ON                                                                  MB
+     L4W 0G2                                                              R3C 4B5
+     Canada                                                               Canada
+     Address ID:                                                            Address ID: CA1_2751
+     CA1_ARIBA_PAYABLES
+==================================<Page 1 - END>================================
+==================================<Page 3 - START>================================
+  Appendix
+  Line No.
+             PO Line No. Type
+                                                        Supplier Part No. / Description
+  10        1
+                        Material
+                                                        GUS30ZC74 / REPAIR REQUIRED TAG,BLCK/ORANGE,PK25
+  Additional Details:
+  Supplier Part ID : GUS30ZC74
+ Line No.
+             PO Line No. Type
+                                                        Supplier Part No. / Description
+ 20        2
+                        Material
+                                                        SUGSQD-LGE / GLOVES COTTON/POLY PVC DOT PALM L
+  Additional Details:
+  Supplier Part ID : SUGSQD-LGE
+ Line No.    PO Line No. Type
+                                                        Supplier Part No. / Description
+ 30        3         Material
+                                                       ALG271DP / GLOVES FITTER DBL PALM/INDEX 2 1/2 CUFF
+ Additional Details:
+ Supplier Part ID : ALG271DP
+ Line No.
+            PO Line No. Type                           Supplier Part No. / Description
+ 40
+            4         Material                         ALG271DP/5PK / GLOVE FTTR SPLT DBL PALM 5&qu0t;,SINGLE PK
+ Additional Details:
+ Supplier Part ID : ALG271DP/5PK
+ Line No.    PO Line No. Type                           Supplier Part No. / Description
+ 50        5         Material                         GGS4JND4 / SAFETY GLASSES,CLEAR,110 MM,PC
+ Additional Details:
+ Supplier Part ID : GGS4JND4
+ Line No.    PO Line No. Type                           Supplier Part No. / Description
+ 60        6         Material
+                                                       MSFHVS18 / SUSPENDERS,GREEN,SZ UNIVERSAL,POLYESTER
+ Additional Details:
+ Supplier Part ID : MSFHVS18
+ Line No.    PO Line No. Type
+                                                       Supplier Part No. / Description
+70        7         Material
+                                                       SUGSQD-MED / GLOVES COTTON/POLY PVC DOT PALM M
+Additional Details:
+ Supplier Part ID : SUGSQD-MED
+Line No.    PO Line No. Type
+                                                      Supplier Part No. / Description
+80        8         Material
+                                                      EGO6990 / HAND WARMERS,UP TO 12 HR HEATING TIME,PR
+Additional Details:
+ Supplier Part ID : EGO6990
+PDF generated on Friday 13 Feb. 2026 6:20 a.m. GMT-08:00
+==================================<Page 3 - END>================================
+==================================<Page 4 - START>================================
+Standard Invoice
+                                                                                                                     GRAINGER
+Original tax invoice has been submitted electronically. This is a
+human readable representation (copy) of the original tax invoice.
+                                                                  Invoice Number                                       9806337219
+                                                                  (Supplier Reference No.)
+                                                                  Invoice Date                   Thursday 12 Feb. 2026 7:00 a.m. GMT-05:00
+                                                                                                                    $219.83 CAD
+                                                                  Amount Due
+    Contact Information                                                         Shipping Information
+     Supplier                       Customer
+                                                                            Ship From                     Ship To
+     ACKLANDS-GRAINGER INC.        EDI ONLY PEPSI FOODS ULC
+                                                                            AGI CALEDON DC               CA-FL-CAMBRIDGE-ON-FLC
+     PO BOX 2970                   (FLC)
+                                                                            21. Merchant Road                1001 BISHOP ST N
+     WINNIPEG                     1001 BISHOP ST N                           Caledon                       CAMBRIDGE
+     MB                                                                                                ON
+                                   DELIVER TO RECEIVING                       ON
+     R3C 4B5                      DOOR                                                                 N3H 4V8
+                                                                            L7C 3Y7
+     CA                          CAMBRIDGE                                                            Canada
+                                                                            Canada
+                                  ON
+                                  N3H 4V8
+                                   Canada
+                                                                                                                PO Date : 12 Feb. 2026
+    Line Items                                               PO No. : M413555361
+                                        Supplier Part No. /             Customer Part No.        Quantity            Unit Price         Subtotal
+    Line No.    PO Line No.          Type
+                                        Description                                        (UOM)
+    10        1                 Material GUS30ZC74 / REPAIR REQUIRED                       2 / (PK)            $5.46 CAD      $10.92 CAD
+                                        TAG,BLCK/ORANGE,PK25
+                                                                                                      Line Item Total : $10.92 CAD
+                                        Supplier Part No. /             Customer Part No.        Quantity            Unit Price         Subtotal
+    Line No.    PO Line No.          Type
+                                        Description                                        (UOM)
+    20                          MaterialSUGSQD-LGE / GLOVES                              6 / (PR)            $0.79 CAD       $4.74 CAD
+              2
+                                        COTTON/POLY PVC DOT PALM L
+                                                                                                       Line Item Total : $4.74 CAD
+                                        Supplier Part No. /             Customer Part No.        Quantity            Unit Price         Subtotal
+    Line No.    PO Line No.          Type
+                                        Description
+    30                          Material ALG271DP / GLOVES FITTER DBL                       9 / (PR)            $5.22 CAD      $46.98 CAD
+              3
+                                        PALM/INDEX 2 1/2 CUFF
+                                                                                                      Line Item Total : $46.98 CAD
+                                                                                                                           Subtotal
+    Line No.    PO Line No.          Type    Supplier Part No. /              Customer Part No.         Quantity            Unit Price
+                                        Description                                        (UOM)
+    40                          Material  ALG271DP/5PK / GLOVE FTTR                          5 / (PR)            $7.26 CAD      $36.30 CAD
+              4
+                                        SPLT DBL PALM 5&quot;,SINGLE
+                                        PK
+                                                                                                      Line Item Total : $36.30 CAD
+                                        Supplier Part No. /             Customer Part No.        Quantity            Unit Price         Subtotal
+     Line No.    PO Line No.          Type
+                                        Description                                        (UOM)
+    50       5                 Material GGS4JND4 / SAFETY                                4 / (EA)            $1.63 CAD       $6.52 CAD
+                                        GLASSES,CLEAR,110 MM,PC
+                                                                                                       Line Item Total : $6.52 CAD
+                                                                                                           Unit Price
+    Line No.    PO Line No.          Type    Supplier Part No. /             Customer Part No.         Quantity                            Subtotal
+                                        Description                                        (UOM)
+    60       6                 Material MSFHVS18/                                      6 / (EA)           $10.49 CAD      $62.94 CAD
+                                         SUSPENDERS.GREEN.SZ
+                                        UNIVERSAL.POLYESTER
+                                                                                                       Line Item Total : $62.94 CAD
+    Line No.    PO Line No.          Type    Supplier Part No. /              Customer Part No.         Quantity            Unit Price         Subtotal
+                                        Description                                        (UOM)
+    70       7                 Material  SUGSQD-MED / GLOVES                              9 / (PR)            $0.79 CAD       $7.11 CAD
+                                        COTTON/POLY PVC DOT PALM M
+                                                                                                       Line Item Total : $7.11 CAD
+    Line No.    PO Line No.          Type    Supplier Part No. /             Customer Part No.         Quantity            Unit Price
+                                                                                                                           Subtotal
+                                        Description                                        (UOM)
+    80       8                  Material
+                                        EGO6990 / HAND WARMERS,UP                        11 / (PR)           $1.73 CAD      $19.03 CAD
+                                        TO 12 HR HEATING TIME.PR
+                                                                                                      Line Item Total : $19.03 CAD
+       Tax Summary
+       Category              Details
+                                                            Base Amount                Rate %          Amount
+       GST                  Tax Description : GOODS AND         $194.54 CAD
+                                                                                      13%            $25.29 CAD
+                             SERVICES
+       PST                  Tax Description : State/Provincial
+                                                            $194.54 CAD                0%             $0.00 CAD
+                             Tax
+                                                                               Amount Summary
+                                                                               Line item subtotal
+                                                                                                                       $194.54 CAD
+                                                                               Gross amount
+                                                                                                                      $219.83 CAD
+                                                                               Net amount
+                                                                                                                      $219.83 CAD
+                                                                               Total tax amount
+                                                                                                                       $25.29 CAD
+                                                                               Total withholding tax amount
+                                                                               Amount Due
+                                                                                                                      $219.83 CAD
+      Additional Information
+      invioceSourceDocument
+     PurchaseOrder
+     Billing Information                                                        Remittance Information
+     Bill To
+                                                                          Remit To
+     PEPSI FOODS ULC (FLC)                                                  ACKLANDS-GRAINGER INC.
+     2095 MATHESON BLVD E
+                                                                          PO BOX 2970
+     MISSISSAUGA
+                                                                          WINNIPEG
+     ON                                                                  MB
+     L4W 0G2                                                              R3C 4B5
+     Canada                                                               Canada
+     Address ID:                                                            Address ID: CA1_2751
+     CA1_ARIBA_PAYABLES
+==================================<Page 4 - END>================================
+==================================<Page 6 - START>================================
+  Appendix
+  Line No.
+             PO Line No. Type
+                                                        Supplier Part No. / Description
+  10        1
+                        Material
+                                                        GUS30ZC74 / REPAIR REQUIRED TAG,BLCK/ORANGE,PK25
+  Additional Details:
+  Supplier Part ID : GUS30ZC74
+ Line No.
+             PO Line No. Type
+                                                        Supplier Part No. / Description
+ 20        2
+                        Material
+                                                        SUGSQD-LGE / GLOVES COTTON/POLY PVC DOT PALM L
+  Additional Details:
+  Supplier Part ID : SUGSQD-LGE
+ Line No.    PO Line No. Type
+                                                        Supplier Part No. / Description
+ 30        3         Material
+                                                       ALG271DP / GLOVES FITTER DBL PALM/INDEX 2 1/2 CUFF
+ Additional Details:
+ Supplier Part ID : ALG271DP
+ Line No.
+            PO Line No. Type                           Supplier Part No. / Description
+ 40
+            4         Material                         ALG271DP/5PK / GLOVE FTTR SPLT DBL PALM 5&qu0t;,SINGLE PK
+ Additional Details:
+ Supplier Part ID : ALG271DP/5PK
+ Line No.    PO Line No. Type                           Supplier Part No. / Description
+ 50        5         Material                         GGS4JND4 / SAFETY GLASSES,CLEAR,110 MM,PC
+ Additional Details:
+ Supplier Part ID : GGS4JND4
+ Line No.    PO Line No. Type                           Supplier Part No. / Description
+ 60        6         Material
+                                                       MSFHVS18 / SUSPENDERS,GREEN,SZ UNIVERSAL,POLYESTER
+ Additional Details:
+ Supplier Part ID : MSFHVS18
+ Line No.    PO Line No. Type
+                                                       Supplier Part No. / Description
+70        7         Material
+                                                       SUGSQD-MED / GLOVES COTTON/POLY PVC DOT PALM M
+Additional Details:
+ Supplier Part ID : SUGSQD-MED
+Line No.    PO Line No. Type
+                                                      Supplier Part No. / Description
+80        8         Material
+                                                      EGO6990 / HAND WARMERS,UP TO 12 HR HEATING TIME,PR
+Additional Details:
+ Supplier Part ID : EGO6990
+PDF generated on Friday 13 Feb. 2026 6:20 a.m. GMT-08:00
+==================================<Page 6 - END>================================
+==================================<Page 7 - START>================================
+Standard Invoice
+                                                                                                                     GRAINGER
+Original tax invoice has been submitted electronically. This is a
+human readable representation (copy) of the original tax invoice.
+                                                                  Invoice Number                                       9806337219
+                                                                  (Supplier Reference No.)
+                                                                  Invoice Date                   Thursday 12 Feb. 2026 7:00 a.m. GMT-05:00
+                                                                                                                    $219.83 CAD
+                                                                  Amount Due
+    Contact Information                                                         Shipping Information
+     Supplier                       Customer
+                                                                            Ship From                     Ship To
+     ACKLANDS-GRAINGER INC.        EDI ONLY PEPSI FOODS ULC
+                                                                            AGI CALEDON DC               CA-FL-CAMBRIDGE-ON-FLC
+     PO BOX 2970                   (FLC)
+                                                                            21. Merchant Road                1001 BISHOP ST N
+     WINNIPEG                     1001 BISHOP ST N                           Caledon                       CAMBRIDGE
+     MB                                                                                                ON
+                                   DELIVER TO RECEIVING                       ON
+     R3C 4B5                      DOOR                                                                 N3H 4V8
+                                                                            L7C 3Y7
+     CA                          CAMBRIDGE                                                            Canada
+                                                                            Canada
+                                  ON
+                                  N3H 4V8
+                                   Canada
+                                                                                                                PO Date : 12 Feb. 2026
+    Line Items                                               PO No. : M413555361
+                                        Supplier Part No. /             Customer Part No.        Quantity            Unit Price         Subtotal
+    Line No.    PO Line No.          Type
+                                        Description                                        (UOM)
+    10        1                 Material GUS30ZC74 / REPAIR REQUIRED                       2 / (PK)            $5.46 CAD      $10.92 CAD
+                                        TAG,BLCK/ORANGE,PK25
+                                                                                                      Line Item Total : $10.92 CAD
+                                        Supplier Part No. /             Customer Part No.        Quantity            Unit Price         Subtotal
+    Line No.    PO Line No.          Type
+                                        Description                                        (UOM)
+    20                          MaterialSUGSQD-LGE / GLOVES                              6 / (PR)            $0.79 CAD       $4.74 CAD
+              2
+                                        COTTON/POLY PVC DOT PALM L
+                                                                                                       Line Item Total : $4.74 CAD
+                                        Supplier Part No. /             Customer Part No.        Quantity            Unit Price         Subtotal
+    Line No.    PO Line No.          Type
+                                        Description
+    30                          Material ALG271DP / GLOVES FITTER DBL                       9 / (PR)            $5.22 CAD      $46.98 CAD
+              3
+                                        PALM/INDEX 2 1/2 CUFF
+                                                                                                      Line Item Total : $46.98 CAD
+                                                                                                                           Subtotal
+    Line No.    PO Line No.          Type    Supplier Part No. /              Customer Part No.         Quantity            Unit Price
+                                        Description                                        (UOM)
+    40                          Material  ALG271DP/5PK / GLOVE FTTR                          5 / (PR)            $7.26 CAD      $36.30 CAD
+              4
+                                        SPLT DBL PALM 5&quot;,SINGLE
+                                        PK
+                                                                                                      Line Item Total : $36.30 CAD
+                                        Supplier Part No. /             Customer Part No.        Quantity            Unit Price         Subtotal
+     Line No.    PO Line No.          Type
+                                        Description                                        (UOM)
+    50       5                 Material GGS4JND4 / SAFETY                                4 / (EA)            $1.63 CAD       $6.52 CAD
+                                        GLASSES,CLEAR,110 MM,PC
+                                                                                                       Line Item Total : $6.52 CAD
+                                                                                                           Unit Price
+    Line No.    PO Line No.          Type    Supplier Part No. /             Customer Part No.         Quantity                            Subtotal
+                                        Description                                        (UOM)
+    60       6                 Material MSFHVS18/                                      6 / (EA)           $10.49 CAD      $62.94 CAD
+                                         SUSPENDERS.GREEN.SZ
+                                        UNIVERSAL.POLYESTER
+                                                                                                       Line Item Total : $62.94 CAD
+    Line No.    PO Line No.          Type    Supplier Part No. /              Customer Part No.         Quantity            Unit Price         Subtotal
+                                        Description                                        (UOM)
+    70       7                 Material  SUGSQD-MED / GLOVES                              9 / (PR)            $0.79 CAD       $7.11 CAD
+                                        COTTON/POLY PVC DOT PALM M
+                                                                                                       Line Item Total : $7.11 CAD
+    Line No.    PO Line No.          Type    Supplier Part No. /             Customer Part No.         Quantity            Unit Price
+                                                                                                                           Subtotal
+                                        Description                                        (UOM)
+    80       8                  Material
+                                        EGO6990 / HAND WARMERS,UP                        11 / (PR)           $1.73 CAD      $19.03 CAD
+                                        TO 12 HR HEATING TIME.PR
+                                                                                                      Line Item Total : $19.03 CAD
+       Tax Summary
+       Category              Details
+                                                            Base Amount                Rate %          Amount
+       GST                  Tax Description : GOODS AND         $194.54 CAD
+                                                                                      13%            $25.29 CAD
+                             SERVICES
+       PST                  Tax Description : State/Provincial
+                                                            $194.54 CAD                0%             $0.00 CAD
+                             Tax
+                                                                               Amount Summary
+                                                                               Line item subtotal
+                                                                                                                       $194.54 CAD
+                                                                               Gross amount
+                                                                                                                      $219.83 CAD
+                                                                               Net amount
+                                                                                                                      $219.83 CAD
+                                                                               Total tax amount
+                                                                                                                       $25.29 CAD
+                                                                               Total withholding tax amount
+                                                                               Amount Due
+                                                                                                                      $219.83 CAD
+      Additional Information
+      invioceSourceDocument
+     PurchaseOrder
+     Billing Information                                                        Remittance Information
+     Bill To
+                                                                          Remit To
+     PEPSI FOODS ULC (FLC)                                                  ACKLANDS-GRAINGER INC.
+     2095 MATHESON BLVD E
+                                                                          PO BOX 2970
+     MISSISSAUGA
+                                                                          WINNIPEG
+     ON                                                                  MB
+     L4W 0G2                                                              R3C 4B5
+     Canada                                                               Canada
+     Address ID:                                                            Address ID: CA1_2751
+     CA1_ARIBA_PAYABLES
+==================================<Page 7 - END>================================
+==================================<Page 9 - START>================================
+  Appendix
+  Line No.
+             PO Line No. Type
+                                                        Supplier Part No. / Description
+  10        1
+                        Material
+                                                        GUS30ZC74 / REPAIR REQUIRED TAG,BLCK/ORANGE,PK25
+  Additional Details:
+  Supplier Part ID : GUS30ZC74
+ Line No.
+             PO Line No. Type
+                                                        Supplier Part No. / Description
+ 20        2
+                        Material
+                                                        SUGSQD-LGE / GLOVES COTTON/POLY PVC DOT PALM L
+  Additional Details:
+  Supplier Part ID : SUGSQD-LGE
+ Line No.    PO Line No. Type
+                                                        Supplier Part No. / Description
+ 30        3         Material
+                                                       ALG271DP / GLOVES FITTER DBL PALM/INDEX 2 1/2 CUFF
+ Additional Details:
+ Supplier Part ID : ALG271DP
+ Line No.
+            PO Line No. Type                           Supplier Part No. / Description
+ 40
+            4         Material                         ALG271DP/5PK / GLOVE FTTR SPLT DBL PALM 5&qu0t;,SINGLE PK
+ Additional Details:
+ Supplier Part ID : ALG271DP/5PK
+ Line No.    PO Line No. Type                           Supplier Part No. / Description
+ 50        5         Material                         GGS4JND4 / SAFETY GLASSES,CLEAR,110 MM,PC
+ Additional Details:
+ Supplier Part ID : GGS4JND4
+ Line No.    PO Line No. Type                           Supplier Part No. / Description
+ 60        6         Material
+                                                       MSFHVS18 / SUSPENDERS,GREEN,SZ UNIVERSAL,POLYESTER
+ Additional Details:
+ Supplier Part ID : MSFHVS18
+ Line No.    PO Line No. Type
+                                                       Supplier Part No. / Description
+70        7         Material
+                                                       SUGSQD-MED / GLOVES COTTON/POLY PVC DOT PALM M
+Additional Details:
+ Supplier Part ID : SUGSQD-MED
+Line No.    PO Line No. Type
+                                                      Supplier Part No. / Description
+80        8         Material
+                                                      EGO6990 / HAND WARMERS,UP TO 12 HR HEATING TIME,PR
+Additional Details:
+ Supplier Part ID : EGO6990
+PDF generated on Friday 13 Feb. 2026 6:20 a.m. GMT-08:00
+==================================<Page 9 - END>================================

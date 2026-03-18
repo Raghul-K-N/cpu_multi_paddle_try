@@ -1,0 +1,59 @@
+{
+  "invoice_data": {
+    "invoice_number": "454379790001",
+    "invoice_date": "Friday 13 Feb 2026 12:00 PM GMT-05:00",
+    "invoice_amount": "29.08",
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": "2.22",
+    "po_number": [
+      "M413549660"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "ODP BUSINESS SOLUTIONS, LLC",
+    "vendor_address": "ODP BUSINESS SOLUTIONS, LLC, 6600 North Military Trail, Boca Raton, FL 33496, US, 6315 E STASSNEY LN, AUSTIN, TX 78744, United States",
+    "po_line_items": [
+      {
+        "description": "POCKET,EXPAND,LTR,7,5/BX",
+        "quantity": 2.0,
+        "net_price": 13.43
+      }
+    ],
+    "vat_amount": null,
+    "gl_account": null,
+    "bank_name": null,
+    "account_holder_name": null,
+    "banking_account_number": null,
+    "remit_to_address": null,
+    "bill_to_address": null,
+    "transaction_type": "debit"
+  },
+  "filename": "SAPS4_5100000033_US28_PFNAUS_2026_999930711.pdf",
+  "raw_response": {
+    "invoice_number": "454379790001",
+    "invoice_date": "Friday 13 Feb 2026 12:00 PM GMT-05:00",
+    "invoice_amount": "29.08",
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": "2.22",
+    "po_number": [
+      "M413549660"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "ODP BUSINESS SOLUTIONS, LLC",
+    "vendor_address": "ODP BUSINESS SOLUTIONS, LLC, 6600 North Military Trail, Boca Raton, FL 33496, US, 6315 E STASSNEY LN, AUSTIN, TX 78744, United States",
+    "po_line_items": [
+      {
+        "description": "POCKET,EXPAND,LTR,7,5/BX",
+        "quantity": 2.0,
+        "net_price": 13.43
+      }
+    ]
+  }
+}

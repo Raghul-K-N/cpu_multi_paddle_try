@@ -1,0 +1,59 @@
+{
+  "invoice_data": {
+    "invoice_number": "980601713426",
+    "invoice_date": "Thursday 12 Feb 2026 3:07 AM GMT-07:00",
+    "invoice_amount": null,
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": null,
+    "po_number": [
+      "M413554608"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "Grainger",
+    "vendor_address": "100 Grainger Pkwy, Lake Forest, IL, Winst, United States 27105",
+    "po_line_items": [
+      {
+        "description": "784RK4 / LightDuty Multi-Purpose Gloves,Size11,PR",
+        "quantity": 24.0,
+        "net_price": 3.45
+      }
+    ],
+    "vat_amount": null,
+    "gl_account": null,
+    "bank_name": null,
+    "account_holder_name": null,
+    "banking_account_number": null,
+    "remit_to_address": null,
+    "bill_to_address": null,
+    "transaction_type": "debit"
+  },
+  "filename": "SAPS4_5100225032_US29_PFNAUS_2026_999746373.pdf",
+  "raw_response": {
+    "invoice_number": "980601713426",
+    "invoice_date": "Thursday 12 Feb 2026 3:07 AM GMT-07:00",
+    "invoice_amount": "../../90.00",
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": null,
+    "po_number": [
+      "M413554608"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "Grainger",
+    "vendor_address": "100 Grainger Pkwy, Lake Forest, IL, Winst, United States 27105",
+    "po_line_items": [
+      {
+        "description": "784RK4 / LightDuty Multi-Purpose Gloves,Size11,PR",
+        "quantity": 24.0,
+        "net_price": 3.45
+      }
+    ]
+  }
+}

@@ -1,0 +1,79 @@
+{
+  "invoice_data": {
+    "invoice_number": "868711722",
+    "invoice_date": "02/04/2026",
+    "invoice_amount": "234.88",
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": null,
+    "po_number": [
+      "4505093381"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "GRAINGER",
+    "vendor_address": "1901 NONCONNAH BLVD, MEMPHIS, TN 38132-2106",
+    "po_line_items": [
+      {
+        "description": "CAT6,RJ45,INLINE COUPLER,WHITE",
+        "quantity": 8.0,
+        "net_price": 34.96
+      },
+      {
+        "description": "GASKET,SIZE 1 1/2 IN,TRI-CLAMP,PTFE",
+        "quantity": 6.0,
+        "net_price": 13.92
+      },
+      {
+        "description": "AIR GUN NOZZLE,SAFETY,2 1/2\" L",
+        "quantity": 25.0,
+        "net_price": 186.0
+      }
+    ],
+    "vat_amount": null,
+    "gl_account": null,
+    "bank_name": null,
+    "account_holder_name": null,
+    "banking_account_number": null,
+    "remit_to_address": null,
+    "bill_to_address": null,
+    "transaction_type": "debit"
+  },
+  "filename": "SAPS4_5100351542_US28_PFNAUS_2026_999884227.pdf",
+  "raw_response": {
+    "invoice_number": "868711722",
+    "invoice_date": "02/04/2026",
+    "invoice_amount": "234.88",
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": null,
+    "po_number": [
+      "4505093381"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "GRAINGER",
+    "vendor_address": "1901 NONCONNAH BLVD, MEMPHIS, TN 38132-2106",
+    "po_line_items": [
+      {
+        "description": "CAT6,RJ45,INLINE COUPLER,WHITE",
+        "quantity": 8.0,
+        "net_price": 34.96
+      },
+      {
+        "description": "GASKET,SIZE 1 1/2 IN,TRI-CLAMP,PTFE",
+        "quantity": 6.0,
+        "net_price": 13.92
+      },
+      {
+        "description": "AIR GUN NOZZLE,SAFETY,2 1/2\" L",
+        "quantity": 25.0,
+        "net_price": 186.0
+      }
+    ]
+  }
+}

@@ -1,0 +1,59 @@
+{
+  "invoice_data": {
+    "invoice_number": "0000482154",
+    "invoice_date": "02/09/26",
+    "invoice_amount": "55.46",
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": "3.63",
+    "po_number": [
+      "4504945451"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "Sidney Lee Welding Supply, Inc",
+    "vendor_address": "1155 Guy Paine Rd., MACON GA 31206, P.O. Box 429, HAMPTON GA 30228",
+    "po_line_items": [
+      {
+        "description": "BLADE 7-1/4\"MILDSTEEL",
+        "quantity": 1.0,
+        "net_price": 51.83
+      }
+    ],
+    "vat_amount": null,
+    "gl_account": null,
+    "bank_name": null,
+    "account_holder_name": null,
+    "banking_account_number": null,
+    "remit_to_address": null,
+    "bill_to_address": null,
+    "transaction_type": "debit"
+  },
+  "filename": "SAPS4_5100066515_US28_PFNAUS_2026_999884312.pdf",
+  "raw_response": {
+    "invoice_number": "0000482154",
+    "invoice_date": "02/09/26",
+    "invoice_amount": "55.46",
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": "3.63",
+    "po_number": [
+      "4504945451"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "Sidney Lee Welding Supply, Inc",
+    "vendor_address": "1155 Guy Paine Rd., MACON GA 31206, P.O. Box 429, HAMPTON GA 30228",
+    "po_line_items": [
+      {
+        "description": "BLADE 7-1/4\"MILDSTEEL",
+        "quantity": 1.0,
+        "net_price": 51.83
+      }
+    ]
+  }
+}

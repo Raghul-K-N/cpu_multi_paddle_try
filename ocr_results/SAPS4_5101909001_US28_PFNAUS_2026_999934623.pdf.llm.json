@@ -1,0 +1,69 @@
+{
+  "invoice_data": {
+    "invoice_number": "INV-CIN-116198",
+    "invoice_date": "2/3/2026",
+    "invoice_amount": "479.01",
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": "37.00",
+    "po_number": [
+      "4505075048"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": "24.41",
+    "cost_center": null,
+    "vendor_name": "TGW International, Inc.",
+    "vendor_address": "5 Braco International Blvd, Wilder KY 41076, United States",
+    "po_line_items": [
+      {
+        "description": "SCALLOPED S005300F",
+        "quantity": 16.0,
+        "net_price": 371.2
+      },
+      {
+        "description": "KNIFE 16 x .438 x .047",
+        "quantity": 16.0,
+        "net_price": 46.4
+      }
+    ],
+    "vat_amount": null,
+    "gl_account": null,
+    "bank_name": null,
+    "account_holder_name": null,
+    "banking_account_number": null,
+    "remit_to_address": null,
+    "bill_to_address": null,
+    "transaction_type": "debit"
+  },
+  "filename": "SAPS4_5101909001_US28_PFNAUS_2026_999934623.pdf",
+  "raw_response": {
+    "invoice_number": "INV-CIN-116198",
+    "invoice_date": "2/3/2026",
+    "invoice_amount": "479.01",
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": "37.00",
+    "po_number": [
+      "4505075048"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": "24.41",
+    "cost_center": null,
+    "vendor_name": "TGW International, Inc.",
+    "vendor_address": "5 Braco International Blvd, Wilder KY 41076, United States",
+    "po_line_items": [
+      {
+        "description": "SCALLOPED S005300F",
+        "quantity": 16.0,
+        "net_price": 371.2
+      },
+      {
+        "description": "KNIFE 16 x .438 x .047",
+        "quantity": 16.0,
+        "net_price": 46.4
+      }
+    ]
+  }
+}

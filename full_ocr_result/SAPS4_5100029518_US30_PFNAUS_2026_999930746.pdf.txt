@@ -1,0 +1,286 @@
+==================================<Page 1 - START>================================
+Standard Invoice
+                                                                                                                    odp
+Original tax invoice has been submitted electronically. This is a
+human readable representation (copy) of the original tax invoice.
+                                                                 Invoice Number                                      459515510001
+                                                                 (Supplier Reference No.)
+                                                                                                Friday 13 Feb 2026 12:00 PM GMT-05:00
+                                                                 Invoice Date
+                                                                                                                   $371.70 USD
+                                                                 Amount Due
+    Contact Information                                                        Shipping Information
+    Supplier                      Customer                                                               Ship To
+                                                                          Ship From
+                                                                                                       US-FL-SAN ANTONIO-TX-FLT
+     ODP BUSINESS SOLUTIONS,       FL TRANSPORTATION, INC.                    ODP BUSINESS SOLUTIONS,
+    LLC                         4855 GREATLAND                           LLC                          4855 GREATLAND
+                                                                                                       SAN ANTONIO
+     6600 North Military Trail            SAN ANTONIO
+     Boca Raton                                                                                          TX
+                                 TX
+     FL                                                                                                782185336
+                                  782185336
+                                                                                                       United States
+     33496                       United States
+                                                                                                       Address ID: 2447
+     US
+                                                                                                               PO Date : 12 Feb 2026
+                                                        PO No. : M413554230
+   Line Items
+                                                                                                                         Subtotal
+                                       Supplier Part No. /             Customer Part No.        Quantity            Unit Price
+   Line No.   PO Line No.         Type
+                                       Description                                       (UOM)
+                                                                                      1 / (PK)            $4.55 USD
+   1                          Material 308239 /
+             1
+                                       CLIP.PAPER,JMB,SMTH,OD,10PK
+                                                                                      Quantity            Unit Price         Subtotal
+   Line No.    PO Line No.         Type   Supplier Part No. /             Customer Part No.
+                                                                                      (UOM)
+                                       Description
+                                Material 252336 /                                         1 / (CT)          $117.64 USD
+   2        4
+                                       SPRAY.DSNFCT.CRISPLINEN 12/
+                                       CT
+                                                                                                         Unit Price         Subtotal
+   Line No.    PO Line No.         Type   Supplier Part No. /             Customer Part No.        Quantity
+                                       Description                                       (UOM)
+                                                                                                       $38.60 USD
+    3        6                Material 644250 /                                         1 / (CT)
+                                       WIPES.CLEANER,LYSOL.6/CT
+                               Type   Supplier Part No. /             Customer Part No.        Quantity            Unit Price         Subtotal
+    Line No.    PO Line No.
+                                       Description                                       (UOM)
+                                                                                                      $57.99 USD
+    4        7                Material  733753/                                         2 / (CT)
+                                       CLNR,WIPE,DSINFT,CTRS, 12EA/
+                                       CA
+                               Type   Supplier Part No. /             Customer Part No.        Quantity            Unit Price          Subtotal
+    Line No.    PO Line No.
+                                       Description                                       (UOM)
+                                                                                                      $40.19 USD
+                               Material 7601540 / BTY 1 12DR SAS WH                         1 / (EA)
+    5        8
+                                       82CT LCP US
+                                                                                      Quantity            Unit Price         Subtotal
+    Line No.    PO Line No.         Type   Supplier Part No. /             Customer Part No.
+                                                                                      (UOM)
+                                       Description
+                               Material 9322069 /                                        1 / (CT)           $35.37 USD
+    6        9
+                                       CLEANER,MLTSFC,WINDX,BE
+       Tax Summary
+                            Details                                                  Rate %
+       Category                                             Base Amount                               Amount
+       Sales Tax                                                                     8.25%           $19.37 USD
+                                                                             Amount Summary
+                                                                                                                    $352.33 USD
+                                                                             Line item subtotal
+                                                                             Gross amount                             $371.70 USD
+                                                                             Net amount                              $371.70 USD
+                                                                             Total tax amount                            $19.37 USD
+                                                                             Total withholding tax amount
+                                                                                                                    $371.70 USD
+                                                                             Amount Due
+     Additional Information
+     invoice due date
+     20260514
+     Billing Information                                                        Remittance Information
+     Bill To                                                                Remit To
+     PEPSICO INC ARIBA                                                     ODP BUSINESS SOLUTIONS,
+     700 ANDERSON HILL RD                                                  LLC
+     PURCHASE                                                            PO BOX 633204
+     NY                                                                  CINCINNATI
+     105771444                                                            OH
+                                                                         45263-3204
+    United States
+                                                                         United States
+    Address ID: 47140624
+  Payment Terms                                                        Reference Documents
+  Net payment Terms (Days) :                                                Original Supplier Order #: 459515510001
+  90
+==================================<Page 1 - END>================================
+==================================<Page 2 - START>================================
+  Appendix
+  Line No.
+             PO Line No. Type                           Supplier Part No. / Description
+  1         1         Material
+                                                        308239 / CLIP,PAPER,JMB,SMTH,OD,10PK
+  Additional Details:
+  Supplier Part ID : 308239
+  UNSPSC : 44122104
+  Line No.    PO Line No. Type                           Supplier Part No. / Description
+  2
+             4         Material                         252336 / SPRAY,DSNFCT,CRISPLINEN 12/CT
+  Additional Details:
+  Supplier Part ID : 252336
+  UNSPSC : 47131812
+ Line No.    PO Line No. Type                           Supplier Part No. / Description
+  3          6         Material                         644250 / WIPES,CLEANER,LYSOL,6/CT
+ Additional Details:
+  Supplier Part ID : 644250
+  UNSPSC : 47131502
+ Line No.    PO Line No. Type                           Supplier Part No. / Description
+ 4         7          Material                         733753 / CLNR,WIPE,DSINFT,CTRS, 12EA/CA
+ Additional Details:
+  Supplier Part ID : 733753
+ UNSPSC : 47131502
+ Line No.    PO Line No. Type                            Supplier Part No. / Description
+                       Material
+ 5         8                                         7601540 / BTY 1 12DR SAS WH 82CT LCP US
+Additional Details:
+Supplier Part ID : 7601540
+ UNSPSC : 14111703
+Line No.    PO Line No. Type                            Supplier Part No. / Description
+            9         Material                         9322069 / CLEANER,MLTSFC,WINDX,BE
+6
+Additional Details:
+Supplier Part ID : 9322069
+UNSPSC : 47131805
+PDF generated on Friday 13 Feb 2026 12:34 PM GMT-08:00
+==================================<Page 2 - END>================================
+==================================<Page 3 - START>================================
+Standard Invoice
+                                                                                                                     odp
+Original tax invoice has been submitted electronically. This is a
+human readable representation (copy) of the original tax invoice.
+                                                                  Invoice Number                                      459515510001
+                                                                  (Supplier Reference No.)
+                                                                                                Friday 13 Feb 2026 12:00 PM GMT-05:00
+                                                                  Invoice Date
+                                                                                                                    $371.70 USD
+                                                                  Amount Due
+     Contact Information                                                        Shipping Information
+     Supplier                      Customer                                                               Ship To
+                                                                           Ship From
+                                                                                                        US-FL-SAN ANTONIO-TX-FLT
+      ODP BUSINESS SOLUTIONS,       FL TRANSPORTATION, INC.                    ODP BUSINESS SOLUTIONS,
+     LLC                         4855 GREATLAND                           LLC                          4855 GREATLAND
+                                                                                                        SAN ANTONIO
+      6600 North Military Trail            SAN ANTONIO
+      Boca Raton                                                                                          TX
+                                  TX
+      FL                                                                                                782185336
+                                  782185336
+                                                                                                        United States
+      33496                       United States
+                                                                                                        Address ID: 2447
+      US
+                                                                                                                PO Date : 12 Feb 2026
+                                                         PO No. : M413554230
+    Line Items
+                                                                                                                          Subtotal
+                                        Supplier Part No. /             Customer Part No.        Quantity            Unit Price
+    Line No.   PO Line No.         Type
+                                        Description                                       (UOM)
+                                                                                       1 / (PK)            $4.55 USD
+    1                          Material 308239 /
+              1
+                                        CLIP.PAPER,JMB,SMTH,OD,10PK
+                                                                                       Quantity            Unit Price         Subtotal
+    Line No.    PO Line No.         Type   Supplier Part No. /             Customer Part No.
+                                                                                       (UOM)
+                                        Description
+                                Material 252336 /                                         1 / (CT)          $117.64 USD
+    2        4
+                                        SPRAY.DSNFCT.CRISPLINEN 12/
+                                        CT
+                                                                                                         Unit Price         Subtotal
+    Line No.    PO Line No.         Type   Supplier Part No. /             Customer Part No.        Quantity
+                                        Description                                       (UOM)
+                                                                                                        $38.60 USD
+    3        6                Material 644250 /                                         1 / (CT)
+                                        WIPES.CLEANER,LYSOL.6/CT
+                                Type   Supplier Part No. /             Customer Part No.        Quantity            Unit Price         Subtotal
+    Line No.    PO Line No.
+                                        Description                                       (UOM)
+                                                                                                       $57.99 USD
+     4        7                Material  733753/                                         2 / (CT)
+                                        CLNR,WIPE,DSINFT,CTRS, 12EA/
+                                        CA
+                                Type   Supplier Part No. /             Customer Part No.        Quantity            Unit Price          Subtotal
+     Line No.    PO Line No.
+                                       Description                                       (UOM)
+                                                                                                       $40.19 USD
+                                Material 7601540 / BTY 1 12DR SAS WH                         1 / (EA)
+     5        8
+                                        82CT LCP US
+                                                                                       Quantity            Unit Price         Subtotal
+     Line No.    PO Line No.         Type   Supplier Part No. /             Customer Part No.
+                                                                                       (UOM)
+                                        Description
+                                Material 9322069 /                                        1 / (CT)           $35.37 USD
+    6        9
+                                        CLEANER,MLTSFC,WINDX,BE
+        Tax Summary
+                            Details                                                  Rate %
+        Category                                             Base Amount                               Amount
+        Sales Tax                                                                     8.25%           $19.37 USD
+                                                                              Amount Summary
+                                                                                                                     $352.33 USD
+                                                                              Line item subtotal
+                                                                              Gross amount                             $371.70 USD
+                                                                              Net amount                              $371.70 USD
+                                                                              Total tax amount                            $19.37 USD
+                                                                              Total withholding tax amount
+                                                                                                                     $371.70 USD
+                                                                              Amount Due
+      Additional Information
+      invoice due date
+      20260514
+      Billing Information                                                        Remittance Information
+      Bill To                                                                Remit To
+      PEPSICO INC ARIBA                                                     ODP BUSINESS SOLUTIONS,
+      700 ANDERSON HILL RD                                                  LLC
+      PURCHASE                                                            PO BOX 633204
+     NY                                                                  CINCINNATI
+     105771444                                                            OH
+                                                                          45263-3204
+     United States
+                                                                          United States
+     Address ID: 47140624
+  Payment Terms                                                        Reference Documents
+   Net payment Terms (Days) :                                                Original Supplier Order #: 459515510001
+   90
+==================================<Page 3 - END>================================
+==================================<Page 4 - START>================================
+  Appendix
+  Line No.
+             PO Line No. Type                           Supplier Part No. / Description
+  1         1         Material
+                                                        308239 / CLIP,PAPER,JMB,SMTH,OD,10PK
+  Additional Details:
+  Supplier Part ID : 308239
+  UNSPSC : 44122104
+  Line No.    PO Line No. Type                           Supplier Part No. / Description
+  2
+             4         Material                         252336 / SPRAY,DSNFCT,CRISPLINEN 12/CT
+  Additional Details:
+  Supplier Part ID : 252336
+  UNSPSC : 47131812
+ Line No.    PO Line No. Type                           Supplier Part No. / Description
+  3          6         Material                         644250 / WIPES,CLEANER,LYSOL,6/CT
+ Additional Details:
+  Supplier Part ID : 644250
+  UNSPSC : 47131502
+ Line No.    PO Line No. Type                           Supplier Part No. / Description
+ 4         7          Material                         733753 / CLNR,WIPE,DSINFT,CTRS, 12EA/CA
+ Additional Details:
+  Supplier Part ID : 733753
+ UNSPSC : 47131502
+ Line No.    PO Line No. Type                            Supplier Part No. / Description
+                       Material
+ 5         8                                         7601540 / BTY 1 12DR SAS WH 82CT LCP US
+Additional Details:
+Supplier Part ID : 7601540
+ UNSPSC : 14111703
+Line No.    PO Line No. Type                            Supplier Part No. / Description
+            9         Material                         9322069 / CLEANER,MLTSFC,WINDX,BE
+6
+Additional Details:
+Supplier Part ID : 9322069
+UNSPSC : 47131805
+PDF generated on Friday 13 Feb 2026 12:34 PM GMT-08:00
+==================================<Page 4 - END>================================

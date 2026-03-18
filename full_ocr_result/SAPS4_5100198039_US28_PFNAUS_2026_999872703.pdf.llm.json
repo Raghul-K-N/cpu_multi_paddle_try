@@ -1,0 +1,47 @@
+{
+  "invoice_data": {
+    "invoice_number": "0000009695",
+    "invoice_date": "2026/02/13",
+    "invoice_amount": null,
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": null,
+    "po_number": [
+      "M413141898"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "TEK DESIGN",
+    "vendor_address": "441 Industrial Road, London, Ontario, Canada N5V 1T6",
+    "po_line_items": null,
+    "vat_amount": null,
+    "gl_account": null,
+    "bank_name": null,
+    "account_holder_name": null,
+    "banking_account_number": null,
+    "remit_to_address": null,
+    "bill_to_address": null,
+    "transaction_type": "debit"
+  },
+  "filename": "SAPS4_5100198039_US28_PFNAUS_2026_999872703.pdf",
+  "raw_response": {
+    "invoice_number": "0000009695",
+    "invoice_date": "2026/02/13",
+    "invoice_amount": null,
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": null,
+    "po_number": [
+      "M413141898"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "TEK DESIGN",
+    "vendor_address": "441 Industrial Road, London, Ontario, Canada N5V 1T6",
+    "po_line_items": null
+  }
+}

@@ -1,0 +1,494 @@
+==================================<Page 1 - START>================================
+  OpenText Workflow History
+  Vendor
+  DSM FOOD SPECIALTIES INC
+   7800 95TH ST
+   PLEASANT PRAIRIE WI 53158-2718
+   USA
+   Invoice
+   Reference
+                      900643240
+                                                               Document Date    11.06.2025
+   DP Document No.  39519347
+                                                              Net Amount
+                                                                                USD           972.80
+   Comp. Code       US28 Frito-Lay, Inc.
+                                                              Tax Amount       USD
+                                                                                                   0.00
+   Posting Date     13.02.2026
+                                                              Gross Amount     USD            972.80
+   SAP Document No. 1900628002 2026
+                                          Pre-Process History
+    ACTIVITY
+                                                          USER       END TIME         DOCUMENT STATUS
+    Update status
+                                                          VRBLAOT_U  11.02.2026       Validation
+                                                          SR         17:58:51
+                                                                                       Complete
+                                      Document Process History
+   ACTIVITY         PROCESS TYPE/BLOCK REASON          USER        END TIME         DOCUMENT STATUS
+   BC Inbound                                           VRBLAOT_U  11.02.2026       Document
+                                                                      17:16:13
+                                                         SR                           Registered
+   Workflow Start   Invoice Older than Allowed (NPO)   Record to  11.02.2026       Indexed
+                                                         Report     17:58:51
+                                                         Batch
+                                                         Account
+                                                         Owner:
+   Bypassed Rule
+                    Invoice Older than Allowed (NPO)   SURYA      11.02.2026        Indexed
+   -Invoice Older
+                                                         NARAYANAN  23:05:05
+  than Allowe
+  Comment:
+  Changed By:09498862
+  Changed On:   02/11/2026 23:05:05
+ INV date Updated
+Apply Business    Invoice older than Allowed (NPo)   SURYA       11.02.2026        Indexed
+Rules
+                                                         NARAYANAN  23:05:16
+Comment:
+**************************************************************
+Changed By:   SURYA NARAYANAN (09498862)
+Changed On:   02/11/2026 23:05:13
+**********************************************************************
+Kindly Approve the document
+Business Rules    Approval Required (NPO)             SAP_WFRT    11.02.2026        Indexed
+Check in BG
+                                                                      23:05:19
+==================================<Page 1 - END>================================
+==================================<Page 2 - START>================================
+OpenText Workflow History
+Invoice
+Vendor            DSM FOOD SPECIALTIES INC PLEASANT PRAIRIE
+Reference        900643240                           Gross Amount     USD          972.80
+                              Document Process History - Continuation
+  ACTIVITY          PROCESS TYPE/BLOCK REASON          USER        END TIME          DOCUMENT STATUS
+    Invoice submitted for Approval                                  11.02.2026 23:05:19
+    Financial Information Entered                       TAYLOR      12.02.2026 14:42:27
+                                                          MOORE
+    Data Entered and Invoice Approved                   TAYLOR      12.02.2026 14:42:30
+                                                          MOORE
+    Comment:
+    Tariff charges for 100001709 , ENZ PREVENTASE XR LIQUID. Material owner BJ Burruss
+                                                          AMANDA
+    Invoice Approved                                                 12.02.2026 20:51:09
+                                                          ROGERS
+    Comment:
+    approving for BJ
+  Approval          Approval Required (NPO)             SAP_WFRT   12.02.2026        Approval
+  Workflow                                                           20:51:16          Complete
+  Business Rules   Process Non-Po Invoice (NPo)        SAP_WFRT   12.02.2026        Approval
+  Check in BG                                                        20:51:18          Complete
+                                                                                         Sent for Doc
+  Create Doc. BG   Process Non-PO Invoice (NPO)       SAP_WFRT   12.02.2026
+                                                                      20:51:19          Creation
+ Post Non-PO      Process Non-PO Invoice (NPO)       NAVINKUMA  13.02.2026        Document
+ Invoice                                                                              Created
+                                                          R R        15:06:27
+ SAP Document                                                                          Posted
+                                                          SAP_WFRT   13.02.2026
+ Check                                                              15:06:36
+==================================<Page 2 - END>================================
+==================================<Page 3 - START>================================
+       PEPSICO
+  Instructions:When there is not an "Ojficial" Invoice to request payment, complete the information on this form.
+  1.You must fill in all of the fields below and the form must be accompanied with supporting documentation.
+  2.Save submission as 1 single PDF file prior to submitting to nassapinvoicesubmission@pepsico.com
+            SAP Payment Request
+                                                               To be filled by Requestor
+       Substitute Invoice Form
+ Vendor Type
+                                             S4
+ Vendor Name:
+                                             DSM FOOD SPECIALTIES INC
+ Vendor Number:                                2003291565
+ Company Code:
+                                             US28
+ Remit To Address :                               250 Plainsboro Road
+ (Must match the address in the AP system)                 Plainsboro, NJ 08536
+Special Handling needed:                           No
+Attn:
+                                            N/A
+Address:
+                                            N/A
+Overnight delivery required:
+(if yes provide account # or CC below)                   N/A
+FedEx or UPS, & Provide Number:                      N/A
+FedEx or UPS account #                           N/A
+Cost Center (If No FedEx/UPS Number):                  N/A
+Trnsaction type:
+                                           Invoice
+Choose only 1 option - Invoice or Credit Memo from the dropdown
+Invoice Date:                                  6/11/2025
+Invoice #:
+                                           900643240
+Limited to 16 characters
+Purchase Order #
+                                           4502243129
+Not required if non-PO
+Payment GROSS Amount:                          $972.80
+Tax Amount                                  $0.00
+(if applicable)
+Payment NET Amount:                            $972.80
+Currency (USD or CAD)
+Header Text:
+Requestor Name:                               Taylor Moore
+                                           taylor.moore1@pepsico.com
+Requestor email
+1st Level Approver Name                          BJ Burruss
+1st Level Approver Email id/GPID                      02033698
+Date Requested:                               2/10/2026
+GL Coding (6 digits)                              540850
+Cost Center (if applicable)                          2000050200
+Profit Center (if applicable)                         4FUSL00000
+WBS Element (if applicable)                        NA
+For Assistance On This Form submission please contact:
+Raise service now ticket(Snow)                       PepsiCo - Sign In
+==================================<Page 3 - END>================================
+==================================<Page 4 - START>================================
+                                                                                              DSM
+       DSM Food Specialties USA, Inc.
+       250 Plainsboro Road, Plainsboro, NJ 08536
+       Tel: 800-662-4478, Fax: 973-257-8265, Internet: www.dsm.com/foodspecialties
+:900643240
+                                                            Invoice number
+       PepsiCo - NASS Accounts Payable                   Date: 06/11/2025
+        P.Ó. Box 1800
+       Winston Salem NC 27105
+                                                            Customer number: 15471
+                                                                                                   Page 1/2
+        INVOICE
+                For invoice inquiries, please contact Credit Management via E-mail: GbS-FSS-NA.Collections@dsm-firmenich.com
+        Terms of payment: Within 60 days Due net
+: Check (AR)
+        Payment method
+        Due date:08/10/2025
+        Delivery condition: CiP Bakersfield (Incoterms 2020)
+        Delivered to: Frito Lay - Kern
+                                   28801 HWY 58
+                                   BAKERSFIELD CA 93314
+        Your reference : 4502243129 / 10                                                     Order : 789616
+        Product name                                                           Shipping date
+        ENZ PreventASe® XR Liquid                                                 05/29/2025
+: ING9000502 30043208/MX10006042
+        Customer material
+                  Quantity                                     Price / Unit                          Amount
+                   40 PC Order item price                   48.64 USD /1 KG                        9,728.00 USD
+                          Corresponds to 200 KG
+                         Tariff Surcharge %                   10.00 %                                972.80 USD
+                         Net Value for Item
+                                                         53.50 USD /1 KG                        10,700.80 USD
+       Shipment number: 890356
+       Batch number: 4251080511
+      Packaging: 5 kg drum
+      Delivering country: USA
+      Total
+                                                                                               10,700.80 USD
+      Gross weight of the delivery : 262.680 KG
+      Total Order: 40 PCS = 440 LBS
+     hard copy of which will be forwarded upon your request.
+==================================<Page 4 - END>================================
+==================================<Page 5 - START>================================
+                                                                                             DSM
+       DSM Food Specialties USA, Inc.
+       250 Plainsboro Road, Plainsboro, NJ 08536
+       Tel: 800-662-4478, Fax: 973-257-8265, Internet: www.dsm.com/foodspecialties
+                                                           Invoice number: 900643240
+       PepsiCo - NASS Accounts Payable:06/11/2025
+                                                           Date
+       P.Ó. Box 1800
+       Winston Salem NC 27105
+                                                                                                   Page 2/2
+      Please send your cheque and/or remittance advice to the following address:
+            Bank of America
+            DSM Food Specialties
+            4135 Collection Center Drive
+            Chicago IL 60693
+            fss-usa-sfsc.gbs@dsm-firmenich.com
+      Please mention invoice number 900643240 and customer number 15471 with your payment.
+      Bank of America NAHB, New York, USA
+      Bank account 5800392481, Bank key 026009593
+      SWIFT BOFAUS3N
+The dsm-firmenich General Terms and Conditions of Sale ("GCS") apply to and are part of all our offers, agreements, sales, deliveries a
+other terms and conditions is explicitly rejected and supersede
+==================================<Page 5 - END>================================
+==================================<Page 6 - START>================================
+        From: SPA - PepsiCo Nass AP Invoice Submission <nassapInvoiceSubmission@pepsico.com>
+         Sent: Tue, 10 Feb 2026 16:53:31 (UTC)
+         To: svcimagingspaboxprod@pepsico.com
+         Subject: FW: RITM8961503 - Control Shared Services - AP invoice and payments processing -
+         North America
+         Original Number of Attachments : 8
+         Original Attachment Names: Non PO Submission Cover 900643105 Combined.pdf,Non PO
+         Submission Cover 900643239 Combined.pdf,Non PO Submission Cover 900643240
+         Combined.pdf,Non PO Submission Cover 900643649 Combined.pdf,Non PO Submission Cover
+         900643650 Combined.pdf,Non PO Submission Cover 900643933 Combined.pdf,Non PO
+         Submission Cover 900643934 Combined.pdf,Non PO Submission Cover 900643935
+          Combined.pdf
+         Number of forwarded PDF's: 8
+          Number of forwarded Non PDF files: 0
+          From: Moore, Taylor {PEP}<Taylor.Moore1@pepsico.com>
+          Sent: Tuesday, February 10, 2026 4:51:25 PM
+          To: Scherz, Angela {PEP} <Angela.Scherz@pepsico.com>; Elumalai, RaviShankar - Contractor {FLNA}
+          <RaviShankar.Elumalai.Contractor@pepsico.com>; Burruss, BJ {PEP} <BJ.Burruss@pepsico.com>;
+          Galvan, Arnold {PEP} <Arnold.Galvan@pepsico.com>; SPA - PepsiCo Nass AP Invoice Submission
+          <nassaplnvoiceSubmission@pepsico.com>
+          Cc: SRINIVAS, SUVITHA - Contractor {PEP} <SUVITHA.SRINIVAS.Contractor@pepsico.com>
+          Subject: Re: RITM8961503 - Control Shared Services - AP invoice and payments processing - North
+          America
+          Thank you for confirming! Including them on this chain for the remaining invoices since this is the group
+          that has all the background regarding this situation.
+          @SPA - PepsiCo Nass AP Invoice Submission
+          Thank you,
+          Taylor Moore (she/her)
+          PepsiCo  Procurement
+          PFNA Seasonings & Ingredients
+          7701 Legacy Dr | Plano TX 75024
+          Taylor.Moore1@pepsico.com
+                 pepsico
+                  Food. Drinks. Smiles.
+         From: Scherz, Angela {PEP} <Angela.Scherz@pepsico.com>
+          Sent: Tuesday, February 10, 2026 10:04 AM
+          To: Moore, Taylor {PEP} <Taylor.Moore1@pepsico.com>; Elumalai, RaviShankar - Contractor {FLNA}
+==================================<Page 6 - END>================================
+==================================<Page 7 - START>================================
+          <RaviShankar.Elumalai.Contractor@pepsico.com>; Burruss, BJ {PEP} <BJ.Burruss@pepsico.com>;
+          Galvan, Arnold {PEP} <Arnold.Galvan@pepsico.com>
+          Cc: SRINIVAS, SUVITHA - Contractor {PEP} <SUVITHA.SRINIVAS.Contractor@pepsico.com>
+          Subject: RE: RITM8961503 - Control Shared Services - AP invoice and payments processing - North
+          America
+          @Moore, Taylor {PEP} We will have someone review that ticket but NoN PO's are just submitted to
+          nassapinvoicesubmission@pepsico.com. No ticket is needed for that.
+          Angela Scherz
+          Control & Reporting Analyst, Control Shared Services Americas
+          PepsiCo
+          Plano, TX
+           Angela.scherz@pepsico.com
+                  pepsico
+                  Food. Drinks. Smiles.
+           From: Moore, Taylor {PEP} <Taylor.Moore1@pepsico.com>
+           Sent: Tuesday, February 10, 2026 11:02 AM
+          To: Elumalai, RaviShankar - Contractor {FLNA} <RaviShankar.Elumalai.Contractor@pepsico.com>;
+           Burruss, BJ {PEP} <BJ.Burruss@pepsico.com>; Galvan, Arnold {PEP} <Arnold.Galvan@pepsico.com>;
+           Scherz, Angela {PEP} <Angela.Scherz@pepsico.com>
+          Cc: SRINIVAS, SUVITHA - Contractor {PEP} <SUVITHA.SRINIVAS.Contractor@pepsico.com>
+          Subject: Re: RITM8961503 - Control Shared Services - AP invoice and payments processing - North
+           America
+          Hello all,
+           Non -PO submitted under RITM9071986
+          Thank you,
+           Taylor Moore (she/her)
+           PepsiCo  Procurement
+          PFNA Seasonings & Ingredients
+          7701 Legacy Dr | Plano TX 75024
+          Taylor.Moore1@pepsico.com
+                     pepsico
+                      Food. Drinks. Smiles.
+==================================<Page 7 - END>================================
+==================================<Page 8 - START>================================
+         From: Elumalai, RaviShankar - Contractor {FLNA}
+          <RaviShankar.Elumalai.Contractor@pepsico.com>
+          Sent: Tuesday, February 10, 2026 9:02 AM
+          To: Moore, Taylor {PEP} <Taylor.Moore1@pepsico.com>; Burruss, BJ {PEP}
+          <BJ.Burruss@pepsico.com>; Galvan, Arnold {PEP} <Arnold.Galvan@pepsico.com>; Scherz,
+          Angela {PEP} <Angela.Scherz@pepsico.com>; DeLuna, Nancy {PEP}
+          <Nancy.Deluna@pepsico.com>
+          Cc: SRINIVAS, SUVITHA - Contractor {PEP} <SUVITHA.SRINIVAS.Contractor@pepsico.com>
+          Subject: Re: RITM8961503 - Control Shared Services - AP invoice and payments processing -
+          North America
+          Hi Moore Taylor,
+          Please find the copy of invoices and detail of Invoices short paid in the spreadsheet for your reference.
+          Regards
+          Ravi
+          From: Moore, Taylor {PEP} <Taylor.Moore1@pepsico.com>
+           Sent: Tuesday, February 10, 2026 6:54 AM
+          To: Burruss, BJ {PEP} <BJ.Burruss@pepsico.com>; Galvan, Arnold {PEP}
+          <Arnold.Galvan@pepsico.com>; Scherz, Angela {PEP} <Angela.Scherz@pepsico.com>; DeLuna,
+          Nancy {PEP} <Nancy.Deluna@pepsico.com>
+          Cc: Elumalai, RaviShankar - Contractor {FLNA}
+          <RaviShankar.Elumalai.Contractor@pepsico.com>; SRINIVAS, SUVITHA - Contractor {PEP}
+          <SUVITHA.SRINIVAS.Contractor@pepsico.com>
+          Subject: Re: RITM8961503 - Control Shared Services - AP invoice and payments processing -
+          North America
+          Hello all,
+          Could I please have a copy of the invoice provided?
+         Thank you,
+          Taylor Moore(she/her)
+         PepsiCo  Procurement
+         PFNA Seasonings & Ingredients
+         7701 Legacy Dr | Plano TX 75024
+         Taylor.Moore1@pepsico.com
+==================================<Page 8 - END>================================
+==================================<Page 9 - START>================================
+                     pepsico
+                      Food. Drinks. Smiles.
+          From: Burruss, BJ{PEP} <BJ.Burruss@pepsico.com>
+          Sent: Tuesday, February 10, 2026 7:18 AM
+          To: Galvan, Arnold {PEP} <Arnold.Galvan@pepsico.com>; Scherz, Angela {PEP}
+          <Angela.Scherz@pepsico.com>; DeLuna, Nancy {PEP} <Nancy.Deluna@pepsico.com>
+          Cc: Elumalai, RaviShankar - Contractor {FLNA} <RaviShankar.Elumalai.Contractor@pepsico.com>;
+          SRINIVAS, SUVITHA - Contractor {PEP} <SUVITHA.SRINIVAS.Contractor@pepsico.com>; Moore, Taylor
+          {PEP}<Taylor.Moore1@pepsico.com>
+          Subject: RE: RITM8961503 - Control Shared Services - AP invoice and payments processing - North
+          America
+          Hey Team,...
+          I don't submit PO requests. Not anything I've done before.
+          @DeLuna, Nancy {PEP} is this something you do for the Enzymes POs?
+          Regards,
+          BJ Burruss
+          Procurement Director - Ingredients
+          PepsiCo Foods North America
+          bj.burruss@pepsico.com
+          Mobile: 469.223.9546
+          From: Galvan, Arnold {PEP} <Arnold.Galvan@pepsico.com>
+          Sent: Tuesday, February 10, 2026 7:15 AM
+          To: Scherz, Angela {PEP} <Angela.Scherz@pepsico.com>; Burruss, BJ {PEP} <BJ.Burruss@pepsico.com>
+          Cc: Elumalai, RaviShankar - Contractor {FLNA} <RaviShankar.Elumalai.Contractor@pepsico.com>;
+          SRINIVAS, SUVITHA - Contractor {PEP} <SUVITHA.SRINIVAS.Contractor@pepsico.com>
+          Subject: RE: RITM8961503 - Control Shared Services - AP invoice and payments processing - North
+         America
+          @Burruss, BJ {PEP}  Please submit these tariff charges as a NON PO request.
+         Arnold Galvan
+         Assoc Analyst Accounting Operations, Control Shared Services Americas
+         PepsiCo
+         Plano Texas
+         Arnold.Galvan@pepsico.com
+==================================<Page 9 - END>================================
+==================================<Page 10 - START>================================
+                pepsico
+                Food. Drinks. Smiles.
+         From: Scherz, Angela {PEP} <Angela.Scherz@pepsico.com>
+         Sent: Monday, February 9, 2026 1:19 PM
+         To: Galvan, Arnold {PEP} <Arnold.Galvan@pepsico.com>
+         Cc: Elumalai, RaviShankar - Contractor {FLNA} <RaviShankar.Elumalai.Contractor@pepsico.com>;
+         SRINIVAS, SUVITHA - Contractor {PEP} <SUVITHA.SRINIVAS.Contractor@pepsico.com>
+         Subject: RE: RITM8961503 - Control Shared Services - AP invoice and payments processing - North
+         America
+         The tariffs have to be submitted as a NON PO.
+         Angela Scherz
+          Control & Reporting Analyst, Control Shared Services Americas
+         PepsiCo
+         Plano, TX
+         Angela.scherz@pepsico.com
+                 pepsico
+                 Food. Drinks. Smiles.
+         From: Galvan, Arnold {PEP} <Arnold.Galvan@pepsico.com>
+         Sent: Monday, February 9, 2026 1:48 PM
+         To: Scherz, Angela {PEP} <Angela.Scherz@pepsico.com>
+         Cc: Elumalai, RaviShankar - Contractor {FLNA} <RaviShankar.Elumalai.Contractor@pepsico.com>;
+         SRINIVAS, SUVITHA - Contractor {PEP} <SUVITHA.SRINIVAS.Contractor@pepsico.com>
+         Subject: FW: RITM8961503 - Control Shared Services - AP invoice and payments processing - North
+          America
+          Importance: High
+          @Scherz, Angela {PEP}
+           I need some guidance with ERS purchase orders.
+         End user provided invoice copies to resolve some short payments. The outstanding balance are
+         tariff charges and need some guidance on approving and processing these charges.
+          Arnold Galvan
+          Assoc Analyst Accounting Operations, Control Shared Services Americas
+          PepsiCo
+          Plano Texas
+==================================<Page 10 - END>================================
+==================================<Page 11 - START>================================
+        Arnold.Galvan@pepsico.com
+                pepsico
+                Food. Drinks. Smiles.
+         From: Stewart, Mary K {PEP} <Mary.K.Stewart@pepsico.com>
+         Sent: Friday, February 6, 2026 11:26 AM
+         To: Galvan, Arnold {PEP} <Arnold.Galvan@pepsico.com>; Burruss, BJ {PEP} <BJ.Burruss@pepsico.com>;
+         Shepherd, Zack {PEP} <Zack.Shepherd@pepsico.com>; Pepsico Service-Now <pepsico@service-
+         now.com>; DeLuna, Nancy {PEP} <Nancy.Deluna@pepsico.com>
+         Cc: Prigue, Carlos {PEP}<Carlos.Prigue@pepsico.com>
+         Subject: RE: RITM8961503 - Control Shared Services - AP invoice and payments processing - North
+         America
+         No sorry. Maybe check with Brian White or Chris Bailey.
+         Thanks,
+         Mary Stewart
+         972-334-2614
+         From: Galvan, Arnold {PEP} <Arnold.Galvan@pepsico.com>
+          Sent: Friday, February 6, 2026 9:41 AM
+         To: Burruss, BJ{PEP} <BJ.Burruss@pepsico.com>; Shepherd, Zack {PEP} <Zack.Shepherd@pepsico.com>;
+          Pepsico Service-Now <pepsico@service-now.com>; DeLuna, Nancy {PEP}
+          <Nancy.Deluna@pepsico.com>; Stewart, Mary K {PEP} <Mary.K.Stewart@pepsico.com>
+         Cc: Prigue, Carlos {PEP} <Carlos.Prigue@pepsico.com>
+         Subject: RE: RITM8961503 - Control Shared Services - AP invoice and payments processing - North
+         America
+          @Stewart, Mary K {PEP}  Would you be able to assist with outstanding tariff charges for ERS
+          purchase orders?
+          Arnold Galvan
+          Assoc Analyst Accounting Operations, Control Shared Services Americas
+          PepsiCo
+          Plano Texas
+          Arnold.Galvan@pepsico.com
+                 pepsico
+                 Food. Drinks. Smiles.
+==================================<Page 11 - END>================================
+==================================<Page 12 - START>================================
+         From: Burruss, BJ {PEP} <BJ.Burruss@pepsico.com>
+         Sent: Thursday, February 5, 2026 4:35 PM
+         To: Shepherd, Zack {PEP} <Zack.Shepherd@pepsico.com>; Pepsico Service-Now <pepsico@service-
+          now.com>; DeLuna, Nancy {PEP} <Nancy.Deluna@pepsico.com>
+          Cc: Prigue, Carlos {PEP} <Carlos.Prigue@pepsico.com>; Galvan, Arnold {PEP}
+          <Arnold.Galvan@pepsico.com>
+          Subject: RE: RITM8961503 - Control Shared Services - AP invoice and payments processing - North
+          America
+          Yes that is what it is! I believe DSM has mentioned this a few times in the correspondence to these
+          emails.
+          Regards,
+          BJ Burruss
+          PepsiCo Foods North America
+          Bj.burruss@pepsico.com
+          From: Shepherd, Zack {PEP} <Zack.Shepherd@pepsico.com>
+          Sent: Thursday, February 5, 2026 3:19 PM
+          To: Pepsico Service-Now <pepsico@service-now.com>; Burruss, BJ {PEP} <BJ.Burruss@pepsico.com>;
+           DeLuna, Nancy {PEP} <Nancy.Deluna@pepsico.com>
+          Cc: Prigue, Carlos {PEP} <Carlos.Prigue@pepsico.com>; Galvan, Arnold {PEP}
+           <Arnold.Galvan@pepsico.com>
+          Subject: RE: RITM8961503 - Control Shared Services - AP invoice and payments processing - North
+          America
+          Hi Ravi
+          I transferred to a new role back in August, please update your contact information to @DeLuna, Nancy
+           {PEP} she has backfilled me.
+           @Burruss, BJ {PEP} this might be the 10% tariff surcharge
+            Your reference : 4502243236 / 10                                     Order : 789618
+            Product name                                         Shlpping date
+            ENZ PreventASe® XR Liquid                                  06/03/2025
+            Customer material: ING9000502 30043208/MX10006042                          Amount
+                   Quantity                         Price /Unlt
+                                                                          7,782.40 USD
+                    32 PC Order item price             48.64 USD / 1 KG
+                        Corresponds to 160 KG
+                                                                           778.24 USD
+                                                10.00 %
+                        Tariff Surcharge %
+                                                                          8,560.64 USD
+                        Net Value for Item            53.50 USD / 1 KG
+           Shipment number       .891031
+           Batch number: 4251080511
+           Packaging: 5 kg drum
+==================================<Page 12 - END>================================
+==================================<Page 13 - START>================================
+                                     Zack Shepherd
+                                      SC Sr Analyst Ecomm
+             Frito Lay
+                                      Frito Lay North America
+                   Good fun!
+                                      7701 Legacy Drive Plano, Texas
+                                      75024
+                                      Office Phone: (972) 334-7271
+                                      Email:zack.shepherd@pepsico.com
+        From: myPepsiCo: Technology Services <pepsico@service-now.com>
+        Sent: Thursday, February 5, 2026 3:00 PM
+        To: Burruss, BJ {PEP} <BJ.Burruss@pepsico.com>; Shepherd, Zack {PEP} <Zack.Shepherd@pepsico.com>
+        Cc: Prigue, Carlos {PEP} <Carlos.Prigue@pepsico.com>; Galvan, Arnold {PEP}
+        <Arnold.Galvan@pepsico.com>
+        Subject: RITM8961503 - Control Shared Services - AP invoice and payments processing - North America
+        Hi Zack,
+        Please find the worked ERS invoices status which is short paid in the system. Vendor is looking
+        for reaming short paid invoice need to paid.
+        Attached worked spreadsheet and invoice copy for your reference.
+        Regards
+        Ravi
+        Ref:MSG1030900176_0EiGHtIu9Ruqb2Vgk
+==================================<Page 13 - END>================================

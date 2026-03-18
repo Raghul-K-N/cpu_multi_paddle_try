@@ -1,0 +1,89 @@
+{
+  "invoice_data": {
+    "invoice_number": "19806981",
+    "invoice_date": "Tuesday 10 Feb 2026 12:00 PM GMT-06:00",
+    "invoice_amount": "384.21",
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": "12.21",
+    "po_number": [
+      "M413499167"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "Crystal Clean, LLC",
+    "vendor_address": "2000 Center Dr, SUITE EAST C300, Hoffman Estates, IL 60192-5005, United States, Address ID: US29",
+    "po_line_items": [
+      {
+        "description": "Material Not Available / Crystal Clean Pharr 277937 2025-2026 Blanket PO",
+        "quantity": 372.0,
+        "net_price": 1.0
+      },
+      {
+        "description": "1014A 55G NON-HAZ ENERGY RECOVERY",
+        "quantity": 1.0,
+        "net_price": 224.0
+      },
+      {
+        "description": "1602 30 GAL DRUM MOUNT UNIT",
+        "quantity": 1.0,
+        "net_price": 12.21
+      },
+      {
+        "description": "183 State Sales Tax",
+        "quantity": 1.0,
+        "net_price": 384.21
+      }
+    ],
+    "vat_amount": null,
+    "gl_account": null,
+    "bank_name": null,
+    "account_holder_name": null,
+    "banking_account_number": null,
+    "remit_to_address": null,
+    "bill_to_address": null,
+    "transaction_type": "debit"
+  },
+  "filename": "SAPS4_5101496000_US29_PFNAUS_2026_999706574.pdf",
+  "raw_response": {
+    "invoice_number": "19806981",
+    "invoice_date": "Tuesday 10 Feb 2026 12:00 PM GMT-06:00",
+    "invoice_amount": "384.21",
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": "12.21",
+    "po_number": [
+      "M413499167"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "Crystal Clean, LLC",
+    "vendor_address": "2000 Center Dr, SUITE EAST C300, Hoffman Estates, IL 60192-5005, United States, Address ID: US29",
+    "po_line_items": [
+      {
+        "description": "Material Not Available / Crystal Clean Pharr 277937 2025-2026 Blanket PO",
+        "quantity": 372.0,
+        "net_price": 1.0
+      },
+      {
+        "description": "1014A 55G NON-HAZ ENERGY RECOVERY",
+        "quantity": 1.0,
+        "net_price": 224.0
+      },
+      {
+        "description": "1602 30 GAL DRUM MOUNT UNIT",
+        "quantity": 1.0,
+        "net_price": 12.21
+      },
+      {
+        "description": "183 State Sales Tax",
+        "quantity": 1.0,
+        "net_price": 384.21
+      }
+    ]
+  }
+}

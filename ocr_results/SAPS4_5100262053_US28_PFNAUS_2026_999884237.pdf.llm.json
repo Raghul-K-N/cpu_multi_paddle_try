@@ -1,0 +1,59 @@
+{
+  "invoice_data": {
+    "invoice_number": "0108105-IN",
+    "invoice_date": "2/4/2026",
+    "invoice_amount": "5,356.54",
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": null,
+    "po_number": [
+      "4505092922"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": "256.54",
+    "cost_center": null,
+    "vendor_name": "Signet Marking Devices",
+    "vendor_address": "2610 S. OAK STREET, SANTAANA, CA 92707",
+    "po_line_items": [
+      {
+        "description": "Print Head for Sato LT408 printer, 203dpi",
+        "quantity": 10.0,
+        "net_price": 510.0
+      }
+    ],
+    "vat_amount": null,
+    "gl_account": null,
+    "bank_name": null,
+    "account_holder_name": null,
+    "banking_account_number": null,
+    "remit_to_address": null,
+    "bill_to_address": null,
+    "transaction_type": "debit"
+  },
+  "filename": "SAPS4_5100262053_US28_PFNAUS_2026_999884237.pdf",
+  "raw_response": {
+    "invoice_number": "0108105-IN",
+    "invoice_date": "2/4/2026",
+    "invoice_amount": "5,356.54",
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": null,
+    "po_number": [
+      "4505092922"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": "256.54",
+    "cost_center": null,
+    "vendor_name": "Signet Marking Devices",
+    "vendor_address": "2610 S. OAK STREET, SANTAANA, CA 92707",
+    "po_line_items": [
+      {
+        "description": "Print Head for Sato LT408 printer, 203dpi",
+        "quantity": 10.0,
+        "net_price": 510.0
+      }
+    ]
+  }
+}

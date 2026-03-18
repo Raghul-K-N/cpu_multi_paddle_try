@@ -1,0 +1,43 @@
+{
+  "invoice_data": {
+    "invoice_number": "CAI26-00037263",
+    "invoice_date": "05/02/2026",
+    "invoice_amount": null,
+    "invoice_currency": [
+      "CAD"
+    ],
+    "tax_amount": null,
+    "po_number": null,
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "Indeed Canada Corp.",
+    "vendor_address": "2 Bloor West Suite 1200, Toronto, ON M4W 3E2, Canada",
+    "po_line_items": null,
+    "vat_amount": null,
+    "gl_account": null,
+    "bank_name": null,
+    "account_holder_name": null,
+    "banking_account_number": null,
+    "remit_to_address": null,
+    "bill_to_address": null,
+    "transaction_type": "debit"
+  },
+  "filename": "SAPS4_5100259502_CA02_PBNACA_2026_328615117.pdf",
+  "raw_response": {
+    "invoice_number": "CAI26-00037263",
+    "invoice_date": "05/02/2026",
+    "invoice_amount": null,
+    "invoice_currency": [
+      "CAD"
+    ],
+    "tax_amount": null,
+    "po_number": null,
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "Indeed Canada Corp.",
+    "vendor_address": "2 Bloor West Suite 1200, Toronto, ON M4W 3E2, Canada",
+    "po_line_items": null
+  }
+}

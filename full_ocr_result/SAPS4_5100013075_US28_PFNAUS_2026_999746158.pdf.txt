@@ -1,0 +1,250 @@
+==================================<Page 1 - START>================================
+Standard Invoice
+                                                                                                                    GRAINER
+Original tax invoice has been submitted electronically. This is a
+human readable representation (copy) of the original tax invoice.
+                                                                                                                  980633281426
+                                                                Invoice Number
+                                                                (Supplier Reference No.)
+                                                                Invoice Date                    Thursday 12 Feb 2026 3:28 AM GMT-07:00
+                                                                                                                   $828.68 USD
+                                                                Amount Due
+    Contact Information
+                                                                          Shipping Information
+    Supplier                      Customer
+                                                                          Ship From                     Ship To
+    Grainger
+                                 Frito-Lay Inc.                                Grainger                      US-PL-ABERDEEN-MD-FLI
+    100 Grainger Pkwy               c/o PEPSICO NASS                          400 BORDENTOWN-HEDDING      KS CORE JS JEFFERSON
+    Lake Forest                    ACCOUNTS PAYABLES                       RD                          800 HICKORY DR
+    IL                          PO BOX 1800                               BORDENTOWN                  ABERDEEN
+    Winst                        Winston Salem                              NJ                           MD
+    United States                   NC                                      08505                        21001
+                                 27105                                    United States                    United States
+                                 United States                                                            Phone: (410) 273-0822
+  Line Items                                              PO No. : M413555478                                       PO Date : 12 Feb 2026
+  Line No.    PO Line No.         Type    Supplier Part No. /             Customer Part No.        Quantity            Unit Price         Subtotal
+                                      escriiption                                       (UOM)
+  1        1
+                               Material 60RE95 / Glass Clnr,Trig Spray                          1 / (EA)           $40.44 USD      $40.44 USD
+                                      B32 oz,PK8
+  Line No.   PO Line No.                 Supplier Part No. /
+                               Type                              Customer Part No.        Quantity            Unit Price         Subtotal
+                                      Description
+                                                                                      (UOM)
+  2        2                 Material  1XEH7 / Disinfecting Wipes,80                          2 / (EA)           $41.00 USD      $82.00 USD
+                                      ct,Canister,PK6
+  Line No.    PO Line No.         Type    Supplier Part No. /             Customer Part No.        Quantity            Unit Price         Subtotal
+                                      Description                                       (UOM)
+  3                           Material
+            3                      820F78 / Multi-Surface                               3 / (EA)          $62.24 USD     $186.72 USD
+                                      Cleaner,Bottle,80 oz,PK3
+  Line No.    PO Line No.         Type   Supplier Part No. /             Customer Part No.                          Unit Price         Subtotal
+                                                                                      Quantity
+                                      Description                                       (UOM)
+  4        4                 Material 4YPC9 / Trash Bags, 95 gal, Clear,                       6 / (EA)          $45.44 USD      $272.64 USD
+                                      PK50
+  Line No.    PO Line No.         Type    Supplier Part No. /             Customer Part No.        Quantity            Unit Price         Subtotal
+                                      Description                                       (UOM)
+                               Material 1XEH6 / Disinfectant                                                $115.08 USD     $115.08 USD
+  5        5                                                                        1 / (EA)
+                                      Spray,Linen,19 oz,PK12
+  Line No.    PO Line No.          Type    Supplier Part No. /                                                    Unit Price         Subtotal
+                                                                Customer Part No.        Quantity
+                                      Description                                       (UOM)
+  6        6                 Material 52WY22 / Dry Wipe,9 x                               10 / (EA)           $8.49 USD      $84.90 USD
+                                      16-3/4,White
+                                                                             Amount Summary
+                                                                             Line item subtotal                          $781.78 USD
+                                                                             Gross amount                             $828.68 USD
+                                                                             Net amount                              $828.68 USD
+                                                                             Total tax amount                           $46.90 USD
+                                                                             Total withholding tax amount
+                                                                                                                    $828.68 USD
+                                                                             Amount Due
+   Additional Information
+   InvoiceSourceDocument
+   PurchaseOrder
+   InvoiceSubmissionMethod
+  cXML
+                                                                         Remittance Information
+  Billing Information
+                                                                         Remit To
+  Bill To
+  Frito-Lay Inc.                                                            GRAINGER
+  c/o PEPSICO NASS                                                        DEPT. 828362913
+  ACCOUNTS PAYABLES                                                    PALATINE
+  PO BOX 1800                                                            IL
+  Winston Salem                                                           60038-0001
+  NC                                                                   United States
+  27105                                                                 Address ID: US1_10359
+  United States
+                                                                        Tax ID of Supplier
+  Address ID: US28
+                                                                        36-1150280
+                                                                     Reference Documents
+                                                                     Original Supplier Order #: 1575981905
+==================================<Page 1 - END>================================
+==================================<Page 2 - START>================================
+ Appendix
+ Line No.    PO Line No. Type
+                                                        Supplier Part No. / Description
+  1
+             1         Material
+                                                        60RE95 / Glass Clnr,Trig Spray B32 oz,PK8
+ Additional Details:
+ Supplier Part ID : 60RE95
+ Supplier Part Auxiliary ID : WWG60RE95
+ Line No.    PO Line No. Type                           Supplier Part No. / Description
+ 2
+             2         Material                         1XEH7 / Disinfecting Wipes,80 ct,Canister,PK6
+ Additional Details:
+ Supplier Part ID : 1XEH7
+ Supplier Part Auxiliary ID : WWG1XEH7
+ Line No.    PO Line No. Type                           Supplier Part No. / Description
+ 3         3         Material                         820F78 / Multi-Surface Cleaner,Bottle,80 oz,PK3
+ Additional Details:
+ Supplier Part ID : 820F78
+Supplier Part Auxiliary ID : WWG820F78
+Line No.    PO Line No. Type                           Supplier Part No. / Description
+ 4         4          Material                         4YPC9 / Trash Bags, 95 gal, Clear, PK50
+ Additional Details:
+Supplier Part ID : 4YPC9
+Supplier Part Auxiliary ID : WWG4YPC9
+Line No.    PO Line No. Type                           Supplier Part No. / Description
+5         5         Material                         1XEH6 / Disinfectant Spray,Linen,19 oz,PK12
+Additional Details:
+Supplier Part ID : 1XEH6
+Supplier Part Auxiliary ID : WWG1XEH6
+Line No.    PO Line No. Type                            Supplier Part No. / Description
+6         6         Material                         52WY22 / Dry Wipe,9 x 16-3/4,White
+Additional Details:
+Supplier Part ID : 52WY22
+Supplier Part Auxiliary ID : WWG52WY22
+PDF generated on Friday 13 Feb 2026 3:42 AM GMT-08:00
+==================================<Page 2 - END>================================
+==================================<Page 3 - START>================================
+ Standard Invoice
+                                                                                                                     GRAINER
+ Original tax invoice has been submitted electronically. This is a
+ human readable representation (copy) of the original tax invoice.
+                                                                                                                   980633281426
+                                                                  Invoice Number
+                                                                  (Supplier Reference No.)
+                                                                  Invoice Date                    Thursday 12 Feb 2026 3:28 AM GMT-07:00
+                                                                                                                    $828.68 USD
+                                                                  Amount Due
+     Contact Information
+                                                                           Shipping Information
+     Supplier                      Customer
+                                                                           Ship From                     Ship To
+     Grainger
+                                  Frito-Lay Inc.                                Grainger                      US-PL-ABERDEEN-MD-FLI
+     100 Grainger Pkwy               c/o PEPSICO NASS                          400 BORDENTOWN-HEDDING      KS CORE JS JEFFERSON
+      Lake Forest                    ACCOUNTS PAYABLES                       RD                          800 HICKORY DR
+     IL                          PO BOX 1800                               BORDENTOWN                  ABERDEEN
+     Winst                        Winston Salem                              NJ                           MD
+      United States                   NC                                      08505                        21001
+                                  27105                                    United States                    United States
+                                  United States                                                            Phone: (410) 273-0822
+   Line Items                                              PO No. : M413555478                                       PO Date : 12 Feb 2026
+   Line No.    PO Line No.         Type    Supplier Part No. /             Customer Part No.        Quantity            Unit Price         Subtotal
+                                        escriiption                                       (UOM)
+    1        1
+                                Material 60RE95 / Glass Clnr,Trig Spray                          1 / (EA)           $40.44 USD      $40.44 USD
+                                        B32 oz,PK8
+   Line No.   PO Line No.                 Supplier Part No. /
+                                Type                              Customer Part No.        Quantity            Unit Price         Subtotal
+                                        Description
+                                                                                       (UOM)
+    2        2                 Material  1XEH7 / Disinfecting Wipes,80                          2 / (EA)           $41.00 USD      $82.00 USD
+                                        ct,Canister,PK6
+   Line No.    PO Line No.         Type    Supplier Part No. /             Customer Part No.        Quantity            Unit Price         Subtotal
+                                        Description                                       (UOM)
+   3                           Material
+             3                      820F78 / Multi-Surface                               3 / (EA)          $62.24 USD     $186.72 USD
+                                        Cleaner,Bottle,80 oz,PK3
+   Line No.    PO Line No.         Type   Supplier Part No. /             Customer Part No.                          Unit Price         Subtotal
+                                                                                       Quantity
+                                       Description                                       (UOM)
+   4        4                 Material 4YPC9 / Trash Bags, 95 gal, Clear,                       6 / (EA)          $45.44 USD      $272.64 USD
+                                       PK50
+   Line No.    PO Line No.         Type    Supplier Part No. /             Customer Part No.        Quantity            Unit Price         Subtotal
+                                        Description                                       (UOM)
+                                Material 1XEH6 / Disinfectant                                                $115.08 USD     $115.08 USD
+   5        5                                                                        1 / (EA)
+                                        Spray,Linen,19 oz,PK12
+   Line No.    PO Line No.          Type    Supplier Part No. /                                                    Unit Price         Subtotal
+                                                                  Customer Part No.        Quantity
+                                       Description                                       (UOM)
+   6        6                 Material 52WY22 / Dry Wipe,9 x                               10 / (EA)           $8.49 USD      $84.90 USD
+                                       16-3/4,White
+                                                                              Amount Summary
+                                                                              Line item subtotal                          $781.78 USD
+                                                                              Gross amount                             $828.68 USD
+                                                                              Net amount                              $828.68 USD
+                                                                              Total tax amount                           $46.90 USD
+                                                                              Total withholding tax amount
+                                                                                                                     $828.68 USD
+                                                                              Amount Due
+    Additional Information
+    InvoiceSourceDocument
+    PurchaseOrder
+    InvoiceSubmissionMethod
+    cXML
+                                                                          Remittance Information
+    Billing Information
+                                                                          Remit To
+   Bill To
+   Frito-Lay Inc.                                                            GRAINGER
+   c/o PEPSICO NASS                                                        DEPT. 828362913
+   ACCOUNTS PAYABLES                                                    PALATINE
+   PO BOX 1800                                                            IL
+   Winston Salem                                                           60038-0001
+   NC                                                                   United States
+   27105                                                                 Address ID: US1_10359
+   United States
+                                                                          Tax ID of Supplier
+   Address ID: US28
+                                                                          36-1150280
+                                                                      Reference Documents
+                                                                       Original Supplier Order #: 1575981905
+==================================<Page 3 - END>================================
+==================================<Page 4 - START>================================
+ Appendix
+ Line No.    PO Line No. Type
+                                                        Supplier Part No. / Description
+  1
+             1         Material
+                                                        60RE95 / Glass Clnr,Trig Spray B32 oz,PK8
+ Additional Details:
+ Supplier Part ID : 60RE95
+ Supplier Part Auxiliary ID : WWG60RE95
+ Line No.    PO Line No. Type                           Supplier Part No. / Description
+ 2
+             2         Material                         1XEH7 / Disinfecting Wipes,80 ct,Canister,PK6
+ Additional Details:
+ Supplier Part ID : 1XEH7
+ Supplier Part Auxiliary ID : WWG1XEH7
+ Line No.    PO Line No. Type                           Supplier Part No. / Description
+ 3         3         Material                         820F78 / Multi-Surface Cleaner,Bottle,80 oz,PK3
+ Additional Details:
+ Supplier Part ID : 820F78
+Supplier Part Auxiliary ID : WWG820F78
+Line No.    PO Line No. Type                           Supplier Part No. / Description
+ 4         4          Material                         4YPC9 / Trash Bags, 95 gal, Clear, PK50
+ Additional Details:
+Supplier Part ID : 4YPC9
+Supplier Part Auxiliary ID : WWG4YPC9
+Line No.    PO Line No. Type                           Supplier Part No. / Description
+5         5         Material                         1XEH6 / Disinfectant Spray,Linen,19 oz,PK12
+Additional Details:
+Supplier Part ID : 1XEH6
+Supplier Part Auxiliary ID : WWG1XEH6
+Line No.    PO Line No. Type                            Supplier Part No. / Description
+6         6         Material                         52WY22 / Dry Wipe,9 x 16-3/4,White
+Additional Details:
+Supplier Part ID : 52WY22
+Supplier Part Auxiliary ID : WWG52WY22
+PDF generated on Friday 13 Feb 2026 3:42 AM GMT-08:00
+==================================<Page 4 - END>================================

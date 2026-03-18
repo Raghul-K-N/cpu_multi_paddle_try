@@ -1,0 +1,57 @@
+{
+  "invoice_data": {
+    "invoice_number": "130094519",
+    "invoice_date": "11/06/25",
+    "invoice_amount": null,
+    "invoice_currency": null,
+    "tax_amount": null,
+    "po_number": [
+      "23512483",
+      "131120-009 978"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "FleetPride",
+    "vendor_address": "FLEETPRIDE, PO BOX 847118, DALLAS TX 75284-7118, ELKTON MD 800EPULASKI, HWY(410) 398-1515",
+    "po_line_items": [
+      {
+        "description": "CONTITECH AIR SPRING 64401/8436 (EA)",
+        "quantity": 3.0,
+        "net_price": 18.74
+      }
+    ],
+    "vat_amount": null,
+    "gl_account": null,
+    "bank_name": null,
+    "account_holder_name": null,
+    "banking_account_number": null,
+    "remit_to_address": null,
+    "bill_to_address": null,
+    "transaction_type": "debit"
+  },
+  "filename": "SAPS4_5100035020_US30_PFNAUS_2026_999935917.pdf",
+  "raw_response": {
+    "invoice_number": "130094519",
+    "invoice_date": "11/06/25",
+    "invoice_amount": null,
+    "invoice_currency": null,
+    "tax_amount": null,
+    "po_number": [
+      "23512483",
+      "131120-009 978"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "FleetPride",
+    "vendor_address": "FLEETPRIDE, PO BOX 847118, DALLAS TX 75284-7118, ELKTON MD 800EPULASKI, HWY(410) 398-1515",
+    "po_line_items": [
+      {
+        "description": "CONTITECH AIR SPRING 64401/8436 (EA)",
+        "quantity": 3.0,
+        "net_price": 18.74
+      }
+    ]
+  }
+}

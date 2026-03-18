@@ -1,0 +1,59 @@
+{
+  "invoice_data": {
+    "invoice_number": "459713710001",
+    "invoice_date": "Thursday 12 Feb 2026 12:00 PM GMT-05:00",
+    "invoice_amount": "4.88",
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": "0.28",
+    "po_number": [
+      "M413555058"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "ODP BUSINESS SOLUTIONS, LLC",
+    "vendor_address": "ODP BUSINESS SOLUTIONS, LLC, 725 PROGRESS INDUSTRIAL TRAIL, Boca Raton, FL 33496, US, LAWRENCEVILLE, GA 300434652, United States",
+    "po_line_items": [
+      {
+        "description": "Material 491658 / SHEET PROT.OD,HVY.CLR,100/BX",
+        "quantity": 1.0,
+        "net_price": 4.6
+      }
+    ],
+    "vat_amount": null,
+    "gl_account": null,
+    "bank_name": null,
+    "account_holder_name": null,
+    "banking_account_number": null,
+    "remit_to_address": null,
+    "bill_to_address": null,
+    "transaction_type": "debit"
+  },
+  "filename": "SAPS4_5100012051_US29_PFNAUS_2026_999930949.pdf",
+  "raw_response": {
+    "invoice_number": "459713710001",
+    "invoice_date": "Thursday 12 Feb 2026 12:00 PM GMT-05:00",
+    "invoice_amount": "4.88",
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": "0.28",
+    "po_number": [
+      "M413555058"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "ODP BUSINESS SOLUTIONS, LLC",
+    "vendor_address": "ODP BUSINESS SOLUTIONS, LLC, 725 PROGRESS INDUSTRIAL TRAIL, Boca Raton, FL 33496, US, LAWRENCEVILLE, GA 300434652, United States",
+    "po_line_items": [
+      {
+        "description": "Material 491658 / SHEET PROT.OD,HVY.CLR,100/BX",
+        "quantity": 1.0,
+        "net_price": 4.6
+      }
+    ]
+  }
+}

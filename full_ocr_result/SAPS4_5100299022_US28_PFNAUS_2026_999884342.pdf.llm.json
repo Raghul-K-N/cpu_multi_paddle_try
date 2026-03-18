@@ -1,0 +1,79 @@
+{
+  "invoice_data": {
+    "invoice_number": "CD99257480",
+    "invoice_date": "02/12/2026",
+    "invoice_amount": "3364.63",
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": "0.00",
+    "po_number": [
+      "4505171301"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "TENCARVA MACHINERY COMPANY",
+    "vendor_address": "TENCARVA MACHINERY COMPANY, LLC. 1115 PLEASANT RIDGE RD, GREENSBORO, NC 27409",
+    "po_line_items": [
+      {
+        "description": "O-RING CASING 3656 7IN",
+        "quantity": 1.0,
+        "net_price": 57.56
+      },
+      {
+        "description": "SEAL SHAFT CBN/SC/VITON 3656",
+        "quantity": 1.0,
+        "net_price": 227.34
+      },
+      {
+        "description": "MOTOR 20HP 3450RPM 210SJM/250F TEPE 3/60/230/460V",
+        "quantity": 1.0,
+        "net_price": 2965.87
+      }
+    ],
+    "vat_amount": null,
+    "gl_account": null,
+    "bank_name": null,
+    "account_holder_name": null,
+    "banking_account_number": null,
+    "remit_to_address": null,
+    "bill_to_address": null,
+    "transaction_type": "debit"
+  },
+  "filename": "SAPS4_5100299022_US28_PFNAUS_2026_999884342.pdf",
+  "raw_response": {
+    "invoice_number": "CD99257480",
+    "invoice_date": "02/12/2026",
+    "invoice_amount": "3364.63",
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": "0.00",
+    "po_number": [
+      "4505171301"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "TENCARVA MACHINERY COMPANY",
+    "vendor_address": "TENCARVA MACHINERY COMPANY, LLC. 1115 PLEASANT RIDGE RD, GREENSBORO, NC 27409",
+    "po_line_items": [
+      {
+        "description": "O-RING CASING 3656 7IN",
+        "quantity": 1.0,
+        "net_price": 57.56
+      },
+      {
+        "description": "SEAL SHAFT CBN/SC/VITON 3656",
+        "quantity": 1.0,
+        "net_price": 227.34
+      },
+      {
+        "description": "MOTOR 20HP 3450RPM 210SJM/250F TEPE 3/60/230/460V",
+        "quantity": 1.0,
+        "net_price": 2965.87
+      }
+    ]
+  }
+}

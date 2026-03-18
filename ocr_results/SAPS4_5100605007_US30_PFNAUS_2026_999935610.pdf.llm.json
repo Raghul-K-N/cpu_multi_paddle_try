@@ -1,0 +1,59 @@
+{
+  "invoice_data": {
+    "invoice_number": "394476FF",
+    "invoice_date": "2/9/2026",
+    "invoice_amount": "583.55",
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": "0.00",
+    "po_number": [
+      "23561361"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "M&K Truck Centers - Indy North",
+    "vendor_address": "1665 S County Road 800 W, Frankfort, IN 46041",
+    "po_line_items": [
+      {
+        "description": "HEADLAMP",
+        "quantity": 1.0,
+        "net_price": 545.37
+      }
+    ],
+    "vat_amount": null,
+    "gl_account": null,
+    "bank_name": null,
+    "account_holder_name": null,
+    "banking_account_number": null,
+    "remit_to_address": null,
+    "bill_to_address": null,
+    "transaction_type": "debit"
+  },
+  "filename": "SAPS4_5100605007_US30_PFNAUS_2026_999935610.pdf",
+  "raw_response": {
+    "invoice_number": "394476FF",
+    "invoice_date": "2/9/2026",
+    "invoice_amount": "583.55",
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": "0.00",
+    "po_number": [
+      "23561361"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "M&K Truck Centers - Indy North",
+    "vendor_address": "1665 S County Road 800 W, Frankfort, IN 46041",
+    "po_line_items": [
+      {
+        "description": "HEADLAMP",
+        "quantity": 1.0,
+        "net_price": 545.37
+      }
+    ]
+  }
+}

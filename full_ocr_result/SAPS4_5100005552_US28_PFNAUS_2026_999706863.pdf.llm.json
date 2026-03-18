@@ -1,0 +1,91 @@
+{
+  "invoice_data": {
+    "invoice_number": "5040424397",
+    "invoice_date": "01/17/2025",
+    "invoice_amount": "15.60",
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": null,
+    "po_number": [
+      "M413394119",
+      "N92695-FRITO"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": "0.00",
+    "cost_center": null,
+    "vendor_name": "VESTIS",
+    "vendor_address": "4029 LECKRON, MODESTO CA 95357",
+    "po_line_items": [
+      {
+        "description": "DM0001MDGYMAT NYLON/RUBBER",
+        "quantity": 2.0,
+        "net_price": 1.8
+      },
+      {
+        "description": "DM0001MDGYMAT NYLON/RUBBER",
+        "quantity": 3.0,
+        "net_price": 5.42
+      },
+      {
+        "description": "SCRAPER MAT",
+        "quantity": 2.0,
+        "net_price": 1.61
+      },
+      {
+        "description": "DM0025BLAK SCRAPER MAT",
+        "quantity": 3.0,
+        "net_price": 0.0
+      }
+    ],
+    "vat_amount": null,
+    "gl_account": null,
+    "bank_name": null,
+    "account_holder_name": null,
+    "banking_account_number": null,
+    "remit_to_address": null,
+    "bill_to_address": null,
+    "transaction_type": "debit"
+  },
+  "filename": "SAPS4_5100005552_US28_PFNAUS_2026_999706863.pdf",
+  "raw_response": {
+    "invoice_number": "5040424397",
+    "invoice_date": "01/17/2025",
+    "invoice_amount": "15.60",
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": null,
+    "po_number": [
+      "M413394119",
+      "N92695-FRITO"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": "0.00",
+    "cost_center": null,
+    "vendor_name": "VESTIS",
+    "vendor_address": "4029 LECKRON, MODESTO CA 95357",
+    "po_line_items": [
+      {
+        "description": "DM0001MDGYMAT NYLON/RUBBER",
+        "quantity": 2.0,
+        "net_price": 1.8
+      },
+      {
+        "description": "DM0001MDGYMAT NYLON/RUBBER",
+        "quantity": 3.0,
+        "net_price": 5.42
+      },
+      {
+        "description": "SCRAPER MAT",
+        "quantity": 2.0,
+        "net_price": 1.61
+      },
+      {
+        "description": "DM0025BLAK SCRAPER MAT",
+        "quantity": 3.0,
+        "net_price": 0.0
+      }
+    ]
+  }
+}

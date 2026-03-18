@@ -1,0 +1,51 @@
+{
+  "invoice_data": {
+    "invoice_number": "M413543057",
+    "invoice_date": "02/05/2026",
+    "invoice_amount": null,
+    "invoice_currency": null,
+    "tax_amount": null,
+    "po_number": null,
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "Kembrandt",
+    "vendor_address": "3316 Lower Base Line, Milton, Ontario L9E 0K6",
+    "po_line_items": [
+      {
+        "description": "Billing for clearing and salting of loading docks as per request from Manpreet Kaur & Yogesh Kumar. Work done Jan 28 & 31/26",
+        "quantity": 1.0,
+        "net_price": 2425.0
+      }
+    ],
+    "vat_amount": null,
+    "gl_account": null,
+    "bank_name": null,
+    "account_holder_name": null,
+    "banking_account_number": null,
+    "remit_to_address": null,
+    "bill_to_address": null,
+    "transaction_type": "debit"
+  },
+  "filename": "SAPS4_5100132019_CA02_PBNACA_2026_328615040.pdf",
+  "raw_response": {
+    "invoice_number": "M413543057",
+    "invoice_date": "02/05/2026",
+    "invoice_amount": null,
+    "invoice_currency": null,
+    "tax_amount": null,
+    "po_number": null,
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "Kembrandt",
+    "vendor_address": "3316 Lower Base Line, Milton, Ontario L9E 0K6",
+    "po_line_items": [
+      {
+        "description": "Billing for clearing and salting of loading docks as per request from Manpreet Kaur & Yogesh Kumar. Work done Jan 28 & 31/26",
+        "quantity": 1.0,
+        "net_price": 2425.0
+      }
+    ]
+  }
+}

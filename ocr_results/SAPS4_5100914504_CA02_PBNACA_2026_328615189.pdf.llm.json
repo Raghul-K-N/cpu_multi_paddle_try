@@ -1,0 +1,89 @@
+{
+  "invoice_data": {
+    "invoice_number": "004677",
+    "invoice_date": "30-Dec-2025",
+    "invoice_amount": "2342.19",
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": null,
+    "po_number": [
+      "4504370320"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": "210.19",
+    "cost_center": null,
+    "vendor_name": "T-TEK MATERIAL HANDLING, LLC.",
+    "vendor_address": "1930 Hunter Loop Rd, Montgomery, AL, 36108",
+    "po_line_items": [
+      {
+        "description": "13630: ACCUM ROLLER - 60\" W/ 3 SEGMENTS SLIP SLEEVES",
+        "quantity": 4.0,
+        "net_price": 1124.0
+      },
+      {
+        "description": "40R X 35P: 40R x 35 PITCHES CHAIN 40R CL: CONN LINK - #40 MASTER LINK",
+        "quantity": 4.0,
+        "net_price": 8.0
+      },
+      {
+        "description": "00835: ACCUMULATOR ROLLER - RED URETHANE 00495: LAYER STOP ACCUMULATOR ROLLER - ZINC",
+        "quantity": 3.0,
+        "net_price": 190.0
+      },
+      {
+        "description": "Freight ShipVia FREIGHT",
+        "quantity": 1.0,
+        "net_price": 210.19
+      }
+    ],
+    "vat_amount": null,
+    "gl_account": null,
+    "bank_name": null,
+    "account_holder_name": null,
+    "banking_account_number": null,
+    "remit_to_address": null,
+    "bill_to_address": null,
+    "transaction_type": "debit"
+  },
+  "filename": "SAPS4_5100914504_CA02_PBNACA_2026_328615189.pdf",
+  "raw_response": {
+    "invoice_number": "004677",
+    "invoice_date": "30-Dec-2025",
+    "invoice_amount": "2342.19",
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": null,
+    "po_number": [
+      "4504370320"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": "210.19",
+    "cost_center": null,
+    "vendor_name": "T-TEK MATERIAL HANDLING, LLC.",
+    "vendor_address": "1930 Hunter Loop Rd, Montgomery, AL, 36108",
+    "po_line_items": [
+      {
+        "description": "13630: ACCUM ROLLER - 60\" W/ 3 SEGMENTS SLIP SLEEVES",
+        "quantity": 4.0,
+        "net_price": 1124.0
+      },
+      {
+        "description": "40R X 35P: 40R x 35 PITCHES CHAIN 40R CL: CONN LINK - #40 MASTER LINK",
+        "quantity": 4.0,
+        "net_price": 8.0
+      },
+      {
+        "description": "00835: ACCUMULATOR ROLLER - RED URETHANE 00495: LAYER STOP ACCUMULATOR ROLLER - ZINC",
+        "quantity": 3.0,
+        "net_price": 190.0
+      },
+      {
+        "description": "Freight ShipVia FREIGHT",
+        "quantity": 1.0,
+        "net_price": 210.19
+      }
+    ]
+  }
+}

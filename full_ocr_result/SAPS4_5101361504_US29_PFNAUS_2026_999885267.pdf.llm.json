@@ -1,0 +1,59 @@
+{
+  "invoice_data": {
+    "invoice_number": "6859",
+    "invoice_date": "1/1/2026",
+    "invoice_amount": "350.59",
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": "25.59",
+    "po_number": [
+      "M412884632"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "Clean Sweep Central, Inc.",
+    "vendor_address": "P.O. Box 54, Willmar, Mn 56201",
+    "po_line_items": [
+      {
+        "description": "Commercial Cleaning-December, 2025-Willmar, MN",
+        "quantity": 5.0,
+        "net_price": 65.0
+      }
+    ],
+    "vat_amount": null,
+    "gl_account": null,
+    "bank_name": null,
+    "account_holder_name": null,
+    "banking_account_number": null,
+    "remit_to_address": null,
+    "bill_to_address": null,
+    "transaction_type": "debit"
+  },
+  "filename": "SAPS4_5101361504_US29_PFNAUS_2026_999885267.pdf",
+  "raw_response": {
+    "invoice_number": "6859",
+    "invoice_date": "1/1/2026",
+    "invoice_amount": "350.59",
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": "25.59",
+    "po_number": [
+      "M412884632"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "Clean Sweep Central, Inc.",
+    "vendor_address": "P.O. Box 54, Willmar, Mn 56201",
+    "po_line_items": [
+      {
+        "description": "Commercial Cleaning-December, 2025-Willmar, MN",
+        "quantity": 5.0,
+        "net_price": 65.0
+      }
+    ]
+  }
+}

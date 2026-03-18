@@ -1,0 +1,79 @@
+{
+  "invoice_data": {
+    "invoice_number": "98430",
+    "invoice_date": "2/12/2026",
+    "invoice_amount": "1156.41",
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": "0.00",
+    "po_number": [
+      "4504688603"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": "253.57",
+    "cost_center": null,
+    "vendor_name": "INTERNATIONAL INC",
+    "vendor_address": "395 W HWY 39 *BLACKFOOT, ID 83221",
+    "po_line_items": [
+      {
+        "description": "URETHANE SLIDES STAINLESS STEEL- 3/8\" X 1 1/2\" ONE SIDE X 40\" (FRITO-LAY)",
+        "quantity": 2.0,
+        "net_price": 494.3
+      },
+      {
+        "description": "URETHANE SLIDES STAINLESS STEEL- 3/8\" X 1 1/2\" ONE SIDE X 39\" (FRITO-LAY)",
+        "quantity": 2.0,
+        "net_price": 154.97
+      },
+      {
+        "description": "FREIGHT",
+        "quantity": 1.0,
+        "net_price": 253.57
+      }
+    ],
+    "vat_amount": null,
+    "gl_account": null,
+    "bank_name": null,
+    "account_holder_name": null,
+    "banking_account_number": null,
+    "remit_to_address": null,
+    "bill_to_address": null,
+    "transaction_type": "debit"
+  },
+  "filename": "SAPS4_5100343525_US28_PFNAUS_2026_999884214.pdf",
+  "raw_response": {
+    "invoice_number": "98430",
+    "invoice_date": "2/12/2026",
+    "invoice_amount": "1156.41",
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": "0.00",
+    "po_number": [
+      "4504688603"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": "253.57",
+    "cost_center": null,
+    "vendor_name": "INTERNATIONAL INC",
+    "vendor_address": "395 W HWY 39 *BLACKFOOT, ID 83221",
+    "po_line_items": [
+      {
+        "description": "URETHANE SLIDES STAINLESS STEEL- 3/8\" X 1 1/2\" ONE SIDE X 40\" (FRITO-LAY)",
+        "quantity": 2.0,
+        "net_price": 494.3
+      },
+      {
+        "description": "URETHANE SLIDES STAINLESS STEEL- 3/8\" X 1 1/2\" ONE SIDE X 39\" (FRITO-LAY)",
+        "quantity": 2.0,
+        "net_price": 154.97
+      },
+      {
+        "description": "FREIGHT",
+        "quantity": 1.0,
+        "net_price": 253.57
+      }
+    ]
+  }
+}

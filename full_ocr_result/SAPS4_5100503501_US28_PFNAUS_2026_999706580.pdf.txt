@@ -1,0 +1,264 @@
+==================================<Page 1 - START>================================
+Standard Invoice
+                                                                                                                    GRAINGER
+Original tax invoice has been submitted electronically. This is a
+human readable representation (copy) of the original tax invoice.
+                                                                 Invoice Number                                      980301051226
+                                                                 (Supplier Reference No.)
+                                                                                               Tuesday 10 Feb 2026 3:31 AM GMT-07:00
+                                                                 Invoice Date
+                                                                                                                   $384.32 USD
+                                                                 Amount Due
+    Contact Information
+                                                                          Shipping Information
+    Supplier
+                                 Customer
+                                                                          Ship From                     Ship To
+    Grainger
+                                 Frito-Lay Inc.                               Grainger                      US-PL-WILLIAMSPORT-PA-
+    100 Grainger Pkwy               c/o PEPSICO NASS                          400 BORDENTOWN-HEDDING       FLI
+    Lake Forest                    ACCOUNTS PAYABLES                       RD                          ANGELA.WITMER@PEPSIC
+    IL                           PO BOX 1800                               BORDENTOWN                  220 NORTH REACH ROAD
+    Winst                        Winston Salem                              NJ                           WILLAMSPORT
+    United States                   NC                                      08505                        PA
+                                 27105                                    United States                    17701
+                                 United States
+                                                                                                       United States
+                                                                                                       Phone: (570) 323-6175
+  Line Items                                              PO No. : M413548471                                      PO Date : 10 Feb 2026
+  Line No.
+            PO Line No.          Type    Supplier Part No. /             Customer Part No.        Quantity            Unit Price         Subtotal
+                                       Description                                        (UOM)
+  1
+            1                 Material 3TB47 / Trash Can, Gry. 32 gal,                          2 / (EA)           $27.78 USD      $55.56 USD
+                                       Plastic
+  Line No.   PO Line No.
+                               Type    Supplier Part No. /             Customer Part No.        Quantity            Unit Price         Subtotal
+                                       Description
+                                                                                      (UOM)
+  2        2                 Material 2U250 / Facial                                                      $28.86 USD      $28.86 USD
+                                                                                      1 / (EA)
+                                       Tissue,100,White,47410,PK30
+  Line No.   PO Line No.         Type    Supplier Part No. /             Customer Part No.                           Unit Price         Subtotal
+                                                                                      Quantity
+                                       Description                                        (UOM)
+  3        3                 Material 24X071 / Maintenance                                3 / (EA)           $9.35 USD      $28.05 USD
+                                      Absorbent,25 Ib.,Bag
+                                                                                                                         Subtotal
+  Line No.    PO Line No.         Type    Supplier Part No. /             Customer Part No.        Quantity            Unit Price
+                                      Description
+                                                                                      (UOM)
+  4                           Material 5TP99 / Maintenance Absorbent,20                                        $23.98 USD      $71.94 USD
+            4                                                                        3 / (EA)
+                                      Ib.,Pail
+  Line No.   PO Line No.         Type    Supplier Part No. /             Customer Part No.                           Unit Price         Subtotal
+                                                                                      Quantity
+                                      Description                                        (UOM)
+  5        5                 Material 4TJY5 / Cold Protection                               1 / (EA)           $9.16 USD       $9.16 USD
+                                      Gloves,M,Gld Ylw/Blue,PR
+                                                                              Amount Summary
+                                                                              Line item subtotal
+                                                                                                                     $193.57 USD
+                                                                              Shipping charges                          $169.00 USD
+                                                                              Gross amount                             $384.32 USD
+                                                                              Net amount                              $384.32 USD
+                                                                                                                      $21.75 USD
+                                                                              Total tax amount
+                                                                             Total withholding tax amount
+                                                                                                                     $384.32 USD
+                                                                              Amount Due
+   Additional Information
+   InvoiceSourceDocument
+   PurchaseOrder
+   InvoiceSubmissionMethod
+   cXML
+   Billing Information                                                         Remittance Information
+  Bill To                                                                 Remit To
+                                                                         GRAINGER
+  Frito-Lay Inc.
+                                                                         DEPT. 873498117
+  c/o PEPSICO NASS
+                                                                         PALATINE
+  ACCOUNTS PAYABLES
+                                                                         IL
+  PO BOX 1800
+                                                                         60038-0001
+  Winston Salem
+                                                                         United States
+  NC
+                                                                         Address ID: US1_10359
+  27105
+  United States                                                            Tax ID of Supplier
+  Address ID: US28                                                         36-1150280
+                                                                     Reference Documents
+                                                                      Original Supplier Order #: 1575638666
+==================================<Page 1 - END>================================
+==================================<Page 2 - START>================================
+Appendix
+Line No.
+            PO Line No. Type                           Supplier Part No. / Description
+ 1          1
+                        Material                         3TB47 / Trash Can, Gry, 32 gal, Plastic
+Additional Details:
+ Supplier Part ID : 3TB47
+Supplier Part Auxiliary ID : WWG3TB47
+Line No.    PO Line No. Type
+                                                       Supplier Part No. / Description
+ 2          2         Material
+                                                       2U250 / Facial Tissue,100,White,47410,PK30
+Additional Details:
+Supplier Part ID : 2U250
+Supplier Part Auxiliary ID : WWG2U250
+Line No.    PO Line No. Type
+                                                       Supplier Part No. / Description
+ 3         3          Material
+                                                       24X071 / Maintenance Absorbent,25 Ib.,Bag
+Additional Details:
+ Supplier Part ID : 24X071
+ Supplier Part Auxiliary ID : WWG24X071
+Line No.    PO Line No. Type
+                                                       Supplier Part No. / Description
+4         4          Material
+                                                       5TP99 / Maintenance Absorbent,20 Ib.,Pail
+Additional Details:
+Supplier Part ID : 5TP99
+Supplier Part Auxiliary ID : WWG5TP99
+Line No.    PO Line No. Type                           Supplier Part No. / Description
+5         5         Material                         4TJY5 / Cold Protection Gloves,M,Gld Ylw/Blue,PR
+Additional Details:
+Supplier Part ID : 4TJY5
+Supplier Part Auxiliary ID : WWG4TJY5
+PDF generated on Wednesday 11 Feb 2026 3:27 AM GMT-08:00
+==================================<Page 2 - END>================================
+==================================<Page 3 - START>================================
+  Standard Invoice
+                                                                                                                      GRAINGER
+  Original tax invoice has been submitted electronically. This is a
+  human readable representation (copy) of the original tax invoice.
+                                                                  Invoice Number                                      980301051226
+                                                                   (Supplier Reference No.)
+                                                                                                 Tuesday 10 Feb 2026 3:31 AM GMT-07:00
+                                                                   Invoice Date
+                                                                                                                     $384.32 USD
+                                                                  Amount Due
+      Contact Information
+                                                                            Shipping Information
+      Supplier
+                                   Customer
+                                                                            Ship From                     Ship To
+      Grainger
+                                   Frito-Lay Inc.                               Grainger                      US-PL-WILLIAMSPORT-PA-
+      100 Grainger Pkwy               c/o PEPSICO NASS                          400 BORDENTOWN-HEDDING       FLI
+      Lake Forest                    ACCOUNTS PAYABLES                       RD                          ANGELA.WITMER@PEPSIC
+      IL                           PO BOX 1800                               BORDENTOWN                  220 NORTH REACH ROAD
+      Winst                        Winston Salem                              NJ                           WILLAMSPORT
+      United States                   NC                                      08505                        PA
+                                   27105                                    United States                    17701
+                                   United States
+                                                                                                         United States
+                                                                                                         Phone: (570) 323-6175
+    Line Items                                              PO No. : M413548471                                      PO Date : 10 Feb 2026
+    Line No.
+              PO Line No.          Type    Supplier Part No. /             Customer Part No.        Quantity            Unit Price         Subtotal
+                                         Description                                        (UOM)
+    1
+              1                 Material 3TB47 / Trash Can, Gry. 32 gal,                          2 / (EA)           $27.78 USD      $55.56 USD
+                                         Plastic
+    Line No.   PO Line No.
+                                 Type    Supplier Part No. /             Customer Part No.        Quantity            Unit Price         Subtotal
+                                         Description
+                                                                                        (UOM)
+    2        2                 Material 2U250 / Facial                                                      $28.86 USD      $28.86 USD
+                                                                                        1 / (EA)
+                                        Tissue,100,White,47410,PK30
+    Line No.   PO Line No.         Type    Supplier Part No. /             Customer Part No.                           Unit Price         Subtotal
+                                                                                        Quantity
+                                        Description                                        (UOM)
+    3        3                 Material 24X071 / Maintenance                                3 / (EA)           $9.35 USD      $28.05 USD
+                                        Absorbent,25 Ib.,Bag
+                                                                                                                           Subtotal
+    Line No.    PO Line No.         Type    Supplier Part No. /             Customer Part No.        Quantity            Unit Price
+                                        Description
+                                                                                        (UOM)
+    4                           Material 5TP99 / Maintenance Absorbent,20                                        $23.98 USD      $71.94 USD
+              4                                                                        3 / (EA)
+                                        Ib.,Pail
+    Line No.   PO Line No.         Type    Supplier Part No. /             Customer Part No.                           Unit Price         Subtotal
+                                                                                        Quantity
+                                        Description                                        (UOM)
+    5        5                 Material 4TJY5 / Cold Protection                               1 / (EA)           $9.16 USD       $9.16 USD
+                                        Gloves,M,Gld Ylw/Blue,PR
+                                                                                Amount Summary
+                                                                                Line item subtotal
+                                                                                                                       $193.57 USD
+                                                                                Shipping charges                          $169.00 USD
+                                                                                Gross amount                             $384.32 USD
+                                                                                Net amount                              $384.32 USD
+                                                                                                                       $21.75 USD
+                                                                               Total tax amount
+                                                                               Total withholding tax amount
+                                                                                                                       $384.32 USD
+                                                                               Amount Due
+     Additional Information
+     InvoiceSourceDocument
+     PurchaseOrder
+     InvoiceSubmissionMethod
+    cXML
+    Billing Information                                                         Remittance Information
+    Bill To                                                                 Remit To
+                                                                           GRAINGER
+    Frito-Lay Inc.
+                                                                           DEPT. 873498117
+    c/o PEPSICO NASS
+                                                                           PALATINE
+    ACCOUNTS PAYABLES
+                                                                           IL
+    PO BOX 1800
+                                                                           60038-0001
+    Winston Salem
+                                                                           United States
+    NC
+                                                                           Address ID: US1_10359
+    27105
+    United States                                                            Tax ID of Supplier
+    Address ID: US28                                                         36-1150280
+                                                                       Reference Documents
+                                                                        Original Supplier Order #: 1575638666
+==================================<Page 3 - END>================================
+==================================<Page 4 - START>================================
+Appendix
+Line No.
+            PO Line No. Type                           Supplier Part No. / Description
+ 1          1
+                        Material                         3TB47 / Trash Can, Gry, 32 gal, Plastic
+Additional Details:
+ Supplier Part ID : 3TB47
+Supplier Part Auxiliary ID : WWG3TB47
+Line No.    PO Line No. Type
+                                                       Supplier Part No. / Description
+ 2          2         Material
+                                                       2U250 / Facial Tissue,100,White,47410,PK30
+Additional Details:
+Supplier Part ID : 2U250
+Supplier Part Auxiliary ID : WWG2U250
+Line No.    PO Line No. Type
+                                                       Supplier Part No. / Description
+ 3         3          Material
+                                                       24X071 / Maintenance Absorbent,25 Ib.,Bag
+Additional Details:
+ Supplier Part ID : 24X071
+ Supplier Part Auxiliary ID : WWG24X071
+Line No.    PO Line No. Type
+                                                       Supplier Part No. / Description
+4         4          Material
+                                                       5TP99 / Maintenance Absorbent,20 Ib.,Pail
+Additional Details:
+Supplier Part ID : 5TP99
+Supplier Part Auxiliary ID : WWG5TP99
+Line No.    PO Line No. Type                           Supplier Part No. / Description
+5         5         Material                         4TJY5 / Cold Protection Gloves,M,Gld Ylw/Blue,PR
+Additional Details:
+Supplier Part ID : 4TJY5
+Supplier Part Auxiliary ID : WWG4TJY5
+PDF generated on Wednesday 11 Feb 2026 3:27 AM GMT-08:00
+==================================<Page 4 - END>================================

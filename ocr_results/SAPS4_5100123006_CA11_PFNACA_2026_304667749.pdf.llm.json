@@ -1,0 +1,59 @@
+{
+  "invoice_data": {
+    "invoice_number": "6237180882",
+    "invoice_date": "January 22, 2026",
+    "invoice_amount": "2,205.00",
+    "invoice_currency": [
+      "CAD"
+    ],
+    "tax_amount": "105.00",
+    "po_number": [
+      "4505086041"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": "2,100.00",
+    "cost_center": null,
+    "vendor_name": "C.H. Robinson Company (Canada) Ltd.",
+    "vendor_address": "C.H. Robinson Company (Canada) Ltd., 610 Applewood Crescent, 6th floor Suite 601, Concord, Ontario L4K 0E3, Canada",
+    "po_line_items": [
+      {
+        "description": "Lay's Cheese & Onion",
+        "quantity": 278.0,
+        "net_price": null
+      }
+    ],
+    "vat_amount": null,
+    "gl_account": null,
+    "bank_name": null,
+    "account_holder_name": null,
+    "banking_account_number": null,
+    "remit_to_address": null,
+    "bill_to_address": null,
+    "transaction_type": "debit"
+  },
+  "filename": "SAPS4_5100123006_CA11_PFNACA_2026_304667749.pdf",
+  "raw_response": {
+    "invoice_number": "6237180882",
+    "invoice_date": "January 22, 2026",
+    "invoice_amount": "2,205.00",
+    "invoice_currency": [
+      "CAD"
+    ],
+    "tax_amount": "105.00",
+    "po_number": [
+      "4505086041"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": "2,100.00",
+    "cost_center": null,
+    "vendor_name": "C.H. Robinson Company (Canada) Ltd.",
+    "vendor_address": "C.H. Robinson Company (Canada) Ltd., 610 Applewood Crescent, 6th floor Suite 601, Concord, Ontario L4K 0E3, Canada",
+    "po_line_items": [
+      {
+        "description": "Lay's Cheese & Onion",
+        "quantity": 278.0,
+        "net_price": null
+      }
+    ]
+  }
+}

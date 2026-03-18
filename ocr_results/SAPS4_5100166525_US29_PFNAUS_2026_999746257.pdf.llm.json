@@ -1,0 +1,129 @@
+{
+  "invoice_data": {
+    "invoice_number": "3452603",
+    "invoice_date": "Wednesday 4 Feb 2026 12:00 PM GMT-05:00",
+    "invoice_amount": "5,981.25",
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": "0.00",
+    "po_number": [
+      "M412701871"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": "634.25",
+    "cost_center": null,
+    "vendor_name": "Arbon Equipment Corporation",
+    "vendor_address": "8900 N. Arbon Drive, Milwaukee, WI 53223, United States",
+    "po_line_items": [
+      {
+        "description": "Material Plants & Building Maintenance-Services (PGT)",
+        "quantity": 5.347,
+        "net_price": 1.0
+      },
+      {
+        "description": "A6AP Brush",
+        "quantity": 9.0,
+        "net_price": 67.0
+      },
+      {
+        "description": "A6AP Retainer",
+        "quantity": 8.0,
+        "net_price": 32.0
+      },
+      {
+        "description": "A6AP Brush",
+        "quantity": 12.0,
+        "net_price": 74.0
+      },
+      {
+        "description": "A6AP Retainer",
+        "quantity": 12.0,
+        "net_price": 34.0
+      },
+      {
+        "description": "A6AP Brush Bottom Sea",
+        "quantity": 4.0,
+        "net_price": 198.0
+      },
+      {
+        "description": "77777A SHIPPING AND HANDLING FREIGHT",
+        "quantity": 1.0,
+        "net_price": 603.0
+      },
+      {
+        "description": "77777A SHIPPING AND HANDLING FREIGHT",
+        "quantity": 1.0,
+        "net_price": 603.0
+      }
+    ],
+    "vat_amount": null,
+    "gl_account": null,
+    "bank_name": null,
+    "account_holder_name": null,
+    "banking_account_number": null,
+    "remit_to_address": null,
+    "bill_to_address": null,
+    "transaction_type": "debit"
+  },
+  "filename": "SAPS4_5100166525_US29_PFNAUS_2026_999746257.pdf",
+  "raw_response": {
+    "invoice_number": "3452603",
+    "invoice_date": "Wednesday 4 Feb 2026 12:00 PM GMT-05:00",
+    "invoice_amount": "5,981.25",
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": "0.00",
+    "po_number": [
+      "M412701871"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": "634.25",
+    "cost_center": null,
+    "vendor_name": "Arbon Equipment Corporation",
+    "vendor_address": "8900 N. Arbon Drive, Milwaukee, WI 53223, United States",
+    "po_line_items": [
+      {
+        "description": "Material Plants & Building Maintenance-Services (PGT)",
+        "quantity": 5.347,
+        "net_price": 1.0
+      },
+      {
+        "description": "A6AP Brush",
+        "quantity": 9.0,
+        "net_price": 67.0
+      },
+      {
+        "description": "A6AP Retainer",
+        "quantity": 8.0,
+        "net_price": 32.0
+      },
+      {
+        "description": "A6AP Brush",
+        "quantity": 12.0,
+        "net_price": 74.0
+      },
+      {
+        "description": "A6AP Retainer",
+        "quantity": 12.0,
+        "net_price": 34.0
+      },
+      {
+        "description": "A6AP Brush Bottom Sea",
+        "quantity": 4.0,
+        "net_price": 198.0
+      },
+      {
+        "description": "77777A SHIPPING AND HANDLING FREIGHT",
+        "quantity": 1.0,
+        "net_price": 603.0
+      },
+      {
+        "description": "77777A SHIPPING AND HANDLING FREIGHT",
+        "quantity": 1.0,
+        "net_price": 603.0
+      }
+    ]
+  }
+}

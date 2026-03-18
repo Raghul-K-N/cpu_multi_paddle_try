@@ -1,0 +1,109 @@
+{
+  "invoice_data": {
+    "invoice_number": "319488",
+    "invoice_date": "2/11/2026",
+    "invoice_amount": null,
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": null,
+    "po_number": [
+      "4504853049"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "American Holt, LLC",
+    "vendor_address": "203 Carnegie Row, Norwood, MA 02062, United States",
+    "po_line_items": [
+      {
+        "description": "B Stopper Block (50065620)",
+        "quantity": 1.0,
+        "net_price": 166.32
+      },
+      {
+        "description": "Damper Shutter (50087119)",
+        "quantity": 9.0,
+        "net_price": 11.21
+      },
+      {
+        "description": "Large Poly Brush Coupling (50011423, 50058768)",
+        "quantity": 16.0,
+        "net_price": 33.74
+      },
+      {
+        "description": "Block \"B\" Stopper, Damper, Right Side (50095496)",
+        "quantity": 2.0,
+        "net_price": 154.49
+      },
+      {
+        "description": "Flexible Conduit, 3/4\" O.D. (50005738, 50110945)",
+        "quantity": 5.0,
+        "net_price": 20.79
+      },
+      {
+        "description": "1\" AC Connecting Case (50019623, 50198218, 50022052)",
+        "quantity": 2.0,
+        "net_price": null
+      }
+    ],
+    "vat_amount": null,
+    "gl_account": null,
+    "bank_name": null,
+    "account_holder_name": null,
+    "banking_account_number": null,
+    "remit_to_address": null,
+    "bill_to_address": null,
+    "transaction_type": "debit"
+  },
+  "filename": "SAPS4_5100273527_US28_PFNAUS_2026_999935098.pdf",
+  "raw_response": {
+    "invoice_number": "319488",
+    "invoice_date": "2/11/2026",
+    "invoice_amount": null,
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": null,
+    "po_number": [
+      "4504853049"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "American Holt, LLC",
+    "vendor_address": "203 Carnegie Row, Norwood, MA 02062, United States",
+    "po_line_items": [
+      {
+        "description": "B Stopper Block (50065620)",
+        "quantity": 1.0,
+        "net_price": 166.32
+      },
+      {
+        "description": "Damper Shutter (50087119)",
+        "quantity": 9.0,
+        "net_price": 11.21
+      },
+      {
+        "description": "Large Poly Brush Coupling (50011423, 50058768)",
+        "quantity": 16.0,
+        "net_price": 33.74
+      },
+      {
+        "description": "Block \"B\" Stopper, Damper, Right Side (50095496)",
+        "quantity": 2.0,
+        "net_price": 154.49
+      },
+      {
+        "description": "Flexible Conduit, 3/4\" O.D. (50005738, 50110945)",
+        "quantity": 5.0,
+        "net_price": 20.79
+      },
+      {
+        "description": "1\" AC Connecting Case (50019623, 50198218, 50022052)",
+        "quantity": 2.0,
+        "net_price": null
+      }
+    ]
+  }
+}

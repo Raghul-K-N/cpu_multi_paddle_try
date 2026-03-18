@@ -1,0 +1,225 @@
+==================================<Page 1 - START>================================
+  OpenText Workflow History
+  Vendor
+  W D POTATO LTD
+  RR 2
+  3644 10 SIDERD
+  BEETON ON
+              LOG 1A0
+  CANADA
+  Invoice
+   Reference        IN0235243
+                                                              Document Date
+                                                                                31.12.2025
+   DP Document No.   39413362
+                                                              Net Amount
+                                                                                CAD           336.00
+  Comp. Code
+                     CA11 PepsiCo Canada ULC (FLC)            Tax Amount
+                                                                                CAD              47.04
+  Posting Date     13.02.2026
+                                                              Gross Amount
+                                                                                CAD           383.04
+  SAP Document No. 1900186500 2026
+                                          Pre-Process History
+   ACTIVITY
+                                                         USER       END TIME         DOCUMENT STATUS
+   Update status
+                                                         VRBLAOT_U  09.02.2026       Validation
+                                                         SR
+                                                                     12:56:02         Complete
+                                      Document Process History
+  ACTIVITY         PROCESS TYPE/BLOCK REASON
+                                                         USER        END TIME         DOCUMENT STATUS
+  BC Inbound                                                        09.02.2026
+                                                         VRBLAOT_U                    Document
+                                                         SR          12:54:25         Registered
+  Workflow Start   Approval Required (NPo)
+                                                         Record to  09.02.2026       Indexed
+                                                                     12:56:02
+                                                         Report
+                                                         Batch
+                                                         Account
+                                                         Owner:
+    Invoice submitted for Approval
+                                                                     09.02.2026 12:56:04
+    Invoice Approved                                    GEORGES
+                                                                     09.02.2026 14:46:29
+                                                        DION
+    Invoice Approved
+                                                        FABRIZZIO  09.02.2026 15:21:20
+                                                        CANTAGALL
+                                                        o
+ Approval         Approval Required (NPO)
+                                                        SAP_WFRT   09.02.2026        Approval
+Workflow                                                          15:21:27          Complete
+Business Rules
+                   Process Non-PO Invoice (NPO)        SAP_WFRT   09.02.2026        Approval
+Check in BG
+                                                                     15:21:29          Complete
+Post Non-PO      Process Non-PO Invoice (NPO)       VIGNESH    13.02.2026
+                                                                                       Document
+Invoice
+                                                        RENGARAJ   17:33:29          Created
+SAP Document
+                                                        SAP_WFRT   13.02.2026        Posted
+Check
+                                                                     17:33:38
+==================================<Page 1 - END>================================
+==================================<Page 2 - START>================================
+          PEPSICO
+   Fillin the Description field below with the payment type - for example: Donation / Taxes / Legal / etc.
+   Print Entire Workbook as ONE single PDF file prior to submission.
+                                           Non-PO Invoice
+                                      SAP Payment Request
+                                    Substitute Invoice Form
+    Vendor Name:
+                                             WD Potato
+   Vendor Number:                    2003151895
+   Company Code:                    CA11
+   Remit To Address :                3630 Sideroad 10, Beeton, Ontario, L0G1A0
+   Transaction type:                  Invoice
+   Invoice Date:                        12/31/2025
+   Invoice #:                            IN0235243
+   Purchase Order #
+   Payment GROSS Amount:      $383.04
+   Tax Amount:                              $47.04
+   Payment NET Amount:           $336.00
+   Currency                             CND
+  Header Text:
+   Requestor Name:                  Georges Dion
+   Requestor email                    georges.dion@pepsico.com
+   Date Requested:                    12/31/2025
+  Description:                         Kentville R&M
+  Cost Center (optional - use Tab 2 if multiple):      2049100201
+  GL AcCount (REQUIRED - use Tab 2 if multiple):    630000
+  WBS Element (optional - use Tab 2 if multiple):
+==================================<Page 2 - END>================================
+==================================<Page 3 - START>================================
+                                                                                      INVOICE #       IN0235243
+                               W.D. POTATO LIMITED
+    WD  3644 5I0ER0AD 10,
+                                                                                     INVOICE DATE    Dec 31, 2025
+                               TEL: (905) 729-2263
+      POTATO LIMITED
+                               FAX: (905) 729-4136                                      SHIP DATE
+                                                                                                    Dec 31, 2025
+        5
+        0   PEPSICO FOODS CANADA                                  1001 BISHOP STREET
+             1001 BISHOP STREET                                      CAMBRIDGE, ONTARIO
+             CAMBRIDGE, ONTARIO                                     N3H 4V8
+        T   N3H 4V8                                              T
+                                                                    o
+       customer No.                      TERMS
+           2001                        NET 30 DAYS                      R 105605836              KENTVILLE R & M
+                                ITEM DESCRIPTION                                      PRICE
+ 9925H        Kentville R & M as per attached schedule                             14.00          24.00          336.00
+"The perishable agricultural commodities listed on this invoice are sold subject to the statutory trust authorized by section S(c) of
+the Perishabale Agricultural Commodities Act. 193o (7 U.5.c. 499e(c)). The seller of these commodities retains a trust claim over
+these commodities, all inventories of food or other products derived from these commodities, and any receivables or proceeds
+from the sale of these commodities until full payment is received."
+                                                         Sub-total .
+                                                                                           HST         TOTAL
+                                                              336.00
+==================================<Page 3 - END>================================
+==================================<Page 4 - START>================================
+     W.D. Potato Limited
+     Maintenance and Repairs - Kentville Storage
+     9925h
+        31-Dec-25
+     $24.00 per hour
+                                                              Hours           Performed                       Total             Parts
+     Date                  Equipment
+                                                                              by:                              Hours
+     Dec 10 2025            Seed bin filler                                     Mike/AJ                                  10
+                                                                      5
+     Dec 12 2025                                                              Mike/AJ                                   4
+                            Boom #2                                 2
+                                                                      7
+                                                                                                                         14
+==================================<Page 4 - END>================================
+==================================<Page 5 - START>================================
+                                                                WD Agro Repair Order
+      Start
+                          End           Total                                        PO #
+     9am       2pm        Shrs
+                                                                                           Company
+                                          Seed bin filler
+ Equipment Maintenance:
+Work Performed By: Milk/A                                                              Dec 10/25
+                                                                                                                Date:
+            Serve Performed                             Qty    Unit    Net                       Parts Used
+  replacd chain that rans  10                       #60 roller chain
+ incline belt the replace
+                                                                                                  32 tooth sprocket #60
+  chain and sprocket on the
+  Boon along with one dauble
+                                                                 2
+                                                                                                  B41 Belts.
+   pally and 2 Belts.
+                                                                                                 Double Bhelt pally
+                                                                                                15 tooth #60 idller
+==================================<Page 5 - END>================================
+==================================<Page 6 - START>================================
+                                                                                                                                                  2025
+                                                                WD Agro Repair Order
+       Start           End          Total                                        PO #
+    9am
+                                           2hrs
+                                                                                            Company
+                                          Boom #2
+Equipment Maintenance:
+Work Performed By:Mike/AJ                                                  Date: Dec 12/25
+            Serve Performed
+                                                                   Qty    Unit    Net                       Parts Used
+relaced the belt laaing 2                         30" RS 125 lacing
+4 clips broke
+==================================<Page 6 - END>================================
+==================================<Page 7 - START>================================
+                                                                                                                               (7-22-2025
+                                                              WD Agro Repair Order
+       Start                                                                          PO #
+                          End          Total
+                       12 pm
+                                                                                          Company
+                                        Mefal  Pecter
+  Equipment Maintenance:
+                                                                                                                          Nov 18/25
+Work Performed By:Mike/NicK/AJ
+                                                                                                               Date:
+           Serve Performed                             Qty    Unit    Net                       Parts Used
+  Replaced main drive shaft
+                                                                                                    drive shaft (rollor)
+made by HF Stewards out
+ of SS.
+==================================<Page 7 - END>================================
+==================================<Page 8 - START>================================
+                                                                                                                                 in aile d.
+                                                                                                                                    12~22-2025
+                                                               WD Agro Repair Order
+        Start                                                                           PO #
+                          End          Total
+                                            1,5hrs
+                      230pm
+                                                                                           Company.
+Equipment Maintenance: Blul trailer #6
+Work Performed By: Mio /A3                                                        Date: Nou Jo/25.
+            Serve Performed                                        Unit                                  Parts Used
+                                                                 Qty                Net
+  adjusted the belt.   4
+                                                                                                cans of chain lube
+  Chain and oiled them
+==================================<Page 8 - END>================================
+==================================<Page 9 - START>================================
+          From: "Dion, Georges {PEP}" <Georges.Dion@pepsico.com>
+          Sent: Fri, 6 Feb 2026 22:56:59 (UTC)
+          To: FLCInvoiceSubmission@pepsico.com
+          Subject: Invoices
+          Georges Dion
+          Proc Sr Manager • PFC Div Ops Field buyer
+          PepsiCo
+          georges.dion@pepsico.com418.572.7202
+          pepsico.com
+                pepsico
+                 Food Drinks. Smies.
+==================================<Page 9 - END>================================

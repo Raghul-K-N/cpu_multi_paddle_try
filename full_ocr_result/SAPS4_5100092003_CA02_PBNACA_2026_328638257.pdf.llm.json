@@ -1,0 +1,43 @@
+{
+  "invoice_data": {
+    "invoice_number": "W02-22245",
+    "invoice_date": "November 30, 2025",
+    "invoice_amount": null,
+    "invoice_currency": null,
+    "tax_amount": null,
+    "po_number": [
+      "4505074984"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "ESTERN SYSTEM CONTROLS LTD.",
+    "vendor_address": "Head Oice • #103 - 3677 Hwy 97N, Kelowna, B.C. V1X 5C3\nService • #102 - 2080 Hartley Ave. Coquiflam, B.C. V3K 6W5",
+    "po_line_items": null,
+    "vat_amount": null,
+    "gl_account": null,
+    "bank_name": null,
+    "account_holder_name": null,
+    "banking_account_number": null,
+    "remit_to_address": null,
+    "bill_to_address": null,
+    "transaction_type": "debit"
+  },
+  "filename": "SAPS4_5100092003_CA02_PBNACA_2026_328638257.pdf",
+  "raw_response": {
+    "invoice_number": "W02-22245",
+    "invoice_date": "November 30, 2025",
+    "invoice_amount": null,
+    "invoice_currency": null,
+    "tax_amount": null,
+    "po_number": [
+      "4505074984"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "ESTERN SYSTEM CONTROLS LTD.",
+    "vendor_address": "Head Oice • #103 - 3677 Hwy 97N, Kelowna, B.C. V1X 5C3\nService • #102 - 2080 Hartley Ave. Coquiflam, B.C. V3K 6W5",
+    "po_line_items": null
+  }
+}

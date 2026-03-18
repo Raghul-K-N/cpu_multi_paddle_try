@@ -1,0 +1,79 @@
+{
+  "invoice_data": {
+    "invoice_number": "208504",
+    "invoice_date": "Jan-30-2026",
+    "invoice_amount": null,
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": null,
+    "po_number": [
+      "413539826"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "TREETOP",
+    "vendor_address": "1272 VERNON DRIVE, VANCOUVER, B.C. V6A 4C9",
+    "po_line_items": [
+      {
+        "description": "Uniforms",
+        "quantity": 1.0,
+        "net_price": 88.0
+      },
+      {
+        "description": "Uniforms",
+        "quantity": 1.0,
+        "net_price": 119.0
+      },
+      {
+        "description": "Uniform Shipping",
+        "quantity": 1.0,
+        "net_price": 38.15
+      }
+    ],
+    "vat_amount": null,
+    "gl_account": null,
+    "bank_name": null,
+    "account_holder_name": null,
+    "banking_account_number": null,
+    "remit_to_address": null,
+    "bill_to_address": null,
+    "transaction_type": "debit"
+  },
+  "filename": "SAPS4_5101085010_CA02_PBNACA_2026_328586849.pdf",
+  "raw_response": {
+    "invoice_number": "208504",
+    "invoice_date": "Jan-30-2026",
+    "invoice_amount": null,
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": null,
+    "po_number": [
+      "413539826"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "TREETOP",
+    "vendor_address": "1272 VERNON DRIVE, VANCOUVER, B.C. V6A 4C9",
+    "po_line_items": [
+      {
+        "description": "Uniforms",
+        "quantity": 1.0,
+        "net_price": 88.0
+      },
+      {
+        "description": "Uniforms",
+        "quantity": 1.0,
+        "net_price": 119.0
+      },
+      {
+        "description": "Uniform Shipping",
+        "quantity": 1.0,
+        "net_price": 38.15
+      }
+    ]
+  }
+}

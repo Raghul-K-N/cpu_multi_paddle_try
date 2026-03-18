@@ -1,0 +1,47 @@
+{
+  "invoice_data": {
+    "invoice_number": "5020977855",
+    "invoice_date": "02/12/2026",
+    "invoice_amount": "39.41",
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": "39.41",
+    "po_number": [
+      "M413353972"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": "0.00",
+    "cost_center": null,
+    "vendor_name": "vestis",
+    "vendor_address": "PO BOX 101179, PASADENA CA 91189-1179",
+    "po_line_items": null,
+    "vat_amount": null,
+    "gl_account": null,
+    "bank_name": null,
+    "account_holder_name": null,
+    "banking_account_number": null,
+    "remit_to_address": null,
+    "bill_to_address": null,
+    "transaction_type": "debit"
+  },
+  "filename": "SAPS4_5100180532_US29_PFNAUS_2026_999935791.pdf",
+  "raw_response": {
+    "invoice_number": "5020977855",
+    "invoice_date": "02/12/2026",
+    "invoice_amount": "39.41",
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": "39.41",
+    "po_number": [
+      "M413353972"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": "0.00",
+    "cost_center": null,
+    "vendor_name": "vestis",
+    "vendor_address": "PO BOX 101179, PASADENA CA 91189-1179",
+    "po_line_items": null
+  }
+}

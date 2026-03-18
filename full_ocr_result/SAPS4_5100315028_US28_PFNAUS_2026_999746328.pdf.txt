@@ -1,0 +1,244 @@
+==================================<Page 1 - START>================================
+Standard Invoice
+Original tax invoice has been submitted electronically. This is a
+human readable representation (copy) of the original tax invoice.
+                                                                                                                 980600850526
+                                                                Invoice Number
+                                                                (Supplier Reference No.)
+                                                                Invoice Date                    Thursday 12 Feb 2026 3:28 AM GMT-07:00
+                                                                                                                  $719.28 USD
+                                                                Amount Due
+    Contact Information
+                                                                         Shipping Information
+    Supplier
+                                 Customer                                                              Ship To
+                                                                          Ship From
+    Grainger
+                                 Frito-Lay Inc.                               Grainger                      US-PL-KILLINGLY-CT-FLI
+    100 Grainger Pkwy               c/o PEPSICO NASS                          400 BORDENTOWN-HEDDING       PPE CAB-KIM HASSETT
+    Lake Forest                    ACCOUNTS PAYABLES                       RD                          1886 UPPERMAPLE ST
+    IL                           PO BOX 1800                               BORDENTOWN                  DAYVILLE
+    Winst                        Winston Salem                              NJ                           CT
+    United States                  NC                                      08505                        06241
+                                 27105                                    United States                    United States
+                                 United States                                                            Phone: (860) 412-1000
+  Line Items                                              PO No. : M413555009                                      PO Date : 12 Feb 2026
+  Line No.                                                                                               Unit Price         Subtotal
+            PO Line No.         Type    Supplier Part No. /             Customer Part No.        Quantity
+                                      Description                                       (UOM)
+  1        1                 Material 1FYX6 /                                         36 / (EA)           $0.88 USD      $31.68 USD
+                                      SafetyGlasses,Clear.ScratchResistant
+  Line No.    PO Line No.         Type   Supplier Part No. /             Customer Part No.        Quantity            Unit Price         Subtotal
+                                      Description                                       (UOM)
+  2
+            2                 Material 1FYX7 /                                         36 / (EA)           $0.91 USD      $32.76 USD
+                                      SafetyGlasses,Clear,AntiFog.ScrtchRsstnt
+  Line No.                                                                                               Unit Price         Subtotal
+            PO Line No.         Type   Supplier Part No. /             Customer Part No.        Quantity
+                                      Description                                       (UOM)
+  3        3                 Material 40LJ83 / Cut Resistant Gloves,Size                       24 / (EA)           $8.22 USD     $197.28 USD
+                                      9,PR
+  Line No.   PO Line No.         Type   Supplier Part No. /             Customer Part No.        Quantity            Unit Price         Subtotal
+                                      Description                                       (UOM)
+                                                                                                      $1.38 USD      $24.84 USD
+  4        4                 Material 1YAC5 / Safety                                    18 / (EA)
+                                      Vest,Lime,Universal
+  Line No.                             Supplier Part No. /                                                    Unit Price         Subtotal
+            PO Line No.         Type                              Customer Part No.        Quantity
+                                      Description                                       (UOM)
+  5        5                 Material 4FG03 / Lockout                                    24 / (EA)           $9.81 USD     $235.44 USD
+                                      Padlock,KD,Red.1-3/4H
+  Line No.   PO Line No.         Type    Supplier Part No. /             Customer Part No.        Quantity            Unit Price         Subtotal
+                                      Description                                       (UOM)
+  6        6                 Material 40LJ60 / Cut Resistant Gloves,Size                       24 / (EA)           $8.22 USD      $197.28 USD
+                                      10,PR
+                                                                            Amount Summary
+                                                                             Line item subtotal                          $719.28 USD
+                                                                             Gross amount                            $719.28 USD
+                                                                             Net amount                              $719.28 USD
+                                                                             Total tax amount                            $0.00 USD
+                                                                            Total withholding tax amount
+                                                                             Amount Due                              $719.28 USD
+   Additional Information
+   InvoiceSourceDocument
+  PurchaseOrder
+  InvoiceSubmissionMethod
+  cXML
+                                                                        Remittance Information
+  Billing Information
+  Bill To                                                                 Remit To
+  Frito-Lay Inc.                                                            GRAINGER
+  c/o PEPSICO NASS                                                        DEPT. 808856983
+  ACCOUNTS PAYABLES                                                    PALATINE
+  PO BOX 1800                                                            IL
+                                                                        60038-0001
+  Winston Salem
+                                                                        United States
+  NC
+                                                                        Address ID: US1_10359
+  27105
+  United States                                                            Tax ID of Supplier
+  Address ID: US28
+                                                                        36-1150280
+                                                                     Reference Documents
+                                                                     Original Supplier Order #: 1575661812
+==================================<Page 1 - END>================================
+==================================<Page 2 - START>================================
+ Appendix
+ Line No.
+             PO Line No. Type                           Supplier Part No. / Description
+  1          1         Material
+                                                       1FYX6 / SafetyGlasses,Clear,ScratchResistant
+ Additional Details:
+ Supplier Part ID : 1FYX6
+ Supplier Part Auxiliary ID : WWG1FYX6
+ Line No.    PO Line No. Type                           Supplier Part No. / Description
+ 2
+             2         Material                         1FYX7 / SafetyGlasses,Clear,AntiFog,ScrtchRsstnt
+ Additional Details:
+ Supplier Part ID : 1FYX7
+ Supplier Part Auxiliary ID : WWG1FYX7
+ Line No.    PO Line No. Type                           Supplier Part No. / Description
+ 3         3         Material                         40LJ83 / Cut Resistant Gloves,Size 9,PR
+ Additional Details:
+ Supplier Part ID : 40LJ83
+Supplier Part Auxiliary ID : WWG40LJ83
+Line No.    PO Line No. Type                           Supplier Part No. / Description
+4         4          Material                         1YAC5 / Safety Vest,Lime,Universal
+Additional Details:
+Supplier Part ID : 1YAC5
+Supplier Part Auxiliary ID : WWG1YAC5
+Line No.    PO Line No. Type                           Supplier Part No. / Description
+5         5         Material                         4FG03 / Lockout Padlock,KD,Red,1-3/4H
+Additional Details:
+Supplier Part ID : 4FG03
+Supplier Part Auxiliary ID : WWG4FG03
+Line No.    PO Line No. Type                            Supplier Part No. / Description
+6         6         Material                         40LJ60 / Cut Resistant Gloves,Size 10,PR
+Additional Details:
+Supplier Part ID : 40LJ60
+Supplier Part Auxiliary ID : WWG40LJ60
+PDF generated on Friday 13 Feb 2026 3:43 AM GMT-08:00
+==================================<Page 2 - END>================================
+==================================<Page 3 - START>================================
+  Standard Invoice
+ Original tax invoice has been submitted electronically. This is a
+ human readable representation (copy) of the original tax invoice.
+                                                                                                                  980600850526
+                                                                 Invoice Number
+                                                                 (Supplier Reference No.)
+                                                                 Invoice Date                    Thursday 12 Feb 2026 3:28 AM GMT-07:00
+                                                                                                                   $719.28 USD
+                                                                 Amount Due
+     Contact Information
+                                                                           Shipping Information
+     Supplier
+                                  Customer                                                              Ship To
+                                                                           Ship From
+     Grainger
+                                  Frito-Lay Inc.                               Grainger                      US-PL-KILLINGLY-CT-FLI
+      100 Grainger Pkwy               c/o PEPSICO NASS                          400 BORDENTOWN-HEDDING       PPE CAB-KIM HASSETT
+      Lake Forest                    ACCOUNTS PAYABLES                       RD                          1886 UPPERMAPLE ST
+      IL                           PO BOX 1800                               BORDENTOWN                  DAYVILLE
+     Winst                        Winston Salem                              NJ                           CT
+      United States                  NC                                      08505                        06241
+                                  27105                                    United States                    United States
+                                  United States                                                            Phone: (860) 412-1000
+   Line Items                                              PO No. : M413555009                                      PO Date : 12 Feb 2026
+    Line No.                                                                                               Unit Price         Subtotal
+              PO Line No.         Type    Supplier Part No. /             Customer Part No.        Quantity
+                                        Description                                       (UOM)
+    1        1                 Material 1FYX6 /                                         36 / (EA)           $0.88 USD      $31.68 USD
+                                        SafetyGlasses,Clear.ScratchResistant
+    Line No.    PO Line No.         Type   Supplier Part No. /             Customer Part No.        Quantity            Unit Price         Subtotal
+                                       Description                                       (UOM)
+    2
+              2                 Material 1FYX7 /                                         36 / (EA)           $0.91 USD      $32.76 USD
+                                        SafetyGlasses,Clear,AntiFog.ScrtchRsstnt
+    Line No.                                                                                               Unit Price         Subtotal
+              PO Line No.         Type   Supplier Part No. /             Customer Part No.        Quantity
+                                       Description                                       (UOM)
+    3        3                 Material 40LJ83 / Cut Resistant Gloves,Size                       24 / (EA)           $8.22 USD     $197.28 USD
+                                       9,PR
+   Line No.   PO Line No.         Type   Supplier Part No. /             Customer Part No.        Quantity            Unit Price         Subtotal
+                                       Description                                       (UOM)
+                                                                                                        $1.38 USD      $24.84 USD
+    4        4                 Material 1YAC5 / Safety                                    18 / (EA)
+                                       Vest,Lime,Universal
+   Line No.                             Supplier Part No. /                                                    Unit Price         Subtotal
+             PO Line No.         Type                              Customer Part No.        Quantity
+                                       Description                                       (UOM)
+   5        5                 Material 4FG03 / Lockout                                    24 / (EA)           $9.81 USD     $235.44 USD
+                                       Padlock,KD,Red.1-3/4H
+   Line No.   PO Line No.         Type    Supplier Part No. /             Customer Part No.        Quantity            Unit Price         Subtotal
+                                       Description                                       (UOM)
+   6        6                 Material 40LJ60 / Cut Resistant Gloves,Size                       24 / (EA)           $8.22 USD      $197.28 USD
+                                       10,PR
+                                                                              Amount Summary
+                                                                              Line item subtotal                          $719.28 USD
+                                                                              Gross amount                            $719.28 USD
+                                                                              Net amount                              $719.28 USD
+                                                                              Total tax amount                            $0.00 USD
+                                                                              Total withholding tax amount
+                                                                              Amount Due                              $719.28 USD
+    Additional Information
+    InvoiceSourceDocument
+    PurchaseOrder
+    InvoiceSubmissionMethod
+    cXML
+                                                                          Remittance Information
+   Billing Information
+   Bill To                                                                 Remit To
+   Frito-Lay Inc.                                                            GRAINGER
+   c/o PEPSICO NASS                                                        DEPT. 808856983
+   ACCOUNTS PAYABLES                                                    PALATINE
+   PO BOX 1800                                                            IL
+                                                                          60038-0001
+   Winston Salem
+                                                                          United States
+   NC
+                                                                          Address ID: US1_10359
+   27105
+   United States                                                            Tax ID of Supplier
+   Address ID: US28
+                                                                          36-1150280
+                                                                      Reference Documents
+                                                                      Original Supplier Order #: 1575661812
+==================================<Page 3 - END>================================
+==================================<Page 4 - START>================================
+ Appendix
+ Line No.
+             PO Line No. Type                           Supplier Part No. / Description
+  1          1         Material
+                                                       1FYX6 / SafetyGlasses,Clear,ScratchResistant
+ Additional Details:
+ Supplier Part ID : 1FYX6
+ Supplier Part Auxiliary ID : WWG1FYX6
+ Line No.    PO Line No. Type                           Supplier Part No. / Description
+ 2
+             2         Material                         1FYX7 / SafetyGlasses,Clear,AntiFog,ScrtchRsstnt
+ Additional Details:
+ Supplier Part ID : 1FYX7
+ Supplier Part Auxiliary ID : WWG1FYX7
+ Line No.    PO Line No. Type                           Supplier Part No. / Description
+ 3         3         Material                         40LJ83 / Cut Resistant Gloves,Size 9,PR
+ Additional Details:
+ Supplier Part ID : 40LJ83
+Supplier Part Auxiliary ID : WWG40LJ83
+Line No.    PO Line No. Type                           Supplier Part No. / Description
+4         4          Material                         1YAC5 / Safety Vest,Lime,Universal
+Additional Details:
+Supplier Part ID : 1YAC5
+Supplier Part Auxiliary ID : WWG1YAC5
+Line No.    PO Line No. Type                           Supplier Part No. / Description
+5         5         Material                         4FG03 / Lockout Padlock,KD,Red,1-3/4H
+Additional Details:
+Supplier Part ID : 4FG03
+Supplier Part Auxiliary ID : WWG4FG03
+Line No.    PO Line No. Type                            Supplier Part No. / Description
+6         6         Material                         40LJ60 / Cut Resistant Gloves,Size 10,PR
+Additional Details:
+Supplier Part ID : 40LJ60
+Supplier Part Auxiliary ID : WWG40LJ60
+PDF generated on Friday 13 Feb 2026 3:43 AM GMT-08:00
+==================================<Page 4 - END>================================

@@ -1,0 +1,99 @@
+{
+  "invoice_data": {
+    "invoice_number": "21055",
+    "invoice_date": "06/05/2025",
+    "invoice_amount": null,
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": "../../../../507.47",
+    "po_number": [
+      "4500565554"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "Ray's Radio Shop INC Industrial Communications Sales",
+    "vendor_address": "1100 N Carpenter Rd, Modesto, CA 95351",
+    "po_line_items": [
+      {
+        "description": "XPR3300E",
+        "quantity": 825.0,
+        "net_price": 2475.0
+      },
+      {
+        "description": "AAH02RDC9VA1AN",
+        "quantity": 3.0,
+        "net_price": 294.0
+      },
+      {
+        "description": "PMMN4073",
+        "quantity": 3.0,
+        "net_price": 98.0
+      },
+      {
+        "description": "AAM02QNH9JA1AN",
+        "quantity": 3.0,
+        "net_price": 1225.0
+      },
+      {
+        "description": "LABOR TO ASSEMBLE BASE STATION",
+        "quantity": 1.0,
+        "net_price": 125.0
+      }
+    ],
+    "vat_amount": null,
+    "gl_account": null,
+    "bank_name": null,
+    "account_holder_name": null,
+    "banking_account_number": null,
+    "remit_to_address": null,
+    "bill_to_address": null,
+    "transaction_type": "debit"
+  },
+  "filename": "SAPS4_5100076023_US28_PFNAUS_2026_999884315.pdf",
+  "raw_response": {
+    "invoice_number": "21055",
+    "invoice_date": "06/05/2025",
+    "invoice_amount": "../../../../7076.47",
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": "../../../../507.47",
+    "po_number": [
+      "4500565554"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "Ray's Radio Shop INC Industrial Communications Sales",
+    "vendor_address": "1100 N Carpenter Rd, Modesto, CA 95351",
+    "po_line_items": [
+      {
+        "description": "XPR3300E",
+        "quantity": 825.0,
+        "net_price": 2475.0
+      },
+      {
+        "description": "AAH02RDC9VA1AN",
+        "quantity": 3.0,
+        "net_price": 294.0
+      },
+      {
+        "description": "PMMN4073",
+        "quantity": 3.0,
+        "net_price": 98.0
+      },
+      {
+        "description": "AAM02QNH9JA1AN",
+        "quantity": 3.0,
+        "net_price": 1225.0
+      },
+      {
+        "description": "LABOR TO ASSEMBLE BASE STATION",
+        "quantity": 1.0,
+        "net_price": 125.0
+      }
+    ]
+  }
+}

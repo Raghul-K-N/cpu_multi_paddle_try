@@ -1,0 +1,59 @@
+{
+  "invoice_data": {
+    "invoice_number": "3083645",
+    "invoice_date": "2/4/2026",
+    "invoice_amount": "518.58",
+    "invoice_currency": [
+      "CAD"
+    ],
+    "tax_amount": "59.66",
+    "po_number": [
+      "4505049126"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": "36.08",
+    "cost_center": null,
+    "vendor_name": "Crawford Packaging",
+    "vendor_address": "3036 Page Street, London, ON N5V 4P2, CANADA",
+    "po_line_items": [
+      {
+        "description": "SMC CYLINDER ½4IN BORE 4IN STROKE 0MPNU00213",
+        "quantity": 2.0,
+        "net_price": 422.84
+      }
+    ],
+    "vat_amount": null,
+    "gl_account": null,
+    "bank_name": null,
+    "account_holder_name": null,
+    "banking_account_number": null,
+    "remit_to_address": null,
+    "bill_to_address": null,
+    "transaction_type": "debit"
+  },
+  "filename": "SAPS4_5101396001_CA02_PBNACA_2026_328615127.pdf",
+  "raw_response": {
+    "invoice_number": "3083645",
+    "invoice_date": "2/4/2026",
+    "invoice_amount": "518.58",
+    "invoice_currency": [
+      "CAD"
+    ],
+    "tax_amount": "59.66",
+    "po_number": [
+      "4505049126"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": "36.08",
+    "cost_center": null,
+    "vendor_name": "Crawford Packaging",
+    "vendor_address": "3036 Page Street, London, ON N5V 4P2, CANADA",
+    "po_line_items": [
+      {
+        "description": "SMC CYLINDER ½4IN BORE 4IN STROKE 0MPNU00213",
+        "quantity": 2.0,
+        "net_price": 422.84
+      }
+    ]
+  }
+}

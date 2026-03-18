@@ -1,0 +1,89 @@
+{
+  "invoice_data": {
+    "invoice_number": "72384350",
+    "invoice_date": "Monday 9 Feb. 2026 6:07 a.m. GMT-07:00",
+    "invoice_amount": "624.93",
+    "invoice_currency": [
+      "CAD"
+    ],
+    "tax_amount": "76.75",
+    "po_number": [
+      "M413545504"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "STAPLES CANADA ULC",
+    "vendor_address": "9 TANTRAMAR CRES, AMHERST, NS, B4H 4J6, KENTVILLE, NS, B4N 3W9, Canada, CA-PL-KENTVILLE-NS-FLC",
+    "po_line_items": [
+      {
+        "description": "PAPER,SF1,20LB,8.5X11,92BR,WHI",
+        "quantity": 2.0,
+        "net_price": 63.24
+      },
+      {
+        "description": "TAPE,SEALING,48MMX100M,CLEAR",
+        "quantity": 2.0,
+        "net_price": 17.57
+      },
+      {
+        "description": "TOWEL,PAPER 100 RECYCLED NAT",
+        "quantity": 6.0,
+        "net_price": 35.16
+      },
+      {
+        "description": "WRAP:STRETCH 14\"X1500",
+        "quantity": 10.0,
+        "net_price": 17.56
+      }
+    ],
+    "vat_amount": null,
+    "gl_account": null,
+    "bank_name": null,
+    "account_holder_name": null,
+    "banking_account_number": null,
+    "remit_to_address": null,
+    "bill_to_address": null,
+    "transaction_type": "debit"
+  },
+  "filename": "SAPS4_5101601004_CA11_PFNACA_2026_304654761.pdf",
+  "raw_response": {
+    "invoice_number": "72384350",
+    "invoice_date": "Monday 9 Feb. 2026 6:07 a.m. GMT-07:00",
+    "invoice_amount": "624.93",
+    "invoice_currency": [
+      "CAD"
+    ],
+    "tax_amount": "76.75",
+    "po_number": [
+      "M413545504"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "STAPLES CANADA ULC",
+    "vendor_address": "9 TANTRAMAR CRES, AMHERST, NS, B4H 4J6, KENTVILLE, NS, B4N 3W9, Canada, CA-PL-KENTVILLE-NS-FLC",
+    "po_line_items": [
+      {
+        "description": "PAPER,SF1,20LB,8.5X11,92BR,WHI",
+        "quantity": 2.0,
+        "net_price": 63.24
+      },
+      {
+        "description": "TAPE,SEALING,48MMX100M,CLEAR",
+        "quantity": 2.0,
+        "net_price": 17.57
+      },
+      {
+        "description": "TOWEL,PAPER 100 RECYCLED NAT",
+        "quantity": 6.0,
+        "net_price": 35.16
+      },
+      {
+        "description": "WRAP:STRETCH 14\"X1500",
+        "quantity": 10.0,
+        "net_price": 17.56
+      }
+    ]
+  }
+}

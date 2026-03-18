@@ -1,0 +1,59 @@
+{
+  "invoice_data": {
+    "invoice_number": "26400172",
+    "invoice_date": "01-Dec-2025",
+    "invoice_amount": "2471.20",
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": null,
+    "po_number": [
+      "4504415839"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": "0.00",
+    "cost_center": null,
+    "vendor_name": "Meta Platforms, Inc.",
+    "vendor_address": "1 Meta Way, Menlo Park, CA 94025, United States of America, 315 Montgomery Street, San Francisco, CA 94104, United States of America",
+    "po_line_items": [
+      {
+        "description": "Instagram - FLNA_US_2025_Cheetos_Cheetos_BOY_BOY_Engagement_Social_Engagement_NA_No_X",
+        "quantity": null,
+        "net_price": 2471.2
+      }
+    ],
+    "vat_amount": null,
+    "gl_account": null,
+    "bank_name": null,
+    "account_holder_name": null,
+    "banking_account_number": null,
+    "remit_to_address": null,
+    "bill_to_address": null,
+    "transaction_type": "debit"
+  },
+  "filename": "SAPS4_5100266500_US27_PFNAUS_2026_999884131.pdf",
+  "raw_response": {
+    "invoice_number": "26400172",
+    "invoice_date": "01-Dec-2025",
+    "invoice_amount": "2471.20",
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": null,
+    "po_number": [
+      "4504415839"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": "0.00",
+    "cost_center": null,
+    "vendor_name": "Meta Platforms, Inc.",
+    "vendor_address": "1 Meta Way, Menlo Park, CA 94025, United States of America, 315 Montgomery Street, San Francisco, CA 94104, United States of America",
+    "po_line_items": [
+      {
+        "description": "Instagram - FLNA_US_2025_Cheetos_Cheetos_BOY_BOY_Engagement_Social_Engagement_NA_No_X",
+        "quantity": null,
+        "net_price": 2471.2
+      }
+    ]
+  }
+}

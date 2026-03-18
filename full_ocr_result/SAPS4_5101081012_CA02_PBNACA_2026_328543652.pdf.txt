@@ -1,0 +1,184 @@
+==================================<Page 1 - START>================================
+Standard Invoice                                                                                                 staples()
+                                                                                                                   staples
+Original tax invoice has been submitted electronically. This is a
+human readable representation (copy) of the original tax invoice.
+                                                                Invoice Number
+                                                                                                                     72381025
+                                                                (Supplier Reference No.)
+                                                                Invoice Date
+                                                                                              Monday 9 Feb. 2026 6:06 a.m. GMT-07:00
+                                                                Amount Due                                         $42.61 CAD
+    Contact Information                                                       Shipping Information
+    Supplier
+                                 Customer                                 Ship From
+                                                                                                      Ship To
+    Supplier VAT/Tax ID              PEPSICO FOODS CANADA O/
+                                                                         Staples Canada ULC              FRITO-LAY CDA/PEPSICO
+    126152586RT0001               A FRITO LAY CANADA
+                                                                         1616 EIFFEL                   BEVERAGE
+                                 5550 EXPLORER DR 8TH                      BOUCHERVILLE                SARAH.ELASHRY@PEPSICO.COM
+                                 FLOOR
+                                                                          QC                          3700 BOUL THIMENS
+                                 MISSISSAUGA
+                                                                         J4B 8N3                       CA-PL-SAINT LAURENT-QC-
+                                 ON
+                                                                         Canada                       PBCCAN
+                                 L4W 0C3
+                                                                                                      SAINT-LAURENT
+                                 Canada
+                                                                                                      QC
+                                 Address ID:
+                                                                                                      H4R 1T8
+                                 CA1 ARIBA PAYABLES
+                                                                                                      CA
+                                                                                                     Address ID: shipTo
+  Line Items                                              PO No. : M413545160                                      PO Date : 9 Feb. 2026
+  Line No.    PO Line No.          Type    Supplier Part No. /             Customer Part No.        Quantity            Unit Price         Subtotal
+                                      Description                                       (UOM)
+   4
+            4                 Material  SAN81803 /                                      4 / (EA)           $4.72 CAD      $18.88 CAD
+                                      NETTOYANT.TABL EAU
+                                      BLANC.8OZ
+                                                                                                   Line Item Total : $18.88 CAD
+  Line No.   PO Line No.         Type    Supplier Part No. /             Customer Part No        Quantity            Unit Price         Subtotal
+                                      Description                                       (UOM)
+  5        5                 Material JOLCB993668 / LYSOL DISINF                         2 / (PK)           $9.09 CAD      $18.18 CAD
+                                      WIPES SPRG WAT
+                                                                                                   Line Item Total : $18.18 CAD
+      Tax Summary
+                           Details                          Base Amount               Rate %          Amount
+      Category
+      QST                 Tax Description :                   $37.06 CAD                9.975%          $3.70 CAD
+                           1010882792TQ0001
+                           Tax Location : CA
+                           Tax Description :                                            5%            $1.85 CAD
+      GST                                                $37.06 CAD
+                           126152586RT0001
+                           Tax Location : CA
+                                                                             Amount Summary
+                                                                                                                    $37.06 CAD
+                                                                             Line item subtotal
+                                                                                                                    $42.61 CAD
+                                                                             Gross amount
+                                                                             Net amount                               $42.61 CAD
+                                                                             Total tax amount                            $5.55 CAD
+                                                                             Total withholding tax amount
+                                                                                                                     $42.61 CAD
+                                                                             Amount Due
+    Additional Information
+                                                                         Remittance Information
+                                                                         Remit To
+                                                                         Staples Canada ULC
+                                                                         c/o T04446C
+                                                                         PO Box 4446C, STN A
+                                                                         Toronto
+                                                                         ON
+                                                                         M5W 4A2
+                                                                         CA
+                                                                         Address ID: CA1_32220
+==================================<Page 1 - END>================================
+==================================<Page 2 - START>================================
+                                                        Supplier Part No. / Description
+Line No.    PO Line No. Type
+4          4          Material                          SAN81803 / NETTOYANT,TABLEAU BLANC,8OZ
+Additional Details:
+Supplier Part ID : SAN81803
+Line No.    PO Line No. Type                            Supplier Part No. / Description
+5          5          Material                          JOLCB993668 / LYSOL DISINF WIPES SPRG WAT
+Additional Details:
+ Supplier Part ID : JOLCB993668
+PDF generated on Tuesday 10 Feb. 2026 3:09 a.m. GMT-08:00
+==================================<Page 2 - END>================================
+==================================<Page 3 - START>================================
+       Standard Invoice                                                                                                 staples()
+                                                                                                                          staples
+       Original tax invoice has been submitted electronically. This is a
+       human readable representation (copy) of the original tax invoice.
+                                                                        Invoice Number
+                                                                                                                            72381025
+                                                                       (Supplier Reference No.)
+                                                                       Invoice Date
+                                                                                                     Monday 9 Feb. 2026 6:06 a.m. GMT-07:00
+                                                                       Amount Due                                         $42.61 CAD
+            Contact Information                                                       Shipping Information
+            Supplier
+                                        Customer                                 Ship From
+                                                                                                             Ship To
+            Supplier VAT/Tax ID              PEPSICO FOODS CANADA O/
+                                                                                 Staples Canada ULC              FRITO-LAY CDA/PEPSICO
+            126152586RT0001               A FRITO LAY CANADA
+                                                                                1616 EIFFEL                   BEVERAGE
+                                        5550 EXPLORER DR 8TH                      BOUCHERVILLE                SARAH.ELASHRY@PEPSICO.COM
+                                        FLOOR
+                                                                                 QC                          3700 BOUL THIMENS
+                                        MISSISSAUGA
+                                                                                 J4B 8N3                       CA-PL-SAINT LAURENT-QC-
+                                        ON
+                                                                                Canada                       PBCCAN
+                                        L4W 0C3
+                                                                                                             SAINT-LAURENT
+                                        Canada
+                                                                                                             QC
+                                        Address ID:
+                                                                                                             H4R 1T8
+                                        CA1 ARIBA PAYABLES
+                                                                                                             CA
+                                                                                                             Address ID: shipTo
+         Line Items                                              PO No. : M413545160                                      PO Date : 9 Feb. 2026
+         Line No.    PO Line No.          Type    Supplier Part No. /             Customer Part No.        Quantity            Unit Price         Subtotal
+                                              Description                                       (UOM)
+          4
+                    4                 Material  SAN81803 /                                      4 / (EA)           $4.72 CAD      $18.88 CAD
+                                              NETTOYANT.TABL EAU
+                                             BLANC.8OZ
+                                                                                                          Line Item Total : $18.88 CAD
+          Line No.   PO Line No.         Type    Supplier Part No. /             Customer Part No        Quantity            Unit Price         Subtotal
+                                             Description                                       (UOM)
+          5        5                 Material JOLCB993668 / LYSOL DISINF                         2 / (PK)           $9.09 CAD      $18.18 CAD
+                                              WIPES SPRG WAT
+                                                                                                          Line Item Total : $18.18 CAD
+             Tax Summary
+                                  Details                          Base Amount               Rate %          Amount
+             Category
+             QST                 Tax Description :                   $37.06 CAD                9.975%          $3.70 CAD
+                                  1010882792TQ0001
+                                  Tax Location : CA
+                                  Tax Description :                                            5%            $1.85 CAD
+             GST                                                $37.06 CAD
+                                  126152586RT0001
+                                  Tax Location : CA
+                                                                                    Amount Summary
+                                                                                                                            $37.06 CAD
+                                                                                    Line item subtotal
+                                                                                                                            $42.61 CAD
+                                                                                    Gross amount
+                                                                                    Net amount                               $42.61 CAD
+                                                                                    Total tax amount                            $5.55 CAD
+                                                                                    Total withholding tax amount
+                                                                                                                            $42.61 CAD
+                                                                                    Amount Due
+           Additional Information
+                                                                                Remittance Information
+                                                                                Remit To
+                                                                                Staples Canada ULC
+                                                                                c/o T04446C
+                                                                                PO Box 4446C, STN A
+                                                                                Toronto
+                                                                                ON
+                                                                                M5W 4A2
+                                                                                CA
+                                                                                Address ID: CA1_32220
+==================================<Page 3 - END>================================
+==================================<Page 4 - START>================================
+                                                        Supplier Part No. / Description
+Line No.    PO Line No. Type
+4          4          Material                          SAN81803 / NETTOYANT,TABLEAU BLANC,8OZ
+Additional Details:
+Supplier Part ID : SAN81803
+Line No.    PO Line No. Type                            Supplier Part No. / Description
+5          5          Material                          JOLCB993668 / LYSOL DISINF WIPES SPRG WAT
+Additional Details:
+ Supplier Part ID : JOLCB993668
+PDF generated on Tuesday 10 Feb. 2026 3:09 a.m. GMT-08:00
+==================================<Page 4 - END>================================

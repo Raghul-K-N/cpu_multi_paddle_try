@@ -1,0 +1,79 @@
+{
+  "invoice_data": {
+    "invoice_number": "T03748",
+    "invoice_date": "2 February 2026",
+    "invoice_amount": "1,057.07",
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": "129.82",
+    "po_number": [
+      "831558"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "Ryder",
+    "vendor_address": "RYDER TRUCK RENTAL CANADA, P.O. BOX 9464 STATION A, TORONTO,ON,M5W 4E1, 800-947-9337",
+    "po_line_items": [
+      {
+        "description": "Rental",
+        "quantity": null,
+        "net_price": 799.75
+      },
+      {
+        "description": "Variable",
+        "quantity": null,
+        "net_price": 127.5
+      },
+      {
+        "description": "Fuel",
+        "quantity": null,
+        "net_price": 129.82
+      }
+    ],
+    "vat_amount": null,
+    "gl_account": null,
+    "bank_name": null,
+    "account_holder_name": null,
+    "banking_account_number": null,
+    "remit_to_address": null,
+    "bill_to_address": null,
+    "transaction_type": "debit"
+  },
+  "filename": "SAPS4_5101124504_CA11_PFNACA_2026_304654779.pdf",
+  "raw_response": {
+    "invoice_number": "T03748",
+    "invoice_date": "2 February 2026",
+    "invoice_amount": "1,057.07",
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": "129.82",
+    "po_number": [
+      "831558"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "Ryder",
+    "vendor_address": "RYDER TRUCK RENTAL CANADA, P.O. BOX 9464 STATION A, TORONTO,ON,M5W 4E1, 800-947-9337",
+    "po_line_items": [
+      {
+        "description": "Rental",
+        "quantity": null,
+        "net_price": 799.75
+      },
+      {
+        "description": "Variable",
+        "quantity": null,
+        "net_price": 127.5
+      },
+      {
+        "description": "Fuel",
+        "quantity": null,
+        "net_price": 129.82
+      }
+    ]
+  }
+}

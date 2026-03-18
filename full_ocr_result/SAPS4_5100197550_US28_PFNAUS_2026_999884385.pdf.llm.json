@@ -1,0 +1,69 @@
+{
+  "invoice_data": {
+    "invoice_number": "OR04-00681356",
+    "invoice_date": "02/04/26",
+    "invoice_amount": "54.46",
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": null,
+    "po_number": [
+      "4505054582"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "REMIT MOTION INDUSTRIES, INC.",
+    "vendor_address": "4207 NE 78TH ST., STE 150, VANCOUVER, WA 98665, PHONE: 5032395021, FAX 5032363170",
+    "po_line_items": [
+      {
+        "description": "L090-HUB-25MMH7-8X3.3MMKW CPNO: 800334504 SPIDER CPLGS",
+        "quantity": 4.0,
+        "net_price": 33.4
+      },
+      {
+        "description": "CG-T025 TRUNNION PIN CPNO: 800375364 PNEUMATIC CYLINDERS",
+        "quantity": 9.0,
+        "net_price": 21.06
+      }
+    ],
+    "vat_amount": null,
+    "gl_account": null,
+    "bank_name": null,
+    "account_holder_name": null,
+    "banking_account_number": null,
+    "remit_to_address": null,
+    "bill_to_address": null,
+    "transaction_type": "debit"
+  },
+  "filename": "SAPS4_5100197550_US28_PFNAUS_2026_999884385.pdf",
+  "raw_response": {
+    "invoice_number": "OR04-00681356",
+    "invoice_date": "02/04/26",
+    "invoice_amount": "54.46",
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": null,
+    "po_number": [
+      "4505054582"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "REMIT MOTION INDUSTRIES, INC.",
+    "vendor_address": "4207 NE 78TH ST., STE 150, VANCOUVER, WA 98665, PHONE: 5032395021, FAX 5032363170",
+    "po_line_items": [
+      {
+        "description": "L090-HUB-25MMH7-8X3.3MMKW CPNO: 800334504 SPIDER CPLGS",
+        "quantity": 4.0,
+        "net_price": 33.4
+      },
+      {
+        "description": "CG-T025 TRUNNION PIN CPNO: 800375364 PNEUMATIC CYLINDERS",
+        "quantity": 9.0,
+        "net_price": 21.06
+      }
+    ]
+  }
+}

@@ -1,0 +1,79 @@
+{
+  "invoice_data": {
+    "invoice_number": "249608966-002",
+    "invoice_date": "08/06/25",
+    "invoice_amount": "1463.00",
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": "111.50",
+    "po_number": [
+      "M413150402"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "UNITED RENTALS, INC.",
+    "vendor_address": "Branch 434 BKRSFLD434, 34929 PETROL RD, BAKERSFIELD CA 93308-9619 US, 661-631-2900, Unitedrentals.com",
+    "po_line_items": [
+      {
+        "description": "FORKLIFT WHSE 50OO# GAS/LP",
+        "quantity": 1.0,
+        "net_price": 1325.0
+      },
+      {
+        "description": "FORKLIFT 6' FORKS",
+        "quantity": 1.0,
+        "net_price": 0.0
+      },
+      {
+        "description": "ENVIRONMENTAL SERVICE CHARGE",
+        "quantity": 1.0,
+        "net_price": 26.5
+      }
+    ],
+    "vat_amount": null,
+    "gl_account": null,
+    "bank_name": null,
+    "account_holder_name": null,
+    "banking_account_number": null,
+    "remit_to_address": null,
+    "bill_to_address": null,
+    "transaction_type": "debit"
+  },
+  "filename": "SAPS4_5100013511_US30_PFNAUS_2026_999706895.pdf",
+  "raw_response": {
+    "invoice_number": "249608966-002",
+    "invoice_date": "08/06/25",
+    "invoice_amount": "1463.00",
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": "111.50",
+    "po_number": [
+      "M413150402"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "UNITED RENTALS, INC.",
+    "vendor_address": "Branch 434 BKRSFLD434, 34929 PETROL RD, BAKERSFIELD CA 93308-9619 US, 661-631-2900, Unitedrentals.com",
+    "po_line_items": [
+      {
+        "description": "FORKLIFT WHSE 50OO# GAS/LP",
+        "quantity": 1.0,
+        "net_price": 1325.0
+      },
+      {
+        "description": "FORKLIFT 6' FORKS",
+        "quantity": 1.0,
+        "net_price": 0.0
+      },
+      {
+        "description": "ENVIRONMENTAL SERVICE CHARGE",
+        "quantity": 1.0,
+        "net_price": 26.5
+      }
+    ]
+  }
+}

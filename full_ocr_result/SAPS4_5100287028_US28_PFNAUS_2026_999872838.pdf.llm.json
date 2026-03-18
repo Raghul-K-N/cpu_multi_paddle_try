@@ -1,0 +1,59 @@
+{
+  "invoice_data": {
+    "invoice_number": "305497",
+    "invoice_date": "Friday 13 Feb 2026 9:53 AM GMT-05:00",
+    "invoice_amount": "3420.00",
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": null,
+    "po_number": [
+      "M413469037"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": "25.00",
+    "cost_center": null,
+    "vendor_name": "GOODWAY TECHNOLOGIES CORPORATION",
+    "vendor_address": "420 West Avenue, Stamford, CT 06902-6329, United States, Address ID: GOODWAY TECHNOLOGIES CORPORATION, United States",
+    "po_line_items": [
+      {
+        "description": "Material Not Available / Hose, Vapor Steam Cleaners P/N: 9386-SMOOTH-66 BPO",
+        "quantity": 3395.0,
+        "net_price": 1.0
+      }
+    ],
+    "vat_amount": null,
+    "gl_account": null,
+    "bank_name": null,
+    "account_holder_name": null,
+    "banking_account_number": null,
+    "remit_to_address": null,
+    "bill_to_address": null,
+    "transaction_type": "debit"
+  },
+  "filename": "SAPS4_5100287028_US28_PFNAUS_2026_999872838.pdf",
+  "raw_response": {
+    "invoice_number": "305497",
+    "invoice_date": "Friday 13 Feb 2026 9:53 AM GMT-05:00",
+    "invoice_amount": "3420.00",
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": null,
+    "po_number": [
+      "M413469037"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": "25.00",
+    "cost_center": null,
+    "vendor_name": "GOODWAY TECHNOLOGIES CORPORATION",
+    "vendor_address": "420 West Avenue, Stamford, CT 06902-6329, United States, Address ID: GOODWAY TECHNOLOGIES CORPORATION, United States",
+    "po_line_items": [
+      {
+        "description": "Material Not Available / Hose, Vapor Steam Cleaners P/N: 9386-SMOOTH-66 BPO",
+        "quantity": 3395.0,
+        "net_price": 1.0
+      }
+    ]
+  }
+}

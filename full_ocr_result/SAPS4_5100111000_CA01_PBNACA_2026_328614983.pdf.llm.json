@@ -1,0 +1,59 @@
+{
+  "invoice_data": {
+    "invoice_number": "5054",
+    "invoice_date": "02/02/2026",
+    "invoice_amount": "3390.0",
+    "invoice_currency": [
+      "CAD"
+    ],
+    "tax_amount": "390.0",
+    "po_number": [
+      "504850605"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "Stream Commerce",
+    "vendor_address": "6135 Millcreek Dr, Mississauga ON L5N 7K6",
+    "po_line_items": [
+      {
+        "description": "552 - Gatorade Canada Merchant Success Program Retainer - February 2026",
+        "quantity": null,
+        "net_price": 3000.0
+      }
+    ],
+    "vat_amount": null,
+    "gl_account": null,
+    "bank_name": null,
+    "account_holder_name": null,
+    "banking_account_number": null,
+    "remit_to_address": null,
+    "bill_to_address": null,
+    "transaction_type": "debit"
+  },
+  "filename": "SAPS4_5100111000_CA01_PBNACA_2026_328614983.pdf",
+  "raw_response": {
+    "invoice_number": "5054",
+    "invoice_date": "02/02/2026",
+    "invoice_amount": "3390.0",
+    "invoice_currency": [
+      "CAD"
+    ],
+    "tax_amount": "390.0",
+    "po_number": [
+      "504850605"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "Stream Commerce",
+    "vendor_address": "6135 Millcreek Dr, Mississauga ON L5N 7K6",
+    "po_line_items": [
+      {
+        "description": "552 - Gatorade Canada Merchant Success Program Retainer - February 2026",
+        "quantity": null,
+        "net_price": 3000.0
+      }
+    ]
+  }
+}

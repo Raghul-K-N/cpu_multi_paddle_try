@@ -1,0 +1,103 @@
+{
+  "invoice_data": {
+    "invoice_number": "980310462026",
+    "invoice_date": "Tuesday 10 Feb 2026 3:01 AM GMT-07:00",
+    "invoice_amount": null,
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": null,
+    "po_number": [
+      "M413549291"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": [
+      "844397786"
+    ],
+    "vendor_name": "GRAINGER",
+    "vendor_address": "100 Grainger Pkwy, Lake Forest, IL, United States, 27105, United States",
+    "po_line_items": [
+      {
+        "description": "2AH38 / Collared Coveralls,L,Wht,Tyvek 400,PK25",
+        "quantity": 1.0,
+        "net_price": 159.8
+      },
+      {
+        "description": "1MDH1 / Quick Connect Plug,3/8 F)NPT",
+        "quantity": 10.0,
+        "net_price": 5.08
+      },
+      {
+        "description": "1MDG7 / Quick Connect Coupler,3/8 F)NPT",
+        "quantity": 20.0,
+        "net_price": 5.19
+      },
+      {
+        "description": "5NRF0 / Low Arc,Chrome,TS,Cast Brass,23.09gpm",
+        "quantity": 4.0,
+        "net_price": 232.47
+      },
+      {
+        "description": "2JYY9 / Wiper Blade,Beam,20 In Size",
+        "quantity": 1.0,
+        "net_price": 9.76
+      }
+    ],
+    "vat_amount": null,
+    "gl_account": null,
+    "bank_name": null,
+    "account_holder_name": null,
+    "banking_account_number": null,
+    "remit_to_address": null,
+    "bill_to_address": null,
+    "transaction_type": "debit"
+  },
+  "filename": "SAPS4_5101992500_US28_PFNAUS_2026_999706612.pdf",
+  "raw_response": {
+    "invoice_number": "980310462026",
+    "invoice_date": "Tuesday 10 Feb 2026 3:01 AM GMT-07:00",
+    "invoice_amount": null,
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": null,
+    "po_number": [
+      "M413549291"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": [
+      "844397786"
+    ],
+    "vendor_name": "GRAINGER",
+    "vendor_address": "100 Grainger Pkwy, Lake Forest, IL, United States, 27105, United States",
+    "po_line_items": [
+      {
+        "description": "2AH38 / Collared Coveralls,L,Wht,Tyvek 400,PK25",
+        "quantity": 1.0,
+        "net_price": 159.8
+      },
+      {
+        "description": "1MDH1 / Quick Connect Plug,3/8 F)NPT",
+        "quantity": 10.0,
+        "net_price": 5.08
+      },
+      {
+        "description": "1MDG7 / Quick Connect Coupler,3/8 F)NPT",
+        "quantity": 20.0,
+        "net_price": 5.19
+      },
+      {
+        "description": "5NRF0 / Low Arc,Chrome,TS,Cast Brass,23.09gpm",
+        "quantity": 4.0,
+        "net_price": 232.47
+      },
+      {
+        "description": "2JYY9 / Wiper Blade,Beam,20 In Size",
+        "quantity": 1.0,
+        "net_price": 9.76
+      }
+    ]
+  }
+}

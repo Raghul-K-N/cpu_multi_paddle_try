@@ -1,0 +1,320 @@
+==================================<Page 1 - START>================================
+Standard Invoice
+                                                                                                                    odp
+Original tax invoice has been submitted electronically. This is a
+human readable representation (copy) of the original tax invoice.
+                                                                 Invoice Number                                      454441554001
+                                                                 (Supplier Reference No.)
+                                                                 Invoice Date                     Friday 13 Feb 2026 12:00 PM GMT-05:00
+                                                                                                                   $321.82 USD
+                                                                Amount Due
+     Contact Information
+                                                                          Shipping Information
+     Supplier                      Customer                                                               Ship To
+                                                                          Ship From
+     ODP BUSINESS SOLUTIONS,
+                                 ROLLING FRITO-LAY SALES                    ODP BUSINESS SOLUTIONS.       US-DC-FOX VALLEY-WI-RFLS
+     LLC
+                                 2350 NORTHRIDGE DR                        LLC                          2350 NORTHRIDGE DR
+     6600 North Military Trail           KAUKAUNA                                                             KAUKAUNA
+     Boca Raton                   WI
+     FL                          541309570                                                              541309570
+     33496                       United States                                                            United States
+     US                                                                                               Address ID: 2192
+                                                                                                               PO Date : 12 Feb 2026
+   Line Items                                             PO No. : M413555198
+                                                                                                                         Subtotal
+   Line No.   PO Line No.         Type   Supplier Part No. /             Customer Part No.        Quantity            Unit Price
+                                       Description                                       (UOM)
+   1                          Material  196517 /                                         4 / (CS)           $40.36 USD
+             1
+                                       PAPER.X-9.8.5X11.20LB.10CA
+    Line No.                     Type   Supplier Part No. /             Customer Part No.        Quantity            Unit Price         Subtotal
+              PO Line No.
+                                       Description                                       (UOM)
+    2        2                Material 444970 / TAPE,PKG,2X800.6/                          1 / (PK)           $11.69 USD
+                                       PK.CLEAR
+              PO Line No.         Type   Supplier Part No. /             Customer Part No.        Quantity            Unit Price         Subtotal
+    Line No.
+                                       Description                                       (UOM)
+    3        3                Material 396291 /                                         4 / (EA)            $1.25 USD
+                                       BINDER,OD,VIEW.RR,1,WHITE
+                               Type   Supplier Part No. /
+    Line No.   PO Line No.                                          Customer Part No.        Quantity            Unit Price          Subtotal
+                                       Description                                       (UOM)
+    4        4                Material 5630763 / GMCR, K-CUP, BB,                          1 / (BX)           $50.09 USD
+                                       70CT
+                                       Supplier Part No. /
+    Line No.   PO Line No.         Type                             Customer Part No.        Quantity            Unit Price          Subtotal
+                                      Description
+                                                                                      (UOM)
+    5        5                Material 8557913 / BLACK RIFLE JUST                          1 / (EA)           $19.69 USD
+                                       BLACK 22CT
+    Line No.    PO Line No.         Type   Supplier Part No. /             Customer Part No.        Quantity            Unit Price         Subtotal
+                                       Description
+                                                                                     (UOM)
+    6        7                Material 864687 / GMCR FRENCH
+                                                                                     2 / (BX)           $16.43 USD
+                                      VANILLA K-CUP
+    Line No.    PO Line No.         Type   Supplier Part No. /             Customer Part No.        Quantity            Unit Price
+                                                                                                                        Subtotal
+                                      Description                                       (UOM)
+    7        8                Material 581116 / NOTEBOOK,5-
+                                                                                     2 / (EA)            $2.73 USD
+                                       STAR,2SUB.W/2POCKTS
+    Line No.    PO Line No.         Type   Supplier Part No. /             Customer Part No.
+                                                                                     Quantity            Unit Price         Subtotal
+                                      Description
+                                                                                     (UOM)
+    8        9                Material 865016 / WILD MOUNTAIN
+                                                                                     1 / (BX)           $25.49 USD
+                                      BLUEBERRY,K-CUP
+       Tax Summary
+       Category              Details
+                                                          Base Amount               Rate %
+       Sales Tax                                                                                     Amount
+                                                                                   5.50%           $10.10 USD
+                                                                             Amount Summary
+                                                                             Line item subtotal
+                                                                                                                    $311.72 USD
+                                                                             Gross amount
+                                                                                                                    $321.82 USD
+                                                                             Net amount
+                                                                                                                    $321.82 USD
+                                                                             Total tax amount
+                                                                                                                     $10.10 USD
+                                                                             Total withholding tax amount
+                                                                            Amount Due
+                                                                                                                    $321.82 USD
+     Additional Information
+     invoice due date
+     20260514
+     Billing Information
+     Bill To                                                              Remittance Information
+     PEPSICO INC ARIBA                                                    Remit To
+     700 ANDERSON HILL RD
+                                                                        ODP BUSINESS SOLUTIONS,
+     PURCHASE                                                          LLC
+    NY                                                                PO BOX 633204
+     105771444                                                           CINCINNATI
+    United States                                                          OH
+    Address ID: 47140624                                                    45263-3204
+                                                                        United States
+  Payment Terms
+  Net payment Terms (Days) :                                              Reference Documents
+  90
+                                                                    Original Supplier Order #: 454441554001
+==================================<Page 1 - END>================================
+==================================<Page 2 - START>================================
+   Appendix
+  Line No.
+              PO Line No. Type
+                                                        Supplier Part No. / Description
+   1
+              1         Material
+                                                        196517 / PAPER,X-9,8.5X11,20LB,10CA
+   Additional Details:
+  Supplier Part ID : 196517
+  UNSPSC : 14111507
+  Line No.
+              PO Line No. Type                           Supplier Part No. / Description
+  2
+              2         Material                         444970 / TAPE,PKG,2X800,6/PK,CLEAR
+  Additional Details:
+  Supplier Part ID : 444970
+  UNSPSC : 31201517
+  Line No.    PO Line No. Type                           Supplier Part No. / Description
+  3                     Material                         396291 / BINDER,OD,VIEW,RR,1,WHITE
+  Additional Details:
+  Supplier Part ID : 396291
+  UNSPSC : 44122003
+  Line No.    PO Line No. Type                           Supplier Part No. / Description
+  4          4          Material                         5630763 / GMCR, K-CUP, BB, 70CT
+  Additional Details:
+  Supplier Part ID : 5630763
+  UNSPSC : 50201706
+  Line No.    PO Line No. Type                            Supplier Part No. / Description
+  5         5          Material                         8557913 / BLACK RIFLE JUST BLACK 22CT
+  Additional Details:
+  Supplier Part ID : 8557913
+  UNSPSC : 50201706
+ Line No.    PO Line No. Type                            Supplier Part No. / Description
+ 6         7         Material                         864687 / GMCR FRENCH VANILLA K-CUP
+ Additional Details:
+  Supplier Part ID : 864687
+ UNSPSC : 50201706
+Line No.    PO Line No. Type                            Supplier Part No. / Description
+ 7
+            8         Material                         581116 / NOTEBOOK,5-STAR,2SUB,W/2POCKTS
+Additional Details:
+ Supplier Part ID : 581116
+ UNSPSC : 14111514
+Line No.
+            PO Line No. Type                            Supplier Part No. / Description
+8
+            9         Material                         865016 / WILD MOUNTAIN BLUEBERRY,K-CUP
+Additional Details:
+ Supplier Part ID : 865016
+UNSPSC : 50201706
+PDF generated on Friday 13 Feb 2026 12:30 PM GMT-08:00
+==================================<Page 2 - END>================================
+==================================<Page 3 - START>================================
+Standard Invoice
+                                                                                                                     odp
+Original tax invoice has been submitted electronically. This is a
+human readable representation (copy) of the original tax invoice.
+                                                                 Invoice Number                                      454441554001
+                                                                 (Supplier Reference No.)
+                                                                 Invoice Date                     Friday 13 Feb 2026 12:00 PM GMT-05:00
+                                                                                                                    $321.82 USD
+                                                                 Amount Due
+     Contact Information
+                                                                          Shipping Information
+     Supplier                      Customer                                                               Ship To
+                                                                          Ship From
+     ODP BUSINESS SOLUTIONS,
+                                  ROLLING FRITO-LAY SALES                    ODP BUSINESS SOLUTIONS.       US-DC-FOX VALLEY-WI-RFLS
+     LLC
+                                  2350 NORTHRIDGE DR                        LLC                          2350 NORTHRIDGE DR
+      6600 North Military Trail           KAUKAUNA                                                             KAUKAUNA
+      Boca Raton                   WI
+      FL                          541309570                                                              541309570
+      33496                       United States                                                            United States
+      US                                                                                               Address ID: 2192
+                                                                                                               PO Date : 12 Feb 2026
+   Line Items                                             PO No. : M413555198
+                                                                                                                          Subtotal
+    Line No.   PO Line No.         Type   Supplier Part No. /             Customer Part No.        Quantity            Unit Price
+                                       Description                                       (UOM)
+    1                          Material  196517 /                                         4 / (CS)           $40.36 USD
+              1
+                                       PAPER.X-9.8.5X11.20LB.10CA
+    Line No.                     Type   Supplier Part No. /             Customer Part No.        Quantity            Unit Price         Subtotal
+              PO Line No.
+                                       Description                                       (UOM)
+    2        2                Material 444970 / TAPE,PKG,2X800.6/                          1 / (PK)           $11.69 USD
+                                       PK.CLEAR
+              PO Line No.         Type   Supplier Part No. /             Customer Part No.        Quantity            Unit Price         Subtotal
+    Line No.
+                                       Description                                       (UOM)
+    3        3                Material 396291 /                                         4 / (EA)            $1.25 USD
+                                       BINDER,OD,VIEW.RR,1,WHITE
+                                Type   Supplier Part No. /
+    Line No.   PO Line No.                                          Customer Part No.        Quantity            Unit Price          Subtotal
+                                       Description                                       (UOM)
+    4        4                Material 5630763 / GMCR, K-CUP, BB,                          1 / (BX)           $50.09 USD
+                                       70CT
+                                       Supplier Part No. /
+    Line No.   PO Line No.         Type                             Customer Part No.        Quantity            Unit Price          Subtotal
+                                       Description
+                                                                                      (UOM)
+    5        5                Material 8557913 / BLACK RIFLE JUST                          1 / (EA)           $19.69 USD
+                                       BLACK 22CT
+    Line No.    PO Line No.         Type   Supplier Part No. /             Customer Part No.        Quantity            Unit Price         Subtotal
+                                       Description
+                                                                                      (UOM)
+    6        7                Material 864687 / GMCR FRENCH
+                                                                                      2 / (BX)           $16.43 USD
+                                       VANILLA K-CUP
+    Line No.    PO Line No.         Type   Supplier Part No. /             Customer Part No.        Quantity            Unit Price
+                                                                                                                         Subtotal
+                                       Description                                       (UOM)
+    7        8                Material 581116 / NOTEBOOK,5-
+                                                                                      2 / (EA)            $2.73 USD
+                                       STAR,2SUB.W/2POCKTS
+    Line No.    PO Line No.         Type   Supplier Part No. /             Customer Part No.
+                                                                                      Quantity            Unit Price         Subtotal
+                                       Description
+                                                                                      (UOM)
+    8        9                Material 865016 / WILD MOUNTAIN
+                                                                                      1 / (BX)           $25.49 USD
+                                       BLUEBERRY,K-CUP
+       Tax Summary
+       Category              Details
+                                                          Base Amount               Rate %
+       Sales Tax                                                                                     Amount
+                                                                                   5.50%           $10.10 USD
+                                                                             Amount Summary
+                                                                             Line item subtotal
+                                                                                                                    $311.72 USD
+                                                                             Gross amount
+                                                                                                                    $321.82 USD
+                                                                             Net amount
+                                                                                                                    $321.82 USD
+                                                                             Total tax amount
+                                                                                                                     $10.10 USD
+                                                                             Total withholding tax amount
+                                                                             Amount Due
+                                                                                                                    $321.82 USD
+      Additional Information
+      invoice due date
+     20260514
+     Billing Information
+     Bill To                                                              Remittance Information
+     PEPSICO INC ARIBA                                                    Remit To
+     700 ANDERSON HILL RD
+                                                                        ODP BUSINESS SOLUTIONS,
+     PURCHASE                                                          LLC
+     NY                                                                PO BOX 633204
+     105771444                                                           CINCINNATI
+     United States                                                          OH
+     Address ID: 47140624                                                    45263-3204
+                                                                        United States
+  Payment Terms
+  Net payment Terms (Days) :                                              Reference Documents
+  90
+                                                                     Original Supplier Order #: 454441554001
+==================================<Page 3 - END>================================
+==================================<Page 4 - START>================================
+   Appendix
+  Line No.
+              PO Line No. Type
+                                                        Supplier Part No. / Description
+   1
+              1         Material
+                                                        196517 / PAPER,X-9,8.5X11,20LB,10CA
+   Additional Details:
+  Supplier Part ID : 196517
+  UNSPSC : 14111507
+  Line No.
+              PO Line No. Type                           Supplier Part No. / Description
+  2
+              2         Material                         444970 / TAPE,PKG,2X800,6/PK,CLEAR
+  Additional Details:
+  Supplier Part ID : 444970
+  UNSPSC : 31201517
+  Line No.    PO Line No. Type                           Supplier Part No. / Description
+  3                     Material                         396291 / BINDER,OD,VIEW,RR,1,WHITE
+  Additional Details:
+  Supplier Part ID : 396291
+  UNSPSC : 44122003
+  Line No.    PO Line No. Type                           Supplier Part No. / Description
+  4          4          Material                         5630763 / GMCR, K-CUP, BB, 70CT
+  Additional Details:
+  Supplier Part ID : 5630763
+  UNSPSC : 50201706
+  Line No.    PO Line No. Type                            Supplier Part No. / Description
+  5         5          Material                         8557913 / BLACK RIFLE JUST BLACK 22CT
+  Additional Details:
+  Supplier Part ID : 8557913
+  UNSPSC : 50201706
+ Line No.    PO Line No. Type                            Supplier Part No. / Description
+ 6         7         Material                         864687 / GMCR FRENCH VANILLA K-CUP
+ Additional Details:
+  Supplier Part ID : 864687
+ UNSPSC : 50201706
+Line No.    PO Line No. Type                            Supplier Part No. / Description
+ 7
+            8         Material                         581116 / NOTEBOOK,5-STAR,2SUB,W/2POCKTS
+Additional Details:
+ Supplier Part ID : 581116
+ UNSPSC : 14111514
+Line No.
+            PO Line No. Type                            Supplier Part No. / Description
+8
+            9         Material                         865016 / WILD MOUNTAIN BLUEBERRY,K-CUP
+Additional Details:
+ Supplier Part ID : 865016
+UNSPSC : 50201706
+PDF generated on Friday 13 Feb 2026 12:30 PM GMT-08:00
+==================================<Page 4 - END>================================

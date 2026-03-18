@@ -1,0 +1,300 @@
+==================================<Page 1 - START>================================
+Standard Invoice
+                                                                                                                    GRAINGR
+Original tax invoice has been submitted electronically. This is a
+human readable representation (copy) of the original tax invoice.
+                                                                                                                  980513982226
+                                                                Invoice Number
+                                                                (Supplier Reference No.)
+                                                                Invoice Date                    Thursday 12 Feb 2026 5:29 AM GMT-07:00
+                                                                Amount Due                                          $70.52 USD
+    Contact Information                                                        Shipping Information
+    Supplier
+                                 Customer                                                              Ship To
+                                                                          Ship From
+    Grainger                      Frito-Lay Inc.
+                                                                          Grainger                      US-PL-FRANKFORT-IN-FLI-
+    100 Grainger Pkwy               c/o PEPSICO NASS                          701 GRAINGER WAY             CORE
+    Lake Forest                    ACCOUNTS PAYABLES                       MINOOKA                     KPST CORE PKG MAINT
+    IL
+                                 PO BOX 1800                              IL                           323 S COUNTY ROAD 300 W
+    Winst                        Winston Salem                              60447                        FRANKEORT
+    United States                  NC                                      United States                   IN
+                                 27105                                                                46041
+                                 United States                                                           United States
+                                                                                                      Phone: (765) 659-4570
+  Line Items
+                                                        PO No. : M413553892                                      PO Date : 12 Feb 2026
+  Line No.                                                                                                               Subtotal
+            PO Line No.          Type    Supplier Part No. /             Customer Part No.        Quantity            Unit Price
+                                       Description                                       (UOM)
+  1        1                 Material                                                                 $21.34 USD      $21.34 USD
+                                      22TV13 / SHCS,SS.1/4-20,3/4in                         1 / (EA)
+                                       L,PK100
+  Line No.   PO Line No.         Type    Supplier Part No. /             Customer Part No.        Quantity            Unit Price         Subtotal
+                                      Description                                      UOM)
+  2
+            2                 Material 22TV16 / SHCS.SS,1/4-20.1 1/4in                        1 / (EA)          $21.01 USD      $21.01 USD
+                                       L,PK100
+  Line No.                                                                                              Unit Price         Subtotal
+             PO Line No.          Type    Supplier Part No. /             Customer Part No.        Quantity
+                                      Description                                       (UOM)
+  3                           Material  1WY55 /                                                          $5.89 USD      $23.56 USD
+            3                                                                       4 / (EA)
+                                       LkNt,316,SStl,1/4-20,7/16x5/16in,50PK
+                                                                             Amount Summary
+                                                                             Line item subtotal                           $65.91 USD
+                                                                                                                     $70.52 USD
+                                                                             Gross amount
+                                                                                                                     $70.52 USD
+                                                                             Net amount
+                                                                                                                      $4.61 USD
+                                                                             Total tax amount
+                                                                             Total withholding tax amount
+                                                                                                                     $70.52 USD
+                                                                             Amount Due
+    Additional Information
+    InvoiceSourceDocument
+    PurchaseOrder
+    InvoiceSubmissionMethod
+    cXML
+    Billing Information                                                        Remittance Information
+    Bill To                                                                Remit To
+    Frito-Lay Inc.                                                            GRAINGER
+    c/o PEPSICO NASS                                                       DEPT. 804489391
+   ACCOUNTS PAYABLES                                                    PALATINE
+   PO BOX 1800                                                           IL
+   Winston Salem                                                           60038-0001
+   NC                                                                   United States
+   27105                                                                Address ID: US1_10359
+   United States                                                            Tax ID of Supplier
+   Address ID: US28                                                         36-1150280
+                                                                     Reference Documents
+                                                                      Original Supplier Order #: 1575926281
+==================================<Page 1 - END>================================
+==================================<Page 2 - START>================================
+ Appendix
+Line No.
+            PO Line No. Type
+                                                       Supplier Part No. / Description
+1         1
+                       Material                          22TV13 / SHCS,SS,1/4-20,3/4in L,PK100
+Additional Details:
+Supplier Part ID : 22TV13
+Supplier Part Auxiliary ID : WWG22TV13
+Line No.    PO Line No. Type
+                                                       Supplier Part No. / Description
+2         2         Material
+                                                       22TV16 / SHCS,SS,1/4-20,1 1/4in L,PK100
+Additional Details:
+Supplier Part ID : 22TV16
+Supplier Part Auxiliary ID : WWG22TV16
+Line No.    PO Line No. Type
+                                                       Supplier Part No. / Description
+3         3         Material
+                                                       1WY55 / LkNt,316,SStl,1/4-20,7/16x5/16in,50PK
+Additional Details:
+Supplier Part ID : 1WY55
+Supplier Part Auxiliary ID : WWG1WY55
+PDF generated on Friday 13 Feb 2026 5:13 AM GMT-08:00
+==================================<Page 2 - END>================================
+==================================<Page 3 - START>================================
+   Standard Invoice
+                                                                                                                      GRAINGR
+  Original tax invoice has been submitted electronically. This is a
+  human readable representation (copy) of the original tax invoice.
+                                                                                                                    980513982226
+                                                                   Invoice Number
+                                                                   (Supplier Reference No.)
+                                                                   Invoice Date                    Thursday 12 Feb 2026 5:29 AM GMT-07:00
+                                                                   Amount Due                                          $70.52 USD
+      Contact Information                                                        Shipping Information
+      Supplier
+                                    Customer                                                              Ship To
+                                                                            Ship From
+      Grainger                      Frito-Lay Inc.
+                                                                            Grainger                      US-PL-FRANKFORT-IN-FLI-
+      100 Grainger Pkwy               c/o PEPSICO NASS                          701 GRAINGER WAY             CORE
+       Lake Forest                    ACCOUNTS PAYABLES                       MINOOKA                     KPST CORE PKG MAINT
+       IL
+                                    PO BOX 1800                              IL                           323 S COUNTY ROAD 300 W
+      Winst                        Winston Salem                              60447                        FRANKEORT
+       United States                  NC                                      United States                   IN
+                                    27105                                                                46041
+                                    United States                                                           United States
+                                                                                                         Phone: (765) 659-4570
+    Line Items
+                                                           PO No. : M413553892                                      PO Date : 12 Feb 2026
+    Line No.                                                                                                               Subtotal
+               PO Line No.          Type    Supplier Part No. /             Customer Part No.        Quantity            Unit Price
+                                         Description                                       (UOM)
+     1        1                 Material                                                                 $21.34 USD      $21.34 USD
+                                         22TV13 / SHCS,SS.1/4-20,3/4in                         1 / (EA)
+                                         L,PK100
+     Line No.   PO Line No.         Type    Supplier Part No. /             Customer Part No.        Quantity            Unit Price         Subtotal
+                                         Description                                      UOM)
+    2
+               2                 Material 22TV16 / SHCS.SS,1/4-20.1 1/4in                        1 / (EA)          $21.01 USD      $21.01 USD
+                                         L,PK100
+     Line No.                                                                                              Unit Price         Subtotal
+               PO Line No.          Type    Supplier Part No. /             Customer Part No.        Quantity
+                                         Description                                       (UOM)
+     3                           Material  1WY55 /                                                          $5.89 USD      $23.56 USD
+               3                                                                       4 / (EA)
+                                         LkNt,316,SStl,1/4-20,7/16x5/16in,50PK
+                                                                               Amount Summary
+                                                                                Line item subtotal                           $65.91 USD
+                                                                                                                       $70.52 USD
+                                                                                Gross amount
+                                                                                                                       $70.52 USD
+                                                                                Net amount
+                                                                                                                        $4.61 USD
+                                                                                Total tax amount
+                                                                                Total withholding tax amount
+                                                                                                                        $70.52 USD
+                                                                                Amount Due
+       Additional Information
+       InvoiceSourceDocument
+      PurchaseOrder
+      InvoiceSubmissionMethod
+      cXML
+      Billing Information                                                        Remittance Information
+      Bill To                                                                Remit To
+      Frito-Lay Inc.                                                            GRAINGER
+      c/o PEPSICO NASS                                                       DEPT. 804489391
+      ACCOUNTS PAYABLES                                                    PALATINE
+      PO BOX 1800                                                           IL
+      Winston Salem                                                           60038-0001
+      NC                                                                   United States
+      27105                                                                Address ID: US1_10359
+      United States                                                            Tax ID of Supplier
+      Address ID: US28                                                         36-1150280
+                                                                        Reference Documents
+                                                                        Original Supplier Order #: 1575926281
+==================================<Page 3 - END>================================
+==================================<Page 4 - START>================================
+ Appendix
+Line No.
+            PO Line No. Type
+                                                       Supplier Part No. / Description
+1         1
+                       Material                          22TV13 / SHCS,SS,1/4-20,3/4in L,PK100
+Additional Details:
+Supplier Part ID : 22TV13
+Supplier Part Auxiliary ID : WWG22TV13
+Line No.    PO Line No. Type
+                                                       Supplier Part No. / Description
+2         2         Material
+                                                       22TV16 / SHCS,SS,1/4-20,1 1/4in L,PK100
+Additional Details:
+Supplier Part ID : 22TV16
+Supplier Part Auxiliary ID : WWG22TV16
+Line No.    PO Line No. Type
+                                                       Supplier Part No. / Description
+3         3         Material
+                                                       1WY55 / LkNt,316,SStl,1/4-20,7/16x5/16in,50PK
+Additional Details:
+Supplier Part ID : 1WY55
+Supplier Part Auxiliary ID : WWG1WY55
+PDF generated on Friday 13 Feb 2026 5:13 AM GMT-08:00
+==================================<Page 4 - END>================================
+==================================<Page 5 - START>================================
+   Standard Invoice
+                                                                                                                      GRAINGR
+  Original tax invoice has been submitted electronically. This is a
+  human readable representation (copy) of the original tax invoice.
+                                                                                                                    980513982226
+                                                                   Invoice Number
+                                                                   (Supplier Reference No.)
+                                                                   Invoice Date                    Thursday 12 Feb 2026 5:29 AM GMT-07:00
+                                                                   Amount Due                                          $70.52 USD
+      Contact Information                                                        Shipping Information
+      Supplier
+                                    Customer                                                              Ship To
+                                                                            Ship From
+      Grainger                      Frito-Lay Inc.
+                                                                            Grainger                      US-PL-FRANKFORT-IN-FLI-
+      100 Grainger Pkwy               c/o PEPSICO NASS                          701 GRAINGER WAY             CORE
+       Lake Forest                    ACCOUNTS PAYABLES                       MINOOKA                     KPST CORE PKG MAINT
+       IL
+                                    PO BOX 1800                              IL                           323 S COUNTY ROAD 300 W
+      Winst                        Winston Salem                              60447                        FRANKEORT
+       United States                  NC                                      United States                   IN
+                                    27105                                                                46041
+                                    United States                                                           United States
+                                                                                                         Phone: (765) 659-4570
+    Line Items
+                                                           PO No. : M413553892                                      PO Date : 12 Feb 2026
+    Line No.                                                                                                               Subtotal
+               PO Line No.          Type    Supplier Part No. /             Customer Part No.        Quantity            Unit Price
+                                         Description                                       (UOM)
+     1        1                 Material                                                                 $21.34 USD      $21.34 USD
+                                         22TV13 / SHCS,SS.1/4-20,3/4in                         1 / (EA)
+                                         L,PK100
+     Line No.   PO Line No.         Type    Supplier Part No. /             Customer Part No.        Quantity            Unit Price         Subtotal
+                                         Description                                      UOM)
+    2
+               2                 Material 22TV16 / SHCS.SS,1/4-20.1 1/4in                        1 / (EA)          $21.01 USD      $21.01 USD
+                                         L,PK100
+     Line No.                                                                                              Unit Price         Subtotal
+               PO Line No.          Type    Supplier Part No. /             Customer Part No.        Quantity
+                                         Description                                       (UOM)
+     3                           Material  1WY55 /                                                          $5.89 USD      $23.56 USD
+               3                                                                       4 / (EA)
+                                         LkNt,316,SStl,1/4-20,7/16x5/16in,50PK
+                                                                               Amount Summary
+                                                                                Line item subtotal                           $65.91 USD
+                                                                                                                       $70.52 USD
+                                                                                Gross amount
+                                                                                                                       $70.52 USD
+                                                                                Net amount
+                                                                                                                        $4.61 USD
+                                                                                Total tax amount
+                                                                                Total withholding tax amount
+                                                                                                                        $70.52 USD
+                                                                                Amount Due
+       Additional Information
+       InvoiceSourceDocument
+      PurchaseOrder
+      InvoiceSubmissionMethod
+      cXML
+      Billing Information                                                        Remittance Information
+      Bill To                                                                Remit To
+      Frito-Lay Inc.                                                            GRAINGER
+      c/o PEPSICO NASS                                                       DEPT. 804489391
+      ACCOUNTS PAYABLES                                                    PALATINE
+      PO BOX 1800                                                           IL
+      Winston Salem                                                           60038-0001
+      NC                                                                   United States
+      27105                                                                Address ID: US1_10359
+      United States                                                            Tax ID of Supplier
+      Address ID: US28                                                         36-1150280
+                                                                        Reference Documents
+                                                                        Original Supplier Order #: 1575926281
+==================================<Page 5 - END>================================
+==================================<Page 6 - START>================================
+ Appendix
+Line No.
+            PO Line No. Type
+                                                       Supplier Part No. / Description
+1         1
+                       Material                          22TV13 / SHCS,SS,1/4-20,3/4in L,PK100
+Additional Details:
+Supplier Part ID : 22TV13
+Supplier Part Auxiliary ID : WWG22TV13
+Line No.    PO Line No. Type
+                                                       Supplier Part No. / Description
+2         2         Material
+                                                       22TV16 / SHCS,SS,1/4-20,1 1/4in L,PK100
+Additional Details:
+Supplier Part ID : 22TV16
+Supplier Part Auxiliary ID : WWG22TV16
+Line No.    PO Line No. Type
+                                                       Supplier Part No. / Description
+3         3         Material
+                                                       1WY55 / LkNt,316,SStl,1/4-20,7/16x5/16in,50PK
+Additional Details:
+Supplier Part ID : 1WY55
+Supplier Part Auxiliary ID : WWG1WY55
+PDF generated on Friday 13 Feb 2026 5:13 AM GMT-08:00
+==================================<Page 6 - END>================================

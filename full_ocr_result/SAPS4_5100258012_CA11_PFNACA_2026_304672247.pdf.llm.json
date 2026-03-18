@@ -1,0 +1,89 @@
+{
+  "invoice_data": {
+    "invoice_number": "5404976157",
+    "invoice_date": "02-FEB-26",
+    "invoice_amount": null,
+    "invoice_currency": [
+      "CAD"
+    ],
+    "tax_amount": "29.40",
+    "po_number": [
+      "047073 15318317"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "UHAUL",
+    "vendor_address": "PO BOX 52128, Phoenix AZ 85072-2128",
+    "po_line_items": [
+      {
+        "description": "1 TRUCK (TT5077K) ODOM OUT: 76483 ODOM IN: 76617",
+        "quantity": 1.0,
+        "net_price": 558.0
+      },
+      {
+        "description": "ENVIRONMENTAL FEE",
+        "quantity": 1.0,
+        "net_price": 5.0
+      },
+      {
+        "description": "CLEANING",
+        "quantity": 1.0,
+        "net_price": 25.0
+      },
+      {
+        "description": "TAX",
+        "quantity": 1.0,
+        "net_price": 29.4
+      }
+    ],
+    "vat_amount": null,
+    "gl_account": null,
+    "bank_name": null,
+    "account_holder_name": null,
+    "banking_account_number": null,
+    "remit_to_address": null,
+    "bill_to_address": null,
+    "transaction_type": "debit"
+  },
+  "filename": "SAPS4_5100258012_CA11_PFNACA_2026_304672247.pdf",
+  "raw_response": {
+    "invoice_number": "5404976157",
+    "invoice_date": "02-FEB-26",
+    "invoice_amount": null,
+    "invoice_currency": [
+      "CAD"
+    ],
+    "tax_amount": "29.40",
+    "po_number": [
+      "047073 15318317"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "UHAUL",
+    "vendor_address": "PO BOX 52128, Phoenix AZ 85072-2128",
+    "po_line_items": [
+      {
+        "description": "1 TRUCK (TT5077K) ODOM OUT: 76483 ODOM IN: 76617",
+        "quantity": 1.0,
+        "net_price": 558.0
+      },
+      {
+        "description": "ENVIRONMENTAL FEE",
+        "quantity": 1.0,
+        "net_price": 5.0
+      },
+      {
+        "description": "CLEANING",
+        "quantity": 1.0,
+        "net_price": 25.0
+      },
+      {
+        "description": "TAX",
+        "quantity": 1.0,
+        "net_price": 29.4
+      }
+    ]
+  }
+}

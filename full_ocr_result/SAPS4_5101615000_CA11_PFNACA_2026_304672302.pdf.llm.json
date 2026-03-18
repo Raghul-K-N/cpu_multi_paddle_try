@@ -1,0 +1,71 @@
+{
+  "invoice_data": {
+    "invoice_number": "5311112008",
+    "invoice_date": "12/16/2025",
+    "invoice_amount": null,
+    "invoice_currency": [
+      "CAD"
+    ],
+    "tax_amount": null,
+    "po_number": [
+      "4504134155",
+      "4504265265"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "Smurfit Westrock Company",
+    "vendor_address": "PO BOX 11399, SUCCURSALE CENTRE-VILLE, MONTREAL, QUEBEC H3C 5H1, CANADA",
+    "po_line_items": [
+      {
+        "description": "30082033 - 42CT MULTIPACK 1.7 29 ECT B 10 PT SBS/K 4C + ANTI Cust Item #: 30082033 Our Order #: 634763-100-010",
+        "quantity": 1.0,
+        "net_price": 1377.98
+      },
+      {
+        "description": "MF337001",
+        "quantity": 14500.0,
+        "net_price": 1900.67
+      }
+    ],
+    "vat_amount": null,
+    "gl_account": null,
+    "bank_name": null,
+    "account_holder_name": null,
+    "banking_account_number": null,
+    "remit_to_address": null,
+    "bill_to_address": null,
+    "transaction_type": "debit"
+  },
+  "filename": "SAPS4_5101615000_CA11_PFNACA_2026_304672302.pdf",
+  "raw_response": {
+    "invoice_number": "5311112008",
+    "invoice_date": "12/16/2025",
+    "invoice_amount": null,
+    "invoice_currency": [
+      "CAD"
+    ],
+    "tax_amount": null,
+    "po_number": [
+      "4504134155",
+      "4504265265"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "Smurfit Westrock Company",
+    "vendor_address": "PO BOX 11399, SUCCURSALE CENTRE-VILLE, MONTREAL, QUEBEC H3C 5H1, CANADA",
+    "po_line_items": [
+      {
+        "description": "30082033 - 42CT MULTIPACK 1.7 29 ECT B 10 PT SBS/K 4C + ANTI Cust Item #: 30082033 Our Order #: 634763-100-010",
+        "quantity": 1.0,
+        "net_price": 1377.98
+      },
+      {
+        "description": "MF337001",
+        "quantity": 14500.0,
+        "net_price": 1900.67
+      }
+    ]
+  }
+}

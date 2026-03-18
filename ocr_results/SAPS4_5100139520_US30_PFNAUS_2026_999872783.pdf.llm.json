@@ -1,0 +1,119 @@
+{
+  "invoice_data": {
+    "invoice_number": "LAxN56080",
+    "invoice_date": "02/03/2026",
+    "invoice_amount": "550.63",
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": "9.38",
+    "po_number": [
+      "M413096455"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "L Transportation Inc",
+    "vendor_address": "P.O. Box 515574, 701 LEGACY DR, Los Angeles CA 90051-4586, LANO , TX , 75024 , USA",
+    "po_line_items": [
+      {
+        "description": "Service Call to Modesto for tire replacement.",
+        "quantity": 1.0,
+        "net_price": 115.0
+      },
+      {
+        "description": "Mileage Fee",
+        "quantity": 1.0,
+        "net_price": 28.0
+      },
+      {
+        "description": "Replace Tire LOR (Low Tread)",
+        "quantity": 0.5,
+        "net_price": 115.0
+      },
+      {
+        "description": "Tread Wear Charge:5 of 32nds @ $47.00",
+        "quantity": 5.0,
+        "net_price": 47.0
+      },
+      {
+        "description": "Miscellaneous Shop Supplies",
+        "quantity": 1.0,
+        "net_price": 5.75
+      },
+      {
+        "description": "Tire Casing",
+        "quantity": 1.0,
+        "net_price": 90.0
+      },
+      {
+        "description": "Tire Disposal Charge",
+        "quantity": 1.0,
+        "net_price": 10.0
+      }
+    ],
+    "vat_amount": null,
+    "gl_account": null,
+    "bank_name": null,
+    "account_holder_name": null,
+    "banking_account_number": null,
+    "remit_to_address": null,
+    "bill_to_address": null,
+    "transaction_type": "debit"
+  },
+  "filename": "SAPS4_5100139520_US30_PFNAUS_2026_999872783.pdf",
+  "raw_response": {
+    "invoice_number": "LAxN56080",
+    "invoice_date": "02/03/2026",
+    "invoice_amount": "550.63",
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": "9.38",
+    "po_number": [
+      "M413096455"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "L Transportation Inc",
+    "vendor_address": "P.O. Box 515574, 701 LEGACY DR, Los Angeles CA 90051-4586, LANO , TX , 75024 , USA",
+    "po_line_items": [
+      {
+        "description": "Service Call to Modesto for tire replacement.",
+        "quantity": 1.0,
+        "net_price": 115.0
+      },
+      {
+        "description": "Mileage Fee",
+        "quantity": 1.0,
+        "net_price": 28.0
+      },
+      {
+        "description": "Replace Tire LOR (Low Tread)",
+        "quantity": 0.5,
+        "net_price": 115.0
+      },
+      {
+        "description": "Tread Wear Charge:5 of 32nds @ $47.00",
+        "quantity": 5.0,
+        "net_price": 47.0
+      },
+      {
+        "description": "Miscellaneous Shop Supplies",
+        "quantity": 1.0,
+        "net_price": 5.75
+      },
+      {
+        "description": "Tire Casing",
+        "quantity": 1.0,
+        "net_price": 90.0
+      },
+      {
+        "description": "Tire Disposal Charge",
+        "quantity": 1.0,
+        "net_price": 10.0
+      }
+    ]
+  }
+}

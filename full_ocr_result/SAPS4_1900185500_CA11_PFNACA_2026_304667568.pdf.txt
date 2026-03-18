@@ -1,0 +1,239 @@
+==================================<Page 1 - START>================================
+  OpenText Workflow History
+  Vendor
+  W D POTATO LTD
+  RR 2
+  3644 10 SIDERD
+  BEETON ONLOG 1A0
+  CANADA
+  Invoice
+  Reference        IN0235111
+                                                              Document Date
+                                                                                01.12.2025
+  DP Document No.  39413372
+                                                              Net Amount
+                                                                               CAD         1,439.40
+  Comp. Code       CA11 PepsiCo Canada ULC (FLC)
+                                                              Tax Amount       CAD
+                                                                                                   0.00
+  Posting Date     13.02.2026
+                                                              Gross Amount
+                                                                                CAD         1,439.40
+  SAP Document No. 1900185500 2026
+                                          Pre-Process History
+   ACTIVITY
+                                                         USER       END TIME         DOCUMENT STATUS
+   Update status
+                                                         VRBLAOT_U  09.02.2026       Validation
+                                                         SR
+                                                                     12:56:38         Complete
+                                      Document Process History
+  ACTIVITY         PROCESS TYPE/BLOCK REASON
+                                                         USER        END TIME         DOCUMENT STATUS
+  BC Inbound
+                                                         VRBLAOT_U  09.02.2026       Document
+                                                         SR          12:55:21
+                                                                                       Registered
+  Workflow Start   Approval Required (NPo)
+                                                        Record to  09.02.2026       Indexed
+                                                         Report      12:56:38
+                                                        Batch
+                                                        Account
+                                                         Owner:
+    Invoice submitted for Approval
+                                                                     09.02.2026 12:56:39
+    Invoice Approved
+                                                        GEORGES     09.02.2026 14:47:24
+                                                        DION
+    Invoice Approved
+                                                        FABRIZZIO  09.02.2026 15:19:58
+                                                        CANTAGALL
+                                                        o
+ Approval
+                    Approval Required (NPO)             SAP_WFRT   09.02.2026        Approval
+ Workflow                                                          15:20:03
+                                                                                       Complete
+Business Rules
+                    Process Non-PO Invoice (NPO)       SAP_WFRT   09.02.2026        Approval
+Check in BG
+                                                                     15:20:04         Complete
+Post Non-PO      Process Non-PO Invoice (NPO)       VIGNESH    13.02.2026
+                                                                                       Approval
+Invoice
+                                                        RENGARAJ   17:18:25
+                                                                                       Complete
+Post Non-PO      Process Non-PO Invoice (NPO)
+                                                        VIGNESH    13.02.2026       Document
+Invoice                                               RENGARAJ
+                                                                     17:19:15          Created
+SAP Document                                          SAP_WFRT    13.02.2026
+                                                                                       Posted
+Check
+                                                                     17:19:23
+==================================<Page 1 - END>================================
+==================================<Page 2 - START>================================
+        PEPSICO
+     Instructions: When there is not an "Official" Invoice to request payment or PO is not required, complete the information on this form.
+1. You must fill in all of the fields below and the form must be accompanied with supporting documentation on separate tab(s).
+Fill in the Description field below with the payment type - for example: Donation / Taxes / Legal/ etc.
+ 3. Print Entire Workbook as ONE single PDF file prior to submission.
+                                         Non-PO Invoice
+                                    SAP Payment Request
+                                  Substitute Invoice Form
+  Vendor Name:                       WD Potato
+ Vendor Number:                    2003151895
+ Company Code:
+                                           CA11
+ Remit To Address :                3630 Sideroad 10, Beeton, Ontario, L0G1A0
+Transaction type:                   Invoice
+Invoice Date:                        12/1/2025
+Invoice #:                             IN0235111
+Purchase Order #
+                                           $1,439.40
+Payment GROSS Amount:
+Tax Amount:
+Payment NET Amount:           $1,439.40
+                                          CND
+Currency
+Header Text:
+Requestor Name:                  Georges Dion
+Requestor email                    georges.dion@pepsico.com
+Date Requested:                    12/30/2025
+Description:                         Kentville Mangement
+Cost Center (optional - use Tab 2 if multiple):      2049100201
+                                          660028
+GL Account (REQUIRED - use Tab 2 if multiple):
+WBS Element (optional - use Tab 2 if multiple):
+==================================<Page 2 - END>================================
+==================================<Page 3 - START>================================
+                                                                                      INVOICE #        IN0235111
+                              W.D. POTATO LIMITED
+   WD  3644 SI0ER0A0 10.
+                              BEETON, ONTARIO. LOG 1AO                               INVOICE DATE      Dec 1, 2025
+                              TEL: (905) 729-2263
+    POTATO LIMITED   FAX: (905) 729-4136
+                                                                                                      Dec 1, 2025
+                                                                          1001 BISHOP STREET
+       5    PEPSICO FOODS CANADA
+            1001 BISHOP STREET                                      CAMBRIDGE, ONTARIO
+                                                                          N3H 4V8
+            CAMBRIDGE, ONTARIO
+            N3H 4V8
+                                                                    1
+                                           TERMS                         st #
+      Customer No.
+                                                                                                  MINIST EXEMPTION
+                                       NET 30 DAYS
+           2001                                                         R 105605836
+                                                                                                     AMOUNT
+  Source                      ITEM DESCRIPTION                   QTY. SHIPPED      PRICE
+                                                                                                         1,439.40
+ 9910H        MINIST EXEMPTION PERMITS                                    60.00          23.99
+"The perishable agricultural commodities listed on this invoice are sold subject to the statutory trust authorized by section S(c) of
+the Perishabale Agricultural Commodities Act. 193o (7 U.5.c. 499e(c)]. The seller of these commodities retains a trust claim over
+these commodities, all inventories of food or other products derived from these commodities, and any receivables or proceeds
+from the sale of these commodities until full payment is received."
+                                                                                           HST          TOTAL
+==================================<Page 3 - END>================================
+==================================<Page 4 - START>================================
+                  Government of      Gouvernement du                              Protectd (when complete) PROTÉGE (une fois remplie)
+                  Canada         Canada
+                                                        INVOICE / FACTURE
+                  Canadian Food     Agence canadienne
+                  Inspection Agency
+                                 d'inspection des aliments                           Terms of Sale / Conditions de vente              Page 1 of/de 1
+                                                              Note: For charge acount customers, payment is due as specified on the monthly
+                                                              statement that will Identify this invoice number.
+                                                              NoePour les clients à qu on a accordé un crédit, le paiement sera dú comme il est déterminé sur
+                                                                                             Invoice No.
+        Originating Office Address /Adresse du bureau dorigine                   Customer Reference Number             N° de facture
+                                                                Numéro de référence du client
+                                                                         2025-136554                  4-6192594
+         FOOD (ATLANTIC OPS)
+          690 UNIVERSITY AVENUE                               Customs Transaction Number             Invoice Date
+                                                                                             Date de Facture
+          CHARLOTTETOWN, PE                                  Numéro de transaction des douanes
+          C1E 1E3   00-06-9010                                                                        2025-12-01
+                                                                                              Single Business Number
+                                                                Vendor's PST Registration Number          Numéro d'entreprise unique
+                                                                N° d'enregistrement de la TVP du vendeur
+                                                                     Québec: 10-2008-4452
+                                                                       (Others/Autres: n/a - s/o)
+         Province of Service or Entry                                    Vendor's HST/GST Registration Number
+                                                                Numéro d'enregistrement de la TVH/TPS du vendeur
+         Province de service ou entrée
+                                                                                   121 491 807 RT0001
+                       NOVA SCOTIA (0010000001)
+                                                                                                        Quantity
+         Commodity
+                          Commodity Service Description                  Service Details          Cost/Unit   Unit    Issued    Cost
+           Code
+                           Description de la marchandise                 Détails du service         Coût/Unité  Unité   Quantité    Coût
+           de la                                                                                         livrée
+         marchandise
+                   FFV MINIST EXEMPTION- PERMITS                 ME application 2025-136554                $23.9900  EA       60.000  $1,439:40
+           01845
+                    Method of payment / Mode de paiement                        Total Non-Taxable Sales
+                                                                    Total des ventes non taxables    A                 $1,439.40
+         Receipt of payment in amount shown is hereby acknowledged
+         Accusé de réception du paiement indiqué
+                                                                    Total Taxable Sales
+                                                                                            B                     $0.00
+            Account"    Account No. / No. de compte:           10007070         Total des ventes taxables
+            CCompte
+            Cash                             Payable to:               HST or GST                                     $0.00
+            Comptant                          Recelver General for Canada   TVH Ou TPS
+                                              Payable au:
+            Cheque                            Receveur général du Canada
+            Chèque                                                   PST                    o
+                                                                    TVP                                           $0.00
+            Payable at Customs
+            Payable aux douanes .
+                                                                    Total of Invoice
+                                                                                            A+B+C+D            $1,439.40
+            Credit Card                                                Total de la facture
+            Carte de crédit
+                                                                    Amount Received
+            Credit Card Number/Numéro de la carte de crédit  Expiry Date/Date d'expiration                            E
+                                                                    Montant reçu                                     $0.00
+                                                                    Amount Owing             A+B+C+D-E
+            Card Holder Name per Card / Titulaire de la carte
+                                                                    Montant à payer                                $1,439.40
+                                                                                        All payments must be made in Canadian dollars
+                                                                                     Tous paiements doivent être fait en dollars canadien
+           Signature of Authorized Card User
+                                                Date
+           Signature de l'utilisateur de la carte
+                                               Telephone Number
+          Client contact name
+         Nom de la personne-ressource du client            Numéro de téléphone         Remittance Address:
+                                                                     Canadian Food Inspection Agency
+                                                                     National Centre for Accounts Receivable
+                                               Service Date/Date de service    P.O. Box 6199
+          Prepared by/Préparé par                                            1081 Main Street, 4th floor, Moncton, N.B.,
+          NATALIA LOSHCHILOVA                     2025-12-01        E1C 8R2   1-888-677-2342
+                                                                     arcentre@inspection.gc.ca
+                                                                     Adresse de remise:
+          Payer's Name and Address / Nom et adresse du souscripteur                     Agence canadienne d'inspection des aliments
+          W.D. POTATO LIMITED                                            Centre national des comptes débiteurs
+                                                                     C.P.6199
+          3644 SIDEROAD 10
+                                                                     1081 rue Main, 4e étage, Moncton (N.B.)
+         BEETON, ONTARIO                                              E1C 8R2
+          CANADA, L0G1A0                                                        1-888-677-2342
+                                                                     arcentre@inspection.gc.ca
+         CFIA / ACIA 0527 (1999/11)                                                                                Canadä
+==================================<Page 4 - END>================================
+==================================<Page 5 - START>================================
+         From: "Dion, Georges {PEP}" <Georges.Dion@pepsico.com>
+          Sent: Fri, 6 Feb 2026 22:56:59 (UTC)
+          To: FLCInvoiceSubmission@pepsico.com
+          Subject: Invoices
+         Georges Dion
+         Proc Sr Manager • PFC Div Ops Field buyer
+         PepsiCo
+          georges.dion@pepsico.com418.572.7202
+          pepsico.com
+               pepsico
+                 Food Drinks. Smies.
+==================================<Page 5 - END>================================

@@ -1,0 +1,79 @@
+{
+  "invoice_data": {
+    "invoice_number": "18P122023",
+    "invoice_date": "2/5/2026",
+    "invoice_amount": "980.45",
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": "45.00",
+    "po_number": [
+      "23569792"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "Nextran Truck Center - Madison",
+    "vendor_address": "13880 Alabama Hwy 20, Madison, AL 35726",
+    "po_line_items": [
+      {
+        "description": "GLASS",
+        "quantity": 1.0,
+        "net_price": 102.27
+      },
+      {
+        "description": "GLASS SPOT MIRROR",
+        "quantity": 1.0,
+        "net_price": 87.24
+      },
+      {
+        "description": "LEVEL SENSOR,DEF",
+        "quantity": 1.0,
+        "net_price": 562.26
+      }
+    ],
+    "vat_amount": null,
+    "gl_account": null,
+    "bank_name": null,
+    "account_holder_name": null,
+    "banking_account_number": null,
+    "remit_to_address": null,
+    "bill_to_address": null,
+    "transaction_type": "debit"
+  },
+  "filename": "SAPS4_5100592507_US30_PFNAUS_2026_999935541.pdf",
+  "raw_response": {
+    "invoice_number": "18P122023",
+    "invoice_date": "2/5/2026",
+    "invoice_amount": "980.45",
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": "45.00",
+    "po_number": [
+      "23569792"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "Nextran Truck Center - Madison",
+    "vendor_address": "13880 Alabama Hwy 20, Madison, AL 35726",
+    "po_line_items": [
+      {
+        "description": "GLASS",
+        "quantity": 1.0,
+        "net_price": 102.27
+      },
+      {
+        "description": "GLASS SPOT MIRROR",
+        "quantity": 1.0,
+        "net_price": 87.24
+      },
+      {
+        "description": "LEVEL SENSOR,DEF",
+        "quantity": 1.0,
+        "net_price": 562.26
+      }
+    ]
+  }
+}

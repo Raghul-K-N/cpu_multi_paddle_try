@@ -1,0 +1,79 @@
+{
+  "invoice_data": {
+    "invoice_number": "14483-19408",
+    "invoice_date": "Sep 11, 2025",
+    "invoice_amount": "11953.81",
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": "515.48",
+    "po_number": [
+      "M412545306"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": "5580.63",
+    "cost_center": null,
+    "vendor_name": "Project Services Group, Inc.",
+    "vendor_address": "2040 Century Center Blvd. Suite 10, Irving, TX 75062",
+    "po_line_items": [
+      {
+        "description": "Site Audit",
+        "quantity": 0.1,
+        "net_price": 994.0
+      },
+      {
+        "description": "Lee Kettle 75 Gal",
+        "quantity": 0.1,
+        "net_price": 48637.0
+      },
+      {
+        "description": "Freight",
+        "quantity": 1.0,
+        "net_price": 5580.63
+      }
+    ],
+    "vat_amount": null,
+    "gl_account": null,
+    "bank_name": null,
+    "account_holder_name": null,
+    "banking_account_number": null,
+    "remit_to_address": null,
+    "bill_to_address": null,
+    "transaction_type": "debit"
+  },
+  "filename": "SAPS4_5100105012_US28_PFNAUS_2026_999875667.pdf",
+  "raw_response": {
+    "invoice_number": "14483-19408",
+    "invoice_date": "Sep 11, 2025",
+    "invoice_amount": "11953.81",
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": "515.48",
+    "po_number": [
+      "M412545306"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": "5580.63",
+    "cost_center": null,
+    "vendor_name": "Project Services Group, Inc.",
+    "vendor_address": "2040 Century Center Blvd. Suite 10, Irving, TX 75062",
+    "po_line_items": [
+      {
+        "description": "Site Audit",
+        "quantity": 0.1,
+        "net_price": 994.0
+      },
+      {
+        "description": "Lee Kettle 75 Gal",
+        "quantity": 0.1,
+        "net_price": 48637.0
+      },
+      {
+        "description": "Freight",
+        "quantity": 1.0,
+        "net_price": 5580.63
+      }
+    ]
+  }
+}

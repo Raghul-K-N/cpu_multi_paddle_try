@@ -1,0 +1,43 @@
+{
+  "invoice_data": {
+    "invoice_number": "4248733156",
+    "invoice_date": "11/04/2025",
+    "invoice_amount": "524.11",
+    "invoice_currency": [
+      "CAD"
+    ],
+    "tax_amount": null,
+    "po_number": null,
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "CINTAS CANADA LIMITED",
+    "vendor_address": "TORONTO, ON M5W 0J2",
+    "po_line_items": null,
+    "vat_amount": null,
+    "gl_account": null,
+    "bank_name": null,
+    "account_holder_name": null,
+    "banking_account_number": null,
+    "remit_to_address": null,
+    "bill_to_address": null,
+    "transaction_type": "debit"
+  },
+  "filename": "SAPS4_5100044012_CA02_PBNACA_2026_328638254.pdf",
+  "raw_response": {
+    "invoice_number": "4248733156",
+    "invoice_date": "11/04/2025",
+    "invoice_amount": "524.11",
+    "invoice_currency": [
+      "CAD"
+    ],
+    "tax_amount": null,
+    "po_number": null,
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "CINTAS CANADA LIMITED",
+    "vendor_address": "TORONTO, ON M5W 0J2",
+    "po_line_items": null
+  }
+}

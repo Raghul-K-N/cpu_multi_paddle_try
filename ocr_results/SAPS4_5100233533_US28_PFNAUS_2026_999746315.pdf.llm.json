@@ -1,0 +1,59 @@
+{
+  "invoice_data": {
+    "invoice_number": "5323749105",
+    "invoice_date": "Friday 13 Feb 2026 12:00 AM GMT-08:00",
+    "invoice_amount": "5,270.40",
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": null,
+    "po_number": [
+      "M413549206"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "VERITIV OPERATING COMPANY",
+    "vendor_address": "ONE EAST UWCHLAN AVENUE. SUITE #201 EXTON PA 19341, 724019170, UNITED STATES, Address ID: 2019",
+    "po_line_items": [
+      {
+        "description": "10036273 / 18198 BOX SEALING TAPE 72MMX914M 1.9 MIL 3M 371 SCOTCH HOT MELT IND CLR 4/CS",
+        "quantity": 192.0,
+        "net_price": 27.45
+      }
+    ],
+    "vat_amount": null,
+    "gl_account": null,
+    "bank_name": null,
+    "account_holder_name": null,
+    "banking_account_number": null,
+    "remit_to_address": null,
+    "bill_to_address": null,
+    "transaction_type": "debit"
+  },
+  "filename": "SAPS4_5100233533_US28_PFNAUS_2026_999746315.pdf",
+  "raw_response": {
+    "invoice_number": "5323749105",
+    "invoice_date": "Friday 13 Feb 2026 12:00 AM GMT-08:00",
+    "invoice_amount": "5,270.40",
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": null,
+    "po_number": [
+      "M413549206"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "VERITIV OPERATING COMPANY",
+    "vendor_address": "ONE EAST UWCHLAN AVENUE. SUITE #201 EXTON PA 19341, 724019170, UNITED STATES, Address ID: 2019",
+    "po_line_items": [
+      {
+        "description": "10036273 / 18198 BOX SEALING TAPE 72MMX914M 1.9 MIL 3M 371 SCOTCH HOT MELT IND CLR 4/CS",
+        "quantity": 192.0,
+        "net_price": 27.45
+      }
+    ]
+  }
+}

@@ -1,0 +1,59 @@
+{
+  "invoice_data": {
+    "invoice_number": "I202148386",
+    "invoice_date": "Monday 9 Feb. 2026 12:00 p.m. GMT-05:00",
+    "invoice_amount": "169.50",
+    "invoice_currency": [
+      "CAD"
+    ],
+    "tax_amount": "19.50",
+    "po_number": [
+      "M413538615"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "DATA Communications Management",
+    "vendor_address": "9195 Torbram Rd, Brampton, ON L6S 6H2, Canada, Address ID: CA11",
+    "po_line_items": [
+      {
+        "description": "FLC 2102 / POTATO RECEIVING CARDS - DCM QTY :2, 000",
+        "quantity": 1.0,
+        "net_price": 150.0
+      }
+    ],
+    "vat_amount": null,
+    "gl_account": null,
+    "bank_name": null,
+    "account_holder_name": null,
+    "banking_account_number": null,
+    "remit_to_address": null,
+    "bill_to_address": null,
+    "transaction_type": "debit"
+  },
+  "filename": "SAPS4_5101593002_CA11_PFNACA_2026_304654732.pdf",
+  "raw_response": {
+    "invoice_number": "I202148386",
+    "invoice_date": "Monday 9 Feb. 2026 12:00 p.m. GMT-05:00",
+    "invoice_amount": "169.50",
+    "invoice_currency": [
+      "CAD"
+    ],
+    "tax_amount": "19.50",
+    "po_number": [
+      "M413538615"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "DATA Communications Management",
+    "vendor_address": "9195 Torbram Rd, Brampton, ON L6S 6H2, Canada, Address ID: CA11",
+    "po_line_items": [
+      {
+        "description": "FLC 2102 / POTATO RECEIVING CARDS - DCM QTY :2, 000",
+        "quantity": 1.0,
+        "net_price": 150.0
+      }
+    ]
+  }
+}

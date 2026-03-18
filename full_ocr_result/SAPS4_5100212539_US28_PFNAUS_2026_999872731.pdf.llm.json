@@ -1,0 +1,79 @@
+{
+  "invoice_data": {
+    "invoice_number": "980515277526",
+    "invoice_date": "Thursday 12 Feb 2026 5:41 AM GMT-07:00",
+    "invoice_amount": "375.02",
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": null,
+    "po_number": [
+      "M413552493"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "GRAINGER",
+    "vendor_address": "100 Grainger Pkwy, Lake Forest, IL 27105, United States",
+    "po_line_items": [
+      {
+        "description": "4KN42 / Trash Bags, Clr, PK200",
+        "quantity": 3.0,
+        "net_price": 26.63
+      },
+      {
+        "description": "19RC65 / Foam Hand Soap,1250mL, Unscented,PK6",
+        "quantity": 2.0,
+        "net_price": 61.26
+      },
+      {
+        "description": "52RW77 / Paper Towel Roll,1150,White,26490,PK6",
+        "quantity": 2.0,
+        "net_price": 73.63
+      }
+    ],
+    "vat_amount": null,
+    "gl_account": null,
+    "bank_name": null,
+    "account_holder_name": null,
+    "banking_account_number": null,
+    "remit_to_address": null,
+    "bill_to_address": null,
+    "transaction_type": "debit"
+  },
+  "filename": "SAPS4_5100212539_US28_PFNAUS_2026_999872731.pdf",
+  "raw_response": {
+    "invoice_number": "980515277526",
+    "invoice_date": "Thursday 12 Feb 2026 5:41 AM GMT-07:00",
+    "invoice_amount": "375.02",
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": null,
+    "po_number": [
+      "M413552493"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "GRAINGER",
+    "vendor_address": "100 Grainger Pkwy, Lake Forest, IL 27105, United States",
+    "po_line_items": [
+      {
+        "description": "4KN42 / Trash Bags, Clr, PK200",
+        "quantity": 3.0,
+        "net_price": 26.63
+      },
+      {
+        "description": "19RC65 / Foam Hand Soap,1250mL, Unscented,PK6",
+        "quantity": 2.0,
+        "net_price": 61.26
+      },
+      {
+        "description": "52RW77 / Paper Towel Roll,1150,White,26490,PK6",
+        "quantity": 2.0,
+        "net_price": 73.63
+      }
+    ]
+  }
+}

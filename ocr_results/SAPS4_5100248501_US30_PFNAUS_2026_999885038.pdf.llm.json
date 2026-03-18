@@ -1,0 +1,69 @@
+{
+  "invoice_data": {
+    "invoice_number": "F332423401",
+    "invoice_date": "9/30/2025",
+    "invoice_amount": "-4871.26",
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": "0.00",
+    "po_number": [
+      "23482667"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": "0.00",
+    "cost_center": null,
+    "vendor_name": "Affinity Truck Center - Bakersfield (P798)",
+    "vendor_address": "8730 Golden State Highway, Bakersfield, CA 93308",
+    "po_line_items": [
+      {
+        "description": "INJECTOR",
+        "quantity": 6.0,
+        "net_price": 375.0
+      },
+      {
+        "description": "INJECTOR",
+        "quantity": 6.0,
+        "net_price": 2250.0
+      }
+    ],
+    "vat_amount": null,
+    "gl_account": null,
+    "bank_name": null,
+    "account_holder_name": null,
+    "banking_account_number": null,
+    "remit_to_address": null,
+    "bill_to_address": null,
+    "transaction_type": "credit"
+  },
+  "filename": "SAPS4_5100248501_US30_PFNAUS_2026_999885038.pdf",
+  "raw_response": {
+    "invoice_number": "F332423401",
+    "invoice_date": "9/30/2025",
+    "invoice_amount": "-4871.26",
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": "0.00",
+    "po_number": [
+      "23482667"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": "0.00",
+    "cost_center": null,
+    "vendor_name": "Affinity Truck Center - Bakersfield (P798)",
+    "vendor_address": "8730 Golden State Highway, Bakersfield, CA 93308",
+    "po_line_items": [
+      {
+        "description": "INJECTOR",
+        "quantity": 6.0,
+        "net_price": 375.0
+      },
+      {
+        "description": "INJECTOR",
+        "quantity": 6.0,
+        "net_price": 2250.0
+      }
+    ]
+  }
+}

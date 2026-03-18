@@ -1,0 +1,69 @@
+{
+  "invoice_data": {
+    "invoice_number": "39027",
+    "invoice_date": "Friday 6 Feb. 2026 12:00 p.m. GMT-05:00",
+    "invoice_amount": "........7,460.26",
+    "invoice_currency": [
+      "CAD"
+    ],
+    "tax_amount": "858.26",
+    "po_number": [
+      "M413318661"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "STUMPF FIRE PROTECTION LTD",
+    "vendor_address": "167 Lexington Ct, Unit 1, Waterloo, ON N2J 4R9, Canada, Address ID: CA11",
+    "po_line_items": [
+      {
+        "description": "Material Not Available / 24-0042 - High temperature sprinkler heads at DIP area as per proposal No. QAM-25-3300 dated August 18, 2025.",
+        "quantity": 4775.0,
+        "net_price": 4775.0
+      },
+      {
+        "description": "Material Not Available / 24-0042 - Sprinkler installation under catwalk as per Work Order 17006 dated November 18, 2025.",
+        "quantity": 1827.0,
+        "net_price": 1827.0
+      }
+    ],
+    "vat_amount": null,
+    "gl_account": null,
+    "bank_name": null,
+    "account_holder_name": null,
+    "banking_account_number": null,
+    "remit_to_address": null,
+    "bill_to_address": null,
+    "transaction_type": "debit"
+  },
+  "filename": "SAPS4_5101593001_CA11_PFNACA_2026_304654731.pdf",
+  "raw_response": {
+    "invoice_number": "39027",
+    "invoice_date": "Friday 6 Feb. 2026 12:00 p.m. GMT-05:00",
+    "invoice_amount": "../../../../7,460.26 CAD",
+    "invoice_currency": [
+      "CAD"
+    ],
+    "tax_amount": "858.26",
+    "po_number": [
+      "M413318661"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "STUMPF FIRE PROTECTION LTD",
+    "vendor_address": "167 Lexington Ct, Unit 1, Waterloo, ON N2J 4R9, Canada, Address ID: CA11",
+    "po_line_items": [
+      {
+        "description": "Material Not Available / 24-0042 - High temperature sprinkler heads at DIP area as per proposal No. QAM-25-3300 dated August 18, 2025.",
+        "quantity": 4775.0,
+        "net_price": 4775.0
+      },
+      {
+        "description": "Material Not Available / 24-0042 - Sprinkler installation under catwalk as per Work Order 17006 dated November 18, 2025.",
+        "quantity": 1827.0,
+        "net_price": 1827.0
+      }
+    ]
+  }
+}

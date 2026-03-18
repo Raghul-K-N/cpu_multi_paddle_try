@@ -1,0 +1,141 @@
+==================================<Page 1 - START>================================
+  OpenText Workflow History
+  Vendor
+  ENWAVE CORPORATION
+  744 HASTINGS ST W
+  VANCOUVER BCV6C 1A5
+   CANADA
+   Credit Memo
+   Reference        5825CM
+                                                              Document Date    31.03.2025
+   DP Document No.  39587621
+                                                              Net Amount       USD        12,845.19
+   Comp. Code       US28 Frito-Lay, Inc.
+                                                              Tax Amount       USD               0.00
+  Posting Date     13.02.2026
+                                                              Gross Amount     USD         12,845.19
+  SAP Document No. 1700047000 2026
+                                          Pre-Process History
+    ACTIVITY
+                                                         USER       END TIME         DOCUMENT STATUS
+    Update status
+                                                         VRBLAOT_U  13.02.2026       Validation
+                                                         SR          11:31:22         Complete
+                                      Document Process History
+   ACTIVITY         PROCESS_TYPE/BLOCK REASON          USER        END TIME         DOCUMENT STATUS
+   BC Inbound                                           VRBLAOT_U  13.02.2026       Document
+                                                         SR          11:31:22         Registered
+   Workflow Start   Missing Invoice Date (NPO)
+                                                         Record to  13.02.2026       Created
+                                                                     11:32:02
+                                                         Report
+                                                         Batch
+                                                         Account
+                                                         Owner:
+   Bypassed Rule    Missing Invoice Date (NPo)          NAVINKUMA  13.02.2026
+                                                                                       Created
+   -Invoice Older
+                                                         RR        11:48:28
+   than Allowe
+  Comment:
+  ************************************************************************
+  Changed By:09336939
+  Changed On:  02/13/2026 11:48:28
+ Process          Missing Invoice Date (NPo)          NAVINKUMA
+                                                                     13.02.2026        Created
+Re-Routing
+                                                        RR        11:49:25
+Comment:
+Post Non-PO
+                   Process Non-Po Invoice (NPo)        NAVINKUMA  13.02.2026
+Invoice                                                                              Document
+                                                        RR         11:50:04          Created
+Comment:
+==================================<Page 1 - END>================================
+==================================<Page 2 - START>================================
+OpenText Workflow History
+Credit Memo
+Vendor            ENWAVE CORPORATION VANCOUVER
+Reference        5825CM
+                                                       Gross Amount     USD      12,845.19
+                             Document Process History - Continuation
+ ACTIVITY          PROCESS TYPE/BLOCK REASON          USER        END
+                                                                         TIME          DOCUMENT STATUS
+Changed By:   NAVINKUMAR R (09336939)
+Changed On:
+                02/13/2026 11:48:47
+Credit raised for doc 30187114
+RITM7845689
+SAP Document                                           SAP_WFRT    13.02.2026        Blocked
+Check                                                              11:50:11
+==================================<Page 2 - END>================================
+==================================<Page 3 - START>================================
+            PEPSICO
+       Global Business Service
+             InstuctionsWhen there isotan "Official"Invoice to request payment, completethe information on this om.
+You must ilin alof the fields below and the form must be accompanied with supporting documentation
+The form can be used for the following invoice/payment type activity:
+                                      Non-PO Invoice
+                                SAP Payment Request
+                            Substitute for Invoice Form
+Vendor Name:                           Enwave Corporation
+Vendor Number:
+                                                                  2000022184
+Company Code:
+                                           US28
+Legal Entity Description:                Frito-Lay, Inc.
+Remit To Address :
+                                           Unit 1 1668 Derwent Way Delta BC V3M 6R9
+(Must match the address in the AP system)
+ Special Handling needed:
+ Attn:
+  Address:
+  Overnight delivery required:
+  (if yes provide account # or CC below)
+  (Circle) FedEx or UPS, & Provide Number:      FedEx / UPS       #:
+  Cost Center (If No FedEx/UPS Number):
+  Transaction type:
+                                           *choose only 1 option - Invoice or Credit Memo from the dropdown
+  Invoice Date:                           31/03/2025
+                                           5825
+  Invoice #:
+                                           *Limited to 16 characters
+  Purchase Order #
+  (not required if non-PO)                    (not required if non-PO)
+  Payment GROsS Amount:              $12,845.19
+                                           $0.00
+  Tax Amount (if applicable):
+  Payment NET Amount:                  $12,845.19
+  Currency                              USD
+   Header Text:
+   Requestor Name:                      Lars Strandberg
+   Requestor email                       Lars.strandberg1@pepsico.com
+   Date Requested:                       Terms
+   Submit to nassapinvoicesubmission@pepsico.com
+   1 PDF with Form and supporting documents
+==================================<Page 3 - END>================================
+==================================<Page 4 - START>================================
+        From: SPA - PepsiCo Nass AP Invoice Submission <nassapInvoiceSubmission@pepsico.com>
+        Sent: Thu, 24 Apr 2025 15:55:21 (UTC)
+        To: svcimagingspaboxprod@pepsico.com
+        Subject: Forwarded : IVOICE 5825
+        Importance: Low
+        Original Number of Attachments : 2
+        Original Attachment Names: Invoice_5825_from_EnWave_Corporation (3).pdf; S4 NON-PO
+        Enwave 5825 (6).pdf;
+        Number of Removed: 0
+        Removed Attachment Names: NA
+         Number of forwarded PDF's: 2
+         Number of forwarded not PDF files: 0
+         ---- Original email:
+         From: Fernanda.Diaz@pepsico.com
+         Sent: Thursday, April 24, 2025 3:54:44 PM
+         To: NASSAPInvoiceSubmission@pepsico.com
+         Subject: IVOICE 5825
+         Good afternoon,
+         I hope this message finds you well.
+         Please find attached the INvoiCE for your review. I would greatly appreciate your assistance in
+          continuing with the process.
+         Thank you for your support.
+         Best regard
+==================================<Page 4 - END>================================

@@ -1,0 +1,79 @@
+{
+  "invoice_data": {
+    "invoice_number": "U1571057",
+    "invoice_date": "10/07/25",
+    "invoice_amount": "251.04",
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": "229.59",
+    "po_number": [
+      "4501377049"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "PROPANE CENTRAL",
+    "vendor_address": "PO BOX 4361, LISLE, IL 60532",
+    "po_line_items": [
+      {
+        "description": "33.5#CYLINDEREXCHANGE",
+        "quantity": 8.0,
+        "net_price": 26.5
+      },
+      {
+        "description": "FUEL SURCHARGE",
+        "quantity": 1.0,
+        "net_price": 7.6
+      },
+      {
+        "description": "HHC",
+        "quantity": 1.0,
+        "net_price": 9.99
+      }
+    ],
+    "vat_amount": null,
+    "gl_account": null,
+    "bank_name": null,
+    "account_holder_name": null,
+    "banking_account_number": null,
+    "remit_to_address": null,
+    "bill_to_address": null,
+    "transaction_type": "debit"
+  },
+  "filename": "SAPS4_5101997000_US28_PFNAUS_2026_999875669.pdf",
+  "raw_response": {
+    "invoice_number": "U1571057",
+    "invoice_date": "10/07/25",
+    "invoice_amount": "251.04",
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": "229.59",
+    "po_number": [
+      "4501377049"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "PROPANE CENTRAL",
+    "vendor_address": "PO BOX 4361, LISLE, IL 60532",
+    "po_line_items": [
+      {
+        "description": "33.5#CYLINDEREXCHANGE",
+        "quantity": 8.0,
+        "net_price": 26.5
+      },
+      {
+        "description": "FUEL SURCHARGE",
+        "quantity": 1.0,
+        "net_price": 7.6
+      },
+      {
+        "description": "HHC",
+        "quantity": 1.0,
+        "net_price": 9.99
+      }
+    ]
+  }
+}

@@ -1,0 +1,59 @@
+{
+  "invoice_data": {
+    "invoice_number": "37799",
+    "invoice_date": "Friday 13 Feb 2026 11:20 AM GMT-06:00",
+    "invoice_amount": null,
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": null,
+    "po_number": [
+      "M413527208"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "Dillon Equipment Company",
+    "vendor_address": "4110 Cedar Lake Dr. #201, Dallas, TX 75227, United States, Address ID: US29",
+    "po_line_items": [
+      {
+        "description": "MBLCB86GX36 / DILLON HARPER ROUTE TRUCK",
+        "quantity": 1.0,
+        "net_price": 410.0
+      }
+    ],
+    "vat_amount": null,
+    "gl_account": null,
+    "bank_name": null,
+    "account_holder_name": null,
+    "banking_account_number": null,
+    "remit_to_address": null,
+    "bill_to_address": null,
+    "transaction_type": "debit"
+  },
+  "filename": "SAPS4_5100047578_US29_PFNAUS_2026_999872864.pdf",
+  "raw_response": {
+    "invoice_number": "37799",
+    "invoice_date": "Friday 13 Feb 2026 11:20 AM GMT-06:00",
+    "invoice_amount": null,
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": null,
+    "po_number": [
+      "M413527208"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "Dillon Equipment Company",
+    "vendor_address": "4110 Cedar Lake Dr. #201, Dallas, TX 75227, United States, Address ID: US29",
+    "po_line_items": [
+      {
+        "description": "MBLCB86GX36 / DILLON HARPER ROUTE TRUCK",
+        "quantity": 1.0,
+        "net_price": 410.0
+      }
+    ]
+  }
+}

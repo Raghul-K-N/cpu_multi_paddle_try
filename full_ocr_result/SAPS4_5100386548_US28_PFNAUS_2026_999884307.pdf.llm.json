@@ -1,0 +1,47 @@
+{
+  "invoice_data": {
+    "invoice_number": "CHR DAY-KEN 09-2025",
+    "invoice_date": "10/15/25",
+    "invoice_amount": null,
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": null,
+    "po_number": [
+      "PO 4502846154"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "C.H. ROBINSON",
+    "vendor_address": "SDS 12-0805, PO Box 86, Minneapolis, MN 55486-0805",
+    "po_line_items": null,
+    "vat_amount": null,
+    "gl_account": null,
+    "bank_name": null,
+    "account_holder_name": null,
+    "banking_account_number": null,
+    "remit_to_address": null,
+    "bill_to_address": null,
+    "transaction_type": "debit"
+  },
+  "filename": "SAPS4_5100386548_US28_PFNAUS_2026_999884307.pdf",
+  "raw_response": {
+    "invoice_number": "CHR DAY-KEN 09-2025",
+    "invoice_date": "10/15/25",
+    "invoice_amount": null,
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": null,
+    "po_number": [
+      "PO 4502846154"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "C.H. ROBINSON",
+    "vendor_address": "SDS 12-0805, PO Box 86, Minneapolis, MN 55486-0805",
+    "po_line_items": null
+  }
+}

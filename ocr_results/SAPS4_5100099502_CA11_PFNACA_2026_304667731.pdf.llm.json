@@ -1,0 +1,59 @@
+{
+  "invoice_data": {
+    "invoice_number": "6237838568",
+    "invoice_date": "February 2, 2026",
+    "invoice_amount": "367.25",
+    "invoice_currency": [
+      "CAD"
+    ],
+    "tax_amount": "42.25",
+    "po_number": [
+      "4505105720"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": "325.00",
+    "cost_center": null,
+    "vendor_name": "C.H. Robinson Company (Canada) Ltd.",
+    "vendor_address": "2095 MATHESON BLVD E, MISSISSAUGA, ON L4W 0G2, CANADA",
+    "po_line_items": [
+      {
+        "description": "Doritos Ultimate Garlic Parm Flavoured Tortilla Chips",
+        "quantity": 250.0,
+        "net_price": null
+      }
+    ],
+    "vat_amount": null,
+    "gl_account": null,
+    "bank_name": null,
+    "account_holder_name": null,
+    "banking_account_number": null,
+    "remit_to_address": null,
+    "bill_to_address": null,
+    "transaction_type": "debit"
+  },
+  "filename": "SAPS4_5100099502_CA11_PFNACA_2026_304667731.pdf",
+  "raw_response": {
+    "invoice_number": "6237838568",
+    "invoice_date": "February 2, 2026",
+    "invoice_amount": "367.25",
+    "invoice_currency": [
+      "CAD"
+    ],
+    "tax_amount": "42.25",
+    "po_number": [
+      "4505105720"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": "325.00",
+    "cost_center": null,
+    "vendor_name": "C.H. Robinson Company (Canada) Ltd.",
+    "vendor_address": "2095 MATHESON BLVD E, MISSISSAUGA, ON L4W 0G2, CANADA",
+    "po_line_items": [
+      {
+        "description": "Doritos Ultimate Garlic Parm Flavoured Tortilla Chips",
+        "quantity": 250.0,
+        "net_price": null
+      }
+    ]
+  }
+}

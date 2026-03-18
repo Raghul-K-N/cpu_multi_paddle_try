@@ -1,0 +1,79 @@
+{
+  "invoice_data": {
+    "invoice_number": "814519666",
+    "invoice_date": "02/12/2026",
+    "invoice_amount": "396.60",
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": null,
+    "po_number": [
+      "4505195521"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "GRAINGER",
+    "vendor_address": "101 SOUTHCHASE BLVD,FOUNTAIN INN,SC 29644-9019",
+    "po_line_items": [
+      {
+        "description": "WELDING HELMET.AUTO-DARKENING,DIGITAL",
+        "quantity": 1.0,
+        "net_price": 249.98
+      },
+      {
+        "description": "TONGUE AND GROOVE PLIER,10\" L",
+        "quantity": 2.0,
+        "net_price": 39.48
+      },
+      {
+        "description": "DIAGONAL CUTTING PLIER,9-3/13\" L",
+        "quantity": 2.0,
+        "net_price": 33.83
+      }
+    ],
+    "vat_amount": null,
+    "gl_account": null,
+    "bank_name": null,
+    "account_holder_name": null,
+    "banking_account_number": null,
+    "remit_to_address": null,
+    "bill_to_address": null,
+    "transaction_type": "debit"
+  },
+  "filename": "SAPS4_5100381543_US28_PFNAUS_2026_999934747.pdf",
+  "raw_response": {
+    "invoice_number": "814519666",
+    "invoice_date": "02/12/2026",
+    "invoice_amount": "396.60",
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": null,
+    "po_number": [
+      "4505195521"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "GRAINGER",
+    "vendor_address": "101 SOUTHCHASE BLVD,FOUNTAIN INN,SC 29644-9019",
+    "po_line_items": [
+      {
+        "description": "WELDING HELMET.AUTO-DARKENING,DIGITAL",
+        "quantity": 1.0,
+        "net_price": 249.98
+      },
+      {
+        "description": "TONGUE AND GROOVE PLIER,10\" L",
+        "quantity": 2.0,
+        "net_price": 39.48
+      },
+      {
+        "description": "DIAGONAL CUTTING PLIER,9-3/13\" L",
+        "quantity": 2.0,
+        "net_price": 33.83
+      }
+    ]
+  }
+}

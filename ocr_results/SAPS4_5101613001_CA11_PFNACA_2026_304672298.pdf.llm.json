@@ -1,0 +1,47 @@
+{
+  "invoice_data": {
+    "invoice_number": "21491",
+    "invoice_date": "31/01/26",
+    "invoice_amount": null,
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": null,
+    "po_number": [
+      "M413451105"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "ENTREPRENEUR EXCAVATION TRANSPORT EN VRAC PEPSICO CANADA",
+    "vendor_address": "890, Castle d'Autray, Saint-Félix-de-Valois Québec J0K 2M0",
+    "po_line_items": null,
+    "vat_amount": null,
+    "gl_account": null,
+    "bank_name": null,
+    "account_holder_name": null,
+    "banking_account_number": null,
+    "remit_to_address": null,
+    "bill_to_address": null,
+    "transaction_type": "debit"
+  },
+  "filename": "SAPS4_5101613001_CA11_PFNACA_2026_304672298.pdf",
+  "raw_response": {
+    "invoice_number": "21491",
+    "invoice_date": "31/01/26",
+    "invoice_amount": null,
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": null,
+    "po_number": [
+      "M413451105"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "ENTREPRENEUR EXCAVATION TRANSPORT EN VRAC PEPSICO CANADA",
+    "vendor_address": "890, Castle d'Autray, Saint-Félix-de-Valois Québec J0K 2M0",
+    "po_line_items": null
+  }
+}

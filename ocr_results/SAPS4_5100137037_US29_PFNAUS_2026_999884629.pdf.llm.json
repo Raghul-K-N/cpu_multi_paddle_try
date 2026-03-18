@@ -1,0 +1,79 @@
+{
+  "invoice_data": {
+    "invoice_number": "07P20561",
+    "invoice_date": "1/21/2026 9:12:49AM",
+    "invoice_amount": null,
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": null,
+    "po_number": [
+      "23558054"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": "35.00",
+    "cost_center": null,
+    "vendor_name": "Southwest International Trucks, Inc. - FLT",
+    "vendor_address": "Dallas, TX 75247",
+    "po_line_items": [
+      {
+        "description": "KIT,EXH RCN VALVE",
+        "quantity": 1.0,
+        "net_price": 859.16
+      },
+      {
+        "description": "EXH RCN VALVE CORE",
+        "quantity": 1.0,
+        "net_price": 81.25
+      },
+      {
+        "description": "OUTBOUND FREIGHT",
+        "quantity": 1.0,
+        "net_price": 35.0
+      }
+    ],
+    "vat_amount": null,
+    "gl_account": null,
+    "bank_name": null,
+    "account_holder_name": null,
+    "banking_account_number": null,
+    "remit_to_address": null,
+    "bill_to_address": null,
+    "transaction_type": "debit"
+  },
+  "filename": "SAPS4_5100137037_US29_PFNAUS_2026_999884629.pdf",
+  "raw_response": {
+    "invoice_number": "07P20561",
+    "invoice_date": "1/21/2026 9:12:49AM",
+    "invoice_amount": "../../975.41",
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": null,
+    "po_number": [
+      "23558054"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": "35.00",
+    "cost_center": null,
+    "vendor_name": "Southwest International Trucks, Inc. - FLT",
+    "vendor_address": "Dallas, TX 75247",
+    "po_line_items": [
+      {
+        "description": "KIT,EXH RCN VALVE",
+        "quantity": 1.0,
+        "net_price": 859.16
+      },
+      {
+        "description": "EXH RCN VALVE CORE",
+        "quantity": 1.0,
+        "net_price": 81.25
+      },
+      {
+        "description": "OUTBOUND FREIGHT",
+        "quantity": 1.0,
+        "net_price": 35.0
+      }
+    ]
+  }
+}

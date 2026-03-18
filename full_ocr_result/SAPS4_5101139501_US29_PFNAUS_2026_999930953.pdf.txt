@@ -1,0 +1,346 @@
+==================================<Page 1 - START>================================
+Standard Invoice
+                                                                                                                    odp
+Original tax invoice has been submitted electronically. This is a
+human readable representation (copy) of the original tax invoice.
+                                                                                                                   459242303001
+                                                                 Invoice Number
+                                                                 (Supplier Reference No.)
+                                                                 Invoice Date                   Thursday 12 Feb 2026 12:00 PM GMT-05:00
+                                                                                                                    $266.73 USD
+                                                                 Amount Due
+     Contact Information
+                                                                           Shipping Information
+     Supplier                      Customer
+                                                                           Ship From                     Ship To
+     ODP BUSINESS SOLUTIONS,       ROLLING FRITO-LAY SALES                                                 US-DC-LA MIRADA-CA-RFLS
+                                                                           ODP BUSINESS SOLUTIONS.
+     LLC                                                                                               16701 TROJAN WAY
+                                  16701 TROJAN WAY                          LLC
+                                                                                                        LA MIRADA
+     6600 North Military Trail            LA MIRADA
+                                                                                                        CA
+     Boca Raton                    CA
+     FL                                                                                                906385906
+                                  906385906
+                                                                                                        United States
+     33496                       United States
+                                                                                                        Address ID: 2205
+     US
+                                                         PO No. : M413552410                                      PO Date : 11 Feb 2026
+   Line Items
+                                                                                                                         Subtotal
+   Line No.                      Type   Supplier Part No. /             Customer Part No.        Quantity            Unit Price
+              PO Line No.
+                                       Description                                       (UOM)
+                                       196517 /                                         4 / (CS)           $40.36 USD
+    1        1                 Material
+                                       PAPER.X-9,8.5X11,20LB,10CA
+                                       Supplier Part No. /             Customer Part No.        Quantity            Unit Price         Subtotal
+    Line No.    PO Line No.         Type
+                                       Description                                       (UOM)
+    2                          Material 810838 /                                         1 / (BX)            $5.99 USD
+              2
+                                       FOLDER.LTR,1/3CUT,100BX.MANILA
+                                       Supplier Part No. /             Customer Part No.        Quantity            Unit Price         Subtotal
+    Line No.    PO Line No.         Type
+                                       Description                                       (UOM)
+                                Material 346014 / SCOTCH-BRITE(R)                           1 / (PK)            $5.99 USD
+    3        4
+                                       MULTI-PURPOSE
+                                                                                                                         Subtotal
+    Line No.    PO Line No.         Type   Supplier Part No. /             Customer Part No.        Quantity            Unit Price
+                                       Description                                       (UOM)
+                                Material 287154 / BOX.STOR/FILE,LTR/                         1 / (PK)           $35.69 USD
+    4        5
+                                       LGL,BSC,10PK
+    Line No.    PO Line No.         Type   Supplier Part No. /             Customer Part No.        Quantity            Unit Price         Subtotal
+                                       Description                                       (UOM)
+                                Material  664011 / PEN.ROUND                               1 / (BX)            $3.51 USD
+    5        6
+                                       STIC,BIC,60CT,BLACK
+                                                                                                        Unit Price
+    Line No.    PO Line No.         Type   Supplier Part No. /             Customer Part No.        Quantity                            Subtotal
+                                       Description                                       (UOM)
+                                Material 760546 / PEN,BPNT,ROUND                           1 / (PK)           $2.35 USD
+    6        7
+                                       STIC,36PK,BLU
+    Line No.    PO Line No.         Type    Supplier Part No. /             Customer Part No.        Quantity            Unit Price         Subtotal
+                                       Description                                       (UOM)
+                                Material
+    7        8                        520928 /                                         1 / (PK)            $4.32 USD
+                                       TAPE.INVISIBLE.3/4X1000.10/PK
+    Line No.    PO Line No.         Type    Supplier Part No. /             Customer Part No.        Quantity            Unit Price         Subtotal
+                                       Description                                       (UOM)
+                                Material 220690 /
+    8        9                                                                       1 / (PK)           $5.55 USD
+                                       TAPE,MP.1.89X54.6,6PK,CLEAR
+   Line No.   PO Line No.         Type   Supplier Part No. /                                                    Unit Price
+                                                                 Customer Part No.        Quantity                            Subtotal
+                                       Descriptio                                       (UOM)
+   9        10                Material
+                                       444764 /                                         1 / (EA)           $18.19 USD
+                                       CUSHION,BUBBLE,12X75
+      Tax Summary
+      Category              Details
+                                                           Base Amount               Rate %          Amount
+      Sales Tax
+                                                                                    9.75%           $23.70 USD
+                                                                             Amount Summary
+                                                                              Line item subtotal
+                                                                                                                    $243.03 USD
+                                                                              Gross amount                            $266.73 USD
+                                                                             Net amount                              $266.73 USD
+                                                                             Total tax amount                           $23.70 USD
+                                                                             Total withholding tax amount
+                                                                             Amount Due
+                                                                                                                    $266.73 USD
+     Additional Information
+     invoice due date
+     20260513
+    Billing Information                                                        Remittance Information
+    Bill To
+                                                                         Remit To
+    PEPSICO INC ARIBA                                                     ODP BUSINESS SOLUTIONS,
+    700 ANDERSON HILL RD                                                  LLC
+    PURCHASE                                                           PO BOX 633204
+    NY                                                                 CINCINNATI
+    105771444                                                            OH
+    United States                                                          45263-3204
+    Address ID: 47140624                                                    United States
+Payment Terms                                                       Reference Documents
+  Net payment Terms (Days) :                                                Original Supplier Order #: 459242303001
+  90
+==================================<Page 1 - END>================================
+==================================<Page 2 - START>================================
+   Appendix
+   Line No.
+              PO Line No. Type
+                                                         Supplier Part No. / Description
+   1
+              1         Material
+                                                         196517 / PAPER,X-9,8.5X11,20LB,10CA
+   Additional Details:
+   Supplier Part ID : 196517
+   UNSPSC : 14111507
+   Line No.    PO Line No. Type
+                                                        Supplier Part No. / Description
+   2
+              2         Material
+                                                        810838 / FOLDER,LTR,1/3CUT,100BX,MANILA
+   Additional Details:
+   Supplier Part ID : 810838
+   UNSPSC : 44122011
+   Line No.    PO Line No. Type                           Supplier Part No. / Description
+   3         4         Material                         346014 / SCOTCH-BRITE(R) MULTI-PURPOSE
+   Additional Details:
+   Supplier Part ID : 346014
+   UNSPSC : 47131603
+  Line No.    PO Line No. Type                           Supplier Part No. / Description
+  4         5          Material                         287154 / BOX,STOR/FILE,LTR/LGL,BSC,10PK
+  Additional Details:
+  Supplier Part ID : 287154
+  UNSPSC : 44111515
+  Line No.    PO Line No. Type                            Supplier Part No. / Description
+  5         6         Material                         664011 / PEN,ROUND STIC,BIC,60CT,BLACK
+  Additional Details:
+  Supplier Part ID : 664011
+  UNSPSC : 44121704
+  Line No.    PO Line No. Type                            Supplier Part No. / Description
+  6         7         Material                         760546 / PEN,BPNT,ROUND STIC,36PK,BLU
+  Additional Details:
+  Supplier Part ID : 760546
+  UNSPSC : 44121704
+ Line No.    PO Line No. Type                            Supplier Part No. / Description
+  7         8         Material                          520928 / TAPE,INVISIBLE,3/4X1000,10/PK
+ Additional Details:
+ Supplier Part ID : 520928
+ UNSPSC : 31201512
+ Line No.    PO Line No. Type                            Supplier Part No. / Description
+ 8
+            9         Material                          220690 / TAPE,MP.1.89X54.6,6PK,CLEAR
+ Additional Details:
+ Supplier Part ID : 220690
+ UNSPSC : 31201517
+ Line No.    PO Line No. Type
+                                                       Supplier Part No. / Description
+ 9
+            10        Material                          444764 / CUSHION,BUBBLE,12X75
+ Additional Details:
+ Supplier Part ID : 444764
+ UNSPSC : 24141601
+PDF generated on Thursday 12 Feb 2026 11:29 AM GMT-08:00
+==================================<Page 2 - END>================================
+==================================<Page 3 - START>================================
+Standard Invoice
+                                                                                                                     odp
+Original tax invoice has been submitted electronically. This is a
+human readable representation (copy) of the original tax invoice.
+                                                                                                                   459242303001
+                                                                 Invoice Number
+                                                                 (Supplier Reference No.)
+                                                                 Invoice Date                   Thursday 12 Feb 2026 12:00 PM GMT-05:00
+                                                                                                                    $266.73 USD
+                                                                 Amount Due
+     Contact Information
+                                                                           Shipping Information
+     Supplier                      Customer
+                                                                           Ship From                     Ship To
+     ODP BUSINESS SOLUTIONS,       ROLLING FRITO-LAY SALES                                                 US-DC-LA MIRADA-CA-RFLS
+                                                                           ODP BUSINESS SOLUTIONS.
+     LLC                                                                                               16701 TROJAN WAY
+                                  16701 TROJAN WAY                          LLC
+                                                                                                        LA MIRADA
+     6600 North Military Trail            LA MIRADA
+                                                                                                        CA
+     Boca Raton                    CA
+     FL                                                                                                906385906
+                                  906385906
+                                                                                                        United States
+      33496                       United States
+                                                                                                        Address ID: 2205
+     US
+                                                         PO No. : M413552410                                      PO Date : 11 Feb 2026
+   Line Items
+                                                                                                                         Subtotal
+    Line No.                      Type   Supplier Part No. /             Customer Part No.        Quantity            Unit Price
+              PO Line No.
+                                        Description                                       (UOM)
+                                       196517 /                                         4 / (CS)           $40.36 USD
+    1        1                 Material
+                                        PAPER.X-9,8.5X11,20LB,10CA
+                                       Supplier Part No. /             Customer Part No.        Quantity            Unit Price         Subtotal
+    Line No.    PO Line No.         Type
+                                        Description                                       (UOM)
+    2                          Material 810838 /                                         1 / (BX)            $5.99 USD
+              2
+                                        FOLDER.LTR,1/3CUT,100BX.MANILA
+                                        Supplier Part No. /             Customer Part No.        Quantity            Unit Price         Subtotal
+    Line No.    PO Line No.         Type
+                                        Description                                       (UOM)
+                                Material 346014 / SCOTCH-BRITE(R)                           1 / (PK)            $5.99 USD
+    3        4
+                                        MULTI-PURPOSE
+                                                                                                                         Subtotal
+    Line No.    PO Line No.         Type   Supplier Part No. /             Customer Part No.        Quantity            Unit Price
+                                        Description                                       (UOM)
+                                Material 287154 / BOX.STOR/FILE,LTR/                         1 / (PK)           $35.69 USD
+    4        5
+                                        LGL,BSC,10PK
+    Line No.    PO Line No.         Type   Supplier Part No. /             Customer Part No.        Quantity            Unit Price         Subtotal
+                                        Description                                       (UOM)
+                                Material  664011 / PEN.ROUND                               1 / (BX)            $3.51 USD
+    5        6
+                                        STIC,BIC,60CT,BLACK
+                                                                                                        Unit Price
+    Line No.    PO Line No.         Type   Supplier Part No. /             Customer Part No.        Quantity                            Subtotal
+                                       Description                                       (UOM)
+                                Material 760546 / PEN,BPNT,ROUND                           1 / (PK)           $2.35 USD
+    6        7
+                                        STIC,36PK,BLU
+    Line No.    PO Line No.         Type    Supplier Part No. /             Customer Part No.        Quantity            Unit Price         Subtotal
+                                       Description                                       (UOM)
+                                Material
+    7        8                        520928 /                                         1 / (PK)            $4.32 USD
+                                        TAPE.INVISIBLE.3/4X1000.10/PK
+    Line No.    PO Line No.         Type    Supplier Part No. /             Customer Part No.        Quantity            Unit Price         Subtotal
+                                       Description                                       (UOM)
+                                Material 220690 /
+    8        9                                                                       1 / (PK)           $5.55 USD
+                                       TAPE,MP.1.89X54.6,6PK,CLEAR
+   Line No.   PO Line No.         Type   Supplier Part No. /                                                    Unit Price
+                                                                 Customer Part No.        Quantity                            Subtotal
+                                       Descriptio                                       (UOM)
+    9        10                Material
+                                       444764 /                                         1 / (EA)           $18.19 USD
+                                       CUSHION,BUBBLE,12X75
+       Tax Summary
+       Category              Details
+                                                           Base Amount               Rate %          Amount
+       Sales Tax
+                                                                                    9.75%           $23.70 USD
+                                                                              Amount Summary
+                                                                              Line item subtotal
+                                                                                                                     $243.03 USD
+                                                                              Gross amount                            $266.73 USD
+                                                                              Net amount                              $266.73 USD
+                                                                              Total tax amount                           $23.70 USD
+                                                                             Total withholding tax amount
+                                                                              Amount Due
+                                                                                                                    $266.73 USD
+     Additional Information
+     invoice due date
+     20260513
+     Billing Information                                                        Remittance Information
+     Bill To
+                                                                         Remit To
+     PEPSICO INC ARIBA                                                     ODP BUSINESS SOLUTIONS,
+     700 ANDERSON HILL RD                                                  LLC
+     PURCHASE                                                           PO BOX 633204
+     NY                                                                 CINCINNATI
+     105771444                                                            OH
+    United States                                                          45263-3204
+     Address ID: 47140624                                                    United States
+ Payment Terms                                                       Reference Documents
+  Net payment Terms (Days) :                                                Original Supplier Order #: 459242303001
+  90
+==================================<Page 3 - END>================================
+==================================<Page 4 - START>================================
+   Appendix
+   Line No.
+              PO Line No. Type
+                                                         Supplier Part No. / Description
+   1
+              1         Material
+                                                         196517 / PAPER,X-9,8.5X11,20LB,10CA
+   Additional Details:
+   Supplier Part ID : 196517
+   UNSPSC : 14111507
+   Line No.    PO Line No. Type
+                                                        Supplier Part No. / Description
+   2
+              2         Material
+                                                        810838 / FOLDER,LTR,1/3CUT,100BX,MANILA
+   Additional Details:
+   Supplier Part ID : 810838
+   UNSPSC : 44122011
+   Line No.    PO Line No. Type                           Supplier Part No. / Description
+   3         4         Material                         346014 / SCOTCH-BRITE(R) MULTI-PURPOSE
+   Additional Details:
+   Supplier Part ID : 346014
+   UNSPSC : 47131603
+  Line No.    PO Line No. Type                           Supplier Part No. / Description
+  4         5          Material                         287154 / BOX,STOR/FILE,LTR/LGL,BSC,10PK
+  Additional Details:
+  Supplier Part ID : 287154
+  UNSPSC : 44111515
+  Line No.    PO Line No. Type                            Supplier Part No. / Description
+  5         6         Material                         664011 / PEN,ROUND STIC,BIC,60CT,BLACK
+  Additional Details:
+  Supplier Part ID : 664011
+  UNSPSC : 44121704
+  Line No.    PO Line No. Type                            Supplier Part No. / Description
+  6         7         Material                         760546 / PEN,BPNT,ROUND STIC,36PK,BLU
+  Additional Details:
+  Supplier Part ID : 760546
+  UNSPSC : 44121704
+ Line No.    PO Line No. Type                            Supplier Part No. / Description
+  7         8         Material                          520928 / TAPE,INVISIBLE,3/4X1000,10/PK
+ Additional Details:
+ Supplier Part ID : 520928
+ UNSPSC : 31201512
+ Line No.    PO Line No. Type                            Supplier Part No. / Description
+ 8
+            9         Material                          220690 / TAPE,MP.1.89X54.6,6PK,CLEAR
+ Additional Details:
+ Supplier Part ID : 220690
+ UNSPSC : 31201517
+ Line No.    PO Line No. Type
+                                                       Supplier Part No. / Description
+ 9
+            10        Material                          444764 / CUSHION,BUBBLE,12X75
+ Additional Details:
+ Supplier Part ID : 444764
+ UNSPSC : 24141601
+PDF generated on Thursday 12 Feb 2026 11:29 AM GMT-08:00
+==================================<Page 4 - END>================================

@@ -1,0 +1,109 @@
+{
+  "invoice_data": {
+    "invoice_number": "XA038298501",
+    "invoice_date": "12/3/2025",
+    "invoice_amount": "-1790.32",
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": "136.43",
+    "po_number": [
+      "23513965"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "Bruckner's Truck & Equipment",
+    "vendor_address": "Bruckner's Truck & Equipment - Dallas Irving Blvd, 3611 Irving Blvd, Dallas, TX 75247",
+    "po_line_items": [
+      {
+        "description": "OIL PAN",
+        "quantity": 1.0,
+        "net_price": -820.35
+      },
+      {
+        "description": "SEALING STRIP",
+        "quantity": 1.0,
+        "net_price": -152.36
+      },
+      {
+        "description": "FLANGE SCREW",
+        "quantity": 18.0,
+        "net_price": -8.45
+      },
+      {
+        "description": "FLANGE SCREW",
+        "quantity": 4.0,
+        "net_price": -17.53
+      },
+      {
+        "description": "SAFETY VALVE",
+        "quantity": 1.0,
+        "net_price": -19.76
+      },
+      {
+        "description": "KING PIN KIT",
+        "quantity": 1.0,
+        "net_price": -439.2
+      }
+    ],
+    "vat_amount": null,
+    "gl_account": null,
+    "bank_name": null,
+    "account_holder_name": null,
+    "banking_account_number": null,
+    "remit_to_address": null,
+    "bill_to_address": null,
+    "transaction_type": "credit"
+  },
+  "filename": "SAPS4_5100781501_US30_PFNAUS_2026_999885136.pdf",
+  "raw_response": {
+    "invoice_number": "XA038298501",
+    "invoice_date": "12/3/2025",
+    "invoice_amount": "-1790.32",
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": "136.43",
+    "po_number": [
+      "23513965"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "Bruckner's Truck & Equipment",
+    "vendor_address": "Bruckner's Truck & Equipment - Dallas Irving Blvd, 3611 Irving Blvd, Dallas, TX 75247",
+    "po_line_items": [
+      {
+        "description": "OIL PAN",
+        "quantity": 1.0,
+        "net_price": -820.35
+      },
+      {
+        "description": "SEALING STRIP",
+        "quantity": 1.0,
+        "net_price": -152.36
+      },
+      {
+        "description": "FLANGE SCREW",
+        "quantity": 18.0,
+        "net_price": -8.45
+      },
+      {
+        "description": "FLANGE SCREW",
+        "quantity": 4.0,
+        "net_price": -17.53
+      },
+      {
+        "description": "SAFETY VALVE",
+        "quantity": 1.0,
+        "net_price": -19.76
+      },
+      {
+        "description": "KING PIN KIT",
+        "quantity": 1.0,
+        "net_price": -439.2
+      }
+    ]
+  }
+}

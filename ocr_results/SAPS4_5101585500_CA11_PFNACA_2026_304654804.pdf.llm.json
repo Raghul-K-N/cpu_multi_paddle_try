@@ -1,0 +1,47 @@
+{
+  "invoice_data": {
+    "invoice_number": "M60070128",
+    "invoice_date": "1/30/2026",
+    "invoice_amount": null,
+    "invoice_currency": [
+      "CAD"
+    ],
+    "tax_amount": null,
+    "po_number": [
+      "M413051941"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "ARI FINANCIAL SERVICES INC.",
+    "vendor_address": "1270 CENTRAL PARKWAY WEST SUITE 500 MISSISSAUGA. ONT. L5C 4P4, LAVAL PQ H7C2T #1015619615",
+    "po_line_items": null,
+    "vat_amount": null,
+    "gl_account": null,
+    "bank_name": null,
+    "account_holder_name": null,
+    "banking_account_number": null,
+    "remit_to_address": null,
+    "bill_to_address": null,
+    "transaction_type": "debit"
+  },
+  "filename": "SAPS4_5101585500_CA11_PFNACA_2026_304654804.pdf",
+  "raw_response": {
+    "invoice_number": "M60070128",
+    "invoice_date": "1/30/2026",
+    "invoice_amount": null,
+    "invoice_currency": [
+      "CAD"
+    ],
+    "tax_amount": null,
+    "po_number": [
+      "M413051941"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "ARI FINANCIAL SERVICES INC.",
+    "vendor_address": "1270 CENTRAL PARKWAY WEST SUITE 500 MISSISSAUGA. ONT. L5C 4P4, LAVAL PQ H7C2T #1015619615",
+    "po_line_items": null
+  }
+}

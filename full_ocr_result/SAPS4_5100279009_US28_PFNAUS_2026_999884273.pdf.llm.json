@@ -1,0 +1,69 @@
+{
+  "invoice_data": {
+    "invoice_number": "02/11/2026",
+    "invoice_date": "02/11/2026",
+    "invoice_amount": "52.40",
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": "3.20",
+    "po_number": [
+      "M413453525"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "GRAINGER",
+    "vendor_address": "1721 6TH ST. SW, CANTON, OH 44706-1203",
+    "po_line_items": [
+      {
+        "description": "K01-43706941 VF,COATED GLOVES,3/4DIP,9,4 CUST PART # 20GY48 01j05l01 Vf Coated Gloves 3/4dip 9 4wx16 MANUFACTURER # 11-800V",
+        "quantity": 12.0,
+        "net_price": 27.36
+      },
+      {
+        "description": "K01-48052327 SAFETYGLASSES,CLEAR,ANTIFOG CUST PART# 1FYX7 01|06j07 Safety Glasses, Clear MANUFACTURER # 1FYX7 Delivery #6701873059 Date Shipped:02/11/2026 Wt: 2.520 Trk #:501101966291 SHIPPED FROM: DC LOUISVILLE 009 8701 MINOR LANE,LOUISVILLE,KY 40219",
+        "quantity": 24.0,
+        "net_price": 21.84
+      }
+    ],
+    "vat_amount": null,
+    "gl_account": null,
+    "bank_name": null,
+    "account_holder_name": null,
+    "banking_account_number": null,
+    "remit_to_address": null,
+    "bill_to_address": null,
+    "transaction_type": "debit"
+  },
+  "filename": "SAPS4_5100279009_US28_PFNAUS_2026_999884273.pdf",
+  "raw_response": {
+    "invoice_number": "02/11/2026",
+    "invoice_date": "02/11/2026",
+    "invoice_amount": "52.40",
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": "3.20",
+    "po_number": [
+      "M413453525"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "GRAINGER",
+    "vendor_address": "1721 6TH ST. SW, CANTON, OH 44706-1203",
+    "po_line_items": [
+      {
+        "description": "K01-43706941 VF,COATED GLOVES,3/4DIP,9,4 CUST PART # 20GY48 01j05l01 Vf Coated Gloves 3/4dip 9 4wx16 MANUFACTURER # 11-800V",
+        "quantity": 12.0,
+        "net_price": 27.36
+      },
+      {
+        "description": "K01-48052327 SAFETYGLASSES,CLEAR,ANTIFOG CUST PART# 1FYX7 01|06j07 Safety Glasses, Clear MANUFACTURER # 1FYX7 Delivery #6701873059 Date Shipped:02/11/2026 Wt: 2.520 Trk #:501101966291 SHIPPED FROM: DC LOUISVILLE 009 8701 MINOR LANE,LOUISVILLE,KY 40219",
+        "quantity": 24.0,
+        "net_price": 21.84
+      }
+    ]
+  }
+}

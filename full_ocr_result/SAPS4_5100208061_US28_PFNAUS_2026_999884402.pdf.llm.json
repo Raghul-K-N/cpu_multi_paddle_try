@@ -1,0 +1,43 @@
+{
+  "invoice_data": {
+    "invoice_number": "S0359413",
+    "invoice_date": "03-NOV-2025",
+    "invoice_amount": null,
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": null,
+    "po_number": null,
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "Frito Lay",
+    "vendor_address": "6004 S. County Road G, P.O. Box 5009, Janesville, WI 53547-5009",
+    "po_line_items": null,
+    "vat_amount": null,
+    "gl_account": null,
+    "bank_name": null,
+    "account_holder_name": null,
+    "banking_account_number": null,
+    "remit_to_address": null,
+    "bill_to_address": null,
+    "transaction_type": "debit"
+  },
+  "filename": "SAPS4_5100208061_US28_PFNAUS_2026_999884402.pdf",
+  "raw_response": {
+    "invoice_number": "S0359413",
+    "invoice_date": "03-NOV-2025",
+    "invoice_amount": null,
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": null,
+    "po_number": null,
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "Frito Lay",
+    "vendor_address": "6004 S. County Road G, P.O. Box 5009, Janesville, WI 53547-5009",
+    "po_line_items": null
+  }
+}

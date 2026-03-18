@@ -1,0 +1,79 @@
+{
+  "invoice_data": {
+    "invoice_number": "3465841",
+    "invoice_date": "01/30/26",
+    "invoice_amount": null,
+    "invoice_currency": [
+      "CAD"
+    ],
+    "tax_amount": null,
+    "po_number": [
+      "4504946709"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": "23.270",
+    "cost_center": null,
+    "vendor_name": "Omron Canada, Inc.",
+    "vendor_address": "100 Consilium Place, Suite 802, Scarborough, ON M1H 3E3, Tel:(416) 286-6465, PO Box 15814, Station A, Toronto, ON M5W 1C1",
+    "po_line_items": [
+      {
+        "description": "D4NS-2BF",
+        "quantity": 1.0,
+        "net_price": 63.75
+      },
+      {
+        "description": "Freight: 1 Cartons",
+        "quantity": 1.0,
+        "net_price": 23.27
+      },
+      {
+        "description": "Tracking Number: EFC000013919",
+        "quantity": 1.0,
+        "net_price": 0.0
+      }
+    ],
+    "vat_amount": null,
+    "gl_account": null,
+    "bank_name": null,
+    "account_holder_name": null,
+    "banking_account_number": null,
+    "remit_to_address": null,
+    "bill_to_address": null,
+    "transaction_type": "debit"
+  },
+  "filename": "SAPS4_5101593000_CA11_PFNACA_2026_304654810.pdf",
+  "raw_response": {
+    "invoice_number": "3465841",
+    "invoice_date": "01/30/26",
+    "invoice_amount": "../../../87.02",
+    "invoice_currency": [
+      "CAD"
+    ],
+    "tax_amount": null,
+    "po_number": [
+      "4504946709"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": "23.270",
+    "cost_center": null,
+    "vendor_name": "Omron Canada, Inc.",
+    "vendor_address": "100 Consilium Place, Suite 802, Scarborough, ON M1H 3E3, Tel:(416) 286-6465, PO Box 15814, Station A, Toronto, ON M5W 1C1",
+    "po_line_items": [
+      {
+        "description": "D4NS-2BF",
+        "quantity": 1.0,
+        "net_price": 63.75
+      },
+      {
+        "description": "Freight: 1 Cartons",
+        "quantity": 1.0,
+        "net_price": 23.27
+      },
+      {
+        "description": "Tracking Number: EFC000013919",
+        "quantity": 1.0,
+        "net_price": 0.0
+      }
+    ]
+  }
+}

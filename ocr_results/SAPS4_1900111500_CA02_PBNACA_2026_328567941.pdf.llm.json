@@ -1,0 +1,73 @@
+{
+  "invoice_data": {
+    "invoice_number": "7540",
+    "invoice_date": "27.11.2025",
+    "invoice_amount": "444.93",
+    "invoice_currency": [
+      "CAD"
+    ],
+    "tax_amount": "51.18",
+    "po_number": null,
+    "gl_account_number": [
+      "217701"
+    ],
+    "freight_and_handling_charges": null,
+    "cost_center": [
+      "9SCAL10000"
+    ],
+    "vendor_name": "FOURSQUAREBIZ",
+    "vendor_address": "11 ANDRIANA CRES, MARKHAM ONL6B 0E1, CANADA",
+    "po_line_items": [
+      {
+        "description": "PepsiCo Beverages Canada Booth Support Edmonton (Event ID: 29688)",
+        "quantity": 1.0,
+        "net_price": 315.0
+      },
+      {
+        "description": "Service Fee (2s%)",
+        "quantity": 1.0,
+        "net_price": 78.75
+      }
+    ],
+    "vat_amount": null,
+    "gl_account": null,
+    "bank_name": null,
+    "account_holder_name": null,
+    "banking_account_number": null,
+    "remit_to_address": null,
+    "bill_to_address": null,
+    "transaction_type": "debit"
+  },
+  "filename": "SAPS4_1900111500_CA02_PBNACA_2026_328567941.pdf",
+  "raw_response": {
+    "invoice_number": "7540",
+    "invoice_date": "27.11.2025",
+    "invoice_amount": "444.93",
+    "invoice_currency": [
+      "CAD"
+    ],
+    "tax_amount": "51.18",
+    "po_number": null,
+    "gl_account_number": [
+      "217701"
+    ],
+    "freight_and_handling_charges": null,
+    "cost_center": [
+      "9SCAL10000"
+    ],
+    "vendor_name": "FOURSQUAREBIZ",
+    "vendor_address": "11 ANDRIANA CRES, MARKHAM ONL6B 0E1, CANADA",
+    "po_line_items": [
+      {
+        "description": "PepsiCo Beverages Canada Booth Support Edmonton (Event ID: 29688)",
+        "quantity": 1.0,
+        "net_price": 315.0
+      },
+      {
+        "description": "Service Fee (2s%)",
+        "quantity": 1.0,
+        "net_price": 78.75
+      }
+    ]
+  }
+}

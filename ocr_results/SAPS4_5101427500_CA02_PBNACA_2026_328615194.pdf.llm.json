@@ -1,0 +1,43 @@
+{
+  "invoice_data": {
+    "invoice_number": "58365",
+    "invoice_date": "Feb 5, 2026",
+    "invoice_amount": null,
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": null,
+    "po_number": null,
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "Titan Contractors (Kenora) Ltd.",
+    "vendor_address": "Titan PO Box 201, Kenora ON P9N 3X3",
+    "po_line_items": null,
+    "vat_amount": null,
+    "gl_account": null,
+    "bank_name": null,
+    "account_holder_name": null,
+    "banking_account_number": null,
+    "remit_to_address": null,
+    "bill_to_address": null,
+    "transaction_type": "debit"
+  },
+  "filename": "SAPS4_5101427500_CA02_PBNACA_2026_328615194.pdf",
+  "raw_response": {
+    "invoice_number": "58365",
+    "invoice_date": "Feb 5, 2026",
+    "invoice_amount": null,
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": null,
+    "po_number": null,
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "Titan Contractors (Kenora) Ltd.",
+    "vendor_address": "Titan PO Box 201, Kenora ON P9N 3X3",
+    "po_line_items": null
+  }
+}

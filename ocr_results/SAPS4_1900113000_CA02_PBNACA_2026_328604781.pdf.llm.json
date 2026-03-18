@@ -1,0 +1,51 @@
+{
+  "invoice_data": {
+    "invoice_number": "20164",
+    "invoice_date": "22.12.2025",
+    "invoice_amount": "8,000.00",
+    "invoice_currency": [
+      "CAD"
+    ],
+    "tax_amount": "0.00",
+    "po_number": null,
+    "gl_account_number": [
+      "217701"
+    ],
+    "freight_and_handling_charges": null,
+    "cost_center": [
+      "9SCAL10000"
+    ],
+    "vendor_name": "FRIENDS OF WE CARE INC",
+    "vendor_address": "SUITE 400A-3100 STEELES AVE W, VAUGHAN ONL4K 3R1, CANADA",
+    "po_line_items": null,
+    "vat_amount": null,
+    "gl_account": null,
+    "bank_name": null,
+    "account_holder_name": null,
+    "banking_account_number": null,
+    "remit_to_address": null,
+    "bill_to_address": null,
+    "transaction_type": "debit"
+  },
+  "filename": "SAPS4_1900113000_CA02_PBNACA_2026_328604781.pdf",
+  "raw_response": {
+    "invoice_number": "20164",
+    "invoice_date": "22.12.2025",
+    "invoice_amount": "8,000.00",
+    "invoice_currency": [
+      "CAD"
+    ],
+    "tax_amount": "0.00",
+    "po_number": null,
+    "gl_account_number": [
+      "217701"
+    ],
+    "freight_and_handling_charges": null,
+    "cost_center": [
+      "9SCAL10000"
+    ],
+    "vendor_name": "FRIENDS OF WE CARE INC",
+    "vendor_address": "SUITE 400A-3100 STEELES AVE W, VAUGHAN ONL4K 3R1, CANADA",
+    "po_line_items": null
+  }
+}

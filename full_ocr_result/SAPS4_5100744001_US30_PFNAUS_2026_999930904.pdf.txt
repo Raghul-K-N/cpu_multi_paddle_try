@@ -1,0 +1,298 @@
+==================================<Page 1 - START>================================
+Standard Invoice
+                                                                                                                   odp
+Original tax invoice has been submitted electronically. This is a
+human readable representation (copy) of the original tax invoice.
+                                                                                                                  458823536001
+                                                                Invoice Number
+                                                                (Supplier Reference No.)
+                                                                Invoice Date                 Wednesday 11 Feb 2026 12:00 PM GMT-05:00
+                                                                                                                  $188.85 USD
+                                                                Amount Due
+    Contact Information
+                                                                          Shipping Information
+    Supplier                      Customer                                                              Ship To
+                                                                          Ship From
+     ODP BUSINESS SOLUTIONS,       EL TRANSPORTATION. INC
+                                                                          ODP BUSINESS SOLUTIONS,       US-FL-CANTON-OH-FLT
+     LLC
+                                  3415 MILLENNIUM BLVD SE                    LLC                         3415 MILLENNIUM BLVD SE
+     6600 North Military Trail            MASSILLON                                                            MASSILLON
+     Boca Raton                    OH                                                                  OH
+     FL                          446469678                                                             446469678
+     33496                       United States                                                            United States
+     US                                                                                              Address ID: 2426
+   Line Items                                              PO No. : M413551899                                      PO Date : 11 Feb 2026
+                                                                                                                        Subtotal
+   Line No.   PO Line No.          Type    Supplier Part No. /             Customer Part No.        Quantity            Unit Price
+                                       Description                                       (UOM)
+                               Material 656626 /                                         1 / (CT)           $83.79 USD
+   1         1
+                                       CUP.10OZPERFECTOUCH
+                                       25PK/20CA
+   Line No.    PO Line No.         Type   Supplier Part No. /             Customer Part No.        Quantity            Unit Price         Subtotal
+                                       Description                                       (UOM)
+                                Material                                                1 / (BX)          $16.42 USD
+   2        2                        845606 /
+                                       COFFEE,KCUP,8OCLOCK,REG,24BX
+   Line No.    PO Line No.         Type   Supplier Part No. /             Customer Part No.        Quantity            Unit Price         Subtotal
+                                       Description                                       (UOM)
+    3        3                Material 744377 /                                        1 / (BX)           $34.09 USD
+                                       COFFEE,DS.ORIGNAL,48KCUP
+                                       Supplier Part No. /             Customer Part No.        Quantity            Unit Price         Subtotal
+    Line No.    PO Line No.         Type
+                                       Description                                       (UOM)
+    4        4                 Material 742774 /                                        2 / (BX)           $6.11 USD
+                                       CREAMER,CREME,SWT,ITALIAN
+                                                                                     Quantity            Unit Price         Subtotal
+   Line No.    PO Line No.         Type   Supplier Part No. /             Customer Part No.
+                                      Descrition                                       (UOM)
+                               Material 326901 /                                        1 / (BX)           $5.70 USD
+    5        5
+                                       CREAMER.COFFEEMATE.50CT.FR
+                                      VAN
+                                       Supplier Part No. /                                  Quantity            Unit Price         Subtotal
+    Line No.    PO Line No.         Type                             Customer Part No.
+                                       Description                                       (UOM)
+             6                Material 848189 /                                        1 / (BX)           $15.59 USD
+    6
+                                       CREAMER,IRSHCRM,SNGL,50PK
+   Line No.    PO Line No.         Type   Supplier Part No. /             Customer Part No.        Quantity            Unit Price         Subtotal
+                                      Description
+                                                                                     (UOM)
+   7        7                Material 341377 /                                        1 / (BX)           $15.59 USD
+                                       CREAMER,LIQ,SINGL,VANCARM,50CT
+       Tax Summary
+       Category              Details                         Base Amount
+                                                                                   Rate %          Amount
+      Sales Tax                                                                     6.50%           $5.45 USD
+                                                                             Amount Summary
+                                                                             Line item subtotal
+                                                                                                                    $183.40 USD
+                                                                             Gross amount
+                                                                                                                    $188.85 USD
+                                                                             Net amount                              $188.85 USD
+                                                                             Total tax amount                             $5.45 USD
+                                                                             Total withholding tax amount
+                                                                             Amount Due
+                                                                                                                    $188.85 USD
+     Additional Information
+     invoice due date
+     20260512
+     Billing Information                                                        Remittance Information
+    Bill To                                                               Remit To
+    PEPSICO INC ARIBA                                                     ODP BUSINESS SOLUTIONS,
+                                                                         LLC
+    700 ANDERSON HILL RD
+                                                                         PO BOX 633204
+     PURCHASE
+    NY                                                                 CINCINNATI
+    105771444                                                            OH
+    United States                                                          45263-3204
+    Address ID: 47140624                                                    United States
+  Payment Terms                                                       Reference Documents
+                                                                     Original Supplier Order #: 458823536001
+  Net payment Terms (Days) :
+  90
+==================================<Page 1 - END>================================
+==================================<Page 2 - START>================================
+  Appendix
+  Line No.    PO Line No. Type
+                                                        Supplier Part No. / Description
+   1
+              1         Material
+                                                        656626 / CUP,10OZPERFECTOUCH 25PK/20CA
+  Additional Details:
+  Supplier Part ID : 656626
+  UNSPSC : 52151504
+  Line No.
+             PO Line No. Type                           Supplier Part No. / Description
+  2
+              2         Material                         845606 / COFFEE,KCUP,8OCLOCK,REG,24BX
+  Additional Details:
+  Supplier Part ID : 845606
+  UNSPSC : 50201706
+  Line No.
+             PO Line No. Type                           Supplier Part No. / Description
+  3
+             3         Material                         744377 / COFFEE,DS,ORIGNAL,48KCUP
+  Additional Details:
+  Supplier Part ID : 744377
+  UNSPSC : 50201706
+  Line No.    PO Line No. Type                           Supplier Part No. / Description
+  4
+             4          Material                         742774 / CREAMER,CREME,SWT,ITALIAN
+  Additional Details:
+  Supplier Part ID : 742774
+  UNSPSC : 50201714
+  Line No.    PO Line No. Type                           Supplier Part No. / Description
+  5
+            5         Material                         326901 / CREAMER,COFFEEMATE,50CT,FR VAN
+  Additional Details:
+  Supplier Part ID : 326901
+ UNSPSC : 50201714
+ Line No.    PO Line No. Type
+                                                       Supplier Part No. / Description
+ 6         6         Material
+                                                       848189 / CREAMER,IRSHCRM,SNGL,50PK
+ Additional Details:
+ Supplier Part ID : 848189
+ UNSPSC : 50201714
+Line No.    PO Line No. Type
+                                                      Supplier Part No. / Description
+ 7         7         Material
+                                                      341377 / CREAMER,LIQ,SINGL,VANCARM,50CT
+Additional Details:
+Supplier Part ID : 341377
+ UNSPSC : 50201714
+PDF generated on Thursday 12 Feb 2026 11:34 AM GMT-08:00
+==================================<Page 2 - END>================================
+==================================<Page 3 - START>================================
+Standard Invoice
+                                                                                                                    odp
+Original tax invoice has been submitted electronically. This is a
+human readable representation (copy) of the original tax invoice.
+                                                                                                                   458823536001
+                                                                 Invoice Number
+                                                                 (Supplier Reference No.)
+                                                                 Invoice Date                 Wednesday 11 Feb 2026 12:00 PM GMT-05:00
+                                                                                                                   $188.85 USD
+                                                                  Amount Due
+      Contact Information
+                                                                           Shipping Information
+      Supplier                      Customer                                                              Ship To
+                                                                           Ship From
+      ODP BUSINESS SOLUTIONS,       EL TRANSPORTATION. INC
+                                                                           ODP BUSINESS SOLUTIONS,       US-FL-CANTON-OH-FLT
+      LLC
+                                   3415 MILLENNIUM BLVD SE                    LLC                         3415 MILLENNIUM BLVD SE
+      6600 North Military Trail            MASSILLON                                                            MASSILLON
+      Boca Raton                    OH                                                                  OH
+      FL                          446469678                                                             446469678
+      33496                       United States                                                            United States
+      US                                                                                              Address ID: 2426
+    Line Items                                              PO No. : M413551899                                      PO Date : 11 Feb 2026
+                                                                                                                         Subtotal
+    Line No.   PO Line No.          Type    Supplier Part No. /             Customer Part No.        Quantity            Unit Price
+                                        Description                                       (UOM)
+                                Material 656626 /                                         1 / (CT)           $83.79 USD
+    1         1
+                                        CUP.10OZPERFECTOUCH
+                                        25PK/20CA
+    Line No.    PO Line No.         Type   Supplier Part No. /             Customer Part No.        Quantity            Unit Price         Subtotal
+                                        Description                                       (UOM)
+                                 Material                                                1 / (BX)          $16.42 USD
+    2        2                        845606 /
+                                        COFFEE,KCUP,8OCLOCK,REG,24BX
+    Line No.    PO Line No.         Type   Supplier Part No. /             Customer Part No.        Quantity            Unit Price         Subtotal
+                                        Description                                       (UOM)
+    3        3                Material 744377 /                                        1 / (BX)           $34.09 USD
+                                        COFFEE,DS.ORIGNAL,48KCUP
+                                        Supplier Part No. /             Customer Part No.        Quantity            Unit Price         Subtotal
+    Line No.    PO Line No.         Type
+                                        Description                                       (UOM)
+     4        4                 Material 742774 /                                        2 / (BX)           $6.11 USD
+                                        CREAMER,CREME,SWT,ITALIAN
+                                                                                      Quantity            Unit Price         Subtotal
+    Line No.    PO Line No.         Type   Supplier Part No. /             Customer Part No.
+                                        Descrition                                       (UOM)
+                                Material 326901 /                                        1 / (BX)           $5.70 USD
+     5        5
+                                        CREAMER.COFFEEMATE.50CT.FR
+                                        VAN
+                                        Supplier Part No. /                                  Quantity            Unit Price         Subtotal
+     Line No.    PO Line No.         Type                             Customer Part No.
+                                        Description                                       (UOM)
+              6                Material 848189 /                                        1 / (BX)           $15.59 USD
+    6
+                                        CREAMER,IRSHCRM,SNGL,50PK
+    Line No.    PO Line No.         Type   Supplier Part No. /             Customer Part No.        Quantity            Unit Price         Subtotal
+                                       Description
+                                                                                      (UOM)
+    7        7                Material 341377 /                                        1 / (BX)           $15.59 USD
+                                        CREAMER,LIQ,SINGL,VANCARM,50CT
+        Tax Summary
+        Category              Details                         Base Amount
+                                                                                    Rate %          Amount
+       Sales Tax                                                                     6.50%           $5.45 USD
+                                                                              Amount Summary
+                                                                              Line item subtotal
+                                                                                                                     $183.40 USD
+                                                                              Gross amount
+                                                                                                                     $188.85 USD
+                                                                              Net amount                              $188.85 USD
+                                                                              Total tax amount                             $5.45 USD
+                                                                              Total withholding tax amount
+                                                                              Amount Due
+                                                                                                                     $188.85 USD
+      Additional Information
+      invoice due date
+      20260512
+      Billing Information                                                        Remittance Information
+      Bill To                                                               Remit To
+      PEPSICO INC ARIBA                                                     ODP BUSINESS SOLUTIONS,
+                                                                          LLC
+      700 ANDERSON HILL RD
+                                                                          PO BOX 633204
+      PURCHASE
+     NY                                                                 CINCINNATI
+      105771444                                                            OH
+     United States                                                          45263-3204
+     Address ID: 47140624                                                    United States
+   Payment Terms                                                       Reference Documents
+                                                                      Original Supplier Order #: 458823536001
+   Net payment Terms (Days) :
+   90
+==================================<Page 3 - END>================================
+==================================<Page 4 - START>================================
+  Appendix
+  Line No.    PO Line No. Type
+                                                        Supplier Part No. / Description
+   1
+              1         Material
+                                                        656626 / CUP,10OZPERFECTOUCH 25PK/20CA
+  Additional Details:
+  Supplier Part ID : 656626
+  UNSPSC : 52151504
+  Line No.
+             PO Line No. Type                           Supplier Part No. / Description
+  2
+              2         Material                         845606 / COFFEE,KCUP,8OCLOCK,REG,24BX
+  Additional Details:
+  Supplier Part ID : 845606
+  UNSPSC : 50201706
+  Line No.
+             PO Line No. Type                           Supplier Part No. / Description
+  3
+             3         Material                         744377 / COFFEE,DS,ORIGNAL,48KCUP
+  Additional Details:
+  Supplier Part ID : 744377
+  UNSPSC : 50201706
+  Line No.    PO Line No. Type                           Supplier Part No. / Description
+  4
+             4          Material                         742774 / CREAMER,CREME,SWT,ITALIAN
+  Additional Details:
+  Supplier Part ID : 742774
+  UNSPSC : 50201714
+  Line No.    PO Line No. Type                           Supplier Part No. / Description
+  5
+            5         Material                         326901 / CREAMER,COFFEEMATE,50CT,FR VAN
+  Additional Details:
+  Supplier Part ID : 326901
+ UNSPSC : 50201714
+ Line No.    PO Line No. Type
+                                                       Supplier Part No. / Description
+ 6         6         Material
+                                                       848189 / CREAMER,IRSHCRM,SNGL,50PK
+ Additional Details:
+ Supplier Part ID : 848189
+ UNSPSC : 50201714
+Line No.    PO Line No. Type
+                                                      Supplier Part No. / Description
+ 7         7         Material
+                                                      341377 / CREAMER,LIQ,SINGL,VANCARM,50CT
+Additional Details:
+Supplier Part ID : 341377
+ UNSPSC : 50201714
+PDF generated on Thursday 12 Feb 2026 11:34 AM GMT-08:00
+==================================<Page 4 - END>================================

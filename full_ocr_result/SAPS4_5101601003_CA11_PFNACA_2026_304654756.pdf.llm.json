@@ -1,0 +1,59 @@
+{
+  "invoice_data": {
+    "invoice_number": "9800630304",
+    "invoice_date": "Monday 9 Feb. 2026 7:00 a.m. GMT-05:00",
+    "invoice_amount": "33.26",
+    "invoice_currency": [
+      "CAD"
+    ],
+    "tax_amount": "1.58",
+    "po_number": [
+      "M413539716"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "ACKLANDS-GRAINGER INC.",
+    "vendor_address": "PO BOX 2970, WINNIPEG, MB R3C 4B5, CA; AGI CALEDON DC, 21 Merchant Road, Caledon, ON L7C 3Y7, Canada; TABER PLANT 5904 52 AVE, TABER, AB T1G 1K3, Canada",
+    "po_line_items": [
+      {
+        "description": "GNF1802C23359 / DRILL HD,COBALT,STRAW / GOLD OXIDE,9/32\"",
+        "quantity": 4.0,
+        "net_price": 7.92
+      }
+    ],
+    "vat_amount": null,
+    "gl_account": null,
+    "bank_name": null,
+    "account_holder_name": null,
+    "banking_account_number": null,
+    "remit_to_address": null,
+    "bill_to_address": null,
+    "transaction_type": "debit"
+  },
+  "filename": "SAPS4_5101601003_CA11_PFNACA_2026_304654756.pdf",
+  "raw_response": {
+    "invoice_number": "9800630304",
+    "invoice_date": "Monday 9 Feb. 2026 7:00 a.m. GMT-05:00",
+    "invoice_amount": "33.26",
+    "invoice_currency": [
+      "CAD"
+    ],
+    "tax_amount": "1.58",
+    "po_number": [
+      "M413539716"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "ACKLANDS-GRAINGER INC.",
+    "vendor_address": "PO BOX 2970, WINNIPEG, MB R3C 4B5, CA; AGI CALEDON DC, 21 Merchant Road, Caledon, ON L7C 3Y7, Canada; TABER PLANT 5904 52 AVE, TABER, AB T1G 1K3, Canada",
+    "po_line_items": [
+      {
+        "description": "GNF1802C23359 / DRILL HD,COBALT,STRAW / GOLD OXIDE,9/32\"",
+        "quantity": 4.0,
+        "net_price": 7.92
+      }
+    ]
+  }
+}

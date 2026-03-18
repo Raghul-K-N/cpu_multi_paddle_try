@@ -1,0 +1,43 @@
+{
+  "invoice_data": {
+    "invoice_number": "INV/325762205",
+    "invoice_date": "02/03/2026",
+    "invoice_amount": null,
+    "invoice_currency": null,
+    "tax_amount": null,
+    "po_number": [
+      "4505027310"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "ORACLE PEPSI CO . ONC.",
+    "vendor_address": "CAPP 201 MARPLE AVE, CLIFTON HEIGHTS, PA 19018, UNITED STATES",
+    "po_line_items": null,
+    "vat_amount": null,
+    "gl_account": null,
+    "bank_name": null,
+    "account_holder_name": null,
+    "banking_account_number": null,
+    "remit_to_address": null,
+    "bill_to_address": null,
+    "transaction_type": "debit"
+  },
+  "filename": "SAPS4_5100267049_US28_PFNAUS_2026_999884255.pdf",
+  "raw_response": {
+    "invoice_number": "INV/325762205",
+    "invoice_date": "02/03/2026",
+    "invoice_amount": null,
+    "invoice_currency": null,
+    "tax_amount": null,
+    "po_number": [
+      "4505027310"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "ORACLE PEPSI CO . ONC.",
+    "vendor_address": "CAPP 201 MARPLE AVE, CLIFTON HEIGHTS, PA 19018, UNITED STATES",
+    "po_line_items": null
+  }
+}

@@ -1,0 +1,99 @@
+{
+  "invoice_data": {
+    "invoice_number": "203753516",
+    "invoice_date": "2/04/26",
+    "invoice_amount": "717.00",
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": "54.64",
+    "po_number": [
+      "M413535266"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": "58.36",
+    "cost_center": null,
+    "vendor_name": "ULINE",
+    "vendor_address": "PO Box 88741 • Chicago IL 60680-1741",
+    "po_line_items": [
+      {
+        "description": "12\" STEEL DUST PAN",
+        "quantity": 10.0,
+        "net_price": 9.0
+      },
+      {
+        "description": "[24\" MEDIUM CONTRACTORS BROOM",
+        "quantity": 6.0,
+        "net_price": 26.0
+      },
+      {
+        "description": "12\" STANDARD ANGLE BROOM 2/CT",
+        "quantity": 10.0,
+        "net_price": 13.0
+      },
+      {
+        "description": "PLASTIC STANDING DUST PAN",
+        "quantity": 6.0,
+        "net_price": 27.0
+      },
+      {
+        "description": "8\" PLASTIC COUNTER BRUSH-BLACK",
+        "quantity": 6.0,
+        "net_price": 11.0
+      }
+    ],
+    "vat_amount": null,
+    "gl_account": null,
+    "bank_name": null,
+    "account_holder_name": null,
+    "banking_account_number": null,
+    "remit_to_address": null,
+    "bill_to_address": null,
+    "transaction_type": "debit"
+  },
+  "filename": "SAPS4_5100176032_US29_PFNAUS_2026_999885004.pdf",
+  "raw_response": {
+    "invoice_number": "203753516",
+    "invoice_date": "2/04/26",
+    "invoice_amount": "717.00",
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": "54.64",
+    "po_number": [
+      "M413535266"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": "58.36",
+    "cost_center": null,
+    "vendor_name": "ULINE",
+    "vendor_address": "PO Box 88741 • Chicago IL 60680-1741",
+    "po_line_items": [
+      {
+        "description": "12\" STEEL DUST PAN",
+        "quantity": 10.0,
+        "net_price": 9.0
+      },
+      {
+        "description": "[24\" MEDIUM CONTRACTORS BROOM",
+        "quantity": 6.0,
+        "net_price": 26.0
+      },
+      {
+        "description": "12\" STANDARD ANGLE BROOM 2/CT",
+        "quantity": 10.0,
+        "net_price": 13.0
+      },
+      {
+        "description": "PLASTIC STANDING DUST PAN",
+        "quantity": 6.0,
+        "net_price": 27.0
+      },
+      {
+        "description": "8\" PLASTIC COUNTER BRUSH-BLACK",
+        "quantity": 6.0,
+        "net_price": 11.0
+      }
+    ]
+  }
+}

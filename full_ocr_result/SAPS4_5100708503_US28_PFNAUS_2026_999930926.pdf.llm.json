@@ -1,0 +1,89 @@
+{
+  "invoice_data": {
+    "invoice_number": "980402426426",
+    "invoice_date": "Wednesday 11 Feb 2026 5:41 AM GMT-07:00",
+    "invoice_amount": "180.13",
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": "9.07",
+    "po_number": [
+      "M413551811"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "GRAINER",
+    "vendor_address": "100 Grainger Pkwy, Lake Forest, IL 27105, United States, c/o PEPSICO NASS, PALATINE, IL 60038-0001, United States",
+    "po_line_items": [
+      {
+        "description": "Material 6XGC7 / Ear Plugs,Corded,Flanged,26dB,PK100",
+        "quantity": 1.0,
+        "net_price": 78.05
+      },
+      {
+        "description": "Material 1FYX7 / SafetyGlasses,Clear.AntiFog.ScrtchRsstnt",
+        "quantity": 24.0,
+        "net_price": 0.91
+      },
+      {
+        "description": "Material 4DY86 / Ear Plugs,Corded,Contoured-T.33dB.PK100",
+        "quantity": 1.0,
+        "net_price": 36.37
+      },
+      {
+        "description": "Material 6XKD2 / Safety Glasses, Clear, Clear",
+        "quantity": 24.0,
+        "net_price": 1.45
+      }
+    ],
+    "vat_amount": null,
+    "gl_account": null,
+    "bank_name": null,
+    "account_holder_name": null,
+    "banking_account_number": null,
+    "remit_to_address": null,
+    "bill_to_address": null,
+    "transaction_type": "debit"
+  },
+  "filename": "SAPS4_5100708503_US28_PFNAUS_2026_999930926.pdf",
+  "raw_response": {
+    "invoice_number": "980402426426",
+    "invoice_date": "Wednesday 11 Feb 2026 5:41 AM GMT-07:00",
+    "invoice_amount": "180.13",
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": "9.07",
+    "po_number": [
+      "M413551811"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "GRAINER",
+    "vendor_address": "100 Grainger Pkwy, Lake Forest, IL 27105, United States, c/o PEPSICO NASS, PALATINE, IL 60038-0001, United States",
+    "po_line_items": [
+      {
+        "description": "Material 6XGC7 / Ear Plugs,Corded,Flanged,26dB,PK100",
+        "quantity": 1.0,
+        "net_price": 78.05
+      },
+      {
+        "description": "Material 1FYX7 / SafetyGlasses,Clear.AntiFog.ScrtchRsstnt",
+        "quantity": 24.0,
+        "net_price": 0.91
+      },
+      {
+        "description": "Material 4DY86 / Ear Plugs,Corded,Contoured-T.33dB.PK100",
+        "quantity": 1.0,
+        "net_price": 36.37
+      },
+      {
+        "description": "Material 6XKD2 / Safety Glasses, Clear, Clear",
+        "quantity": 24.0,
+        "net_price": 1.45
+      }
+    ]
+  }
+}

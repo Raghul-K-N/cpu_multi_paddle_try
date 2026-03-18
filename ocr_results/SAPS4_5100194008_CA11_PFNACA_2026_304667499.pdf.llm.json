@@ -1,0 +1,69 @@
+{
+  "invoice_data": {
+    "invoice_number": "NoMASTER-CARR",
+    "invoice_date": "Friday 13 Feb 2026 9:57 AM GMT-05:00",
+    "invoice_amount": "69.26",
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": "8.51",
+    "po_number": [
+      "M413554512"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": "20.79",
+    "cost_center": null,
+    "vendor_name": "McMaster-Carr Supply",
+    "vendor_address": "McMaster-Carr Supply, Company, PO Box 7690, Chicago, IL 60680-7690, United States",
+    "po_line_items": [
+      {
+        "description": "1760A1 / Aluminum Hook. 1.25\" Wide × 1.5\" High x 1-5/8\" Deep Part #1760A1",
+        "quantity": 8.0,
+        "net_price": 2.7
+      },
+      {
+        "description": "15295A2 / Hook 5/8\" Wide × 3-3/4\" High x 1-3/4\" Deep Overall Part #15295A2",
+        "quantity": 6.0,
+        "net_price": 3.06
+      }
+    ],
+    "vat_amount": null,
+    "gl_account": null,
+    "bank_name": null,
+    "account_holder_name": null,
+    "banking_account_number": null,
+    "remit_to_address": null,
+    "bill_to_address": null,
+    "transaction_type": "debit"
+  },
+  "filename": "SAPS4_5100194008_CA11_PFNACA_2026_304667499.pdf",
+  "raw_response": {
+    "invoice_number": "NoMASTER-CARR",
+    "invoice_date": "Friday 13 Feb 2026 9:57 AM GMT-05:00",
+    "invoice_amount": "69.26",
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": "8.51",
+    "po_number": [
+      "M413554512"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": "20.79",
+    "cost_center": null,
+    "vendor_name": "McMaster-Carr Supply",
+    "vendor_address": "McMaster-Carr Supply, Company, PO Box 7690, Chicago, IL 60680-7690, United States",
+    "po_line_items": [
+      {
+        "description": "1760A1 / Aluminum Hook. 1.25\" Wide × 1.5\" High x 1-5/8\" Deep Part #1760A1",
+        "quantity": 8.0,
+        "net_price": 2.7
+      },
+      {
+        "description": "15295A2 / Hook 5/8\" Wide × 3-3/4\" High x 1-3/4\" Deep Overall Part #15295A2",
+        "quantity": 6.0,
+        "net_price": 3.06
+      }
+    ]
+  }
+}

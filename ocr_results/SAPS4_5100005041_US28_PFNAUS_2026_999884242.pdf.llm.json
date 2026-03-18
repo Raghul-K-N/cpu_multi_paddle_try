@@ -1,0 +1,69 @@
+{
+  "invoice_data": {
+    "invoice_number": "5291859001",
+    "invoice_date": "02/11/2026",
+    "invoice_amount": "86.85",
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": "7.03",
+    "po_number": [
+      "M413160432"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": "0.00",
+    "cost_center": null,
+    "vendor_name": "VESTIS",
+    "vendor_address": "PO BOX 101179, PASADENA CA 91189-1179",
+    "po_line_items": [
+      {
+        "description": "TS0002FWWT SHOP TOWEL PLAIN 18X18 Rent",
+        "quantity": 3500.0,
+        "net_price": 0.021
+      },
+      {
+        "description": "TS0002FWWT SHOP TOWEL PLAIN 18X18 Replacement C",
+        "quantity": 31.0,
+        "net_price": 0.204
+      }
+    ],
+    "vat_amount": null,
+    "gl_account": null,
+    "bank_name": null,
+    "account_holder_name": null,
+    "banking_account_number": null,
+    "remit_to_address": null,
+    "bill_to_address": null,
+    "transaction_type": "debit"
+  },
+  "filename": "SAPS4_5100005041_US28_PFNAUS_2026_999884242.pdf",
+  "raw_response": {
+    "invoice_number": "5291859001",
+    "invoice_date": "02/11/2026",
+    "invoice_amount": "86.85",
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": "7.03",
+    "po_number": [
+      "M413160432"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": "0.00",
+    "cost_center": null,
+    "vendor_name": "VESTIS",
+    "vendor_address": "PO BOX 101179, PASADENA CA 91189-1179",
+    "po_line_items": [
+      {
+        "description": "TS0002FWWT SHOP TOWEL PLAIN 18X18 Rent",
+        "quantity": 3500.0,
+        "net_price": 0.021
+      },
+      {
+        "description": "TS0002FWWT SHOP TOWEL PLAIN 18X18 Replacement C",
+        "quantity": 31.0,
+        "net_price": 0.204
+      }
+    ]
+  }
+}

@@ -1,0 +1,119 @@
+{
+  "invoice_data": {
+    "invoice_number": "I001G47159",
+    "invoice_date": "02/11/26",
+    "invoice_amount": "417.26",
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": "23.62",
+    "po_number": [
+      "P001Q09540"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": "38.74",
+    "cost_center": null,
+    "vendor_name": "IMPERIAL SUPPLIES LLC",
+    "vendor_address": "JANESVILLE,WI 53547-5362",
+    "po_line_items": [
+      {
+        "description": "TRIM SCREWS 8X5/8 PHILLI",
+        "quantity": 100.0,
+        "net_price": 16.36
+      },
+      {
+        "description": "TRIM SCREWS 8X1/2 PH HD",
+        "quantity": 100.0,
+        "net_price": 15.56
+      },
+      {
+        "description": "TRIM SCREWS 10X3/4 PH",
+        "quantity": 50.0,
+        "net_price": 28.6
+      },
+      {
+        "description": "TRIM SCREWS 10X1-1/4 PH",
+        "quantity": 50.0,
+        "net_price": 28.02
+      },
+      {
+        "description": "TRIM SCREWS 8X1-1/2 PH H",
+        "quantity": 50.0,
+        "net_price": 37.17
+      },
+      {
+        "description": "SAND RIGID P ARTS REPAIR",
+        "quantity": 1.0,
+        "net_price": 197.89
+      },
+      {
+        "description": "DUALCART. APPLICATOR",
+        "quantity": 1.0,
+        "net_price": 116.93
+      }
+    ],
+    "vat_amount": null,
+    "gl_account": null,
+    "bank_name": null,
+    "account_holder_name": null,
+    "banking_account_number": null,
+    "remit_to_address": null,
+    "bill_to_address": null,
+    "transaction_type": "debit"
+  },
+  "filename": "SAPS4_5100138010_US30_PFNAUS_2026_999885273.pdf",
+  "raw_response": {
+    "invoice_number": "I001G47159",
+    "invoice_date": "02/11/26",
+    "invoice_amount": "417.26",
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": "23.62",
+    "po_number": [
+      "P001Q09540"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": "38.74",
+    "cost_center": null,
+    "vendor_name": "IMPERIAL SUPPLIES LLC",
+    "vendor_address": "JANESVILLE,WI 53547-5362",
+    "po_line_items": [
+      {
+        "description": "TRIM SCREWS 8X5/8 PHILLI",
+        "quantity": 100.0,
+        "net_price": 16.36
+      },
+      {
+        "description": "TRIM SCREWS 8X1/2 PH HD",
+        "quantity": 100.0,
+        "net_price": 15.56
+      },
+      {
+        "description": "TRIM SCREWS 10X3/4 PH",
+        "quantity": 50.0,
+        "net_price": 28.6
+      },
+      {
+        "description": "TRIM SCREWS 10X1-1/4 PH",
+        "quantity": 50.0,
+        "net_price": 28.02
+      },
+      {
+        "description": "TRIM SCREWS 8X1-1/2 PH H",
+        "quantity": 50.0,
+        "net_price": 37.17
+      },
+      {
+        "description": "SAND RIGID P ARTS REPAIR",
+        "quantity": 1.0,
+        "net_price": 197.89
+      },
+      {
+        "description": "DUALCART. APPLICATOR",
+        "quantity": 1.0,
+        "net_price": 116.93
+      }
+    ]
+  }
+}

@@ -1,0 +1,99 @@
+{
+  "invoice_data": {
+    "invoice_number": "4234519793",
+    "invoice_date": "12/29/2025",
+    "invoice_amount": "30,102.07",
+    "invoice_currency": [
+      "CAD"
+    ],
+    "tax_amount": null,
+    "po_number": [
+      "4504134155"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "Smurfit Westrock",
+    "vendor_address": "150 PARK HILL DRIVE, MILTON, ON L9T 5V7",
+    "po_line_items": [
+      {
+        "description": "CPU",
+        "quantity": 3200.0,
+        "net_price": 793.05
+      },
+      {
+        "description": "CPU",
+        "quantity": 4120.0,
+        "net_price": 652.8
+      },
+      {
+        "description": "CPU",
+        "quantity": 3750.0,
+        "net_price": 3786.54
+      },
+      {
+        "description": "CPU",
+        "quantity": 11000.0,
+        "net_price": 803.46
+      },
+      {
+        "description": "GOOD FUN! CORNER SUPPORT (6MM HT)",
+        "quantity": 1173.0,
+        "net_price": 1433.44
+      }
+    ],
+    "vat_amount": null,
+    "gl_account": null,
+    "bank_name": null,
+    "account_holder_name": null,
+    "banking_account_number": null,
+    "remit_to_address": null,
+    "bill_to_address": null,
+    "transaction_type": "debit"
+  },
+  "filename": "SAPS4_5100098006_CA11_PFNACA_2026_304667732.pdf",
+  "raw_response": {
+    "invoice_number": "4234519793",
+    "invoice_date": "12/29/2025",
+    "invoice_amount": "30,102.07",
+    "invoice_currency": [
+      "CAD"
+    ],
+    "tax_amount": null,
+    "po_number": [
+      "4504134155"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "Smurfit Westrock",
+    "vendor_address": "150 PARK HILL DRIVE, MILTON, ON L9T 5V7",
+    "po_line_items": [
+      {
+        "description": "CPU",
+        "quantity": 3200.0,
+        "net_price": 793.05
+      },
+      {
+        "description": "CPU",
+        "quantity": 4120.0,
+        "net_price": 652.8
+      },
+      {
+        "description": "CPU",
+        "quantity": 3750.0,
+        "net_price": 3786.54
+      },
+      {
+        "description": "CPU",
+        "quantity": 11000.0,
+        "net_price": 803.46
+      },
+      {
+        "description": "GOOD FUN! CORNER SUPPORT (6MM HT)",
+        "quantity": 1173.0,
+        "net_price": 1433.44
+      }
+    ]
+  }
+}

@@ -1,0 +1,69 @@
+{
+  "invoice_data": {
+    "invoice_number": "2601141",
+    "invoice_date": "Friday 13 Feb 2026 12:14 PM GMT-06:00",
+    "invoice_amount": "487.22",
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": null,
+    "po_number": [
+      "M413539375"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "ACP International",
+    "vendor_address": "521 N GREAT SOUTHWEST PKWY, ARLINGTON, TX 76011, United States, Address ID: US29",
+    "po_line_items": [
+      {
+        "description": "Not Available / LINE 1 - MATERIAL - Route Lane Labels",
+        "quantity": 455.35,
+        "net_price": 1.0
+      },
+      {
+        "description": "Not Available / LINE 2 - FREIGHT",
+        "quantity": 31.87,
+        "net_price": 1.0
+      }
+    ],
+    "vat_amount": null,
+    "gl_account": null,
+    "bank_name": null,
+    "account_holder_name": null,
+    "banking_account_number": null,
+    "remit_to_address": null,
+    "bill_to_address": null,
+    "transaction_type": "debit"
+  },
+  "filename": "SAPS4_5100153536_US29_PFNAUS_2026_999872787.pdf",
+  "raw_response": {
+    "invoice_number": "2601141",
+    "invoice_date": "Friday 13 Feb 2026 12:14 PM GMT-06:00",
+    "invoice_amount": "487.22",
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": null,
+    "po_number": [
+      "M413539375"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "ACP International",
+    "vendor_address": "521 N GREAT SOUTHWEST PKWY, ARLINGTON, TX 76011, United States, Address ID: US29",
+    "po_line_items": [
+      {
+        "description": "Not Available / LINE 1 - MATERIAL - Route Lane Labels",
+        "quantity": 455.35,
+        "net_price": 1.0
+      },
+      {
+        "description": "Not Available / LINE 2 - FREIGHT",
+        "quantity": 31.87,
+        "net_price": 1.0
+      }
+    ]
+  }
+}

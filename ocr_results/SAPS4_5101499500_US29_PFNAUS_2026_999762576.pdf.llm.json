@@ -1,0 +1,79 @@
+{
+  "invoice_data": {
+    "invoice_number": "10259",
+    "invoice_date": "January 30, 2026",
+    "invoice_amount": "541.57",
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": "4.57",
+    "po_number": [
+      "M413412817"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "Rockin R Realty",
+    "vendor_address": "11522 E 650 N, Sheridan, IN 46069",
+    "po_line_items": [
+      {
+        "description": "Repair, adjust and maintenance on the following doors: Entrance door from office to warehouse, replace the damaged lockset, replaced a couple hinge screws with longer ones to hold door tight, tighten all hinge screws and lubed hinges, tighten up door closure screws, lubed and adjusted to close properly.",
+        "quantity": null,
+        "net_price": 65.25
+      },
+      {
+        "description": "Restroom door, tighten all the hinge screws and lubed so door will latch",
+        "quantity": null,
+        "net_price": null
+      },
+      {
+        "description": "Entrance door, checked all hinge screws and lubed hinges",
+        "quantity": null,
+        "net_price": null
+      }
+    ],
+    "vat_amount": null,
+    "gl_account": null,
+    "bank_name": null,
+    "account_holder_name": null,
+    "banking_account_number": null,
+    "remit_to_address": null,
+    "bill_to_address": null,
+    "transaction_type": "debit"
+  },
+  "filename": "SAPS4_5101499500_US29_PFNAUS_2026_999762576.pdf",
+  "raw_response": {
+    "invoice_number": "10259",
+    "invoice_date": "January 30, 2026",
+    "invoice_amount": "541.57",
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": "4.57",
+    "po_number": [
+      "M413412817"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "Rockin R Realty",
+    "vendor_address": "11522 E 650 N, Sheridan, IN 46069",
+    "po_line_items": [
+      {
+        "description": "Repair, adjust and maintenance on the following doors: Entrance door from office to warehouse, replace the damaged lockset, replaced a couple hinge screws with longer ones to hold door tight, tighten all hinge screws and lubed hinges, tighten up door closure screws, lubed and adjusted to close properly.",
+        "quantity": null,
+        "net_price": 65.25
+      },
+      {
+        "description": "Restroom door, tighten all the hinge screws and lubed so door will latch",
+        "quantity": null,
+        "net_price": null
+      },
+      {
+        "description": "Entrance door, checked all hinge screws and lubed hinges",
+        "quantity": null,
+        "net_price": null
+      }
+    ]
+  }
+}

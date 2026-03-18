@@ -1,0 +1,384 @@
+==================================<Page 1 - START>================================
+Standard Invoice
+                                                                                                                    GRAINGR
+Original tax invoice has been submitted electronically. This is a
+human readable representation (copy) of the original tax invoice.
+                                                                                                                  980562160526
+                                                                Invoice Number
+                                                                (Supplier Reference No.)
+                                                                                              Thursday 12 Feb 2026 5:26 AM GMT-07:00
+                                                                Invoice Date
+                                                                                                                 $1,118.27 USD
+                                                                Amount Due
+    Contact Information
+                                                                          Shipping Information
+    Supplier                      Customer
+                                                                          Ship From                     Ship To
+    Grainger
+                                 Rolling Frito-Lay Sales                         Grainger                      APPLE VALLEY-MN-DC
+    100 Grainger Pkwy               c/o PEPSICO NASS                           701 GRAINGER WAY              KEEPSTOCK
+    Lake Forest                    ACCOUNTS PAYABLES                       MINOOKA                      6080 147TH ST W
+    IL                           PO BOX 1800                               IL                            APPLE VALLEY
+    Winst                        Winston Salem                              60447                        MN
+    United States                  NC                                      United States                    55124
+                                 27105                                                                 United States
+                                 United States                                                            Phone: (800) 433-2652
+  Line Items                                              PO No. : M413554437                                       PO Date : 12 Feb 2026
+  Line No.   PO Line No.          Type    Supplier Part No. /              Customer Part No.        Quantity            Unit Price         Subtotal
+                                      Description                                       (UOM)
+  1
+            1                 Material 784RK4 / LightDuty Multi-Purpose                        12 / (EA)           $3.45 USD       $41.40 USD
+                                      Gloves,Size11.PR
+  Line No.   PO Line No.
+                               Type    Supplier Part No. /             Customer Part No.        Quantity            Unit Price         Subtotal
+                                      Description                                       (UOM)
+  2        2                 Material 807EL0 / Knee Pad,L/XL,Pull-                           8 / (EA)           $39.64 USD      $317.12 USD
+                                      On,Black,PR
+  Line No.    PO Line No.         Type    Supplier Part No. /             Customer Part No.        Quantity            Unit Price         Subtotal
+                                      Description                                       (UOM)
+  3
+            3                 Material 784RK3 / LightDuty Multi-Purpose                        48 / (EA)           $3.45 USD      $165.60 USD
+                                      Gloves,Size10,PR
+  Line No.    PO Line No.         Type   Supplier Part No. /                                                    Unit Price         Subtotal
+                                                                Customer Part No.        Quantity
+                                      Description
+                                                                                     (UOM)
+  4        4                 Material 793NX3 / Thermal Coated                             12 / (EA)          $11.46 USD      $137.52 USD
+                                      Glove,L,Gray,PR
+  Line No.    PO Line No.         Type    Supplier Part No. /             Customer Part No.        Quantity            Unit Price         Subtotal
+                                      Description                                       (UOM)
+                                                                                                                     $207.00 USD
+  5        5                 Material 784RK2 / LightDuty Multi-Purpose                        60 / (EA)           $3.45 USD
+                                      Gloves,Size 9,PR
+                              Type    Supplier Part No. /                                                    Unit Price         Subtotal
+  Line No.    PO Line No.                                           Customer Part No.        Quantity
+                                      Description
+                                                                                     (UOM)
+  6        6                 Material 784RK1 / LightDuty Multi-Purpose                        48 / (EA)           $3.45 USD      $165.60 USD
+                                      Gloves,Size 8,PR
+                                                                             Amount Summary
+                                                                             Line item subtotal                         $1,034.24 USD
+                                                                             Gross amount                           $1.118.27 USD
+                                                                             Net amount                             $1,118.27 USD
+                                                                                                                     $84.03 USD
+                                                                             Total tax amount
+                                                                             Total withholding tax amount
+                                                                                                                   $1,118.27 USD
+                                                                             Amount Due
+   Additional Information
+   InvoiceSourceDocument
+   PurchaseOrder
+   InvoiceSubmissionMethod
+  cXML
+                                                                         Remittance Information
+  Billing Information
+                                                                        Remit To
+  Bill To
+  Rolling Frito-Lay Sales                                                      GRAINGER
+  c/o PEPSICO NASS                                                       DEPT. 888068801
+  ACCOUNTS PAYABLES                                                    PALATINE
+  PO BOX 1800                                                            IL
+  Winston Salem                                                           60038-0001
+  NC                                                                   United States
+  27105                                                                 Address ID: US1_10359
+  United States
+                                                                        Tax ID of Supplier
+  Address ID: US29
+                                                                        36-1150280
+                                                                     Reference Documents
+                                                                     Original Supplier Order #: 1575944740
+==================================<Page 1 - END>================================
+==================================<Page 2 - START>================================
+  Appendix
+ Line No.    PO Line No. Type
+                                                        Supplier Part No. / Description
+  1
+             1         Material                         784RK4 / LightDuty Multi-Purpose Gloves,Size11,PR
+  Additional Details:
+  Supplier Part ID : 784RK4
+  Supplier Part Auxiliary ID : WWG784RK4
+ Line No.
+             PO Line No. Type                           Supplier Part No. / Description
+ 2
+             2         Material                         807EL0 / Knee Pad,L/XL,Pull-On,Black,PR
+ Additional Details:
+ Supplier Part ID : 807EL0
+ Supplier Part Auxiliary ID : WWG807EL0
+ Line No.    PO Line No. Type                           Supplier Part No. / Description
+ 3          3         Material                         784RK3 / LightDuty Multi-Purpose Gloves,Size10,PR
+ Additional Details:
+  Supplier Part ID : 784RK3
+ Supplier Part Auxiliary ID : WWG784RK3
+ Line No.    PO Line No. Type                            Supplier Part No. / Description
+ 4         4          Material                         793NX3 / Thermal Coated Glove,L,Gray,PR
+ Additional Details:
+ Supplier Part ID : 793NX3
+ Supplier Part Auxiliary ID : WWG793NX3
+Line No.    PO Line No. Type                            Supplier Part No. / Description
+ 5         5         Material                         784RK2 / LightDuty Multi-Purpose Gloves,Size 9,PR
+Additional Details:
+Supplier Part ID : 784RK2
+Supplier Part Auxiliary ID : WWG784RK2
+Line No.    PO Line No. Type                            Supplier Part No. / Description
+6         6         Material                         784RK1 / LightDuty Multi-Purpose Gloves,Size 8,PR
+Additional Details:
+Supplier Part ID : 784RK1
+Supplier Part Auxiliary ID : WWG784RK1
+PDF generated on Friday 13 Feb 2026 5:03 AM GMT-08:00
+==================================<Page 2 - END>================================
+==================================<Page 3 - START>================================
+  Standard Invoice
+                                                                                                                     GRAINGR
+ Original tax invoice has been submitted electronically. This is a
+ human readable representation (copy) of the original tax invoice.
+                                                                                                                   980562160526
+                                                                  Invoice Number
+                                                                  (Supplier Reference No.)
+                                                                                               Thursday 12 Feb 2026 5:26 AM GMT-07:00
+                                                                  Invoice Date
+                                                                                                                   $1,118.27 USD
+                                                                 Amount Due
+     Contact Information
+                                                                           Shipping Information
+     Supplier                      Customer
+                                                                           Ship From                     Ship To
+     Grainger
+                                  Rolling Frito-Lay Sales                         Grainger                      APPLE VALLEY-MN-DC
+      100 Grainger Pkwy               c/o PEPSICO NASS                           701 GRAINGER WAY              KEEPSTOCK
+      Lake Forest                    ACCOUNTS PAYABLES                       MINOOKA                      6080 147TH ST W
+      IL                           PO BOX 1800                               IL                            APPLE VALLEY
+      Winst                        Winston Salem                              60447                        MN
+      United States                  NC                                      United States                    55124
+                                  27105                                                                 United States
+                                  United States                                                            Phone: (800) 433-2652
+    Line Items                                              PO No. : M413554437                                       PO Date : 12 Feb 2026
+    Line No.   PO Line No.          Type    Supplier Part No. /              Customer Part No.        Quantity            Unit Price         Subtotal
+                                        Description                                       (UOM)
+    1
+              1                 Material 784RK4 / LightDuty Multi-Purpose                        12 / (EA)           $3.45 USD       $41.40 USD
+                                        Gloves,Size11.PR
+    Line No.   PO Line No.
+                                Type    Supplier Part No. /             Customer Part No.        Quantity            Unit Price         Subtotal
+                                        Description                                       (UOM)
+    2        2                 Material 807EL0 / Knee Pad,L/XL,Pull-                           8 / (EA)           $39.64 USD      $317.12 USD
+                                        On,Black,PR
+    Line No.    PO Line No.         Type    Supplier Part No. /             Customer Part No.        Quantity            Unit Price         Subtotal
+                                        Description                                       (UOM)
+    3
+              3                 Material 784RK3 / LightDuty Multi-Purpose                        48 / (EA)           $3.45 USD      $165.60 USD
+                                        Gloves,Size10,PR
+    Line No.    PO Line No.         Type   Supplier Part No. /                                                    Unit Price         Subtotal
+                                                                  Customer Part No.        Quantity
+                                       Description
+                                                                                       (UOM)
+    4        4                 Material 793NX3 / Thermal Coated                             12 / (EA)          $11.46 USD      $137.52 USD
+                                        Glove,L,Gray,PR
+   Line No.    PO Line No.         Type    Supplier Part No. /             Customer Part No.        Quantity            Unit Price         Subtotal
+                                        Description                                       (UOM)
+                                                                                                                      $207.00 USD
+   5        5                 Material 784RK2 / LightDuty Multi-Purpose                        60 / (EA)           $3.45 USD
+                                        Gloves,Size 9,PR
+                                Type    Supplier Part No. /                                                    Unit Price         Subtotal
+   Line No.    PO Line No.                                           Customer Part No.        Quantity
+                                       Description
+                                                                                       (UOM)
+   6        6                 Material 784RK1 / LightDuty Multi-Purpose                        48 / (EA)           $3.45 USD      $165.60 USD
+                                       Gloves,Size 8,PR
+                                                                              Amount Summary
+                                                                              Line item subtotal                         $1,034.24 USD
+                                                                              Gross amount                           $1.118.27 USD
+                                                                              Net amount                             $1,118.27 USD
+                                                                                                                      $84.03 USD
+                                                                              Total tax amount
+                                                                              Total withholding tax amount
+                                                                                                                    $1,118.27 USD
+                                                                              Amount Due
+    Additional Information
+    InvoiceSourceDocument
+    PurchaseOrder
+    InvoiceSubmissionMethod
+    cXML
+                                                                          Remittance Information
+    Billing Information
+                                                                          Remit To
+    Bill To
+    Rolling Frito-Lay Sales                                                      GRAINGER
+    c/o PEPSICO NASS                                                       DEPT. 888068801
+   ACCOUNTS PAYABLES                                                    PALATINE
+   PO BOX 1800                                                            IL
+   Winston Salem                                                           60038-0001
+   NC                                                                   United States
+   27105                                                                 Address ID: US1_10359
+   United States
+                                                                          Tax ID of Supplier
+   Address ID: US29
+                                                                          36-1150280
+                                                                      Reference Documents
+                                                                      Original Supplier Order #: 1575944740
+==================================<Page 3 - END>================================
+==================================<Page 4 - START>================================
+  Appendix
+ Line No.    PO Line No. Type
+                                                        Supplier Part No. / Description
+  1
+             1         Material                         784RK4 / LightDuty Multi-Purpose Gloves,Size11,PR
+  Additional Details:
+  Supplier Part ID : 784RK4
+  Supplier Part Auxiliary ID : WWG784RK4
+ Line No.
+             PO Line No. Type                           Supplier Part No. / Description
+ 2
+             2         Material                         807EL0 / Knee Pad,L/XL,Pull-On,Black,PR
+ Additional Details:
+ Supplier Part ID : 807EL0
+ Supplier Part Auxiliary ID : WWG807EL0
+ Line No.    PO Line No. Type                           Supplier Part No. / Description
+ 3          3         Material                         784RK3 / LightDuty Multi-Purpose Gloves,Size10,PR
+ Additional Details:
+  Supplier Part ID : 784RK3
+ Supplier Part Auxiliary ID : WWG784RK3
+ Line No.    PO Line No. Type                            Supplier Part No. / Description
+ 4         4          Material                         793NX3 / Thermal Coated Glove,L,Gray,PR
+ Additional Details:
+ Supplier Part ID : 793NX3
+ Supplier Part Auxiliary ID : WWG793NX3
+Line No.    PO Line No. Type                            Supplier Part No. / Description
+ 5         5         Material                         784RK2 / LightDuty Multi-Purpose Gloves,Size 9,PR
+Additional Details:
+Supplier Part ID : 784RK2
+Supplier Part Auxiliary ID : WWG784RK2
+Line No.    PO Line No. Type                            Supplier Part No. / Description
+6         6         Material                         784RK1 / LightDuty Multi-Purpose Gloves,Size 8,PR
+Additional Details:
+Supplier Part ID : 784RK1
+Supplier Part Auxiliary ID : WWG784RK1
+PDF generated on Friday 13 Feb 2026 5:03 AM GMT-08:00
+==================================<Page 4 - END>================================
+==================================<Page 5 - START>================================
+  Standard Invoice
+                                                                                                                     GRAINGR
+ Original tax invoice has been submitted electronically. This is a
+ human readable representation (copy) of the original tax invoice.
+                                                                                                                   980562160526
+                                                                  Invoice Number
+                                                                  (Supplier Reference No.)
+                                                                                               Thursday 12 Feb 2026 5:26 AM GMT-07:00
+                                                                  Invoice Date
+                                                                                                                   $1,118.27 USD
+                                                                 Amount Due
+     Contact Information
+                                                                           Shipping Information
+     Supplier                      Customer
+                                                                           Ship From                     Ship To
+     Grainger
+                                  Rolling Frito-Lay Sales                         Grainger                      APPLE VALLEY-MN-DC
+      100 Grainger Pkwy               c/o PEPSICO NASS                           701 GRAINGER WAY              KEEPSTOCK
+      Lake Forest                    ACCOUNTS PAYABLES                       MINOOKA                      6080 147TH ST W
+      IL                           PO BOX 1800                               IL                            APPLE VALLEY
+      Winst                        Winston Salem                              60447                        MN
+      United States                  NC                                      United States                    55124
+                                  27105                                                                 United States
+                                  United States                                                            Phone: (800) 433-2652
+    Line Items                                              PO No. : M413554437                                       PO Date : 12 Feb 2026
+    Line No.   PO Line No.          Type    Supplier Part No. /              Customer Part No.        Quantity            Unit Price         Subtotal
+                                        Description                                       (UOM)
+    1
+              1                 Material 784RK4 / LightDuty Multi-Purpose                        12 / (EA)           $3.45 USD       $41.40 USD
+                                        Gloves,Size11.PR
+    Line No.   PO Line No.
+                                Type    Supplier Part No. /             Customer Part No.        Quantity            Unit Price         Subtotal
+                                        Description                                       (UOM)
+    2        2                 Material 807EL0 / Knee Pad,L/XL,Pull-                           8 / (EA)           $39.64 USD      $317.12 USD
+                                        On,Black,PR
+    Line No.    PO Line No.         Type    Supplier Part No. /             Customer Part No.        Quantity            Unit Price         Subtotal
+                                        Description                                       (UOM)
+    3
+              3                 Material 784RK3 / LightDuty Multi-Purpose                        48 / (EA)           $3.45 USD      $165.60 USD
+                                        Gloves,Size10,PR
+    Line No.    PO Line No.         Type   Supplier Part No. /                                                    Unit Price         Subtotal
+                                                                  Customer Part No.        Quantity
+                                       Description
+                                                                                       (UOM)
+    4        4                 Material 793NX3 / Thermal Coated                             12 / (EA)          $11.46 USD      $137.52 USD
+                                        Glove,L,Gray,PR
+   Line No.    PO Line No.         Type    Supplier Part No. /             Customer Part No.        Quantity            Unit Price         Subtotal
+                                        Description                                       (UOM)
+                                                                                                                      $207.00 USD
+   5        5                 Material 784RK2 / LightDuty Multi-Purpose                        60 / (EA)           $3.45 USD
+                                        Gloves,Size 9,PR
+                                Type    Supplier Part No. /                                                    Unit Price         Subtotal
+   Line No.    PO Line No.                                           Customer Part No.        Quantity
+                                       Description
+                                                                                       (UOM)
+   6        6                 Material 784RK1 / LightDuty Multi-Purpose                        48 / (EA)           $3.45 USD      $165.60 USD
+                                       Gloves,Size 8,PR
+                                                                              Amount Summary
+                                                                              Line item subtotal                         $1,034.24 USD
+                                                                              Gross amount                           $1.118.27 USD
+                                                                              Net amount                             $1,118.27 USD
+                                                                                                                      $84.03 USD
+                                                                              Total tax amount
+                                                                              Total withholding tax amount
+                                                                                                                    $1,118.27 USD
+                                                                              Amount Due
+    Additional Information
+    InvoiceSourceDocument
+    PurchaseOrder
+    InvoiceSubmissionMethod
+    cXML
+                                                                          Remittance Information
+    Billing Information
+                                                                          Remit To
+    Bill To
+    Rolling Frito-Lay Sales                                                      GRAINGER
+    c/o PEPSICO NASS                                                       DEPT. 888068801
+   ACCOUNTS PAYABLES                                                    PALATINE
+   PO BOX 1800                                                            IL
+   Winston Salem                                                           60038-0001
+   NC                                                                   United States
+   27105                                                                 Address ID: US1_10359
+   United States
+                                                                          Tax ID of Supplier
+   Address ID: US29
+                                                                          36-1150280
+                                                                      Reference Documents
+                                                                      Original Supplier Order #: 1575944740
+==================================<Page 5 - END>================================
+==================================<Page 6 - START>================================
+  Appendix
+ Line No.    PO Line No. Type
+                                                        Supplier Part No. / Description
+  1
+             1         Material                         784RK4 / LightDuty Multi-Purpose Gloves,Size11,PR
+  Additional Details:
+  Supplier Part ID : 784RK4
+  Supplier Part Auxiliary ID : WWG784RK4
+ Line No.
+             PO Line No. Type                           Supplier Part No. / Description
+ 2
+             2         Material                         807EL0 / Knee Pad,L/XL,Pull-On,Black,PR
+ Additional Details:
+ Supplier Part ID : 807EL0
+ Supplier Part Auxiliary ID : WWG807EL0
+ Line No.    PO Line No. Type                           Supplier Part No. / Description
+ 3          3         Material                         784RK3 / LightDuty Multi-Purpose Gloves,Size10,PR
+ Additional Details:
+  Supplier Part ID : 784RK3
+ Supplier Part Auxiliary ID : WWG784RK3
+ Line No.    PO Line No. Type                            Supplier Part No. / Description
+ 4         4          Material                         793NX3 / Thermal Coated Glove,L,Gray,PR
+ Additional Details:
+ Supplier Part ID : 793NX3
+ Supplier Part Auxiliary ID : WWG793NX3
+Line No.    PO Line No. Type                            Supplier Part No. / Description
+ 5         5         Material                         784RK2 / LightDuty Multi-Purpose Gloves,Size 9,PR
+Additional Details:
+Supplier Part ID : 784RK2
+Supplier Part Auxiliary ID : WWG784RK2
+Line No.    PO Line No. Type                            Supplier Part No. / Description
+6         6         Material                         784RK1 / LightDuty Multi-Purpose Gloves,Size 8,PR
+Additional Details:
+Supplier Part ID : 784RK1
+Supplier Part Auxiliary ID : WWG784RK1
+PDF generated on Friday 13 Feb 2026 5:03 AM GMT-08:00
+==================================<Page 6 - END>================================

@@ -1,0 +1,55 @@
+{
+  "invoice_data": {
+    "invoice_number": "26-01-006",
+    "invoice_date": "1/29/26",
+    "invoice_amount": null,
+    "invoice_currency": null,
+    "tax_amount": null,
+    "po_number": [
+      "4505086136"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "Pauley's Welding Llc",
+    "vendor_address": "1114 Swanbrooke Dr, Bedford, VA 24523, 4342388389, 99-0857706, rickpauley0@gmail.com",
+    "po_line_items": [
+      {
+        "description": "Silo Heat Trace Return Piping Repair",
+        "quantity": 1.0,
+        "net_price": 1900.0
+      }
+    ],
+    "vat_amount": null,
+    "gl_account": null,
+    "bank_name": null,
+    "account_holder_name": null,
+    "banking_account_number": null,
+    "remit_to_address": null,
+    "bill_to_address": null,
+    "transaction_type": "debit"
+  },
+  "filename": "SAPS4_5100600005_US28_PFNAUS_2026_999884655.pdf",
+  "raw_response": {
+    "invoice_number": "26-01-006",
+    "invoice_date": "1/29/26",
+    "invoice_amount": null,
+    "invoice_currency": null,
+    "tax_amount": null,
+    "po_number": [
+      "4505086136"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "Pauley's Welding Llc",
+    "vendor_address": "1114 Swanbrooke Dr, Bedford, VA 24523, 4342388389, 99-0857706, rickpauley0@gmail.com",
+    "po_line_items": [
+      {
+        "description": "Silo Heat Trace Return Piping Repair",
+        "quantity": 1.0,
+        "net_price": 1900.0
+      }
+    ]
+  }
+}

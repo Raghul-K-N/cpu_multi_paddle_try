@@ -1,0 +1,101 @@
+{
+  "invoice_data": {
+    "invoice_number": "6582678908",
+    "invoice_date": "10/23/2025",
+    "invoice_amount": "638.30",
+    "invoice_currency": [
+      "CAD"
+    ],
+    "tax_amount": "78.40",
+    "po_number": [
+      "4504019392",
+      "M412744219-"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "BRIDGESTONE",
+    "vendor_address": "BRIDGESTONE CANADA INC., 770 HURONTARIO STREET, SUITE 300, MISSISSAUGA, ON L5R 3G5, CANADA",
+    "po_line_items": [
+      {
+        "description": "REGULAR HRS SERVICE CALL",
+        "quantity": 1.0,
+        "net_price": 140.25
+      },
+      {
+        "description": "FEE, FUEL SURCHARGE",
+        "quantity": 1.0,
+        "net_price": 11.25
+      },
+      {
+        "description": "FEE, MILEAGE",
+        "quantity": 25.0,
+        "net_price": 2.56
+      },
+      {
+        "description": "TIRE CHANGE, MEDIUM TRUCK",
+        "quantity": 1.0,
+        "net_price": 59.5
+      },
+      {
+        "description": "OTHER BRAND TIRES",
+        "quantity": 1.0,
+        "net_price": 284.9
+      }
+    ],
+    "vat_amount": null,
+    "gl_account": null,
+    "bank_name": null,
+    "account_holder_name": null,
+    "banking_account_number": null,
+    "remit_to_address": null,
+    "bill_to_address": null,
+    "transaction_type": "debit"
+  },
+  "filename": "SAPS4_5100231008_CA11_PFNACA_2026_304667627.pdf",
+  "raw_response": {
+    "invoice_number": "6582678908",
+    "invoice_date": "10/23/2025",
+    "invoice_amount": "638.30",
+    "invoice_currency": [
+      "CAD"
+    ],
+    "tax_amount": "78.40",
+    "po_number": [
+      "4504019392",
+      "M412744219-"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "BRIDGESTONE",
+    "vendor_address": "BRIDGESTONE CANADA INC., 770 HURONTARIO STREET, SUITE 300, MISSISSAUGA, ON L5R 3G5, CANADA",
+    "po_line_items": [
+      {
+        "description": "REGULAR HRS SERVICE CALL",
+        "quantity": 1.0,
+        "net_price": 140.25
+      },
+      {
+        "description": "FEE, FUEL SURCHARGE",
+        "quantity": 1.0,
+        "net_price": 11.25
+      },
+      {
+        "description": "FEE, MILEAGE",
+        "quantity": 25.0,
+        "net_price": 2.56
+      },
+      {
+        "description": "TIRE CHANGE, MEDIUM TRUCK",
+        "quantity": 1.0,
+        "net_price": 59.5
+      },
+      {
+        "description": "OTHER BRAND TIRES",
+        "quantity": 1.0,
+        "net_price": 284.9
+      }
+    ]
+  }
+}

@@ -1,0 +1,65 @@
+{
+  "invoice_data": {
+    "invoice_number": "11056",
+    "invoice_date": "12/19/2025",
+    "invoice_amount": null,
+    "invoice_currency": null,
+    "tax_amount": null,
+    "po_number": [
+      "4505103593"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "INCO ENGINEERING LTD.",
+    "vendor_address": "111 - 19181 34A Ave., Surrey, BC, V3Z0Z7",
+    "po_line_items": [
+      {
+        "description": "Boiler piping - Dec 9, 10 and 15",
+        "quantity": 15.0,
+        "net_price": 82.5
+      },
+      {
+        "description": "Materials: Bell and Gossett Circulation pump, Condensate neutrialization kit, T&P relief valve, 3/4\" 90 x 4, 3/4\" union, 3/4\" MIP, 3/4\" coupling",
+        "quantity": null,
+        "net_price": 1688.3
+      }
+    ],
+    "vat_amount": null,
+    "gl_account": null,
+    "bank_name": null,
+    "account_holder_name": null,
+    "banking_account_number": null,
+    "remit_to_address": null,
+    "bill_to_address": null,
+    "transaction_type": "debit"
+  },
+  "filename": "SAPS4_5101051511_CA02_PBNACA_2026_328615345.pdf",
+  "raw_response": {
+    "invoice_number": "11056",
+    "invoice_date": "12/19/2025",
+    "invoice_amount": null,
+    "invoice_currency": null,
+    "tax_amount": null,
+    "po_number": [
+      "4505103593"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "INCO ENGINEERING LTD.",
+    "vendor_address": "111 - 19181 34A Ave., Surrey, BC, V3Z0Z7",
+    "po_line_items": [
+      {
+        "description": "Boiler piping - Dec 9, 10 and 15",
+        "quantity": 15.0,
+        "net_price": 82.5
+      },
+      {
+        "description": "Materials: Bell and Gossett Circulation pump, Condensate neutrialization kit, T&P relief valve, 3/4\" 90 x 4, 3/4\" union, 3/4\" MIP, 3/4\" coupling",
+        "quantity": null,
+        "net_price": 1688.3
+      }
+    ]
+  }
+}

@@ -1,0 +1,123 @@
+{
+  "invoice_data": {
+    "invoice_number": "6585657063",
+    "invoice_date": "12/17/2025",
+    "invoice_amount": null,
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": null,
+    "po_number": [
+      "759217613",
+      "23576295",
+      "11120743"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "BRIDGESTONE",
+    "vendor_address": "00 4TH AVENUE SOUTH, SUITE 100, P.O. BOX 140990, NASHVILLE, TENNESSEE 37201, PO Box 730026, DALLAS, TX 75373-0026, USA",
+    "po_line_items": [
+      {
+        "description": "R238 245/70R17.5 TLBLSTJK18",
+        "quantity": 4085.0,
+        "net_price": 301.04
+      },
+      {
+        "description": "EMERGENCY AFTER HRS SVC",
+        "quantity": 1.0,
+        "net_price": 135.0
+      },
+      {
+        "description": "MISC TIRE RELATED PRODUCT",
+        "quantity": 1.0,
+        "net_price": 25.0
+      },
+      {
+        "description": "MISC TIRE RELATED PRODUCT",
+        "quantity": 1.0,
+        "net_price": 17.5
+      },
+      {
+        "description": "VALVE STEM,STEEL,ALUM WHL",
+        "quantity": 1.0,
+        "net_price": 6.5
+      },
+      {
+        "description": "VALVE CAP, FLOW THRU",
+        "quantity": 1.0,
+        "net_price": 1.25
+      },
+      {
+        "description": "SCRAP",
+        "quantity": 1.0,
+        "net_price": 8.5
+      }
+    ],
+    "vat_amount": null,
+    "gl_account": null,
+    "bank_name": null,
+    "account_holder_name": null,
+    "banking_account_number": null,
+    "remit_to_address": null,
+    "bill_to_address": null,
+    "transaction_type": "debit"
+  },
+  "filename": "SAPS4_5100020021_US30_PFNAUS_2026_999884993.pdf",
+  "raw_response": {
+    "invoice_number": "6585657063",
+    "invoice_date": "12/17/2025",
+    "invoice_amount": null,
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": null,
+    "po_number": [
+      "759217613",
+      "23576295",
+      "11120743"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "BRIDGESTONE",
+    "vendor_address": "00 4TH AVENUE SOUTH, SUITE 100, P.O. BOX 140990, NASHVILLE, TENNESSEE 37201, PO Box 730026, DALLAS, TX 75373-0026, USA",
+    "po_line_items": [
+      {
+        "description": "R238 245/70R17.5 TLBLSTJK18",
+        "quantity": 4085.0,
+        "net_price": 301.04
+      },
+      {
+        "description": "EMERGENCY AFTER HRS SVC",
+        "quantity": 1.0,
+        "net_price": 135.0
+      },
+      {
+        "description": "MISC TIRE RELATED PRODUCT",
+        "quantity": 1.0,
+        "net_price": 25.0
+      },
+      {
+        "description": "MISC TIRE RELATED PRODUCT",
+        "quantity": 1.0,
+        "net_price": 17.5
+      },
+      {
+        "description": "VALVE STEM,STEEL,ALUM WHL",
+        "quantity": 1.0,
+        "net_price": 6.5
+      },
+      {
+        "description": "VALVE CAP, FLOW THRU",
+        "quantity": 1.0,
+        "net_price": 1.25
+      },
+      {
+        "description": "SCRAP",
+        "quantity": 1.0,
+        "net_price": 8.5
+      }
+    ]
+  }
+}

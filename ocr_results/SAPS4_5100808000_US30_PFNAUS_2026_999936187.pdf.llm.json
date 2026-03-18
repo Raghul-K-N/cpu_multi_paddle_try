@@ -1,0 +1,43 @@
+{
+  "invoice_data": {
+    "invoice_number": "XA011778001",
+    "invoice_date": "1/23/2026",
+    "invoice_amount": null,
+    "invoice_currency": null,
+    "tax_amount": null,
+    "po_number": [
+      "23344937"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": "0.00 USD",
+    "cost_center": null,
+    "vendor_name": "Vanguard Truck Centers - Charlotte (4355D)",
+    "vendor_address": "3880 Jeff Adams Drive, Charlotte, NC 28206",
+    "po_line_items": null,
+    "vat_amount": null,
+    "gl_account": null,
+    "bank_name": null,
+    "account_holder_name": null,
+    "banking_account_number": null,
+    "remit_to_address": null,
+    "bill_to_address": null,
+    "transaction_type": "debit"
+  },
+  "filename": "SAPS4_5100808000_US30_PFNAUS_2026_999936187.pdf",
+  "raw_response": {
+    "invoice_number": "XA011778001",
+    "invoice_date": "1/23/2026",
+    "invoice_amount": null,
+    "invoice_currency": null,
+    "tax_amount": null,
+    "po_number": [
+      "23344937"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": "0.00 USD",
+    "cost_center": null,
+    "vendor_name": "Vanguard Truck Centers - Charlotte (4355D)",
+    "vendor_address": "3880 Jeff Adams Drive, Charlotte, NC 28206",
+    "po_line_items": null
+  }
+}

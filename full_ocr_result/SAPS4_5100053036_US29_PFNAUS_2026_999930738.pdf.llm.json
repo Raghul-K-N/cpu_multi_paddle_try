@@ -1,0 +1,99 @@
+{
+  "invoice_data": {
+    "invoice_number": "459293639001",
+    "invoice_date": "Thursday 12 Feb 2026 12:00 PM GMT-05:00",
+    "invoice_amount": null,
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": "4.77",
+    "po_number": [
+      "M413552587"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "ODP BUSINESS SOLUTIONS LLC",
+    "vendor_address": "ODP BUSINESS SOLUTIONS, LLC, 6600 North Military Trail, Boca Raton, FL 33496, US, 483134501, United States, Address ID: 2254",
+    "po_line_items": [
+      {
+        "description": "CLIPBOARD,LTR,9X12-1/2",
+        "quantity": 6.0,
+        "net_price": 1.16
+      },
+      {
+        "description": "PEN.ROUND STIC,BIC,60CT,BLACK",
+        "quantity": 1.0,
+        "net_price": 3.51
+      },
+      {
+        "description": "SHARPIE 36CT FINE BLK BOX",
+        "quantity": 1.0,
+        "net_price": 17.19
+      },
+      {
+        "description": "STAPLER,DESK,STD,FULL,BLACK",
+        "quantity": 1.0,
+        "net_price": 7.0
+      },
+      {
+        "description": "MARKER,PERM,SHARPI,FN,12PK,BLK",
+        "quantity": 3.0,
+        "net_price": 14.97
+      }
+    ],
+    "vat_amount": null,
+    "gl_account": null,
+    "bank_name": null,
+    "account_holder_name": null,
+    "banking_account_number": null,
+    "remit_to_address": null,
+    "bill_to_address": null,
+    "transaction_type": "debit"
+  },
+  "filename": "SAPS4_5100053036_US29_PFNAUS_2026_999930738.pdf",
+  "raw_response": {
+    "invoice_number": "459293639001",
+    "invoice_date": "Thursday 12 Feb 2026 12:00 PM GMT-05:00",
+    "invoice_amount": "../../../84.34",
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": "4.77",
+    "po_number": [
+      "M413552587"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "ODP BUSINESS SOLUTIONS LLC",
+    "vendor_address": "ODP BUSINESS SOLUTIONS, LLC, 6600 North Military Trail, Boca Raton, FL 33496, US, 483134501, United States, Address ID: 2254",
+    "po_line_items": [
+      {
+        "description": "CLIPBOARD,LTR,9X12-1/2",
+        "quantity": 6.0,
+        "net_price": 1.16
+      },
+      {
+        "description": "PEN.ROUND STIC,BIC,60CT,BLACK",
+        "quantity": 1.0,
+        "net_price": 3.51
+      },
+      {
+        "description": "SHARPIE 36CT FINE BLK BOX",
+        "quantity": 1.0,
+        "net_price": 17.19
+      },
+      {
+        "description": "STAPLER,DESK,STD,FULL,BLACK",
+        "quantity": 1.0,
+        "net_price": 7.0
+      },
+      {
+        "description": "MARKER,PERM,SHARPI,FN,12PK,BLK",
+        "quantity": 3.0,
+        "net_price": 14.97
+      }
+    ]
+  }
+}

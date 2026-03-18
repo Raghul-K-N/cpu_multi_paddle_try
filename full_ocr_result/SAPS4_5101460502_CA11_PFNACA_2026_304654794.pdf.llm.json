@@ -1,0 +1,59 @@
+{
+  "invoice_data": {
+    "invoice_number": "CNDI226023921",
+    "invoice_date": "29-JAN-2026",
+    "invoice_amount": "15,132.96",
+    "invoice_currency": [
+      "CAD"
+    ],
+    "tax_amount": "1,740.96",
+    "po_number": [
+      "4504470716"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "TATACONSULTANCY SERVICES CANADA INC.",
+    "vendor_address": "400 University Ave 25th Floor, Toronto, Ontario M5G 1S5",
+    "po_line_items": [
+      {
+        "description": "Essbase",
+        "quantity": 144.0,
+        "net_price": 93.0
+      }
+    ],
+    "vat_amount": null,
+    "gl_account": null,
+    "bank_name": null,
+    "account_holder_name": null,
+    "banking_account_number": null,
+    "remit_to_address": null,
+    "bill_to_address": null,
+    "transaction_type": "debit"
+  },
+  "filename": "SAPS4_5101460502_CA11_PFNACA_2026_304654794.pdf",
+  "raw_response": {
+    "invoice_number": "CNDI226023921",
+    "invoice_date": "29-JAN-2026",
+    "invoice_amount": "15,132.96",
+    "invoice_currency": [
+      "CAD"
+    ],
+    "tax_amount": "1,740.96",
+    "po_number": [
+      "4504470716"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "TATACONSULTANCY SERVICES CANADA INC.",
+    "vendor_address": "400 University Ave 25th Floor, Toronto, Ontario M5G 1S5",
+    "po_line_items": [
+      {
+        "description": "Essbase",
+        "quantity": 144.0,
+        "net_price": 93.0
+      }
+    ]
+  }
+}

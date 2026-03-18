@@ -1,0 +1,79 @@
+{
+  "invoice_data": {
+    "invoice_number": "728886",
+    "invoice_date": "2026-01-20",
+    "invoice_amount": "280.95",
+    "invoice_currency": [
+      "CAD"
+    ],
+    "tax_amount": "36.59",
+    "po_number": [
+      "4504510913"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "Transteck Canada Inc.",
+    "vendor_address": "CP-70228, Succursale Québec centre, Québec, (QC) Canada G2J 0A2",
+    "po_line_items": [
+      {
+        "description": "Transit Camion MTL Montréal-Est => Boucherville",
+        "quantity": 1.0,
+        "net_price": 121.75
+      },
+      {
+        "description": "Fuel Surcharge (9%)",
+        "quantity": 0.09,
+        "net_price": 10.96
+      },
+      {
+        "description": "Adjustment for LH Lafontaine",
+        "quantity": 1.0,
+        "net_price": 111.65
+      }
+    ],
+    "vat_amount": null,
+    "gl_account": null,
+    "bank_name": null,
+    "account_holder_name": null,
+    "banking_account_number": null,
+    "remit_to_address": null,
+    "bill_to_address": null,
+    "transaction_type": "debit"
+  },
+  "filename": "SAPS4_5100067506_CA11_PFNACA_2026_304672213.pdf",
+  "raw_response": {
+    "invoice_number": "728886",
+    "invoice_date": "2026-01-20",
+    "invoice_amount": "280.95",
+    "invoice_currency": [
+      "CAD"
+    ],
+    "tax_amount": "36.59",
+    "po_number": [
+      "4504510913"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "Transteck Canada Inc.",
+    "vendor_address": "CP-70228, Succursale Québec centre, Québec, (QC) Canada G2J 0A2",
+    "po_line_items": [
+      {
+        "description": "Transit Camion MTL Montréal-Est => Boucherville",
+        "quantity": 1.0,
+        "net_price": 121.75
+      },
+      {
+        "description": "Fuel Surcharge (9%)",
+        "quantity": 0.09,
+        "net_price": 10.96
+      },
+      {
+        "description": "Adjustment for LH Lafontaine",
+        "quantity": 1.0,
+        "net_price": 111.65
+      }
+    ]
+  }
+}

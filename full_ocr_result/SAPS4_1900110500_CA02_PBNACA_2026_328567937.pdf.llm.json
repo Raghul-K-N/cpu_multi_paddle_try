@@ -1,0 +1,43 @@
+{
+  "invoice_data": {
+    "invoice_number": "840255",
+    "invoice_date": "30.11.2025",
+    "invoice_amount": "1,469.00",
+    "invoice_currency": [
+      "CAD"
+    ],
+    "tax_amount": "169.00",
+    "po_number": null,
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "BLANEY MCMURTRY LLP",
+    "vendor_address": "2 QUEEN ST E, STE 1500, TORONTO ON M5C 3G5, CANADA",
+    "po_line_items": null,
+    "vat_amount": null,
+    "gl_account": null,
+    "bank_name": null,
+    "account_holder_name": null,
+    "banking_account_number": null,
+    "remit_to_address": null,
+    "bill_to_address": null,
+    "transaction_type": "debit"
+  },
+  "filename": "SAPS4_1900110500_CA02_PBNACA_2026_328567937.pdf",
+  "raw_response": {
+    "invoice_number": "840255",
+    "invoice_date": "30.11.2025",
+    "invoice_amount": "1,469.00",
+    "invoice_currency": [
+      "CAD"
+    ],
+    "tax_amount": "169.00",
+    "po_number": null,
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "BLANEY MCMURTRY LLP",
+    "vendor_address": "2 QUEEN ST E, STE 1500, TORONTO ON M5C 3G5, CANADA",
+    "po_line_items": null
+  }
+}

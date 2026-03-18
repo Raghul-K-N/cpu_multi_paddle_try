@@ -1,0 +1,55 @@
+{
+  "invoice_data": {
+    "invoice_number": "QC09-00973868",
+    "invoice_date": "02/05/26",
+    "invoice_amount": null,
+    "invoice_currency": null,
+    "tax_amount": null,
+    "po_number": [
+      "4505009683"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "REMIT MOTION INDUSTRIES, (CANADA) INC",
+    "vendor_address": "SUCCURSALE CENTRE-VILLE, MONTREAL, QC H3C 5N7, BRANCH ADDRESS: 3000, RUE EINSTEIN, QUEBEC, QC G1X 4B3, PH 4186573000, FAX 4186575191",
+    "po_line_items": [
+      {
+        "description": "5VX550 SUPER HC V-BELT",
+        "quantity": 2.0,
+        "net_price": 42.79
+      }
+    ],
+    "vat_amount": null,
+    "gl_account": null,
+    "bank_name": null,
+    "account_holder_name": null,
+    "banking_account_number": null,
+    "remit_to_address": null,
+    "bill_to_address": null,
+    "transaction_type": "debit"
+  },
+  "filename": "SAPS4_5101205502_CA11_PFNACA_2026_304672938.pdf",
+  "raw_response": {
+    "invoice_number": "QC09-00973868",
+    "invoice_date": "02/05/26",
+    "invoice_amount": null,
+    "invoice_currency": null,
+    "tax_amount": null,
+    "po_number": [
+      "4505009683"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "REMIT MOTION INDUSTRIES, (CANADA) INC",
+    "vendor_address": "SUCCURSALE CENTRE-VILLE, MONTREAL, QC H3C 5N7, BRANCH ADDRESS: 3000, RUE EINSTEIN, QUEBEC, QC G1X 4B3, PH 4186573000, FAX 4186575191",
+    "po_line_items": [
+      {
+        "description": "5VX550 SUPER HC V-BELT",
+        "quantity": 2.0,
+        "net_price": 42.79
+      }
+    ]
+  }
+}

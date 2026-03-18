@@ -1,0 +1,292 @@
+==================================<Page 1 - START>================================
+Standard Invoice
+Original tax invoice has been submitted electronically. This is a
+human readable representation (copy) of the original tax invoice.
+                                                                                                                   459713709001
+                                                                 Invoice Number
+                                                                 (Supplier Reference No.)
+                                                                                                Friday 13 Feb 2026 12:00 PM GMT-05:00
+                                                                 Invoice Date
+                                                                                                                     $91.18 USD
+                                                                 Amount Due
+     Contact Information                                                        Shipping Information
+     Supplier
+                                  Customer                                  Ship From                     Ship To
+     ODP BUSINESS SOLUTIONS,       ROLLING FRITO-LAY SALES                                                 US-DC-ATLANTA NE-GA-
+                                                                           ODP BUSINESS SOLUTIONS,
+     LLC                                                                                               RFLS
+                                  725 PROGRESS INDUSTRIAL                   LLC
+                                                                                                        725 PROGRESS INDUSTRIAL
+     6600 North Military Trail            B
+                                                                                                        B
+     Boca Raton                    LAWRENCEVILLE
+                                                                                                        LAWRENCEVILLE
+     FL                          GA
+                                                                                                        GA
+     33496                       300434652
+                                                                                                        300434652
+     US                         United States
+                                                                                                        United States
+                                                                                                        Address ID: 2159
+                                                                                                               PO Date : 12 Feb 2026
+   Line Items                                              PO No. : M413555058
+                                                                  Customer Part No.        Quantity            Unit Price         Subtotal
+   Line No.    PO Line No.         Type   Supplier Part No. /
+                                                                                       (UOM)
+                                       Description
+                                       8218961 /                                        1 / (PK)           $37.69 USD
+    1        1                 Material
+                                       TAPE,LBL,LTAG,PLAS,.5,WE,6
+                                                                                                         Unit Price         Subtotal
+                                Type   Supplier Part No. /             Customer Part No.        Quantity
+    Line No.    PO Line No.
+                                       Description                                       (UOM)
+                                                                                                        $6.76 USD
+    2        2                 Material  761135 / THERMAL POUCHES. 5                        1 / (PK)
+                                        MIL, 100 PA
+                                                                 Customer Part No.        Quantity            Unit Price         Subtotal
+    Line No.    PO Line No.         Type   Supplier Part No. /
+                                                                                      (UOM)
+                                       Description
+                                Material 664011 / PEN.ROUND                               4 / (BX)           $3.51 USD
+    3        3
+                                        STIC.BIC.60CT.BLACK
+                                                                                                         Unit Price         Subtotal
+                                Type   Supplier Part No. /             Customer Part No.        Quantity
+    Line No.   PO Line No.
+                                       Description                                       (UOM)
+                                Material 8969705 / HIGHMARK 8OZ ALOE                        1 / (CS)          $18.49 USD
+    4        4
+                                       SANITIZER,CA
+                                                                                                                         Subtotal
+                                Type    Supplier Part No. /             Customer Part No.        Quantity            Unit Price
+    Line No.   PO Line No.
+                                        Description                                       (UOM)
+                                                                                                       $5.55 USD
+                                Material 220690 /                                        1 / (PK)
+    5        6
+                                        TAPE.MP.1.89X54.6,6PK,CLEAR
+                                       Supplier Part No. /             Customer Part No.        Quantity            Unit Price         Subtotal
+    Line No.   PO Line No.         Type
+                                       Description                                       (UOM)
+                                Material 699459 /                                         1 / (PK)            $3.49 USD
+    6        7
+                                        TAPE.CORRECTION,6PK.ASTD
+        Tax Summary
+                            Details                          Base Amount               Rate %          Amount
+        Category
+        Sales Tax                                                                     6.00%           $5.16 USD
+                                                                              Amount Summary
+                                                                              Line item subtotal                           $86.02 USD
+                                                                                                                      $91.18 USD
+                                                                              Gross amount
+                                                                                                                      $91.18 USD
+                                                                              Net amount
+                                                                              Total tax amount                            $5.16 USD
+                                                                              Total withholding tax amount
+                                                                                                                      $91.18 USD
+                                                                              Amount Due
+      Additional Information
+      invoice due date
+      20260514
+      Billing Information                                                        Remittance Information
+      Bill To                                                               Remit To
+      PEPSICO INC ARIBA                                                     ODP BUSINESS SOLUTIONS,
+      700 ANDERSON HILL RD                                                  LLC
+      PURCHASE                                                            PO BOX 633204
+     NY                                                                 CINCINNATI
+      105771444                                                            OH
+                                                                          45263-3204
+     United States
+                                                                          United States
+     Address ID: 47140624
+                                                                      Reference Documents
+  Payment Terms
+                                                                       Original Supplier Order #: 459713709001
+   Net payment Terms (Days) :
+   90
+==================================<Page 1 - END>================================
+==================================<Page 2 - START>================================
+  Appendix
+  Line No.
+              PO Line No. Type                           Supplier Part No. / Description
+  1          1         Material
+                                                        8218961 / TAPE,LBL,LTAG,PLAS,.5,WE,6
+  Additional Details:
+  Supplier Part ID : 8218961
+  UNSPSC : 55121611
+  Line No.    PO Line No. Type                           Supplier Part No. / Description
+  2
+             2         Material                         761135 / THERMAL POUCHES, 5 MIL, 100 PA
+  Additional Details:
+  Supplier Part ID : 761135
+  UNSPSC : 44102002
+  Line No.    PO Line No. Type                           Supplier Part No. / Description
+  3          3          Material                         664011 / PEN,ROUND STIC,BIC,60CT,BLACK
+  Additional Details:
+  Supplier Part ID : 664011
+  UNSPSC : 44121704
+  Line No.    PO Line No. Type                           Supplier Part No. / Description
+  4          4          Material                         8969705 / HIGHMARK 8OZ ALOE SANITIZER,CA
+ Additional Details:
+  Supplier Part ID : 8969705
+  UNSPSC : 53131626
+ Line No.    PO Line No. Type                            Supplier Part No. / Description
+ 5         6          Material                         220690 / TAPE,MP,1.89X54.6,6PK,CLEAR
+ Additional Details:
+ Supplier Part ID : 220690
+  UNSPSC : 31201517
+Line No.    PO Line No. Type                            Supplier Part No. / Description
+                       Material
+ 6         7                                         699459 / TAPE,CORRECTION,6PK,ASTD
+Additional Details:
+ Supplier Part ID : 699459
+UNSPSC : 44121801
+PDF generated on Friday 13 Feb 2026 12:26 PM GMT-08:00
+==================================<Page 2 - END>================================
+==================================<Page 3 - START>================================
+Standard Invoice
+Original tax invoice has been submitted electronically. This is a
+human readable representation (copy) of the original tax invoice.
+                                                                                                                   459713709001
+                                                                 Invoice Number
+                                                                 (Supplier Reference No.)
+                                                                                                Friday 13 Feb 2026 12:00 PM GMT-05:00
+                                                                 Invoice Date
+                                                                                                                     $91.18 USD
+                                                                 Amount Due
+     Contact Information                                                        Shipping Information
+     Supplier
+                                  Customer                                  Ship From                     Ship To
+     ODP BUSINESS SOLUTIONS,       ROLLING FRITO-LAY SALES                                                 US-DC-ATLANTA NE-GA-
+                                                                           ODP BUSINESS SOLUTIONS,
+     LLC                                                                                               RFLS
+                                  725 PROGRESS INDUSTRIAL                   LLC
+                                                                                                        725 PROGRESS INDUSTRIAL
+     6600 North Military Trail            B
+                                                                                                        B
+     Boca Raton                    LAWRENCEVILLE
+                                                                                                        LAWRENCEVILLE
+     FL                          GA
+                                                                                                        GA
+     33496                       300434652
+                                                                                                        300434652
+     US                         United States
+                                                                                                        United States
+                                                                                                        Address ID: 2159
+                                                                                                               PO Date : 12 Feb 2026
+   Line Items                                              PO No. : M413555058
+                                                                  Customer Part No.        Quantity            Unit Price         Subtotal
+   Line No.    PO Line No.         Type   Supplier Part No. /
+                                                                                       (UOM)
+                                       Description
+                                       8218961 /                                        1 / (PK)           $37.69 USD
+    1        1                 Material
+                                       TAPE,LBL,LTAG,PLAS,.5,WE,6
+                                                                                                         Unit Price         Subtotal
+                                Type   Supplier Part No. /             Customer Part No.        Quantity
+    Line No.    PO Line No.
+                                       Description                                       (UOM)
+                                                                                                        $6.76 USD
+    2        2                 Material  761135 / THERMAL POUCHES. 5                        1 / (PK)
+                                        MIL, 100 PA
+                                                                 Customer Part No.        Quantity            Unit Price         Subtotal
+    Line No.    PO Line No.         Type   Supplier Part No. /
+                                                                                      (UOM)
+                                       Description
+                                Material 664011 / PEN.ROUND                               4 / (BX)           $3.51 USD
+    3        3
+                                        STIC.BIC.60CT.BLACK
+                                                                                                         Unit Price         Subtotal
+                                Type   Supplier Part No. /             Customer Part No.        Quantity
+    Line No.   PO Line No.
+                                       Description                                       (UOM)
+                                Material 8969705 / HIGHMARK 8OZ ALOE                        1 / (CS)          $18.49 USD
+    4        4
+                                       SANITIZER,CA
+                                                                                                                         Subtotal
+                                Type    Supplier Part No. /             Customer Part No.        Quantity            Unit Price
+    Line No.   PO Line No.
+                                        Description                                       (UOM)
+                                                                                                       $5.55 USD
+                                Material 220690 /                                        1 / (PK)
+    5        6
+                                        TAPE.MP.1.89X54.6,6PK,CLEAR
+                                       Supplier Part No. /             Customer Part No.        Quantity            Unit Price         Subtotal
+    Line No.   PO Line No.         Type
+                                       Description                                       (UOM)
+                                Material 699459 /                                         1 / (PK)            $3.49 USD
+    6        7
+                                        TAPE.CORRECTION,6PK.ASTD
+        Tax Summary
+                            Details                          Base Amount               Rate %          Amount
+        Category
+        Sales Tax                                                                     6.00%           $5.16 USD
+                                                                              Amount Summary
+                                                                              Line item subtotal                           $86.02 USD
+                                                                                                                      $91.18 USD
+                                                                              Gross amount
+                                                                                                                      $91.18 USD
+                                                                              Net amount
+                                                                              Total tax amount                            $5.16 USD
+                                                                              Total withholding tax amount
+                                                                                                                      $91.18 USD
+                                                                              Amount Due
+      Additional Information
+      invoice due date
+      20260514
+      Billing Information                                                        Remittance Information
+      Bill To                                                               Remit To
+      PEPSICO INC ARIBA                                                     ODP BUSINESS SOLUTIONS,
+      700 ANDERSON HILL RD                                                  LLC
+      PURCHASE                                                            PO BOX 633204
+     NY                                                                 CINCINNATI
+      105771444                                                            OH
+                                                                          45263-3204
+     United States
+                                                                          United States
+     Address ID: 47140624
+                                                                      Reference Documents
+  Payment Terms
+                                                                       Original Supplier Order #: 459713709001
+   Net payment Terms (Days) :
+   90
+==================================<Page 3 - END>================================
+==================================<Page 4 - START>================================
+  Appendix
+  Line No.
+              PO Line No. Type                           Supplier Part No. / Description
+  1          1         Material
+                                                        8218961 / TAPE,LBL,LTAG,PLAS,.5,WE,6
+  Additional Details:
+  Supplier Part ID : 8218961
+  UNSPSC : 55121611
+  Line No.    PO Line No. Type                           Supplier Part No. / Description
+  2
+             2         Material                         761135 / THERMAL POUCHES, 5 MIL, 100 PA
+  Additional Details:
+  Supplier Part ID : 761135
+  UNSPSC : 44102002
+  Line No.    PO Line No. Type                           Supplier Part No. / Description
+  3          3          Material                         664011 / PEN,ROUND STIC,BIC,60CT,BLACK
+  Additional Details:
+  Supplier Part ID : 664011
+  UNSPSC : 44121704
+  Line No.    PO Line No. Type                           Supplier Part No. / Description
+  4          4          Material                         8969705 / HIGHMARK 8OZ ALOE SANITIZER,CA
+ Additional Details:
+  Supplier Part ID : 8969705
+  UNSPSC : 53131626
+ Line No.    PO Line No. Type                            Supplier Part No. / Description
+ 5         6          Material                         220690 / TAPE,MP,1.89X54.6,6PK,CLEAR
+ Additional Details:
+ Supplier Part ID : 220690
+  UNSPSC : 31201517
+Line No.    PO Line No. Type                            Supplier Part No. / Description
+                       Material
+ 6         7                                         699459 / TAPE,CORRECTION,6PK,ASTD
+Additional Details:
+ Supplier Part ID : 699459
+UNSPSC : 44121801
+PDF generated on Friday 13 Feb 2026 12:26 PM GMT-08:00
+==================================<Page 4 - END>================================

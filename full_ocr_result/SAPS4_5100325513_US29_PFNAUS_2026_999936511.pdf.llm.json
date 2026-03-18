@@ -1,0 +1,43 @@
+{
+  "invoice_data": {
+    "invoice_number": "00022881845",
+    "invoice_date": null,
+    "invoice_amount": null,
+    "invoice_currency": null,
+    "tax_amount": "21.39",
+    "po_number": [
+      "23574956"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "AutoZone",
+    "vendor_address": "1033 E MALONE, SIKESTON, MO 63801",
+    "po_line_items": null,
+    "vat_amount": null,
+    "gl_account": null,
+    "bank_name": null,
+    "account_holder_name": null,
+    "banking_account_number": null,
+    "remit_to_address": null,
+    "bill_to_address": null,
+    "transaction_type": "debit"
+  },
+  "filename": "SAPS4_5100325513_US29_PFNAUS_2026_999936511.pdf",
+  "raw_response": {
+    "invoice_number": "00022881845",
+    "invoice_date": null,
+    "invoice_amount": null,
+    "invoice_currency": null,
+    "tax_amount": "21.39",
+    "po_number": [
+      "23574956"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "AutoZone",
+    "vendor_address": "1033 E MALONE, SIKESTON, MO 63801",
+    "po_line_items": null
+  }
+}

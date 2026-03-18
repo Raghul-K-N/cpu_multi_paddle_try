@@ -1,0 +1,174 @@
+==================================<Page 1 - START>================================
+Standard Invoice                                                                                                  staples[)
+Original tax invoice has been submitted electronically. This is a
+human readable representation (copy) of the original tax invoice.
+                                                                 Invoice Number                                         72397928
+                                                                 (Supplier Reference No.)
+                                                                 Invoice Date                   Tuesday 10 Feb. 2026 5:44 a.m. GMT-07:00
+                                                                Amount Due                                        $506.65 CAD
+    Contact Information                                                        Shipping Information
+    Supplier
+                                 Customer                                 Ship From                     Ship To
+    Supplier VAT/Tax ID              PEPSICO FOODS CANADA O/
+                                                                          Staples Canada ULC              FRITO-LAY CDA/PEPSICO
+    126152586RT0001               A FRITO LAY CANADA
+                                                                          4990 - 92 AVENUE               BEVERAGE
+                                  5550 EXPLORER DR 8TH                      EDMONTON                   LOUISE.MACAPIL@PEPSICO.COM
+                                 FLOOR
+                                                                          AB                          4815 78 AVE SE
+                                 MISSISSAUGA
+                                                                          T6B 2W1                      CA-PL-CALGARY-AB-PBCCAN
+                                 ON
+                                                                          Canada                       CALGARY
+                                 L4W 0C3
+                                                                                                       AB
+                                 Canada
+                                                                                                       T2C 2Y9
+                                 Address ID:
+                                                                                                       CA
+                                 CA1_ARIBA PAYABLES
+                                                                                                       Address ID: shipTo
+  Line Items                                               PO No. : M413548376                                      PO Date : 10 Feb. 2026
+  Line No.    PO Line No.          Type    Supplier Part No. /             Customer Part No.        Quantity            Unit Price         Subtotal
+                                       Description                                       (UOM)
+  1
+            1                  Material  HEWCF289A / HP 89A BLACK                          2 / (EA)          $217.29 CAD     $434.58 CAD
+                                       TONER
+                                                                                                   Line Item Total : $434.58 CAD
+  Line No.    PO Line No.                                            Customer Part No.                                          Subtotal
+                               Type    Supplier Part No. /                                  Quantity            Unit Price
+                                       Description
+                                                                                      (UOM)
+  2        2                 Material STP22299 /                                      6 / (PK)           $7.99 CAD      $47.94 CAD
+                                       CLIPBOARD,9X12,MASONITE
+                                                                                                    Line Item Total : $47.94 CAD
+      Tax Summary
+      Category              Details                          Base Amount               Rate %          Amount
+      PST                  Tax Location : CA                  $482.52 CAD               0%            $0.00 CAD
+      GST                  Tax Description :                   $482.52 CAD               5%            $24.13 CAD
+                            126152586RT0001
+                            Tax Location : CA
+                                                                             Amount Summary
+                                                                              Line item subtotal                          $482.52 CAD
+                                                                                                                    $506.65 CAD
+                                                                              Gross amount
+                                                                                                                    $506.65 CAD
+                                                                              Net amount
+                                                                                                                     $24.13 CAD
+                                                                              Total tax amount
+                                                                              Total withholding tax amount
+                                                                                                                     $506.65 CAD
+                                                                              Amount Due
+     Additional Information
+                                                                          Remittance Information
+                                                                          Remit To
+                                                                          Staples Canada ULC
+                                                                          c/o T04446C
+                                                                          PO Box 4446C, STN A
+                                                                          Toronto
+                                                                          ON
+                                                                          M5W 4A2
+                                                                         CA
+                                                                          Address ID: CA1_32220
+==================================<Page 1 - END>================================
+==================================<Page 2 - START>================================
+ Appenaix
+                                                        Supplier Part No. / Description
+Line No.    PO Line No. Type
+1          1          Material                         HEWCF289A / HP 89A BLACK TONER
+Additional Details:
+Supplier Part ID : HEWCF289A
+Line No.    PO Line No. Type                            Supplier Part No. / Description
+2          2          Material
+                                                        STP22299 / CLIPBOARD,9X12,MASONITE
+Additional Details:
+ Supplier Part ID : STP22299
+PDF generated on Wednesday 11 Feb. 2026 2:44 a.m. GMT-08:00
+==================================<Page 2 - END>================================
+==================================<Page 3 - START>================================
+       Standard Invoice                                                                                                  staples[)
+       Original tax invoice has been submitted electronically. This is a
+       human readable representation (copy) of the original tax invoice.
+                                                                        Invoice Number                                         72397928
+                                                                        (Supplier Reference No.)
+                                                                        Invoice Date                   Tuesday 10 Feb. 2026 5:44 a.m. GMT-07:00
+                                                                       Amount Due                                        $506.65 CAD
+           Contact Information                                                        Shipping Information
+           Supplier
+                                        Customer                                 Ship From                     Ship To
+           Supplier VAT/Tax ID              PEPSICO FOODS CANADA O/
+                                                                                 Staples Canada ULC              FRITO-LAY CDA/PEPSICO
+           126152586RT0001               A FRITO LAY CANADA
+                                                                                 4990 - 92 AVENUE               BEVERAGE
+                                        5550 EXPLORER DR 8TH                      EDMONTON                   LOUISE.MACAPIL@PEPSICO.COM
+                                        FLOOR
+                                                                                 AB                          4815 78 AVE SE
+                                        MISSISSAUGA
+                                                                                 T6B 2W1                      CA-PL-CALGARY-AB-PBCCAN
+                                        ON
+                                                                                 Canada                       CALGARY
+                                        L4W 0C3
+                                                                                                              AB
+                                        Canada
+                                                                                                              T2C 2Y9
+                                        Address ID:
+                                                                                                             CA
+                                        CA1_ARIBA PAYABLES
+                                                                                                              Address ID: shipTo
+        Line Items                                               PO No. : M413548376                                      PO Date : 10 Feb. 2026
+         Line No.    PO Line No.          Type    Supplier Part No. /             Customer Part No.        Quantity            Unit Price         Subtotal
+                                              Description                                       (UOM)
+         1
+                   1                  Material  HEWCF289A / HP 89A BLACK                          2 / (EA)          $217.29 CAD     $434.58 CAD
+                                              TONER
+                                                                                                          Line Item Total : $434.58 CAD
+         Line No.    PO Line No.                                            Customer Part No.                                          Subtotal
+                                      Type    Supplier Part No. /                                  Quantity            Unit Price
+                                              Description
+                                                                                             (UOM)
+         2        2                 Material STP22299 /                                      6 / (PK)           $7.99 CAD      $47.94 CAD
+                                              CLIPBOARD,9X12,MASONITE
+                                                                                                          Line Item Total : $47.94 CAD
+            Tax Summary
+             Category              Details                          Base Amount               Rate %          Amount
+             PST                  Tax Location : CA                  $482.52 CAD               0%            $0.00 CAD
+             GST                  Tax Description :                   $482.52 CAD               5%            $24.13 CAD
+                                   126152586RT0001
+                                  Tax Location : CA
+                                                                                    Amount Summary
+                                                                                    Line item subtotal                          $482.52 CAD
+                                                                                                                           $506.65 CAD
+                                                                                    Gross amount
+                                                                                                                           $506.65 CAD
+                                                                                    Net amount
+                                                                                                                            $24.13 CAD
+                                                                                    Total tax amount
+                                                                                    Total withholding tax amount
+                                                                                                                           $506.65 CAD
+                                                                                    Amount Due
+           Additional Information
+                                                                                Remittance Information
+                                                                                Remit To
+                                                                                Staples Canada ULC
+                                                                                c/o T04446C
+                                                                                PO Box 4446C, STN A
+                                                                                Toronto
+                                                                                ON
+                                                                                M5W 4A2
+                                                                                CA
+                                                                                Address ID: CA1_32220
+==================================<Page 3 - END>================================
+==================================<Page 4 - START>================================
+ Appenaix
+                                                        Supplier Part No. / Description
+Line No.    PO Line No. Type
+1          1          Material                         HEWCF289A / HP 89A BLACK TONER
+Additional Details:
+Supplier Part ID : HEWCF289A
+Line No.    PO Line No. Type                            Supplier Part No. / Description
+2          2          Material
+                                                        STP22299 / CLIPBOARD,9X12,MASONITE
+Additional Details:
+ Supplier Part ID : STP22299
+PDF generated on Wednesday 11 Feb. 2026 2:44 a.m. GMT-08:00
+==================================<Page 4 - END>================================

@@ -1,0 +1,79 @@
+{
+  "invoice_data": {
+    "invoice_number": "43684",
+    "invoice_date": "2/3/2026",
+    "invoice_amount": "172.66",
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": "11.30",
+    "po_number": [
+      "4505032097"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "South Georgia Machine & Fabrication",
+    "vendor_address": "69 East Jefferson Street, Hazlehurst, GA 31539",
+    "po_line_items": [
+      {
+        "description": "1BEARING, SLEEVE, 1-3/8\" ID X 1-3/8\" OD X 1/2\" LG NYLON STRAIGHT, HIGH TEMPERATURE, HIGH PV SGM1989",
+        "quantity": 1.0,
+        "net_price": 21.02
+      },
+      {
+        "description": "1SPROCKET DRIVE 1\" BORE 14T 50 CHAIN 5/8\" PITCH B HUB SGM730",
+        "quantity": 1.0,
+        "net_price": 98.3
+      },
+      {
+        "description": "2BEARING 3/4' Nylon, 800353272, 50198112, SGM1988",
+        "quantity": 2.0,
+        "net_price": 21.02
+      }
+    ],
+    "vat_amount": null,
+    "gl_account": null,
+    "bank_name": null,
+    "account_holder_name": null,
+    "banking_account_number": null,
+    "remit_to_address": null,
+    "bill_to_address": null,
+    "transaction_type": "debit"
+  },
+  "filename": "SAPS4_5100009039_US28_PFNAUS_2026_999934294.pdf",
+  "raw_response": {
+    "invoice_number": "43684",
+    "invoice_date": "2/3/2026",
+    "invoice_amount": "172.66",
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": "11.30",
+    "po_number": [
+      "4505032097"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "South Georgia Machine & Fabrication",
+    "vendor_address": "69 East Jefferson Street, Hazlehurst, GA 31539",
+    "po_line_items": [
+      {
+        "description": "1BEARING, SLEEVE, 1-3/8\" ID X 1-3/8\" OD X 1/2\" LG NYLON STRAIGHT, HIGH TEMPERATURE, HIGH PV SGM1989",
+        "quantity": 1.0,
+        "net_price": 21.02
+      },
+      {
+        "description": "1SPROCKET DRIVE 1\" BORE 14T 50 CHAIN 5/8\" PITCH B HUB SGM730",
+        "quantity": 1.0,
+        "net_price": 98.3
+      },
+      {
+        "description": "2BEARING 3/4' Nylon, 800353272, 50198112, SGM1988",
+        "quantity": 2.0,
+        "net_price": 21.02
+      }
+    ]
+  }
+}

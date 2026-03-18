@@ -1,0 +1,69 @@
+{
+  "invoice_data": {
+    "invoice_number": "MA0800616323",
+    "invoice_date": "Friday 13 Feb 2026 1:14 PM GMT-06:00",
+    "invoice_amount": "1853.28",
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": null,
+    "po_number": [
+      "M413550978"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "MOTION INDUSTRIES",
+    "vendor_address": "MOTION INDUSTRIES, BOX 504606, ST. LOUIS, MO 631500000, United States, Address ID: 94-276-6866, Address ID: US28",
+    "po_line_items": [
+      {
+        "description": "Not Available / 120F EXTRACTOR DRYER W/ FLOATDRAIN",
+        "quantity": 2.0,
+        "net_price": 811.93
+      },
+      {
+        "description": "Not Available / 150SKA",
+        "quantity": 2.0,
+        "net_price": 114.71
+      }
+    ],
+    "vat_amount": null,
+    "gl_account": null,
+    "bank_name": null,
+    "account_holder_name": null,
+    "banking_account_number": null,
+    "remit_to_address": null,
+    "bill_to_address": null,
+    "transaction_type": "debit"
+  },
+  "filename": "SAPS4_5100404027_US28_PFNAUS_2026_999930902.pdf",
+  "raw_response": {
+    "invoice_number": "MA0800616323",
+    "invoice_date": "Friday 13 Feb 2026 1:14 PM GMT-06:00",
+    "invoice_amount": "1853.28",
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": null,
+    "po_number": [
+      "M413550978"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "MOTION INDUSTRIES",
+    "vendor_address": "MOTION INDUSTRIES, BOX 504606, ST. LOUIS, MO 631500000, United States, Address ID: 94-276-6866, Address ID: US28",
+    "po_line_items": [
+      {
+        "description": "Not Available / 120F EXTRACTOR DRYER W/ FLOATDRAIN",
+        "quantity": 2.0,
+        "net_price": 811.93
+      },
+      {
+        "description": "Not Available / 150SKA",
+        "quantity": 2.0,
+        "net_price": 114.71
+      }
+    ]
+  }
+}

@@ -1,0 +1,59 @@
+{
+  "invoice_data": {
+    "invoice_number": "59763415",
+    "invoice_date": "2/12/26",
+    "invoice_amount": "361.53",
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": "26.77",
+    "po_number": [
+      "4505183401"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "McMaster-Carr",
+    "vendor_address": "562-692-5911, 562-695-2323 (fax), la.sales@mcmaster.com",
+    "po_line_items": [
+      {
+        "description": "4322K517 High-Polish Quick-Clamp Sanitary Tube Fitting, 304 Stainless Steel Adapter for 1/2\" Tube OD x 1/2 NPT Female",
+        "quantity": 6.0,
+        "net_price": 54.09
+      }
+    ],
+    "vat_amount": null,
+    "gl_account": null,
+    "bank_name": null,
+    "account_holder_name": null,
+    "banking_account_number": null,
+    "remit_to_address": null,
+    "bill_to_address": null,
+    "transaction_type": "debit"
+  },
+  "filename": "SAPS4_5100331524_US28_PFNAUS_2026_999934333.pdf",
+  "raw_response": {
+    "invoice_number": "59763415",
+    "invoice_date": "2/12/26",
+    "invoice_amount": "361.53",
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": "26.77",
+    "po_number": [
+      "4505183401"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "McMaster-Carr",
+    "vendor_address": "562-692-5911, 562-695-2323 (fax), la.sales@mcmaster.com",
+    "po_line_items": [
+      {
+        "description": "4322K517 High-Polish Quick-Clamp Sanitary Tube Fitting, 304 Stainless Steel Adapter for 1/2\" Tube OD x 1/2 NPT Female",
+        "quantity": 6.0,
+        "net_price": 54.09
+      }
+    ]
+  }
+}

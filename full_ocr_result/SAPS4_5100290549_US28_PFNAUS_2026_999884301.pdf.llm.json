@@ -1,0 +1,79 @@
+{
+  "invoice_data": {
+    "invoice_number": "868711722",
+    "invoice_date": "02/03/2026",
+    "invoice_amount": "211.35",
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": null,
+    "po_number": [
+      "4505075073"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "GRAINGER",
+    "vendor_address": "1901 NONCONNAH BLVD., MEMPHIS, TN 38132-2106",
+    "po_line_items": [
+      {
+        "description": "AXIAL FAN,SQUARE,4-11/16\" H,115 CFM",
+        "quantity": 2.0,
+        "net_price": 43.02
+      },
+      {
+        "description": "INSTANT ADHESIVE,0.33 FL OZ,BOTTLE",
+        "quantity": 2.0,
+        "net_price": 59.42
+      },
+      {
+        "description": "MASTER APPLIANCE BUTANE REFILL CANISTER",
+        "quantity": 9.0,
+        "net_price": 53.91
+      }
+    ],
+    "vat_amount": null,
+    "gl_account": null,
+    "bank_name": null,
+    "account_holder_name": null,
+    "banking_account_number": null,
+    "remit_to_address": null,
+    "bill_to_address": null,
+    "transaction_type": "debit"
+  },
+  "filename": "SAPS4_5100290549_US28_PFNAUS_2026_999884301.pdf",
+  "raw_response": {
+    "invoice_number": "868711722",
+    "invoice_date": "02/03/2026",
+    "invoice_amount": "211.35",
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": null,
+    "po_number": [
+      "4505075073"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "GRAINGER",
+    "vendor_address": "1901 NONCONNAH BLVD., MEMPHIS, TN 38132-2106",
+    "po_line_items": [
+      {
+        "description": "AXIAL FAN,SQUARE,4-11/16\" H,115 CFM",
+        "quantity": 2.0,
+        "net_price": 43.02
+      },
+      {
+        "description": "INSTANT ADHESIVE,0.33 FL OZ,BOTTLE",
+        "quantity": 2.0,
+        "net_price": 59.42
+      },
+      {
+        "description": "MASTER APPLIANCE BUTANE REFILL CANISTER",
+        "quantity": 9.0,
+        "net_price": 53.91
+      }
+    ]
+  }
+}

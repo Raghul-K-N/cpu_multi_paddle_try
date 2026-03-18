@@ -1,0 +1,47 @@
+{
+  "invoice_data": {
+    "invoice_number": "IEAC113263",
+    "invoice_date": "11/14/2025",
+    "invoice_amount": null,
+    "invoice_currency": [
+      "CAD"
+    ],
+    "tax_amount": null,
+    "po_number": [
+      "M413503199"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "Eclipse Advantage Canada ULC",
+    "vendor_address": "6700 Century Ave, 3rd Floor, Mississauga, ON L5N 6A4",
+    "po_line_items": null,
+    "vat_amount": null,
+    "gl_account": null,
+    "bank_name": null,
+    "account_holder_name": null,
+    "banking_account_number": null,
+    "remit_to_address": null,
+    "bill_to_address": null,
+    "transaction_type": "debit"
+  },
+  "filename": "SAPS4_5100230008_CA11_PFNACA_2026_304667615.pdf",
+  "raw_response": {
+    "invoice_number": "IEAC113263",
+    "invoice_date": "11/14/2025",
+    "invoice_amount": null,
+    "invoice_currency": [
+      "CAD"
+    ],
+    "tax_amount": null,
+    "po_number": [
+      "M413503199"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "Eclipse Advantage Canada ULC",
+    "vendor_address": "6700 Century Ave, 3rd Floor, Mississauga, ON L5N 6A4",
+    "po_line_items": null
+  }
+}

@@ -1,0 +1,79 @@
+{
+  "invoice_data": {
+    "invoice_number": "DALN63119",
+    "invoice_date": "02/05/2026",
+    "invoice_amount": "327.28",
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": "2.08",
+    "po_number": [
+      "M413155678"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "Mckinney Trailer Rentals",
+    "vendor_address": "2601 Saturn St. Suite 110, Brea, CA 92821, United States",
+    "po_line_items": [
+      {
+        "description": "Service Call to 3310 TX 36, Rosenberg Tx to Complete Brake and Air",
+        "quantity": 3.0,
+        "net_price": 300.0
+      },
+      {
+        "description": "Bag Services Requested By John Maples",
+        "quantity": 1.0,
+        "net_price": 25.2
+      },
+      {
+        "description": "Mileage Charge",
+        "quantity": 12.6,
+        "net_price": 12.6
+      }
+    ],
+    "vat_amount": null,
+    "gl_account": null,
+    "bank_name": null,
+    "account_holder_name": null,
+    "banking_account_number": null,
+    "remit_to_address": null,
+    "bill_to_address": null,
+    "transaction_type": "debit"
+  },
+  "filename": "SAPS4_5100219509_US30_PFNAUS_2026_999872819.pdf",
+  "raw_response": {
+    "invoice_number": "DALN63119",
+    "invoice_date": "02/05/2026",
+    "invoice_amount": "327.28",
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": "2.08",
+    "po_number": [
+      "M413155678"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "Mckinney Trailer Rentals",
+    "vendor_address": "2601 Saturn St. Suite 110, Brea, CA 92821, United States",
+    "po_line_items": [
+      {
+        "description": "Service Call to 3310 TX 36, Rosenberg Tx to Complete Brake and Air",
+        "quantity": 3.0,
+        "net_price": 300.0
+      },
+      {
+        "description": "Bag Services Requested By John Maples",
+        "quantity": 1.0,
+        "net_price": 25.2
+      },
+      {
+        "description": "Mileage Charge",
+        "quantity": 12.6,
+        "net_price": 12.6
+      }
+    ]
+  }
+}

@@ -1,0 +1,366 @@
+==================================<Page 1 - START>================================
+Standard Invoice
+Original tax invoice has been submitted electronically. This is a
+human readable representation (copy) of the original tax invoice.
+                                                                  Invoice Number                                           708968
+                                                                  (Supplier Reference No.)
+                                                                                              Thursday 12 Feb 2026 12:00 PM GMT-06:00
+                                                                  Invoice Date
+                                                                  Amount Due                                        $2,264.75 USD
+    Contact Information
+                                                                           Shipping Information
+    Supplier
+                                  Customer
+                                                                            Ship From                     Ship To
+    Urschel Laboratories, Inc.
+                                  Frito-Lay, Inc.                               Urschel Laboratories, Inc.           US-PL-DENVER-CO-FLI
+    1200 Cutting Edge Drive            c/o PEPSICO NASS                           1200 Cutting Edge Drive
+                                                                                                         Dominic Cruz
+    Chesterton                     ACCOUNTS PAYABLES
+    IN                                                                     Chesterton                     US-PL-DENVER-CO-FLI
+                                  PO BOX 1800                               IN                           11645 E 37TH AVE
+    46304                        Winston Salem                              46304
+                                                                                                         DENVER
+    United States                   NC
+                                                                           United States                    CO
+                                  27105
+                                                                                                        80239-3304
+                                  United States
+                                                                                                        United States
+                                  Address ID: US28
+                                                                                                        Address ID: 2094
+                                                                                                        Phone: 3731624
+  Line Items                                               PO No. : M413552123                                       PO Date : 11 Feb 2026
+  Line No.    PO Line No.          Type    Supplier Part No. /                                                     Unit Price         Subtotal
+                                                                  Customer Part No.        Quantity
+                                        Description
+                                                                                        (UOM)
+   1         1                  Material 25834 / 25834 - KNIFE. SLICING.                        10 / (EA)         $147.00 USD    $1,470.00 USD
+                                        FLAT. DB. 301 SS.PKG 160
+                                                                                                   Line Item Total : $1,470.00 USD
+   Line No.
+             PO Line No.          Type    Supplier Part No. /             Customer Part No.        Quantity            Unit Price         Subtotal
+                                        Description                                        (UOM)
+  2        2                 Material  26121 / 26121 - PART# 22065                                           $78.00 USD     $312.00 USD
+                                                                                       4 / (EA)
+                                        REPLACED BY PART: 26121
+                                       KNIFE, SLICING, CRINKLE,
+                                        PKG/160
+                                                                                                    Line Item Total : $312.00 USD
+                                                                                                                          Subtotal
+  Line No.    PO Line No.          Type    Supplier Part No. /             Customer Part No.        Quantity            Unit Price
+                                       Description                                        (UOM)
+                                       26124 / 26124 - PART# 26632                                           $87.00 USD      $435.00 USD
+   3        3                 Material                                                  5 / (EA)
+                                        REPLACED BY PART: 026124
+                                        KNIFE. SLICING. .170 V-
+                                        CUT.302HD.PKG/160
+                                                                                                    Line Item Total : $435.00 USD
+                                                                               Amount Summary
+                                                                               Line item subtotal                         $2,217.00 USD
+                                                                                                                       $47.75 USD
+                                                                               Shipping charges
+                                                                                                                     $2,264.75 USD
+                                                                               Gross amount
+                                                                               Net amount                             $2,264.75 USD
+                                                                               Total tax amount                             $0.00 USD
+                                                                               Total withholding tax amount
+                                                                               Amount Due                             $2,264.75 USD
+    Additional Information
+    Payment Method
+    Check
+    Billing Information                                                         Remittance Information
+    Bill From                      Bill To                                    Remit To
+                                 Frito-Lay, Inc.                               A/R
+    Urschel Laboratories, Inc.
+                                 c/o PEPSICO NASS                           PO BOX 856299
+    1200 Cutting Edge Drive
+                                 ACCOUNTS PAYABLES                       MINNEAPOLIS
+    Chesterton
+                                 PO BOX 1800                               MN
+    IN
+    46304                        Winston Salem                              55485-6299
+    United States                   NC                                      United States
+                                                                          Address ID: US1_11004
+                                 27105
+                                 United States
+                                 Address ID: US28
+Payment Terms
+  Net payment Terms (Days) :
+  30
+==================================<Page 1 - END>================================
+==================================<Page 2 - START>================================
+  Appendix
+  Line No.
+            PO Line No. Type                            Supplier Part No. / Description
+  1
+            1         Material                          25834 / 25834 - KNIFE, SLICING, FLAT, DB, 301 SS,PKG 160
+  Additional Details:
+ Classification Domain : custom
+ Classification Code : MRO757027
+ Supplier Part ID : 25834
+Line No.
+            PO Line No. Type
+                                                       Supplier Part No. / Description
+2         2
+                       Material
+                                                       26121 / 26121 - PART# 22065 REPLACED BY PART: 26121 KNIFE, SLICING, CRINKLE, PKG/160
+Additional Details:
+Classification Domain : custom
+Classification Code : MRO757027
+Supplier Part ID : 26121
+Line No.    PO Line No. Type
+                                                       Supplier Part No. / Description
+3         3         Material
+                                                       26124 / 26124 - PART# 26632 REPLACED BY PART: 026124 KNIFE, SLICING, .170 V-
+                                                       CUT.302HD,PKG/160
+Additional Details:
+Classification Domain : custom
+Classification Code : MRO757027
+Supplier Part ID : 26124
+PDF generated on Friday 13 Feb 2026 8:29 AM GMT-08:00
+==================================<Page 2 - END>================================
+==================================<Page 3 - START>================================
+ Standard Invoice
+Original tax invoice has been submitted electronically. This is a
+human readable representation (copy) of the original tax invoice.
+                                                                  Invoice Number                                           708968
+                                                                  (Supplier Reference No.)
+                                                                                               Thursday 12 Feb 2026 12:00 PM GMT-06:00
+                                                                  Invoice Date
+                                                                  Amount Due                                        $2,264.75 USD
+     Contact Information
+                                                                            Shipping Information
+     Supplier
+                                  Customer
+                                                                            Ship From                     Ship To
+     Urschel Laboratories, Inc.
+                                  Frito-Lay, Inc.                               Urschel Laboratories, Inc.           US-PL-DENVER-CO-FLI
+     1200 Cutting Edge Drive            c/o PEPSICO NASS                           1200 Cutting Edge Drive
+                                                                                                         Dominic Cruz
+     Chesterton                     ACCOUNTS PAYABLES
+     IN                                                                     Chesterton                     US-PL-DENVER-CO-FLI
+                                  PO BOX 1800                               IN                           11645 E 37TH AVE
+     46304                        Winston Salem                              46304
+                                                                                                         DENVER
+     United States                   NC
+                                                                            United States                    CO
+                                   27105
+                                                                                                         80239-3304
+                                  United States
+                                                                                                         United States
+                                   Address ID: US28
+                                                                                                         Address ID: 2094
+                                                                                                         Phone: 3731624
+   Line Items                                               PO No. : M413552123                                       PO Date : 11 Feb 2026
+   Line No.    PO Line No.          Type    Supplier Part No. /                                                     Unit Price         Subtotal
+                                                                   Customer Part No.        Quantity
+                                        Description
+                                                                                        (UOM)
+   1         1                  Material 25834 / 25834 - KNIFE. SLICING.                        10 / (EA)         $147.00 USD    $1,470.00 USD
+                                        FLAT. DB. 301 SS.PKG 160
+                                                                                                    Line Item Total : $1,470.00 USD
+   Line No.
+              PO Line No.          Type    Supplier Part No. /             Customer Part No.        Quantity            Unit Price         Subtotal
+                                        Description                                        (UOM)
+   2        2                 Material  26121 / 26121 - PART# 22065                                           $78.00 USD     $312.00 USD
+                                                                                        4 / (EA)
+                                        REPLACED BY PART: 26121
+                                        KNIFE, SLICING, CRINKLE,
+                                        PKG/160
+                                                                                                     Line Item Total : $312.00 USD
+                                                                                                                           Subtotal
+   Line No.    PO Line No.          Type    Supplier Part No. /             Customer Part No.        Quantity            Unit Price
+                                        Description                                        (UOM)
+                                        26124 / 26124 - PART# 26632                                           $87.00 USD      $435.00 USD
+   3        3                 Material                                                  5 / (EA)
+                                        REPLACED BY PART: 026124
+                                        KNIFE. SLICING. .170 V-
+                                        CUT.302HD.PKG/160
+                                                                                                     Line Item Total : $435.00 USD
+                                                                               Amount Summary
+                                                                                Line item subtotal                         $2,217.00 USD
+                                                                                                                        $47.75 USD
+                                                                                Shipping charges
+                                                                                                                      $2,264.75 USD
+                                                                                Gross amount
+                                                                                Net amount                             $2,264.75 USD
+                                                                               Total tax amount                             $0.00 USD
+                                                                               Total withholding tax amount
+                                                                               Amount Due                             $2,264.75 USD
+     Additional Information
+     Payment Method
+     Check
+     Billing Information                                                         Remittance Information
+     Bill From                      Bill To                                    Remit To
+                                  Frito-Lay, Inc.                               A/R
+     Urschel Laboratories, Inc.
+                                  c/o PEPSICO NASS                           PO BOX 856299
+     1200 Cutting Edge Drive
+                                  ACCOUNTS PAYABLES                       MINNEAPOLIS
+     Chesterton
+                                  PO BOX 1800                               MN
+     IN
+     46304                        Winston Salem                              55485-6299
+     United States                   NC                                      United States
+                                                                           Address ID: US1_11004
+                                  27105
+                                  United States
+                                 Address ID: US28
+  Payment Terms
+  Net payment Terms (Days) :
+  30
+==================================<Page 3 - END>================================
+==================================<Page 4 - START>================================
+  Appendix
+  Line No.
+            PO Line No. Type                            Supplier Part No. / Description
+  1
+            1         Material                          25834 / 25834 - KNIFE, SLICING, FLAT, DB, 301 SS,PKG 160
+  Additional Details:
+ Classification Domain : custom
+ Classification Code : MRO757027
+ Supplier Part ID : 25834
+Line No.
+            PO Line No. Type
+                                                       Supplier Part No. / Description
+2         2
+                       Material
+                                                       26121 / 26121 - PART# 22065 REPLACED BY PART: 26121 KNIFE, SLICING, CRINKLE, PKG/160
+Additional Details:
+Classification Domain : custom
+Classification Code : MRO757027
+Supplier Part ID : 26121
+Line No.    PO Line No. Type
+                                                       Supplier Part No. / Description
+3         3         Material
+                                                       26124 / 26124 - PART# 26632 REPLACED BY PART: 026124 KNIFE, SLICING, .170 V-
+                                                       CUT.302HD,PKG/160
+Additional Details:
+Classification Domain : custom
+Classification Code : MRO757027
+Supplier Part ID : 26124
+PDF generated on Friday 13 Feb 2026 8:29 AM GMT-08:00
+==================================<Page 4 - END>================================
+==================================<Page 5 - START>================================
+ Standard Invoice
+Original tax invoice has been submitted electronically. This is a
+human readable representation (copy) of the original tax invoice.
+                                                                  Invoice Number                                           708968
+                                                                  (Supplier Reference No.)
+                                                                                               Thursday 12 Feb 2026 12:00 PM GMT-06:00
+                                                                  Invoice Date
+                                                                  Amount Due                                        $2,264.75 USD
+     Contact Information
+                                                                            Shipping Information
+     Supplier
+                                  Customer
+                                                                            Ship From                     Ship To
+     Urschel Laboratories, Inc.
+                                  Frito-Lay, Inc.                               Urschel Laboratories, Inc.           US-PL-DENVER-CO-FLI
+     1200 Cutting Edge Drive            c/o PEPSICO NASS                           1200 Cutting Edge Drive
+                                                                                                         Dominic Cruz
+     Chesterton                     ACCOUNTS PAYABLES
+     IN                                                                     Chesterton                     US-PL-DENVER-CO-FLI
+                                  PO BOX 1800                               IN                           11645 E 37TH AVE
+     46304                        Winston Salem                              46304
+                                                                                                         DENVER
+     United States                   NC
+                                                                            United States                    CO
+                                   27105
+                                                                                                         80239-3304
+                                  United States
+                                                                                                         United States
+                                   Address ID: US28
+                                                                                                         Address ID: 2094
+                                                                                                         Phone: 3731624
+   Line Items                                               PO No. : M413552123                                       PO Date : 11 Feb 2026
+   Line No.    PO Line No.          Type    Supplier Part No. /                                                     Unit Price         Subtotal
+                                                                   Customer Part No.        Quantity
+                                        Description
+                                                                                        (UOM)
+   1         1                  Material 25834 / 25834 - KNIFE. SLICING.                        10 / (EA)         $147.00 USD    $1,470.00 USD
+                                        FLAT. DB. 301 SS.PKG 160
+                                                                                                    Line Item Total : $1,470.00 USD
+   Line No.
+              PO Line No.          Type    Supplier Part No. /             Customer Part No.        Quantity            Unit Price         Subtotal
+                                        Description                                        (UOM)
+   2        2                 Material  26121 / 26121 - PART# 22065                                           $78.00 USD     $312.00 USD
+                                                                                        4 / (EA)
+                                        REPLACED BY PART: 26121
+                                        KNIFE, SLICING, CRINKLE,
+                                        PKG/160
+                                                                                                     Line Item Total : $312.00 USD
+                                                                                                                           Subtotal
+   Line No.    PO Line No.          Type    Supplier Part No. /             Customer Part No.        Quantity            Unit Price
+                                        Description                                        (UOM)
+                                        26124 / 26124 - PART# 26632                                           $87.00 USD      $435.00 USD
+   3        3                 Material                                                  5 / (EA)
+                                        REPLACED BY PART: 026124
+                                        KNIFE. SLICING. .170 V-
+                                        CUT.302HD.PKG/160
+                                                                                                     Line Item Total : $435.00 USD
+                                                                               Amount Summary
+                                                                                Line item subtotal                         $2,217.00 USD
+                                                                                                                        $47.75 USD
+                                                                                Shipping charges
+                                                                                                                      $2,264.75 USD
+                                                                                Gross amount
+                                                                                Net amount                             $2,264.75 USD
+                                                                               Total tax amount                             $0.00 USD
+                                                                               Total withholding tax amount
+                                                                               Amount Due                             $2,264.75 USD
+     Additional Information
+     Payment Method
+     Check
+     Billing Information                                                         Remittance Information
+     Bill From                      Bill To                                    Remit To
+                                  Frito-Lay, Inc.                               A/R
+     Urschel Laboratories, Inc.
+                                  c/o PEPSICO NASS                           PO BOX 856299
+     1200 Cutting Edge Drive
+                                  ACCOUNTS PAYABLES                       MINNEAPOLIS
+     Chesterton
+                                  PO BOX 1800                               MN
+     IN
+     46304                        Winston Salem                              55485-6299
+     United States                   NC                                      United States
+                                                                           Address ID: US1_11004
+                                  27105
+                                  United States
+                                 Address ID: US28
+  Payment Terms
+  Net payment Terms (Days) :
+  30
+==================================<Page 5 - END>================================
+==================================<Page 6 - START>================================
+  Appendix
+  Line No.
+            PO Line No. Type                            Supplier Part No. / Description
+  1
+            1         Material                          25834 / 25834 - KNIFE, SLICING, FLAT, DB, 301 SS,PKG 160
+  Additional Details:
+ Classification Domain : custom
+ Classification Code : MRO757027
+ Supplier Part ID : 25834
+Line No.
+            PO Line No. Type
+                                                       Supplier Part No. / Description
+2         2
+                       Material
+                                                       26121 / 26121 - PART# 22065 REPLACED BY PART: 26121 KNIFE, SLICING, CRINKLE, PKG/160
+Additional Details:
+Classification Domain : custom
+Classification Code : MRO757027
+Supplier Part ID : 26121
+Line No.    PO Line No. Type
+                                                       Supplier Part No. / Description
+3         3         Material
+                                                       26124 / 26124 - PART# 26632 REPLACED BY PART: 026124 KNIFE, SLICING, .170 V-
+                                                       CUT.302HD,PKG/160
+Additional Details:
+Classification Domain : custom
+Classification Code : MRO757027
+Supplier Part ID : 26124
+PDF generated on Friday 13 Feb 2026 8:29 AM GMT-08:00
+==================================<Page 6 - END>================================

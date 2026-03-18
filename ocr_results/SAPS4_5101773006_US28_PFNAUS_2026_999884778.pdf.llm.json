@@ -1,0 +1,55 @@
+{
+  "invoice_data": {
+    "invoice_number": "INV-09238",
+    "invoice_date": "12/17/2025",
+    "invoice_amount": null,
+    "invoice_currency": null,
+    "tax_amount": null,
+    "po_number": [
+      "45044703"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "Nationwide Boiler Incorporated",
+    "vendor_address": "42400 Christy Street, Fremont, CA 94538",
+    "po_line_items": [
+      {
+        "description": "Rental of (1) Feedwater Pressure Letdown Skid (LDS2)",
+        "quantity": 1.0,
+        "net_price": 1699.5
+      }
+    ],
+    "vat_amount": null,
+    "gl_account": null,
+    "bank_name": null,
+    "account_holder_name": null,
+    "banking_account_number": null,
+    "remit_to_address": null,
+    "bill_to_address": null,
+    "transaction_type": "debit"
+  },
+  "filename": "SAPS4_5101773006_US28_PFNAUS_2026_999884778.pdf",
+  "raw_response": {
+    "invoice_number": "INV-09238",
+    "invoice_date": "12/17/2025",
+    "invoice_amount": null,
+    "invoice_currency": null,
+    "tax_amount": null,
+    "po_number": [
+      "45044703"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "Nationwide Boiler Incorporated",
+    "vendor_address": "42400 Christy Street, Fremont, CA 94538",
+    "po_line_items": [
+      {
+        "description": "Rental of (1) Feedwater Pressure Letdown Skid (LDS2)",
+        "quantity": 1.0,
+        "net_price": 1699.5
+      }
+    ]
+  }
+}

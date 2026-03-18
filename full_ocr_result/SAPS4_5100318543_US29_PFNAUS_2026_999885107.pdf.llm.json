@@ -1,0 +1,109 @@
+{
+  "invoice_data": {
+    "invoice_number": "6560717440",
+    "invoice_date": "02/11/2026",
+    "invoice_amount": "20.30",
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": "1.68",
+    "po_number": [
+      "M412855675"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": "0.00",
+    "cost_center": null,
+    "vendor_name": "VESTIS",
+    "vendor_address": "PO BOX 101179, PASADENA CA 91189-1179",
+    "po_line_items": [
+      {
+        "description": "GO0218NAVY JACKET HIP 65/35",
+        "quantity": 3.0,
+        "net_price": 0.23
+      },
+      {
+        "description": "GO0565NAVY VEST 65/35 VERT Q",
+        "quantity": 3.0,
+        "net_price": 0.23
+      },
+      {
+        "description": "GP0621NAVY PANT CARGO 65/35",
+        "quantity": 11.0,
+        "net_price": 1.82
+      },
+      {
+        "description": "GS0019NVOT SHIRT WORK SS 65/35",
+        "quantity": 11.0,
+        "net_price": 1.82
+      },
+      {
+        "description": "DP0018GREN MOP DUST SYNTHETIC",
+        "quantity": 8.0,
+        "net_price": 8.22
+      },
+      {
+        "description": "TS0002REDD SHOP TOWEL PLAIN",
+        "quantity": 300.0,
+        "net_price": 6.3
+      }
+    ],
+    "vat_amount": null,
+    "gl_account": null,
+    "bank_name": null,
+    "account_holder_name": null,
+    "banking_account_number": null,
+    "remit_to_address": null,
+    "bill_to_address": null,
+    "transaction_type": "debit"
+  },
+  "filename": "SAPS4_5100318543_US29_PFNAUS_2026_999885107.pdf",
+  "raw_response": {
+    "invoice_number": "6560717440",
+    "invoice_date": "02/11/2026",
+    "invoice_amount": "20.30",
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": "1.68",
+    "po_number": [
+      "M412855675"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": "0.00",
+    "cost_center": null,
+    "vendor_name": "VESTIS",
+    "vendor_address": "PO BOX 101179, PASADENA CA 91189-1179",
+    "po_line_items": [
+      {
+        "description": "GO0218NAVY JACKET HIP 65/35",
+        "quantity": 3.0,
+        "net_price": 0.23
+      },
+      {
+        "description": "GO0565NAVY VEST 65/35 VERT Q",
+        "quantity": 3.0,
+        "net_price": 0.23
+      },
+      {
+        "description": "GP0621NAVY PANT CARGO 65/35",
+        "quantity": 11.0,
+        "net_price": 1.82
+      },
+      {
+        "description": "GS0019NVOT SHIRT WORK SS 65/35",
+        "quantity": 11.0,
+        "net_price": 1.82
+      },
+      {
+        "description": "DP0018GREN MOP DUST SYNTHETIC",
+        "quantity": 8.0,
+        "net_price": 8.22
+      },
+      {
+        "description": "TS0002REDD SHOP TOWEL PLAIN",
+        "quantity": 300.0,
+        "net_price": 6.3
+      }
+    ]
+  }
+}

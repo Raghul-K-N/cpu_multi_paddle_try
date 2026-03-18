@@ -1,0 +1,79 @@
+{
+  "invoice_data": {
+    "invoice_number": "59700238",
+    "invoice_date": "2/11/26",
+    "invoice_amount": null,
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": "14.21",
+    "po_number": [
+      "4505169784"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "McMaster-Carr",
+    "vendor_address": "PO Box 7690, Chicago IL 60680-7690",
+    "po_line_items": [
+      {
+        "description": "7018K16 GFCI Electrical Outlet Tester",
+        "quantity": 1.0,
+        "net_price": 18.0
+      },
+      {
+        "description": "7158A7 Steel Hex L-Key Set with Caddy, Black Phosphate-Coated, 15 Pieces, Long Length, Metric",
+        "quantity": 1.0,
+        "net_price": 16.07
+      },
+      {
+        "description": "5388A31 Wall-Mount Hex L-Key Set, 12 Pieces, Metric Sizes, Short Length",
+        "quantity": 1.0,
+        "net_price": 25.72
+      }
+    ],
+    "vat_amount": null,
+    "gl_account": null,
+    "bank_name": null,
+    "account_holder_name": null,
+    "banking_account_number": null,
+    "remit_to_address": null,
+    "bill_to_address": null,
+    "transaction_type": "debit"
+  },
+  "filename": "SAPS4_5100279011_US28_PFNAUS_2026_999935132.pdf",
+  "raw_response": {
+    "invoice_number": "59700238",
+    "invoice_date": "2/11/26",
+    "invoice_amount": "../../../80.51",
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": "14.21",
+    "po_number": [
+      "4505169784"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "McMaster-Carr",
+    "vendor_address": "PO Box 7690, Chicago IL 60680-7690",
+    "po_line_items": [
+      {
+        "description": "7018K16 GFCI Electrical Outlet Tester",
+        "quantity": 1.0,
+        "net_price": 18.0
+      },
+      {
+        "description": "7158A7 Steel Hex L-Key Set with Caddy, Black Phosphate-Coated, 15 Pieces, Long Length, Metric",
+        "quantity": 1.0,
+        "net_price": 16.07
+      },
+      {
+        "description": "5388A31 Wall-Mount Hex L-Key Set, 12 Pieces, Metric Sizes, Short Length",
+        "quantity": 1.0,
+        "net_price": 25.72
+      }
+    ]
+  }
+}

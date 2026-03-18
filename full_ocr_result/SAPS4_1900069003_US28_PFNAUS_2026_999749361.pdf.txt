@@ -1,0 +1,204 @@
+==================================<Page 1 - START>================================
+     OpenText Workflow History
+     Vendor
+     RUDOLPH FOODS CO INC
+     39749 TREASURY CTR
+     CHICAGO IL
+                  60694-9700
+     USA
+     Invoice
+     Reference        U934089
+                                                                 Document Date
+                                                                                   04.02.2026
+     DP Document No.  39326161
+                                                                 Net Amount       USD         85,449.37
+     Comp. Code       US28 Frito-Lay, Inc.                     Tax Amount
+                                                                                  USD               0.00
+     Posting Date
+                       13.02.2026                               Gross Amount
+                                                                                  USD        85,449.37
+     SAP Document No. 1900069003 2026
+                                             Pre-Process History
+     ACTIVITY
+                                                            USER       END TIME          DOCUMENT STATUS
+     Update status
+                                                            VRBLAOT_U  05.02.2026        Validation
+                                                            SR         16:17:17          Complete
+                                         Document Process History
+     ACTIVITY          PROCESS TYPE/BLOCK REASON          USER        END TIME
+                                                                                          DOCUMENT STATUS
+     BC Inbound                                            VRBLAOT_U  05.02.2026        Document
+                                                            SR          15:58:17          Registered
+    Workflow Start   Invalid Requestor ID (NPO)          Record to  05.02.2026        Created
+                                                            Report      16:17:17
+                                                            Batch
+                                                            Account
+                                                            Owner:
+   Apply Business   Invalid Requestor ID (NPO)          BOOBALAN   12.02.2026        Created
+   Rules
+                                                            BALAJI      15:57:18
+   Comment:
+  Changed By:
+                  BOOBALAN BALAJI (09371498)
+  Changed On:   02/12/2026 15:57:15
+  ***********************************************************************
+ Please approve and update mandatory details.
+Business Rules    Approval Required (NPO)
+                                                            SAP_WFRT    12.02.2026        Indexed
+Check in BG                                                          15:57:24
+   Invoice submitted for Approval                                    12.02.2026 15:57:25
+   Invoice Approved                                      KHALED      12.02.2026 16:11:07
+                                                            ORFALI
+   Invoice Approved                                      NARISSA     12.02.2026 17:24:04
+                                                            LEE
+Approval           Approval Required (NPO)             SAP_WFRT    12.02.2026        Approval
+Workflow                                                              17:24:11
+                                                                                            Complete
+Business Rules    Process Non-Po Invoice (NPO)        SAP_WFRT    12.02.2026        Approval
+Check in BG                                                           17:24:13           Complete
+==================================<Page 1 - END>================================
+==================================<Page 2 - START>================================
+  OpenText Workflow History
+  Invoice
+  Vendor            RUDOLPH FOODS CO INC CHICAGO
+  Reference         U934089                             Gross Amount     USD      85,449.37
+                               Document Process History - Continuation
+   ACTIVITY          PROCESS TYPE/BLOCK REASON          USER        END TIME          DOCUMENT STATUS
+   Create Doc. BG   Process Non-PO Invoice (NPO)        SAP_WFRT   12.02.2026        Sent for Doc
+                                                                        17:24:14          Creation
+   Post Non-PO      Process Non-PO Invoice (NPo)        KARTHIK M  13.02.2026
+                                                                                           Document
+   Invoice                                                             11:35:39          Created
+  SAP Document                                           SAP_WFRT    13.02.2026        Posted
+  Check                                                               11:35:46
+==================================<Page 2 - END>================================
+==================================<Page 3 - START>================================
+        PEPSICO
+  Instructions:When there is not an "Ojficial" Invoice to request payment, complete the information on this form.
+  1.You must fill in all of the fields below and the form must be accompanied with supporting documentation.
+  2. Save submission as 1 single PDF file prior to submitting to nassapinvoicesubmission@pepsico.com
+  The formcanbe used for the following invoicepayment type activity: Taxes/Legal Settlements/Business Licenses/Fines/Donation/sponsorship.
+            SAP Payment Request
+        Substitute Invoice Form                      To be filled by Requestor
+  Vendor Type
+                                              S4
+  Vendor Name:
+                                             RUDOLPH FOODS CO INC
+  Vendor Number:
+                                             2003274109
+  Company Code:
+                                             US28
+  Remit To Address :                               39749 TREASURY CENTER
+  (Must match the address in the AP system)
+                                             CHICAGO IL 60694-9700
+ Special Handling needed:
+                                             No
+ Attn:
+                                             N/A
+ Address:                                     N/A
+ Overnight delivery required:
+ (if yes provide account # or CC below)                   N/A
+ FedEx or UPS, & Provide Number:
+                                            N/A
+ FedEx or UPS account #                           N/A
+ Cost Center (If No FedEx/UPs Number):                  N/A
+ Trnsaction type:
+Choose only 1 option - Invoice or Credit Memo from the dropdown   Invoice
+Invoice Date:                                  2/4/2026
+Invoice #:
+                                            U934089
+Limited to 16 characters
+Purchase Order #
+                                            NON-PO
+Not required if non-PO
+Payment GROSS Amount:                          $85,449.37
+Tax Amount
+(if applicable)                                 $0.00
+Payment NET Amount:                            $85,449.37
+Currency (USD or CAD)                            USD
+Header Text:                                  26327219/326517-BKN-KO
+Requestor Name:                               Khaled Orfali
+Requestor email                                khaled.orfali@pepsico.com
+1st Level Approver Name                          Julie Dunn
+1st Level Approver Email id/GPID                      03216291
+Date Requested:                                2/4/2026
+GL Coding (6 digits)                              137100
+Cost Center (if applicable)                          2000050201
+Profit Center (if applicable)                         NA
+WBS Element (if applicable)                         NA
+For Assistance On This Form submission please contact:
+Raise service now ticket(Snow)                       PepsiCo - Sign In
+==================================<Page 3 - END>================================
+==================================<Page 4 - START>================================
+                             RUDOLPH FOODS COMPANY, INC.
+                                                                                                    INVOICE
+    RUDOLPH        6575 BELLEFONTAINE ROAD
+                             LIMA, OH 45804 USA
+            Foods
+                             (419) 648-3611
+       Nobody makes better
+       tasting pork rinds."
+                                                                                              INVOICE #         U934089
+          BILL TO
+                                                                        SHIP TO
+                                                                                              DATE            02/03/2026
+                                                                                              PAGES          Page 1 of 1
+          FRITO-LAY INC.                                                 FRITO-LAY INC. - ATLANTA SOUTH
+          7701 LEGACY DRIVE                                            3125 NORTH
+                                                                        DECATUR, GA 30034
+          PLANO, TX 75024
+    Customer #         Order #        Order Date      Ship Date
+                                                                                  Terms                      Due Date
+       1458                            02/03/2026      02/03/2026                     NET 60 DAYS
+                       MISC - 001                                                                                 04/04/2026
+    Client PO#           Warehouse          BOL#            Carrier             Ship Via       PPD/COLL/PP&A      PPS#
+26327219/326517-BKN    30 - RUDOLPH FOODS                      CUSTOMER PICKUP          CPU         CUSTOMER PICKUP
+                        BEAUMONT
+Line         Item                        Description                  UoM  Back Ord  QTY Shipped    Unit Price      Net Price
+  1        5FLPR0400FL00    4 OZ. FLAMIN HOT CHILI LIMON PORK RINDS-997001            EA                  512,249       0.04871        24,951.65
+           5FLPR0400FL01     4 OZ, FLAMIN HOT LIMON AK/HW-997037                    EA         o        38,463                      2,729.72
+  2                                                                                                   0.07097
+  3          3FLFHL       FLAMIN' HOT LIMON SEASONING -30062268                  LB         o        9,960       5.80000        57,768.00
+      Rudolph Foods will never change wire transfer or invoice                        Subtotal     (USD)       $85,449.37
+      payment instructions via email. If you receive any requests                      Handling    (USD)            $0.0
+      (via mail, email or phone) please call a Rudolph Foods                           Freight      (USD)            $0.0
+     representative known to you to confirm.                                                                        $0.0
+                                                                                       Sales Tax    (USD)
+                                                                                    TOTAL (USD)        $85,449.3
+                                         Please detach and return with Payment. Thank you!
+                                                             Remit To:
+      Inv. Number          U934089
+                                                              RUDOLPH FOODS CO., INC.
+      Inv. Date            02/03/2026
+                                                              39749 TREASURY CENTER
+                                                              CHICAGO, IL 60694-9700
+      Inv. Amount          $85,449.37
+      Customer #
+                            1458                              Amount
+                                                                           $
+     Customer PO #    26327219/326517-BKN                           Paid
+              If any invoice adjustments are made, please return a copy of the invoice with changes.Thank You!
+==================================<Page 4 - END>================================
+==================================<Page 5 - START>================================
+          From: SPA - PepsiCo Nass AP Invoice Submission <nassapInvoiceSubmission@pepsico.com>
+          Sent: Wed, 4 Feb 2026 14:42:52 (UTC)
+          To: svcimagingspaboxprod@pepsico.com
+           Subject: FW: Invoice Submission - Rudolph - U934089
+           Original Number of Attachments : 1
+          Original Attachment Names: Rudolph_U934089,$85,449.37 COMBINED-KO.pdf
+           Number of forwarded PDF's: 1
+           Number of forwarded Non PDF files: 0
+           From: Orfali, Khaled {PEP} <Khaled.Orfali@pepsico.com>
+           Sent: Wednesday, February 4, 2026 2:41:10 PM
+           To: SPA - PepsiCo Nass AP Invoice Submission <nassaplnvoiceSubmission@pepsico.com>
+           Cc: DL - FLNA Cost Acct Obsolescence <FLNACostAcctObsolescence@pepsico.com>; Lyons, Emily {PEP}
+           <Emily.Lyons@pepsico.com>; Griffin, Amy {PEP}<Amy.Griffin@pepsico.com>
+           Subject: RE: Invoice Submission - Rudolph - U934089
+           Hi All,
+            Please expedite the attached obsolescence invoice and coversheet for Rudolph, GL Acct and Cost Center
+            included on the cover sheet.
+            This invoice is tied to obsolescence reserve 26327219/326517-BKN
+           Thanks,
+           Khaled Orfali | Material Supply Sr. Manager | Global Procurement  FLNA Film & Seasoning | Plano,
+           TX
+==================================<Page 5 - END>================================

@@ -1,0 +1,47 @@
+{
+  "invoice_data": {
+    "invoice_number": "5103684021",
+    "invoice_date": "12/20/2025",
+    "invoice_amount": null,
+    "invoice_currency": [
+      "CAD"
+    ],
+    "tax_amount": null,
+    "po_number": [
+      "4505056045"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "CHEP",
+    "vendor_address": "747 Chester Road, Delta BC V3M 6E7",
+    "po_line_items": null,
+    "vat_amount": null,
+    "gl_account": null,
+    "bank_name": null,
+    "account_holder_name": null,
+    "banking_account_number": null,
+    "remit_to_address": null,
+    "bill_to_address": null,
+    "transaction_type": "debit"
+  },
+  "filename": "SAPS4_5100212007_CA02_PBNACA_2026_328615050.pdf",
+  "raw_response": {
+    "invoice_number": "5103684021",
+    "invoice_date": "12/20/2025",
+    "invoice_amount": null,
+    "invoice_currency": [
+      "CAD"
+    ],
+    "tax_amount": null,
+    "po_number": [
+      "4505056045"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "CHEP",
+    "vendor_address": "747 Chester Road, Delta BC V3M 6E7",
+    "po_line_items": null
+  }
+}

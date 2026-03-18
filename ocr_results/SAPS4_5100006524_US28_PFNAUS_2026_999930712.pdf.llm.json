@@ -1,0 +1,59 @@
+{
+  "invoice_data": {
+    "invoice_number": "458381240001",
+    "invoice_date": "Thursday 12 Feb 2026 12:00 PM GMT-05:00",
+    "invoice_amount": "33.15",
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": "2.88",
+    "po_number": [
+      "M413551437"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "ODP BUSINESS SOLUTIONS, LLC",
+    "vendor_address": "6600 North Military Trail, Boca Raton, FL 33496, United States, US-PL-FAYETTEVILLE-TN-FLI",
+    "po_line_items": [
+      {
+        "description": "8670227 / TABS.REPOS.2.5X1,PSTL.48PK",
+        "quantity": 3.0,
+        "net_price": 10.09
+      }
+    ],
+    "vat_amount": null,
+    "gl_account": null,
+    "bank_name": null,
+    "account_holder_name": null,
+    "banking_account_number": null,
+    "remit_to_address": null,
+    "bill_to_address": null,
+    "transaction_type": "debit"
+  },
+  "filename": "SAPS4_5100006524_US28_PFNAUS_2026_999930712.pdf",
+  "raw_response": {
+    "invoice_number": "458381240001",
+    "invoice_date": "Thursday 12 Feb 2026 12:00 PM GMT-05:00",
+    "invoice_amount": "33.15",
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": "2.88",
+    "po_number": [
+      "M413551437"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "ODP BUSINESS SOLUTIONS, LLC",
+    "vendor_address": "6600 North Military Trail, Boca Raton, FL 33496, United States, US-PL-FAYETTEVILLE-TN-FLI",
+    "po_line_items": [
+      {
+        "description": "8670227 / TABS.REPOS.2.5X1,PSTL.48PK",
+        "quantity": 3.0,
+        "net_price": 10.09
+      }
+    ]
+  }
+}

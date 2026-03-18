@@ -1,0 +1,79 @@
+{
+  "invoice_data": {
+    "invoice_number": "5352763402",
+    "invoice_date": "02/11/2026",
+    "invoice_amount": "9.73",
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": null,
+    "po_number": [
+      "M413438575"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": "0.00",
+    "cost_center": null,
+    "vendor_name": "vestis",
+    "vendor_address": "100 COMMERCE DR STE 100, BRAINTREE MA 02184, PO BOX 28050, NEW YORK NY 10087-8050",
+    "po_line_items": [
+      {
+        "description": "DM0001CHAR MAT NYLON/RUBBER",
+        "quantity": 2.0,
+        "net_price": 1.661
+      },
+      {
+        "description": "DM0001CHAR MAT NYLON/RUBBER",
+        "quantity": 305.0,
+        "net_price": 0.021
+      },
+      {
+        "description": "TS0002REDD SHOP TOWEL PLAIN",
+        "quantity": 0.0,
+        "net_price": 0.0
+      }
+    ],
+    "vat_amount": null,
+    "gl_account": null,
+    "bank_name": null,
+    "account_holder_name": null,
+    "banking_account_number": null,
+    "remit_to_address": null,
+    "bill_to_address": null,
+    "transaction_type": "debit"
+  },
+  "filename": "SAPS4_5100070543_US29_PFNAUS_2026_999884497.pdf",
+  "raw_response": {
+    "invoice_number": "5352763402",
+    "invoice_date": "02/11/2026",
+    "invoice_amount": "9.73",
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": null,
+    "po_number": [
+      "M413438575"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": "0.00",
+    "cost_center": null,
+    "vendor_name": "vestis",
+    "vendor_address": "100 COMMERCE DR STE 100, BRAINTREE MA 02184, PO BOX 28050, NEW YORK NY 10087-8050",
+    "po_line_items": [
+      {
+        "description": "DM0001CHAR MAT NYLON/RUBBER",
+        "quantity": 2.0,
+        "net_price": 1.661
+      },
+      {
+        "description": "DM0001CHAR MAT NYLON/RUBBER",
+        "quantity": 305.0,
+        "net_price": 0.021
+      },
+      {
+        "description": "TS0002REDD SHOP TOWEL PLAIN",
+        "quantity": 0.0,
+        "net_price": 0.0
+      }
+    ]
+  }
+}

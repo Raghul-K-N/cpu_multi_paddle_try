@@ -1,0 +1,129 @@
+{
+  "invoice_data": {
+    "invoice_number": "9004195329",
+    "invoice_date": "01/30/2026",
+    "invoice_amount": "8872.76",
+    "invoice_currency": [
+      "CAD"
+    ],
+    "tax_amount": "1020.76",
+    "po_number": [
+      "4504558251"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "Schawk Canada Inc.",
+    "vendor_address": "1620 Tech Avenue, Mississauga ON L4W 5P4, Canada",
+    "po_line_items": [
+      {
+        "description": "Rollouts",
+        "quantity": null,
+        "net_price": null
+      },
+      {
+        "description": "Mechanical Art",
+        "quantity": null,
+        "net_price": null
+      },
+      {
+        "description": "Separations",
+        "quantity": null,
+        "net_price": null
+      },
+      {
+        "description": "3D's",
+        "quantity": null,
+        "net_price": null
+      },
+      {
+        "description": "Claim Tiles",
+        "quantity": null,
+        "net_price": null
+      },
+      {
+        "description": "eContent",
+        "quantity": null,
+        "net_price": null
+      },
+      {
+        "description": "Mobile Ready Hero Image",
+        "quantity": null,
+        "net_price": null
+      },
+      {
+        "description": "Product Descriptions",
+        "quantity": null,
+        "net_price": null
+      }
+    ],
+    "vat_amount": null,
+    "gl_account": null,
+    "bank_name": null,
+    "account_holder_name": null,
+    "banking_account_number": null,
+    "remit_to_address": null,
+    "bill_to_address": null,
+    "transaction_type": "debit"
+  },
+  "filename": "SAPS4_5101428002_CA11_PFNACA_2026_304658873.pdf",
+  "raw_response": {
+    "invoice_number": "9004195329",
+    "invoice_date": "01/30/2026",
+    "invoice_amount": "8872.76",
+    "invoice_currency": [
+      "CAD"
+    ],
+    "tax_amount": "1020.76",
+    "po_number": [
+      "4504558251"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "Schawk Canada Inc.",
+    "vendor_address": "1620 Tech Avenue, Mississauga ON L4W 5P4, Canada",
+    "po_line_items": [
+      {
+        "description": "Rollouts",
+        "quantity": null,
+        "net_price": null
+      },
+      {
+        "description": "Mechanical Art",
+        "quantity": null,
+        "net_price": null
+      },
+      {
+        "description": "Separations",
+        "quantity": null,
+        "net_price": null
+      },
+      {
+        "description": "3D's",
+        "quantity": null,
+        "net_price": null
+      },
+      {
+        "description": "Claim Tiles",
+        "quantity": null,
+        "net_price": null
+      },
+      {
+        "description": "eContent",
+        "quantity": null,
+        "net_price": null
+      },
+      {
+        "description": "Mobile Ready Hero Image",
+        "quantity": null,
+        "net_price": null
+      },
+      {
+        "description": "Product Descriptions",
+        "quantity": null,
+        "net_price": null
+      }
+    ]
+  }
+}

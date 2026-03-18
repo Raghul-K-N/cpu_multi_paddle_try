@@ -1,0 +1,99 @@
+{
+  "invoice_data": {
+    "invoice_number": "PROJINV006919",
+    "invoice_date": "1/31/2026",
+    "invoice_amount": null,
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": null,
+    "po_number": [
+      "4504680815"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "Reading Bakery Systems, Inc.",
+    "vendor_address": "380 Old West Penn Ave., Robesonia, PA 19551, USA",
+    "po_line_items": [
+      {
+        "description": "RS017494 - Bearing-CPU347-Nickel Plated-Detail / Bearing-CPU347-Nickel",
+        "quantity": 1.0,
+        "net_price": 3537.8
+      },
+      {
+        "description": "RS017496 - Bearing-CPEU347-Nickel Plated-Detail / Bearing-CPEU347-Nicke",
+        "quantity": 1.0,
+        "net_price": 4313.25
+      },
+      {
+        "description": "EX001150 - GEAR BOX SEAL CARTRIDGE / GEAR BOX SEAL CARTRIDGE",
+        "quantity": 2.0,
+        "net_price": 86.63
+      },
+      {
+        "description": "sShippingRoby - ShippingRoby / ShippingRoby",
+        "quantity": 1.0,
+        "net_price": 45.86
+      },
+      {
+        "description": "sShippingRoby - ShippingRoby / ShippingRoby",
+        "quantity": 1.0,
+        "net_price": 238.61
+      }
+    ],
+    "vat_amount": null,
+    "gl_account": null,
+    "bank_name": null,
+    "account_holder_name": null,
+    "banking_account_number": null,
+    "remit_to_address": null,
+    "bill_to_address": null,
+    "transaction_type": "debit"
+  },
+  "filename": "SAPS4_5100010527_US28_PFNAUS_2026_999884282.pdf",
+  "raw_response": {
+    "invoice_number": "PROJINV006919",
+    "invoice_date": "1/31/2026",
+    "invoice_amount": null,
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": null,
+    "po_number": [
+      "4504680815"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "Reading Bakery Systems, Inc.",
+    "vendor_address": "380 Old West Penn Ave., Robesonia, PA 19551, USA",
+    "po_line_items": [
+      {
+        "description": "RS017494 - Bearing-CPU347-Nickel Plated-Detail / Bearing-CPU347-Nickel",
+        "quantity": 1.0,
+        "net_price": 3537.8
+      },
+      {
+        "description": "RS017496 - Bearing-CPEU347-Nickel Plated-Detail / Bearing-CPEU347-Nicke",
+        "quantity": 1.0,
+        "net_price": 4313.25
+      },
+      {
+        "description": "EX001150 - GEAR BOX SEAL CARTRIDGE / GEAR BOX SEAL CARTRIDGE",
+        "quantity": 2.0,
+        "net_price": 86.63
+      },
+      {
+        "description": "sShippingRoby - ShippingRoby / ShippingRoby",
+        "quantity": 1.0,
+        "net_price": 45.86
+      },
+      {
+        "description": "sShippingRoby - ShippingRoby / ShippingRoby",
+        "quantity": 1.0,
+        "net_price": 238.61
+      }
+    ]
+  }
+}

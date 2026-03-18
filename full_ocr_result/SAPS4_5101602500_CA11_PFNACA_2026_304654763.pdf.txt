@@ -1,0 +1,176 @@
+==================================<Page 1 - START>================================
+Standard Invoice                                                                                                 GRAINGER
+Original tax invoice has been submitted electronically. This is a
+human readable representation (copy) of the original tax invoice.
+                                                                                                                   9800524697
+                                                                Invoice Number
+                                                                (Supplier Reference No.)
+                                                                Invoice Date                    Monday 9 Feb. 2026 7:00 a.m. GMT-05:00
+                                                                                                                  $240.42 CAD
+                                                                Amount Due
+    Contact Information
+                                                                          Shipping Information
+    Supplier                       Customer
+                                                                                                       Ship To
+                                                                          Ship From
+    ACKLANDS-GRAINGER INC.        EDI ONLY PEPSI FOODS ULC
+                                                                          AGI CALEDON DC               CA-PL-LAUZON-QC-FLC
+    PO BOX 2970                  (FLC)
+                                                                          21 Merchant Road               8450 BOUL GUILLAUME
+    WINNIPEG
+                                  8450 BOUL GUILLAUME-                      Caledon                      COUTURE
+    MB                          COUTURE
+                                                                          ON                          LEVIS
+    R3C 4B5                      LÉVIS
+                                                                          L7C 3Y7                      QC
+    CA
+                                 QC                                      Canada                       G6V 7L7
+                                  G6V 7L7                                                              Canada
+                                 Canada
+  Line Items                                              PO No. : M413543932                                      PO Date : 7 Feb. 2026
+  Line No.   PO Line No.          Type    Supplier Part No. /                                                                    Subtotal
+                                                                 Customer Part No.        Quantity            Unit Price
+                                       Description                                       (UOM)
+  10       1                 Material  RBB1793547 / DIFFUSEUR TCELL                       5 / (EA)           $3.54 CAD      $17.70 CAD
+                                       BLANC
+                                                                                                    Line Item Total : $17.70 CAD
+  Line No.   PO Line No.
+                               Type    Supplier Part No. /             Customer Part No        Quantity            Unit Price         Subtotal
+                                       Description                                       (UOM)
+  20       2                 Material  MNO126213 / BALALOSKAR                                           $19.14 CAD     $191.40 CAD
+                                                                                      10 / (EA)
+                                       AVEC PELLE
+                                                                                                   Line Item Total : $191.40 CAD
+      Tax Summary
+     Category               Details                          Base Amount               Rate %          Amount
+      GST                  Tax Description : GOODS AND          $209.10 CAD               5%            $10.46 CAD
+                           SERVICES
+                           Tax Description : State/Provincial        $209.10 CAD                               $20.86 CAD
+     PST                                                                          9.975%
+                           Tax
+                                                                             Amount Summary
+                                                                                                                    $209.10 CAD
+                                                                              Line item subtotal
+                                                                                                                    $240.42 CAD
+                                                                              Gross amount
+                                                                             Net amount                              $240.42 CAD
+                                                                                                                      $31.32 CAD
+                                                                              Total tax amount
+                                                                              Total withholding tax amount
+                                                                                                                     $240.42 CAD
+                                                                              Amount Due
+    Additional Information
+    invioceSourceDocument
+    PurchaseOrder
+    Billing Information                                                         Remittance Information
+   Bill To                                                                 Remit To
+   PEPSI FOODS ULC (FLC)                                                   ACKLANDS-GRAINGER INC.
+   2095 MATHESON BLVD E                                                   PO BOX 2970
+   MISSISSAUGA                                                           WINNIPEG
+   ON                                                                   MB
+   L4W 0G2                                                               R3C 4B5
+   Canada                                                                Canada
+   Address ID:                                                              Address ID: CA1_2751
+   CA1_ARIBA_PAYABLES
+==================================<Page 1 - END>================================
+==================================<Page 2 - START>================================
+                                                        Supplier Part No. / Description
+Line No.
+            PO Line No. Type
+10         1          Material                          RBB1793547 / DIFFUSEUR TCELL BLANC
+Additional Details:
+Supplier Part ID : RBB1793547
+Line No.    PO Line No. Type                            Supplier Part No. / Description
+20         2          Material                          MNO126213 / BALAI OSKAR AVEC PELLE
+Additional Details:
+Supplier Part ID : MNO126213
+PDF generated on Tuesday 10 Feb. 2026 6:25 a.m. GMT-08:00
+==================================<Page 2 - END>================================
+==================================<Page 3 - START>================================
+       Standard Invoice                                                                                                 GRAINGER
+      Original tax invoice has been submitted electronically. This is a
+      human readable representation (copy) of the original tax invoice.
+                                                                                                                         9800524697
+                                                                       Invoice Number
+                                                                       (Supplier Reference No.)
+                                                                       Invoice Date                    Monday 9 Feb. 2026 7:00 a.m. GMT-05:00
+                                                                                                                         $240.42 CAD
+                                                                       Amount Due
+           Contact Information
+                                                                                Shipping Information
+           Supplier                       Customer
+                                                                                                             Ship To
+                                                                                Ship From
+           ACKLANDS-GRAINGER INC.        EDI ONLY PEPSI FOODS ULC
+                                                                                AGI CALEDON DC               CA-PL-LAUZON-QC-FLC
+           PO BOX 2970                  (FLC)
+                                                                                21 Merchant Road               8450 BOUL GUILLAUME
+           WINNIPEG
+                                        8450 BOUL GUILLAUME-                      Caledon                      COUTURE
+           MB                          COUTURE
+                                                                                ON                          LEVIS
+           R3C 4B5                      LÉVIS
+                                                                                L7C 3Y7                      QC
+           CA
+                                        QC                                      Canada                       G6V 7L7
+                                        G6V 7L7                                                              Canada
+                                        Canada
+        Line Items                                              PO No. : M413543932                                      PO Date : 7 Feb. 2026
+         Line No.   PO Line No.          Type    Supplier Part No. /                                                                    Subtotal
+                                                                        Customer Part No.        Quantity            Unit Price
+                                             Description                                       (UOM)
+         10       1                 Material  RBB1793547 / DIFFUSEUR TCELL                       5 / (EA)           $3.54 CAD      $17.70 CAD
+                                             BLANC
+                                                                                                          Line Item Total : $17.70 CAD
+         Line No.   PO Line No.
+                                     Type    Supplier Part No. /             Customer Part No        Quantity            Unit Price         Subtotal
+                                             Description                                       (UOM)
+         20       2                 Material  MNO126213 / BALALOSKAR                                           $19.14 CAD     $191.40 CAD
+                                                                                            10 / (EA)
+                                             AVEC PELLE
+                                                                                                         Line Item Total : $191.40 CAD
+            Tax Summary
+            Category               Details                          Base Amount               Rate %          Amount
+            GST                  Tax Description : GOODS AND          $209.10 CAD               5%            $10.46 CAD
+                                  SERVICES
+                                  Tax Description : State/Provincial        $209.10 CAD                               $20.86 CAD
+            PST                                                                          9.975%
+                                 Tax
+                                                                                    Amount Summary
+                                                                                                                           $209.10 CAD
+                                                                                    Line item subtotal
+                                                                                                                           $240.42 CAD
+                                                                                    Gross amount
+                                                                                    Net amount                              $240.42 CAD
+                                                                                                                            $31.32 CAD
+                                                                                    Total tax amount
+                                                                                    Total withholding tax amount
+                                                                                                                           $240.42 CAD
+                                                                                    Amount Due
+          Additional Information
+          invioceSourceDocument
+          PurchaseOrder
+          Billing Information                                                         Remittance Information
+          Bill To                                                                 Remit To
+          PEPSI FOODS ULC (FLC)                                                   ACKLANDS-GRAINGER INC.
+          2095 MATHESON BLVD E                                                   PO BOX 2970
+          MISSISSAUGA                                                           WINNIPEG
+          ON                                                                   MB
+         L4W 0G2                                                               R3C 4B5
+         Canada                                                                Canada
+         Address ID:                                                              Address ID: CA1_2751
+         CA1_ARIBA_PAYABLES
+==================================<Page 3 - END>================================
+==================================<Page 4 - START>================================
+                                                        Supplier Part No. / Description
+Line No.
+            PO Line No. Type
+10         1          Material                          RBB1793547 / DIFFUSEUR TCELL BLANC
+Additional Details:
+Supplier Part ID : RBB1793547
+Line No.    PO Line No. Type                            Supplier Part No. / Description
+20         2          Material                          MNO126213 / BALAI OSKAR AVEC PELLE
+Additional Details:
+Supplier Part ID : MNO126213
+PDF generated on Tuesday 10 Feb. 2026 6:25 a.m. GMT-08:00
+==================================<Page 4 - END>================================

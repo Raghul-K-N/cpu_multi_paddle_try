@@ -1,0 +1,71 @@
+{
+  "invoice_data": {
+    "invoice_number": "1093928",
+    "invoice_date": "2/11/2026",
+    "invoice_amount": null,
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": null,
+    "po_number": [
+      "2601786",
+      "M413548828"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "CHARM SCIENCES INC",
+    "vendor_address": "659 Andover Street, Lawrence, MA 01843-1032, USA",
+    "po_line_items": [
+      {
+        "description": "POCK-PLUS-1000K",
+        "quantity": 1.0,
+        "net_price": 2089.98
+      },
+      {
+        "description": "POCKSWB-PLUS/ATP MONITORING/40x25TESTS",
+        "quantity": 1.0,
+        "net_price": 2089.98
+      }
+    ],
+    "vat_amount": null,
+    "gl_account": null,
+    "bank_name": null,
+    "account_holder_name": null,
+    "banking_account_number": null,
+    "remit_to_address": null,
+    "bill_to_address": null,
+    "transaction_type": "debit"
+  },
+  "filename": "SAPS4_5100184056_US28_PFNAUS_2026_999884367.pdf",
+  "raw_response": {
+    "invoice_number": "1093928",
+    "invoice_date": "2/11/2026",
+    "invoice_amount": null,
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": null,
+    "po_number": [
+      "2601786",
+      "M413548828"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "CHARM SCIENCES INC",
+    "vendor_address": "659 Andover Street, Lawrence, MA 01843-1032, USA",
+    "po_line_items": [
+      {
+        "description": "POCK-PLUS-1000K",
+        "quantity": 1.0,
+        "net_price": 2089.98
+      },
+      {
+        "description": "POCKSWB-PLUS/ATP MONITORING/40x25TESTS",
+        "quantity": 1.0,
+        "net_price": 2089.98
+      }
+    ]
+  }
+}

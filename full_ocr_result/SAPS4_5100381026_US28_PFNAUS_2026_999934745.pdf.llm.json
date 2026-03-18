@@ -1,0 +1,109 @@
+{
+  "invoice_data": {
+    "invoice_number": "59793034",
+    "invoice_date": "2/12/26",
+    "invoice_amount": "371.06",
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": "30.11",
+    "po_number": [
+      "4505189822"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": "27.16",
+    "cost_center": null,
+    "vendor_name": "McMaster-Carr",
+    "vendor_address": "PO Box 7690, Chicago IL 60680-7690",
+    "po_line_items": [
+      {
+        "description": "Zinc-Plated Steel Coupling Nut, Low-Strength, 10-32 Thread Size",
+        "quantity": 10.0,
+        "net_price": 4.9
+      },
+      {
+        "description": "Clamp-on Cover for Corrosion-Resistant Metal Filter Housing",
+        "quantity": 1.0,
+        "net_price": 53.64
+      },
+      {
+        "description": "Metal Filter Housing, Gaskets",
+        "quantity": 1.0,
+        "net_price": 6.05
+      },
+      {
+        "description": "Passivated 18-8 Stainless Steel Pan Head Phillips Screw, 4-40 Thread, 5/16\" Long, Packs of 100",
+        "quantity": 2.0,
+        "net_price": 56.5
+      },
+      {
+        "description": "High-Speed Steel Utility Knife Blades with Dispenser, 2-1/2\" Long x 3/4\" Wide x 0.025\" Thick, Packs of 100",
+        "quantity": 1.0,
+        "net_price": 8.3
+      },
+      {
+        "description": "Steel Eyebolt - for Lifting, M12 x 1.75 Thread Size, 24 mm Thread Length",
+        "quantity": 1.0,
+        "net_price": 8.3
+      }
+    ],
+    "vat_amount": null,
+    "gl_account": null,
+    "bank_name": null,
+    "account_holder_name": null,
+    "banking_account_number": null,
+    "remit_to_address": null,
+    "bill_to_address": null,
+    "transaction_type": "debit"
+  },
+  "filename": "SAPS4_5100381026_US28_PFNAUS_2026_999934745.pdf",
+  "raw_response": {
+    "invoice_number": "59793034",
+    "invoice_date": "2/12/26",
+    "invoice_amount": "371.06",
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": "30.11",
+    "po_number": [
+      "4505189822"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": "27.16",
+    "cost_center": null,
+    "vendor_name": "McMaster-Carr",
+    "vendor_address": "PO Box 7690, Chicago IL 60680-7690",
+    "po_line_items": [
+      {
+        "description": "Zinc-Plated Steel Coupling Nut, Low-Strength, 10-32 Thread Size",
+        "quantity": 10.0,
+        "net_price": 4.9
+      },
+      {
+        "description": "Clamp-on Cover for Corrosion-Resistant Metal Filter Housing",
+        "quantity": 1.0,
+        "net_price": 53.64
+      },
+      {
+        "description": "Metal Filter Housing, Gaskets",
+        "quantity": 1.0,
+        "net_price": 6.05
+      },
+      {
+        "description": "Passivated 18-8 Stainless Steel Pan Head Phillips Screw, 4-40 Thread, 5/16\" Long, Packs of 100",
+        "quantity": 2.0,
+        "net_price": 56.5
+      },
+      {
+        "description": "High-Speed Steel Utility Knife Blades with Dispenser, 2-1/2\" Long x 3/4\" Wide x 0.025\" Thick, Packs of 100",
+        "quantity": 1.0,
+        "net_price": 8.3
+      },
+      {
+        "description": "Steel Eyebolt - for Lifting, M12 x 1.75 Thread Size, 24 mm Thread Length",
+        "quantity": 1.0,
+        "net_price": 8.3
+      }
+    ]
+  }
+}

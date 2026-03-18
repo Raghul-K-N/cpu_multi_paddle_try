@@ -1,0 +1,47 @@
+{
+  "invoice_data": {
+    "invoice_number": "321589P",
+    "invoice_date": "9/24/2025",
+    "invoice_amount": "-247.70",
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": "0.00",
+    "po_number": [
+      "23486694"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": "0.00",
+    "cost_center": null,
+    "vendor_name": "Nextran Truck Center",
+    "vendor_address": "4001 Randolph Rd, Kansas City, MO 64161",
+    "po_line_items": null,
+    "vat_amount": null,
+    "gl_account": null,
+    "bank_name": null,
+    "account_holder_name": null,
+    "banking_account_number": null,
+    "remit_to_address": null,
+    "bill_to_address": null,
+    "transaction_type": "credit"
+  },
+  "filename": "SAPS4_5100647504_US30_PFNAUS_2026_999885084.pdf",
+  "raw_response": {
+    "invoice_number": "321589P",
+    "invoice_date": "9/24/2025",
+    "invoice_amount": "-247.70",
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": "0.00",
+    "po_number": [
+      "23486694"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": "0.00",
+    "cost_center": null,
+    "vendor_name": "Nextran Truck Center",
+    "vendor_address": "4001 Randolph Rd, Kansas City, MO 64161",
+    "po_line_items": null
+  }
+}

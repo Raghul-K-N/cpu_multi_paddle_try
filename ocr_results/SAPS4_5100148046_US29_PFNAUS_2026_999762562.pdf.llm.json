@@ -1,0 +1,69 @@
+{
+  "invoice_data": {
+    "invoice_number": "20930814",
+    "invoice_date": "2/04/26",
+    "invoice_amount": "47.36",
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": "3.61",
+    "po_number": [
+      "M413401946"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "Rentokil",
+    "vendor_address": "1125 BERKSHIRE BLVD, SUITE 150, WYOMISSING PA 19610-1218",
+    "po_line_items": [
+      {
+        "description": "GENERAL PEST CONTROL - MAINTENANCE",
+        "quantity": null,
+        "net_price": null
+      },
+      {
+        "description": "Store# PORTABIN",
+        "quantity": null,
+        "net_price": null
+      }
+    ],
+    "vat_amount": null,
+    "gl_account": null,
+    "bank_name": null,
+    "account_holder_name": null,
+    "banking_account_number": null,
+    "remit_to_address": null,
+    "bill_to_address": null,
+    "transaction_type": "debit"
+  },
+  "filename": "SAPS4_5100148046_US29_PFNAUS_2026_999762562.pdf",
+  "raw_response": {
+    "invoice_number": "20930814",
+    "invoice_date": "2/04/26",
+    "invoice_amount": "47.36",
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": "3.61",
+    "po_number": [
+      "M413401946"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "Rentokil",
+    "vendor_address": "1125 BERKSHIRE BLVD, SUITE 150, WYOMISSING PA 19610-1218",
+    "po_line_items": [
+      {
+        "description": "GENERAL PEST CONTROL - MAINTENANCE",
+        "quantity": null,
+        "net_price": null
+      },
+      {
+        "description": "Store# PORTABIN",
+        "quantity": null,
+        "net_price": null
+      }
+    ]
+  }
+}

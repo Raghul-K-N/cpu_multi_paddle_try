@@ -1,0 +1,79 @@
+{
+  "invoice_data": {
+    "invoice_number": "9800524689",
+    "invoice_date": "Monday 9 Feb. 2026 7:00 a.m. GMT-05:00",
+    "invoice_amount": "1706.44",
+    "invoice_currency": [
+      "CAD"
+    ],
+    "tax_amount": "222.26",
+    "po_number": [
+      "M413543928"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "ACKLANDS-GRAINGER INC.",
+    "vendor_address": "PO BOX 2970, WINNIPEG, MB R3C 4B5, CA\n8450 BOUL GUILLAUME, LÉVIS, QC G6V 7L7, Canada",
+    "po_line_items": [
+      {
+        "description": "RMC71603 / RACLOIR 24PO HYGIENIQUE. BLEU",
+        "quantity": 5.0,
+        "net_price": 48.17
+      },
+      {
+        "description": "RMC71602 / RACLOIR 24PO HYGIENIQUE, VERT",
+        "quantity": 5.0,
+        "net_price": 48.17
+      },
+      {
+        "description": "ALM320RSR/ ROULEAU ANTIPELUCHE RECHRG.60 FEUIL.CA12",
+        "quantity": 24.0,
+        "net_price": 41.77
+      }
+    ],
+    "vat_amount": null,
+    "gl_account": null,
+    "bank_name": null,
+    "account_holder_name": null,
+    "banking_account_number": null,
+    "remit_to_address": null,
+    "bill_to_address": null,
+    "transaction_type": "debit"
+  },
+  "filename": "SAPS4_5101599503_CA11_PFNACA_2026_304654752.pdf",
+  "raw_response": {
+    "invoice_number": "9800524689",
+    "invoice_date": "Monday 9 Feb. 2026 7:00 a.m. GMT-05:00",
+    "invoice_amount": "1706.44",
+    "invoice_currency": [
+      "CAD"
+    ],
+    "tax_amount": "222.26",
+    "po_number": [
+      "M413543928"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "ACKLANDS-GRAINGER INC.",
+    "vendor_address": "PO BOX 2970, WINNIPEG, MB R3C 4B5, CA\n8450 BOUL GUILLAUME, LÉVIS, QC G6V 7L7, Canada",
+    "po_line_items": [
+      {
+        "description": "RMC71603 / RACLOIR 24PO HYGIENIQUE. BLEU",
+        "quantity": 5.0,
+        "net_price": 48.17
+      },
+      {
+        "description": "RMC71602 / RACLOIR 24PO HYGIENIQUE, VERT",
+        "quantity": 5.0,
+        "net_price": 48.17
+      },
+      {
+        "description": "ALM320RSR/ ROULEAU ANTIPELUCHE RECHRG.60 FEUIL.CA12",
+        "quantity": 24.0,
+        "net_price": 41.77
+      }
+    ]
+  }
+}

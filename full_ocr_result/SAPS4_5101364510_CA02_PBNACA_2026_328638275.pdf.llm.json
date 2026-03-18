@@ -1,0 +1,69 @@
+{
+  "invoice_data": {
+    "invoice_number": "4815",
+    "invoice_date": "03-02-2026",
+    "invoice_amount": "2136.56",
+    "invoice_currency": [
+      "CAD"
+    ],
+    "tax_amount": "245.80",
+    "po_number": [
+      "4505049661"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": "1890.76",
+    "cost_center": null,
+    "vendor_name": "Simeteck Packaging Inc",
+    "vendor_address": "3942 Bloor Street West, Etobicoke ON M9B 1M1",
+    "po_line_items": [
+      {
+        "description": "knife",
+        "quantity": 2.0,
+        "net_price": 1805.76
+      },
+      {
+        "description": "freight /insurance",
+        "quantity": 1.0,
+        "net_price": 85.0
+      }
+    ],
+    "vat_amount": null,
+    "gl_account": null,
+    "bank_name": null,
+    "account_holder_name": null,
+    "banking_account_number": null,
+    "remit_to_address": null,
+    "bill_to_address": null,
+    "transaction_type": "debit"
+  },
+  "filename": "SAPS4_5101364510_CA02_PBNACA_2026_328638275.pdf",
+  "raw_response": {
+    "invoice_number": "4815",
+    "invoice_date": "03-02-2026",
+    "invoice_amount": "2136.56",
+    "invoice_currency": [
+      "CAD"
+    ],
+    "tax_amount": "245.80",
+    "po_number": [
+      "4505049661"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": "1890.76",
+    "cost_center": null,
+    "vendor_name": "Simeteck Packaging Inc",
+    "vendor_address": "3942 Bloor Street West, Etobicoke ON M9B 1M1",
+    "po_line_items": [
+      {
+        "description": "knife",
+        "quantity": 2.0,
+        "net_price": 1805.76
+      },
+      {
+        "description": "freight /insurance",
+        "quantity": 1.0,
+        "net_price": 85.0
+      }
+    ]
+  }
+}

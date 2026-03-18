@@ -1,0 +1,284 @@
+==================================<Page 1 - START>================================
+Standard Invoice
+                                                                                                                    odp
+Original tax invoice has been submitted electronically. This is a
+human readable representation (copy) of the original tax invoice.
+                                                                 Invoice Number                                      454529190001
+                                                                 (Supplier Reference No.)
+                                                                 Invoice Date                     Friday 13 Feb 2026 12:00 PM GMT-05:00
+                                                                 Amount Due                                          $96.28 USD
+     Contact Information
+                                                                           Shipping Information
+     Supplier
+                                  Customer
+                                                                          Ship From                     Ship To
+     ODP BUSINESS SOLUTIONS,       ROLLING FRITO-LAY SALES
+                                                                           ODP BUSINESS SOLUTIONS.       LORETTA SMITH
+     LLC
+                                  1190 SPRECKELS RD                         LLC                          1190 SPRECKELS RD
+     6600 North Military Trail            MANTECA                                                              MANTECA
+     Boca Raton                    CA                                                                   CA
+     FL                          953368962                                                              953368962
+     33496                        United States                                                            United States
+     US                                                                                               Address ID:
+                                                                                                       ADBUYER741337696
+   Line Items                                              PO No. : M413555230                                      PO Date : 12 Feb 2026
+                                                                                                                         Subtotal
+   Line No.    PO Line No.          Type    Supplier Part No. /             Customer Part No.        Quantity            Unit Price
+                                       Description                                       (UOM)
+                                Material 220690 /                                         3 / (PK)            $5.55 USD
+    1        1
+                                        TAPE.MP.1.89X54.6.6PK.CLEAR
+    Line No.                      Type   Supplier Part No. /             Customer Part No.        Quantity            Unit Price         Subtotal
+              PO Line No.
+                                       Description                                       (UOM)
+    2        2                 Material 965232 /                                         1 / (PK)            $7.24 USD
+                                       TAPE.CORRECTION,OD.12PK
+                                       Supplier Part No. /                                  Quantity            Unit Price         Subtotal
+    Line No.    PO Line No.         Type                             Customer Part No.
+                                       Description                                       (UOM)
+    3                          Material 520328 / DISPENSER,DESK,1                          3 / (EA)           $1.66 USD
+              3
+                                       CORE,BLACK
+                                                                                                        Unit Price         Subtotal
+    Line No.   PO Line No.         Type   Supplier Part No. /             Customer Part No.        Quantity
+                                       Description                                       (UOM)
+                                Material 664011 / PEN.ROUND                               1 / (BX)            $3.51 USD
+    4        4
+                                       STIC,BIC,60CT,BLACK
+              PO Line No.         Type   Supplier Part No. /             Customer Part No.        Quantity            Unit Price         Subtotal
+    Line No.
+                                       Description                                       (UOM)
+                                Material 754871 /                                        3 / (DZN)          $6.79 USD
+    5        5
+                                       MARKER,CHISEL,SHARPIE,BLACK
+              PO Line No.         Type   Supplier Part No. /             Customer Part No.        Quantity            Unit Price         Subtotal
+    Line No.
+                                       Description                                       (UOM)
+                                Material                                                                 $13.79 USD
+    6        6                        625358 / PAD LEGAL,8.5X14,                          2 / (PK)
+                                       WHITE,50 SH
+              PO Line No.         Type    Supplier Part No. /             Customer Part No.        Quantity            Unit Price         Subtotal
+    Line No.
+                                       Description                                       (UOM)
+    7        7                Material 270053 / HIGHLIGHTER,                             2 / (BX)           $4.00 USD
+                                       POCKET.CHSL.YW
+        Tax Summary
+        Category              Details                         Base Amount               Rate %          Amount
+       Sales Tax
+                                                                                    9.00%           $7.95 USD
+                                                                             Amount Summary
+                                                                              Line item subtotal                           $88.33 USD
+                                                                              Gross amount                             $96.28 USD
+                                                                              Net amount                               $96.28 USD
+                                                                              Total tax amount                            $7.95 USD
+                                                                              Total withholding tax amount
+                                                                                                                     $96.28 USD
+                                                                              Amount Due
+      Additional Information
+      invoice due date
+      20260514
+      Billing Information                                                       Remittance Information
+     Bill To                                                               Remit To
+     PEPSICO INC ARIBA                                                     ODP BUSINESS SOLUTIONS,
+                                                                         LLC
+     700 ANDERSON HILL RD
+     PURCHASE                                                           PO BOX 633204
+     NY                                                                 CINCINNATI
+     105771444                                                            OH
+     United States                                                          45263-3204
+     Address ID: 47140624                                                     United States
+  Payment Terms                                                       Reference Documents
+                                                                      Original Supplier Order #: 454529190001
+   Net payment Terms (Days) :
+   90
+==================================<Page 1 - END>================================
+==================================<Page 2 - START>================================
+  Appendix
+  Line No.    PO Line No. Type
+                                                        Supplier Part No. / Description
+   1
+              1         Material
+                                                        220690 / TAPE,MP,1.89X54.6,6PK,CLEAR
+  Additional Details:
+  Supplier Part ID : 220690
+  UNSPSC : 31201517
+  Line No.
+              PO Line No. Type                           Supplier Part No. / Description
+  2
+              2         Material                         965232 / TAPE,CORRECTION,OD,12PK
+  Additional Details:
+  Supplier Part ID : 965232
+  UNSPSC : 44121801
+  Line No.    PO Line No. Type                           Supplier Part No. / Description
+  3         3         Material                         520328 / DISPENSER,DESK,1 CORE,BLACK
+  Additional Details:
+  Supplier Part ID : 520328
+  UNSPSC : 44121605
+  Line No.    PO Line No. Type                           Supplier Part No. / Description
+  4         4          Material                         664011 / PEN,ROUND STIC,BIC,60CT,BLACK
+  Additional Details:
+  Supplier Part ID : 664011
+  UNSPSC : 44121704
+  Line No.    PO Line No. Type                           Supplier Part No. / Description
+  5         5         Material                         754871 / MARKER,CHISEL,SHARPIE,BLACK
+  Additional Details:
+  Supplier Part ID : 754871
+  UNSPSC : 44121708
+ Line No.    PO Line No. Type                            Supplier Part No. / Description
+                      Material
+ 6         6                                         625358 / PAD LEGAL,8.5X14, WHITE,50 SH
+ Additional Details:
+  Supplier Part ID : 625358
+ UNSPSC : 14111514
+Line No.
+            PO Line No. Type                           Supplier Part No. / Description
+ 7
+            7         Material                         270053 / HIGHLIGHTER, POCKET,CHSL,YW
+Additional Details:
+Supplier Part ID : 270053
+ UNSPSC : 44121716
+PDF generated on Friday 13 Feb 2026 12:34 PM GMT-08:00
+==================================<Page 2 - END>================================
+==================================<Page 3 - START>================================
+Standard Invoice
+                                                                                                                     odp
+Original tax invoice has been submitted electronically. This is a
+human readable representation (copy) of the original tax invoice.
+                                                                  Invoice Number                                      454529190001
+                                                                  (Supplier Reference No.)
+                                                                  Invoice Date                     Friday 13 Feb 2026 12:00 PM GMT-05:00
+                                                                  Amount Due                                          $96.28 USD
+     Contact Information
+                                                                           Shipping Information
+     Supplier
+                                  Customer
+                                                                           Ship From                     Ship To
+      ODP BUSINESS SOLUTIONS,       ROLLING FRITO-LAY SALES
+                                                                            ODP BUSINESS SOLUTIONS.       LORETTA SMITH
+     LLC
+                                  1190 SPRECKELS RD                         LLC                          1190 SPRECKELS RD
+      6600 North Military Trail            MANTECA                                                              MANTECA
+      Boca Raton                    CA                                                                   CA
+      FL                          953368962                                                              953368962
+      33496                        United States                                                            United States
+      US                                                                                               Address ID:
+                                                                                                        ADBUYER741337696
+    Line Items                                              PO No. : M413555230                                      PO Date : 12 Feb 2026
+                                                                                                                          Subtotal
+    Line No.    PO Line No.          Type    Supplier Part No. /             Customer Part No.        Quantity            Unit Price
+                                        Description                                       (UOM)
+                                 Material 220690 /                                         3 / (PK)            $5.55 USD
+    1        1
+                                        TAPE.MP.1.89X54.6.6PK.CLEAR
+    Line No.                      Type   Supplier Part No. /             Customer Part No.        Quantity            Unit Price         Subtotal
+              PO Line No.
+                                        Description                                       (UOM)
+    2        2                 Material 965232 /                                         1 / (PK)            $7.24 USD
+                                        TAPE.CORRECTION,OD.12PK
+                                        Supplier Part No. /                                  Quantity            Unit Price         Subtotal
+    Line No.    PO Line No.         Type                             Customer Part No.
+                                        Description                                       (UOM)
+     3                          Material 520328 / DISPENSER,DESK,1                          3 / (EA)           $1.66 USD
+              3
+                                        CORE,BLACK
+                                                                                                         Unit Price         Subtotal
+    Line No.   PO Line No.         Type   Supplier Part No. /             Customer Part No.        Quantity
+                                        Description                                       (UOM)
+                                 Material 664011 / PEN.ROUND                               1 / (BX)            $3.51 USD
+     4        4
+                                        STIC,BIC,60CT,BLACK
+               PO Line No.         Type   Supplier Part No. /             Customer Part No.        Quantity            Unit Price         Subtotal
+     Line No.
+                                        Description                                       (UOM)
+                                Material 754871 /                                        3 / (DZN)          $6.79 USD
+     5        5
+                                        MARKER,CHISEL,SHARPIE,BLACK
+               PO Line No.         Type   Supplier Part No. /             Customer Part No.        Quantity            Unit Price         Subtotal
+     Line No.
+                                        Description                                       (UOM)
+                                Material                                                                 $13.79 USD
+     6        6                        625358 / PAD LEGAL,8.5X14,                          2 / (PK)
+                                        WHITE,50 SH
+               PO Line No.         Type    Supplier Part No. /             Customer Part No.        Quantity            Unit Price         Subtotal
+     Line No.
+                                        Description                                       (UOM)
+     7        7                Material 270053 / HIGHLIGHTER,                             2 / (BX)           $4.00 USD
+                                        POCKET.CHSL.YW
+        Tax Summary
+        Category              Details                         Base Amount               Rate %          Amount
+        Sales Tax
+                                                                                    9.00%           $7.95 USD
+                                                                              Amount Summary
+                                                                              Line item subtotal                           $88.33 USD
+                                                                              Gross amount                             $96.28 USD
+                                                                              Net amount                               $96.28 USD
+                                                                              Total tax amount                            $7.95 USD
+                                                                              Total withholding tax amount
+                                                                                                                      $96.28 USD
+                                                                              Amount Due
+      Additional Information
+      invoice due date
+      20260514
+      Billing Information                                                       Remittance Information
+      Bill To                                                               Remit To
+      PEPSICO INC ARIBA                                                     ODP BUSINESS SOLUTIONS,
+                                                                          LLC
+      700 ANDERSON HILL RD
+      PURCHASE                                                           PO BOX 633204
+      NY                                                                 CINCINNATI
+      105771444                                                            OH
+      United States                                                          45263-3204
+      Address ID: 47140624                                                     United States
+   Payment Terms                                                       Reference Documents
+                                                                       Original Supplier Order #: 454529190001
+    Net payment Terms (Days) :
+   90
+==================================<Page 3 - END>================================
+==================================<Page 4 - START>================================
+  Appendix
+  Line No.    PO Line No. Type
+                                                        Supplier Part No. / Description
+   1
+              1         Material
+                                                        220690 / TAPE,MP,1.89X54.6,6PK,CLEAR
+  Additional Details:
+  Supplier Part ID : 220690
+  UNSPSC : 31201517
+  Line No.
+              PO Line No. Type                           Supplier Part No. / Description
+  2
+              2         Material                         965232 / TAPE,CORRECTION,OD,12PK
+  Additional Details:
+  Supplier Part ID : 965232
+  UNSPSC : 44121801
+  Line No.    PO Line No. Type                           Supplier Part No. / Description
+  3         3         Material                         520328 / DISPENSER,DESK,1 CORE,BLACK
+  Additional Details:
+  Supplier Part ID : 520328
+  UNSPSC : 44121605
+  Line No.    PO Line No. Type                           Supplier Part No. / Description
+  4         4          Material                         664011 / PEN,ROUND STIC,BIC,60CT,BLACK
+  Additional Details:
+  Supplier Part ID : 664011
+  UNSPSC : 44121704
+  Line No.    PO Line No. Type                           Supplier Part No. / Description
+  5         5         Material                         754871 / MARKER,CHISEL,SHARPIE,BLACK
+  Additional Details:
+  Supplier Part ID : 754871
+  UNSPSC : 44121708
+ Line No.    PO Line No. Type                            Supplier Part No. / Description
+                      Material
+ 6         6                                         625358 / PAD LEGAL,8.5X14, WHITE,50 SH
+ Additional Details:
+  Supplier Part ID : 625358
+ UNSPSC : 14111514
+Line No.
+            PO Line No. Type                           Supplier Part No. / Description
+ 7
+            7         Material                         270053 / HIGHLIGHTER, POCKET,CHSL,YW
+Additional Details:
+Supplier Part ID : 270053
+ UNSPSC : 44121716
+PDF generated on Friday 13 Feb 2026 12:34 PM GMT-08:00
+==================================<Page 4 - END>================================

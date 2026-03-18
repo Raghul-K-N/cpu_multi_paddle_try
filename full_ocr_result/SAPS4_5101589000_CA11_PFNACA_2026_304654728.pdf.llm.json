@@ -1,0 +1,59 @@
+{
+  "invoice_data": {
+    "invoice_number": "SOI1015362",
+    "invoice_date": "Tuesday 10 Feb. 2026 12:00 p.m. GMT-07:00",
+    "invoice_amount": "139.65",
+    "invoice_currency": [
+      "CAD"
+    ],
+    "tax_amount": "6.65",
+    "po_number": [
+      "M413498947"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "Arpac Storage System Corp.",
+    "vendor_address": "7663 Progress Way, Delta, BC v4g 1a2, Canada, Address ID: CA11",
+    "po_line_items": [
+      {
+        "description": "2026 YEARLY BPO LETHBRIDGE /2026 YEARLY FORKLIFT MAINTENANCE LETHBRIDGE BPO",
+        "quantity": 133.0,
+        "net_price": 1.0
+      }
+    ],
+    "vat_amount": null,
+    "gl_account": null,
+    "bank_name": null,
+    "account_holder_name": null,
+    "banking_account_number": null,
+    "remit_to_address": null,
+    "bill_to_address": null,
+    "transaction_type": "debit"
+  },
+  "filename": "SAPS4_5101589000_CA11_PFNACA_2026_304654728.pdf",
+  "raw_response": {
+    "invoice_number": "SOI1015362",
+    "invoice_date": "Tuesday 10 Feb. 2026 12:00 p.m. GMT-07:00",
+    "invoice_amount": "139.65",
+    "invoice_currency": [
+      "CAD"
+    ],
+    "tax_amount": "6.65",
+    "po_number": [
+      "M413498947"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "Arpac Storage System Corp.",
+    "vendor_address": "7663 Progress Way, Delta, BC v4g 1a2, Canada, Address ID: CA11",
+    "po_line_items": [
+      {
+        "description": "2026 YEARLY BPO LETHBRIDGE /2026 YEARLY FORKLIFT MAINTENANCE LETHBRIDGE BPO",
+        "quantity": 133.0,
+        "net_price": 1.0
+      }
+    ]
+  }
+}

@@ -1,0 +1,55 @@
+{
+  "invoice_data": {
+    "invoice_number": "VA09-00310181",
+    "invoice_date": "01/29/26",
+    "invoice_amount": null,
+    "invoice_currency": null,
+    "tax_amount": null,
+    "po_number": [
+      "4505009427"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "REMIT MOTION INDUSTRIES, INC.",
+    "vendor_address": "1030 MCCONVILLE RD., #13, LYNCHBURG, VA 24502, PHONE: 4342397111, FAX 4342397125",
+    "po_line_items": [
+      {
+        "description": "MGPM20TN-25Z MGP-Z CYLINDER GUIDED AIR CYLINDER - 20 MM BORE, 25 MM STROKE LENGTH",
+        "quantity": 1.0,
+        "net_price": 145.23
+      }
+    ],
+    "vat_amount": null,
+    "gl_account": null,
+    "bank_name": null,
+    "account_holder_name": null,
+    "banking_account_number": null,
+    "remit_to_address": null,
+    "bill_to_address": null,
+    "transaction_type": "debit"
+  },
+  "filename": "SAPS4_5100200061_US28_PFNAUS_2026_999884388.pdf",
+  "raw_response": {
+    "invoice_number": "VA09-00310181",
+    "invoice_date": "01/29/26",
+    "invoice_amount": null,
+    "invoice_currency": null,
+    "tax_amount": null,
+    "po_number": [
+      "4505009427"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "REMIT MOTION INDUSTRIES, INC.",
+    "vendor_address": "1030 MCCONVILLE RD., #13, LYNCHBURG, VA 24502, PHONE: 4342397111, FAX 4342397125",
+    "po_line_items": [
+      {
+        "description": "MGPM20TN-25Z MGP-Z CYLINDER GUIDED AIR CYLINDER - 20 MM BORE, 25 MM STROKE LENGTH",
+        "quantity": 1.0,
+        "net_price": 145.23
+      }
+    ]
+  }
+}

@@ -1,0 +1,47 @@
+{
+  "invoice_data": {
+    "invoice_number": "XA036216301",
+    "invoice_date": "8/28/2025",
+    "invoice_amount": "-90.93",
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": "0.00",
+    "po_number": [
+      "23439872"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "Bruckner Truck Sales - Dallas irving Blvd (F286)",
+    "vendor_address": "3611 Irving Boulevard, Dallas, TX 75247, 377-443-3623",
+    "po_line_items": null,
+    "vat_amount": null,
+    "gl_account": null,
+    "bank_name": null,
+    "account_holder_name": null,
+    "banking_account_number": null,
+    "remit_to_address": null,
+    "bill_to_address": null,
+    "transaction_type": "credit"
+  },
+  "filename": "SAPS4_5100800000_US30_PFNAUS_2026_999935864.pdf",
+  "raw_response": {
+    "invoice_number": "XA036216301",
+    "invoice_date": "8/28/2025",
+    "invoice_amount": "-90.93",
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": "0.00",
+    "po_number": [
+      "23439872"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "Bruckner Truck Sales - Dallas irving Blvd (F286)",
+    "vendor_address": "3611 Irving Boulevard, Dallas, TX 75247, 377-443-3623",
+    "po_line_items": null
+  }
+}

@@ -1,0 +1,253 @@
+==================================<Page 1 - START>================================
+  OpenText Workflow History
+  Vendor
+  W D POTATO LTD
+  RR 2
+  3644 10 SIDERD
+  BEETON ON
+              LOG 1A0
+  CANADA
+  Invoice
+   Reference        IN0235836
+                                                              Document Date
+                                                                                01.01.2026
+  DP Document No.  39413302
+                                                              Net Amount
+                                                                                CAD         8,493.57
+  Comp. Code
+                     CA11 PepsiCo Canada ULC (FLC)            Tax Amount       CAD
+                                                                                                   0.00
+  Posting Date     13.02.2026
+                                                              Gross Amount
+                                                                                CAD         8,493.57
+  SAP Document No. 1900187000 2026
+                                          Pre-Process History
+   ACTIVITY
+                                                         USER       END TIME         DOCUMENT STATUS
+   Update status
+                                                         VRBLAOT_U  09.02.2026       Validation
+                                                         SR         12:57:11
+                                                                                       Complete
+                                      Document Process History
+  ACTIVITY         PROCESS TYPE/BLOCK REASON
+                                                         USER       END TIME         DOCUMENT STATUS
+  BC Inbound                                            VRBLAOT_U  09.02.2026
+                                                                                       Document
+                                                         SR          12:56:34         Registered
+  Workflow Start   Approval Required (NPo)
+                                                         Record to  09.02.2026        Indexed
+                                                         Report      12:57:11
+                                                         Batch
+                                                         Account
+                                                         Owner:
+    Invoice submitted for Approval
+                                                                     09.02.2026 12:57:16
+    Invoice Approved                                    GEORGES
+                                                                     09.02.2026 14:47:21
+                                                        DION
+    Invoice Approved
+                                                        FABRIZZIO  09.02.2026 15:20:55
+                                                        CANTAGALL
+ Approval         Approval Required (NPO)
+                                                        SAP_WFRT   09.02.2026        Approval
+Workflow                                                          15:21:00         Complete
+Business Rules
+                   Process Non-PO Invoice (NPO)       SAP_WFRT   09.02.2026        Approval
+Check in BG
+                                                                     15:21:02         Complete
+Post Non-PO      Process Non-PO Invoice (NPO)       VIGNESH
+                                                                     13.02.2026        Document
+Invoice
+                                                        RENGARAJ   17:51:14          Created
+SAP Document
+                                                        SAP_WFRT   13.02.2026        Posted
+Check
+                                                                     17:51:23
+==================================<Page 1 - END>================================
+==================================<Page 2 - START>================================
+           PEPSICO
+   Fillin the Description field below with the payment type - for example: Donation / Taxes / Legal / etc.
+                                           Non-PO Invoice
+                                     SAP Payment Request
+                                    Substitute Invoice Form
+   Vendor Name:
+                                             WD Potato
+   Vendor Number:                    2003151895
+   Company Code:                    CA11
+    Remit To Address :
+                                             3630 Sideroad 10, Beeton, Ontario, L0G1A0
+    Transaction type:                  Invoice
+    Invoice Date:
+                                             1/1/2026
+    Invoice #:
+                                             IN0235836
+    Purchase Order #
+    Payment GROSS Amount:       $8,493.57
+   Tax Amount:
+                                            $0.00
+   Payment NET Amount:           $8,493.57
+   Currency                            CND
+   Header Text:
+   Requestor Name:                  Georges Dion
+   Requestor email                    georges.dion@pepsico.com
+   Date Requested:
+                                            1/30/2026
+   Description:                         COMAN
+   Cost Center (optional - use Tab 2 if multiple):
+                                            2003050200
+   GL AcCount (REQUIRED - use Tab 2 if multiple):    525411
+   WBS Element (optional - use Tab 2 if multiple):
+==================================<Page 2 - END>================================
+==================================<Page 3 - START>================================
+                                                                                      INVOICE #        IN0235836
+                               W.D. POTATO LIMITED
+    WD
+                               3644 SIDEROAD 10,
+                                                                                     INVOICE DATE      Jan 1, 2026
+                               BEETON, ONTARIO. LOG IAO
+                               TEL: (905) 729-2263
+      POTATO LIMITED   FAX: (905) 729-4136
+                                                                                                      Jan 1, 2026
+                                                                         1001 BISHOP STREET
+            PEPSICO FOODS CANADA
+            1001 BISHOP STREET                                      CAMBRIDGE, ONTARIO
+             CAMBRIDGE, ONTARIO                                    N3H 4V8
+        T   N3H 4V8                                              T
+       customer No.                      TERMS                        st #
+                                                                                               FRESH COMAN SHIPMEN
+           2001                        NET 30 DAYS                      R 105605836
+                                                                                                     AMOUNT
+                                                                    QTY. SHIPPED      PRICE
+  9910H         JULY 20 - JULY 26/25                                            1.00        733.38          733.38
+  9910H                                                                                                 -699.34
+                JULY 27 - AUG 2/25                                             -1.00        699.34
+                                                                                                        -164.32
+  9910H        AUG 3 - AUG 9/25                                              -1.00         164.32
+  9910H        AUG 10 - AUG 16/25                                            1.00         985.36          985.36
+  9910H        AUG 17 - AUG 23/25                                             1.00         400.51          400.51
+  9910H        AUG 24 - AUG 30/25                                             1.00        2,563.81         2,563.81
+                AUG 31 - SEPT 6/25                                                                         811.67
+  9910H                                                                     1.00         811.67
+  9910H        SEPT 7- SEPT 13/25                                             1.00       2,570.98         2,570.98
+  9910H        SEPT 21 - SET 27/25                                            1.00        1,291.52         1,291.52
+"The perishable agricultural commodities listed on this invoice are sold subject to the statutory trust authorized by section S(c) of
+the Perishabale Agricultural Commodities Act. 1930 (7 U.s.C. 499e(c)). The seller of these commodities retains a trust claim over
+these commodities, all inventories of food or other products derived from these commodities, and any receivables or proceeds
+from the sale of these commodities until full payment is received."
+                                                                                           HST
+                                                                                                         TOTAL
+==================================<Page 3 - END>================================
+==================================<Page 4 - START>================================
+         Fresh 2025                  SuperPufft CoMan Shipments
+                                                                                 $ 8,493.58
+         PO #s                              Cwt       SP Price  FL Price  Invoice Amt
+          7/20/2025 - 7/26/2025                 2444.6                     $    733.38
+                                                          $ 19.37  $ 19.67
+           64424AKFL                              806
+           64425AKFL                              846
+           64426AKFL                             792.6
+         7/27/2025 - 8/2/2025                   3178.8$ 19.27 7 $ 19.05 $ (699.34)
+                                                   733.8
+          64665AKFL
+          64666AKFL                             823.2
+          64667AKFL                             859.8
+          64668AKFL                              762
+         8/3/2025 - 8/9/2025                      4108$ 18.64$ 18.60 $ (164.32)
+          64863AKFL                             816.2
+          64864AKFL                              830
+          64865AKFL                            800.8
+          64974AKFL                              813
+          64967AKFL                              848
+                                                9853.62   18.00 $ 18.10 $ 985.36
+         8/10/2025 - 8/16/2025
+          64968AKFL                             805.1
+          64970AKFL                            798.6
+                                                  842.4
+          64972AKFL
+                                                  837.7
+          64969AKFL
+          64973AKFL                            790.3
+          64971AKFL                              859
+          65061AKFL                            838.7
+                                                 785.62
+          65060AKFL
+          65062AKFL                            824.8
+          65160AKFL                             812.8
+                                                  818.2
+          65161AKFL
+                                                  840.4
+          65162AKFL
+                                                        $ 17.53$ 17.65 $   400.51
+        8/17/2025 - 8/23/2025                3337.58
+                                                803.78
+         65163AKFL
+                                                  809.6
+         65164AKFL
+                                                 832.6
+         65165AKFL
+         65166AKFL                            891.6
+                                               9860.79$ 17.02 $ 17.28 $ 2,563.81
+        8/24/2025 - 8/30/2025
+                                                 805.4
+         65401AKFL
+                                                840.06
+         65399AKFL
+==================================<Page 4 - END>================================
+==================================<Page 5 - START>================================
+          65400AKFL
+                                                  816.8
+          65403AKFL                            838.2
+          65404AKFL
+                                                  782.8
+          65402AKFL                           827.83
+          65405AKFL                            824.8
+          65406AKFL                            841.6
+          65513ONFL                             835
+          65567AKFL                            806.8
+          65568AKFL                            808.1
+          65569AKFL                            833.4
+         8/31/2025 - 9/6/2025                   3121.8$ 17.02$ 17.28 $ 811.67
+          65571ONFL                              834
+          65570AKFL                            624.2
+          65572ONFL
+                                                  815.4
+          65802ONFL                            848.2
+        9/7/2025 - 9/13/2025                   9888.4$ 17.02
+                                                                   $ 17.28 $ 2,570.98
+          65803ONFL                              806
+          65741ONFL                              783
+          65739ONFL                            822.4
+          65754ONFL                            843.2
+          65751ONFL                            831.2
+          65740ONFL                             825
+          65752ONFL                            827.2
+          65753ONFL                            836.8
+          65762ONFL                            845.2
+          65763ONFL                              816
+          65764ONFL                            828.4
+          65765ONFL                              824
+        9/21/2025 - 9/27/2025
+                                                4967.4$ 17.02$ 17.28 $ 1,291.52
+         66056ONFL                            822.4
+         66055ONFL                            832.2
+         66073ONFL                            830.2
+        66077ONFL
+                                                 833.4
+        66074ONFL                            830.8
+        66078ONFL
+                                                 818.4
+       Grand Total                          50,761.0
+==================================<Page 5 - END>================================
+==================================<Page 6 - START>================================
+         From: "Dion, Georges {PEP}" <Georges.Dion@pepsico.com>
+          Sent: Fri, 6 Feb 2026 22:56:59 (UTC)
+          To: FLCInvoiceSubmission@pepsico.com
+          Subject: Invoices
+         Georges Dion
+         Proc Sr Manager • PFC Div Ops Field buyer
+         PepsiCo
+          georges.dion@pepsico.com418.572.7202
+          pepsico.com
+               pepsico
+                 Food Drinks. Smies.
+==================================<Page 6 - END>================================

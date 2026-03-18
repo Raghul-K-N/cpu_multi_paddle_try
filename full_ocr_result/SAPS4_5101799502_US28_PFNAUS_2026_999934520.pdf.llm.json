@@ -1,0 +1,47 @@
+{
+  "invoice_data": {
+    "invoice_number": "M0001206",
+    "invoice_date": "12/30/2025",
+    "invoice_amount": null,
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": null,
+    "po_number": [
+      "4504587021"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "Qual Pac",
+    "vendor_address": "2010 South Great Southwest Parkway, Grand Prairie, TX 75051",
+    "po_line_items": null,
+    "vat_amount": null,
+    "gl_account": null,
+    "bank_name": null,
+    "account_holder_name": null,
+    "banking_account_number": null,
+    "remit_to_address": null,
+    "bill_to_address": null,
+    "transaction_type": "debit"
+  },
+  "filename": "SAPS4_5101799502_US28_PFNAUS_2026_999934520.pdf",
+  "raw_response": {
+    "invoice_number": "M0001206",
+    "invoice_date": "12/30/2025",
+    "invoice_amount": null,
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": null,
+    "po_number": [
+      "4504587021"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "Qual Pac",
+    "vendor_address": "2010 South Great Southwest Parkway, Grand Prairie, TX 75051",
+    "po_line_items": null
+  }
+}

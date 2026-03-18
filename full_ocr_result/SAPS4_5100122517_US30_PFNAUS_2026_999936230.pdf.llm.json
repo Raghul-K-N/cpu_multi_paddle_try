@@ -1,0 +1,59 @@
+{
+  "invoice_data": {
+    "invoice_number": "131456299",
+    "invoice_date": "01/12/26",
+    "invoice_amount": null,
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": null,
+    "po_number": [
+      "23552475"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "FleetPride",
+    "vendor_address": "P.O. BOX 847118, DALLAS TX 75284-7118",
+    "po_line_items": [
+      {
+        "description": "RAIN-X LONGITUDE WIPER 22\"",
+        "quantity": 7.0,
+        "net_price": 147.07
+      }
+    ],
+    "vat_amount": null,
+    "gl_account": null,
+    "bank_name": null,
+    "account_holder_name": null,
+    "banking_account_number": null,
+    "remit_to_address": null,
+    "bill_to_address": null,
+    "transaction_type": "debit"
+  },
+  "filename": "SAPS4_5100122517_US30_PFNAUS_2026_999936230.pdf",
+  "raw_response": {
+    "invoice_number": "131456299",
+    "invoice_date": "01/12/26",
+    "invoice_amount": null,
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": null,
+    "po_number": [
+      "23552475"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "FleetPride",
+    "vendor_address": "P.O. BOX 847118, DALLAS TX 75284-7118",
+    "po_line_items": [
+      {
+        "description": "RAIN-X LONGITUDE WIPER 22\"",
+        "quantity": 7.0,
+        "net_price": 147.07
+      }
+    ]
+  }
+}

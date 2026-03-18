@@ -1,0 +1,291 @@
+==================================<Page 1 - START>================================
+Copy of Invoice - Not A Tax Invoice
+Line-Item Credit Memo
+   Credit Memo Number: 9713301746
+                                                            Subtotal:
+                                                                                             $-792.00 CAD
+   Credit Memo Date:
+                      Tuesday 25 Nov. 2025 7:10 a.m. GMT-05:00
+                                                            Total Tax:
+                                                                                             $-102.96 CAD
+   Original Invoice Number: 9704186254
+                                                            Total Gross Amount:              $-894.96 CAD
+   Original Invoice Date:
+                                                            Total Net Amount:                $-894.96 CAD
+   Original Purchase Order: M413362293
+                                                            Amount Due:                      $-894.96 CAD
+ Submission Method: cXML
+ REMIT TO:                            CUSTOMER:
+                                                                           SUPPLIER:
+ ACKLANDS-GRAINGER INC.             EDI ONLY PEPSI BOTTLING GRP
+                                                                           ACKLANDS-GRAINGER INC.
+                                       CANADA
+ Postal Address:
+                                                                           Postal Address:
+  PO BOX 2970                         Postal Address:
+                                                                           PO BOX 2970
+  WINNIPEG MB R3C 4B5                 869 BELFAST RD
+                                                                           WINNIPEG MB R3C 4B5
+  Canada                              OTTAWA ON K1G 3Z4
+                                                                           Canada
+  Remit To ID: CA1_2751                  Canada
+  BILL TO:
+  PEPSI BEVERAGES CANADA
+  Postal Address:
+  2095 MATHESON BLVD E
+  MISSISSAUGA ON L4W 0G2
+  Canada
+  Address ID: CA1_ARIBA_PAYABLES
+  SHIPPING INFORMATION:
+  SHIP FROM:                                           SHIP TO:
+  ACKLANDS-GRAINGER INC.                              CA-DC-OTTAWA-ON-PBCCAN
+  Postal Address:                                         Postal Address:
+  200C-3020 HAWTHORNE ROAD                           869 BELFAST RD
+  OTTAWA ON K1G 3J6                                   OTTAWA ON K1G 0Z4
+  Canada                                               Canada
+  Additional Information:
+  invioceSourceDocument: PurchaseOrder
+  Comments:
+  AGl credit to adjust invoice
+  Original Purchase Order: M413362293
+==================================<Page 1 - END>================================
+==================================<Page 2 - START>================================
+Line No.       Line Ref No. Part No. / Description                                 Qty / Unit       Unit Price
+                                                                                                   Sub Total
+    10       1                                                      -30 / (EA)       $3.90 CAD         $-117.00 CAD
+                        MLL203
+    MATERIAL            SNOW BRUSH
+  DETAILS
+  Auxiliary Part ID:
+   Manufacturer Part No.:
+   Manufacturer Name:
+   Country of Origin:
+                                                                                      Subtotal: $-117.00 CAD
+                                                                                Gross Amount: $-117.00 CAD
+                                                                                  Net Amount: $-117.00 CAD
+      20       2        GARYEMECAR                                  -30 / (EA)       $22.50 CAD        $-675.00 CAD
+       MATERIAL           CAR SHOVEL,29 3/4 IN L,9 IN BLADE W
+    DETAILS
+    Auxiliary Part ID:
+    Manufacturer Part No.:
+    Manufacturer Name:
+    Country of Origin:
+                                                                                     Subtotal:$-675.00 CAD
+                                                                               Gross Amount: $-675.00 CAD
+                                                                                 Net Amount: $-675.00 CAD
+  Tax Summary
+  Tax Details:
+                                    Taxable Amount   Tax Amount     Tax Location   Description
+  Tax Category   Tax Rate  Tax Rate Type                                                          Tax Regime  Exempt Detail
+                                    $-792.00 CAD    $-102.96 CAD              GOODS AND SERVICES
+               13%
+  GST
+                                    $-792.00 CAD    $0.00 CAD                State/Provincial Tax
+               0%
+ PST
+Tax Description:
+==================================<Page 2 - END>================================
+==================================<Page 3 - START>================================
+  Sales Tax
+  Line Item Credit Memo Summary
+                                                                                      Subtotal: $-792.00 CAD
+                                                                                    Total Tax: $-102.96 CAD
+                                                                          Total Gross Amount: $-894.96 CAD
+                                                                            Total Net Amount: $-894.96 CAD
+                                                                                   Amount Due:$-894.96 CAD
+PDF generated by on Wednesday 26 Nov. 2025 5:41 a.m. GMT-08:00
+==================================<Page 3 - END>================================
+==================================<Page 4 - START>================================
+  Copy of Invoice - Not A Tax Invoice
+  Line-Item Credit Memo
+     Credit Memo Number: 9713301746
+                                                               Subtotal:
+                                                                                               $-792.00 CAD
+     Credit Memo Date:
+                        Tuesday 25 Nov. 2025 7:10 a.m. GMT-05:00
+                                                              Total Tax:
+                                                                                               $-102.96 CAD
+     Original Invoice Number: 9704186254
+                                                               Total Gross Amount:              $-894.96 CAD
+     Original Invoice Date:
+                                                               Total Net Amount:                $-894.96 CAD
+     Original Purchase Order: M413362293
+                                                               Amount Due:                      $-894.96 CAD
+   Submission Method: cXML
+   REMIT TO:                            CUSTOMER:
+                                                                              SUPPLIER:
+    ACKLANDS-GRAINGER INC.             EDI ONLY PEPSI BOTTLING GRP
+                                                                              ACKLANDS-GRAINGER INC.
+                                         CANADA
+    Postal Address:
+                                                                              Postal Address:
+    PO BOX 2970                         Postal Address:
+                                                                              PO BOX 2970
+    WINNIPEG MB R3C 4B5                 869 BELFAST RD
+                                                                              WINNIPEG MB R3C 4B5
+    Canada                              OTTAWA ON K1G 3Z4
+                                                                             Canada
+    Remit To ID: CA1_2751                  Canada
+    BILL TO:
+    PEPSI BEVERAGES CANADA
+    Postal Address:
+    2095 MATHESON BLVD E
+    MISSISSAUGA ON L4W 0G2
+    Canada
+    Address ID: CA1_ARIBA_PAYABLES
+    SHIPPING INFORMATION:
+    SHIP FROM:                                           SHIP TO:
+    ACKLANDS-GRAINGER INC.                              CA-DC-OTTAWA-ON-PBCCAN
+    Postal Address:                                         Postal Address:
+    200C-3020 HAWTHORNE ROAD                           869 BELFAST RD
+    OTTAWA ON K1G 3J6                                   OTTAWA ON K1G 0Z4
+    Canada                                               Canada
+    Additional Information:
+    invioceSourceDocument: PurchaseOrder
+    Comments:
+    AGl credit to adjust invoice
+    Original Purchase Order: M413362293
+==================================<Page 4 - END>================================
+==================================<Page 5 - START>================================
+  Line No.       Line Ref No. Part No. / Description                                 Qty / Unit       Unit Price
+                                                                                                     Sub Total
+      10       1                                                      -30 / (EA)       $3.90 CAD         $-117.00 CAD
+                         MLL203
+      MATERIAL            SNOW BRUSH
+    DETAILS
+    Auxiliary Part ID:
+    Manufacturer Part No.:
+    Manufacturer Name:
+    Country of Origin:
+                                                                                        Subtotal: $-117.00 CAD
+                                                                                 Gross Amount: $-117.00 CAD
+                                                                                   Net Amount: $-117.00 CAD
+        20       2        GARYEMECAR                                  -30 / (EA)       $22.50 CAD        $-675.00 CAD
+        MATERIAL           CAR SHOVEL,29 3/4 IN L,9 IN BLADE W
+      DETAILS
+      Auxiliary Part ID:
+      Manufacturer Part No.:
+      Manufacturer Name:
+      Country of Origin:
+                                                                                       Subtotal:$-675.00 CAD
+                                                                                 Gross Amount: $-675.00 CAD
+                                                                                   Net Amount: $-675.00 CAD
+   Tax Summary
+   Tax Details:
+                                     Taxable Amount   Tax Amount     Tax Location   Description
+   Tax Category   Tax Rate  Tax Rate Type                                                          Tax Regime  Exempt Detail
+                                     $-792.00 CAD    $-102.96 CAD              GOODS AND SERVICES
+                13%
+   GST
+                                     $-792.00 CAD    $0.00 CAD                State/Provincial Tax
+                0%
+   PST
+  Tax Description:
+==================================<Page 5 - END>================================
+==================================<Page 6 - START>================================
+  Sales Tax
+  Line Item Credit Memo Summary
+                                                                                      Subtotal: $-792.00 CAD
+                                                                                    Total Tax: $-102.96 CAD
+                                                                          Total Gross Amount: $-894.96 CAD
+                                                                            Total Net Amount: $-894.96 CAD
+                                                                                   Amount Due:$-894.96 CAD
+PDF generated by on Wednesday 26 Nov. 2025 5:41 a.m. GMT-08:00
+==================================<Page 6 - END>================================
+==================================<Page 7 - START>================================
+  Copy of Invoice - Not A Tax Invoice
+  Line-Item Credit Memo
+     Credit Memo Number: 9713301746
+                                                               Subtotal:
+                                                                                               $-792.00 CAD
+     Credit Memo Date:
+                        Tuesday 25 Nov. 2025 7:10 a.m. GMT-05:00
+                                                              Total Tax:
+                                                                                               $-102.96 CAD
+     Original Invoice Number: 9704186254
+                                                               Total Gross Amount:              $-894.96 CAD
+     Original Invoice Date:
+                                                               Total Net Amount:                $-894.96 CAD
+     Original Purchase Order: M413362293
+                                                               Amount Due:                      $-894.96 CAD
+   Submission Method: cXML
+   REMIT TO:                            CUSTOMER:
+                                                                              SUPPLIER:
+    ACKLANDS-GRAINGER INC.             EDI ONLY PEPSI BOTTLING GRP
+                                                                              ACKLANDS-GRAINGER INC.
+                                         CANADA
+    Postal Address:
+                                                                              Postal Address:
+    PO BOX 2970                         Postal Address:
+                                                                              PO BOX 2970
+    WINNIPEG MB R3C 4B5                 869 BELFAST RD
+                                                                              WINNIPEG MB R3C 4B5
+    Canada                              OTTAWA ON K1G 3Z4
+                                                                             Canada
+    Remit To ID: CA1_2751                  Canada
+    BILL TO:
+    PEPSI BEVERAGES CANADA
+    Postal Address:
+    2095 MATHESON BLVD E
+    MISSISSAUGA ON L4W 0G2
+    Canada
+    Address ID: CA1_ARIBA_PAYABLES
+    SHIPPING INFORMATION:
+    SHIP FROM:                                           SHIP TO:
+    ACKLANDS-GRAINGER INC.                              CA-DC-OTTAWA-ON-PBCCAN
+    Postal Address:                                         Postal Address:
+    200C-3020 HAWTHORNE ROAD                           869 BELFAST RD
+    OTTAWA ON K1G 3J6                                   OTTAWA ON K1G 0Z4
+    Canada                                               Canada
+    Additional Information:
+    invioceSourceDocument: PurchaseOrder
+    Comments:
+    AGl credit to adjust invoice
+    Original Purchase Order: M413362293
+==================================<Page 7 - END>================================
+==================================<Page 8 - START>================================
+  Line No.       Line Ref No. Part No. / Description                                 Qty / Unit       Unit Price
+                                                                                                     Sub Total
+      10       1                                                      -30 / (EA)       $3.90 CAD         $-117.00 CAD
+                         MLL203
+      MATERIAL            SNOW BRUSH
+    DETAILS
+    Auxiliary Part ID:
+    Manufacturer Part No.:
+    Manufacturer Name:
+    Country of Origin:
+                                                                                        Subtotal: $-117.00 CAD
+                                                                                 Gross Amount: $-117.00 CAD
+                                                                                   Net Amount: $-117.00 CAD
+        20       2        GARYEMECAR                                  -30 / (EA)       $22.50 CAD        $-675.00 CAD
+        MATERIAL           CAR SHOVEL,29 3/4 IN L,9 IN BLADE W
+      DETAILS
+      Auxiliary Part ID:
+      Manufacturer Part No.:
+      Manufacturer Name:
+      Country of Origin:
+                                                                                       Subtotal:$-675.00 CAD
+                                                                                 Gross Amount: $-675.00 CAD
+                                                                                   Net Amount: $-675.00 CAD
+   Tax Summary
+   Tax Details:
+                                     Taxable Amount   Tax Amount     Tax Location   Description
+   Tax Category   Tax Rate  Tax Rate Type                                                          Tax Regime  Exempt Detail
+                                     $-792.00 CAD    $-102.96 CAD              GOODS AND SERVICES
+                13%
+   GST
+                                     $-792.00 CAD    $0.00 CAD                State/Provincial Tax
+                0%
+   PST
+  Tax Description:
+==================================<Page 8 - END>================================
+==================================<Page 9 - START>================================
+  Sales Tax
+  Line Item Credit Memo Summary
+                                                                                      Subtotal: $-792.00 CAD
+                                                                                    Total Tax: $-102.96 CAD
+                                                                          Total Gross Amount: $-894.96 CAD
+                                                                            Total Net Amount: $-894.96 CAD
+                                                                                   Amount Due:$-894.96 CAD
+PDF generated by on Wednesday 26 Nov. 2025 5:41 a.m. GMT-08:00
+==================================<Page 9 - END>================================

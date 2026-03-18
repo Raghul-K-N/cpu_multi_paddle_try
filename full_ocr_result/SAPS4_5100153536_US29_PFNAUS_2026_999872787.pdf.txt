@@ -1,0 +1,363 @@
+==================================<Page 1 - START>================================
+Standard Invoice
+                                                                                                                    ACP
+Original tax invoice has been submitted electronically. This is a
+human readable representation (copy) of the original tax invoice.
+                                                                                                                      2601141
+                                                                  Invoice Number
+                                                                  (Supplier Reference No.)
+                                                                  Invoice Date                     Friday 13 Feb 2026 12:14 PM GMT-06:00
+                                                                  Amount Due                                        $487.22 USD
+    Contact Information
+    Supplier
+                                  Customer
+    ACP International
+                                  Rolling Frito-Lay Sales
+    521 N GREAT SOUTHWEST
+                                  c/o PEPSICO NASS
+    PKWY
+                                  ACCOUNTS PAYABLES
+     ARLINGTON
+                                  PO BOX 1800
+    TX
+                                  Winston Salem
+     76011
+                                  NC
+     United States                   27105
+                                  United States
+                                  Address ID: US29
+  Line Items
+                                                          PO No. : M413539375                                      PO Date : 5 Feb 2026
+  Line No.
+             PO Line No.          Type    Supplier Part No. /             Customer Part No.        Quantity            Unit Price         Subtotal
+                                        Description                                       (UOM)
+  1        1                 Material  Not Available / LINE 1 - MATERIAL
+                                                                                       455.35 / (EA)        $1.00 USD     $455.35 USD
+                                        - Route Lane Labels
+                                                                                                    Line Item Total : $455.35 USD
+  Line No.
+             PO Line No.          Type    Supplier Part No. /             Customer Part No.        Quantity           Unit Price        Subtotal
+                                       Description                                       (UOM)
+  2
+            2                 Material Not Available / LINE 2 - FREIGHT                        31.87 / (EA)        $1.00 USD      $31.87 USD
+                                                                                                    Line Item Total : $31.87 USD
+                                                                              Amount Summary
+                                                                                                                     $487.22 USD
+                                                                               Line item subtotal
+                                                                              Shipping charges                            $0.00 USD
+                                                                              Gross amount                            $487.22 USD
+                                                                                                                     $487.22 USD
+                                                                              Net amount
+                                                                                                                       $0.00 USD
+                                                                               Total tax amount
+                                                                               Total withholding tax amount
+                                                                                                                      $487.22 USD
+                                                                               Amount Due
+    Additional Information
+    Payment Method
+    ACH
+    Billing Information                                                          Remittance Information
+    Bill From                      Bill To                                    Remit To
+   ACP International                Rolling Frito-Lay Sales                         ACP International
+   521 N GREAT SOUTHWEST        c/o PEPSICO NASS                          521 N. Great Southwest Pkwy
+   PKWY                        ACCOUNTS PAYABLES
+                                                                           Arlington
+   ARLINGTON                    PO BOX 1800
+                                                                          TX
+   TX
+                                 Winston Salem                              76011
+   76011
+                                 NC                                       United States
+   United States
+                                27105                                     Address ID: US1_99542
+                                 United States
+                                                                          Tax ID of Supplier
+                                Address ID: US29
+                                                                          752286783
+Payment Terms
+Net payment Terms (Days) :
+60
+==================================<Page 1 - END>================================
+==================================<Page 2 - START>================================
+  Appendix
+  Line No.    PO Line No. Type                            Supplier Part No. / Description
+  1
+             1         Material                         Not Available / LINE 1 - MATERIAL - Route Lane Labels
+  Additional Details:
+                                                                    Ship From                         Ship To
+  Classification Domain : custom                                           ACP International
+  Classification Code : MRO757027                                                                           Moselle, MS
+                                                                    521 N. Great Southwest Pkwy           Angel.Gutierrez3@pepsico.com
+  Supplier Part ID : Not Available
+                                                                    Arlington                           Moselle, MS
+                                                                    TX                               3065 Hwy 11
+                                                                    76011
+                                                                                                      Moselle
+                                                                    United States
+                                                                                                      MS
+                                                                                                     39459
+                                                                                                     United States
+ Line No.
+            PO Line No. Type                           Supplier Part No. / Description
+  2         2
+                       Material                         Not Available / LINE 2 - FREIGHT
+ Additional Details:
+                                                                    Ship From                          Ship To
+ Classification Domain : custom
+                                                                    ACP International                    Moselle, MS
+ Classification Code : SCH780003
+                                                                    521 N. Great Southwest Pkwy            Krista.Bockoven@pepsico.com
+ Supplier Part ID : Not Available                                          Arlington
+                                                                                                     Moselle, MS
+                                                                   TX
+                                                                                                     3065 Hwy 11
+                                                                   76011
+                                                                                                     Moselle
+                                                                   United States
+                                                                                                     MS
+                                                                                                     39459
+                                                                                                     United States
+PDF generated on Friday 13 Feb 2026 10:15 AM GMT-08:00
+==================================<Page 2 - END>================================
+==================================<Page 3 - START>================================
+ Standard Invoice
+                                                                                                                     ACP
+ Original tax invoice has been submitted electronically. This is a
+human readable representation (copy) of the original tax invoice.
+                                                                                                                       2601141
+                                                                  Invoice Number
+                                                                  (Supplier Reference No.)
+                                                                  Invoice Date                     Friday 13 Feb 2026 12:14 PM GMT-06:00
+                                                                  Amount Due                                        $487.22 USD
+     Contact Information
+     Supplier
+                                   Customer
+     ACP International
+                                   Rolling Frito-Lay Sales
+     521 N GREAT SOUTHWEST
+                                   c/o PEPSICO NASS
+     PKWY
+                                   ACCOUNTS PAYABLES
+      ARLINGTON
+                                   PO BOX 1800
+     TX
+                                   Winston Salem
+      76011
+                                   NC
+      United States                   27105
+                                   United States
+                                   Address ID: US29
+   Line Items
+                                                          PO No. : M413539375                                      PO Date : 5 Feb 2026
+   Line No.
+              PO Line No.          Type    Supplier Part No. /             Customer Part No.        Quantity            Unit Price         Subtotal
+                                         Description                                       (UOM)
+   1        1                 Material  Not Available / LINE 1 - MATERIAL
+                                                                                        455.35 / (EA)        $1.00 USD     $455.35 USD
+                                        - Route Lane Labels
+                                                                                                     Line Item Total : $455.35 USD
+   Line No.
+              PO Line No.          Type    Supplier Part No. /             Customer Part No.        Quantity           Unit Price        Subtotal
+                                        Description                                       (UOM)
+   2
+             2                 Material Not Available / LINE 2 - FREIGHT                        31.87 / (EA)        $1.00 USD      $31.87 USD
+                                                                                                     Line Item Total : $31.87 USD
+                                                                               Amount Summary
+                                                                                                                      $487.22 USD
+                                                                                Line item subtotal
+                                                                               Shipping charges                            $0.00 USD
+                                                                               Gross amount                            $487.22 USD
+                                                                                                                      $487.22 USD
+                                                                               Net amount
+                                                                                                                        $0.00 USD
+                                                                                Total tax amount
+                                                                                Total withholding tax amount
+                                                                                                                      $487.22 USD
+                                                                                Amount Due
+     Additional Information
+     Payment Method
+    ACH
+    Billing Information                                                          Remittance Information
+    Bill From                      Bill To                                    Remit To
+    ACP International                Rolling Frito-Lay Sales                         ACP International
+    521 N GREAT SOUTHWEST        c/o PEPSICO NASS                          521 N. Great Southwest Pkwy
+    PKWY                        ACCOUNTS PAYABLES
+                                                                            Arlington
+    ARLINGTON                    PO BOX 1800
+                                                                           TX
+    TX
+                                  Winston Salem                              76011
+    76011
+                                  NC                                       United States
+    United States
+                                 27105                                     Address ID: US1_99542
+                                  United States
+                                                                           Tax ID of Supplier
+                                 Address ID: US29
+                                                                           752286783
+Payment Terms
+  Net payment Terms (Days) :
+  60
+==================================<Page 3 - END>================================
+==================================<Page 4 - START>================================
+  Appendix
+  Line No.    PO Line No. Type                            Supplier Part No. / Description
+  1
+             1         Material                         Not Available / LINE 1 - MATERIAL - Route Lane Labels
+  Additional Details:
+                                                                    Ship From                         Ship To
+  Classification Domain : custom                                           ACP International
+  Classification Code : MRO757027                                                                           Moselle, MS
+                                                                    521 N. Great Southwest Pkwy           Angel.Gutierrez3@pepsico.com
+  Supplier Part ID : Not Available
+                                                                    Arlington                           Moselle, MS
+                                                                    TX                               3065 Hwy 11
+                                                                    76011
+                                                                                                      Moselle
+                                                                    United States
+                                                                                                      MS
+                                                                                                     39459
+                                                                                                     United States
+ Line No.
+            PO Line No. Type                           Supplier Part No. / Description
+  2         2
+                       Material                         Not Available / LINE 2 - FREIGHT
+ Additional Details:
+                                                                    Ship From                          Ship To
+ Classification Domain : custom
+                                                                    ACP International                    Moselle, MS
+ Classification Code : SCH780003
+                                                                    521 N. Great Southwest Pkwy            Krista.Bockoven@pepsico.com
+ Supplier Part ID : Not Available                                          Arlington
+                                                                                                     Moselle, MS
+                                                                   TX
+                                                                                                     3065 Hwy 11
+                                                                   76011
+                                                                                                     Moselle
+                                                                   United States
+                                                                                                     MS
+                                                                                                     39459
+                                                                                                     United States
+PDF generated on Friday 13 Feb 2026 10:15 AM GMT-08:00
+==================================<Page 4 - END>================================
+==================================<Page 5 - START>================================
+ Standard Invoice
+                                                                                                                     ACP
+ Original tax invoice has been submitted electronically. This is a
+human readable representation (copy) of the original tax invoice.
+                                                                                                                       2601141
+                                                                  Invoice Number
+                                                                  (Supplier Reference No.)
+                                                                  Invoice Date                     Friday 13 Feb 2026 12:14 PM GMT-06:00
+                                                                  Amount Due                                        $487.22 USD
+     Contact Information
+     Supplier
+                                   Customer
+     ACP International
+                                   Rolling Frito-Lay Sales
+     521 N GREAT SOUTHWEST
+                                   c/o PEPSICO NASS
+     PKWY
+                                   ACCOUNTS PAYABLES
+      ARLINGTON
+                                   PO BOX 1800
+     TX
+                                   Winston Salem
+      76011
+                                   NC
+      United States                   27105
+                                   United States
+                                   Address ID: US29
+   Line Items
+                                                          PO No. : M413539375                                      PO Date : 5 Feb 2026
+   Line No.
+              PO Line No.          Type    Supplier Part No. /             Customer Part No.        Quantity            Unit Price         Subtotal
+                                         Description                                       (UOM)
+   1        1                 Material  Not Available / LINE 1 - MATERIAL
+                                                                                        455.35 / (EA)        $1.00 USD     $455.35 USD
+                                        - Route Lane Labels
+                                                                                                     Line Item Total : $455.35 USD
+   Line No.
+              PO Line No.          Type    Supplier Part No. /             Customer Part No.        Quantity           Unit Price        Subtotal
+                                        Description                                       (UOM)
+   2
+             2                 Material Not Available / LINE 2 - FREIGHT                        31.87 / (EA)        $1.00 USD      $31.87 USD
+                                                                                                     Line Item Total : $31.87 USD
+                                                                               Amount Summary
+                                                                                                                      $487.22 USD
+                                                                                Line item subtotal
+                                                                               Shipping charges                            $0.00 USD
+                                                                               Gross amount                            $487.22 USD
+                                                                                                                      $487.22 USD
+                                                                               Net amount
+                                                                                                                        $0.00 USD
+                                                                                Total tax amount
+                                                                                Total withholding tax amount
+                                                                                                                      $487.22 USD
+                                                                                Amount Due
+     Additional Information
+     Payment Method
+    ACH
+    Billing Information                                                          Remittance Information
+    Bill From                      Bill To                                    Remit To
+    ACP International                Rolling Frito-Lay Sales                         ACP International
+    521 N GREAT SOUTHWEST        c/o PEPSICO NASS                          521 N. Great Southwest Pkwy
+    PKWY                        ACCOUNTS PAYABLES
+                                                                            Arlington
+    ARLINGTON                    PO BOX 1800
+                                                                           TX
+    TX
+                                  Winston Salem                              76011
+    76011
+                                  NC                                       United States
+    United States
+                                 27105                                     Address ID: US1_99542
+                                  United States
+                                                                           Tax ID of Supplier
+                                 Address ID: US29
+                                                                           752286783
+Payment Terms
+  Net payment Terms (Days) :
+  60
+==================================<Page 5 - END>================================
+==================================<Page 6 - START>================================
+  Appendix
+  Line No.    PO Line No. Type                            Supplier Part No. / Description
+  1
+             1         Material                         Not Available / LINE 1 - MATERIAL - Route Lane Labels
+  Additional Details:
+                                                                    Ship From                         Ship To
+  Classification Domain : custom                                           ACP International
+  Classification Code : MRO757027                                                                           Moselle, MS
+                                                                    521 N. Great Southwest Pkwy           Angel.Gutierrez3@pepsico.com
+  Supplier Part ID : Not Available
+                                                                    Arlington                           Moselle, MS
+                                                                    TX                               3065 Hwy 11
+                                                                    76011
+                                                                                                      Moselle
+                                                                    United States
+                                                                                                      MS
+                                                                                                     39459
+                                                                                                     United States
+ Line No.
+            PO Line No. Type                           Supplier Part No. / Description
+  2         2
+                       Material                         Not Available / LINE 2 - FREIGHT
+ Additional Details:
+                                                                    Ship From                          Ship To
+ Classification Domain : custom
+                                                                    ACP International                    Moselle, MS
+ Classification Code : SCH780003
+                                                                    521 N. Great Southwest Pkwy            Krista.Bockoven@pepsico.com
+ Supplier Part ID : Not Available                                          Arlington
+                                                                                                     Moselle, MS
+                                                                   TX
+                                                                                                     3065 Hwy 11
+                                                                   76011
+                                                                                                     Moselle
+                                                                   United States
+                                                                                                     MS
+                                                                                                     39459
+                                                                                                     United States
+PDF generated on Friday 13 Feb 2026 10:15 AM GMT-08:00
+==================================<Page 6 - END>================================

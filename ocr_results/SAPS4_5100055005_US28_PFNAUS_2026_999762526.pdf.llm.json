@@ -1,0 +1,59 @@
+{
+  "invoice_data": {
+    "invoice_number": "10512290-00",
+    "invoice_date": "02/09/26",
+    "invoice_amount": null,
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": null,
+    "po_number": [
+      "4505048490"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "shorr packaging corp. chicago branch",
+    "vendor_address": "4000 Ferry Road, Aurora, IL 60502-9540",
+    "po_line_items": [
+      {
+        "description": "Z29-087 GUIDE, TAPE PRE-FORM, 2\"",
+        "quantity": 1.0,
+        "net_price": 20.57
+      }
+    ],
+    "vat_amount": null,
+    "gl_account": null,
+    "bank_name": null,
+    "account_holder_name": null,
+    "banking_account_number": null,
+    "remit_to_address": null,
+    "bill_to_address": null,
+    "transaction_type": "debit"
+  },
+  "filename": "SAPS4_5100055005_US28_PFNAUS_2026_999762526.pdf",
+  "raw_response": {
+    "invoice_number": "10512290-00",
+    "invoice_date": "02/09/26",
+    "invoice_amount": null,
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": null,
+    "po_number": [
+      "4505048490"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "shorr packaging corp. chicago branch",
+    "vendor_address": "4000 Ferry Road, Aurora, IL 60502-9540",
+    "po_line_items": [
+      {
+        "description": "Z29-087 GUIDE, TAPE PRE-FORM, 2\"",
+        "quantity": 1.0,
+        "net_price": 20.57
+      }
+    ]
+  }
+}

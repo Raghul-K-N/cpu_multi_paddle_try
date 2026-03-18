@@ -1,0 +1,47 @@
+{
+  "invoice_data": {
+    "invoice_number": "599847",
+    "invoice_date": "Wednesday 11 Feb 2026 12:00 PM GMT-05:00",
+    "invoice_amount": null,
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": null,
+    "po_number": [
+      "M413430995"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "RK ENVIRONMENTAL SERVICES LLC",
+    "vendor_address": "2911 Nevada Boulevard, 768 CARVER AVE, Charlotte, NJ 7675, NC 28273, US",
+    "po_line_items": null,
+    "vat_amount": null,
+    "gl_account": null,
+    "bank_name": null,
+    "account_holder_name": null,
+    "banking_account_number": null,
+    "remit_to_address": null,
+    "bill_to_address": null,
+    "transaction_type": "debit"
+  },
+  "filename": "SAPS4_5100461502_US28_PFNAUS_2026_999706557.pdf",
+  "raw_response": {
+    "invoice_number": "599847",
+    "invoice_date": "Wednesday 11 Feb 2026 12:00 PM GMT-05:00",
+    "invoice_amount": null,
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": null,
+    "po_number": [
+      "M413430995"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "RK ENVIRONMENTAL SERVICES LLC",
+    "vendor_address": "2911 Nevada Boulevard, 768 CARVER AVE, Charlotte, NJ 7675, NC 28273, US",
+    "po_line_items": null
+  }
+}

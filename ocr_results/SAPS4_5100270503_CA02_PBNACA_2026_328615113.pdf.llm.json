@@ -1,0 +1,69 @@
+{
+  "invoice_data": {
+    "invoice_number": "SI210593",
+    "invoice_date": "2/2/2026",
+    "invoice_amount": "206.23",
+    "invoice_currency": [
+      "CAD"
+    ],
+    "tax_amount": "23.73",
+    "po_number": [
+      "WP00035140-HF IPR END 1/31/26"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "Alliance Solution Group",
+    "vendor_address": "710 Dorval Dr, Suite 500 Oakville, ON, L6K 3V7",
+    "po_line_items": [
+      {
+        "description": "4.9.0: Moving all product- 1 pallet onto another",
+        "quantity": 3.0,
+        "net_price": 50.0
+      },
+      {
+        "description": "4.13.1: Forklift machine and Driver",
+        "quantity": 0.5,
+        "net_price": 65.0
+      }
+    ],
+    "vat_amount": null,
+    "gl_account": null,
+    "bank_name": null,
+    "account_holder_name": null,
+    "banking_account_number": null,
+    "remit_to_address": null,
+    "bill_to_address": null,
+    "transaction_type": "debit"
+  },
+  "filename": "SAPS4_5100270503_CA02_PBNACA_2026_328615113.pdf",
+  "raw_response": {
+    "invoice_number": "SI210593",
+    "invoice_date": "2/2/2026",
+    "invoice_amount": "206.23",
+    "invoice_currency": [
+      "CAD"
+    ],
+    "tax_amount": "23.73",
+    "po_number": [
+      "WP00035140-HF IPR END 1/31/26"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "Alliance Solution Group",
+    "vendor_address": "710 Dorval Dr, Suite 500 Oakville, ON, L6K 3V7",
+    "po_line_items": [
+      {
+        "description": "4.9.0: Moving all product- 1 pallet onto another",
+        "quantity": 3.0,
+        "net_price": 50.0
+      },
+      {
+        "description": "4.13.1: Forklift machine and Driver",
+        "quantity": 0.5,
+        "net_price": 65.0
+      }
+    ]
+  }
+}

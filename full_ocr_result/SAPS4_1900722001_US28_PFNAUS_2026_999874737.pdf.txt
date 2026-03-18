@@ -1,0 +1,202 @@
+==================================<Page 1 - START>================================
+     OpenText Workflow History
+      Vendor
+      MAARGEL PARTNERS LLC
+      NECTAVE
+      3309 E. MIRALOMA AVE STE 105
+      ANAHEIM CA 92806
+      USA
+      Invoice
+      Reference        6220
+                                                                  Document Date
+                                                                                    22.01.2026
+      DP Document No.  38935609
+                                                                  Net Amount       USD
+                                                                                                   500.00
+     Comp. Code       US28 Frito-Lay, Inc.
+                                                                  Tax Amount       USD               0.00
+     Posting Date
+                        13.02.2026
+                                                                  Gross Amount     USD            500.00
+     SAP Document No. 1900722001 2026
+                                             Pre-Process History
+      ACTIVITY
+                                                             USER
+                                                                         END TIME          DOCUMENT STATUS
+      Update status                                         VRBLAOT_U
+                                                                         23.01.2026        Validation
+                                                             SR         17:29:20          Complete
+                                         Document Process History
+     ACTIVITY          PROCESS TYPE/BLOCK REASON
+                                                            USER        END TIME          DOCUMENT STATUS
+     BC Inbound
+                                                            VRBLAOT_U  23.01.2026       Document
+                                                            SR          17:25:56
+                                                                                           Registered
+    Workflow Start
+                       Invalid Requestor ID (NPO)         Record to  23.01.2026       Created
+                                                                         17:29:20
+                                                            Report
+                                                            Batch
+                                                            Account
+                                                            Owner:
+   Apply Business
+                      Invalid Requestor ID (NPO)          NAVINKUMA  02.02.2026        Created
+  Rules
+                                                            RR         20:55:25
+  Comment:
+  Changed By:   NAVINKUMAR R (09336939)
+ Changed On:   02/02/2026 20:55:23
+ *********************************************************************
+Hi Please approve the non po invoice
+Business Rules    Approval Required (NPo)             SAP_WFRT    02.02.2026        Indexed
+Check in BG
+                                                                         20:55:31
+   Invoice submitted for Approval
+                                                                         02.02.2026 20:55:32
+   Financial Information Entered
+                                                            KATIE       05.02.2026 14:12:58
+                                                            LEE
+  Data Entered and Invoice Approved                    KATIE       05.02.2026 14:13:00
+                                                            LEE
+  Invoice Approved
+                                                            CARLTON     12.02.2026 13:21:46
+                                                            MARSHALL
+Approval          Approval Required (NPO)             SAP_WFRT    12.02.2026        Approval
+Workflow                                                               13:21:51          Complete
+==================================<Page 1 - END>================================
+==================================<Page 2 - START>================================
+  OpenText Workflow History
+  Invoice
+                      MAARGEL PARTNERS LLC ANAHEIM
+  Vendor
+                      6220                                Gross Amount     USD          500.00
+  Reference
+                                Document Process History - Continuation
+    ACTIVITY          PROCESS TYPE/BLOCK REASON          USER        END TIME          DOCUMENT STATUS
+    Business Rules    Process Non-PO Invoice (Npo)        SAP_WFRT    12.02.2026        Approval
+   Check in BG                                                        13:21:53          Complete
+                                                            SAP_WFRT                      Sent for Doc
+   Create Doc. BG   Process Non-PO Invoice (NPO)                    12.02.2026
+                                                                        13:21:54          Creation
+   Post Non-PO      Process Non-PO Invoice (NPO)        BOOBALAN    13.02.2026        Document
+                                                            BALAJI      13:08:33          Created
+   Invoice
+   SAP Document                                           SAP_WFRT    13.02.2026        Posted
+   Check                                                               13:08:42
+==================================<Page 2 - END>================================
+==================================<Page 3 - START>================================
+            PEPSICO
+   Instructions: When there is not an "Official" Invoice to request payment, complete the information on this form.
+   1.You must fill in all of the fields below and the form must be accompanied with supporting documentation.
+   2. Save submission as 1 single PDF file prior to submitting to nassapinvoicesubmission@pepsico.com
+   Th form can beused for the following invoicepayment type activityTaxesLegal Settlements/Business Licenses/Fines/Donation/sponsorshi.
+                SAP Payment Request
+                                                                                      To be filled by Requestor
+          Substitute Invoice Form
+  Vendor Type
+                                                              S4
+  Vendor Name:
+                                                              MAARGEL PARTNERS LLC (Nectave)
+  Vendor Number:
+                                                                                                                               2004933693
+  Company Code:
+                                                              US28
+  Remit To Address :                                          6700 Caballero Blvd
+  (Must match the address in the AP system)                      Buena Park, CA 90620
+  Special Handling needed:
+                                                             No
+  Attn:
+  Address:
+  Overnight delivery required:
+  (if yes provide account # or CC below)
+  FedEx or UPS, & Provide Number:
+  FedEx or UPS account #
+  Cost Center (If No FedEx/UPs Number):
+ Trnsaction type:
+                                                            Invoice
+Choose only 1 option - Invoice or Credit Memo from the dropdown
+ Invoice Date:                                              1/22/2026
+Invoice #:
+Limited to 16 characters - REQUIRED                                                                                                    6220
+Purchase Order #
+Not required if non-PO
+Payment GROSS Amount:                                    $500.00
+Tax Amount
+(if applicable)
+Payment NET Amount:                                      $500.00
+Currency (USD or CAD)
+                                                           USD
+Header Text:
+                                                           ERS NON-PO Freight Invoice for PO 4504392404
+Requestor Name:                                           Katie Lee
+Requestor email                                            Katie.Lee@pepsico.com
+1st Level Approver Name                                    Carlton Marshall
+1st Level Approver Email id/GPID                              71011218
+Date Requested:
+                                                           674040
+GL Coding (6 digits)
+Cost Center (if applicable)                                    2A44100200
+Profit Center (if applicable)                                   4FUSL00000
+WBS Element (if applicable)
+For Assistance On This Form submission please contact:
+Raise service now ticket(Snow)                               PepsiCo - Sign In
+==================================<Page 3 - END>================================
+==================================<Page 4 - START>================================
+          NECTAVE
+                                                                                           Invoice
+          6700 Caballero Blvd.
+          Buena Park. CA 90620
+                                                                         Date        Invoice #
+                                                                        1/22/2026        6220
+                                                             Ship To
+            Bill To
+                                                           US-PL-TRADEAUSTIN
+          FRITO-LAY, INC.
+                                                            61 10 Trade Certer Dnve
+          CO PEPSICO NASS ACCOUNTS PAYABLES
+                                                           Cnit 102B
+          PO BOX 1800
+                                                            Austin, TX 78744
+          WINSTON SALEM, NC 27105
+                                                                          Ship Method    LOT#       BOL
+           P.O. Number       Tems       Due Date    Rep    Ship Date
+                                          3/23/2026             1/22/2026    R&L Canes   AB333504  60112976957
+            4504392404        Net 60
+                                                                                                  Amount
+                          Item Code                   Description                   Price Each
+            Quantity
+                                                                                        500.00         500.00
+                      1FREIGHT
+                                      BOL # 60112976957
+                                      Pro # 1998613045
+         Thank you for your order.                                            Total
+                                                                                                      5500.00
+                              PLEASE REMIT TO:
+              NECTAVE-6700 Caballero Blvd, Buena Park, CA 90620
+                 PLEASE CALL FOR CREDIT CARD PAYMENT
+                                    Phone #    714 736-9811     Fax #   F714736-9053
+                                          info unectave.com www.nectwe.com
+==================================<Page 4 - END>================================
+==================================<Page 5 - START>================================
+      From: SPA - PepsiCo Nass AP Invoice Submission <nassapInvoiceSubmission@pepsico.com>
+      Sent: Thu, 22 Jan 2026 18:56:31 (UTC)
+      To: svcimagingspaboxprod@pepsico.com
+      Subject: FW: ERS NON-PO Freight Invoice for PO 4504392404
+      Original Number of Attachments : 1
+      Original Attachment Names: Nectave Freight Invoice 6220 1.22.pdf
+      Number of forwarded PDF's: 1
+      Number of forwarded Non PDF files: 0
+      From: LEE, KATIE {PEP} <KATIE.LEE@pepsico.com>
+      Sent: Thursday, January 22, 2026 6:55:28 PM
+      To: SPA - PepsiCo Nass AP Invoice Submission <nassaplnvoiceSubmission@pepsico.com>
+      Subject: ERS NON-PO Freight Invoice for PO 4504392404
+                                           SIETE
+                                                    E
+                                                                Katíe Lee
+                                                                MFG Resource — Directs & Transformation | FLNA SIETE
+                                                                PepsiCo, Inc. | 6315 E Stassney Lane | Austin, TX | 78744
+                                                                Katie.Lee@pepsico.com
+            pepsico
+               Food. Drinks. Smiles.
+==================================<Page 5 - END>================================

@@ -1,0 +1,47 @@
+{
+  "invoice_data": {
+    "invoice_number": "257947284",
+    "invoice_date": "02/01/2026 - 02/01/2026",
+    "invoice_amount": null,
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": null,
+    "po_number": [
+      "M413403414"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "Onsite Innovations, LLC",
+    "vendor_address": "2122 York Rd, Suite 300, Oak Brook, IL 60523, United States",
+    "po_line_items": null,
+    "vat_amount": null,
+    "gl_account": null,
+    "bank_name": null,
+    "account_holder_name": null,
+    "banking_account_number": null,
+    "remit_to_address": null,
+    "bill_to_address": null,
+    "transaction_type": "debit"
+  },
+  "filename": "SAPS4_5100405535_US28_PFNAUS_2026_999872944.pdf",
+  "raw_response": {
+    "invoice_number": "257947284",
+    "invoice_date": "02/01/2026 - 02/01/2026",
+    "invoice_amount": null,
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": null,
+    "po_number": [
+      "M413403414"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "Onsite Innovations, LLC",
+    "vendor_address": "2122 York Rd, Suite 300, Oak Brook, IL 60523, United States",
+    "po_line_items": null
+  }
+}

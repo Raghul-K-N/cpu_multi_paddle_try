@@ -1,0 +1,79 @@
+{
+  "invoice_data": {
+    "invoice_number": "707614",
+    "invoice_date": "2 FEB 26",
+    "invoice_amount": "1,814.48",
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": null,
+    "po_number": [
+      "4505027543"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": "24.08",
+    "cost_center": null,
+    "vendor_name": "URSCHEL LABORATORIES INC.",
+    "vendor_address": "1200 Cutting Edge Drive, Chesterton, Indiana 46304 U.S.A.",
+    "po_line_items": [
+      {
+        "description": "ADJUSTING SCREW, NYLOK, DBL ADJ",
+        "quantity": 200.0,
+        "net_price": 6.35
+      },
+      {
+        "description": "SPRING, SLICE ADJUSTMENT CAM, DYN1",
+        "quantity": 32.0,
+        "net_price": 10.1
+      },
+      {
+        "description": "KNIFE HOLDER, SLICE, FLAT, QC, G2",
+        "quantity": 4.0,
+        "net_price": 48.9
+      }
+    ],
+    "vat_amount": null,
+    "gl_account": null,
+    "bank_name": null,
+    "account_holder_name": null,
+    "banking_account_number": null,
+    "remit_to_address": null,
+    "bill_to_address": null,
+    "transaction_type": "debit"
+  },
+  "filename": "SAPS4_5100360026_US28_PFNAUS_2026_999934619.pdf",
+  "raw_response": {
+    "invoice_number": "707614",
+    "invoice_date": "2 FEB 26",
+    "invoice_amount": "1,814.48",
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": null,
+    "po_number": [
+      "4505027543"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": "24.08",
+    "cost_center": null,
+    "vendor_name": "URSCHEL LABORATORIES INC.",
+    "vendor_address": "1200 Cutting Edge Drive, Chesterton, Indiana 46304 U.S.A.",
+    "po_line_items": [
+      {
+        "description": "ADJUSTING SCREW, NYLOK, DBL ADJ",
+        "quantity": 200.0,
+        "net_price": 6.35
+      },
+      {
+        "description": "SPRING, SLICE ADJUSTMENT CAM, DYN1",
+        "quantity": 32.0,
+        "net_price": 10.1
+      },
+      {
+        "description": "KNIFE HOLDER, SLICE, FLAT, QC, G2",
+        "quantity": 4.0,
+        "net_price": 48.9
+      }
+    ]
+  }
+}

@@ -1,0 +1,59 @@
+{
+  "invoice_data": {
+    "invoice_number": "5965653",
+    "invoice_date": "Friday 13 Feb 2026 1:43 PM GMT-08:00",
+    "invoice_amount": "125.00",
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": "0.00",
+    "po_number": [
+      "M412508407"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "SPRAGUE",
+    "vendor_address": "Bakersfield Branch, 3003 Petrol Rd, Bakersfield, CA 93308-9739, United States; Address ID: Bakersfield; United States; Address ID: US29",
+    "po_line_items": [
+      {
+        "description": "Material Not Available / Blanket PO Pest Services",
+        "quantity": 125.0,
+        "net_price": 1.0
+      }
+    ],
+    "vat_amount": null,
+    "gl_account": null,
+    "bank_name": null,
+    "account_holder_name": null,
+    "banking_account_number": null,
+    "remit_to_address": null,
+    "bill_to_address": null,
+    "transaction_type": "debit"
+  },
+  "filename": "SAPS4_5100004050_US29_PFNAUS_2026_999930860.pdf",
+  "raw_response": {
+    "invoice_number": "5965653",
+    "invoice_date": "Friday 13 Feb 2026 1:43 PM GMT-08:00",
+    "invoice_amount": "125.00",
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": "0.00",
+    "po_number": [
+      "M412508407"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "SPRAGUE",
+    "vendor_address": "Bakersfield Branch, 3003 Petrol Rd, Bakersfield, CA 93308-9739, United States; Address ID: Bakersfield; United States; Address ID: US29",
+    "po_line_items": [
+      {
+        "description": "Material Not Available / Blanket PO Pest Services",
+        "quantity": 125.0,
+        "net_price": 1.0
+      }
+    ]
+  }
+}

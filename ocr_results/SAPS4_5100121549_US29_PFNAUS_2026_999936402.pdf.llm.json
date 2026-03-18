@@ -1,0 +1,59 @@
+{
+  "invoice_data": {
+    "invoice_number": "887904735",
+    "invoice_date": "02/12/2026",
+    "invoice_amount": "448.16",
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": "28.34",
+    "po_number": [
+      "M413516429"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": "67.32",
+    "cost_center": null,
+    "vendor_name": "GRAINGER",
+    "vendor_address": "8211 BAVARIA ROAD,MACEDONIA,OH 44056-2259",
+    "po_line_items": [
+      {
+        "description": "GLAD-LOCK ASSEMBLY, KEYED ALIKE",
+        "quantity": 15.0,
+        "net_price": 23.5
+      }
+    ],
+    "vat_amount": null,
+    "gl_account": null,
+    "bank_name": null,
+    "account_holder_name": null,
+    "banking_account_number": null,
+    "remit_to_address": null,
+    "bill_to_address": null,
+    "transaction_type": "debit"
+  },
+  "filename": "SAPS4_5100121549_US29_PFNAUS_2026_999936402.pdf",
+  "raw_response": {
+    "invoice_number": "887904735",
+    "invoice_date": "02/12/2026",
+    "invoice_amount": "448.16",
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": "28.34",
+    "po_number": [
+      "M413516429"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": "67.32",
+    "cost_center": null,
+    "vendor_name": "GRAINGER",
+    "vendor_address": "8211 BAVARIA ROAD,MACEDONIA,OH 44056-2259",
+    "po_line_items": [
+      {
+        "description": "GLAD-LOCK ASSEMBLY, KEYED ALIKE",
+        "quantity": 15.0,
+        "net_price": 23.5
+      }
+    ]
+  }
+}

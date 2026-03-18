@@ -1,0 +1,43 @@
+{
+  "invoice_data": {
+    "invoice_number": "TX28-00813617",
+    "invoice_date": "02/12/26",
+    "invoice_amount": null,
+    "invoice_currency": null,
+    "tax_amount": null,
+    "po_number": [
+      "4505100010"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "REMIT MOTION INDUSTRIES, INC.",
+    "vendor_address": "BRANCH ADDRESS\nMOTION\n200 W TRINITY BLVD\nDOCK 19\nGRAND PRAIRIE, TX 75050",
+    "po_line_items": null,
+    "vat_amount": null,
+    "gl_account": null,
+    "bank_name": null,
+    "account_holder_name": null,
+    "banking_account_number": null,
+    "remit_to_address": null,
+    "bill_to_address": null,
+    "transaction_type": "debit"
+  },
+  "filename": "SAPS4_5100186029_US28_PFNAUS_2026_999884375.pdf",
+  "raw_response": {
+    "invoice_number": "TX28-00813617",
+    "invoice_date": "02/12/26",
+    "invoice_amount": null,
+    "invoice_currency": null,
+    "tax_amount": null,
+    "po_number": [
+      "4505100010"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "REMIT MOTION INDUSTRIES, INC.",
+    "vendor_address": "BRANCH ADDRESS\nMOTION\n200 W TRINITY BLVD\nDOCK 19\nGRAND PRAIRIE, TX 75050",
+    "po_line_items": null
+  }
+}

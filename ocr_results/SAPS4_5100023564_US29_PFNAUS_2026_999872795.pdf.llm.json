@@ -1,0 +1,59 @@
+{
+  "invoice_data": {
+    "invoice_number": "9357616588",
+    "invoice_date": "01/31/2026",
+    "invoice_amount": "152.63",
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": "11.63",
+    "po_number": [
+      "M413363813"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "CINTAS",
+    "vendor_address": "P.O. Box 631025, CINCINNATI, OH 45263-1025",
+    "po_line_items": [
+      {
+        "description": "ZOLL 3 AED AUTOMATIC AGREEMENT",
+        "quantity": 1.0,
+        "net_price": 141.0
+      }
+    ],
+    "vat_amount": null,
+    "gl_account": null,
+    "bank_name": null,
+    "account_holder_name": null,
+    "banking_account_number": null,
+    "remit_to_address": null,
+    "bill_to_address": null,
+    "transaction_type": "debit"
+  },
+  "filename": "SAPS4_5100023564_US29_PFNAUS_2026_999872795.pdf",
+  "raw_response": {
+    "invoice_number": "9357616588",
+    "invoice_date": "01/31/2026",
+    "invoice_amount": "152.63",
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": "11.63",
+    "po_number": [
+      "M413363813"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "CINTAS",
+    "vendor_address": "P.O. Box 631025, CINCINNATI, OH 45263-1025",
+    "po_line_items": [
+      {
+        "description": "ZOLL 3 AED AUTOMATIC AGREEMENT",
+        "quantity": 1.0,
+        "net_price": 141.0
+      }
+    ]
+  }
+}

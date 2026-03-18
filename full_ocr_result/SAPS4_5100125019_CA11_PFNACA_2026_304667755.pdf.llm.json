@@ -1,0 +1,47 @@
+{
+  "invoice_data": {
+    "invoice_number": "5103685520",
+    "invoice_date": "12/27/2025",
+    "invoice_amount": "5784.68",
+    "invoice_currency": [
+      "CAD"
+    ],
+    "tax_amount": "665.49",
+    "po_number": [
+      "M413476680"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "CHEP",
+    "vendor_address": "PO BOX 4267 STN A, Toronto, ON M5W 5T9, Frito-Lay/Belvika 121 MCPHERSON ST STE V, MARKHAM ON L3R 3L3",
+    "po_line_items": null,
+    "vat_amount": null,
+    "gl_account": null,
+    "bank_name": null,
+    "account_holder_name": null,
+    "banking_account_number": null,
+    "remit_to_address": null,
+    "bill_to_address": null,
+    "transaction_type": "debit"
+  },
+  "filename": "SAPS4_5100125019_CA11_PFNACA_2026_304667755.pdf",
+  "raw_response": {
+    "invoice_number": "5103685520",
+    "invoice_date": "12/27/2025",
+    "invoice_amount": "5784.68",
+    "invoice_currency": [
+      "CAD"
+    ],
+    "tax_amount": "665.49",
+    "po_number": [
+      "M413476680"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "CHEP",
+    "vendor_address": "PO BOX 4267 STN A, Toronto, ON M5W 5T9, Frito-Lay/Belvika 121 MCPHERSON ST STE V, MARKHAM ON L3R 3L3",
+    "po_line_items": null
+  }
+}

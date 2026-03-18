@@ -1,0 +1,455 @@
+==================================<Page 1 - START>================================
+OpenText Workflow History
+Vendor
+BLANEY MCMURTRY LLP
+BLANEY MCMURTRY LLP
+2 QUEEN ST E
+STE 1500
+TORONTO ONM5C 3G5
+ CANADA
+ Invoice
+ Reference
+                    840256
+                                                             Document Date    30.11.2025
+ DP Document No.  37810756                                Net Amount
+                                                                              CAD        20,708.95
+ Comp. Code
+                   CA02 Pepsi Bottling Grp Canada          Tax Amount
+                                                                              CAD           2,663.34
+Posting Date
+                   13.02.2026                               Gross Amount
+                                                                              CAD        23,372.29
+SAP Document No. 1900110001 2026
+                                         Pre-Process History
+  ACTIVITY                                             USER
+                                                                    END TIME         DOCUMENT STATUS
+  Update status
+                                                        VRBLAOT_U  16.12.2025       Validation
+                                                        SR         19:27:38         Complete
+                                     Document Process History
+  ACTIVITY
+                    PROCESS TYPE/BLOCK REASON          USER        END TIME         DOCUMENT STATUS
+  BC Inbound                                           VRBLAOT_U  16.12.2025       Document
+                                                                    18:22:42
+                                                        SR                           Registered
+  Workflow Start   Invalid Requestor ID (NPO)         Record to  16.12.2025        Created
+                                                        Report      19:27:38
+                                                        Batch
+                                                        Account
+                                                        Owner:
+ Apply Business   Invalid Requestor ID (NPO)         KARTHIK M  21.12.2025        Created
+Rules
+                                                                    09:42:46
+Comment:
+Changed By:   KARTHIK M (09368931)
+Changed On:   12/21/2025 09:42:45
+**********************************************************************
+Hi,
+Please update mandatory details & approve to process.
+Business Rules   Approval Required (NPO)             SAP_WFRT
+                                                                    21.12.2025        Indexed
+Check in BG                                                        09:42:49
+  Invoice submitted for Approval
+                                                                    21.12.2025 09:42:49
+  Financial Information Entered                      HARJOT
+                                                                    10.02.2026 20:03:37
+                                                       GILL
+  Data Entered and Invoice Approved                   HARJOT      10.02.2026 20:03:47
+                                                       GILL
+  Comment:
+  Sale of Saskatoon
+==================================<Page 1 - END>================================
+==================================<Page 2 - START>================================
+OpenText Workflow History
+Invoice
+Vendor            BLANEY MCMURTRY LLP TORONTO
+Reference        840256                              Gross Amount     CAD      23,372.29
+                              Document Process History - Continuation
+                     PROCESS TYPE/BLOCK REASON          USER        END TIME          DOCUMENT STATUS
+  ACTIVITY
+                                                          YUANXI      11.02.2026 21:59:05
+    Invoice Rejected
+                                                          ZHANG
+    Comment:
+    Missing GL Information, Requestor will resubmit.
+    Financial Information Entered                       HARJOT      12.02.2026 21:32:30
+                                                          GILL
+    Data Entered and Invoice Approved                   HARJOT      12.02.2026 21:32:37
+                                                          GILL
+   Comment:
+    Sale of sask
+    Invoice Approved                                     YUANXI      12.02.2026 21:54:33
+                                                          ZHANG
+ Approval          Approval Required (NPo)             SAP_WFRT    12.02.2026        Approval
+                                                                                         Complete
+  Workflow                                                           21:54:40
+                                                                      12.02.2026        Approval
+ Business Rules   Process Non-PO Invoice (NPO)        SAP_WFRT
+                                                                      21:54:42          Complete
+  Check in BG
+  Create Doc. BG   Process Non-PO Invoice (NPO)        SAP_WFRT   12.02.2026        Sent for Doc
+                                                                                         Creation
+                                                                      21:54:43
+                                                                      13.02.2026        Document
+ Post Non-PO      Process Non-Po Invoice (NPO)       NAVINKUMA
+ Invoice                                                             10:45:53          Created
+                                                          RR
+ SAP Document                                           SAP_WFRT   13.02.2026        Posted
+ Check
+                                                                      10:46:03
+==================================<Page 2 - END>================================
+==================================<Page 3 - START>================================
+          PEPSICO
+                 Instructions: When there is not an "Official" Invoice to request payment, complete the information on this form.
+1 Fill in the Description field below with the payment type - for example: Donation / Taxes / Other
+2. You must fill in all of the fields below and the form must be accompanied with supporting documentation
+3. Save submission as 1 single PDF file prior to attaching to SharePoint request
+4. The form can be used for the following invoice/payment type activity:
+5Submit PDF form to->NAssAPInvoiceSubmission@PepsiCo.com
+                                            Non-PO Invoice
+                                       SAP Payment Request
+                                      Substitute Invoice Form
+Vendor Name:                      Blaney McMurty LLP
+Vendor Number:
+                                          2000020762
+Company Code:
+                                          CA02
+Remit To Address :                2 Queen St E
+(Must match the address in the AP system)  Toronto, Ontario, M5C 3G5
+                                          Canada
+Trnsaction type:                    Invoice
+                                          *choose only 1 option - Invoice or Credit Memo from the dropdown
+Invoice Date:                        11/30/2025
+Invoice #:                            840256
+                                          *Limited to 16 characters
+Purchase Order #
+(not required if non-PO)
+                                          (not required if non-PO)
+Payment GROSS Amount:      $23,372.29
+Tax Amount (if applicable):                 $2,663.34
+Payment NET Amount:           $20,708.95
+Currency                            CA
+Header Text:                        Payment of Blaney's Invoice
+Requestor Name:                  Harjot Gill
+Requestor email
+                                          harjot.gill@pepsico.com
+Date Requested:                   12/12/2025
+For Assistance On This Form submission please contact:
+NASSAPSpecialRequest@pepsico.com
+==================================<Page 3 - END>================================
+==================================<Page 4 - START>================================
+                Blaney
+                                                                                               )416-593-1221
+                                                                 Blaney McMurtry LLP | Lawyers
+                                                                 2 Queen Street East Suite 1500
+            McMurtryP                                                      Blaney.com
+                                                                 Toronto, Ontario M5C 3G5
+       PepsiCo Canada ULC                                                              November 30, 2025
+                                                                             Invoice Date:
+       2095 Matheson Boulevard East                                                                 840256
+                                                                          Invoice Number:
+       Mississauga ON L4W 0G2                                                                 100686-0074
+                                                                           Matter Number:
+                                                                                                   R119444149
+                                                                             HST Number:
+       Attention:
+                     Clare Smith
+                     Sr. VP General Counsel
+                                                     INVOICE
+        Matter: sale to Trailblazer Developments Inc., 830 43rd Street East, Saskatoon, Saskatchewan
+        To our professional services up to and including November 30, 2025.
+                                                                                   Tax Rate          Amount
+                                                                                                         (CAD)
+                                                                                                      18,604.50
+       Professional Fees                                                          13.00%
+        Costs (Taxable)
+                                                                                                          12.00
+       Bank Charges - Wires                                                       13.00%
+       Cyberbahn Agent Service Fee                                               13.00%            253.20
+       Real Estate Levy                                                            13.00%              65.00
+       Agent's Fees & Disbursements                                              13.00%           1,552.50
+       Costs (Non-Taxable)
+       Search - Corporate* - Non-Taxable                                                                24.00
+        Filing Fees* - Non-Taxable                                                                        90.00
+       Agent's Disbursements* - Non-Taxable                                                            107.75
+                                                                                    Subtotal         20,708.95
+                                                                              Tax @ 13.00%          2,663.34
+                                                                            Amount payable        $23,372.29
+       BLANEY McMURTRY LLP
+       Brett J. Tkatch
+       E. & O.E
+                                                 Invoice due on receipt
+==================================<Page 4 - END>================================
+==================================<Page 5 - START>================================
+     Matter Number: 100686-0074
+                                                                               Invoice Date:     November 30, 2025
+     Matter:
+                        sale to Trailblazer Developments Inc., 830 43rd
+                                                                               Invoice Number:               840256
+                        Street East, Saskatoon, Saskatchewan
+      Date           Initials           Description                                                         Hours
+      2025-10-02   JMW             Review correspondence and offer to purchase                        0.80
+                                           received from Nexus Holdings Inc.; review and revise
+                                           offer to purchase; draft correspondence to client
+                                           regarding same
+      2025-10-03   JMW             Video conference with client and client's broker to                     1.40
+                                           discuss offer to purchaser; revise offer to purchaser
+                                           and prepare execution version; draft correspondence
+                                           to client and client's broker regarding same
+       2025-10-10   JMW             Review correspondence from client and offer to                       0.50
+                                           purchase from Trailblazer Developments Inc.; draft
+                                           correspondence to client regarding same
+       2025-10-14   JMW             Review correspondence from Eric Whitley; revise offer               1.00
+                                           to purchaser; draft correspondence to client and
+                                           client's broker regarding same
+       2025-10-15   JMW             Review correspondence from client's broker regarding                0.10
+                                           counteroffer
+       2025-10-20   JMW             Review correspondence from client and clients'                       0.20
+                                           broker; review counteroffer received from prospective
+                                           purchaser draft correspondence to client regarding
+                                           same
+       2025-10-22
+                        JMW             Diarize critical dates; review various correspondence                 0.30
+                                           from client's broker
+       2025-10-23   JMW
+                                           Draft correspondence to agent in Saskatchewan;                     0.70
+                                           review reply to same; review title; draft
+                                           correspondence to client regarding outstanding taxes;
+                                           review reply to same
+       2025-10-27   JMW
+                                           Review email for Eric Whitely regarding purchaser's
+                                                                                                                    0.20
+                                           financials; draft reply to same
+       2025-10-28
+                       JMW             Draft correspondence to client and client's broker
+                                                                                                                   0.50
+                                           regarding purchaser's inquiry regarding indemnity for
+                                           environmental liability
+       2025-10-31
+                       JMW             Draft correspondence to client's broke regarding
+                                                                                                                   0.50
+                                           waiver of condition; review and revise waiver of
+                                          condition; draft correspondence to client's broker
+                                          regarding same
+       2025-11-03   JMW
+                                          Review correspondence from client's broker; draft
+                                                                                                                  0.30
+                                          reply to same
+       2025-11-04
+                       JMW             Review various correspondence from client's broker;
+                                                                                                                  1.60
+                                          draft reply to same; draft various correspondence to
+                                          agent in Saskatchewan; draft replies to same; review
+                                          documents provided by agent in Saskatchewan;
+                                          instruct clerk to draft Statement of Adjustments; review
+                                          same; instruct associate to draft closing documents
+      2025-11-04   AS
+                                          Preparing Statement of Adjustments;
+                                                                                                                 0.20
+      2025-11-04   EL
+                                         Review of Offer to Purchase and initial drafting for
+                                                                                                                1.60
+                 Fees may include charges for services provided by Lawco Limited. Details are available
+==================================<Page 5 - END>================================
+==================================<Page 6 - START>================================
+       Matter Number: 100686-0074
+                                                                               Invoice Date:     November 30, 2025
+       Matter:
+                         sale to Trailblazer Developments Inc., 830 43rd
+                                                                               Invoice Number:              840256
+                          Street East, Saskatoon, Saskatchewan
+        Date
+                        Initials           Description                                                      Hours
+                                            OMNIBUS Agreement;
+        2025-11-05                                                                                           2.10
+                        JMW             Review and revise closing documents; draft various
+                                           correspondence to solicitor for purchaser regarding
+                                           same; review various responses to same; video
+                                           conference with Yasir Imtiaz to witness execution of
+                                           affidavit of value; draft various correspondence from
+                                           agent in Saskatchewan; review various
+                                           correspondence from agent in Saskatchewan
+        2025-11-05   EL                Review of Offer to Purchase and drafting of OMNIBUS              1.10
+                                           Agreement, GSt Certificate, and Indemnity
+                                           Agreement;
+        2025-11-05   JK               Obtained Saskatchewan Certificates of Status on                   0.50
+                                           Trailblazer Developments Inc., Northstar Innovative
+                                           Developments Inc. and on Auditorium Holdings Inc.;
+        2025-11-06                      Draft various correspondence to solicitor for                         1.20
+                        JMW
+                                           purchaser; review various correspondence from
+                                           solicitor for purchaser; Draft various correspondence
+                                           to agent in Saskatchewan; review various
+                                           correspondence from agent in Saskatchewan; Draft
+                                           various correspondence to client; review various
+                                           correspondence from client; revise trust letter received
+                                           from agent in Saskatchewan
+        2025-11-07   JMW             Draft correspondence to client to send execution                     1.30
+                                           copies of documents; review executed copies of
+                                           documents; review correspondence from agent in
+                                           Saskatchewan; review correspondence from client
+                                           and client's broker regarding environmental notice
+                                           delivered to client; review notice; draft correspondence
+                                           to client regarding same
+        2025-11-08                      Review correspondence from client; draft reply to
+                        JMW                                                                                   3.40
+                                           same; draft email to associate to provide instructions
+                                           regarding research into duty to disclose; review Phase
+                                           Il Environmental Reports and letters from Ministry of
+                                           Finance included in CBRE's data room; draft
+                                           correspondence to client regarding duty to disclose
+                                           Review memorandum from associate; draft
+        2025-11-09   JMW                                                                                   3.90
+                                           memorandum to client regarding duty to disclose
+        2025-11-09    EL                Research regarding environmental contamination,                  3.40
+                                           disclosure, and duty to disclose;
+       2025-11-10                       Updated GST/HST Registry Search for Purchaser.                 0.10
+                        IClou
+       2025-11-10   JMW             Draft various correspondence to agent in                           2.80
+                                           Saskatchewan; review various correspondence from
+                                          agent in Saskatchewan; video conference with Clare
+                                          Smith and Josie Camilletti to discuss issues and risks
+                                          relating to non-disclosure of documents; video
+                                          conference with Josie Camilletti, Eric Whitely and
+                                          Yasir Imtiaz to discuss issues and risks relating to
+                                                           d by Lawco Limited. Details are available upon request
+==================================<Page 6 - END>================================
+==================================<Page 7 - START>================================
+      Matter Number: 100686-0074
+                                                                              Invoice Date:    November 30, 2025
+     Matter:          sale to Trailblazer Developments Inc., 830 43rd
+                                                                              Invoice Number:              840256
+                        Street East, Saskatoon, Saskatchewan
+      Date          Initials           Description
+                                                                                                              Hours
+                                          non-disclosure of documents; review trust letter and
+                                          executed documents received from solicitor for
+                                          purchaser; draft correspondence to solicitor for
+                                          purchaser to send closing documents
+       2025-11-10   EL               Research regarding purchaser liability for                           0.40
+                                          contamination migration and liability;
+       2025-11-10
+                       JK               Obtained Saskatchewan Certificates of Status and                  0.90
+                                          conducted Bankruptcy searches on Trailblazer
+                                          Developments Inc., Northstar Innovative
+                                          Developments Inc. and on Auditorium Holdings Inc.;
+        2025-11-11   JMW
+                                          Review correspondence from client regarding                       0.10
+                                          outstanding property taxes
+        2025-11-14   JMW            Draft correspondence to solicitor for purchaser; review              0.10
+                                          reply to same
+        2025-11-19   JMW
+                                          Review correspondence from solicitor for purchaser;                0.10
+                                          draft correspondence to client's broker
+        2025-11-20   JMW             Draft correspondence to client to provide wire                      0.20
+                                          confirmation and statement of trust funds
+        2025-11-28   JMW             Draft final report to client                                           1.00
+        Total                                                                                              32.50
+        Timekeeper Summary
+        Name                             Title                        Hours          Rate          Amount
+        Warren, Jeffrey M.                 Partner
+                                                                          24.30       650.00        15,795.00
+        Ethan Lee                         Associate                     6.50       350.00
+                                                                                                         2,275.00
+        Clough, Ian                        Clerk
+                                                                           0.10       225.00
+                                                                                                            22.50
+       Kroupis, John                      Clerk
+                                                                           1.40       320.00           448.00
+       Santos, Ana                       Clerk                          0.20       320.00
+                                                                                                            64.00
+       Total
+                                                                          32.50                      $18,604.50
+       Disbursement Summary
+       Description
+                                                                                                         Amount
+       Agent's Disbursements* - Non-Taxable
+                                                                                                           107.75
+       Agent's Fees & Disbursements
+                                                                                                         1,552.50
+       Bank Charges - Wires
+                                                                                                            12.00
+       Cyberbahn Agent Service Fee
+                                                                                                           253.20
+       Filing Fees* - Non-Taxable
+                                                                                                            90.00
+       Real Estate Levy
+                                                                                                             65.00
+       Search - Corporate* - Non-Taxable
+                                                                                                             24.00
+      Total
+                                                                                                        $2,104.45
+==================================<Page 7 - END>================================
+==================================<Page 8 - START>================================
+     Matter Number: 100686-0074
+                                                                                             November 30, 2025
+                                                                           Invoice Date:
+     Matter:
+                       sale to Trailblazer Developments Inc., 830 43rd                                   840256
+                                                                           Invoice Number:
+                       Street East, Saskatoon, Saskatchewan
+    *HST is not charged
+==================================<Page 8 - END>================================
+==================================<Page 9 - START>================================
+               Blaney
+                                                               Blaney McMurtry LLP | Lawyers     )416-593-1221
+                                                               2 Queen Street East Suite 1500
+          McMurtryP                          Toronto, Ontario M5C 3G5         Blaney.com
+   PepsiCo Canada ULC                                                 Invoice Date:  November 30, 2025
+   2095 Matheson Boulevard East                                     Invoice Number:               840256
+  Mississauga ON L4W 0G2                                           Matter Number:         100686-0074
+                                                                           HST Number:         R119444149
+  Attention:    Clare Smith
+                 Sr. VP General Counsel
+                                              REMITTANCE COPY
+       sale to Trailblazer Developments Inc., 830 43rd Street East, Saskatoon, Saskatchewan
+Invoice Date               Invoice Number                                                Balance Due
+Current Invoice
+                                                                                                    $23,372.29
+2025-11-30                 840256
+                                                                                                    $23,372.29
+Balance Due
+                      To pay by Visa, Mastercard, Amex, or      To pay by Wire (CAD):
+Please Remit to:
+                      Interac e-Transfer please Click here to pay   TDCanada Trust, Bank No. 004, Transit No. 10252,
+                                                                General Account No. 0680-5215022
+                      To ensure that your payment is applied       Swift Code: TDOMCATTTOR
+                      correctly, please send us an email, including
+                                                                For USD Payments:
+                      the invoice number(s) being paid and the file
+                                                                Bank No: 004; Transit No: 10252
+                      number, to: clientservices@blaney.com
+                                                                Beneficiary Acct Name: Blaney McMurtry LLP
+                                                                2 Queen Street East Suite 1500 Torontó ON Canada
+                                                                USD General Acct: 0680-7309161
+                                                                Swift Code: BOFAUS3NXXX
+                                                                ABA Routing No: 026009593
+                                                                US Intermediary Bank: Bank of America New York, NY
+                                                                (Please Reference Invoice Number)
+==================================<Page 9 - END>================================
+==================================<Page 10 - START>================================
+           From: SPA - PepsiCo Nass AP Invoice Submission <nassapInvoiceSubmission@pepsico.com>
+           Sent: Fri, 12 Dec 2025 21:18:00 (UTC)
+           To: svcimagingspaboxprod@pepsico.com
+           Subject: FW: Non-PO Invoice
+           Original Number of Attachments : 6
+           Original Attachment Names: 840256- Non PO.pdf,840255 - Non PO.pdf,840254 - Non
+           PO.pdf,838151 - Non PO.pdf,838150 - Non PO.pdf,833558 - Non PO.pdf
+           Number of forwarded PDF's: 6
+           Number of forwarded Non PDF files: 0
+           From: Gill, Harjot {PEP} <Harjot.Gill@pepsico.com>
+           Sent: Friday, December 12, 2025 9:16:13 PM
+           To: SPA - PepsiCo NASS AP Special Request <nassapspecialrequest@pepsico.com>; SPA - PepsiCo Nass
+           AP Invoice Submission <nassaplnvoiceSubmission@pepsico.com>
+           Subject: Non-PO Invoice
+          Hello -
+           Please process attached invoices.
+          Kind regards,
+          Harjot Gill, CPA
+          Senior Analyst| PepsiCo Beverages Canada
+          2095 Matheson Boulevard East, Mississauga ON L4W 0G2
+          Email: harjot.gill@pepsico.com
+==================================<Page 10 - END>================================
+==================================<Page 11 - START>================================
+     PEPSI
+==================================<Page 11 - END>================================

@@ -1,0 +1,59 @@
+{
+  "invoice_data": {
+    "invoice_number": "802822833",
+    "invoice_date": "02/12/2026",
+    "invoice_amount": "-209.40",
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": "15.04",
+    "po_number": [
+      "4505026848"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": "30.00",
+    "cost_center": null,
+    "vendor_name": "GRAINGER",
+    "vendor_address": "4885 PARIS STREET, DENVER, CO 80239-2811",
+    "po_line_items": [
+      {
+        "description": "LIGHT PANEL,CRACKED ICE,4 FT L,PK5",
+        "quantity": 1.0,
+        "net_price": 164.36
+      }
+    ],
+    "vat_amount": null,
+    "gl_account": null,
+    "bank_name": null,
+    "account_holder_name": null,
+    "banking_account_number": null,
+    "remit_to_address": null,
+    "bill_to_address": null,
+    "transaction_type": "credit"
+  },
+  "filename": "SAPS4_5100208060_US28_PFNAUS_2026_999884397.pdf",
+  "raw_response": {
+    "invoice_number": "802822833",
+    "invoice_date": "02/12/2026",
+    "invoice_amount": "-209.40",
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": "15.04",
+    "po_number": [
+      "4505026848"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": "30.00",
+    "cost_center": null,
+    "vendor_name": "GRAINGER",
+    "vendor_address": "4885 PARIS STREET, DENVER, CO 80239-2811",
+    "po_line_items": [
+      {
+        "description": "LIGHT PANEL,CRACKED ICE,4 FT L,PK5",
+        "quantity": 1.0,
+        "net_price": 164.36
+      }
+    ]
+  }
+}

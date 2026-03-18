@@ -1,0 +1,59 @@
+{
+  "invoice_data": {
+    "invoice_number": "490369",
+    "invoice_date": "02/12/2026",
+    "invoice_amount": "560.26",
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": "40.90",
+    "po_number": [
+      "490369"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "MODESTO STEEL",
+    "vendor_address": "P.O. BOX 5036 • 1424 N. EMERALD AVE. MODESTO, CA 95352",
+    "po_line_items": [
+      {
+        "description": "FLAT-AL 6061 1 X 3-1/2",
+        "quantity": 2.0,
+        "net_price": 21.64
+      }
+    ],
+    "vat_amount": null,
+    "gl_account": null,
+    "bank_name": null,
+    "account_holder_name": null,
+    "banking_account_number": null,
+    "remit_to_address": null,
+    "bill_to_address": null,
+    "transaction_type": "debit"
+  },
+  "filename": "SAPS4_5100373556_US28_PFNAUS_2026_999934672.pdf",
+  "raw_response": {
+    "invoice_number": "490369",
+    "invoice_date": "02/12/2026",
+    "invoice_amount": "560.26",
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": "40.90",
+    "po_number": [
+      "490369"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "MODESTO STEEL",
+    "vendor_address": "P.O. BOX 5036 • 1424 N. EMERALD AVE. MODESTO, CA 95352",
+    "po_line_items": [
+      {
+        "description": "FLAT-AL 6061 1 X 3-1/2",
+        "quantity": 2.0,
+        "net_price": 21.64
+      }
+    ]
+  }
+}

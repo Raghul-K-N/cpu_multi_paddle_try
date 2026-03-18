@@ -1,0 +1,109 @@
+{
+  "invoice_data": {
+    "invoice_number": "1257080",
+    "invoice_date": "1/23/2026",
+    "invoice_amount": null,
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": null,
+    "po_number": [
+      "4504834993"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "4REFUEL CANADA LP",
+    "vendor_address": "4Refuel 19100 94 Avenue, Surrey BC V4N 5C3, CANADA",
+    "po_line_items": [
+      {
+        "description": "CHARGE",
+        "quantity": 1.0,
+        "net_price": 130.0
+      },
+      {
+        "description": "CHARGE",
+        "quantity": 1.0,
+        "net_price": 130.0
+      },
+      {
+        "description": "CHARGE",
+        "quantity": 1.0,
+        "net_price": 130.0
+      },
+      {
+        "description": "CLEAR DIESEL",
+        "quantity": 0.315,
+        "net_price": 2.4188
+      },
+      {
+        "description": "CLEAR DIESEL",
+        "quantity": 2.1228,
+        "net_price": 2.4378
+      },
+      {
+        "description": "CLEAR DIESEL",
+        "quantity": 2.2008,
+        "net_price": 2.5158
+      }
+    ],
+    "vat_amount": null,
+    "gl_account": null,
+    "bank_name": null,
+    "account_holder_name": null,
+    "banking_account_number": null,
+    "remit_to_address": null,
+    "bill_to_address": null,
+    "transaction_type": "debit"
+  },
+  "filename": "SAPS4_5100123005_CA11_PFNACA_2026_304667747.pdf",
+  "raw_response": {
+    "invoice_number": "1257080",
+    "invoice_date": "1/23/2026",
+    "invoice_amount": null,
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": null,
+    "po_number": [
+      "4504834993"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "4REFUEL CANADA LP",
+    "vendor_address": "4Refuel 19100 94 Avenue, Surrey BC V4N 5C3, CANADA",
+    "po_line_items": [
+      {
+        "description": "CHARGE",
+        "quantity": 1.0,
+        "net_price": 130.0
+      },
+      {
+        "description": "CHARGE",
+        "quantity": 1.0,
+        "net_price": 130.0
+      },
+      {
+        "description": "CHARGE",
+        "quantity": 1.0,
+        "net_price": 130.0
+      },
+      {
+        "description": "CLEAR DIESEL",
+        "quantity": 0.315,
+        "net_price": 2.4188
+      },
+      {
+        "description": "CLEAR DIESEL",
+        "quantity": 2.1228,
+        "net_price": 2.4378
+      },
+      {
+        "description": "CLEAR DIESEL",
+        "quantity": 2.2008,
+        "net_price": 2.5158
+      }
+    ]
+  }
+}

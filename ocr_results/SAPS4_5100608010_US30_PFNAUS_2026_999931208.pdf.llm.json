@@ -1,0 +1,79 @@
+{
+  "invoice_data": {
+    "invoice_number": "9025697",
+    "invoice_date": "February 28, 2025",
+    "invoice_amount": "95.53",
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": "5.83",
+    "po_number": [
+      "M412556643"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "Plunkett's / Varment Guard",
+    "vendor_address": "40 52nd Way Northeast, Fridley, MN 55421",
+    "po_line_items": [
+      {
+        "description": "Exterior Rodent Bait Stations",
+        "quantity": null,
+        "net_price": 27.6
+      },
+      {
+        "description": "Interior Rodent Traps",
+        "quantity": null,
+        "net_price": 8.1
+      },
+      {
+        "description": "Interior Insect Control",
+        "quantity": null,
+        "net_price": 3.51
+      }
+    ],
+    "vat_amount": null,
+    "gl_account": null,
+    "bank_name": null,
+    "account_holder_name": null,
+    "banking_account_number": null,
+    "remit_to_address": null,
+    "bill_to_address": null,
+    "transaction_type": "debit"
+  },
+  "filename": "SAPS4_5100608010_US30_PFNAUS_2026_999931208.pdf",
+  "raw_response": {
+    "invoice_number": "9025697",
+    "invoice_date": "February 28, 2025",
+    "invoice_amount": "95.53",
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": "5.83",
+    "po_number": [
+      "M412556643"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "Plunkett's / Varment Guard",
+    "vendor_address": "40 52nd Way Northeast, Fridley, MN 55421",
+    "po_line_items": [
+      {
+        "description": "Exterior Rodent Bait Stations",
+        "quantity": null,
+        "net_price": 27.6
+      },
+      {
+        "description": "Interior Rodent Traps",
+        "quantity": null,
+        "net_price": 8.1
+      },
+      {
+        "description": "Interior Insect Control",
+        "quantity": null,
+        "net_price": 3.51
+      }
+    ]
+  }
+}

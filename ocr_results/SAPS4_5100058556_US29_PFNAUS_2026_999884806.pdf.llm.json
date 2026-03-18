@@ -1,0 +1,59 @@
+{
+  "invoice_data": {
+    "invoice_number": "INV-031595",
+    "invoice_date": "12/01/2025",
+    "invoice_amount": "282.00",
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": null,
+    "po_number": [
+      "6737"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "Olio Group",
+    "vendor_address": "PO Box 583442, 100 South 1st Street, Minneapolis, Minnesota 55458",
+    "po_line_items": [
+      {
+        "description": "Lawn Care (Monthly Inclusive) December Services",
+        "quantity": 1.0,
+        "net_price": 282.0
+      }
+    ],
+    "vat_amount": null,
+    "gl_account": null,
+    "bank_name": null,
+    "account_holder_name": null,
+    "banking_account_number": null,
+    "remit_to_address": null,
+    "bill_to_address": null,
+    "transaction_type": "debit"
+  },
+  "filename": "SAPS4_5100058556_US29_PFNAUS_2026_999884806.pdf",
+  "raw_response": {
+    "invoice_number": "INV-031595",
+    "invoice_date": "12/01/2025",
+    "invoice_amount": "282.00",
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": null,
+    "po_number": [
+      "6737"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "Olio Group",
+    "vendor_address": "PO Box 583442, 100 South 1st Street, Minneapolis, Minnesota 55458",
+    "po_line_items": [
+      {
+        "description": "Lawn Care (Monthly Inclusive) December Services",
+        "quantity": 1.0,
+        "net_price": 282.0
+      }
+    ]
+  }
+}

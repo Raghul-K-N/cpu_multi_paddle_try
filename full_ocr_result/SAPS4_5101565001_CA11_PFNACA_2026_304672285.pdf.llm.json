@@ -1,0 +1,61 @@
+{
+  "invoice_data": {
+    "invoice_number": "0090293900",
+    "invoice_date": "12/1/2025",
+    "invoice_amount": "628.00",
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": null,
+    "po_number": [
+      "M412943598-2",
+      "M413510194"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": "0.00",
+    "cost_center": null,
+    "vendor_name": "Woodstream Corporation",
+    "vendor_address": "PO BOX 8648, LANCASTER, PA 17604-8648",
+    "po_line_items": [
+      {
+        "description": "MONTHLY MONITORING 4/MONTH",
+        "quantity": 157.0,
+        "net_price": 4.0
+      }
+    ],
+    "vat_amount": null,
+    "gl_account": null,
+    "bank_name": null,
+    "account_holder_name": null,
+    "banking_account_number": null,
+    "remit_to_address": null,
+    "bill_to_address": null,
+    "transaction_type": "debit"
+  },
+  "filename": "SAPS4_5101565001_CA11_PFNACA_2026_304672285.pdf",
+  "raw_response": {
+    "invoice_number": "0090293900",
+    "invoice_date": "12/1/2025",
+    "invoice_amount": "628.00",
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": null,
+    "po_number": [
+      "M412943598-2",
+      "M413510194"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": "0.00",
+    "cost_center": null,
+    "vendor_name": "Woodstream Corporation",
+    "vendor_address": "PO BOX 8648, LANCASTER, PA 17604-8648",
+    "po_line_items": [
+      {
+        "description": "MONTHLY MONITORING 4/MONTH",
+        "quantity": 157.0,
+        "net_price": 4.0
+      }
+    ]
+  }
+}

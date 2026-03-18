@@ -1,0 +1,69 @@
+{
+  "invoice_data": {
+    "invoice_number": "36163291",
+    "invoice_date": "1/30/2026",
+    "invoice_amount": "401.14",
+    "invoice_currency": [
+      "CAD"
+    ],
+    "tax_amount": "52.24",
+    "po_number": [
+      "4504980700"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "Radwell International Canada Automation ULC",
+    "vendor_address": "1100 South Service Road #101, Stoney Creek ON L8E 0C5, CA",
+    "po_line_items": [
+      {
+        "description": "LAMP, INDICATOR, NEON, GREEN, 125V; SUPPLY VOLTAGE:125V; LAMP BASE TYPE:QUICK CONNECT; ILLUMINATION COLOR:GREEN; MOUNTING HOLE DIA:12.7MM; LENS SHAPE SQUARE",
+        "quantity": 1.0,
+        "net_price": 338.49
+      },
+      {
+        "description": "PHOTOELECTRIC SENSOR, DIFFUSE-REFLECTIVE, 12-24 VDC, SENSING DISTANCE: TO 100 MM, LIGHT-ON/DARK-ON SELECTABLE, PNP OUTPUT, M8 CONNECTOR MODELS",
+        "quantity": 1.0,
+        "net_price": 10.41
+      }
+    ],
+    "vat_amount": null,
+    "gl_account": null,
+    "bank_name": null,
+    "account_holder_name": null,
+    "banking_account_number": null,
+    "remit_to_address": null,
+    "bill_to_address": null,
+    "transaction_type": "debit"
+  },
+  "filename": "SAPS4_5101591500_CA11_PFNACA_2026_304654803.pdf",
+  "raw_response": {
+    "invoice_number": "36163291",
+    "invoice_date": "1/30/2026",
+    "invoice_amount": "401.14",
+    "invoice_currency": [
+      "CAD"
+    ],
+    "tax_amount": "52.24",
+    "po_number": [
+      "4504980700"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "Radwell International Canada Automation ULC",
+    "vendor_address": "1100 South Service Road #101, Stoney Creek ON L8E 0C5, CA",
+    "po_line_items": [
+      {
+        "description": "LAMP, INDICATOR, NEON, GREEN, 125V; SUPPLY VOLTAGE:125V; LAMP BASE TYPE:QUICK CONNECT; ILLUMINATION COLOR:GREEN; MOUNTING HOLE DIA:12.7MM; LENS SHAPE SQUARE",
+        "quantity": 1.0,
+        "net_price": 338.49
+      },
+      {
+        "description": "PHOTOELECTRIC SENSOR, DIFFUSE-REFLECTIVE, 12-24 VDC, SENSING DISTANCE: TO 100 MM, LIGHT-ON/DARK-ON SELECTABLE, PNP OUTPUT, M8 CONNECTOR MODELS",
+        "quantity": 1.0,
+        "net_price": 10.41
+      }
+    ]
+  }
+}

@@ -1,0 +1,59 @@
+{
+  "invoice_data": {
+    "invoice_number": "9806337169",
+    "invoice_date": "Thursday 12 Feb. 2026 7:00 a.m. GMT-05:00",
+    "invoice_amount": "2046.61",
+    "invoice_currency": [
+      "CAD"
+    ],
+    "tax_amount": "235.45",
+    "po_number": [
+      "M413555429"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "ACKLANDS-GRAINGER INC.",
+    "vendor_address": "PO BOX 2970, WINNIPEG, MB R3C 4B5, CA\nAGI CALEDON DC, 21 Merchant Road, Caledon, ON L7C 3Y7, Canada\nDELIVER TO RECEIVING DOOR, 1001 BISHOP ST N, CAMBRIDGE, ON N3H 4V8, Canada",
+    "po_line_items": [
+      {
+        "description": "Material MST410RED / LOCK LOCKOUT RED KEYED DIEEERENT",
+        "quantity": 108.0,
+        "net_price": 16.77
+      }
+    ],
+    "vat_amount": null,
+    "gl_account": null,
+    "bank_name": null,
+    "account_holder_name": null,
+    "banking_account_number": null,
+    "remit_to_address": null,
+    "bill_to_address": null,
+    "transaction_type": "debit"
+  },
+  "filename": "SAPS4_5100168002_CA11_PFNACA_2026_304667494.pdf",
+  "raw_response": {
+    "invoice_number": "9806337169",
+    "invoice_date": "Thursday 12 Feb. 2026 7:00 a.m. GMT-05:00",
+    "invoice_amount": "2046.61",
+    "invoice_currency": [
+      "CAD"
+    ],
+    "tax_amount": "235.45",
+    "po_number": [
+      "M413555429"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "ACKLANDS-GRAINGER INC.",
+    "vendor_address": "PO BOX 2970, WINNIPEG, MB R3C 4B5, CA\nAGI CALEDON DC, 21 Merchant Road, Caledon, ON L7C 3Y7, Canada\nDELIVER TO RECEIVING DOOR, 1001 BISHOP ST N, CAMBRIDGE, ON N3H 4V8, Canada",
+    "po_line_items": [
+      {
+        "description": "Material MST410RED / LOCK LOCKOUT RED KEYED DIEEERENT",
+        "quantity": 108.0,
+        "net_price": 16.77
+      }
+    ]
+  }
+}

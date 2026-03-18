@@ -1,0 +1,59 @@
+{
+  "invoice_data": {
+    "invoice_number": "6621539696",
+    "invoice_date": "02/03/2026",
+    "invoice_amount": null,
+    "invoice_currency": [
+      "CAD"
+    ],
+    "tax_amount": null,
+    "po_number": [
+      "M413525012"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "ECOLAB",
+    "vendor_address": "4815 78 AVE SE, CALGARY AB T2C 2Y9",
+    "po_line_items": [
+      {
+        "description": "ECO-WIPE DUO (CAN) - 6 X 95 CAR WIPES",
+        "quantity": 3.0,
+        "net_price": 83.09
+      }
+    ],
+    "vat_amount": null,
+    "gl_account": null,
+    "bank_name": null,
+    "account_holder_name": null,
+    "banking_account_number": null,
+    "remit_to_address": null,
+    "bill_to_address": null,
+    "transaction_type": "debit"
+  },
+  "filename": "SAPS4_5100826502_CA02_PBNACA_2026_328615160.pdf",
+  "raw_response": {
+    "invoice_number": "6621539696",
+    "invoice_date": "02/03/2026",
+    "invoice_amount": null,
+    "invoice_currency": [
+      "CAD"
+    ],
+    "tax_amount": null,
+    "po_number": [
+      "M413525012"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "ECOLAB",
+    "vendor_address": "4815 78 AVE SE, CALGARY AB T2C 2Y9",
+    "po_line_items": [
+      {
+        "description": "ECO-WIPE DUO (CAN) - 6 X 95 CAR WIPES",
+        "quantity": 3.0,
+        "net_price": 83.09
+      }
+    ]
+  }
+}

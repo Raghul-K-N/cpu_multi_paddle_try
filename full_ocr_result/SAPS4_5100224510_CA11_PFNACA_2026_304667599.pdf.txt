@@ -1,0 +1,228 @@
+==================================<Page 1 - START>================================
+     eneral:
+                                BEFRIGERATION                                Invoice #16429-1
+                                                                                    Date            02/06/2026
+                                                                                    Purchase Order M413029377
+                                                                                    Number::
+                                                                                    General Refrigeration
+                                                                                    170 Vondrau Drive, Unit 5
+                                                                                     Cambridge, Ontario, N3E 1B8
+                                                                                     Phone: 519-742-7464
+                                                                                     Email: jbanks@general-refrigeration.ca
+Bill To:
+                                                              Job Site      Processing- Main Plant & Front Offices
+                                                                             1001 Bishop Street North
+Pepsico Foods Canada O/A Frito Lay Canada- Cambridge
+1001 Bishop Street North                                                    Cambridge, Ontario, N3H 4V8
+Cambridge, Ontario, N3H 4V8
+Invoice Note:
+Maintenance Service
+Complete maintenance testing on all HVAC units in Zone 2.
+Replace the filters on RIN 4/5/6/7/8/9/63/104/105/110/111/112/113/123/139/142/152/UTC Panel/V1/V2/V3/V4 & AHU1.
+Work Notes
+Job Site
+Create
+            Note
+Date
+12/16/2025Arrived on site and received filter order roped to roof and changed all listed filters roped down and disposed of
+             filters.
+02/03/2026Picked up and replaced belts.
+Unit
+                                          Create
+Unit                                              Note
+                                          Date
+RIN5-Packaging- Line 4E              12/17/2025Blower amps 11.2 at 50hz
+Aaon M:RN-030-4-A-BA92-34B                    Combustion motor amps 0.8 at 100%
+S:202012-BNGT89151                            Gas pressure burner 1 3.5
+                                                    Gas pressure burner 2 3.5
+                                                    Contactors good
+                                                    Electrical connections good
+                                                    Recomend replacing economizer actuator due to weak spring not closing
+                                                    damper all the time.
+RIN1-Packaging- Line 1                01/16/2026-Greased Bearings
+Carrier M:48A2T030MNG12GHJ                   -Checked Blower and Motor Pulley's for wear. Both show no signs of
+                                                    wear
+S:0319U44989
+                                                   -Noted that belts should be changed. 2- BX50
+                                                    -Filters in good condition
+                                                   -Checked Supply voltage, found no voltage drop out of range
+                                                   -Inspected burners and offices to ensure no debris was in them
+                                                    -Ran unit is heating operation
+==================================<Page 1 - END>================================
+==================================<Page 2 - START>================================
+Unit                                    Create
+                                                   Note
+                                           Date
+                                                    -Both Burners fired with no issue's
+                                                    -Checked gas pressure for both burners. Both were within rage of eating
+                                                    plate for high and low fire. Low fire was 2.0" W.C and high Fire was 3.5”
+                                                    -Burner 1 low fire was 1.97”W.C and high fire was 3.52” W.C
+                                                    -Burner 2 low fire was 2.05’W.C and high fire was 3.54” W.C
+                                                    -Checked inducer amperage. Both Motors were at 0.7A, Rated for 1 Amp
+                                                    -Found bearing on Burner 2 inducer motor were very worn and making a
+                                                    terrible noise. Recommend replacing.
+                                                    -Performed combustion analysis Test on burner 1, No issues found
+                                                    -During combustion analysis test on burner 2 found higher Co levels.
+                                                    Talked to Josh and he said this could be from the inducer not moving and
+                                                    much as from the worn bearings. Unit is safe to operate for now but need
+                                                    to be retested after inducer is replaced to confirm no further investigation
+                                                    is needed.
+                                                    -Cleaned flame sensors
+                                                    -Checked Blower Motor Amperage. Amperage was 9.4A rated for 11A so
+                                                    no concerns
+                                                    -Checked Electrical connections
+                                                    -Inspected Contactors for pitting and arcing, tightened connections on
+                                                   them
+                                                   -Found Economizer filters were dirty and should be cleaned
+RIN2-Packaging- Line 3W             01/16/2026
+                                                   -Upon Investigation found that unit was tripping on high limit. Talked to
+Trane                                            Josh and found return Ducts were plugged with Debris. This needs to be
+M:SFHLF255TR00C4BDAL01A0W00H
+                                                    quoted. Was advised to note to conduct maintenance once this has been
+S:C18L08476                                    completed.
+                                                   Once grills cleaned tested operation and unit now running proper heating
+                                                   blower amps 1.66
+                                                   ventor amps 1.22
+                                                   electrical connections good
+                                                   flame sensor and ignitor good.
+RIN3-Packaging- Line 3E              01/16/2026-Upon Investigation found that unit was tripping on high limit. Talked to
+Trane                                            Josh and found return Ducts were plugged with Debris. This needs to be
+M:SFHLF255TR00C4BDAL01A0W00H            quoted. Was advised to note to conduct maintenance once this has been
+S:C18L08669
+                                                   completed.
+                                                   Once grills cleaned tested operation and unit now running proper heating
+                                                   blower amps 1.58
+                                                   ventor amps 1.19
+                                                   electrical connections good
+                                                   flame sensor and ignitor good.
+RIN9- Packaging Line 4 West          01/16/2026-Filters in good condition
+Make:Trane
+                                                   -Unit is Direct drive blower
+Model:SFHLF205PV00CJGDAL01                 -Checked Supply voltage, found no voltage drop out of range
+Serial:C21H06236                                -Ran unit is heating operation
+                                                   -Burner fired with no issues
+                                                   -Checked gas pressure. Modulated up and down but did not go below
+                                                   3.5”W.C witch is the lowest setting according to the rating plate
+                                                   -Performed combustion analysis test, found no issues with readings
+                                                   -Checked flame signal, was getting 5V DC
+                                                   -Checked inducer motor amperage, was 1.2A rated for 1.6-2.9
+                                                   -Checked Blower Motor Amperage. Amperage was 5.6A rated for 11.5A
+                                                   -Checked Electrical connections
+                                                   -Inspected Contactors for pitting and arcing, tightened connections on
+                                                   them
+                                                   -Ensured unit was out for test mode and left on
+==================================<Page 2 - END>================================
+==================================<Page 3 - START>================================
+Unit                                    Create
+                                                   Note
+                                          Date
+RIN4-Packaging- Line 4W             01/21/2026Checked heating operation
+Aaon M:RN-030-4-A-BA92-34B
+                                                    Blower amps 13.2
+S:202012-BNGT89152                            Ventor amps 1.2
+                                                    Gas pressure good
+                                                    Checked electrical connections
+                                                    Flame sensor good
+                                                    Heat exchanger good.
+RIN6-Packaging- Line 5               01/21/2026Checked heating operation
+Trane - M: RF0503453ABAA2K1G1, S:            Blower amps 19.9
+C21L08717                                       Blower 2 amps 19.8
+                                                    Ventor amps 1.8
+                                                    Gas pressure good
+                                                    Checked electrical connections
+                                                    Flame sensor good
+RIN7- Packaging Line 4 West          01/21/2026Checked heating operation
+Make:Trane                                       Blower amps 5.8
+Model:SFHLF205PV00CJGDAL01                 Ventor amps 1.2
+Serial:C21H06235                                Gas pressure good
+                                                    Checked electrical connections and they are good.
+                                                    Check Flame sensor and its good
+RIN8- Packaging Line 4 West          01/21/2026Checked heating operation
+Make:Trane                                      Blower amps 6
+Model:SFHLF305PV00CJGDAL01                 Ventor amps 1.3
+Serial:C21H06237                                Gas pressure good
+                                                    Checked electrical connections and they are good.
+                                                    Check Flame sensor and its good
+RIN104-Packaging- Line 9             01/21/2026Checked heating operation
+Aaon M:RN-030-4-A-EB19-3C9                    Blower amps 10
+S:201612-BNGT57977                            Ventor amps 0.87
+                                                   Gas pressure good
+                                                    Checked electrical connections and they are good.
+                                                    Check Flame sensor and its good
+                                                    Found door latch broken door currently screwed shut recomend replacing
+                                                   latch.
+RIN105-Packaging- Line 8
+                                        01/21/2026Checked heating operation
+Aaon M:RN-030-4-A-EB19-3C9                    Blower amps 10.2
+S:201612-BNGT57978                            Ventor amps 0.9
+                                                    Gas pressure good
+                                                   Checked electrical connections and they are good.
+                                                    Check Flame sensor and its good
+                                                   Found indoor air temp sensor for thermostat has failed causing
+                                                   thermostat to fault will need to be replaced before unit can run properly in
+                                                   heating or cooling.
+RIN139-Packaging- Line 4 (M/C 404-  01/21/2026Checked heating operation
+408)                                              Blower amps 8.9
+Aaon M:RN-060-4-0-EB09-2E2                    Blower 2 amps 8.91
+S:201511-BNGX48259                            Ventor amps 0.89
+                                                   Ventor 2 amps 0.89
+                                                   Ventor 3 amps 0.88
+                                                    Ventor 4 amps0.9
+                                                    Gas pressure good
+                                                   Checked electrical connections and they are good.
+                                                   Check Flame sensors and all reading within spec good
+RIN63-Packaging- Line 7              01/21/2026Checked heating operation
+Carrier M:48PMNC28DD11B3                     Blower amps 9
+==================================<Page 3 - END>================================
+==================================<Page 4 - START>================================
+Unit                                    Create
+                                                   Note
+                                          Date
+S:1611G10019
+                                                   Ventor amps 0.24
+                                                   Gas pressure good
+                                                   Checked electrical connections and they are good.
+                                                   Check Flame sensor and its good
+RIN123-Packaging- Line 1
+                                       01/21/2026sUnit off waiting for controls upgrade.
+Aaon M:RN-015-4-0-EA09-2G2
+S:201510-ANGL48211
+Materials
+Item
+                                                                        Unit Cost          Quantity              Total
+Preventative Maintenance Installment- Frito Lay
+                                                                         7,381.36                  1          $7,381.36
+                                                                                           Sub Total         $7,381.36
+                                                                                          Total Pre-Tax      $7,381.36
+                                                                                          HST(13%)           $959.58
+                                                                                          Total Invoice:     $8,340.94
+Signatures
+                I authorize the work has been completed as outlined in the work order.
+                                             01/26/2026
+                        Customer Signature        Date
+                                            We appreciate your business.
+  Payment term 30 days. A late fee of 2% per month will be applied to any unpaid balance after 30 days from the
+                                                     invoice date.
+                                               HST# 79628 9262 RT0001
+==================================<Page 4 - END>================================
+==================================<Page 5 - START>================================
+         From: General Refrigeration <jbanks@general-refrigeration.ca>
+          Sent: Fri, 06 Feb 2026 15:43:08 (UTC)
+         To: PBNACAMBRIDGEAVANTISAP@pepsico.com, FLCInvoiceSubmission@pepsico.com,
+          Eden.Sneath@pepsico.com
+          Subject: Invoice for Work Completed
+          WARNING: Email originated outside of PepsiCo.
+                                                                  HEATING
+       GeneralREFRIGERATION
+         170 Vondrau Drive, Unit 5
+         Cambridge, Ontario, N3E 1B8
+         Please find invoice #16429-1 attached.
+         If there are any concerns with this invoice please contact our office immediately.
+         Thank you for your business and have a great day,
+         Janice Banks
+         Office Manager
+        Office: 519-742-7464
+        Email: jbanks@general-refrigeration.ca
+        General Refrigeration
+                                                                                                         Powered By:
+==================================<Page 5 - END>================================

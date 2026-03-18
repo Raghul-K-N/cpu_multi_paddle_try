@@ -1,0 +1,89 @@
+{
+  "invoice_data": {
+    "invoice_number": "459316832001",
+    "invoice_date": "Thursday 12 Feb 2026 12:00 PM GMT-05:00",
+    "invoice_amount": "60.81",
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": "5.20",
+    "po_number": [
+      "M413552638"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "ODP BUSINESS SOLUTIONS, LLC",
+    "vendor_address": "ODP BUSINESS SOLUTIONS, LLC, 6600 North Military Trail, Boca Raton, FL 33496, US, 4236 SW KIRKLAWN AVE, TOPEKA, KS 666091257, United States",
+    "po_line_items": [
+      {
+        "description": "1451854 / THERMAL POUCH 8.9X11.4 200PK",
+        "quantity": 1.0,
+        "net_price": 24.29
+      },
+      {
+        "description": "295825 / PEN,ZEBRA,Z-GRIP,RT,24PK,BLK",
+        "quantity": 2.0,
+        "net_price": 5.11
+      },
+      {
+        "description": "852154 / PEN,BP,RT,Z-GRIP,BLUE,24PK",
+        "quantity": 2.0,
+        "net_price": 5.12
+      },
+      {
+        "description": "810929 / FOLDER,HNG,LTR,1/3CUT,25BX,GRN",
+        "quantity": 2.0,
+        "net_price": 5.43
+      }
+    ],
+    "vat_amount": null,
+    "gl_account": null,
+    "bank_name": null,
+    "account_holder_name": null,
+    "banking_account_number": null,
+    "remit_to_address": null,
+    "bill_to_address": null,
+    "transaction_type": "debit"
+  },
+  "filename": "SAPS4_5100214024_US28_PFNAUS_2026_999930770.pdf",
+  "raw_response": {
+    "invoice_number": "459316832001",
+    "invoice_date": "Thursday 12 Feb 2026 12:00 PM GMT-05:00",
+    "invoice_amount": "60.81",
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": "5.20",
+    "po_number": [
+      "M413552638"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "ODP BUSINESS SOLUTIONS, LLC",
+    "vendor_address": "ODP BUSINESS SOLUTIONS, LLC, 6600 North Military Trail, Boca Raton, FL 33496, US, 4236 SW KIRKLAWN AVE, TOPEKA, KS 666091257, United States",
+    "po_line_items": [
+      {
+        "description": "1451854 / THERMAL POUCH 8.9X11.4 200PK",
+        "quantity": 1.0,
+        "net_price": 24.29
+      },
+      {
+        "description": "295825 / PEN,ZEBRA,Z-GRIP,RT,24PK,BLK",
+        "quantity": 2.0,
+        "net_price": 5.11
+      },
+      {
+        "description": "852154 / PEN,BP,RT,Z-GRIP,BLUE,24PK",
+        "quantity": 2.0,
+        "net_price": 5.12
+      },
+      {
+        "description": "810929 / FOLDER,HNG,LTR,1/3CUT,25BX,GRN",
+        "quantity": 2.0,
+        "net_price": 5.43
+      }
+    ]
+  }
+}

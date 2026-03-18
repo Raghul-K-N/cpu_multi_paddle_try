@@ -1,0 +1,59 @@
+{
+  "invoice_data": {
+    "invoice_number": "XA039572201",
+    "invoice_date": "2/9/2026",
+    "invoice_amount": "590.36",
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": null,
+    "po_number": [
+      "23572043"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "Bruckner's Truck & Equipment",
+    "vendor_address": "Bruckner's Truck & Equipment - Dallas Irving Blvd, 3611 Irving Blvd, Dallas, TX 75247",
+    "po_line_items": [
+      {
+        "description": "HEADLAMP",
+        "quantity": null,
+        "net_price": 545.37
+      }
+    ],
+    "vat_amount": null,
+    "gl_account": null,
+    "bank_name": null,
+    "account_holder_name": null,
+    "banking_account_number": null,
+    "remit_to_address": null,
+    "bill_to_address": null,
+    "transaction_type": "debit"
+  },
+  "filename": "SAPS4_5100196017_US30_PFNAUS_2026_999936506.pdf",
+  "raw_response": {
+    "invoice_number": "XA039572201",
+    "invoice_date": "2/9/2026",
+    "invoice_amount": "590.36",
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": null,
+    "po_number": [
+      "23572043"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "Bruckner's Truck & Equipment",
+    "vendor_address": "Bruckner's Truck & Equipment - Dallas Irving Blvd, 3611 Irving Blvd, Dallas, TX 75247",
+    "po_line_items": [
+      {
+        "description": "HEADLAMP",
+        "quantity": null,
+        "net_price": 545.37
+      }
+    ]
+  }
+}

@@ -1,0 +1,119 @@
+{
+  "invoice_data": {
+    "invoice_number": "DALN63121",
+    "invoice_date": "02/05/2026",
+    "invoice_amount": null,
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": "5.93",
+    "po_number": [
+      "M413096458"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "Mckinney Trailer Rentals",
+    "vendor_address": "2601 Saturn St. Suite 110, Brea, CA 92821, United States",
+    "po_line_items": [
+      {
+        "description": "Service Call to 227 S Starr Lane, Peoria, IL to complete FMCSA and check brakes on trailer 547416. Requested by Sherwin Kamyab",
+        "quantity": 3.0,
+        "net_price": 105.0
+      },
+      {
+        "description": "Replace Slider Hose Spring",
+        "quantity": 0.5,
+        "net_price": 105.0
+      },
+      {
+        "description": "Miscellaneous Shop Supplies",
+        "quantity": 1.0,
+        "net_price": 15.75
+      },
+      {
+        "description": "Replace Tire ROR",
+        "quantity": 1.0,
+        "net_price": 105.0
+      },
+      {
+        "description": "Tread Wear Charge:4 of 32nds @ $47.00",
+        "quantity": 4.0,
+        "net_price": 47.0
+      },
+      {
+        "description": "Air Line Spring Clip",
+        "quantity": 1.0,
+        "net_price": 10.78
+      },
+      {
+        "description": "Support spring",
+        "quantity": 2.0,
+        "net_price": 16.38
+      }
+    ],
+    "vat_amount": null,
+    "gl_account": null,
+    "bank_name": null,
+    "account_holder_name": null,
+    "banking_account_number": null,
+    "remit_to_address": null,
+    "bill_to_address": null,
+    "transaction_type": "debit"
+  },
+  "filename": "SAPS4_5100158004_US30_PFNAUS_2026_999872802.pdf",
+  "raw_response": {
+    "invoice_number": "DALN63121",
+    "invoice_date": "02/05/2026",
+    "invoice_amount": "../../../../725.72",
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": "5.93",
+    "po_number": [
+      "M413096458"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "Mckinney Trailer Rentals",
+    "vendor_address": "2601 Saturn St. Suite 110, Brea, CA 92821, United States",
+    "po_line_items": [
+      {
+        "description": "Service Call to 227 S Starr Lane, Peoria, IL to complete FMCSA and check brakes on trailer 547416. Requested by Sherwin Kamyab",
+        "quantity": 3.0,
+        "net_price": 105.0
+      },
+      {
+        "description": "Replace Slider Hose Spring",
+        "quantity": 0.5,
+        "net_price": 105.0
+      },
+      {
+        "description": "Miscellaneous Shop Supplies",
+        "quantity": 1.0,
+        "net_price": 15.75
+      },
+      {
+        "description": "Replace Tire ROR",
+        "quantity": 1.0,
+        "net_price": 105.0
+      },
+      {
+        "description": "Tread Wear Charge:4 of 32nds @ $47.00",
+        "quantity": 4.0,
+        "net_price": 47.0
+      },
+      {
+        "description": "Air Line Spring Clip",
+        "quantity": 1.0,
+        "net_price": 10.78
+      },
+      {
+        "description": "Support spring",
+        "quantity": 2.0,
+        "net_price": 16.38
+      }
+    ]
+  }
+}

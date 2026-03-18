@@ -1,0 +1,89 @@
+{
+  "invoice_data": {
+    "invoice_number": "19032",
+    "invoice_date": "Wednesday 11 Feb 2026 2:27 PM GMT-05:00",
+    "invoice_amount": null,
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": "631.80",
+    "po_number": [
+      "M413263389"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": "495.00",
+    "cost_center": null,
+    "vendor_name": "Mathand, Inc.",
+    "vendor_address": "103 Smoke Hill Ln, Suite 130, Woodstock, GA 30188, United States, Address ID: US29",
+    "po_line_items": [
+      {
+        "description": "Material Not Available / LINE 1-MATERIALS-Hardward, parts, and accessories-LA MIRADA CA DC",
+        "quantity": 4025.0,
+        "net_price": 4025.0
+      },
+      {
+        "description": "Material Not Available / LINE 2-LABOR-LA MIRADA CA DC",
+        "quantity": 960.0,
+        "net_price": 960.0
+      },
+      {
+        "description": "Material Not Available / LINE 3-FORK LIF RENTAL-LA MIRADA CA DC",
+        "quantity": 1000.0,
+        "net_price": 1000.0
+      },
+      {
+        "description": "Material Not Available / LINE 4-FREIGHT-BRAKE DELIVERY-LA MIRADA CA DC",
+        "quantity": 495.0,
+        "net_price": 495.0
+      }
+    ],
+    "vat_amount": null,
+    "gl_account": null,
+    "bank_name": null,
+    "account_holder_name": null,
+    "banking_account_number": null,
+    "remit_to_address": null,
+    "bill_to_address": null,
+    "transaction_type": "debit"
+  },
+  "filename": "SAPS4_5100328001_US29_PFNAUS_2026_999706619.pdf",
+  "raw_response": {
+    "invoice_number": "19032",
+    "invoice_date": "Wednesday 11 Feb 2026 2:27 PM GMT-05:00",
+    "invoice_amount": "../../../../7111.80",
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": "631.80",
+    "po_number": [
+      "M413263389"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": "495.00",
+    "cost_center": null,
+    "vendor_name": "Mathand, Inc.",
+    "vendor_address": "103 Smoke Hill Ln, Suite 130, Woodstock, GA 30188, United States, Address ID: US29",
+    "po_line_items": [
+      {
+        "description": "Material Not Available / LINE 1-MATERIALS-Hardward, parts, and accessories-LA MIRADA CA DC",
+        "quantity": 4025.0,
+        "net_price": 4025.0
+      },
+      {
+        "description": "Material Not Available / LINE 2-LABOR-LA MIRADA CA DC",
+        "quantity": 960.0,
+        "net_price": 960.0
+      },
+      {
+        "description": "Material Not Available / LINE 3-FORK LIF RENTAL-LA MIRADA CA DC",
+        "quantity": 1000.0,
+        "net_price": 1000.0
+      },
+      {
+        "description": "Material Not Available / LINE 4-FREIGHT-BRAKE DELIVERY-LA MIRADA CA DC",
+        "quantity": 495.0,
+        "net_price": 495.0
+      }
+    ]
+  }
+}

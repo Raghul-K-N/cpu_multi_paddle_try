@@ -1,0 +1,59 @@
+{
+  "invoice_data": {
+    "invoice_number": "08819",
+    "invoice_date": "12-15-2025",
+    "invoice_amount": "2780.00",
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": null,
+    "po_number": [
+      "4504468021"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "TASK ELECTRIC, LLC",
+    "vendor_address": "P.O. BOX 19178, JONESBORO, AR 72403",
+    "po_line_items": [
+      {
+        "description": "Conduit And Fitting Repair On TC3 At Frito-Lay In Jonesboro, AR.",
+        "quantity": 1.0,
+        "net_price": 2780.0
+      }
+    ],
+    "vat_amount": null,
+    "gl_account": null,
+    "bank_name": null,
+    "account_holder_name": null,
+    "banking_account_number": null,
+    "remit_to_address": null,
+    "bill_to_address": null,
+    "transaction_type": "debit"
+  },
+  "filename": "SAPS4_5100422509_US28_PFNAUS_2026_999884370.pdf",
+  "raw_response": {
+    "invoice_number": "08819",
+    "invoice_date": "12-15-2025",
+    "invoice_amount": "2780.00",
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": null,
+    "po_number": [
+      "4504468021"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "TASK ELECTRIC, LLC",
+    "vendor_address": "P.O. BOX 19178, JONESBORO, AR 72403",
+    "po_line_items": [
+      {
+        "description": "Conduit And Fitting Repair On TC3 At Frito-Lay In Jonesboro, AR.",
+        "quantity": 1.0,
+        "net_price": 2780.0
+      }
+    ]
+  }
+}

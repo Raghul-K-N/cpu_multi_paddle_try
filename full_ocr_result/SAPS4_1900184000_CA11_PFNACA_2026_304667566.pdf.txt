@@ -1,0 +1,233 @@
+==================================<Page 1 - START>================================
+    OpenText Workflow History
+    Vendor
+    NULOGX
+    6733 MISSISSAUGA RD
+    MISSISSAUGA ONL5N 6J5
+    CANADA
+    Invoice
+    Reference
+                       PFC 202606
+                                                                Document Date    06.02.2026
+    DP Document No.  39426437
+                                                                Net Amount
+                                                                                  CAD         1,761.05
+    Comp. Code
+                      CA11 PepsiCo Canada ULC (FLC)            Tax Amount
+                                                                                  CAD             228.94
+    Posting Date     13.02.2026
+                                                                Gross Amount
+                                                                                  CAD         1,989.99
+    SAP Document No. 1900184000 2026
+                                            Pre-Process History
+    ACTIVITY
+                                                           USER       END TIME         DOCUMENT STATUS
+    Update status
+                                                           VRBLAOT_U  09.02.2026       Validation
+                                                           SR         17:22:09
+                                                                                         Complete
+                                       Document Process History
+   ACTIVITY
+                      PROCESS TYPE/BLOCK REASON          USER
+                                                                       END TIME          DOCUMENT STATUS
+   BC Inbound                                            VRBLAOT_U  09.02.2026
+                                                                                         Document
+                                                          SR          17:22:09          Registered
+  Workflow Start    Approval Required (NPo)
+                                                          Record to  09.02.2026        Indexed
+                                                          Report      17:44:40
+                                                          Batch
+                                                          Account
+                                                          Owner:
+    Invoice submitted for Approval                                   09.02.2026 17:44:43
+   Approval Terminated                                  GOMATHI     09.02.2026 18:58:07
+                                                          SAGADHEVA
+                                                          N
+Approval
+                     Approval Required (NPO)             SAP_WFRT    09.02.2026       Approval
+Workflow                                                            18:58:12
+                                                                                         Recalled
+Apply Business    Approval Required (NPO)             GOMATHI     09.02.2026        Approval
+Rules                                                   SAGADHEVA  19:02:49          Recalled
+                                                          N
+Business Rules    Approval Required (NPO)             SAP_WFRT   09.02.2026        Indexed
+Check in BG                                                         19:02:57
+                                                                      09.02.2026 19:03:00
+  Invoice submitted for Approval
+  Financial Information Entered                       LILI        09.02.2026 19:04:10
+                                                          FERNANDEZ
+                                                          LILI        09.02.2026 19:04:24
+  Data Entered and Invoice Approved
+                                                          FERNANDEZ
+   Comment:
+   Please approve invoice
+==================================<Page 1 - END>================================
+==================================<Page 2 - START>================================
+  OpenText Workflow History
+ Invoice
+ Vendor            NULOGX MISSISSAUGA
+  Reference        PFC 202606                          Gross Amount     CAD       1,989.99
+                               Document Process History - Continuation
+   ACTIVITY          PROCESS TYPE/BLOCK REASON           USER        END TIME          DOCUMENT STATUS
+     Comment entered                                     HUGH        09.02.2026 19:29:15
+                                                           THARBY
+     Comment:
+     Approved
+     Invoice Approved                                    HUGH        09.02.2026 19:29:17
+                                                           THARBY
+                                                           SAP_WFRT    09.02.2026        Approval
+   Approval          Approval Required (NPo)
+   Workflow                                                            19:29:22          Complete
+  Business Rules   Process Non-PO Invoice (NPO)        SAP_WFRT    09.02.2026        Approval
+  Check in BG                                                                           Complete
+                                                                        19:29:24
+  Create Doc. BG   Process Non-PO Invoice (NPO)        SAP_WFRT    09.02.2026        Sent for Doc
+                                                                        19:29:25          Creation
+                                                                                           Document
+  Post Non-PO      Process Non-PO Invoice (NPo)       VIGNESH    13.02.2026
+  Invoice                                                RENGARAJ   14:18:28          Created
+  SAP Document                                           SAP_WFRT   13.02.2026        Posted
+  Check                                                               14:18:37
+==================================<Page 2 - END>================================
+==================================<Page 3 - START>================================
+         PEPSICO
+Fillin the Description field below with the payment type - for example: Donation / Taxes / Legal / etc.
+Print Entire Workbook as ONE single PDF file prior to submission.
+                                        Non-PO Invoice
+                                   SAP Payment Request
+                                  Substitute Invoice Form
+Vendor Name:                      NULOGX
+Vendor Number:                    2003195060
+Company Code:                    CA11
+Remit To Address :                NULOGX
+(Must match the address in the AP system)   6733 MISSISSAUGA ROAD
+                                          MISSISSAUGA, ON L5N 6J5
+Transaction type:                  Invoice
+                                          *choose only 1 option - Invoice or Credit Memo from the dropdown
+Invoice Date:                        02/06/26
+Invoice #:                            PFC202606
+                                          *Limited to 16 characters
+Purchase Order #
+(not required if non-PO)                  (not required if non-PO)
+Payment GROSS Amount:      $1,989.99
+Tax Amount (if applicable):                 $228.94
+                                          $1,761.05
+Payment NET Amount:
+Currency                            CAD
+Header Text:
+                                          Lili Fernandez
+Requestor Name:
+Requestor email                   Lili.Fernandez@pepsico.com
+Date Requested:                   2/9/2026
+                                         Nulogx Service Fees
+Description:
+Cost Center (optional - use Tab 2 if multiple):     2509303401
+GL Account (REQUIRED - use Tab 2 if multiple):    666700
+WBS Element (optional - use Tab 2 if multiple):
+==================================<Page 3 - END>================================
+==================================<Page 4 - START>================================
+nulogx
+Transportatlon ManagementSolutions
+                                                     INVOICE
+ TO:PEPSI FRITO LAY GROUP
+                                                                         INVOICE DATE       February 06, 2026
+       1185 FRANKLIN BLVD
+                                                                         INVOICE NUMBER    PFC   202606
+       CAMBRIDGE, ON N1Y 7I5
+                                                                         TERMS:               NET 30 DAYS
+      Attention:
+                    Lili Fernandez
+TO INVOICE PRE-AUDIT SERVICES, MANUAL BILL OF LADING ENTRY, AND PROCESSING OF FREIGHT
+INVOICES FOR PERIOD OF : Janua1y 31, 2026 - Februaty 06, 2026 , AS PER ATTACHED SUMMARY
+SERVICE                                      BILLS PROCESSED
+                                                                                                      TOTAL
+EDI Invoices Carrier                                      538                                      $295.90
+Pay As Rated                                                0                                        $0.00
+Manual Invoice Entry                                     240                                      $336.00
+Total Invoices                                            778            778
+                                                                                                      $631.90
+Audited EDI & Paper Invoices                               0                                        $0.00
+Download Review Fee                                       5  Downloads @ $150.00                 $750.00
+Account Management Fee                                    1  weeks @ $250.00                    $250.00
+Pavment Services                                           21  CAD EFT Pmts @ $5.00               $105.00
+                                                               0  USD Chq Pmts @ $5.00                $0.00
+Delivery Status - Completed Records                         0  shipments @ $0.25/shpt                 $0.00
+Administration Fees                                          0  hours @ $75.00/hour
+                                                                                                        $0.00
+Programming Fees/Studies/Reports                           0  hours @ $150.00/hour
+                                                                                                        $0.00
+Interactuve Dashboards - Monthly Fee                                                                $0.00
+                                                                                                        $0.00
+Financial Accrual Preparation and Reporting
+                                                                                                        $0.00
+Invoice Scanning Services                                    0
+                                                             161@ $0.15/PDF (Invoice)                   24.15
+PDF Image Fee
+                                                                                                    $1,761.05
+                                                   SUB TOTAL
+                                                   H.S.T. 13%                                        $228.94
+                                                   TOTAL INVOICE                              $1,989.99
+GST NO. R131161374
+                                                                 NTARIO L5N 6.J5 OFFICE (905) 542-0918
+==================================<Page 4 - END>================================
+==================================<Page 5 - START>================================
+                                                                                                                                                 Page
+   Report: I02
+                                                                          Nulogx Inc.
+                                                                                                                                            Date: 02/09/2026
+                                                                     Invoicing Report
+  Client:
+            FRITO LAY PGT CADS
+            CAMBRIDGE, ON
+                                                 Invoice Entry                                                                       %%%
+                                                                                                            Audit
+                Batch        Pay As Rated              EDI          Manual                            Paper              EDI                      Total
+                                                                    Invoices
+                                                                                                                                                         778
+               202606                                 538             240                                o                       0.00%
+                                                                        240                                                  0     0.00%            778
+                                                       538
+                                 @$0.25           @$0.55         @$1.40                           @$2.00          @$2.00
+                                   $0.00           $295.90          $336.00                             $0.00            $0.00
+                                                                Total Invoices:                     778
+                                                                Total Cost:                     $631.90
+                                                                Average $ per Invoice:             $0.81
+==================================<Page 5 - END>================================
+==================================<Page 6 - START>================================
+nt Client Key:1435
+                                                                                                           Total PDFs : 161
+              From
+                                                                                    202,606.00 To             202,606.00
+Client_ Key Company Name                                                                                              Number of PDFs
+                                      carrier name                                           Carrier        Batch
+34        FRITO LAY PGT CAD$ CAT INC                                                CANAA       202606                        56
+34         FRITO LAY PGT CAD$ ALL ROUTES LOGISTICS INC                          ARLI          202606                        30
+4                                                                                                                                            28
+            FRITO LAY PGT CAD$ POWERLINE LOGISTICS SERVICES (C/O JD FACTORS) POWL        202606
+4         FRITO LAY PGT CAD$ FMI LOGISTICS                                         FMIL          202606                        10
+4         FRITO LAY PGT CAD$ PAUL BRANDT TRUCKING                             PAUB         202606                        9
+4         FRITO LAY PGT CAD$ GREENWAY CARRIERS                                GREEC        202606                        9
+4                                                                                                             202606                        7
+           FRITO LAY PGT CAD$ CP RAIL (REMIT WINNIPEG)                           CPLV
+4         FRITO LAY PGT CAD$ GILMYR TRANSPORT                                  GILM         202606                        6
+4
+           FRITO LAY PGT CAD$ BERRY & SMITH TRUCKING LTD.                      BERS          202606                        2
+4                                                                                                                                              2
+           FRITO LAY PGT CAD$ GUILBAULT TRANSPORT INC                          GUIL          202606
+4         FRITO LAY PGT CAD$ SUN TRANSPORTATION SYSTEMS                     SUTN          202606                         1
+4         FRITO LAY PGT CAD$ FRC TRANSPORT LTD                                  FRCE          202606                         1
+                                                                                                                                                  1
+==================================<Page 6 - END>================================
+==================================<Page 7 - START>================================
+           From: "Fernandez, Lili {PEP}"<Lili.Fernandez@pepsico.com>
+           Sent: Mon, 9 Feb 2026 17:17:46 (UTC)
+           To: FLCInvoiceSubmission@pepsico.com
+           Subject: PFC202606 Nulogx Services
+          Lili M. Fernandez
+          Transportation Leader
+          PepsiCo
+          Mississauga, On.
+          pepsico.com
+                 pepsico
+                  Food. Drinks. Smiles.
+==================================<Page 7 - END>================================

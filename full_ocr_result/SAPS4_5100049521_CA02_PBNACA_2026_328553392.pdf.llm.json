@@ -1,0 +1,59 @@
+{
+  "invoice_data": {
+    "invoice_number": "9803461152",
+    "invoice_date": "Tuesday 10 Feb. 2026 7:10 a.m, GMT-05:00",
+    "invoice_amount": "3312.48",
+    "invoice_currency": [
+      "CAD"
+    ],
+    "tax_amount": "431.43",
+    "po_number": [
+      "M413548425"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "ACKLANDS-GRAINGER INC.",
+    "vendor_address": "PO BOX 2970, WINNIPEG, MB R3C 4B5, CA; GRP CANADA, H4R 1T8, Canada",
+    "po_line_items": [
+      {
+        "description": "MMM3750P2X6CLR / BANDES DE RUBAN 2INX6IN",
+        "quantity": 5.0,
+        "net_price": 576.21
+      }
+    ],
+    "vat_amount": null,
+    "gl_account": null,
+    "bank_name": null,
+    "account_holder_name": null,
+    "banking_account_number": null,
+    "remit_to_address": null,
+    "bill_to_address": null,
+    "transaction_type": "debit"
+  },
+  "filename": "SAPS4_5100049521_CA02_PBNACA_2026_328553392.pdf",
+  "raw_response": {
+    "invoice_number": "9803461152",
+    "invoice_date": "Tuesday 10 Feb. 2026 7:10 a.m, GMT-05:00",
+    "invoice_amount": "3312.48",
+    "invoice_currency": [
+      "CAD"
+    ],
+    "tax_amount": "431.43",
+    "po_number": [
+      "M413548425"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "ACKLANDS-GRAINGER INC.",
+    "vendor_address": "PO BOX 2970, WINNIPEG, MB R3C 4B5, CA; GRP CANADA, H4R 1T8, Canada",
+    "po_line_items": [
+      {
+        "description": "MMM3750P2X6CLR / BANDES DE RUBAN 2INX6IN",
+        "quantity": 5.0,
+        "net_price": 576.21
+      }
+    ]
+  }
+}

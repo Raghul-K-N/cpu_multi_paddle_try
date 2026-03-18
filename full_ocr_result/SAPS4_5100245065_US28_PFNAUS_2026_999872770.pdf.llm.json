@@ -1,0 +1,79 @@
+{
+  "invoice_data": {
+    "invoice_number": "980513982226",
+    "invoice_date": "Thursday 12 Feb 2026 5:29 AM GMT-07:00",
+    "invoice_amount": null,
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": null,
+    "po_number": [
+      "M413553892"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "Grainger",
+    "vendor_address": "100 Grainger Pkwy, Lake Forest, IL, United States\nWinst, United States\n27105, United States",
+    "po_line_items": [
+      {
+        "description": "22TV13 / SHCS,SS.1/4-20,3/4in L,PK100",
+        "quantity": 1.0,
+        "net_price": 21.34
+      },
+      {
+        "description": "22TV16 / SHCS.SS,1/4-20.1 1/4in L,PK100",
+        "quantity": 1.0,
+        "net_price": 21.01
+      },
+      {
+        "description": "1WY55 / LkNt,316,SStl,1/4-20,7/16x5/16in,50PK",
+        "quantity": 4.0,
+        "net_price": 5.89
+      }
+    ],
+    "vat_amount": null,
+    "gl_account": null,
+    "bank_name": null,
+    "account_holder_name": null,
+    "banking_account_number": null,
+    "remit_to_address": null,
+    "bill_to_address": null,
+    "transaction_type": "debit"
+  },
+  "filename": "SAPS4_5100245065_US28_PFNAUS_2026_999872770.pdf",
+  "raw_response": {
+    "invoice_number": "980513982226",
+    "invoice_date": "Thursday 12 Feb 2026 5:29 AM GMT-07:00",
+    "invoice_amount": "../../../../70.52",
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": null,
+    "po_number": [
+      "M413553892"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "Grainger",
+    "vendor_address": "100 Grainger Pkwy, Lake Forest, IL, United States\nWinst, United States\n27105, United States",
+    "po_line_items": [
+      {
+        "description": "22TV13 / SHCS,SS.1/4-20,3/4in L,PK100",
+        "quantity": 1.0,
+        "net_price": 21.34
+      },
+      {
+        "description": "22TV16 / SHCS.SS,1/4-20.1 1/4in L,PK100",
+        "quantity": 1.0,
+        "net_price": 21.01
+      },
+      {
+        "description": "1WY55 / LkNt,316,SStl,1/4-20,7/16x5/16in,50PK",
+        "quantity": 4.0,
+        "net_price": 5.89
+      }
+    ]
+  }
+}

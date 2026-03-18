@@ -1,0 +1,59 @@
+{
+  "invoice_data": {
+    "invoice_number": "6112307",
+    "invoice_date": "11 Feb 2026",
+    "invoice_amount": "4.16",
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": "0.00",
+    "po_number": [
+      "M413491363"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "SPRAGUE",
+    "vendor_address": "SPRAGUE PEST SOLUTIONS, PO Box 35129 -REMITTANCE, 2725 Pacific Ave, Seattle, WA 98124-5129, United States",
+    "po_line_items": [
+      {
+        "description": "RODENT EXTERIOR SERVICE",
+        "quantity": 2.0,
+        "net_price": 4.16
+      }
+    ],
+    "vat_amount": null,
+    "gl_account": null,
+    "bank_name": null,
+    "account_holder_name": null,
+    "banking_account_number": null,
+    "remit_to_address": null,
+    "bill_to_address": null,
+    "transaction_type": "debit"
+  },
+  "filename": "SAPS4_5100003558_US29_PFNAUS_2026_999930858.pdf",
+  "raw_response": {
+    "invoice_number": "6112307",
+    "invoice_date": "11 Feb 2026",
+    "invoice_amount": "4.16",
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": "0.00",
+    "po_number": [
+      "M413491363"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "SPRAGUE",
+    "vendor_address": "SPRAGUE PEST SOLUTIONS, PO Box 35129 -REMITTANCE, 2725 Pacific Ave, Seattle, WA 98124-5129, United States",
+    "po_line_items": [
+      {
+        "description": "RODENT EXTERIOR SERVICE",
+        "quantity": 2.0,
+        "net_price": 4.16
+      }
+    ]
+  }
+}

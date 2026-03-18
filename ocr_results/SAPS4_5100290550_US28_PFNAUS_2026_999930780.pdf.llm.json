@@ -1,0 +1,59 @@
+{
+  "invoice_data": {
+    "invoice_number": "PSI-001135126",
+    "invoice_date": "Friday 13 Feb 2026 2:21 PM GMT-06:00",
+    "invoice_amount": null,
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": null,
+    "po_number": [
+      "M412916055"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "Shoppa's Material Handling LTD",
+    "vendor_address": "c/o PEPSICO NASS, P.O. BOX 612027, Dallas, TX 75261-2027, United States; Address ID: US28; Phone: 3524477",
+    "po_line_items": [
+      {
+        "description": "5000 LB PNEUMATIC TIRE",
+        "quantity": 1.0,
+        "net_price": 1410.0
+      }
+    ],
+    "vat_amount": null,
+    "gl_account": null,
+    "bank_name": null,
+    "account_holder_name": null,
+    "banking_account_number": null,
+    "remit_to_address": null,
+    "bill_to_address": null,
+    "transaction_type": "debit"
+  },
+  "filename": "SAPS4_5100290550_US28_PFNAUS_2026_999930780.pdf",
+  "raw_response": {
+    "invoice_number": "PSI-001135126",
+    "invoice_date": "Friday 13 Feb 2026 2:21 PM GMT-06:00",
+    "invoice_amount": null,
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": null,
+    "po_number": [
+      "M412916055"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "Shoppa's Material Handling LTD",
+    "vendor_address": "c/o PEPSICO NASS, P.O. BOX 612027, Dallas, TX 75261-2027, United States; Address ID: US28; Phone: 3524477",
+    "po_line_items": [
+      {
+        "description": "5000 LB PNEUMATIC TIRE",
+        "quantity": 1.0,
+        "net_price": 1410.0
+      }
+    ]
+  }
+}

@@ -1,0 +1,99 @@
+{
+  "invoice_data": {
+    "invoice_number": "130518930",
+    "invoice_date": "11/25/25",
+    "invoice_amount": null,
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": null,
+    "po_number": [
+      "23523882"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "FleetPride",
+    "vendor_address": "P.O. BOX 847118, DALLAS TX 75284-7118",
+    "po_line_items": [
+      {
+        "description": "FILTER, FUEL SPIN ON",
+        "quantity": 21.15,
+        "net_price": 63.45
+      },
+      {
+        "description": "RAIN-X WEATHERBEATER WIPER 22\"",
+        "quantity": 10.48,
+        "net_price": 5.24
+      },
+      {
+        "description": "FLUID RESERVOIR",
+        "quantity": 309.26,
+        "net_price": 154.63
+      },
+      {
+        "description": "GASKET MANIFOLD",
+        "quantity": 130.02,
+        "net_price": 8.32
+      },
+      {
+        "description": "CYCLONE DR TRAILER WATER SPERATOR",
+        "quantity": 46.61,
+        "net_price": 130.02
+      }
+    ],
+    "vat_amount": null,
+    "gl_account": null,
+    "bank_name": null,
+    "account_holder_name": null,
+    "banking_account_number": null,
+    "remit_to_address": null,
+    "bill_to_address": null,
+    "transaction_type": "debit"
+  },
+  "filename": "SAPS4_5100110506_US30_PFNAUS_2026_999936175.pdf",
+  "raw_response": {
+    "invoice_number": "130518930",
+    "invoice_date": "11/25/25",
+    "invoice_amount": null,
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": null,
+    "po_number": [
+      "23523882"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "FleetPride",
+    "vendor_address": "P.O. BOX 847118, DALLAS TX 75284-7118",
+    "po_line_items": [
+      {
+        "description": "FILTER, FUEL SPIN ON",
+        "quantity": 21.15,
+        "net_price": 63.45
+      },
+      {
+        "description": "RAIN-X WEATHERBEATER WIPER 22\"",
+        "quantity": 10.48,
+        "net_price": 5.24
+      },
+      {
+        "description": "FLUID RESERVOIR",
+        "quantity": 309.26,
+        "net_price": 154.63
+      },
+      {
+        "description": "GASKET MANIFOLD",
+        "quantity": 130.02,
+        "net_price": 8.32
+      },
+      {
+        "description": "CYCLONE DR TRAILER WATER SPERATOR",
+        "quantity": 46.61,
+        "net_price": 130.02
+      }
+    ]
+  }
+}

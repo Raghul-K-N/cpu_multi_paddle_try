@@ -1,0 +1,59 @@
+{
+  "invoice_data": {
+    "invoice_number": "1032289",
+    "invoice_date": "Monday 9 Feb. 2026 12:00 p.m. GMT-07:00",
+    "invoice_amount": "3846.53",
+    "invoice_currency": [
+      "CAD"
+    ],
+    "tax_amount": "183.17",
+    "po_number": [
+      "M413552130"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "Bunzl Industrial",
+    "vendor_address": "2270 Portland St. SE, Calgary, AB T2G 4M6, Canada",
+    "po_line_items": [
+      {
+        "description": "Material Not Available / BUNZL ORDER 1713915 PRECISIONWRAP",
+        "quantity": 3663.36,
+        "net_price": 1.0
+      }
+    ],
+    "vat_amount": null,
+    "gl_account": null,
+    "bank_name": null,
+    "account_holder_name": null,
+    "banking_account_number": null,
+    "remit_to_address": null,
+    "bill_to_address": null,
+    "transaction_type": "debit"
+  },
+  "filename": "SAPS4_5101069011_CA02_PBNACA_2026_328553388.pdf",
+  "raw_response": {
+    "invoice_number": "1032289",
+    "invoice_date": "Monday 9 Feb. 2026 12:00 p.m. GMT-07:00",
+    "invoice_amount": "3846.53",
+    "invoice_currency": [
+      "CAD"
+    ],
+    "tax_amount": "183.17",
+    "po_number": [
+      "M413552130"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "Bunzl Industrial",
+    "vendor_address": "2270 Portland St. SE, Calgary, AB T2G 4M6, Canada",
+    "po_line_items": [
+      {
+        "description": "Material Not Available / BUNZL ORDER 1713915 PRECISIONWRAP",
+        "quantity": 3663.36,
+        "net_price": 1.0
+      }
+    ]
+  }
+}

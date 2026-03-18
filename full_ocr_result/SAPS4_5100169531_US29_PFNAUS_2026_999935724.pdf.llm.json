@@ -1,0 +1,65 @@
+{
+  "invoice_data": {
+    "invoice_number": null,
+    "invoice_date": "2/10/26",
+    "invoice_amount": null,
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": null,
+    "po_number": null,
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "Regalado General Contractor LLC",
+    "vendor_address": "M413474695, NORTH AMERICA, BROOKLYN, 222 Morgan Ave., Brooklyn, NY 11237",
+    "po_line_items": [
+      {
+        "description": "Install 3 rooms new laminate floor",
+        "quantity": null,
+        "net_price": null
+      },
+      {
+        "description": "Clean office walls",
+        "quantity": null,
+        "net_price": null
+      }
+    ],
+    "vat_amount": null,
+    "gl_account": null,
+    "bank_name": null,
+    "account_holder_name": null,
+    "banking_account_number": null,
+    "remit_to_address": null,
+    "bill_to_address": null,
+    "transaction_type": "debit"
+  },
+  "filename": "SAPS4_5100169531_US29_PFNAUS_2026_999935724.pdf",
+  "raw_response": {
+    "invoice_number": null,
+    "invoice_date": "2/10/26",
+    "invoice_amount": null,
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": null,
+    "po_number": null,
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "Regalado General Contractor LLC",
+    "vendor_address": "M413474695, NORTH AMERICA, BROOKLYN, 222 Morgan Ave., Brooklyn, NY 11237",
+    "po_line_items": [
+      {
+        "description": "Install 3 rooms new laminate floor",
+        "quantity": null,
+        "net_price": null
+      },
+      {
+        "description": "Clean office walls",
+        "quantity": null,
+        "net_price": null
+      }
+    ]
+  }
+}

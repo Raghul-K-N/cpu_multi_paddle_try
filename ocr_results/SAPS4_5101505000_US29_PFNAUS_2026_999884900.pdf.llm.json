@@ -1,0 +1,59 @@
+{
+  "invoice_data": {
+    "invoice_number": "1021452",
+    "invoice_date": "01/24/26",
+    "invoice_amount": null,
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": "5.94",
+    "po_number": [
+      "4502226486"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "CAPE COD TRAILER STORAGE",
+    "vendor_address": "10 Attucks Lane, Hyannis, MA 02601",
+    "po_line_items": [
+      {
+        "description": "20' Standard Container, Rental, C020K107, 01/21/26 - 02/17/26",
+        "quantity": null,
+        "net_price": 95.0
+      }
+    ],
+    "vat_amount": null,
+    "gl_account": null,
+    "bank_name": null,
+    "account_holder_name": null,
+    "banking_account_number": null,
+    "remit_to_address": null,
+    "bill_to_address": null,
+    "transaction_type": "debit"
+  },
+  "filename": "SAPS4_5101505000_US29_PFNAUS_2026_999884900.pdf",
+  "raw_response": {
+    "invoice_number": "1021452",
+    "invoice_date": "01/24/26",
+    "invoice_amount": null,
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": "5.94",
+    "po_number": [
+      "4502226486"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "CAPE COD TRAILER STORAGE",
+    "vendor_address": "10 Attucks Lane, Hyannis, MA 02601",
+    "po_line_items": [
+      {
+        "description": "20' Standard Container, Rental, C020K107, 01/21/26 - 02/17/26",
+        "quantity": null,
+        "net_price": 95.0
+      }
+    ]
+  }
+}

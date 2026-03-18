@@ -1,0 +1,59 @@
+{
+  "invoice_data": {
+    "invoice_number": "IN-24488216",
+    "invoice_date": "31 OCT 2025",
+    "invoice_amount": null,
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": null,
+    "po_number": [
+      "M412934104"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "ORKIN CANADA CORPORATION",
+    "vendor_address": "650 BOUL. INDUSTRIEL, LOCAL 102, BLAINVILLE, QC J7C 5Y7, CANADA",
+    "po_line_items": [
+      {
+        "description": "PC STANDARD - MONTHLY - PEST CONTROL",
+        "quantity": null,
+        "net_price": 178.74
+      }
+    ],
+    "vat_amount": null,
+    "gl_account": null,
+    "bank_name": null,
+    "account_holder_name": null,
+    "banking_account_number": null,
+    "remit_to_address": null,
+    "bill_to_address": null,
+    "transaction_type": "debit"
+  },
+  "filename": "SAPS4_5101380504_CA11_PFNACA_2026_304667677.pdf",
+  "raw_response": {
+    "invoice_number": "IN-24488216",
+    "invoice_date": "31 OCT 2025",
+    "invoice_amount": null,
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": null,
+    "po_number": [
+      "M412934104"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "ORKIN CANADA CORPORATION",
+    "vendor_address": "650 BOUL. INDUSTRIEL, LOCAL 102, BLAINVILLE, QC J7C 5Y7, CANADA",
+    "po_line_items": [
+      {
+        "description": "PC STANDARD - MONTHLY - PEST CONTROL",
+        "quantity": null,
+        "net_price": 178.74
+      }
+    ]
+  }
+}

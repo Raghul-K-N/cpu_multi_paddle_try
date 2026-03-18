@@ -1,0 +1,43 @@
+{
+  "invoice_data": {
+    "invoice_number": "INV527221",
+    "invoice_date": "02/11/2026",
+    "invoice_amount": null,
+    "invoice_currency": null,
+    "tax_amount": null,
+    "po_number": [
+      "M413549036"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "MDI",
+    "vendor_address": "3501 Broadway Street NE, Suite 100, Minneapolis MN 55413",
+    "po_line_items": null,
+    "vat_amount": null,
+    "gl_account": null,
+    "bank_name": null,
+    "account_holder_name": null,
+    "banking_account_number": null,
+    "remit_to_address": null,
+    "bill_to_address": null,
+    "transaction_type": "debit"
+  },
+  "filename": "SAPS4_5100237521_US29_PFNAUS_2026_999936344.pdf",
+  "raw_response": {
+    "invoice_number": "INV527221",
+    "invoice_date": "02/11/2026",
+    "invoice_amount": null,
+    "invoice_currency": null,
+    "tax_amount": null,
+    "po_number": [
+      "M413549036"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "MDI",
+    "vendor_address": "3501 Broadway Street NE, Suite 100, Minneapolis MN 55413",
+    "po_line_items": null
+  }
+}

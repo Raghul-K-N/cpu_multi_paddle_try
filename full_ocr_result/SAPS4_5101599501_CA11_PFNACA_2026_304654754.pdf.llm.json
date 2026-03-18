@@ -1,0 +1,59 @@
+{
+  "invoice_data": {
+    "invoice_number": "15811-1",
+    "invoice_date": "Tuesday 10 Feb. 2026 1:00 p.m. GMT-05:00",
+    "invoice_amount": "3,056.25",
+    "invoice_currency": [
+      "CAD"
+    ],
+    "tax_amount": "351.60",
+    "po_number": [
+      "M413548332"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "2796873 Ontario Inc o/a General Refrigeration",
+    "vendor_address": "2796873 Ontario Inc o/a General Refrigeration, 170 Vondrau Drive, Unit 5, CAMBRIDGE, ON N3E 1B8, Canada",
+    "po_line_items": [
+      {
+        "description": "HVAC PM service blanket PO for Aug 1 2025 to July 31 2026.",
+        "quantity": 2704.65,
+        "net_price": 1.0
+      }
+    ],
+    "vat_amount": null,
+    "gl_account": null,
+    "bank_name": null,
+    "account_holder_name": null,
+    "banking_account_number": null,
+    "remit_to_address": null,
+    "bill_to_address": null,
+    "transaction_type": "debit"
+  },
+  "filename": "SAPS4_5101599501_CA11_PFNACA_2026_304654754.pdf",
+  "raw_response": {
+    "invoice_number": "15811-1",
+    "invoice_date": "Tuesday 10 Feb. 2026 1:00 p.m. GMT-05:00",
+    "invoice_amount": "3,056.25",
+    "invoice_currency": [
+      "CAD"
+    ],
+    "tax_amount": "351.60",
+    "po_number": [
+      "M413548332"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "2796873 Ontario Inc o/a General Refrigeration",
+    "vendor_address": "2796873 Ontario Inc o/a General Refrigeration, 170 Vondrau Drive, Unit 5, CAMBRIDGE, ON N3E 1B8, Canada",
+    "po_line_items": [
+      {
+        "description": "HVAC PM service blanket PO for Aug 1 2025 to July 31 2026.",
+        "quantity": 2704.65,
+        "net_price": 1.0
+      }
+    ]
+  }
+}

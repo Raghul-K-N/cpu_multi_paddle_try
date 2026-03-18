@@ -1,0 +1,43 @@
+{
+  "invoice_data": {
+    "invoice_number": "80404",
+    "invoice_date": "26/01/2026",
+    "invoice_amount": null,
+    "invoice_currency": null,
+    "tax_amount": null,
+    "po_number": [
+      "M413457866"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "Transport Léveillé",
+    "vendor_address": "900 rue Nobel, St-Jérôme, Qe„QC",
+    "po_line_items": null,
+    "vat_amount": null,
+    "gl_account": null,
+    "bank_name": null,
+    "account_holder_name": null,
+    "banking_account_number": null,
+    "remit_to_address": null,
+    "bill_to_address": null,
+    "transaction_type": "debit"
+  },
+  "filename": "SAPS4_5100429008_CA11_PFNACA_2026_304672270.pdf",
+  "raw_response": {
+    "invoice_number": "80404",
+    "invoice_date": "26/01/2026",
+    "invoice_amount": null,
+    "invoice_currency": null,
+    "tax_amount": null,
+    "po_number": [
+      "M413457866"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "Transport Léveillé",
+    "vendor_address": "900 rue Nobel, St-Jérôme, Qe„QC",
+    "po_line_items": null
+  }
+}

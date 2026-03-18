@@ -1,0 +1,43 @@
+{
+  "invoice_data": {
+    "invoice_number": "324514",
+    "invoice_date": "08/30/25",
+    "invoice_amount": null,
+    "invoice_currency": null,
+    "tax_amount": null,
+    "po_number": [
+      "M412947258"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "Continental Fire Sprinkler Company",
+    "vendor_address": "4518 South 133rd Street, Omaha, NE 68137",
+    "po_line_items": null,
+    "vat_amount": null,
+    "gl_account": null,
+    "bank_name": null,
+    "account_holder_name": null,
+    "banking_account_number": null,
+    "remit_to_address": null,
+    "bill_to_address": null,
+    "transaction_type": "debit"
+  },
+  "filename": "SAPS4_5100062073_US29_PFNAUS_2026_999884873.pdf",
+  "raw_response": {
+    "invoice_number": "324514",
+    "invoice_date": "08/30/25",
+    "invoice_amount": null,
+    "invoice_currency": null,
+    "tax_amount": null,
+    "po_number": [
+      "M412947258"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "Continental Fire Sprinkler Company",
+    "vendor_address": "4518 South 133rd Street, Omaha, NE 68137",
+    "po_line_items": null
+  }
+}

@@ -1,0 +1,69 @@
+{
+  "invoice_data": {
+    "invoice_number": "530738",
+    "invoice_date": "11/2/2025",
+    "invoice_amount": "1,406.05",
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": "69.26",
+    "po_number": [
+      "4503999055"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": "30.39",
+    "cost_center": null,
+    "vendor_name": "NCC AUTOMATED SYSTEMS",
+    "vendor_address": "NCC Automated Systems, Inc. 255 Schoolhouse Road Souderton, PA 18964",
+    "po_line_items": [
+      {
+        "description": "TENSION IDLER SPINDLE KIT",
+        "quantity": 2.0,
+        "net_price": 710.0
+      },
+      {
+        "description": "TARIFF FEE",
+        "quantity": 2.0,
+        "net_price": 34.63
+      }
+    ],
+    "vat_amount": null,
+    "gl_account": null,
+    "bank_name": null,
+    "account_holder_name": null,
+    "banking_account_number": null,
+    "remit_to_address": null,
+    "bill_to_address": null,
+    "transaction_type": "debit"
+  },
+  "filename": "SAPS4_5100547003_US28_PFNAUS_2026_999935143.pdf",
+  "raw_response": {
+    "invoice_number": "530738",
+    "invoice_date": "11/2/2025",
+    "invoice_amount": "1,406.05",
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": "69.26",
+    "po_number": [
+      "4503999055"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": "30.39",
+    "cost_center": null,
+    "vendor_name": "NCC AUTOMATED SYSTEMS",
+    "vendor_address": "NCC Automated Systems, Inc. 255 Schoolhouse Road Souderton, PA 18964",
+    "po_line_items": [
+      {
+        "description": "TENSION IDLER SPINDLE KIT",
+        "quantity": 2.0,
+        "net_price": 710.0
+      },
+      {
+        "description": "TARIFF FEE",
+        "quantity": 2.0,
+        "net_price": 34.63
+      }
+    ]
+  }
+}

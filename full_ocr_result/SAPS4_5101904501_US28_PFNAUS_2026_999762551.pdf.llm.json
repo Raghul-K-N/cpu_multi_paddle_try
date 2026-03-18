@@ -1,0 +1,61 @@
+{
+  "invoice_data": {
+    "invoice_number": "911650",
+    "invoice_date": "1/14/25",
+    "invoice_amount": "288.53",
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": null,
+    "po_number": [
+      "4505092820",
+      "4500163399"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": "38.53",
+    "cost_center": null,
+    "vendor_name": "Douglas Machine Inc.",
+    "vendor_address": "1705 34th Ave W Alexandria, Minnesota 56308 USA",
+    "po_line_items": [
+      {
+        "description": "TBG F-W 1A-176-27 3/4 URE 150'",
+        "quantity": 12.5,
+        "net_price": 20.0
+      }
+    ],
+    "vat_amount": null,
+    "gl_account": null,
+    "bank_name": null,
+    "account_holder_name": null,
+    "banking_account_number": null,
+    "remit_to_address": null,
+    "bill_to_address": null,
+    "transaction_type": "debit"
+  },
+  "filename": "SAPS4_5101904501_US28_PFNAUS_2026_999762551.pdf",
+  "raw_response": {
+    "invoice_number": "911650",
+    "invoice_date": "1/14/25",
+    "invoice_amount": "288.53",
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": null,
+    "po_number": [
+      "4505092820",
+      "4500163399"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": "38.53",
+    "cost_center": null,
+    "vendor_name": "Douglas Machine Inc.",
+    "vendor_address": "1705 34th Ave W Alexandria, Minnesota 56308 USA",
+    "po_line_items": [
+      {
+        "description": "TBG F-W 1A-176-27 3/4 URE 150'",
+        "quantity": 12.5,
+        "net_price": 20.0
+      }
+    ]
+  }
+}

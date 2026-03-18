@@ -1,0 +1,51 @@
+{
+  "invoice_data": {
+    "invoice_number": "4884355",
+    "invoice_date": "26.06.2025",
+    "invoice_amount": "1,806.56",
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": "0.00",
+    "po_number": null,
+    "gl_account_number": [
+      "674010"
+    ],
+    "freight_and_handling_charges": "1,576.64",
+    "cost_center": [
+      "2039450600"
+    ],
+    "vendor_name": "YOUNG BROTHERS LIMITED",
+    "vendor_address": "1331 N NIMITZ HWY, HONOLULU HI 96817-4934, USA",
+    "po_line_items": null,
+    "vat_amount": null,
+    "gl_account": null,
+    "bank_name": null,
+    "account_holder_name": null,
+    "banking_account_number": null,
+    "remit_to_address": null,
+    "bill_to_address": null,
+    "transaction_type": "debit"
+  },
+  "filename": "SAPS4_1900131038_US29_PFNAUS_2026_999749374.pdf",
+  "raw_response": {
+    "invoice_number": "4884355",
+    "invoice_date": "26.06.2025",
+    "invoice_amount": "1,806.56",
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": "0.00",
+    "po_number": null,
+    "gl_account_number": [
+      "674010"
+    ],
+    "freight_and_handling_charges": "1,576.64",
+    "cost_center": [
+      "2039450600"
+    ],
+    "vendor_name": "YOUNG BROTHERS LIMITED",
+    "vendor_address": "1331 N NIMITZ HWY, HONOLULU HI 96817-4934, USA",
+    "po_line_items": null
+  }
+}

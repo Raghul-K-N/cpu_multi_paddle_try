@@ -1,0 +1,69 @@
+{
+  "invoice_data": {
+    "invoice_number": "0075001214",
+    "invoice_date": "1/26/2026",
+    "invoice_amount": "428.00",
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": null,
+    "po_number": [
+      "M413496886"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "Woodstream Corporation",
+    "vendor_address": "PO BOX 8648, LANCASTER, PA 17604-8648, (717) 740-4600, wsar@woodstream.com",
+    "po_line_items": [
+      {
+        "description": "MONTHLY MONITORING 4/MONTH",
+        "quantity": 92.0,
+        "net_price": 368.0
+      },
+      {
+        "description": "INFRASTRUCTURE FEE",
+        "quantity": 1.0,
+        "net_price": 60.0
+      }
+    ],
+    "vat_amount": null,
+    "gl_account": null,
+    "bank_name": null,
+    "account_holder_name": null,
+    "banking_account_number": null,
+    "remit_to_address": null,
+    "bill_to_address": null,
+    "transaction_type": "debit"
+  },
+  "filename": "SAPS4_5101567502_CA11_PFNACA_2026_304672293.pdf",
+  "raw_response": {
+    "invoice_number": "0075001214",
+    "invoice_date": "1/26/2026",
+    "invoice_amount": "428.00",
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": null,
+    "po_number": [
+      "M413496886"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "Woodstream Corporation",
+    "vendor_address": "PO BOX 8648, LANCASTER, PA 17604-8648, (717) 740-4600, wsar@woodstream.com",
+    "po_line_items": [
+      {
+        "description": "MONTHLY MONITORING 4/MONTH",
+        "quantity": 92.0,
+        "net_price": 368.0
+      },
+      {
+        "description": "INFRASTRUCTURE FEE",
+        "quantity": 1.0,
+        "net_price": 60.0
+      }
+    ]
+  }
+}

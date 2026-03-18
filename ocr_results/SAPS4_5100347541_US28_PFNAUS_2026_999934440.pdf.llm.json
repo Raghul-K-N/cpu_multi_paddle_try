@@ -1,0 +1,67 @@
+{
+  "invoice_data": {
+    "invoice_number": "9161673",
+    "invoice_date": "2/12/2026",
+    "invoice_amount": null,
+    "invoice_currency": null,
+    "tax_amount": null,
+    "po_number": [
+      "4504929794",
+      "00133315"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "FRITO LAY, INC.",
+    "vendor_address": "701 NORTH WILWOOD, PIRVING, TX 75061",
+    "po_line_items": [
+      {
+        "description": "HOPPER SADDLE LEFT SIDE UHMW",
+        "quantity": 3.0,
+        "net_price": 2025.0
+      },
+      {
+        "description": "HOPPER SADDLE RIGHT SIDE UHMW",
+        "quantity": 3.0,
+        "net_price": 2025.0
+      }
+    ],
+    "vat_amount": null,
+    "gl_account": null,
+    "bank_name": null,
+    "account_holder_name": null,
+    "banking_account_number": null,
+    "remit_to_address": null,
+    "bill_to_address": null,
+    "transaction_type": "debit"
+  },
+  "filename": "SAPS4_5100347541_US28_PFNAUS_2026_999934440.pdf",
+  "raw_response": {
+    "invoice_number": "9161673",
+    "invoice_date": "2/12/2026",
+    "invoice_amount": null,
+    "invoice_currency": null,
+    "tax_amount": null,
+    "po_number": [
+      "4504929794",
+      "00133315"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "FRITO LAY, INC.",
+    "vendor_address": "701 NORTH WILWOOD, PIRVING, TX 75061",
+    "po_line_items": [
+      {
+        "description": "HOPPER SADDLE LEFT SIDE UHMW",
+        "quantity": 3.0,
+        "net_price": 2025.0
+      },
+      {
+        "description": "HOPPER SADDLE RIGHT SIDE UHMW",
+        "quantity": 3.0,
+        "net_price": 2025.0
+      }
+    ]
+  }
+}

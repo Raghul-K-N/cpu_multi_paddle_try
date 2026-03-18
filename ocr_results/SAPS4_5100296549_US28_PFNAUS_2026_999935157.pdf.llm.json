@@ -1,0 +1,59 @@
+{
+  "invoice_data": {
+    "invoice_number": "814519666",
+    "invoice_date": "02/11/2026",
+    "invoice_amount": "264.72",
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": null,
+    "po_number": [
+      "4502308784"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "GRAINGER",
+    "vendor_address": "101 SOUTHCHASE BLVD,FOUNTAIN INN,SC 29644-9019",
+    "po_line_items": [
+      {
+        "description": "VIBRATONE HORN,120VAC,0.18 AC,GRAY",
+        "quantity": 2.0,
+        "net_price": 132.36
+      }
+    ],
+    "vat_amount": null,
+    "gl_account": null,
+    "bank_name": null,
+    "account_holder_name": null,
+    "banking_account_number": null,
+    "remit_to_address": null,
+    "bill_to_address": null,
+    "transaction_type": "debit"
+  },
+  "filename": "SAPS4_5100296549_US28_PFNAUS_2026_999935157.pdf",
+  "raw_response": {
+    "invoice_number": "814519666",
+    "invoice_date": "02/11/2026",
+    "invoice_amount": "264.72",
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": null,
+    "po_number": [
+      "4502308784"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "GRAINGER",
+    "vendor_address": "101 SOUTHCHASE BLVD,FOUNTAIN INN,SC 29644-9019",
+    "po_line_items": [
+      {
+        "description": "VIBRATONE HORN,120VAC,0.18 AC,GRAY",
+        "quantity": 2.0,
+        "net_price": 132.36
+      }
+    ]
+  }
+}

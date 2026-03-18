@@ -1,0 +1,43 @@
+{
+  "invoice_data": {
+    "invoice_number": "7410-000708-0000",
+    "invoice_date": "11/30/25",
+    "invoice_amount": null,
+    "invoice_currency": null,
+    "tax_amount": null,
+    "po_number": [
+      "M413525733"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "WASTE CONNECTIONS OF CANADA INC.",
+    "vendor_address": "703 32 ST N, LETHBRIDGE, AB T1H 5H5",
+    "po_line_items": null,
+    "vat_amount": null,
+    "gl_account": null,
+    "bank_name": null,
+    "account_holder_name": null,
+    "banking_account_number": null,
+    "remit_to_address": null,
+    "bill_to_address": null,
+    "transaction_type": "debit"
+  },
+  "filename": "SAPS4_5100158008_CA11_PFNACA_2026_304654776.pdf",
+  "raw_response": {
+    "invoice_number": "7410-000708-0000",
+    "invoice_date": "11/30/25",
+    "invoice_amount": null,
+    "invoice_currency": null,
+    "tax_amount": null,
+    "po_number": [
+      "M413525733"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "WASTE CONNECTIONS OF CANADA INC.",
+    "vendor_address": "703 32 ST N, LETHBRIDGE, AB T1H 5H5",
+    "po_line_items": null
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "invoice_data": {
+    "invoice_number": "PSSI052429",
+    "invoice_date": "Wednesday 11 Feb 2026 2:49 PM GMT-06:00",
+    "invoice_amount": null,
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": null,
+    "po_number": [
+      "M413536574"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": [
+      "2023100200"
+    ],
+    "vendor_name": "GROUP O INC",
+    "vendor_address": "PO Box 920, Milan, IL 61264, United States; 2916 78th Ave., Rock Island, IL 61201, United States",
+    "po_line_items": [
+      {
+        "description": "Material GO00029590 / 46.5\"x44\"x60\"x.001 Clear Perf on Roll Poly Bag 200 Bags/Roll Individually Boxed Minimum Order Qty: 200 Bags FOB: Ship Point",
+        "quantity": 1000.0,
+        "net_price": 611.8
+      }
+    ],
+    "vat_amount": null,
+    "gl_account": null,
+    "bank_name": null,
+    "account_holder_name": null,
+    "banking_account_number": null,
+    "remit_to_address": null,
+    "bill_to_address": null,
+    "transaction_type": "debit"
+  },
+  "filename": "SAPS4_5100615001_US28_PFNAUS_2026_999706513.pdf",
+  "raw_response": {
+    "invoice_number": "PSSI052429",
+    "invoice_date": "Wednesday 11 Feb 2026 2:49 PM GMT-06:00",
+    "invoice_amount": null,
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": null,
+    "po_number": [
+      "M413536574"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": [
+      "2023100200"
+    ],
+    "vendor_name": "GROUP O INC",
+    "vendor_address": "PO Box 920, Milan, IL 61264, United States; 2916 78th Ave., Rock Island, IL 61201, United States",
+    "po_line_items": [
+      {
+        "description": "Material GO00029590 / 46.5\"x44\"x60\"x.001 Clear Perf on Roll Poly Bag 200 Bags/Roll Individually Boxed Minimum Order Qty: 200 Bags FOB: Ship Point",
+        "quantity": 1000.0,
+        "net_price": 611.8
+      }
+    ]
+  }
+}

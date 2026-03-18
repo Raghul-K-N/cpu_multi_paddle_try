@@ -1,0 +1,43 @@
+{
+  "invoice_data": {
+    "invoice_number": "10258",
+    "invoice_date": "January 24, 2026",
+    "invoice_amount": null,
+    "invoice_currency": null,
+    "tax_amount": null,
+    "po_number": [
+      "M413412817"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "Rockin R Realty",
+    "vendor_address": "11522 E 650 N, Sheridan, IN 46069",
+    "po_line_items": null,
+    "vat_amount": null,
+    "gl_account": null,
+    "bank_name": null,
+    "account_holder_name": null,
+    "banking_account_number": null,
+    "remit_to_address": null,
+    "bill_to_address": null,
+    "transaction_type": "debit"
+  },
+  "filename": "SAPS4_5101147501_US29_PFNAUS_2026_999885228.pdf",
+  "raw_response": {
+    "invoice_number": "10258",
+    "invoice_date": "January 24, 2026",
+    "invoice_amount": null,
+    "invoice_currency": null,
+    "tax_amount": null,
+    "po_number": [
+      "M413412817"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "Rockin R Realty",
+    "vendor_address": "11522 E 650 N, Sheridan, IN 46069",
+    "po_line_items": null
+  }
+}

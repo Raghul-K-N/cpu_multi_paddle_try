@@ -1,0 +1,59 @@
+{
+  "invoice_data": {
+    "invoice_number": "30798884",
+    "invoice_date": "2/4/2026",
+    "invoice_amount": "1,159.20",
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": null,
+    "po_number": [
+      "4504287529"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "Butler & Land Technologies, LLC",
+    "vendor_address": "203 S. JUPITER ROAD, Allen, TX 75002",
+    "po_line_items": [
+      {
+        "description": "SM506A100LE TMSS US LLC",
+        "quantity": 1.0,
+        "net_price": 1159.2
+      }
+    ],
+    "vat_amount": null,
+    "gl_account": null,
+    "bank_name": null,
+    "account_holder_name": null,
+    "banking_account_number": null,
+    "remit_to_address": null,
+    "bill_to_address": null,
+    "transaction_type": "debit"
+  },
+  "filename": "SAPS4_5101560502_CA11_PFNACA_2026_304658878.pdf",
+  "raw_response": {
+    "invoice_number": "30798884",
+    "invoice_date": "2/4/2026",
+    "invoice_amount": "1,159.20",
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": null,
+    "po_number": [
+      "4504287529"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "Butler & Land Technologies, LLC",
+    "vendor_address": "203 S. JUPITER ROAD, Allen, TX 75002",
+    "po_line_items": [
+      {
+        "description": "SM506A100LE TMSS US LLC",
+        "quantity": 1.0,
+        "net_price": 1159.2
+      }
+    ]
+  }
+}

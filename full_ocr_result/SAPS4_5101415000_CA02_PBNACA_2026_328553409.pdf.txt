@@ -1,0 +1,166 @@
+==================================<Page 1 - START>================================
+Standard Invoice                                                                                                  staples()
+Original tax invoice has been submitted electronically. This is a
+human readable representation (copy) of the original tax invoice.
+                                                                Invoice Number                                         72401179
+                                                                (Supplier Reference No.)
+                                                                Invoice Date                   Tuesday 10 Feb. 2026 5:44 a.m. GMT-07:00
+                                                                Amount Due                                        $781.52 CAD
+    Contact Information
+                                                                          Shipping Information
+    Supplier                       Customer
+                                                                          Ship From                     Ship To
+                                 PEPSICO FOODS CANADA O/
+    Supplier VAT/Tax ID                                                       Staples Canada ULC              FRITO-LAY CDA/PEPSICO
+                                 A FRITO LAY CANADA
+    126152586RT0001                                                        4990 - 92 AVENUE               BEVERAGE
+                                  5550 EXPLORER DR 8TH                      EDMONTON                   DUSTYN.HARDMAN@PEPSICO.COM
+                                 FLOOR                                  AB                          4815 78 AVE SE
+                                 MISSISSAUGA                              T6B 2W1                      CA-PL-CALGARY-AB-PBCCAN
+                                 ON                                      Canada                       CALGARY
+                                 L4W 0C3                                                              AB
+                                 Canada                                                               T2C 2Y9
+                                 Address ID:                                                            CA
+                                 CA1_ARIBA PAYABLES
+                                                                                                      Address ID: shipTo
+  Line Items
+                                                         PO No. : M413497395                                     PO Date : 16 Jan. 2026
+  Line No.    PO Line No.          Type    Supplier Part No. /             Customer Part No.                                          Subtotal
+                                                                                      Quantity            Unit Price
+                                       Description                                       (UOM)
+  2        5                 Material  LOG960001384 / LOGITECH                           4 / (EA)          $99.99 CAD     $399.96 CAD
+                                       C920E
+                                                                                                  Line Item Total : $399.96 CAD
+                                                                                                                       Subtotal
+  Line No.    PO Line No.          Type    Supplier Part No. /             Customer Part No.        Quantity            Unit Price
+                                       Description                                       (UOM)
+  5        6                 Material LOG920009782 /LOGITECH                           6 / (EA)          $57.39 CAD     $344.34 CAD
+                                       MK295 SILENT WIRELESS
+                                                                                                  Line Item Total : $344.34 CAD
+      Tax Summary
+      Category              Details                          Base Amount               Rate %          Amount
+                           Tax Location : CA                  $744.30 CAD               0%            $0.00 CAD
+      PST
+                            Tax Description :                   $744.30 CAD               5%            $37.22 CAD
+      GST
+                            126152586RT0001
+                            Tax Location : CA
+                                                                             Amount Summary
+                                                                             Line item subtotal                          $744.30 CAD
+                                                                                                                    $781.52 CAD
+                                                                             Gross amount
+                                                                                                                    $781.52 CAD
+                                                                             Net amount
+                                                                                                                     $37.22 CAD
+                                                                              Total tax amount
+                                                                              Total withholding tax amount
+                                                                                                                    $781.52 CAD
+                                                                              Amount Due
+     Additional Information
+                                                                          Remittance Information
+                                                                          Remit To
+                                                                          Staples Canada ULC
+                                                                          c/o T04446C
+                                                                          PO Box 4446C, STN A
+                                                                         Toronto
+                                                                          ON
+                                                                         M5W 4A2
+                                                                         CA
+                                                                         Address ID: CA1_32220
+==================================<Page 1 - END>================================
+==================================<Page 2 - START>================================
+Line No.                                                Supplier Part No. / Description
+            PO Line No. Type
+2          5          Material                          LOG960001384 / LOGITECH C920E
+Additional Details:
+Supplier Part ID : LOG960001384
+Line No.    PO Line No. Type                            Supplier Part No. / Description
+5
+             6          Material                         LOG920009782 / LOGITECH MK295 SILENT WIRELESS
+Additional Details:
+ Supplier Part ID : LOG920009782
+PDF generated on Wednesday 11 Feb. 2026 2:45 a.m. GMT-08:00
+==================================<Page 2 - END>================================
+==================================<Page 3 - START>================================
+      Standard Invoice                                                                                                  staples()
+      Original tax invoice has been submitted electronically. This is a
+      human readable representation (copy) of the original tax invoice.
+                                                                       Invoice Number                                         72401179
+                                                                       (Supplier Reference No.)
+                                                                       Invoice Date                   Tuesday 10 Feb. 2026 5:44 a.m. GMT-07:00
+                                                                       Amount Due                                        $781.52 CAD
+          Contact Information
+                                                                                Shipping Information
+          Supplier                       Customer
+                                                                                Ship From                     Ship To
+                                        PEPSICO FOODS CANADA O/
+          Supplier VAT/Tax ID                                                       Staples Canada ULC              FRITO-LAY CDA/PEPSICO
+                                        A FRITO LAY CANADA
+          126152586RT0001                                                        4990 - 92 AVENUE               BEVERAGE
+                                        5550 EXPLORER DR 8TH                      EDMONTON                   DUSTYN.HARDMAN@PEPSICO.COM
+                                        FLOOR                                  AB                          4815 78 AVE SE
+                                        MISSISSAUGA                              T6B 2W1                      CA-PL-CALGARY-AB-PBCCAN
+                                        ON                                      Canada                       CALGARY
+                                        L4W 0C3                                                              AB
+                                        Canada                                                               T2C 2Y9
+                                        Address ID:                                                            CA
+                                        CA1_ARIBA PAYABLES
+                                                                                                            Address ID: shipTo
+        Line Items
+                                                               PO No. : M413497395                                     PO Date : 16 Jan. 2026
+        Line No.    PO Line No.          Type    Supplier Part No. /             Customer Part No.                                          Subtotal
+                                                                                            Quantity            Unit Price
+                                             Description                                       (UOM)
+        2        5                 Material  LOG960001384 / LOGITECH                           4 / (EA)          $99.99 CAD     $399.96 CAD
+                                             C920E
+                                                                                                         Line Item Total : $399.96 CAD
+                                                                                                                              Subtotal
+        Line No.    PO Line No.          Type    Supplier Part No. /             Customer Part No.        Quantity            Unit Price
+                                             Description                                       (UOM)
+        5        6                 Material LOG920009782 /LOGITECH                           6 / (EA)          $57.39 CAD     $344.34 CAD
+                                             MK295 SILENT WIRELESS
+                                                                                                         Line Item Total : $344.34 CAD
+            Tax Summary
+            Category              Details                          Base Amount               Rate %          Amount
+                                  Tax Location : CA                  $744.30 CAD               0%            $0.00 CAD
+            PST
+                                  Tax Description :                   $744.30 CAD               5%            $37.22 CAD
+            GST
+                                  126152586RT0001
+                                  Tax Location : CA
+                                                                                   Amount Summary
+                                                                                    Line item subtotal                          $744.30 CAD
+                                                                                                                          $781.52 CAD
+                                                                                    Gross amount
+                                                                                                                          $781.52 CAD
+                                                                                    Net amount
+                                                                                                                           $37.22 CAD
+                                                                                    Total tax amount
+                                                                                    Total withholding tax amount
+                                                                                                                          $781.52 CAD
+                                                                                    Amount Due
+           Additional Information
+                                                                                Remittance Information
+                                                                                Remit To
+                                                                                Staples Canada ULC
+                                                                                c/o T04446C
+                                                                                PO Box 4446C, STN A
+                                                                                Toronto
+                                                                                ON
+                                                                                M5W 4A2
+                                                                                CA
+                                                                                Address ID: CA1_32220
+==================================<Page 3 - END>================================
+==================================<Page 4 - START>================================
+Line No.                                                Supplier Part No. / Description
+            PO Line No. Type
+2          5          Material                          LOG960001384 / LOGITECH C920E
+Additional Details:
+Supplier Part ID : LOG960001384
+Line No.    PO Line No. Type                            Supplier Part No. / Description
+5
+             6          Material                         LOG920009782 / LOGITECH MK295 SILENT WIRELESS
+Additional Details:
+ Supplier Part ID : LOG920009782
+PDF generated on Wednesday 11 Feb. 2026 2:45 a.m. GMT-08:00
+==================================<Page 4 - END>================================

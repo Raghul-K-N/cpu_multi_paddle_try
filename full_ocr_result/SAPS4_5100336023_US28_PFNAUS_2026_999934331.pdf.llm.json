@@ -1,0 +1,79 @@
+{
+  "invoice_data": {
+    "invoice_number": "958041",
+    "invoice_date": "2/12/26",
+    "invoice_amount": "315.75",
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": null,
+    "po_number": [
+      "4504998813"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": "27.58",
+    "cost_center": null,
+    "vendor_name": "Douglas Machine Inc.",
+    "vendor_address": "1705 34th Ave W Alexandria, Minnesota 56308 USA",
+    "po_line_items": [
+      {
+        "description": "PLTE-CRS -ZN-N- - -",
+        "quantity": 1.0,
+        "net_price": 139.81
+      },
+      {
+        "description": "PLTE-ALUM-AN-N- -",
+        "quantity": 1.0,
+        "net_price": 69.19
+      },
+      {
+        "description": "PLLY-ALUM-NF-N- -",
+        "quantity": 1.0,
+        "net_price": 79.17
+      }
+    ],
+    "vat_amount": null,
+    "gl_account": null,
+    "bank_name": null,
+    "account_holder_name": null,
+    "banking_account_number": null,
+    "remit_to_address": null,
+    "bill_to_address": null,
+    "transaction_type": "debit"
+  },
+  "filename": "SAPS4_5100336023_US28_PFNAUS_2026_999934331.pdf",
+  "raw_response": {
+    "invoice_number": "958041",
+    "invoice_date": "2/12/26",
+    "invoice_amount": "315.75",
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": null,
+    "po_number": [
+      "4504998813"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": "27.58",
+    "cost_center": null,
+    "vendor_name": "Douglas Machine Inc.",
+    "vendor_address": "1705 34th Ave W Alexandria, Minnesota 56308 USA",
+    "po_line_items": [
+      {
+        "description": "PLTE-CRS -ZN-N- - -",
+        "quantity": 1.0,
+        "net_price": 139.81
+      },
+      {
+        "description": "PLTE-ALUM-AN-N- -",
+        "quantity": 1.0,
+        "net_price": 69.19
+      },
+      {
+        "description": "PLLY-ALUM-NF-N- -",
+        "quantity": 1.0,
+        "net_price": 79.17
+      }
+    ]
+  }
+}

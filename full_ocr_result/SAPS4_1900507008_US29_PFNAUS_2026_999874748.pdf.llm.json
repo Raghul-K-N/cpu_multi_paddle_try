@@ -1,0 +1,67 @@
+{
+  "invoice_data": {
+    "invoice_number": "4-NR00047975",
+    "invoice_date": "05.12.2026",
+    "invoice_amount": "1,872.68",
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": "0.00",
+    "po_number": [
+      "2121212"
+    ],
+    "gl_account_number": [
+      "2298470600"
+    ],
+    "freight_and_handling_charges": null,
+    "cost_center": [
+      "2298470600"
+    ],
+    "vendor_name": "PACIFIC RIM CAPITAL INC",
+    "vendor_address": "525 TECHNOLOGY DR, STE 400, IRVINE CA 92618-1390, USA",
+    "po_line_items": [
+      {
+        "description": "Sundry - Deal Based - Property Tax - 2025 Property Tax Multnomah County, OR",
+        "quantity": null,
+        "net_price": null
+      }
+    ],
+    "vat_amount": null,
+    "gl_account": null,
+    "bank_name": null,
+    "account_holder_name": null,
+    "banking_account_number": null,
+    "remit_to_address": null,
+    "bill_to_address": null,
+    "transaction_type": "debit"
+  },
+  "filename": "SAPS4_1900507008_US29_PFNAUS_2026_999874748.pdf",
+  "raw_response": {
+    "invoice_number": "4-NR00047975",
+    "invoice_date": "05.12.2026",
+    "invoice_amount": "1,872.68",
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": "0.00",
+    "po_number": [
+      "2121212"
+    ],
+    "gl_account_number": [
+      "2298470600"
+    ],
+    "freight_and_handling_charges": null,
+    "cost_center": [
+      "2298470600"
+    ],
+    "vendor_name": "PACIFIC RIM CAPITAL INC",
+    "vendor_address": "525 TECHNOLOGY DR, STE 400, IRVINE CA 92618-1390, USA",
+    "po_line_items": [
+      {
+        "description": "Sundry - Deal Based - Property Tax - 2025 Property Tax Multnomah County, OR",
+        "quantity": null,
+        "net_price": null
+      }
+    ]
+  }
+}

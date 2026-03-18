@@ -1,0 +1,417 @@
+==================================<Page 1 - START>================================
+Standard Invoice
+                                                                                                                    GRAINGER
+Original tax invoice has been submitted electronically. This is a
+human readable representation (copy) of the original tax invoice.
+                                                                                                                    9806732831
+                                                                 Invoice Number
+                                                                 (Supplier Reference No.)
+                                                                 Invoice Date                   Thursday 12 Feb. 2026 7:00 a.m. GMT-05:00
+                                                                 Amount Due                                         $167.02 CAD
+    Contact Information
+                                                                           Shipping Information
+    Supplier                      Customer
+                                                                           Ship From                     Ship To
+    ACKLANDS-GRAINGER INC.
+                                 EDI ONLY PEPSI FOODS ULC                   ACKLANDS-GRAINGER INC.        CA-PL-LETHBRIDGE-AB-FLC
+    PO BOX 2970                  (FLC)                                                                  2200 31ST STREET
+                                                                           11708 - 167 STREET NW
+    WINNIPEG                    2200 31 ST N                                                            LETHBRIDGE
+                                                                           EDMONTON
+     MB                          LETH PLNT DISPENSING                                                   AB
+                                                                           AB
+     R3C 4B5                      LETHBRIDGE                                                            T1H 5K8
+                                                                           T5M 3Z2
+     CA                         AB                                                                   Canada
+                                                                           Canada
+                                  T1H 5K8
+                                  Canada
+  Line Items                                              PO No. : M413554235                                      PO Date : 12 Feb. 2026
+   Line No.    PO Line No.          Type   Supplier Part No. /             Customer Part No.        Quantity            Unit Price         Subtotal
+                                       Description
+                                                                                       1 / (PK)           $18.57 CAD       $18.57 CAD
+   10       1                 Material SHXCAL22520-165-50 / RIVET
+                                       NUT,1/4&quot;-20 THREAD
+                                       SIZE.PK50
+                                                                                                     Line Item Total : $18.57 CAD
+   Line No.    PO Line No.          Type    Supplier Part No. /             Customer Part No.        Quantity            Unit Price         Subtotal
+                                       Description                                        (UOM)
+   20       2                 Material SHXCAL23118-150-25 / RIVET                          1 / (PK)           $13.55 CAD      $13.55 CAD
+                                       NUT,5/16&quot;-18 THREAD
+                                       SIZE,PK25
+                                                                                                     Line Item Total : $13.55 CAD
+   Line No.    PO Line No.          Type   Supplier Part No. /             Customer Part No.        Quantity            Unit Price         Subtotal
+                                       Description                                        (UOM)
+   30       3                 Material SHXCAL23716-150-25 / RIVET                          1 / (PK)           $18.89 CAD      $18.89 CAD
+                                       NUT.3/8&quot:-16 THREAD
+                                       SIZE,PK25
+                                                                                                     Line Item Total : $18.89 CAD
+                                                                                                                          Subtotal
+   Line No.    PO Line No.          Type    Supplier Part No. /             Customer Part No.        Quantity            Unit Price
+                                       Description                                       (UOM)
+    60       6                 Material  SHXCAL2610-4.2-50 / RIVET                           1 / (PK)           $16.86 CAD      $16.86 CAD
+                                        NUT.M6X1.0 THREAD SIZE.PK50
+                                                                                                     Line Item Total : $16.86 CAD
+   Line No.    PO Line No.          Type    Supplier Part No. /             Customer Part No.         Quantity            Unit Price         Subtotal
+                                       Description                                       (UOM)
+   110                         Material  SHXRNHT-M8 / RIVET NUT HAND                                        $45.97 CAD      $45.97 CAD
+             11                                                                       1 / (EA)
+                                       TOOL.MANUAL
+                                                                                                     Line Item Total : $45.97 CAD
+   Line No.    PO Line No.          Type    Supplier Part No. /             Customer Part No.                           Unit Price         Subtotal
+                                                                                       Quantity
+                                       Description                                       (UOM)
+   140      14                Material  SHXRNHT3716 / RIVET NUT
+                                                                                       1 / (EA)           $45.23 CAD      $45.23 CAD
+                                       HAND TOOL,MANUAL
+                                                                                                     Line Item Total : $45.23 CAD
+      Tax Summary
+      Category
+                            Details                          Base Amount                               Amount
+                                                                                    Rate %
+      GST
+                            Tax Description : GOODS AND         $159.07 CAD                                $7.95 CAD
+                                                                                    5%
+                            SERVICES
+      PST
+                            Tax Description : State/Provincial        $159.07 CAD               0%             $0.00 CAD
+                            Tax
+                                                                              Amount Summary
+                                                                              Line item subtotal                           $159.07 CAD
+                                                                              Gross amount                             $167.02 CAD
+                                                                              Net amount                               $167.02 CAD
+                                                                              Total tax amount                             $7.95 CAD
+                                                                              Total withholding tax amount
+                                                                              Amount Due                              $167.02 CAD
+     Additional Information
+     invioceSourceDocument
+    PurchaseOrder
+    Billing Information                                                        Remittance Information
+    Bill To                                                                Remit To
+    PEPSI FOODS ULC (FLC)                                                  ACKLANDS-GRAINGER INC.
+    2095 MATHESON BLVD E                                                  PO BOX 2970
+    MISSISSAUGA                                                          WINNIPEG
+    ON                                                                  MB
+    L4W 0G2                                                              R3C 4B5
+    Canada                                                               Canada
+    Address ID:                                                             Address ID: CA1_2751
+    CA1_ARIBA_PAYABLES
+==================================<Page 1 - END>================================
+==================================<Page 2 - START>================================
+ Appendix
+Line No.
+            PO Line No. Type                            Supplier Part No. / Description
+10
+            1         Material                          SHXCAL22520-165-50 / RIVET NUT,1/4&quot;-20 THREAD SIZE,PK50
+ Additional Details:
+ Supplier Part ID : SHXCAL22520-165-50
+Line No.    PO Line No. Type                            Supplier Part No. / Description
+20
+            2         Material
+                                                       SHXCAL23118-150-25 / RIVET NUT,5/16&quot;-18 THREAD SIZE,PK25
+Additional Details:
+Supplier Part ID : SHXCAL23118-150-25
+Line No.    PO Line No. Type
+                                                       Supplier Part No. / Description
+30        3         Material
+                                                       SHXCAL23716-150-25 / RIVET NUT,3/8&quot;-16 THREAD SIZE,PK25
+Additional Details:
+Supplier Part ID : SHXCAL23716-150-25
+Line No.    PO Line No. Type
+                                                       Supplier Part No. / Description
+60        6         Material
+                                                       SHXCAL2610-4.2-50 / RIVET NUT,M6X1.0 THREAD SIZE,PK50
+Additional Details:
+Supplier Part ID : SHXCAL2610-4.2-50
+Line No.    PO Line No. Type
+                                                       Supplier Part No. / Description
+110       11        Material
+                                                       SHXRNHT-M8 / RIVET NUT HAND TOOL,MANUAL
+Additional Details:
+Supplier Part ID : SHXRNHT-M8
+Line No.    PO Line No. Type
+                                                       Supplier Part No. / Description
+140       14        Material
+                                                       SHXRNHT3716 / RIVET NUT HAND TOOL,MANUAL
+Additional Details:
+ Supplier Part ID : SHXRNHT3716
+PDF generated on Friday 13 Feb. 2026 6:14 a.m. GMT-08:00
+==================================<Page 2 - END>================================
+==================================<Page 3 - START>================================
+  Standard Invoice
+                                                                                                                      GRAINGER
+  Original tax invoice has been submitted electronically. This is a
+  human readable representation (copy) of the original tax invoice.
+                                                                                                                      9806732831
+                                                                   Invoice Number
+                                                                   (Supplier Reference No.)
+                                                                   Invoice Date                   Thursday 12 Feb. 2026 7:00 a.m. GMT-05:00
+                                                                   Amount Due                                         $167.02 CAD
+      Contact Information
+                                                                            Shipping Information
+      Supplier                      Customer
+                                                                            Ship From                     Ship To
+      ACKLANDS-GRAINGER INC.
+                                   EDI ONLY PEPSI FOODS ULC                   ACKLANDS-GRAINGER INC.        CA-PL-LETHBRIDGE-AB-FLC
+      PO BOX 2970                  (FLC)                                                                  2200 31ST STREET
+                                                                             11708 - 167 STREET NW
+      WINNIPEG                    2200 31 ST N                                                            LETHBRIDGE
+                                                                             EDMONTON
+      MB                          LETH PLNT DISPENSING                                                   AB
+                                                                            AB
+      R3C 4B5                      LETHBRIDGE                                                            T1H 5K8
+                                                                            T5M 3Z2
+      CA                         AB                                                                   Canada
+                                                                            Canada
+                                   T1H 5K8
+                                   Canada
+    Line Items                                              PO No. : M413554235                                      PO Date : 12 Feb. 2026
+    Line No.    PO Line No.          Type   Supplier Part No. /             Customer Part No.        Quantity            Unit Price         Subtotal
+                                         Description
+                                                                                        1 / (PK)           $18.57 CAD       $18.57 CAD
+     10       1                 Material SHXCAL22520-165-50 / RIVET
+                                         NUT,1/4&quot;-20 THREAD
+                                         SIZE.PK50
+                                                                                                       Line Item Total : $18.57 CAD
+     Line No.    PO Line No.          Type    Supplier Part No. /             Customer Part No.        Quantity            Unit Price         Subtotal
+                                         Description                                        (UOM)
+     20       2                 Material SHXCAL23118-150-25 / RIVET                          1 / (PK)           $13.55 CAD      $13.55 CAD
+                                         NUT,5/16&quot;-18 THREAD
+                                         SIZE,PK25
+                                                                                                       Line Item Total : $13.55 CAD
+     Line No.    PO Line No.          Type   Supplier Part No. /             Customer Part No.        Quantity            Unit Price         Subtotal
+                                         Description                                        (UOM)
+     30       3                 Material SHXCAL23716-150-25 / RIVET                          1 / (PK)           $18.89 CAD      $18.89 CAD
+                                         NUT.3/8&quot:-16 THREAD
+                                         SIZE,PK25
+                                                                                                      Line Item Total : $18.89 CAD
+                                                                                                                            Subtotal
+     Line No.    PO Line No.          Type    Supplier Part No. /             Customer Part No.        Quantity            Unit Price
+                                         Description                                       (UOM)
+     60       6                 Material  SHXCAL2610-4.2-50 / RIVET                           1 / (PK)           $16.86 CAD      $16.86 CAD
+                                         NUT.M6X1.0 THREAD SIZE.PK50
+                                                                                                      Line Item Total : $16.86 CAD
+     Line No.    PO Line No.          Type    Supplier Part No. /             Customer Part No.         Quantity            Unit Price         Subtotal
+                                         Description                                       (UOM)
+     110                         Material  SHXRNHT-M8 / RIVET NUT HAND                                        $45.97 CAD      $45.97 CAD
+               11                                                                       1 / (EA)
+                                         TOOL.MANUAL
+                                                                                                       Line Item Total : $45.97 CAD
+     Line No.    PO Line No.          Type    Supplier Part No. /             Customer Part No.                           Unit Price         Subtotal
+                                                                                        Quantity
+                                         Description                                       (UOM)
+     140      14                Material  SHXRNHT3716 / RIVET NUT
+                                                                                        1 / (EA)           $45.23 CAD      $45.23 CAD
+                                         HAND TOOL,MANUAL
+                                                                                                       Line Item Total : $45.23 CAD
+        Tax Summary
+        Category
+                             Details                          Base Amount                               Amount
+                                                                                      Rate %
+        GST
+                              Tax Description : GOODS AND         $159.07 CAD                                $7.95 CAD
+                                                                                      5%
+                              SERVICES
+        PST
+                              Tax Description : State/Provincial        $159.07 CAD               0%             $0.00 CAD
+                             Tax
+                                                                                Amount Summary
+                                                                                Line item subtotal                           $159.07 CAD
+                                                                                Gross amount                             $167.02 CAD
+                                                                                Net amount                               $167.02 CAD
+                                                                                Total tax amount                             $7.95 CAD
+                                                                                Total withholding tax amount
+                                                                                Amount Due                              $167.02 CAD
+      Additional Information
+      invioceSourceDocument
+      PurchaseOrder
+      Billing Information                                                        Remittance Information
+      Bill To                                                                Remit To
+      PEPSI FOODS ULC (FLC)                                                  ACKLANDS-GRAINGER INC.
+      2095 MATHESON BLVD E                                                  PO BOX 2970
+      MISSISSAUGA                                                          WINNIPEG
+      ON                                                                  MB
+      L4W 0G2                                                              R3C 4B5
+      Canada                                                               Canada
+      Address ID:                                                             Address ID: CA1_2751
+      CA1_ARIBA_PAYABLES
+==================================<Page 3 - END>================================
+==================================<Page 4 - START>================================
+ Appendix
+Line No.
+            PO Line No. Type                            Supplier Part No. / Description
+10
+            1         Material                          SHXCAL22520-165-50 / RIVET NUT,1/4&quot;-20 THREAD SIZE,PK50
+ Additional Details:
+ Supplier Part ID : SHXCAL22520-165-50
+Line No.    PO Line No. Type                            Supplier Part No. / Description
+20
+            2         Material
+                                                       SHXCAL23118-150-25 / RIVET NUT,5/16&quot;-18 THREAD SIZE,PK25
+Additional Details:
+Supplier Part ID : SHXCAL23118-150-25
+Line No.    PO Line No. Type
+                                                       Supplier Part No. / Description
+30        3         Material
+                                                       SHXCAL23716-150-25 / RIVET NUT,3/8&quot;-16 THREAD SIZE,PK25
+Additional Details:
+Supplier Part ID : SHXCAL23716-150-25
+Line No.    PO Line No. Type
+                                                       Supplier Part No. / Description
+60        6         Material
+                                                       SHXCAL2610-4.2-50 / RIVET NUT,M6X1.0 THREAD SIZE,PK50
+Additional Details:
+Supplier Part ID : SHXCAL2610-4.2-50
+Line No.    PO Line No. Type
+                                                       Supplier Part No. / Description
+110       11        Material
+                                                       SHXRNHT-M8 / RIVET NUT HAND TOOL,MANUAL
+Additional Details:
+Supplier Part ID : SHXRNHT-M8
+Line No.    PO Line No. Type
+                                                       Supplier Part No. / Description
+140       14        Material
+                                                       SHXRNHT3716 / RIVET NUT HAND TOOL,MANUAL
+Additional Details:
+ Supplier Part ID : SHXRNHT3716
+PDF generated on Friday 13 Feb. 2026 6:14 a.m. GMT-08:00
+==================================<Page 4 - END>================================
+==================================<Page 5 - START>================================
+  Standard Invoice
+                                                                                                                      GRAINGER
+  Original tax invoice has been submitted electronically. This is a
+  human readable representation (copy) of the original tax invoice.
+                                                                                                                      9806732831
+                                                                   Invoice Number
+                                                                   (Supplier Reference No.)
+                                                                   Invoice Date                   Thursday 12 Feb. 2026 7:00 a.m. GMT-05:00
+                                                                   Amount Due                                         $167.02 CAD
+      Contact Information
+                                                                            Shipping Information
+      Supplier                      Customer
+                                                                            Ship From                     Ship To
+      ACKLANDS-GRAINGER INC.
+                                   EDI ONLY PEPSI FOODS ULC                   ACKLANDS-GRAINGER INC.        CA-PL-LETHBRIDGE-AB-FLC
+      PO BOX 2970                  (FLC)                                                                  2200 31ST STREET
+                                                                             11708 - 167 STREET NW
+      WINNIPEG                    2200 31 ST N                                                            LETHBRIDGE
+                                                                             EDMONTON
+      MB                          LETH PLNT DISPENSING                                                   AB
+                                                                            AB
+      R3C 4B5                      LETHBRIDGE                                                            T1H 5K8
+                                                                            T5M 3Z2
+      CA                         AB                                                                   Canada
+                                                                            Canada
+                                   T1H 5K8
+                                   Canada
+    Line Items                                              PO No. : M413554235                                      PO Date : 12 Feb. 2026
+    Line No.    PO Line No.          Type   Supplier Part No. /             Customer Part No.        Quantity            Unit Price         Subtotal
+                                         Description
+                                                                                        1 / (PK)           $18.57 CAD       $18.57 CAD
+     10       1                 Material SHXCAL22520-165-50 / RIVET
+                                         NUT,1/4&quot;-20 THREAD
+                                         SIZE.PK50
+                                                                                                       Line Item Total : $18.57 CAD
+     Line No.    PO Line No.          Type    Supplier Part No. /             Customer Part No.        Quantity            Unit Price         Subtotal
+                                         Description                                        (UOM)
+     20       2                 Material SHXCAL23118-150-25 / RIVET                          1 / (PK)           $13.55 CAD      $13.55 CAD
+                                         NUT,5/16&quot;-18 THREAD
+                                         SIZE,PK25
+                                                                                                       Line Item Total : $13.55 CAD
+     Line No.    PO Line No.          Type   Supplier Part No. /             Customer Part No.        Quantity            Unit Price         Subtotal
+                                         Description                                        (UOM)
+     30       3                 Material SHXCAL23716-150-25 / RIVET                          1 / (PK)           $18.89 CAD      $18.89 CAD
+                                         NUT.3/8&quot:-16 THREAD
+                                         SIZE,PK25
+                                                                                                      Line Item Total : $18.89 CAD
+                                                                                                                            Subtotal
+     Line No.    PO Line No.          Type    Supplier Part No. /             Customer Part No.        Quantity            Unit Price
+                                         Description                                       (UOM)
+     60       6                 Material  SHXCAL2610-4.2-50 / RIVET                           1 / (PK)           $16.86 CAD      $16.86 CAD
+                                         NUT.M6X1.0 THREAD SIZE.PK50
+                                                                                                      Line Item Total : $16.86 CAD
+     Line No.    PO Line No.          Type    Supplier Part No. /             Customer Part No.         Quantity            Unit Price         Subtotal
+                                         Description                                       (UOM)
+     110                         Material  SHXRNHT-M8 / RIVET NUT HAND                                        $45.97 CAD      $45.97 CAD
+               11                                                                       1 / (EA)
+                                         TOOL.MANUAL
+                                                                                                       Line Item Total : $45.97 CAD
+     Line No.    PO Line No.          Type    Supplier Part No. /             Customer Part No.                           Unit Price         Subtotal
+                                                                                        Quantity
+                                         Description                                       (UOM)
+     140      14                Material  SHXRNHT3716 / RIVET NUT
+                                                                                        1 / (EA)           $45.23 CAD      $45.23 CAD
+                                         HAND TOOL,MANUAL
+                                                                                                       Line Item Total : $45.23 CAD
+        Tax Summary
+        Category
+                             Details                          Base Amount                               Amount
+                                                                                      Rate %
+        GST
+                              Tax Description : GOODS AND         $159.07 CAD                                $7.95 CAD
+                                                                                      5%
+                              SERVICES
+        PST
+                              Tax Description : State/Provincial        $159.07 CAD               0%             $0.00 CAD
+                             Tax
+                                                                                Amount Summary
+                                                                                Line item subtotal                           $159.07 CAD
+                                                                                Gross amount                             $167.02 CAD
+                                                                                Net amount                               $167.02 CAD
+                                                                                Total tax amount                             $7.95 CAD
+                                                                                Total withholding tax amount
+                                                                                Amount Due                              $167.02 CAD
+      Additional Information
+      invioceSourceDocument
+      PurchaseOrder
+      Billing Information                                                        Remittance Information
+      Bill To                                                                Remit To
+      PEPSI FOODS ULC (FLC)                                                  ACKLANDS-GRAINGER INC.
+      2095 MATHESON BLVD E                                                  PO BOX 2970
+      MISSISSAUGA                                                          WINNIPEG
+      ON                                                                  MB
+      L4W 0G2                                                              R3C 4B5
+      Canada                                                               Canada
+      Address ID:                                                             Address ID: CA1_2751
+      CA1_ARIBA_PAYABLES
+==================================<Page 5 - END>================================
+==================================<Page 6 - START>================================
+ Appendix
+Line No.
+            PO Line No. Type                            Supplier Part No. / Description
+10
+            1         Material                          SHXCAL22520-165-50 / RIVET NUT,1/4&quot;-20 THREAD SIZE,PK50
+ Additional Details:
+ Supplier Part ID : SHXCAL22520-165-50
+Line No.    PO Line No. Type                            Supplier Part No. / Description
+20
+            2         Material
+                                                       SHXCAL23118-150-25 / RIVET NUT,5/16&quot;-18 THREAD SIZE,PK25
+Additional Details:
+Supplier Part ID : SHXCAL23118-150-25
+Line No.    PO Line No. Type
+                                                       Supplier Part No. / Description
+30        3         Material
+                                                       SHXCAL23716-150-25 / RIVET NUT,3/8&quot;-16 THREAD SIZE,PK25
+Additional Details:
+Supplier Part ID : SHXCAL23716-150-25
+Line No.    PO Line No. Type
+                                                       Supplier Part No. / Description
+60        6         Material
+                                                       SHXCAL2610-4.2-50 / RIVET NUT,M6X1.0 THREAD SIZE,PK50
+Additional Details:
+Supplier Part ID : SHXCAL2610-4.2-50
+Line No.    PO Line No. Type
+                                                       Supplier Part No. / Description
+110       11        Material
+                                                       SHXRNHT-M8 / RIVET NUT HAND TOOL,MANUAL
+Additional Details:
+Supplier Part ID : SHXRNHT-M8
+Line No.    PO Line No. Type
+                                                       Supplier Part No. / Description
+140       14        Material
+                                                       SHXRNHT3716 / RIVET NUT HAND TOOL,MANUAL
+Additional Details:
+ Supplier Part ID : SHXRNHT3716
+PDF generated on Friday 13 Feb. 2026 6:14 a.m. GMT-08:00
+==================================<Page 6 - END>================================

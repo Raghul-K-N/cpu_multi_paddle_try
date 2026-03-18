@@ -1,0 +1,43 @@
+{
+  "invoice_data": {
+    "invoice_number": "8925",
+    "invoice_date": "30/01/2026",
+    "invoice_amount": null,
+    "invoice_currency": null,
+    "tax_amount": null,
+    "po_number": [
+      "M413453263"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "Service Routier SRL",
+    "vendor_address": "9350-7754 Québec inc., 14027 boulevard Curé-Labelle, Mirabel (QC), J7J 1M3",
+    "po_line_items": null,
+    "vat_amount": null,
+    "gl_account": null,
+    "bank_name": null,
+    "account_holder_name": null,
+    "banking_account_number": null,
+    "remit_to_address": null,
+    "bill_to_address": null,
+    "transaction_type": "debit"
+  },
+  "filename": "SAPS4_5100425003_CA11_PFNACA_2026_304667659.pdf",
+  "raw_response": {
+    "invoice_number": "8925",
+    "invoice_date": "30/01/2026",
+    "invoice_amount": null,
+    "invoice_currency": null,
+    "tax_amount": null,
+    "po_number": [
+      "M413453263"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "Service Routier SRL",
+    "vendor_address": "9350-7754 Québec inc., 14027 boulevard Curé-Labelle, Mirabel (QC), J7J 1M3",
+    "po_line_items": null
+  }
+}

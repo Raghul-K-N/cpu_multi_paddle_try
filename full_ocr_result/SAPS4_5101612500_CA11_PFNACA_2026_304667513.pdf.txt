@@ -1,0 +1,537 @@
+==================================<Page 1 - START>================================
+Standard Invoice                                                                                                  GRAINGER
+Original tax invoice has been submitted electronically. This is a
+human readable representation (copy) of the original tax invoice.
+                                                                                                                    9806597127
+                                                                 Invoice Number
+                                                                 (Supplier Reference No.)
+                                                                                              Thursday 12 Feb. 2026 7:00 a.m. GMT-05:00
+                                                                  Invoice Date
+                                                                                                                    $301.76 CAD
+                                                                  Amount Due
+    Contact Information
+                                                                           Shipping Information
+    Supplier
+                                  Customer                                                               Ship To
+                                                                           Ship From
+     ACKLANDS-GRAINGER INC.        EDI ONLY PEPSI FOODS ULC
+                                                                            ACKLANDS-GRAINGER INC.        CA-DC-CALGARY-AB-FLC
+                                  (FLC)
+     PO BOX 2970                                                            11708 - 167 STREET NW           2867 45 AVENUE SE
+     WINNIPEG                    2867 45 AVE SE                             EDMONTON                    CALGARY
+     MB                          FRITO LAY CO                              AB                          AB
+     R3C 4B5                      CALGARY                                 T5M 3Z2                      T2B 3L8
+     CA                          AB                                      Canada                       Canada
+                                  T2B 3L8
+                                  Canada
+   Line Items                                               PO No. : M413555680                                      PO Date : 12 Feb. 2026
+                                                                                                                          Subtotal
+   Line No.    PO Line No.          Type    Supplier Part No. /             Customer Part No.        Quantity            Unit Price
+                                        Description
+                                Material KNYKP315 / PADS KNEE FOAM                        6 / (PR)           $12.96 CAD      $77.76 CAD
+   10        1
+                                                                                                      Line Item Total : $77.76 CAD
+   Line No.    PO Line No.          Type    Supplier Part No. /             Customer Part No.        Quantity            Unit Price         Subtotal
+                                        Description                                        (UOM)
+                                                                                        12 / (PR)           $3.49 CAD      $41.88 CAD
+   20       2                 Material  ALG99-1-9865-10 / COATED
+                                        GLOVES,PUR,NYLON,10,BLACK/
+                                        BLUE,PR
+                                                                                                      Line Item Total : $41.88 CAD
+    Line No.    PO Line No.          Type    Supplier Part No. /             Customer Part No.        Quantity            Unit Price         Subtotal
+                                        Description                                        (UOM)
+                                        ALG99-1-9865-9 / COATED                            12 / (PR)           $3.49 CAD      $41.88 CAD
+    30        3                 Material
+                                        GLOVES.PUR,NYLON,9,BLACK/
+                                        BLUE,PR
+                                                                                                      Line Item Total : $41.88 CAD
+    Line No.    PO Line No.          Type   Supplier Part No. /             Customer Part No.        Quantity            Unit Price         Subtotal
+                                        Description                                        (UOM)
+                                Material  ALG99-1-9865-8 / COATED                                              $3.49 CAD      $41.88 CAD
+    40       4                                                                        12 / (PR)
+                                        GLOVES.PUR,NYLON,8,BLACK
+                                        BLUE,PR
+                                                                                                      Line Item Total : $41.88 CAD
+                                                                                                                           Subtotal
+    Line No.    PO Line No.          Type    Supplier Part No. /             Customer Part No.        Quantity            Unit Price
+                                        Description                                        (UOM)
+                                 Material  ANL11-800-8PP-A / HYFLEX                            6 / (PR)            $3.83 CAD      $22.98 CAD
+    50        5
+                                        11-800 WHI FOM NIT NYL 15G
+                                        VEN S8
+                                                                                                      Line Item Total : $22.98 CAD
+    Line No.    PO Line No.          Type   Supplier Part No. /             Customer Part No.        Quantity            Unit Price         Subtotal
+                                        Description                                        (UOM)
+    60        6                 Material  ANL11-800-9PP-A / HYFLEX                            6 / (PR)            $3.83 CAD      $22.98 CAD
+                                        11-800 WHI FOM NIT NYL 15G
+                                        VEN S9
+                                                                                                      Line Item Total : $22.98 CAD
+              PO Line No.          Type    Supplier Part No./
+    Line No.                                                        Customer Part No.         Quantity            Unit Price         Subtotal
+                                        Description
+                                                                                        (UOM)
+    70       7                 Material ANL11-800-10PP-A/HYFLEX                           6 / (PR)            $3.83 CAD       $22.98 CAD
+                                        11-800 WHI FOM NIT NYL
+                                        15GVEN S10
+                                                                                                      Line Item Total : $22.98 CAD
+    Line No.    PO Line No.          Type    Supplier Part No. /
+                                                                  Customer Part No.         Quantity            Unit Price         Subtotal
+                                        Description
+                                                                                        (UOM)
+    80       8                 Material PHCDFC364YW / HOOK-STYLE                         5 / (EA)            $3.01 CAD      $15.05 CAD
+                                        SAFETY CUTTER.8 1/4 IN OL
+                                                                                                      Line Item Total : $15.05 CAD
+        Tax Summary
+       Category
+                             Details                          Base Amount                Rate %          Amount
+        GST                  Tax Description : GOODS AND
+                                                            $287.39 CAD                5%             $14.37 CAD
+                             SERVICES
+       PST                  Tax Description : State/Provincial        $287.39 CAD
+                                                                                      0%             $0.00 CAD
+                             Tax
+                                                                               Amount Summary
+                                                                               Line item subtotal
+                                                                                                                       $287.39 CAD
+                                                                               Gross amount
+                                                                                                                       $301.76 CAD
+                                                                               Net amount
+                                                                                                                       $301.76 CAD
+                                                                               Total tax amount
+                                                                                                                       $14.37 CAD
+                                                                               Total withholding tax amount
+                                                                               Amount Due
+                                                                                                                       $301.76 CAD
+      Additional Information
+      invioceSourceDocument
+      PurchaseOrder
+      Billing Information
+                                                                          Remittance Information
+      Bill To
+                                                                          Remit To
+      PEPSI FOODS ULC (FLC)
+      2095 MATHESON BLVD E                                                 ACKLANDS-GRAINGER INC.
+                                                                          PO BOX 2970
+      MISSISSAUGA
+                                                                          WINNIPEG
+      ON
+                                                                          MB
+      L4W 0G2
+                                                                          R3C 4B5
+      Canada
+                                                                          Canada
+==================================<Page 1 - END>================================
+==================================<Page 3 - START>================================
+  Appendix
+  Line No.
+             POLine No. Type
+                                                        Supplier Part No. / Description
+  10
+             1         Material
+                                                        KNYKP315 / PADS KNEE FOAM
+  Additional Details:
+  Supplier Part ID : KNYKP315
+  Line No.
+             PO Line No. Type
+                                                        Supplier Part No. / Description
+  20
+             2         Material
+                                                        ALG99-1-9865-10 / COATED GLOVES,PUR,NYLON,10,BLACK/BLUE,PR
+  Additional Details:
+  Supplier Part ID : ALG99-1-9865-10
+ Line No.
+             PO Line No. Type                           Supplier Part No. / Description
+  30        3         Material
+                                                        ALG99-1-9865-9 / COATED GLOVES,PUR,NYLON,9,BLACK/BLUE,PR
+  Additional Details:
+  Supplier Part ID : ALG99-1-9865-9
+ Line No.    PO Line No. Type
+                                                        Supplier Part No. / Description
+ 40        4         Material
+                                                        ALG99-1-9865-8 / COATED GLOVES,PUR,NYLON,8,BLACK/BLUE,PR
+  Additional Details:
+  Supplier Part ID : ALG99-1-9865-8
+ Line No.    PO Line No. Type
+                                                       Supplier Part No. / Description
+ 50        5         Material
+                                                       ANL11-800-8PP-A / HYFLEX 11-800 WHI FOM NIT NYL 15G VEN S8
+ Additional Details:
+  Supplier Part ID : ANL11-800-8PP-A
+  Line No.    PO Line No. Type
+                                                       Supplier Part No. / Description
+ 60        6         Material
+                                                       ANL11-800-9PP-A / HYFLEX 11-800 WHI FOM NIT NYL 15G VEN S9
+ Additional Details:
+  Supplier Part ID : ANL11-800-9PP-A
+ Line No.
+            PO Line No. Type                            Supplier Part No. / Description
+70                   Material
+            7
+                                                       ANL11-800-10PP-A / HYFLEX 11-800 WHI FOM NIT NYL 15GVEN S10
+Additional Details:
+ Supplier Part ID : ANL11-800-10PP-A
+Line No.    PO Line No. Type                            Supplier Part No. / Description
+80        8         Material
+                                                      PHCDFC364YW / HOOK-STYLE SAFETY CUTTER,8 1/4 IN OL
+Additional Details:
+ Supplier Part ID : PHCDFC364YW
+PDF generated on Friday 13 Feb. 2026 6:13 a.m. GMT-08:00
+==================================<Page 3 - END>================================
+==================================<Page 4 - START>================================
+Standard Invoice                                                                                                  GRAINGER
+Original tax invoice has been submitted electronically. This is a
+human readable representation (copy) of the original tax invoice.
+                                                                                                                     9806597127
+                                                                  Invoice Number
+                                                                  (Supplier Reference No.)
+                                                                                              Thursday 12 Feb. 2026 7:00 a.m. GMT-05:00
+                                                                  Invoice Date
+                                                                                                                    $301.76 CAD
+                                                                  Amount Due
+     Contact Information
+                                                                            Shipping Information
+     Supplier
+                                  Customer                                                               Ship To
+                                                                            Ship From
+     ACKLANDS-GRAINGER INC.        EDI ONLY PEPSI FOODS ULC
+                                                                            ACKLANDS-GRAINGER INC.        CA-DC-CALGARY-AB-FLC
+                                  (FLC)
+     PO BOX 2970                                                            11708 - 167 STREET NW           2867 45 AVENUE SE
+     WINNIPEG                    2867 45 AVE SE                             EDMONTON                    CALGARY
+     MB                          FRITO LAY CO                              AB                          AB
+     R3C 4B5                      CALGARY                                 T5M 3Z2                      T2B 3L8
+     CA                          AB                                      Canada                       Canada
+                                  T2B 3L8
+                                  Canada
+   Line Items                                               PO No. : M413555680                                      PO Date : 12 Feb. 2026
+                                                                                                                          Subtotal
+   Line No.    PO Line No.          Type    Supplier Part No. /             Customer Part No.        Quantity            Unit Price
+                                        Description
+                                Material KNYKP315 / PADS KNEE FOAM                        6 / (PR)           $12.96 CAD      $77.76 CAD
+    10        1
+                                                                                                      Line Item Total : $77.76 CAD
+    Line No.    PO Line No.          Type    Supplier Part No. /             Customer Part No.        Quantity            Unit Price         Subtotal
+                                        Description                                        (UOM)
+                                                                                        12 / (PR)           $3.49 CAD      $41.88 CAD
+    20       2                 Material  ALG99-1-9865-10 / COATED
+                                        GLOVES,PUR,NYLON,10,BLACK/
+                                        BLUE,PR
+                                                                                                      Line Item Total : $41.88 CAD
+    Line No.    PO Line No.          Type    Supplier Part No. /             Customer Part No.        Quantity            Unit Price         Subtotal
+                                        Description                                        (UOM)
+                                        ALG99-1-9865-9 / COATED                            12 / (PR)           $3.49 CAD      $41.88 CAD
+    30        3                 Material
+                                        GLOVES.PUR,NYLON,9,BLACK/
+                                        BLUE,PR
+                                                                                                      Line Item Total : $41.88 CAD
+    Line No.    PO Line No.          Type   Supplier Part No. /             Customer Part No.        Quantity            Unit Price         Subtotal
+                                        Description                                        (UOM)
+                                 Material  ALG99-1-9865-8 / COATED                                              $3.49 CAD      $41.88 CAD
+    40       4                                                                        12 / (PR)
+                                        GLOVES.PUR,NYLON,8,BLACK
+                                        BLUE,PR
+                                                                                                      Line Item Total : $41.88 CAD
+                                                                                                                           Subtotal
+    Line No.    PO Line No.          Type    Supplier Part No. /             Customer Part No.        Quantity            Unit Price
+                                        Description                                        (UOM)
+                                 Material  ANL11-800-8PP-A / HYFLEX                            6 / (PR)            $3.83 CAD      $22.98 CAD
+    50        5
+                                         11-800 WHI FOM NIT NYL 15G
+                                        VEN S8
+                                                                                                      Line Item Total : $22.98 CAD
+    Line No.    PO Line No.          Type   Supplier Part No. /             Customer Part No.        Quantity            Unit Price         Subtotal
+                                        Description                                        (UOM)
+    60        6                 Material  ANL11-800-9PP-A / HYFLEX                            6 / (PR)            $3.83 CAD      $22.98 CAD
+                                         11-800 WHI FOM NIT NYL 15G
+                                         VEN S9
+                                                                                                       Line Item Total : $22.98 CAD
+               PO Line No.          Type    Supplier Part No./
+     Line No.                                                        Customer Part No.         Quantity            Unit Price         Subtotal
+                                         Description
+                                                                                        (UOM)
+    70       7                 Material ANL11-800-10PP-A/HYFLEX                           6 / (PR)            $3.83 CAD       $22.98 CAD
+                                         11-800 WHI FOM NIT NYL
+                                         15GVEN S10
+                                                                                                       Line Item Total : $22.98 CAD
+     Line No.    PO Line No.          Type    Supplier Part No. /
+                                                                   Customer Part No.         Quantity            Unit Price         Subtotal
+                                         Description
+                                                                                         (UOM)
+    80       8                 Material PHCDFC364YW / HOOK-STYLE                         5 / (EA)            $3.01 CAD      $15.05 CAD
+                                         SAFETY CUTTER.8 1/4 IN OL
+                                                                                                       Line Item Total : $15.05 CAD
+        Tax Summary
+        Category
+                              Details                          Base Amount                Rate %          Amount
+        GST                  Tax Description : GOODS AND
+                                                             $287.39 CAD                5%             $14.37 CAD
+                              SERVICES
+        PST                  Tax Description : State/Provincial        $287.39 CAD
+                                                                                      0%             $0.00 CAD
+                             Tax
+                                                                                Amount Summary
+                                                                                Line item subtotal
+                                                                                                                       $287.39 CAD
+                                                                                Gross amount
+                                                                                                                       $301.76 CAD
+                                                                                Net amount
+                                                                                                                       $301.76 CAD
+                                                                               Total tax amount
+                                                                                                                        $14.37 CAD
+                                                                               Total withholding tax amount
+                                                                               Amount Due
+                                                                                                                       $301.76 CAD
+      Additional Information
+      invioceSourceDocument
+      PurchaseOrder
+      Billing Information
+                                                                           Remittance Information
+      Bill To
+                                                                           Remit To
+      PEPSI FOODS ULC (FLC)
+      2095 MATHESON BLVD E                                                 ACKLANDS-GRAINGER INC.
+                                                                           PO BOX 2970
+      MISSISSAUGA
+                                                                           WINNIPEG
+      ON
+                                                                          MB
+      L4W 0G2
+                                                                          R3C 4B5
+      Canada
+                                                                          Canada
+==================================<Page 4 - END>================================
+==================================<Page 6 - START>================================
+  Appendix
+  Line No.
+             POLine No. Type
+                                                        Supplier Part No. / Description
+  10
+             1         Material
+                                                        KNYKP315 / PADS KNEE FOAM
+  Additional Details:
+  Supplier Part ID : KNYKP315
+  Line No.
+             PO Line No. Type
+                                                        Supplier Part No. / Description
+  20
+             2         Material
+                                                        ALG99-1-9865-10 / COATED GLOVES,PUR,NYLON,10,BLACK/BLUE,PR
+  Additional Details:
+  Supplier Part ID : ALG99-1-9865-10
+ Line No.
+             PO Line No. Type                           Supplier Part No. / Description
+  30        3         Material
+                                                        ALG99-1-9865-9 / COATED GLOVES,PUR,NYLON,9,BLACK/BLUE,PR
+  Additional Details:
+  Supplier Part ID : ALG99-1-9865-9
+ Line No.    PO Line No. Type
+                                                        Supplier Part No. / Description
+ 40        4         Material
+                                                        ALG99-1-9865-8 / COATED GLOVES,PUR,NYLON,8,BLACK/BLUE,PR
+  Additional Details:
+  Supplier Part ID : ALG99-1-9865-8
+ Line No.    PO Line No. Type
+                                                       Supplier Part No. / Description
+ 50        5         Material
+                                                       ANL11-800-8PP-A / HYFLEX 11-800 WHI FOM NIT NYL 15G VEN S8
+ Additional Details:
+  Supplier Part ID : ANL11-800-8PP-A
+  Line No.    PO Line No. Type
+                                                       Supplier Part No. / Description
+ 60        6         Material
+                                                       ANL11-800-9PP-A / HYFLEX 11-800 WHI FOM NIT NYL 15G VEN S9
+ Additional Details:
+  Supplier Part ID : ANL11-800-9PP-A
+ Line No.
+            PO Line No. Type                            Supplier Part No. / Description
+70                   Material
+            7
+                                                       ANL11-800-10PP-A / HYFLEX 11-800 WHI FOM NIT NYL 15GVEN S10
+Additional Details:
+ Supplier Part ID : ANL11-800-10PP-A
+Line No.    PO Line No. Type                            Supplier Part No. / Description
+80        8         Material
+                                                      PHCDFC364YW / HOOK-STYLE SAFETY CUTTER,8 1/4 IN OL
+Additional Details:
+ Supplier Part ID : PHCDFC364YW
+PDF generated on Friday 13 Feb. 2026 6:13 a.m. GMT-08:00
+==================================<Page 6 - END>================================
+==================================<Page 7 - START>================================
+Standard Invoice                                                                                                  GRAINGER
+Original tax invoice has been submitted electronically. This is a
+human readable representation (copy) of the original tax invoice.
+                                                                                                                     9806597127
+                                                                  Invoice Number
+                                                                  (Supplier Reference No.)
+                                                                                              Thursday 12 Feb. 2026 7:00 a.m. GMT-05:00
+                                                                  Invoice Date
+                                                                                                                    $301.76 CAD
+                                                                  Amount Due
+     Contact Information
+                                                                            Shipping Information
+     Supplier
+                                  Customer                                                               Ship To
+                                                                            Ship From
+     ACKLANDS-GRAINGER INC.        EDI ONLY PEPSI FOODS ULC
+                                                                            ACKLANDS-GRAINGER INC.        CA-DC-CALGARY-AB-FLC
+                                  (FLC)
+     PO BOX 2970                                                            11708 - 167 STREET NW           2867 45 AVENUE SE
+     WINNIPEG                    2867 45 AVE SE                             EDMONTON                    CALGARY
+     MB                          FRITO LAY CO                              AB                          AB
+     R3C 4B5                      CALGARY                                 T5M 3Z2                      T2B 3L8
+     CA                          AB                                      Canada                       Canada
+                                  T2B 3L8
+                                  Canada
+   Line Items                                               PO No. : M413555680                                      PO Date : 12 Feb. 2026
+                                                                                                                          Subtotal
+   Line No.    PO Line No.          Type    Supplier Part No. /             Customer Part No.        Quantity            Unit Price
+                                        Description
+                                Material KNYKP315 / PADS KNEE FOAM                        6 / (PR)           $12.96 CAD      $77.76 CAD
+    10        1
+                                                                                                      Line Item Total : $77.76 CAD
+    Line No.    PO Line No.          Type    Supplier Part No. /             Customer Part No.        Quantity            Unit Price         Subtotal
+                                        Description                                        (UOM)
+                                                                                        12 / (PR)           $3.49 CAD      $41.88 CAD
+    20       2                 Material  ALG99-1-9865-10 / COATED
+                                        GLOVES,PUR,NYLON,10,BLACK/
+                                        BLUE,PR
+                                                                                                      Line Item Total : $41.88 CAD
+    Line No.    PO Line No.          Type    Supplier Part No. /             Customer Part No.        Quantity            Unit Price         Subtotal
+                                        Description                                        (UOM)
+                                        ALG99-1-9865-9 / COATED                            12 / (PR)           $3.49 CAD      $41.88 CAD
+    30        3                 Material
+                                        GLOVES.PUR,NYLON,9,BLACK/
+                                        BLUE,PR
+                                                                                                      Line Item Total : $41.88 CAD
+    Line No.    PO Line No.          Type   Supplier Part No. /             Customer Part No.        Quantity            Unit Price         Subtotal
+                                        Description                                        (UOM)
+                                 Material  ALG99-1-9865-8 / COATED                                              $3.49 CAD      $41.88 CAD
+    40       4                                                                        12 / (PR)
+                                        GLOVES.PUR,NYLON,8,BLACK
+                                        BLUE,PR
+                                                                                                      Line Item Total : $41.88 CAD
+                                                                                                                           Subtotal
+    Line No.    PO Line No.          Type    Supplier Part No. /             Customer Part No.        Quantity            Unit Price
+                                        Description                                        (UOM)
+                                 Material  ANL11-800-8PP-A / HYFLEX                            6 / (PR)            $3.83 CAD      $22.98 CAD
+    50        5
+                                         11-800 WHI FOM NIT NYL 15G
+                                        VEN S8
+                                                                                                      Line Item Total : $22.98 CAD
+    Line No.    PO Line No.          Type   Supplier Part No. /             Customer Part No.        Quantity            Unit Price         Subtotal
+                                        Description                                        (UOM)
+    60        6                 Material  ANL11-800-9PP-A / HYFLEX                            6 / (PR)            $3.83 CAD      $22.98 CAD
+                                         11-800 WHI FOM NIT NYL 15G
+                                         VEN S9
+                                                                                                       Line Item Total : $22.98 CAD
+               PO Line No.          Type    Supplier Part No./
+     Line No.                                                        Customer Part No.         Quantity            Unit Price         Subtotal
+                                         Description
+                                                                                        (UOM)
+    70       7                 Material ANL11-800-10PP-A/HYFLEX                           6 / (PR)            $3.83 CAD       $22.98 CAD
+                                         11-800 WHI FOM NIT NYL
+                                         15GVEN S10
+                                                                                                       Line Item Total : $22.98 CAD
+     Line No.    PO Line No.          Type    Supplier Part No. /
+                                                                   Customer Part No.         Quantity            Unit Price         Subtotal
+                                         Description
+                                                                                         (UOM)
+    80       8                 Material PHCDFC364YW / HOOK-STYLE                         5 / (EA)            $3.01 CAD      $15.05 CAD
+                                         SAFETY CUTTER.8 1/4 IN OL
+                                                                                                       Line Item Total : $15.05 CAD
+        Tax Summary
+        Category
+                              Details                          Base Amount                Rate %          Amount
+        GST                  Tax Description : GOODS AND
+                                                             $287.39 CAD                5%             $14.37 CAD
+                              SERVICES
+        PST                  Tax Description : State/Provincial        $287.39 CAD
+                                                                                      0%             $0.00 CAD
+                             Tax
+                                                                                Amount Summary
+                                                                                Line item subtotal
+                                                                                                                       $287.39 CAD
+                                                                                Gross amount
+                                                                                                                       $301.76 CAD
+                                                                                Net amount
+                                                                                                                       $301.76 CAD
+                                                                               Total tax amount
+                                                                                                                        $14.37 CAD
+                                                                               Total withholding tax amount
+                                                                               Amount Due
+                                                                                                                       $301.76 CAD
+      Additional Information
+      invioceSourceDocument
+      PurchaseOrder
+      Billing Information
+                                                                           Remittance Information
+      Bill To
+                                                                           Remit To
+      PEPSI FOODS ULC (FLC)
+      2095 MATHESON BLVD E                                                 ACKLANDS-GRAINGER INC.
+                                                                           PO BOX 2970
+      MISSISSAUGA
+                                                                           WINNIPEG
+      ON
+                                                                          MB
+      L4W 0G2
+                                                                          R3C 4B5
+      Canada
+                                                                          Canada
+==================================<Page 7 - END>================================
+==================================<Page 9 - START>================================
+  Appendix
+  Line No.
+             POLine No. Type
+                                                        Supplier Part No. / Description
+  10
+             1         Material
+                                                        KNYKP315 / PADS KNEE FOAM
+  Additional Details:
+  Supplier Part ID : KNYKP315
+  Line No.
+             PO Line No. Type
+                                                        Supplier Part No. / Description
+  20
+             2         Material
+                                                        ALG99-1-9865-10 / COATED GLOVES,PUR,NYLON,10,BLACK/BLUE,PR
+  Additional Details:
+  Supplier Part ID : ALG99-1-9865-10
+ Line No.
+             PO Line No. Type                           Supplier Part No. / Description
+  30        3         Material
+                                                        ALG99-1-9865-9 / COATED GLOVES,PUR,NYLON,9,BLACK/BLUE,PR
+  Additional Details:
+  Supplier Part ID : ALG99-1-9865-9
+ Line No.    PO Line No. Type
+                                                        Supplier Part No. / Description
+ 40        4         Material
+                                                        ALG99-1-9865-8 / COATED GLOVES,PUR,NYLON,8,BLACK/BLUE,PR
+  Additional Details:
+  Supplier Part ID : ALG99-1-9865-8
+ Line No.    PO Line No. Type
+                                                       Supplier Part No. / Description
+ 50        5         Material
+                                                       ANL11-800-8PP-A / HYFLEX 11-800 WHI FOM NIT NYL 15G VEN S8
+ Additional Details:
+  Supplier Part ID : ANL11-800-8PP-A
+  Line No.    PO Line No. Type
+                                                       Supplier Part No. / Description
+ 60        6         Material
+                                                       ANL11-800-9PP-A / HYFLEX 11-800 WHI FOM NIT NYL 15G VEN S9
+ Additional Details:
+  Supplier Part ID : ANL11-800-9PP-A
+ Line No.
+            PO Line No. Type                            Supplier Part No. / Description
+70                   Material
+            7
+                                                       ANL11-800-10PP-A / HYFLEX 11-800 WHI FOM NIT NYL 15GVEN S10
+Additional Details:
+ Supplier Part ID : ANL11-800-10PP-A
+Line No.    PO Line No. Type                            Supplier Part No. / Description
+80        8         Material
+                                                      PHCDFC364YW / HOOK-STYLE SAFETY CUTTER,8 1/4 IN OL
+Additional Details:
+ Supplier Part ID : PHCDFC364YW
+PDF generated on Friday 13 Feb. 2026 6:13 a.m. GMT-08:00
+==================================<Page 9 - END>================================

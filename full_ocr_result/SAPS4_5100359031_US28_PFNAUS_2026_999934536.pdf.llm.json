@@ -1,0 +1,55 @@
+{
+  "invoice_data": {
+    "invoice_number": "4505093252",
+    "invoice_date": "2/4/26",
+    "invoice_amount": null,
+    "invoice_currency": null,
+    "tax_amount": null,
+    "po_number": [
+      "4505093252"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "McMaster-Carr",
+    "vendor_address": "PO Box 7690, Chicago IL 60680-7690",
+    "po_line_items": [
+      {
+        "description": "Steel Ring-Grip Retractable Spring Plunger with Lock Nose and Element, 1/2\"-13, 2.5-5 Ib. Nose Force",
+        "quantity": 1.0,
+        "net_price": 14.59
+      }
+    ],
+    "vat_amount": null,
+    "gl_account": null,
+    "bank_name": null,
+    "account_holder_name": null,
+    "banking_account_number": null,
+    "remit_to_address": null,
+    "bill_to_address": null,
+    "transaction_type": "debit"
+  },
+  "filename": "SAPS4_5100359031_US28_PFNAUS_2026_999934536.pdf",
+  "raw_response": {
+    "invoice_number": "4505093252",
+    "invoice_date": "2/4/26",
+    "invoice_amount": null,
+    "invoice_currency": null,
+    "tax_amount": null,
+    "po_number": [
+      "4505093252"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "McMaster-Carr",
+    "vendor_address": "PO Box 7690, Chicago IL 60680-7690",
+    "po_line_items": [
+      {
+        "description": "Steel Ring-Grip Retractable Spring Plunger with Lock Nose and Element, 1/2\"-13, 2.5-5 Ib. Nose Force",
+        "quantity": 1.0,
+        "net_price": 14.59
+      }
+    ]
+  }
+}

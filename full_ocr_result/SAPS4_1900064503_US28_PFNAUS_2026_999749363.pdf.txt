@@ -1,0 +1,201 @@
+==================================<Page 1 - START>================================
+      OpenText Workflow History
+      Vendor
+      AARON THOMAS CO INC
+      7421 CHAPMAN AVE
+      GARDEN GROVE CA 92841-2115
+      USA
+      Invoice
+      Reference
+                         INV010063309
+                                                                  Document Date    04.11.2025
+      DP Document No.  39236430
+                                                                  Net Amount
+                                                                                   USD        19,469.32
+      Comp. Code       US28 Frito-Lay, Inc.
+                                                                  Tax Amount
+                                                                                   USD               0.00
+      Posting Date     13.02.2026
+                                                                  Gross Amount     USD         19,469.32
+     SAP Document No. 1900064503 2026
+                                              Pre-Process History
+      ACTIVITY
+                                                             USER       END TIME         DOCUMENT STATUS
+      Update status
+                                                             VRBLAOT_U  03.02.2026       Validation
+                                                             SR         16:34:16
+                                                                                           Complete
+                                         Document Process History
+     ACTIVITY          PROCESS TYPE/BLOCK REASON
+                                                            USER        END TIME         DOCUMENT STATUS
+     BC Inbound
+                                                            VRBLAOT_U  03.02.2026       Document
+                                                                         16:33:19
+                                                            SR                            Registered
+    Workflow Start
+                       Invalid Requestor ID (NPO)         Record to  03.02.2026        Created
+                                                            Report      16:34:16
+                                                            Batch
+                                                            Account
+                                                            Owner:
+   Apply Business
+                      Invalid Requestor ID (NPO)          NAVINKUMA  11.02.2026        Created
+   Rules
+                                                            R R         18:11:23
+  Comment:
+  Changed By:   NAVINKUMAR R (09336939)
+  Changed On:   02/11/2026 18:11:21
+ **********************************************************************
+Please approve the non po invoice
+Business Rules    Approval Required (NPo)             SAP_WFRT    11.02.2026
+                                                                                            Indexed
+Check in BG
+                                                                         18:11:27
+   Invoice submitted for Approval
+                                                                         11.02.2026 18:11:28
+   Financial Information Entered
+                                                            DOUGLAS     12.02.2026 15:28:30
+                                                            FRUCCI
+  Data Entered and Invoice Approved                    DOUGLAS     12.02.2026 15:28:33
+                                                            FRUCCI
+  Invoice Approved
+                                                            JULIE       12.02.2026 15:36:31
+                                                            DUNN
+Approval          Approval Required (NPO)             SAP_WFRT    12.02.2026        Approval
+Workflow                                                               15:36:39          Complete
+==================================<Page 1 - END>================================
+==================================<Page 2 - START>================================
+   OpenText Workflow History
+  Invoice
+  Vendor            AARON THOMAS CO INC GARDEN GROVE
+   Reference         INV010063309                        Gross Amount     USD       19,469.32
+                                Document Process History - Continuation
+    ACTIVITY          PROCESS TYPE/BLOCK REASON          USER        END TIME          DOCUMENTSTATUS
+    Business Rules   Process Non-PO Invoice (NPO)        SAP_WFRT    12.02.2026        Approval
+    Check in BG                                                        15:36:42          Complete
+    Create Doc. BG   Process Non-PO Invoice (NPO)        SAP_WFRT    12.02.2026        Sent for Doc
+                                                                         15:36:43          Creation
+   Post Non-PO       Process Non-Po Invoice (NPO)        KARTHIK M  13.02.2026        Document
+                                                                                            Created
+   Invoice                                                             10:57:36
+   SAP Document                                           SAP_WFRT    13.02.2026        Posted
+   Check                                                               10:57:42
+==================================<Page 2 - END>================================
+==================================<Page 3 - START>================================
+          PEPSICO
+  Instructions:When there is not an "Ojficial" Invoice to request payment, complete the information on this form.
+  1.You must fillin all of the fields below and the form must be accompanied with supporting documentation.
+  2.Save submission as 1 single PDF file prior to submitting to nassapinvoicesubmission@pepsico.com
+               SAP Payment Request
+                                                                                    To be filled by Requestor
+         Substitute Invoice Form
+  Vendor Type
+                                                             S4
+  Vendor Name:
+                                                             AARON THOMAS CO INC
+  Vendor Number:
+                                                             2003186257
+  Company Code:                                             US28
+ Remit To Address :                                          AARON THOMAS CO INC
+ (Must match the address in the AP system)                      7421 CHAPMAN AVENUE
+                                                             GARDEN GROVE, CA 92841
+ Special Handling needed:                                     No
+ Attn:                                                      N/A
+Address:                                                   N/A
+ Overnight delivery required:
+ (if yes provide account # or CC below)                           N/A
+ FedEx or UPS, & Provide Number:                              N/A
+                                                            N/A
+ FedEx or UPS account #
+ Cost Center (If No FedEx/UPS Number):                         N/A
+Trnsaction type:
+                                                            Invoice
+Choose only 1 option - Invoice or Credit Memo from the dropdown
+Invoice Date:                                              11/4/2025
+Invoice #:
+                                                            INV010063309
+Limited to 16 characters
+Purchase Order #
+                                                            NON-PO
+Not required if non-PO
+Payment GROSS Amount:                                    $19,469.32
+Tax Amount
+                                                           $0.00
+(if applicable)
+Payment NET Amount:                                      $19,469.32
+Currency (USD or CAD)                                      USD
+Header Text:                                               26327219/322386-MCN-DF
+Requestor Name:                                           DOUGLAS FRUCCI
+Requestor email                                            DOUGLAS.FRUCCI@PEPSICO.COM
+                                                           Julie Dunn
+1st Level Approver Name
+1st Level Approver Email id/GPID                              03216291
+                                                           1/27/2025
+Date Requested:
+                                                           137100
+GL Coding (6 digits)
+Cost Center (if applicable)                                    2000050201
+Profit Center (if applicable)                                  NA
+WBS Element (if applicable)                                  NA
+For Assistance On This Form submission please contact:
+Raise service now ticket(Snow)                                PepsiCo - Sign In
+==================================<Page 3 - END>================================
+==================================<Page 4 - START>================================
+                        Aaron Thomas Company Inc. California
+                        7421 Chapman Avenue                                                 Customer Invoice
+                        Garden Grove, CA 92841
+                                                                                                        INV010063309
+                        Tel 800-394-4776
+ORDER INFO
+Cust PO No:     "26327219/322386-MCN "
+Invoice Date:     11/4/2025
+Due Date:       1/3/2026
+Terms:          Net 60
+Order No:
+                N/A
+Note:
+BILL TO                                                 CA0394
+                PepsiCo Inc                                                 Remit 7421 Chapman Ave
+                PO BOX 660740                                                To: Garden Grove, CA 92841
+                Dallas, TX 75266
+SHIP TO
+                                                      Pepsico Inc
+               PepsiCo Inc                                            SHIPPING INFO
+               PO BOX 660740
+                                                                     Ship Date:
+               Dallas, TX 75266                                        Ship Via:
+                                                                     Best By / Lot:
+                                                                     Freight Terms:
+                                                                                                                      Ext
+                                                                              Order      Ship
+Line  Description
+                                                                               Qty       Qty     Unit Price         Price
+1
+      996878- Canisters cool ranch                                               100,378    100,378       0.19396      19,469.32
+Note: Sodium Reduction                                                                                            $19,469.32
+                                                                                     Sales Amount:
+                                                                                     Freight Charge:                   $0.00
+                                                                                     Total:                      $19,469.32
+==================================<Page 4 - END>================================
+==================================<Page 5 - START>================================
+           From: SPA - PepsiCo Nass AP Invoice Submission <nassapInvoiceSubmission@pepsico.com>
+           Sent: Mon, 2 Feb 2026 20:01:36 (UTC)
+           To: svcimagingspaboxprod@pepsico.com
+            Subject: FW: Aaron Thomas Inc Invoice INV010063309
+            Original Number of Attachments : 1
+            Original Attachment Names: ATCO Combined Invoice INV010063309.pdf
+            Number of forwarded PDF's: 1
+            Number of forwarded Non PDF files: 0
+            From: Frucci, Douglas {PEP}<douglas.frucci@pepsico.com>
+            Sent: Monday, February 2, 2026 8:00:13 PM
+            To: SPA - PepsiCo Nass AP Invoice Submission <nassapInvoiceSubmis sion@pepsico.com>
+            Cc: Lyons, Emily {PEP} <Emily.Lyons@pepsico.com>;Griffin, Amy{PEP} <Amy.Griffin@pepsico.com>
+            Subject: Aaron Thomas Inc Invoice INV010063309
+            Hi All,
+             Please expedite the attached obsolescence invoice and coversheet for Aaron Thomas Inc. GL
+             Acct and Cost Center included on the cover sheet.
+             This invoice is tied to obsolescence reserve 26327219/322386-McN-DF.
+             Please advise when the supplier can expect payment.
+             Thanks so much,
+            Doug Frucci | Sr. Manager Procurement Operations | 972.334.3495
+==================================<Page 5 - END>================================

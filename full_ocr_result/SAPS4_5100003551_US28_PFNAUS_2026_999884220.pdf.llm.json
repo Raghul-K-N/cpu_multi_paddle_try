@@ -1,0 +1,59 @@
+{
+  "invoice_data": {
+    "invoice_number": "INVINC550020302",
+    "invoice_date": "2/9/2026",
+    "invoice_amount": "338.63",
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": null,
+    "po_number": [
+      "4504416431"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "Peak Technologies, Inc.",
+    "vendor_address": "8458 Solutions Center, Chicago, IL 60677-8002",
+    "po_line_items": [
+      {
+        "description": "Z1AE-ET6XXW-3C00 Zebra Z1AE-ET6XXW-3C00 ET60W / ET65W 3yr OneCare Essential Service Contract Ejfective Dates: 2/7/2026 -2/6/2029 Serials: S26014523600054",
+        "quantity": 1.0,
+        "net_price": 338.63
+      }
+    ],
+    "vat_amount": null,
+    "gl_account": null,
+    "bank_name": null,
+    "account_holder_name": null,
+    "banking_account_number": null,
+    "remit_to_address": null,
+    "bill_to_address": null,
+    "transaction_type": "debit"
+  },
+  "filename": "SAPS4_5100003551_US28_PFNAUS_2026_999884220.pdf",
+  "raw_response": {
+    "invoice_number": "INVINC550020302",
+    "invoice_date": "2/9/2026",
+    "invoice_amount": "338.63",
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": null,
+    "po_number": [
+      "4504416431"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "Peak Technologies, Inc.",
+    "vendor_address": "8458 Solutions Center, Chicago, IL 60677-8002",
+    "po_line_items": [
+      {
+        "description": "Z1AE-ET6XXW-3C00 Zebra Z1AE-ET6XXW-3C00 ET60W / ET65W 3yr OneCare Essential Service Contract Ejfective Dates: 2/7/2026 -2/6/2029 Serials: S26014523600054",
+        "quantity": 1.0,
+        "net_price": 338.63
+      }
+    ]
+  }
+}

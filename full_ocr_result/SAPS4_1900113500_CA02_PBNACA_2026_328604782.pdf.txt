@@ -1,0 +1,251 @@
+==================================<Page 1 - START>================================
+   OpenText Workflow History
+   Vendor
+   MULTI DESIGN GRAPHICS INC
+   325 BRUNEL RD
+   MISSISSAUGA ON L4Z 1Z5
+    CANADA
+    Invoice
+    Reference        20873
+                                                               Document Date    26.01.2026
+    DP Document No.  39232535
+                                                               Net Amount       CAD            496.89
+    Comp. Code
+                      CA02 Pepsi Bottling Grp Canada           Tax Amount
+                                                                                 CAD              64.60
+   Posting Date     13.02.2026
+                                                               Gross Amount
+                                                                                 CAD            561.49
+   SAP Document No. 1900113500 2026
+                                           Pre-Process History
+    ACTIVITY                                             USER       END TIME
+                                                                                        DOCUMENT STATUS
+    Update status                                        VRBLAOT_U  03.02.2026        Validation
+                                                          SR         14:27:57          Complete
+                                       Document Process History
+    ACTIVITY         PROCESS TYPE/BLOCK REASON
+                                                          USER       END TIME         DOCUMENT STATUS
+    BC Inbound
+                                                          VRBLAOT_U  03.02.2026       Document
+                                                          SR          14:27:01         Registered
+    Workflow Start   Invalid Requestor ID (NPO)
+                                                          Record to  03.02.2026        Created
+                                                          Report     14:27:57
+                                                          Batch
+                                                          Account
+                                                          Owner:
+   Apply Business   Invalid Requestor ID (NPO)
+                                                          NAVINKUMA  11.02.2026        Created
+   Rules                                                 RR         18:42:35
+   Comment:
+  Changed By:   NAVINKUMAR R (09336939)
+  Changed On:   02/11/2026 18:42:34
+ Please approve the non po invoice
+Apply Business
+                    Invalid Requestor ID (NPO)          NAVINKUMA  11.02.2026        Created
+Rules                                                  R R         18:43:27
+Comment:
+**********************************************************************
+Changed By:   NAVINKUMAR R (09336939)
+Changed On:   02/11/2026 18:43:25
+********************************************************************
+Please approve the non po invoice
+Business Rules    Approval Required (NPo)             SAP_WFRT    11.02.2026        Indexed
+Check in BG                                                          18:43:30
+==================================<Page 1 - END>================================
+==================================<Page 2 - START>================================
+OpenText Workflow History
+Invoice
+Vendor            MULTI DESIGN GRAPHICS INC MISSISSAUGA
+Reference                                              Gross Amount
+                    20873                                                  CAD          561.49
+                              Document Process History - Continuation
+  ACTIVITY          PROCESS TYPE/BLOCK REASON          USER        END TIME          DOCUMENT STATUS
+    Invoice submitted for Approval                                   11.02.2026 18:43:33
+    Financial Information Entered                       SUREKA
+                                                                       11.02.2026 21:14:06
+                                                          NANTHAKUM
+                                                          ARAN
+    Data Entered and Invoice Approved                   SUREKA
+                                                                       11.02.2026 21:14:09
+                                                          NANTHAKUM
+                                                          ARAN
+    Comment:
+    449-019-746
+                                                          SUSAN
+    Invoice Approved                                                 12.02.2026 17:20:59
+                                                          MARTINS
+  Approval          Approval Required (NPO)             SAP_WFRT   12.02.2026        Approval
+                                                                                         Complete
+ Workflow                                                            17:21:04
+ Business Rules                                         SAP_WFRT   12.02.2026        Approval
+                     Process Non-PO Invoice (NPO)
+ Check in BG                                                        17:21:08          Complete
+                                                                                          Sent for Doc
+ Create Doc. BG   Process Non-PO Invoice (NPO)       SAP_WFRT   12.02.2026
+                                                                       17:21:09          Creation
+ Post Non-PO      Process Non-PO Invoice (NPO)       NAVINKUMA  13.02.2026        Document
+                                                                                          Created
+ Invoice                                                RR        13:36:52
+                                                                                          Posted
+ SAP Document                                           SAP_WFRT   13.02.2026
+ Check                                                               13:37:01
+==================================<Page 2 - END>================================
+==================================<Page 3 - START>================================
+      PEPSICO
+Instructions:When there is not an "Ojficial" Invoice to request payment, complete the information on this form.
+1You must fill in allof the fields below and the form must be accompanied with supporting documentation.
+2. Save submission as 1 single PDF file prior to submitting to nassapinvoicesubmission@pepsico.com
+            SAP Payment Request
+                                                              To be filled by Requestor
+       Substitute Invoice Form
+Vendor Type                                  S4
+Vendor Name:
+                                            Multi Design Graphics Inc.
+Vendor Number:                                2004961625
+Company Code:
+                                            CA02
+                                            Multi Design Graphics Inc.
+Remit To Address :
+(Must match the address in the AP system)                 325 Brunel Rd
+                                            Mississauga, ON L4Z 1Z5
+Special Handling needed:
+Attn:
+Address:
+Overnight delivery required:
+(if yes provide account # or CC below)
+FedEx or UPS, & Provide Number:
+FedEx or UPS account #
+Cost Center (If No FedEx/UPS Number):
+Trnsaction type:
+Choose only 1 option - Invoice or Credit Memo from the dropdown   Invoice
+Invoice Date:                                 1/26/2026
+Invoice #:
+                                           20873
+Limited to 16 characters
+Purchase Order #
+Not required if non-PO
+Payment GROSS Amount:                          $561.49
+Tax Amount
+                                          $64.60
+(if applicable)
+Payment NET Amount:                            $496.89
+Currency (USD or CAD)                            CAD
+Header Text:                                 449-019-746
+Requestor Name:
+                                          KRISTOFFER HOLMES
+Requestor email                               KRISTOFFER.HOMES@pepsiCO.com
+1st Level Approver Name                          SUREKA NANTHAKUMARAN
+1st Level Approver Email id/GPID                      sureka.nanthakumaran@pepsico.com
+                                          1/30/2026
+Date Requested:
+                                          219335
+GL Coding (6 digits)
+Cost Center (if applicable)
+Profit Center (if applicable)                         2BCAL10000
+WBS Element (if applicable)
+For Assistance On This Form submission please contact:
+Raise service now ticket(Snow)                       PepsiCo - Sign In
+                            Multi Design Graphics Inc.
+                            325 Brunel Rd
+                            Mississauga, ON L4Z 1Z5                             Invoice #: 20873
+     MDGPh: (905) 568-3370                       Order Created: 2026-01-26 10:58:41AM
+                            Email: info@mdgoroup.ca
+                            Web: http:/www.mdggroup.ca                    Sale Date: 2026-01-28 1:35:26PM
+      MULTI DESIGN GHAPHICSY
+                                                                                 PO#: PENDING
+                                                                                      Page 1 of 1
+      Sale Date:
+                2026-01-28 1:35:26PM
+                                                             Greated Date: 2026-01-26 10:50:4 tAM
+                                                              Salesperson: Francois Lasier
+         Bilted To:PEPSiCO Baverages Canada
+         Contact:Jassica Gosselin, National Account Ma                             Emall:Francois@mdggroup.ca
+                                                              Office Phone: (905) 564- 2217
+         Address: 2095 Matheson Bivd E                                           (905) 564- 9941
+                Missi6sauga.ON L4W SG1                                 Offiõe Faxc:
+          Email:Jessica.Goscelin@pepaico.com
+==================================<Page 3 - END>================================
+==================================<Page 4 - START>================================
+   Office Phona: [(514) 820-2418
+         Fax:
+   Description:OR Codes- Mr Sub & Tai Express
+                                                  Quantity
+            Product: Design                                                                  Subtotal
+                                                   1.00
+                                                                                            $0.00
+            Description:Design, cuatomar supplied files ready to print with die
+                      lines, Please nola lhat if any file adjustments are
+                      raquired, they will be billed at our design sate of
+                      $125.00
+             • 1 Files
+                                                  900.00                                   $450.00
+          2Product: Roll Sign Prini
+             Description:OR Code6
+                      100x Mc Sub
+                      800x Tai Express
+                      Diroct print to whito vinyil, matlo laminoto on face and
+                      supplied
+          3Product: Shipping                          1.00                                    $46.09
+             Description:Shipping - too:
+                      Pep6ico
+                       2b nue martal. Pont-Rouge, Qutibec, G3H 2c2
+         Notes All Funds are in CDN
+               s0 days past due accounts wil! be subject lo a 2% Interest charge per month
+               Note that a 2.5% surcharge will apply to credit card payments
+                                                                      Line Item Total       3496.89
+                                                                                        564.60
+                                                                        Total Taxos:
+                                                                            Total:       $561.49
+                                                                                       3561.49
+                                                                      Order Balance:
+    Payment Terms: Net 45; Balance due i 60 deys.
+                                                                                  Tax 1D: 858669567
+    Print Dalte: 2026-01-28
+   RE: Invoice 20873
+            Gosselin, Jessica {PEP]
+           To : MDG Accounting;•Holmes, Kristoffer {PEP}                                  Thu 3:16 PM
+            Cc   Francois Losier;Tjondrowibowo, Noelle (PEP};
+               Commander, Courtenay {PEP}
+  Retention Policy Inbox- 90 days (90 days)                   Expires 4/29/2025
+    D Follow up. Start by Thursday, January 29, 2026. Due by Thursday, January 29, 2026.
+        Invoice - 20873.pdf 75 KB
+   POF
+  Start your reply all with:  Yes, will do.
+                                  Ok, thank you.     Yes.    Feedback
+ Hi Liette,
+ There is no PO number, it will be paid from another budget.
+ @Holmes, Kristoffer {PEP} Is it possible to pay the attached invoice with the Maxtrac number 449-019-746?
+ Thank you,
+Jessica
+==================================<Page 4 - END>================================
+==================================<Page 5 - START>================================
+        From: SPA - PepsiCo Nass AP Invoice Submission <nassapInvoiceSubmission@pepsico.com>
+         Sent: Mon, 2 Feb 2026 21:08:44 (UTC)
+         To: svcimagingspaboxprod@pepsico.com
+         Subject: FW: MDG 20873
+         Original Number of Attachments : 1
+         Original Attachment Names: MDG 20873.pdf
+         Number of forwarded PDF's: 1
+         Number of forwarded Non PDF files: 0
+         From: PBC-Canada-DirectKey {PBC} <PBG-Canada-DirectKey@pepsico.com>
+         Sent: Monday, February 2, 2026 9:07:17 PM
+         To: SPA - PepsiCo Nass AP Invoice Submission <nassaplnvoiceSubmission@pepsico.com>
+         Subject: MDG 20873
+         Hello,
+         Please process the attached payment.
+         Thanks,
+         Sureka
+         From: Holmes, Kristoffer {PEP} <Kristoffer.Holmes@pepsico.com>
+         Sent: Friday, January 30, 2026 3:16 PM
+         To: PBC-Canada-DirectKey {PBC} <PBG-Canada-DirectKey@pepsico.com>
+         Subject: inv 20873
+         Pls process invoice
+                                              Kristoffer Holmes
+                                              Field Sales Analyst
+                 PEPSICO
+                                              2095 Matheson Blvd. E., Mississauga, ON L4W 0G2
+                 foodservice i
+                                              Email: kristoffer,holmes@pepsico.com
+                                              Cell: 647-533-1151
+==================================<Page 5 - END>================================

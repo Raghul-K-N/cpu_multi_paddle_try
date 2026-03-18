@@ -1,0 +1,119 @@
+{
+  "invoice_data": {
+    "invoice_number": "M413352691",
+    "invoice_date": "2/1/2026",
+    "invoice_amount": "1148.30",
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": "99.05",
+    "po_number": [
+      "M413028740"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "Custom Lawn Care, LLC",
+    "vendor_address": "Fayetteville, AR 72703-9466",
+    "po_line_items": [
+      {
+        "description": "Mowing, Weedeating, Blowing, Bed Main Weekly During Growing Season (Per Month)",
+        "quantity": 1.0,
+        "net_price": 658.09
+      },
+      {
+        "description": "Mulch Beds Once A Year (Per Month)",
+        "quantity": 1.0,
+        "net_price": 82.14
+      },
+      {
+        "description": "Pruning Of Landscape Areas 3 Times A Year Or As Needed (Per Month)",
+        "quantity": 1.0,
+        "net_price": 86.21
+      },
+      {
+        "description": "Leaf Removal (Per Month)",
+        "quantity": 1.0,
+        "net_price": 40.44
+      },
+      {
+        "description": "Irrigation Start up-Shut Down - Summer Check - Backflow Test (Per Month)",
+        "quantity": 1.0,
+        "net_price": 97.53
+      },
+      {
+        "description": "7 Step Lawn Program (Per Month)",
+        "quantity": 1.0,
+        "net_price": 97.53
+      },
+      {
+        "description": "3% Credit Card Fee",
+        "quantity": 1.0,
+        "net_price": 33.45
+      }
+    ],
+    "vat_amount": null,
+    "gl_account": null,
+    "bank_name": null,
+    "account_holder_name": null,
+    "banking_account_number": null,
+    "remit_to_address": null,
+    "bill_to_address": null,
+    "transaction_type": "debit"
+  },
+  "filename": "SAPS4_5100350502_US29_PFNAUS_2026_999885168.pdf",
+  "raw_response": {
+    "invoice_number": "M413352691",
+    "invoice_date": "2/1/2026",
+    "invoice_amount": "1148.30",
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": "99.05",
+    "po_number": [
+      "M413028740"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "Custom Lawn Care, LLC",
+    "vendor_address": "Fayetteville, AR 72703-9466",
+    "po_line_items": [
+      {
+        "description": "Mowing, Weedeating, Blowing, Bed Main Weekly During Growing Season (Per Month)",
+        "quantity": 1.0,
+        "net_price": 658.09
+      },
+      {
+        "description": "Mulch Beds Once A Year (Per Month)",
+        "quantity": 1.0,
+        "net_price": 82.14
+      },
+      {
+        "description": "Pruning Of Landscape Areas 3 Times A Year Or As Needed (Per Month)",
+        "quantity": 1.0,
+        "net_price": 86.21
+      },
+      {
+        "description": "Leaf Removal (Per Month)",
+        "quantity": 1.0,
+        "net_price": 40.44
+      },
+      {
+        "description": "Irrigation Start up-Shut Down - Summer Check - Backflow Test (Per Month)",
+        "quantity": 1.0,
+        "net_price": 97.53
+      },
+      {
+        "description": "7 Step Lawn Program (Per Month)",
+        "quantity": 1.0,
+        "net_price": 97.53
+      },
+      {
+        "description": "3% Credit Card Fee",
+        "quantity": 1.0,
+        "net_price": 33.45
+      }
+    ]
+  }
+}

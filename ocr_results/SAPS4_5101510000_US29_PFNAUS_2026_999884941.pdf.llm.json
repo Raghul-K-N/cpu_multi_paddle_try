@@ -1,0 +1,47 @@
+{
+  "invoice_data": {
+    "invoice_number": "1286520",
+    "invoice_date": "1/29/2026",
+    "invoice_amount": "31,524.95",
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": "2,457.62",
+    "po_number": [
+      "4505099757"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "Fifth Third Equipment Finance Co.",
+    "vendor_address": "38 Fountain Square Plaza, Cincinnati, OH45202",
+    "po_line_items": null,
+    "vat_amount": null,
+    "gl_account": null,
+    "bank_name": null,
+    "account_holder_name": null,
+    "banking_account_number": null,
+    "remit_to_address": null,
+    "bill_to_address": null,
+    "transaction_type": "debit"
+  },
+  "filename": "SAPS4_5101510000_US29_PFNAUS_2026_999884941.pdf",
+  "raw_response": {
+    "invoice_number": "1286520",
+    "invoice_date": "1/29/2026",
+    "invoice_amount": "31,524.95",
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": "2,457.62",
+    "po_number": [
+      "4505099757"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "Fifth Third Equipment Finance Co.",
+    "vendor_address": "38 Fountain Square Plaza, Cincinnati, OH45202",
+    "po_line_items": null
+  }
+}

@@ -1,0 +1,47 @@
+{
+  "invoice_data": {
+    "invoice_number": "982695D",
+    "invoice_date": "2/6/2026",
+    "invoice_amount": null,
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": "../../../../0.00",
+    "po_number": [
+      "23571294"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "TEC Equipment - Reno (P746)",
+    "vendor_address": "1955 E Greg St, Sparks, NV 89431",
+    "po_line_items": null,
+    "vat_amount": null,
+    "gl_account": null,
+    "bank_name": null,
+    "account_holder_name": null,
+    "banking_account_number": null,
+    "remit_to_address": null,
+    "bill_to_address": null,
+    "transaction_type": "debit"
+  },
+  "filename": "SAPS4_5100125018_US30_PFNAUS_2026_999885272.pdf",
+  "raw_response": {
+    "invoice_number": "982695D",
+    "invoice_date": "2/6/2026",
+    "invoice_amount": "../../../../782.69",
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": "../../../../0.00",
+    "po_number": [
+      "23571294"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "TEC Equipment - Reno (P746)",
+    "vendor_address": "1955 E Greg St, Sparks, NV 89431",
+    "po_line_items": null
+  }
+}

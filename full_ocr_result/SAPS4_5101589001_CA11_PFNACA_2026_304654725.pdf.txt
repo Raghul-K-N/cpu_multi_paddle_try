@@ -1,0 +1,196 @@
+==================================<Page 1 - START>================================
+Standard Invoice
+                                                                                                                    staples[)
+Original tax invoice has been submitted electronically. This is a
+human readable representation (copy) of the original tax invoice.
+                                                                 Invoice Number
+                                                                                                                      72393893
+                                                                 (Supplier Reference No.)
+                                                                Invoice Date                   Tuesday 10 Feb. 2026 5:44 a.m. GMT-07:00
+                                                                Amount Due                                         $211.12 CAD
+    Contact Information                                                        Shipping Information
+    Supplier                      Customer
+                                                                          Ship From                     Ship To
+    Supplier VAT/Tax ID              PEPSICO FOODS CANADA O/
+                                                                          Staples Canada ULC              FRITO-LAY CDA/PEPSICO
+    126152586RT0001               A FRITO LAY CANADA
+                                                                          550 PENDANT DR                BEVERAGE
+                                 5550 EXPLORER DR 8TH                                                   SHAUN.GADDAS@PEPSICO.COM
+                                                                          MISSISSAUGA
+                                 FLOOR
+                                                                          ON                          1001 BISHOP ST N
+                                 MISSISSAUGA                                                          CA-PL-CAMBRIDGE-ON-FLC
+                                                                          L5T 2W6
+                                 ON                                                                  CAMBRIDGE
+                                                                          Canada
+                                 L4W 0C3                                                              ON
+                                 Canada                                                               N3H 4V8
+                                 Address ID:                                                             CA
+                                 CA1_ARIBA PAYABLES                                                    Address ID: shipTo
+  Line Items                                              PO No. : M413547129                                       PO Date : 9 Feb. 2026
+  Line No.    PO Line No.          Type    Supplier Part No. /             Customer Part No.        Quantity            Unit Price         Subtotal
+                                      Description                                       (UOM)
+                                                                                                                      $69.27 CAD
+  2        2                 Material  AVE05161 /                                       1 / (PK)          $69.27 CAD
+                                      LABEL,LASER,ADDRESS,4X1
+                                                                                                    Line Item Total : $69.27 CAD
+  Line No.                      Type    Supplier Part No. /             Customer Part No.        Quantity            Unit Price         Subtotal
+            PO Line No.
+                                      Description                                       (UOM)
+  3        3                 MaterialTLS6320908541 /TIM HORTONS                        1 / (PK)           $28.79 CAD      $28.79 CAD
+                                      SNGLE SRVE,VARIETY
+                                                                                                    Line Item Total : $28.79 CAD
+                                                                                                        Unit Price         Subtotal
+  Line No.    PO Line No.          Type    Supplier Part No. /             Customer Part No.        Quantity
+                                      Description                                       (UOM)
+                               Material AVE05168 /                                       2 / (PK)          $46.04 CAD      $92.08 CAD
+  4         4
+                                      LABEL.LASER.ADDRESS.5X3 1/2
+                                                                                                    Line Item Total : $92.08 CAD
+      Tax Summary
+                                                                                                   Amount
+      Category              Details                          Base Amount               Rate %
+                                                                                    13.0%          $20.98 CAD
+      HST                  Tax Description :                   $190.14 CAD
+                           126152586RT0001
+                           Tax Location : CA
+                                                                             Amount Summary
+                                                                                                                    $190.14 CAD
+                                                                             Line item subtotal
+                                                                                                                    $211.12 CAD
+                                                                              Gross amount
+                                                                             Net amount                              $211.12 CAD
+                                                                             Total tax amount                            $20.98 CAD
+                                                                             Total withholding tax amount
+                                                                                                                     $211.12 CAD
+                                                                             Amount Due
+    Additional Information
+                                                                         Remittance Information
+                                                                         Remit To
+                                                                         Staples Canada ULC
+                                                                         c/o T04446C
+                                                                         PO Box 4446C, STN A
+                                                                         Toronto
+                                                                         ON
+                                                                         M5W 4A2
+                                                                         CA
+                                                                         Address ID: CA1_32220
+==================================<Page 1 - END>================================
+==================================<Page 2 - START>================================
+  Appendix
+ Line No.    PO Line No. Type                           Supplier Part No. / Description
+  2
+             2         Material                         AVE05161 / LABEL,LASER,ADDRESS,4X1
+ Additional Details:
+ Supplier Part ID : AVE05161
+Line No.    PO Line No. Type
+                                                       Supplier Part No. / Description
+ 3         3         Material
+                                                       TLS6320908541 / TIM HORTONS SNGLE SRVE,VARIETY
+Additional Details:
+ Supplier Part ID : TLS6320908541
+Line No.    PO Line No. Type                           Supplier Part No. / Description
+4
+            4         Material                         AVE05168 / LABEL,LASER,ADDRESS,5X3 1/2
+Additional Details:
+ Supplier Part ID : AVE05168
+PDF generated on Wednesday 11 Feb. 2026 2:44 a.m. GMT-08:00
+==================================<Page 2 - END>================================
+==================================<Page 3 - START>================================
+    Standard Invoice
+                                                                                                                       staples[)
+    Original tax invoice has been submitted electronically. This is a
+    human readable representation (copy) of the original tax invoice.
+                                                                    Invoice Number
+                                                                                                                         72393893
+                                                                    (Supplier Reference No.)
+                                                                    Invoice Date                   Tuesday 10 Feb. 2026 5:44 a.m. GMT-07:00
+                                                                    Amount Due                                         $211.12 CAD
+        Contact Information                                                        Shipping Information
+        Supplier                      Customer
+                                                                             Ship From                     Ship To
+        Supplier VAT/Tax ID              PEPSICO FOODS CANADA O/
+                                                                              Staples Canada ULC              FRITO-LAY CDA/PEPSICO
+        126152586RT0001               A FRITO LAY CANADA
+                                                                              550 PENDANT DR                BEVERAGE
+                                     5550 EXPLORER DR 8TH                                                   SHAUN.GADDAS@PEPSICO.COM
+                                                                             MISSISSAUGA
+                                     FLOOR
+                                                                             ON                          1001 BISHOP ST N
+                                     MISSISSAUGA                                                          CA-PL-CAMBRIDGE-ON-FLC
+                                                                             L5T 2W6
+                                     ON                                                                  CAMBRIDGE
+                                                                             Canada
+                                     L4W 0C3                                                              ON
+                                     Canada                                                               N3H 4V8
+                                     Address ID:                                                             CA
+                                     CA1_ARIBA PAYABLES                                                    Address ID: shipTo
+     Line Items                                              PO No. : M413547129                                       PO Date : 9 Feb. 2026
+      Line No.    PO Line No.          Type    Supplier Part No. /             Customer Part No.        Quantity            Unit Price         Subtotal
+                                          Description                                       (UOM)
+                                                                                                                         $69.27 CAD
+      2        2                 Material  AVE05161 /                                       1 / (PK)          $69.27 CAD
+                                          LABEL,LASER,ADDRESS,4X1
+                                                                                                       Line Item Total : $69.27 CAD
+      Line No.                      Type    Supplier Part No. /             Customer Part No.        Quantity            Unit Price         Subtotal
+                PO Line No.
+                                          Description                                       (UOM)
+      3        3                 MaterialTLS6320908541 /TIM HORTONS                        1 / (PK)           $28.79 CAD      $28.79 CAD
+                                          SNGLE SRVE,VARIETY
+                                                                                                       Line Item Total : $28.79 CAD
+                                                                                                            Unit Price         Subtotal
+      Line No.    PO Line No.          Type    Supplier Part No. /             Customer Part No.        Quantity
+                                          Description                                       (UOM)
+                                  Material AVE05168 /                                       2 / (PK)          $46.04 CAD      $92.08 CAD
+      4         4
+                                          LABEL.LASER.ADDRESS.5X3 1/2
+                                                                                                       Line Item Total : $92.08 CAD
+         Tax Summary
+                                                                                                       Amount
+         Category              Details                          Base Amount               Rate %
+                                                                                       13.0%          $20.98 CAD
+         HST                  Tax Description :                   $190.14 CAD
+                               126152586RT0001
+                               Tax Location : CA
+                                                                                 Amount Summary
+                                                                                                                        $190.14 CAD
+                                                                                 Line item subtotal
+                                                                                                                        $211.12 CAD
+                                                                                 Gross amount
+                                                                                 Net amount                              $211.12 CAD
+                                                                                 Total tax amount                            $20.98 CAD
+                                                                                 Total withholding tax amount
+                                                                                                                        $211.12 CAD
+                                                                                 Amount Due
+       Additional Information
+                                                                             Remittance Information
+                                                                             Remit To
+                                                                             Staples Canada ULC
+                                                                             c/o T04446C
+                                                                             PO Box 4446C, STN A
+                                                                             Toronto
+                                                                             ON
+                                                                             M5W 4A2
+                                                                             CA
+                                                                             Address ID: CA1_32220
+==================================<Page 3 - END>================================
+==================================<Page 4 - START>================================
+  Appendix
+ Line No.    PO Line No. Type                           Supplier Part No. / Description
+  2
+             2         Material                         AVE05161 / LABEL,LASER,ADDRESS,4X1
+ Additional Details:
+ Supplier Part ID : AVE05161
+Line No.    PO Line No. Type
+                                                       Supplier Part No. / Description
+ 3         3         Material
+                                                       TLS6320908541 / TIM HORTONS SNGLE SRVE,VARIETY
+Additional Details:
+ Supplier Part ID : TLS6320908541
+Line No.    PO Line No. Type                           Supplier Part No. / Description
+4
+            4         Material                         AVE05168 / LABEL,LASER,ADDRESS,5X3 1/2
+Additional Details:
+ Supplier Part ID : AVE05168
+PDF generated on Wednesday 11 Feb. 2026 2:44 a.m. GMT-08:00
+==================================<Page 4 - END>================================

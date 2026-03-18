@@ -1,0 +1,95 @@
+{
+  "invoice_data": {
+    "invoice_number": "11569196",
+    "invoice_date": "2026/01/28",
+    "invoice_amount": null,
+    "invoice_currency": [
+      "CAD"
+    ],
+    "tax_amount": null,
+    "po_number": [
+      "Tba",
+      "69482845",
+      "RC8944785",
+      "M413539917"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "RAVMOND JOHNSTON",
+    "vendor_address": "5990 Avebury Road, Mississauga, ON L5R 3R2, T 905-712-6000F 905-712-6002, www.johnstonequipment.com",
+    "po_line_items": [
+      {
+        "description": "HARNESS CABLE PROPEL MOTOR",
+        "quantity": 1.0,
+        "net_price": 572.41
+      },
+      {
+        "description": "Elec - Cbls, Trmls, Wire, Fuse",
+        "quantity": 1.0,
+        "net_price": 136.59
+      },
+      {
+        "description": "Elec - Cbls, Trmls, Wire, Fuse",
+        "quantity": 2.5,
+        "net_price": 341.48
+      },
+      {
+        "description": "FREIGHT CHARGE - PARTS DEPT.",
+        "quantity": 1.0,
+        "net_price": 139.95
+      }
+    ],
+    "vat_amount": null,
+    "gl_account": null,
+    "bank_name": null,
+    "account_holder_name": null,
+    "banking_account_number": null,
+    "remit_to_address": null,
+    "bill_to_address": null,
+    "transaction_type": "debit"
+  },
+  "filename": "SAPS4_5100096006_CA11_PFNACA_2026_304667730.pdf",
+  "raw_response": {
+    "invoice_number": "11569196",
+    "invoice_date": "2026/01/28",
+    "invoice_amount": null,
+    "invoice_currency": [
+      "CAD"
+    ],
+    "tax_amount": null,
+    "po_number": [
+      "Tba",
+      "69482845",
+      "RC8944785",
+      "M413539917"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "RAVMOND JOHNSTON",
+    "vendor_address": "5990 Avebury Road, Mississauga, ON L5R 3R2, T 905-712-6000F 905-712-6002, www.johnstonequipment.com",
+    "po_line_items": [
+      {
+        "description": "HARNESS CABLE PROPEL MOTOR",
+        "quantity": 1.0,
+        "net_price": 572.41
+      },
+      {
+        "description": "Elec - Cbls, Trmls, Wire, Fuse",
+        "quantity": 1.0,
+        "net_price": 136.59
+      },
+      {
+        "description": "Elec - Cbls, Trmls, Wire, Fuse",
+        "quantity": 2.5,
+        "net_price": 341.48
+      },
+      {
+        "description": "FREIGHT CHARGE - PARTS DEPT.",
+        "quantity": 1.0,
+        "net_price": 139.95
+      }
+    ]
+  }
+}

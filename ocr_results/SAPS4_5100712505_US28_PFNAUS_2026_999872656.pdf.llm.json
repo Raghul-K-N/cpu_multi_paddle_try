@@ -1,0 +1,69 @@
+{
+  "invoice_data": {
+    "invoice_number": "176232816",
+    "invoice_date": "2/10/2026",
+    "invoice_amount": "281.52",
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": "2.12",
+    "po_number": [
+      "M413360189"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "Crown Equipment Corporation",
+    "vendor_address": "Crown Equipment Corporation, PO Box 641173, Cincinnati, OH 45264-1173",
+    "po_line_items": [
+      {
+        "description": "Not Available / LABOR BPO",
+        "quantity": 253.72,
+        "net_price": 1.0
+      },
+      {
+        "description": "Not Available / MATERIAL BPO",
+        "quantity": 25.68,
+        "net_price": 1.0
+      }
+    ],
+    "vat_amount": null,
+    "gl_account": null,
+    "bank_name": null,
+    "account_holder_name": null,
+    "banking_account_number": null,
+    "remit_to_address": null,
+    "bill_to_address": null,
+    "transaction_type": "debit"
+  },
+  "filename": "SAPS4_5100712505_US28_PFNAUS_2026_999872656.pdf",
+  "raw_response": {
+    "invoice_number": "176232816",
+    "invoice_date": "2/10/2026",
+    "invoice_amount": "281.52",
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": "2.12",
+    "po_number": [
+      "M413360189"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "Crown Equipment Corporation",
+    "vendor_address": "Crown Equipment Corporation, PO Box 641173, Cincinnati, OH 45264-1173",
+    "po_line_items": [
+      {
+        "description": "Not Available / LABOR BPO",
+        "quantity": 253.72,
+        "net_price": 1.0
+      },
+      {
+        "description": "Not Available / MATERIAL BPO",
+        "quantity": 25.68,
+        "net_price": 1.0
+      }
+    ]
+  }
+}

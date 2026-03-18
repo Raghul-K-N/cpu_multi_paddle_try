@@ -1,0 +1,202 @@
+==================================<Page 1 - START>================================
+Standard Invoice
+                                                                                                                   GRAINR
+Original tax invoice has been submitted electronically. This is a
+human readable representation (copy) of the original tax invoice.
+                                                                                                                 980306450126
+                                                                Invoice Number
+                                                                (Supplier Reference No.)
+                                                                                              Tuesday 10 Feb 2026 3:01 AM GMT-07:00
+                                                                Invoice Date
+                                                                                                                  $417.58 USD
+                                                                Amount Due
+    Contact Information                                                        Shipping Information
+    Supplier                      Customer
+                                                                          Ship From                     Ship To
+    Grainger                      Frito-Lay Inc.                                                            US-PL-TRADE AUSTIN-TX-FLI
+                                                                          Grainger
+    100 Grainger Pkwy               c/o PEPSICO NASS                                                       VMI ORDER
+                                                                          201 FREEDOM DRIVE
+    Lake Forest                    ACCOUNTS PAYABLES                                                    6110 TRADE CENTER DR
+                                                                          ROANOKE
+    IL                           PO BOX 1800                                                           AUSTIN
+                                                                          TX
+    Winst                        Winston Salem                                                           TX
+                                                                          76262
+    United States                  NC                                                                  78744
+                                                                          United States
+                                 27105                                                                United States
+                                 United States
+                                                                                                      Phone: (303) 576-4070
+  Line Items                                              PO No. : M413549689                                      PO Date : 10 Feb 2026
+  Line No.   PO Line No.          Type    Supplier Part No. /             Customer Part No.        Quantity            Unit Price         Subtotal
+                                       Description                                       (UOM)
+  1
+            1                 Material 3RYP2 /                                         2 / (EA)          $31.68 USD      $63.36 USD
+                                       Apron,Uni,White,PE,PK100
+  Line No.                                                                                                               Subtotal
+            PO Line No.          Type    Supplier Part No. /             Customer Part No.        Quantity            Unit Price
+                                       Description                                       (UOM)
+  2        2                 Material 796AR1 / Trash Bags, Silver, PK50                       2 / (EA)          $24.32 USD      $48.64 USD
+  Line No.   PO Line No.         Type    Supplier Part No. /             Customer Part No.        Quantity            Unit Price         Subtotal
+                                      Description                                       (UOM)
+                                                                                                                    $273.75 USD
+  3        3                 Material 1PTR8 / Disp Hot Cup,12                              3 / (EA)          $91.25 USD
+                                       oz,WH,5342DX,PK500
+                                                                             Amount Summary
+                                                                              Line item subtotal                          $385.75 USD
+                                                                             Gross amount                             $417.58 USD
+                                                                             Net amount                              $417.58 USD
+                                                                                                                     $31.83 USD
+                                                                              Total tax amount
+                                                                              Total withholding tax amount
+                                                                                                                     $417.58 USD
+                                                                              Amount Due
+    Additional Information
+    InvoiceSourceDocument
+    PurchaseOrder
+    InvoiceSubmissionMethod
+   cXML
+   Billing Information                                                         Remittance Information
+   Bill To                                                                 Remit To
+   Frito-Lay Inc.                                                             GRAINGER
+   c/o PEPSICO NASS                                                       DEPT. 888493684
+   ACCOUNTS PAYABLES                                                    KANSAS CITY
+   PO BOX 1800                                                            MO
+   Winston Salem                                                           64141-6267
+   NC                                                                   United States
+   27105                                                                 Address ID: US1_10359
+   United States
+                                                                         Tax ID of Supplier
+   Address ID: US28
+                                                                         36-1150280
+                                                                     Reference Documents
+                                                                      Original Supplier Order #: 1575755044
+==================================<Page 1 - END>================================
+==================================<Page 2 - START>================================
+ Appendix
+Line No.
+            PO Line No. Type                            Supplier Part No. / Description
+ 1          1
+                       Material                          3RYP2 / Apron,Uni,White,PE,PK100
+Additional Details:
+Supplier Part ID : 3RYP2
+Supplier Part Auxiliary ID : WWG3RYP2
+Line No.    PO Line No. Type
+                                                        Supplier Part No. / Description
+2
+            2         Material
+                                                        796AR1 / Trash Bags, Silver, PK50
+Additional Details:
+Supplier Part ID : 796AR1
+Supplier Part Auxiliary ID : WWG796AR1
+Line No.    PO Line No. Type                            Supplier Part No. / Description
+3         3
+                       Material
+                                                        1PTR8 / Disp Hot Cup,12 oz,WH,5342DX,PK500
+Additional Details:
+Supplier Part ID : 1PTR8
+ Supplier Part Auxiliary ID : WWG1PTR8
+PDF generated on Wednesday 11 Feb 2026 1:37 AM GMT-08:00
+==================================<Page 2 - END>================================
+==================================<Page 3 - START>================================
+   Standard Invoice
+                                                                                                                      GRAINR
+   Original tax invoice has been submitted electronically. This is a
+   human readable representation (copy) of the original tax invoice.
+                                                                                                                    980306450126
+                                                                   Invoice Number
+                                                                   (Supplier Reference No.)
+                                                                                                 Tuesday 10 Feb 2026 3:01 AM GMT-07:00
+                                                                   Invoice Date
+                                                                                                                     $417.58 USD
+                                                                   Amount Due
+       Contact Information                                                        Shipping Information
+       Supplier                      Customer
+                                                                            Ship From                     Ship To
+       Grainger                      Frito-Lay Inc.                                                            US-PL-TRADE AUSTIN-TX-FLI
+                                                                            Grainger
+       100 Grainger Pkwy               c/o PEPSICO NASS                                                       VMI ORDER
+                                                                            201 FREEDOM DRIVE
+       Lake Forest                    ACCOUNTS PAYABLES                                                    6110 TRADE CENTER DR
+                                                                            ROANOKE
+       IL                           PO BOX 1800                                                           AUSTIN
+                                                                            TX
+       Winst                        Winston Salem                                                           TX
+                                                                            76262
+       United States                  NC                                                                  78744
+                                                                            United States
+                                    27105                                                                United States
+                                    United States
+                                                                                                         Phone: (303) 576-4070
+    Line Items                                              PO No. : M413549689                                      PO Date : 10 Feb 2026
+     Line No.   PO Line No.          Type    Supplier Part No. /             Customer Part No.        Quantity            Unit Price         Subtotal
+                                         Description                                       (UOM)
+     1
+               1                 Material 3RYP2 /                                         2 / (EA)          $31.68 USD      $63.36 USD
+                                         Apron,Uni,White,PE,PK100
+     Line No.                                                                                                               Subtotal
+               PO Line No.          Type    Supplier Part No. /             Customer Part No.        Quantity            Unit Price
+                                         Description                                       (UOM)
+    2        2                 Material 796AR1 / Trash Bags, Silver, PK50                       2 / (EA)          $24.32 USD      $48.64 USD
+     Line No.   PO Line No.         Type    Supplier Part No. /             Customer Part No.        Quantity            Unit Price         Subtotal
+                                         Description                                       (UOM)
+                                                                                                                       $273.75 USD
+     3        3                 Material 1PTR8 / Disp Hot Cup,12                              3 / (EA)          $91.25 USD
+                                         oz,WH,5342DX,PK500
+                                                                                Amount Summary
+                                                                                Line item subtotal                          $385.75 USD
+                                                                                Gross amount                             $417.58 USD
+                                                                                Net amount                              $417.58 USD
+                                                                                                                        $31.83 USD
+                                                                                Total tax amount
+                                                                                Total withholding tax amount
+                                                                                                                       $417.58 USD
+                                                                                Amount Due
+      Additional Information
+      InvoiceSourceDocument
+      PurchaseOrder
+      InvoiceSubmissionMethod
+      cXML
+      Billing Information                                                         Remittance Information
+      Bill To                                                                 Remit To
+      Frito-Lay Inc.                                                             GRAINGER
+      c/o PEPSICO NASS                                                       DEPT. 888493684
+      ACCOUNTS PAYABLES                                                    KANSAS CITY
+      PO BOX 1800                                                            MO
+      Winston Salem                                                           64141-6267
+      NC                                                                   United States
+      27105                                                                 Address ID: US1_10359
+      United States
+                                                                            Tax ID of Supplier
+      Address ID: US28
+                                                                            36-1150280
+                                                                        Reference Documents
+                                                                         Original Supplier Order #: 1575755044
+==================================<Page 3 - END>================================
+==================================<Page 4 - START>================================
+ Appendix
+Line No.
+            PO Line No. Type                            Supplier Part No. / Description
+ 1          1
+                       Material                          3RYP2 / Apron,Uni,White,PE,PK100
+Additional Details:
+Supplier Part ID : 3RYP2
+Supplier Part Auxiliary ID : WWG3RYP2
+Line No.    PO Line No. Type
+                                                        Supplier Part No. / Description
+2
+            2         Material
+                                                        796AR1 / Trash Bags, Silver, PK50
+Additional Details:
+Supplier Part ID : 796AR1
+Supplier Part Auxiliary ID : WWG796AR1
+Line No.    PO Line No. Type                            Supplier Part No. / Description
+3         3
+                       Material
+                                                        1PTR8 / Disp Hot Cup,12 oz,WH,5342DX,PK500
+Additional Details:
+Supplier Part ID : 1PTR8
+ Supplier Part Auxiliary ID : WWG1PTR8
+PDF generated on Wednesday 11 Feb 2026 1:37 AM GMT-08:00
+==================================<Page 4 - END>================================

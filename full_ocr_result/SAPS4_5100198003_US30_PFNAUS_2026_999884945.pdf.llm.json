@@ -1,0 +1,59 @@
+{
+  "invoice_data": {
+    "invoice_number": "XA110808801",
+    "invoice_date": "9/18/2025",
+    "invoice_amount": "-50.04",
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": "3.47",
+    "po_number": [
+      "23473814"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "Mountain West Truck Center - West Valley City (P731)(P)",
+    "vendor_address": "7114 W SR201 North Frontage Rd, West Valley City, UT 84128, 301-975-0380",
+    "po_line_items": [
+      {
+        "description": "SEALING RING",
+        "quantity": 2.0,
+        "net_price": -46.57
+      }
+    ],
+    "vat_amount": null,
+    "gl_account": null,
+    "bank_name": null,
+    "account_holder_name": null,
+    "banking_account_number": null,
+    "remit_to_address": null,
+    "bill_to_address": null,
+    "transaction_type": "credit"
+  },
+  "filename": "SAPS4_5100198003_US30_PFNAUS_2026_999884945.pdf",
+  "raw_response": {
+    "invoice_number": "XA110808801",
+    "invoice_date": "9/18/2025",
+    "invoice_amount": "-50.04",
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": "3.47",
+    "po_number": [
+      "23473814"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "Mountain West Truck Center - West Valley City (P731)(P)",
+    "vendor_address": "7114 W SR201 North Frontage Rd, West Valley City, UT 84128, 301-975-0380",
+    "po_line_items": [
+      {
+        "description": "SEALING RING",
+        "quantity": 2.0,
+        "net_price": -46.57
+      }
+    ]
+  }
+}

@@ -1,0 +1,55 @@
+{
+  "invoice_data": {
+    "invoice_number": "600660",
+    "invoice_date": "01/08/2026",
+    "invoice_amount": null,
+    "invoice_currency": null,
+    "tax_amount": null,
+    "po_number": [
+      "23550693"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "MILL SUPPLY, INC.",
+    "vendor_address": "19801 Miles Rd, Cleveland, OH 44128-4117",
+    "po_line_items": [
+      {
+        "description": "WIRELESS CAMERA SYSTEM",
+        "quantity": 1.0,
+        "net_price": 346.5
+      }
+    ],
+    "vat_amount": null,
+    "gl_account": null,
+    "bank_name": null,
+    "account_holder_name": null,
+    "banking_account_number": null,
+    "remit_to_address": null,
+    "bill_to_address": null,
+    "transaction_type": "debit"
+  },
+  "filename": "SAPS4_5100148539_US29_PFNAUS_2026_999884758.pdf",
+  "raw_response": {
+    "invoice_number": "600660",
+    "invoice_date": "01/08/2026",
+    "invoice_amount": null,
+    "invoice_currency": null,
+    "tax_amount": null,
+    "po_number": [
+      "23550693"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "MILL SUPPLY, INC.",
+    "vendor_address": "19801 Miles Rd, Cleveland, OH 44128-4117",
+    "po_line_items": [
+      {
+        "description": "WIRELESS CAMERA SYSTEM",
+        "quantity": 1.0,
+        "net_price": 346.5
+      }
+    ]
+  }
+}

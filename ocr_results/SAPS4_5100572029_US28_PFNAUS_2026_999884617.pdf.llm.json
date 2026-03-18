@@ -1,0 +1,59 @@
+{
+  "invoice_data": {
+    "invoice_number": "679440",
+    "invoice_date": "2/4/2026",
+    "invoice_amount": null,
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": null,
+    "po_number": [
+      "4505032120"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "MIDWEST INDUSTRIAL RUBBER , INC.",
+    "vendor_address": "P.O. BOX 772866, DETROIT, MI 48277-2866",
+    "po_line_items": [
+      {
+        "description": "BELTING, BLUE 3150 MM X 220 MM . WIDE SPLICE ENDLESS Tag: BAG MAKER INCLINE",
+        "quantity": 2.0,
+        "net_price": 392.67
+      }
+    ],
+    "vat_amount": null,
+    "gl_account": null,
+    "bank_name": null,
+    "account_holder_name": null,
+    "banking_account_number": null,
+    "remit_to_address": null,
+    "bill_to_address": null,
+    "transaction_type": "debit"
+  },
+  "filename": "SAPS4_5100572029_US28_PFNAUS_2026_999884617.pdf",
+  "raw_response": {
+    "invoice_number": "679440",
+    "invoice_date": "2/4/2026",
+    "invoice_amount": null,
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": null,
+    "po_number": [
+      "4505032120"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "MIDWEST INDUSTRIAL RUBBER , INC.",
+    "vendor_address": "P.O. BOX 772866, DETROIT, MI 48277-2866",
+    "po_line_items": [
+      {
+        "description": "BELTING, BLUE 3150 MM X 220 MM . WIDE SPLICE ENDLESS Tag: BAG MAKER INCLINE",
+        "quantity": 2.0,
+        "net_price": 392.67
+      }
+    ]
+  }
+}

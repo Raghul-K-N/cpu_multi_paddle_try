@@ -1,0 +1,69 @@
+{
+  "invoice_data": {
+    "invoice_number": "13202977",
+    "invoice_date": "2/10/2026 16:03:50",
+    "invoice_amount": "469.35",
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": "35.27",
+    "po_number": [
+      "M413476538"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": "20.08",
+    "cost_center": null,
+    "vendor_name": "Airline Hydraulics Corp",
+    "vendor_address": "3557 Progress Drive, Bensalem, PA 19020, US",
+    "po_line_items": [
+      {
+        "description": "(001) SMC KQ2T07-00A",
+        "quantity": 200.0,
+        "net_price": 2.07
+      },
+      {
+        "description": "SMC FITTING, UNION TEE",
+        "quantity": 1.0,
+        "net_price": 1.0
+      }
+    ],
+    "vat_amount": null,
+    "gl_account": null,
+    "bank_name": null,
+    "account_holder_name": null,
+    "banking_account_number": null,
+    "remit_to_address": null,
+    "bill_to_address": null,
+    "transaction_type": "debit"
+  },
+  "filename": "SAPS4_5100197549_US28_PFNAUS_2026_999762527.pdf",
+  "raw_response": {
+    "invoice_number": "13202977",
+    "invoice_date": "2/10/2026 16:03:50",
+    "invoice_amount": "469.35",
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": "35.27",
+    "po_number": [
+      "M413476538"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": "20.08",
+    "cost_center": null,
+    "vendor_name": "Airline Hydraulics Corp",
+    "vendor_address": "3557 Progress Drive, Bensalem, PA 19020, US",
+    "po_line_items": [
+      {
+        "description": "(001) SMC KQ2T07-00A",
+        "quantity": 200.0,
+        "net_price": 2.07
+      },
+      {
+        "description": "SMC FITTING, UNION TEE",
+        "quantity": 1.0,
+        "net_price": 1.0
+      }
+    ]
+  }
+}

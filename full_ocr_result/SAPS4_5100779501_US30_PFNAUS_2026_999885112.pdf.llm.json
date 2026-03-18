@@ -1,0 +1,69 @@
+{
+  "invoice_data": {
+    "invoice_number": "334544P",
+    "invoice_date": "12/8/2025",
+    "invoice_amount": "-423.54",
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": "0.00",
+    "po_number": [
+      "23428998"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": "0.00",
+    "cost_center": null,
+    "vendor_name": "Nextran Truck Center - Kansas City (MO)",
+    "vendor_address": "4001 Randolph Rd, Kansas City, MO 64161, 316-455-7262",
+    "po_line_items": [
+      {
+        "description": "BOWL",
+        "quantity": 2.0,
+        "net_price": -72.36
+      },
+      {
+        "description": "IDLER PULLEY KIT",
+        "quantity": 2.0,
+        "net_price": -278.82
+      }
+    ],
+    "vat_amount": null,
+    "gl_account": null,
+    "bank_name": null,
+    "account_holder_name": null,
+    "banking_account_number": null,
+    "remit_to_address": null,
+    "bill_to_address": null,
+    "transaction_type": "credit"
+  },
+  "filename": "SAPS4_5100779501_US30_PFNAUS_2026_999885112.pdf",
+  "raw_response": {
+    "invoice_number": "334544P",
+    "invoice_date": "12/8/2025",
+    "invoice_amount": "-423.54",
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": "0.00",
+    "po_number": [
+      "23428998"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": "0.00",
+    "cost_center": null,
+    "vendor_name": "Nextran Truck Center - Kansas City (MO)",
+    "vendor_address": "4001 Randolph Rd, Kansas City, MO 64161, 316-455-7262",
+    "po_line_items": [
+      {
+        "description": "BOWL",
+        "quantity": 2.0,
+        "net_price": -72.36
+      },
+      {
+        "description": "IDLER PULLEY KIT",
+        "quantity": 2.0,
+        "net_price": -278.82
+      }
+    ]
+  }
+}

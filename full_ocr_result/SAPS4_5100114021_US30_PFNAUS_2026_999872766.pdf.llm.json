@@ -1,0 +1,119 @@
+{
+  "invoice_data": {
+    "invoice_number": "DALN63104",
+    "invoice_date": "02/04/2026",
+    "invoice_amount": "525.70",
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": null,
+    "po_number": [
+      "M413155678"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "L Transportation Inc",
+    "vendor_address": "P.O. Box 515574, 701 LEGACY DR, Los Angeles CA 90051-4586, LANO , TX , 75024 , USA",
+    "po_line_items": [
+      {
+        "description": "Service Call on 1/24/26 to 1101 S 5th Street, Kansas City, KS for air leak from rear brakes; requested by Caleb Checked for air leaks and replaced airline",
+        "quantity": 1.0,
+        "net_price": 181.0
+      },
+      {
+        "description": "Fuel Surcharge",
+        "quantity": 1.0,
+        "net_price": 72.45
+      },
+      {
+        "description": "Troubleshooting Brake System - Full Air",
+        "quantity": 0.5,
+        "net_price": 90.5
+      },
+      {
+        "description": "Replace Air hose",
+        "quantity": 0.5,
+        "net_price": 181.0
+      },
+      {
+        "description": "Air Line",
+        "quantity": 1.0,
+        "net_price": 12.65
+      },
+      {
+        "description": "Roadside Assistance Fee",
+        "quantity": 1.0,
+        "net_price": 55.0
+      },
+      {
+        "description": "Miscellaneous Shop Supplies",
+        "quantity": 1.0,
+        "net_price": 23.6
+      }
+    ],
+    "vat_amount": null,
+    "gl_account": null,
+    "bank_name": null,
+    "account_holder_name": null,
+    "banking_account_number": null,
+    "remit_to_address": null,
+    "bill_to_address": null,
+    "transaction_type": "debit"
+  },
+  "filename": "SAPS4_5100114021_US30_PFNAUS_2026_999872766.pdf",
+  "raw_response": {
+    "invoice_number": "DALN63104",
+    "invoice_date": "02/04/2026",
+    "invoice_amount": "525.70",
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": null,
+    "po_number": [
+      "M413155678"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "L Transportation Inc",
+    "vendor_address": "P.O. Box 515574, 701 LEGACY DR, Los Angeles CA 90051-4586, LANO , TX , 75024 , USA",
+    "po_line_items": [
+      {
+        "description": "Service Call on 1/24/26 to 1101 S 5th Street, Kansas City, KS for air leak from rear brakes; requested by Caleb Checked for air leaks and replaced airline",
+        "quantity": 1.0,
+        "net_price": 181.0
+      },
+      {
+        "description": "Fuel Surcharge",
+        "quantity": 1.0,
+        "net_price": 72.45
+      },
+      {
+        "description": "Troubleshooting Brake System - Full Air",
+        "quantity": 0.5,
+        "net_price": 90.5
+      },
+      {
+        "description": "Replace Air hose",
+        "quantity": 0.5,
+        "net_price": 181.0
+      },
+      {
+        "description": "Air Line",
+        "quantity": 1.0,
+        "net_price": 12.65
+      },
+      {
+        "description": "Roadside Assistance Fee",
+        "quantity": 1.0,
+        "net_price": 55.0
+      },
+      {
+        "description": "Miscellaneous Shop Supplies",
+        "quantity": 1.0,
+        "net_price": 23.6
+      }
+    ]
+  }
+}

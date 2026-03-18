@@ -1,0 +1,51 @@
+{
+  "invoice_data": {
+    "invoice_number": "IN0235836",
+    "invoice_date": "01.01.2026",
+    "invoice_amount": "8493.57",
+    "invoice_currency": [
+      "CAD"
+    ],
+    "tax_amount": "0.00",
+    "po_number": null,
+    "gl_account_number": [
+      "525411"
+    ],
+    "freight_and_handling_charges": null,
+    "cost_center": [
+      "2003050200"
+    ],
+    "vendor_name": "W D POTATO LTD",
+    "vendor_address": "3644 10 SIDERD, BEETON ON, LOG 1A0, CANADA",
+    "po_line_items": null,
+    "vat_amount": null,
+    "gl_account": null,
+    "bank_name": null,
+    "account_holder_name": null,
+    "banking_account_number": null,
+    "remit_to_address": null,
+    "bill_to_address": null,
+    "transaction_type": "debit"
+  },
+  "filename": "SAPS4_1900187000_CA11_PFNACA_2026_304667572.pdf",
+  "raw_response": {
+    "invoice_number": "IN0235836",
+    "invoice_date": "01.01.2026",
+    "invoice_amount": "8493.57",
+    "invoice_currency": [
+      "CAD"
+    ],
+    "tax_amount": "0.00",
+    "po_number": null,
+    "gl_account_number": [
+      "525411"
+    ],
+    "freight_and_handling_charges": null,
+    "cost_center": [
+      "2003050200"
+    ],
+    "vendor_name": "W D POTATO LTD",
+    "vendor_address": "3644 10 SIDERD, BEETON ON, LOG 1A0, CANADA",
+    "po_line_items": null
+  }
+}

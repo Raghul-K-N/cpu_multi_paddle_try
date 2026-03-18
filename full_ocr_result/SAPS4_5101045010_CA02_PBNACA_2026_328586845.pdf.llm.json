@@ -1,0 +1,89 @@
+{
+  "invoice_data": {
+    "invoice_number": "0000020994",
+    "invoice_date": "Jan-31-26",
+    "invoice_amount": "467.46",
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": "22.26",
+    "po_number": [
+      "M412666600"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "Honey Bucket Inc.",
+    "vendor_address": "Box 326, Grande Prairie, AB T8V 3A5",
+    "po_line_items": [
+      {
+        "description": "Serv #001 Vac Service 1 - 1 M3 1 x Every Second Week PO#M 12666600",
+        "quantity": 1.0,
+        "net_price": 150.0
+      },
+      {
+        "description": "Septic Disposal",
+        "quantity": 1.07,
+        "net_price": 42.8
+      },
+      {
+        "description": "Septic Pump Out",
+        "quantity": 1.0,
+        "net_price": 150.0
+      },
+      {
+        "description": "Septic Disposal",
+        "quantity": 2.56,
+        "net_price": 102.4
+      }
+    ],
+    "vat_amount": null,
+    "gl_account": null,
+    "bank_name": null,
+    "account_holder_name": null,
+    "banking_account_number": null,
+    "remit_to_address": null,
+    "bill_to_address": null,
+    "transaction_type": "debit"
+  },
+  "filename": "SAPS4_5101045010_CA02_PBNACA_2026_328586845.pdf",
+  "raw_response": {
+    "invoice_number": "0000020994",
+    "invoice_date": "Jan-31-26",
+    "invoice_amount": "467.46",
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": "22.26",
+    "po_number": [
+      "M412666600"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "Honey Bucket Inc.",
+    "vendor_address": "Box 326, Grande Prairie, AB T8V 3A5",
+    "po_line_items": [
+      {
+        "description": "Serv #001 Vac Service 1 - 1 M3 1 x Every Second Week PO#M 12666600",
+        "quantity": 1.0,
+        "net_price": 150.0
+      },
+      {
+        "description": "Septic Disposal",
+        "quantity": 1.07,
+        "net_price": 42.8
+      },
+      {
+        "description": "Septic Pump Out",
+        "quantity": 1.0,
+        "net_price": 150.0
+      },
+      {
+        "description": "Septic Disposal",
+        "quantity": 2.56,
+        "net_price": 102.4
+      }
+    ]
+  }
+}

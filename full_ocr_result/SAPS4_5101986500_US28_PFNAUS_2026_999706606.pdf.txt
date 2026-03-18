@@ -1,0 +1,288 @@
+==================================<Page 1 - START>================================
+Standard Invoice
+                                                                                                                      H
+Original tax invoice has been submitted electronically. This is a
+human readable representation (copy) of the original tax invoice.                                                                       HANTOVER
+                                                                                                                        |4483601
+                                                                  Invoice Number
+                                                                  (Supplier Reference No.)
+                                                                  Invoice Date                 Wednesday 11 Feb 2026 11:13 PM GMT+00:00
+    Contact Information
+                                                                            Shipping Information
+    Supplier                       Customer
+                                                                            Ship From                     Ship To
+    HANTOVER - KANSAS CITY -       FRITO-LAY
+     90                                                                    HANTOVER - KANSAS CITY -       FRITO LAY - EAST PLANT
+                                  323 SOUTH COUNTY ROAD                    90                           2611 W COUNTY ROAD 0 NS
+     8600 NE UNDERGROUND
+                                  300 WEST                                 8600 NE UNDERGROUND          RECEIVING DOCK
+     DRIVE                                                                 DRIVE
+                                  FRANKFORT                                                            FRANKFORT
+     PILLAR 219                                                             PILLAR 219
+                                  IN                                                                    IN
+     KANSAS CITY                                                           KANSAS CITY
+                                  46041                                                                 46041
+     MO                                                                   MO
+                                  United States                                                            United States
+     64161                        Address ID: 315900                           64161
+                                                                                                        Address ID: 2047
+     United States                                                            United States
+   Line Items                                               PO No. : M413546942                                       PO Date : 9 Feb 2026
+   Line No.    PO Line No.          Type    Supplier Part No. /             Customer Part No.        Quantity            Unit Price         Subtotal
+                                        Description                                        (UOM)
+   1                                   35866 / BOUFFANT 21&quot:                           10 / (CS)
+             1                 Material                                                                  $23.00 USD     $230.00 USD
+                                       WHITE ECONOMY
+                                        POLYPROPYLENE LATEX FREE
+                                        100/BG 10BG/CASE
+   Line No.    PO Line No.          Type    Supplier Part No. /             Customer Part No.        Quantity            Unit Price        Subtotal
+                                        Description                                        (UOM)
+                                       35867 / BOUFFANT
+   2        2                 Material                                                 10 / (CS)          $24.00 USD     $240.00 USD
+                                        24&quot; WHITE ECONOMY
+                                        POLYPROPYLENE LATEX FREE
+                                       100/BG 10BG/CS (OLD#MB-24-10
+   Line No.    PO Line No.          Type    Supplier Part No. /             Customer Part No.        Quantity            Unit Price         Subtotal
+                                       Description                                       (UOM)
+   3        3                 Material 35897 / BEARD COVER WHITE                         10 / (CS)          $22.00 USD      $220.00 USD
+                                       18&quot; POLYPROPYLENE 100/
+                                       BG 10 BG/CS BRD1000(OLD
+                                       MBC-1000/W) 3589
+             PO Line No.          Type    Supplier Part No. /             Customer Part No.        Quantity            Unit Price         Subtotal
+   Line No.
+                                       Description                                        (UOM)
+   4         4                 Material 35877 / BOUFFANT 28&quot;                           5 / (CS)          $33.00 USD      $165.00 USD
+                                       WHITE LATEX FREE
+                                       POLYPROPYLENE 100/BG 10BG/
+                                       CS (OLD #BC1028K) 35877
+             PO Line No.          Type    Supplier Part No. /             Customer Part No.        Quantity            Unit Price         Subtotal
+   Line No.
+                                       Description                                       (UOM)
+   5        5                 Material 22394SB / GLOVE NITRILE                            80 / (EA)           $3.80 USD     $304.00 USD
+                                       DISPOSABLE 4 MIL MED BLUE
+                                       POWDER FREE TEXTURED 100/
+                                       BX 10 BX/CS (OL
+   Line No.    PO Line No.          Type    Supplier Part No. /             Customer Part No.         Quantity            Unit Price         Subtotal
+                                       Description                                       (UOM)
+   6        6                 Material 22395SB / GLOVE NITRILE                            70 / (EA)           $3.80 USD      $266.00 USD
+                                       DISPOSABLE 4 MIL LARGE BLUE
+                                       POWDER FREE TEXTURED 100/
+                                       BX 10 BX/CS (
+  Line No.   PO Line No.          Type    Supplier Part No. /                                   Quantity            Unit Price         Subtotal
+                                                                 Customer Part No.
+                                       Description                                       (UOM)
+  7        7                 Material  22396SB / GLOVE NITRILE                            160 / (EA)          $3.80 USD      $608.00 USD
+                                       DISPOSABLE 4 MIL XL BLUE
+                                       POWDER FREE TEXTURED 100/
+                                       BX 10 BX/CS (OLD
+                                                                              Amount Summary
+                                                                              Line item subtotal                         $2,033.00 USD
+                                                                              Gross amount                            $2,175.31 USD
+                                                                              Net amount                             $2,175.31 USD
+                                                                              Total tax amount                           $142.31 USD
+                                                                              Total withholding tax amount
+   Additional Information
+   totalNumberOfLineltems
+   7
+                                                                          Remittance Information
+   Billing Information
+                                                                          Remit To
+   Bill To
+                                                                          HANTOVER, INC
+   FRITO-LAY
+                                                                         PO Box 83152
+   323 SOUTH COUNTY ROAD
+   300 WEST                                                              Chicago
+   FRANKFORT                                                            IL
+   IN                                                                    606910152
+                                                                          United States
+  46041
+  United States
+==================================<Page 1 - END>================================
+==================================<Page 2 - START>================================
+  Appendix
+ Line No.
+             PO Line No. Type                            Supplier Part No. / Description
+  1
+             1         Material
+                                                        CASE
+  Additional Details:
+  Supplier Part ID : 35866
+  Line No.    PO Line No. Type                            Supplier Part No. / Description
+  2         2         Material
+                                                        35867 / BOUFFANT 24&quot; WHITE ECONOMY POLYPROPYLENE LATEX FREE 100/BG 10BG/CS
+                                                        (OLD#MB-24-10
+  Additional Details:
+  Supplier Part ID : 35867
+  Line No.    PO Line No. Type                            Supplier Part No. / Description
+  3         3          Material                          35897 / BEARD COVER WHITE 18&quot; POLYPROPYLENE 100/BG 10 BG/CS BRD1000(OLD
+                                                        MBC-1000/W) 3589
+ Additional Details:
+  Supplier Part ID : 35897
+ Line No.    PO Line No. Type                            Supplier Part No. / Description
+ 4         4          Material                          35877 / BOUFFANT 28&qu0t; WHITE LATEX FREE POLYPROPYLENE 100/BG 10BG/CS (OLD
+                                                        #BC1028K) 35877
+  Additional Details:
+ Supplier Part ID : 35877
+ Line No.    PO Line No. Type                            Supplier Part No. / Description
+  5         5         Material                          22394SB / GLOVE NITRILE DISPOSABLE 4 MIL MED BLUE POWDER FREE TEXTURED 100/BX 10 BX/
+                                                        CS (OL
+  Additional Details:
+ Supplier Part ID : 22394SB
+ Line No.    PO Line No. Type                             Supplier Part No. / Description
+ 6         6         Material
+                                                        BX/CS (
+ Additional Details:
+ Supplier Part ID : 22395SB
+ Line No.    PO Line No. Type
+                                                       Supplier Part No. / Description
+ 7         7         Material
+                                                       CS (OLD
+Additional Details:
+ Supplier Part ID : 22396SB
+PDF generated on Wednesday 11 Feb 2026 8:45 PM GMT-08:00
+==================================<Page 2 - END>================================
+==================================<Page 3 - START>================================
+Standard Invoice
+                                                                                                                      H
+Original tax invoice has been submitted electronically. This is a
+human readable representation (copy) of the original tax invoice.                                                                       HANTOVER
+                                                                                                                        |4483601
+                                                                  Invoice Number
+                                                                  (Supplier Reference No.)
+                                                                  Invoice Date                 Wednesday 11 Feb 2026 11:13 PM GMT+00:00
+     Contact Information
+                                                                            Shipping Information
+     Supplier                       Customer
+                                                                            Ship From                     Ship To
+     HANTOVER - KANSAS CITY -       FRITO-LAY
+     90                                                                    HANTOVER - KANSAS CITY -       FRITO LAY - EAST PLANT
+                                   323 SOUTH COUNTY ROAD                    90                           2611 W COUNTY ROAD 0 NS
+     8600 NE UNDERGROUND
+                                   300 WEST                                 8600 NE UNDERGROUND          RECEIVING DOCK
+     DRIVE                                                                 DRIVE
+                                   FRANKFORT                                                            FRANKFORT
+     PILLAR 219                                                             PILLAR 219
+                                   IN                                                                    IN
+     KANSAS CITY                                                           KANSAS CITY
+                                   46041                                                                 46041
+     MO                                                                   MO
+                                   United States                                                            United States
+     64161                        Address ID: 315900                           64161
+                                                                                                         Address ID: 2047
+      United States                                                            United States
+   Line Items                                               PO No. : M413546942                                       PO Date : 9 Feb 2026
+   Line No.    PO Line No.          Type    Supplier Part No. /             Customer Part No.        Quantity            Unit Price         Subtotal
+                                        Description                                        (UOM)
+    1                                   35866 / BOUFFANT 21&quot:                           10 / (CS)
+              1                 Material                                                                  $23.00 USD     $230.00 USD
+                                        WHITE ECONOMY
+                                        POLYPROPYLENE LATEX FREE
+                                        100/BG 10BG/CASE
+    Line No.    PO Line No.          Type    Supplier Part No. /             Customer Part No.        Quantity            Unit Price        Subtotal
+                                        Description                                        (UOM)
+                                        35867 / BOUFFANT
+    2        2                 Material                                                 10 / (CS)          $24.00 USD     $240.00 USD
+                                        24&quot; WHITE ECONOMY
+                                        POLYPROPYLENE LATEX FREE
+                                        100/BG 10BG/CS (OLD#MB-24-10
+   Line No.    PO Line No.          Type    Supplier Part No. /             Customer Part No.        Quantity            Unit Price         Subtotal
+                                        Description                                       (UOM)
+    3        3                 Material 35897 / BEARD COVER WHITE                         10 / (CS)          $22.00 USD      $220.00 USD
+                                        18&quot; POLYPROPYLENE 100/
+                                        BG 10 BG/CS BRD1000(OLD
+                                        MBC-1000/W) 3589
+              PO Line No.          Type    Supplier Part No. /             Customer Part No.        Quantity            Unit Price         Subtotal
+   Line No.
+                                        Description                                        (UOM)
+    4         4                 Material 35877 / BOUFFANT 28&quot;                           5 / (CS)          $33.00 USD      $165.00 USD
+                                        WHITE LATEX FREE
+                                        POLYPROPYLENE 100/BG 10BG/
+                                        CS (OLD #BC1028K) 35877
+             PO Line No.          Type    Supplier Part No. /             Customer Part No.        Quantity            Unit Price         Subtotal
+   Line No.
+                                        Description                                       (UOM)
+   5        5                 Material 22394SB / GLOVE NITRILE                            80 / (EA)           $3.80 USD     $304.00 USD
+                                        DISPOSABLE 4 MIL MED BLUE
+                                        POWDER FREE TEXTURED 100/
+                                        BX 10 BX/CS (OL
+   Line No.    PO Line No.          Type    Supplier Part No. /             Customer Part No.         Quantity            Unit Price         Subtotal
+                                       Description                                       (UOM)
+   6        6                 Material 22395SB / GLOVE NITRILE                            70 / (EA)           $3.80 USD      $266.00 USD
+                                       DISPOSABLE 4 MIL LARGE BLUE
+                                       POWDER FREE TEXTURED 100/
+                                       BX 10 BX/CS (
+   Line No.   PO Line No.          Type    Supplier Part No. /                                   Quantity            Unit Price         Subtotal
+                                                                  Customer Part No.
+                                       Description                                       (UOM)
+   7        7                 Material  22396SB / GLOVE NITRILE                            160 / (EA)          $3.80 USD      $608.00 USD
+                                       DISPOSABLE 4 MIL XL BLUE
+                                       POWDER FREE TEXTURED 100/
+                                       BX 10 BX/CS (OLD
+                                                                              Amount Summary
+                                                                              Line item subtotal                         $2,033.00 USD
+                                                                              Gross amount                            $2,175.31 USD
+                                                                              Net amount                             $2,175.31 USD
+                                                                              Total tax amount                           $142.31 USD
+                                                                              Total withholding tax amount
+    Additional Information
+    totalNumberOfLineltems
+   7
+                                                                          Remittance Information
+   Billing Information
+                                                                          Remit To
+   Bill To
+                                                                          HANTOVER, INC
+   FRITO-LAY
+                                                                          PO Box 83152
+   323 SOUTH COUNTY ROAD
+   300 WEST                                                              Chicago
+   FRANKFORT                                                            IL
+   IN                                                                    606910152
+                                                                          United States
+   46041
+   United States
+==================================<Page 3 - END>================================
+==================================<Page 4 - START>================================
+  Appendix
+ Line No.
+             PO Line No. Type                            Supplier Part No. / Description
+  1
+             1         Material
+                                                        CASE
+  Additional Details:
+  Supplier Part ID : 35866
+  Line No.    PO Line No. Type                            Supplier Part No. / Description
+  2         2         Material
+                                                        35867 / BOUFFANT 24&quot; WHITE ECONOMY POLYPROPYLENE LATEX FREE 100/BG 10BG/CS
+                                                        (OLD#MB-24-10
+  Additional Details:
+  Supplier Part ID : 35867
+  Line No.    PO Line No. Type                            Supplier Part No. / Description
+  3         3          Material                          35897 / BEARD COVER WHITE 18&quot; POLYPROPYLENE 100/BG 10 BG/CS BRD1000(OLD
+                                                        MBC-1000/W) 3589
+ Additional Details:
+  Supplier Part ID : 35897
+ Line No.    PO Line No. Type                            Supplier Part No. / Description
+ 4         4          Material                          35877 / BOUFFANT 28&qu0t; WHITE LATEX FREE POLYPROPYLENE 100/BG 10BG/CS (OLD
+                                                        #BC1028K) 35877
+  Additional Details:
+ Supplier Part ID : 35877
+ Line No.    PO Line No. Type                            Supplier Part No. / Description
+  5         5         Material                          22394SB / GLOVE NITRILE DISPOSABLE 4 MIL MED BLUE POWDER FREE TEXTURED 100/BX 10 BX/
+                                                        CS (OL
+  Additional Details:
+ Supplier Part ID : 22394SB
+ Line No.    PO Line No. Type                             Supplier Part No. / Description
+ 6         6         Material
+                                                        BX/CS (
+ Additional Details:
+ Supplier Part ID : 22395SB
+ Line No.    PO Line No. Type
+                                                       Supplier Part No. / Description
+ 7         7         Material
+                                                       CS (OLD
+Additional Details:
+ Supplier Part ID : 22396SB
+PDF generated on Wednesday 11 Feb 2026 8:45 PM GMT-08:00
+==================================<Page 4 - END>================================

@@ -1,0 +1,47 @@
+{
+  "invoice_data": {
+    "invoice_number": "3048",
+    "invoice_date": "2026-01-14",
+    "invoice_amount": null,
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": null,
+    "po_number": [
+      "4504914328"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "CICCCONVENIENCE INDUSTRY COUNCIL OF CANADA",
+    "vendor_address": "P.O. Box 1302, Station K, Toronto, ON M4P 3J4, Tel: 1-888-686-2823",
+    "po_line_items": null,
+    "vat_amount": null,
+    "gl_account": null,
+    "bank_name": null,
+    "account_holder_name": null,
+    "banking_account_number": null,
+    "remit_to_address": null,
+    "bill_to_address": null,
+    "transaction_type": "debit"
+  },
+  "filename": "SAPS4_5100257506_CA11_PFNACA_2026_304668372.pdf",
+  "raw_response": {
+    "invoice_number": "3048",
+    "invoice_date": "2026-01-14",
+    "invoice_amount": null,
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": null,
+    "po_number": [
+      "4504914328"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "CICCCONVENIENCE INDUSTRY COUNCIL OF CANADA",
+    "vendor_address": "P.O. Box 1302, Station K, Toronto, ON M4P 3J4, Tel: 1-888-686-2823",
+    "po_line_items": null
+  }
+}

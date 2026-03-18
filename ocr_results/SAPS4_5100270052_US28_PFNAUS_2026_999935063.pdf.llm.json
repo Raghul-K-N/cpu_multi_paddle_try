@@ -1,0 +1,59 @@
+{
+  "invoice_data": {
+    "invoice_number": "2415914260",
+    "invoice_date": "02/03/2026",
+    "invoice_amount": "642.92",
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": null,
+    "po_number": [
+      "4504896512"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": "44.99",
+    "cost_center": null,
+    "vendor_name": "Forbo Movement Systems",
+    "vendor_address": "Forbo Siegling LLC, 12201 Vanstory Drive, Huntersville, NC 28078-8395, USA",
+    "po_line_items": [
+      {
+        "description": "E 4/H U8/U8 NP/MT-NA BLUE FDA",
+        "quantity": 1.0,
+        "net_price": 597.93
+      }
+    ],
+    "vat_amount": null,
+    "gl_account": null,
+    "bank_name": null,
+    "account_holder_name": null,
+    "banking_account_number": null,
+    "remit_to_address": null,
+    "bill_to_address": null,
+    "transaction_type": "debit"
+  },
+  "filename": "SAPS4_5100270052_US28_PFNAUS_2026_999935063.pdf",
+  "raw_response": {
+    "invoice_number": "2415914260",
+    "invoice_date": "02/03/2026",
+    "invoice_amount": "642.92",
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": null,
+    "po_number": [
+      "4504896512"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": "44.99",
+    "cost_center": null,
+    "vendor_name": "Forbo Movement Systems",
+    "vendor_address": "Forbo Siegling LLC, 12201 Vanstory Drive, Huntersville, NC 28078-8395, USA",
+    "po_line_items": [
+      {
+        "description": "E 4/H U8/U8 NP/MT-NA BLUE FDA",
+        "quantity": 1.0,
+        "net_price": 597.93
+      }
+    ]
+  }
+}

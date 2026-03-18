@@ -1,0 +1,59 @@
+{
+  "invoice_data": {
+    "invoice_number": "246797",
+    "invoice_date": "10/15/2025",
+    "invoice_amount": "1476.73",
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": "0.00",
+    "po_number": [
+      "4505090321"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": "50.47",
+    "cost_center": null,
+    "vendor_name": "KC Supply",
+    "vendor_address": "3306 Wyoming St, Kansas, City, MO 64111, Kansas City, MO 64141-2196 USA",
+    "po_line_items": [
+      {
+        "description": "8\" x 1.5 oz Pressure x 0.5 oz Vacuum Bolt-On Cast Iron Tank Hatch; Black Neoprene Food-Grade Gaskets (#1683 Dome and #1676 Cover) Powder Coated Gray",
+        "quantity": 2.0,
+        "net_price": 713.13
+      }
+    ],
+    "vat_amount": null,
+    "gl_account": null,
+    "bank_name": null,
+    "account_holder_name": null,
+    "banking_account_number": null,
+    "remit_to_address": null,
+    "bill_to_address": null,
+    "transaction_type": "debit"
+  },
+  "filename": "SAPS4_5101866005_US28_PFNAUS_2026_999884805.pdf",
+  "raw_response": {
+    "invoice_number": "246797",
+    "invoice_date": "10/15/2025",
+    "invoice_amount": "1476.73",
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": "0.00",
+    "po_number": [
+      "4505090321"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": "50.47",
+    "cost_center": null,
+    "vendor_name": "KC Supply",
+    "vendor_address": "3306 Wyoming St, Kansas, City, MO 64111, Kansas City, MO 64141-2196 USA",
+    "po_line_items": [
+      {
+        "description": "8\" x 1.5 oz Pressure x 0.5 oz Vacuum Bolt-On Cast Iron Tank Hatch; Black Neoprene Food-Grade Gaskets (#1683 Dome and #1676 Cover) Powder Coated Gray",
+        "quantity": 2.0,
+        "net_price": 713.13
+      }
+    ]
+  }
+}

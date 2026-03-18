@@ -1,0 +1,59 @@
+{
+  "invoice_data": {
+    "invoice_number": "868703984",
+    "invoice_date": "02/04/2026",
+    "invoice_amount": "97.00",
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": "5.49",
+    "po_number": [
+      "4505100738"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "GRAINGER",
+    "vendor_address": "4320 LEWIS RD., HARRISBURG, PA 17111-2538",
+    "po_line_items": [
+      {
+        "description": "FULLY THREADED ROD,PLAIN,STEEL",
+        "quantity": 1.0,
+        "net_price": 91.51
+      }
+    ],
+    "vat_amount": null,
+    "gl_account": null,
+    "bank_name": null,
+    "account_holder_name": null,
+    "banking_account_number": null,
+    "remit_to_address": null,
+    "bill_to_address": null,
+    "transaction_type": "debit"
+  },
+  "filename": "SAPS4_5100304534_US28_PFNAUS_2026_999884349.pdf",
+  "raw_response": {
+    "invoice_number": "868703984",
+    "invoice_date": "02/04/2026",
+    "invoice_amount": "97.00",
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": "5.49",
+    "po_number": [
+      "4505100738"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "GRAINGER",
+    "vendor_address": "4320 LEWIS RD., HARRISBURG, PA 17111-2538",
+    "po_line_items": [
+      {
+        "description": "FULLY THREADED ROD,PLAIN,STEEL",
+        "quantity": 1.0,
+        "net_price": 91.51
+      }
+    ]
+  }
+}

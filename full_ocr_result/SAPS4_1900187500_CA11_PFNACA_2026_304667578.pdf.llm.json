@@ -1,0 +1,113 @@
+{
+  "invoice_data": {
+    "invoice_number": "IN0235837",
+    "invoice_date": "02.01.2026",
+    "invoice_amount": "9,813.54",
+    "invoice_currency": [
+      "CAD"
+    ],
+    "tax_amount": "0.00",
+    "po_number": null,
+    "gl_account_number": [
+      "525411"
+    ],
+    "freight_and_handling_charges": null,
+    "cost_center": [
+      "COMAN"
+    ],
+    "vendor_name": "W D POTATO LTD",
+    "vendor_address": "RR 2, 3644 10 SIDERD, BEETON ONLOG 1A0, CANADA",
+    "po_line_items": [
+      {
+        "description": "NOV 2- NOV 8/25",
+        "quantity": 1.0,
+        "net_price": 658.24
+      },
+      {
+        "description": "NOV 16 - NOV 22/25",
+        "quantity": 1.0,
+        "net_price": 104.25
+      },
+      {
+        "description": "NOV 30 - DEC 6/25",
+        "quantity": 1.0,
+        "net_price": 1144.45
+      },
+      {
+        "description": "DEC 14 - DEC 20/25",
+        "quantity": 1.0,
+        "net_price": 2788.87
+      },
+      {
+        "description": "DEC 21 - DEC 27/25",
+        "quantity": 1.0,
+        "net_price": 2868.91
+      },
+      {
+        "description": "DEC 28 / JAN 3/26",
+        "quantity": 1.0,
+        "net_price": 2248.82
+      }
+    ],
+    "vat_amount": null,
+    "gl_account": null,
+    "bank_name": null,
+    "account_holder_name": null,
+    "banking_account_number": null,
+    "remit_to_address": null,
+    "bill_to_address": null,
+    "transaction_type": "debit"
+  },
+  "filename": "SAPS4_1900187500_CA11_PFNACA_2026_304667578.pdf",
+  "raw_response": {
+    "invoice_number": "IN0235837",
+    "invoice_date": "02.01.2026",
+    "invoice_amount": "9,813.54",
+    "invoice_currency": [
+      "CAD"
+    ],
+    "tax_amount": "0.00",
+    "po_number": null,
+    "gl_account_number": [
+      "525411"
+    ],
+    "freight_and_handling_charges": null,
+    "cost_center": [
+      "COMAN"
+    ],
+    "vendor_name": "W D POTATO LTD",
+    "vendor_address": "RR 2, 3644 10 SIDERD, BEETON ONLOG 1A0, CANADA",
+    "po_line_items": [
+      {
+        "description": "NOV 2- NOV 8/25",
+        "quantity": 1.0,
+        "net_price": 658.24
+      },
+      {
+        "description": "NOV 16 - NOV 22/25",
+        "quantity": 1.0,
+        "net_price": 104.25
+      },
+      {
+        "description": "NOV 30 - DEC 6/25",
+        "quantity": 1.0,
+        "net_price": 1144.45
+      },
+      {
+        "description": "DEC 14 - DEC 20/25",
+        "quantity": 1.0,
+        "net_price": 2788.87
+      },
+      {
+        "description": "DEC 21 - DEC 27/25",
+        "quantity": 1.0,
+        "net_price": 2868.91
+      },
+      {
+        "description": "DEC 28 / JAN 3/26",
+        "quantity": 1.0,
+        "net_price": 2248.82
+      }
+    ]
+  }
+}

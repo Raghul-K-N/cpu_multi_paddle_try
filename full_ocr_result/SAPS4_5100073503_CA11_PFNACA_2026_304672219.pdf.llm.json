@@ -1,0 +1,99 @@
+{
+  "invoice_data": {
+    "invoice_number": "90187184",
+    "invoice_date": "02/05/2026",
+    "invoice_amount": "506.81",
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": "24.14",
+    "po_number": [
+      "4504812231"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": "74.71",
+    "cost_center": null,
+    "vendor_name": "Daifuku Intralogistics America Corporation",
+    "vendor_address": "6300 Northwind Parkway, Hobart, IN, 46342, Phone: (219)777-2220 Fax: (708)229-2495, Email: AR_Shared@wynright.com, PO Box 71383, Chicago, IL 60694-1383",
+    "po_line_items": [
+      {
+        "description": "QTY 2 W-720141-03 RLR21.5A007H2",
+        "quantity": 2.0,
+        "net_price": 97.2
+      },
+      {
+        "description": "QTY 1 W-720141-04 RLR27.5A007H2",
+        "quantity": 1.0,
+        "net_price": 124.6
+      },
+      {
+        "description": "QTY 2 W-030809-03 RLR21.5B307H0",
+        "quantity": 2.0,
+        "net_price": 36.28
+      },
+      {
+        "description": "QTY 1 M_FREIGHT-002 FREIGHT",
+        "quantity": 1.0,
+        "net_price": 74.71
+      },
+      {
+        "description": "QTY 1 M_FREIGHT-002 DUTIES & TARIFFS",
+        "quantity": 1.0,
+        "net_price": 16.4
+      }
+    ],
+    "vat_amount": null,
+    "gl_account": null,
+    "bank_name": null,
+    "account_holder_name": null,
+    "banking_account_number": null,
+    "remit_to_address": null,
+    "bill_to_address": null,
+    "transaction_type": "debit"
+  },
+  "filename": "SAPS4_5100073503_CA11_PFNACA_2026_304672219.pdf",
+  "raw_response": {
+    "invoice_number": "90187184",
+    "invoice_date": "02/05/2026",
+    "invoice_amount": "506.81",
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": "24.14",
+    "po_number": [
+      "4504812231"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": "74.71",
+    "cost_center": null,
+    "vendor_name": "Daifuku Intralogistics America Corporation",
+    "vendor_address": "6300 Northwind Parkway, Hobart, IN, 46342, Phone: (219)777-2220 Fax: (708)229-2495, Email: AR_Shared@wynright.com, PO Box 71383, Chicago, IL 60694-1383",
+    "po_line_items": [
+      {
+        "description": "QTY 2 W-720141-03 RLR21.5A007H2",
+        "quantity": 2.0,
+        "net_price": 97.2
+      },
+      {
+        "description": "QTY 1 W-720141-04 RLR27.5A007H2",
+        "quantity": 1.0,
+        "net_price": 124.6
+      },
+      {
+        "description": "QTY 2 W-030809-03 RLR21.5B307H0",
+        "quantity": 2.0,
+        "net_price": 36.28
+      },
+      {
+        "description": "QTY 1 M_FREIGHT-002 FREIGHT",
+        "quantity": 1.0,
+        "net_price": 74.71
+      },
+      {
+        "description": "QTY 1 M_FREIGHT-002 DUTIES & TARIFFS",
+        "quantity": 1.0,
+        "net_price": 16.4
+      }
+    ]
+  }
+}

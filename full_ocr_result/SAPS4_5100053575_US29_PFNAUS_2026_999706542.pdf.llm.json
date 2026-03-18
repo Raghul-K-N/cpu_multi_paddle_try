@@ -1,0 +1,69 @@
+{
+  "invoice_data": {
+    "invoice_number": "6100499",
+    "invoice_date": "Thursday 12 Feb 2026 4:34 PM GMT-08:00",
+    "invoice_amount": "126.88",
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": null,
+    "po_number": [
+      "M412840353"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "SPRAGUE",
+    "vendor_address": "PO Box 35129, Seattle, WA 98124",
+    "po_line_items": [
+      {
+        "description": "Material Not Available / Blanket PO Pest Services",
+        "quantity": 126.88,
+        "net_price": 1.0
+      },
+      {
+        "description": "RODENT INTERIOR SERVICE",
+        "quantity": 61.0,
+        "net_price": 2.08
+      }
+    ],
+    "vat_amount": null,
+    "gl_account": null,
+    "bank_name": null,
+    "account_holder_name": null,
+    "banking_account_number": null,
+    "remit_to_address": null,
+    "bill_to_address": null,
+    "transaction_type": "debit"
+  },
+  "filename": "SAPS4_5100053575_US29_PFNAUS_2026_999706542.pdf",
+  "raw_response": {
+    "invoice_number": "6100499",
+    "invoice_date": "Thursday 12 Feb 2026 4:34 PM GMT-08:00",
+    "invoice_amount": "126.88",
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": null,
+    "po_number": [
+      "M412840353"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "SPRAGUE",
+    "vendor_address": "PO Box 35129, Seattle, WA 98124",
+    "po_line_items": [
+      {
+        "description": "Material Not Available / Blanket PO Pest Services",
+        "quantity": 126.88,
+        "net_price": 1.0
+      },
+      {
+        "description": "RODENT INTERIOR SERVICE",
+        "quantity": 61.0,
+        "net_price": 2.08
+      }
+    ]
+  }
+}

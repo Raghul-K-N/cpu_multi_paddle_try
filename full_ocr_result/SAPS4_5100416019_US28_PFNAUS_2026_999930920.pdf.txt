@@ -1,0 +1,768 @@
+==================================<Page 1 - START>================================
+Standard Invoice
+                                                                                                                      GRAINGER
+Original tax invoice has been submitted electronically. This is a
+human readable representation (copy) of the original tax invoice.
+                                                                                                                    975996628726
+                                                                  Invoice Number
+                                                                  (Supplier Reference No.)
+                                                                  Invoice Date                      Tuesday 6 Jan 2026 5:29 AM GMT-07:00
+                                                                                                                     $525.20 USD
+                                                                  Amount Due
+     Contact Information                                                         Shipping Information
+     Supplier                       Customer                                                               Ship To
+                                                                            Ship From
+                                                                                                          US-PL-ARLINGTON-TX-FLI
+     Grainger                      Frito-Lay Inc.                                Grainger
+                                                                                                         KEEPSTOCK - MAINTENA
+     100 Grainger Pkwy               c/o PEPSICO NASS                           701 GRAINGER WAY
+     Lake Forest                    ACCOUNTS PAYABLES                        MINOOKA                      948 AVE H EAST
+                                                                                                         ARLINGTON
+     IL                           PO BOX 1800                               IL
+     Winst                        Winston Salem                              60447                        TX
+     United States                   NC                                      United States                    76011
+                                   27105                                                                  United States
+                                                                                                         Phone: (817) 525-2400
+                                   United States
+                                                                                                                  PO Date : 5 Jan 2026
+   Line Items                                               PO No. : M413475080
+                                                                                         Quantity            Unit Price         Subtotal
+   Line No.    PO Line No.          Type    Supplier Part No./              Customer Part No.
+                                         Description                                        (UOM)
+                                                                                                                         $17.60 USD
+                                 Material 6CA78 /                                          2 / (EA)            $8.80 USD
+    1         1
+                                         Std,Stl,Znc,M10-1.50.17x8mm.CL8.100PK
+                                                                                                            Unit Price         Subtotal
+   Line No.    PO Line No.          Type   Supplier Part No. /             Customer Part No.        Quantity
+                                         Description                                        (UOM)
+                                                                                         1 / (EA)           $11.36 USD      $11.36 USD
+    2        2                 Material  1C958 / Straight Flute
+                                        Tap,M5x0.8.HSS
+                                                                                                                            Subtotal
+                                 Type   Supplier Part No. /             Customer Part No.        Quantity            Unit Price
+    Line No.    PO Line No.
+                                         Description                                        (UOM)
+                                                                                                          $2.02 USD       $4.04 USD
+    3        3                 Material 6CA75 /                                          2 / (EA)
+                                         Std,Stl,Znc,M6-1.00,10x5mm,CL8.100PK
+                                                                   Customer Part No.        Quantity            Unit Price         Subtotal
+    Line No.    PO Line No.          Type   Supplier Part No. /
+                                         Description                                        (UOM)
+                                                                                                          $5.59 USD       $5.59 USD
+                                 Material 1WU80 / Drilling Screw,#8-18,3/4                         1 / (EA)
+    4        4
+                                         L,PK100
+                                                                                         Quantity            Unit Price         Subtotal
+              PO Line No.          Type   Supplier Part No. /             Customer Part No.
+    Line No.                                                                              (UOM)
+                                         Description
+                                 Material 4AHM5 / Straight Flute                                1 / (EA)            $8.24 USD       $8.24 USD
+    5         5
+                                         Tap,#8-32,HSS-E
+              PO Line No.          Type   Supplier Part No. /             Customer Part No.        Quantity            Unit Price         Subtotal
+    Line No.
+                                         Description                                        (UOM)
+                                        6CB14 /                                          2 / (EA)            $7.72 USD      $15.44 USD
+    6        6                 Material
+                                         Std,Stl,Znc,M8-1.00.13x6.5mm.CL8.100PK
+                                 Type   Supplier Part No. /             Customer Part No.         Quantity            Unit Price         Subtotal
+    Line No.    PO Line No.
+                                         Description                                        (UOM)
+                                                                                                           $2.32 USD
+    7        7                  Material 6CA71 / Std,Stl,Znc,M4-0.70,7x3                          2 / (EA)                           $4.64 USD
+                                         1/5mm,CL6,100PK
+                                Type   Supplier Part No. /              Customer Part No.         Quantity            Unit Price         Subtotal
+   Line No.    PO Line No.
+                                        Description                                        (UOM)
+   8         8                  Material 6CA72 /                                           2 / (EA)            $2.72 USD       $5.44 USD
+                                        Std.Stl.Znc,M5-0.80.8x4mm,CL6.100PK
+                                                                                                            Unit Price
+   Line No.    PO Line No.          Type    Supplier Part No. /              Customer Part No.         Quantity                             Subtotal
+                                        Description
+                                                                                         (UOM)
+                                 Material 4AHN0 / Straight Flute                                 1 / (EA)            $8.45 USD       $8.45 USD
+   9        9
+                                        Tap.#10-24.HSS-E
+   Line No.    PO Line No.          Type   Supplier Part No. /              Customer Part No.         Quantity             Unit Price         Subtotal
+                                        Description                                         (UOM)
+   10        10                 Material 1G865 / Jobber Length Drill Bit, 1/8                        5 / (EA)            $2.53 USD      $12.65 USD
+                                        in, Cobalt
+   Line No.    PO Line No.          Type    Supplier Part No. /              Customer Part No.         Quantity             Unit Price         Subtotal
+                                        Description                                         (UOM)
+  11        11                 Material  1G889 / Jobber Length Drill Bit.                           5 / (EA)            $8.66 USD      $43.30 USD
+                                        5/16 in, Cobalt
+  Line No.    PO Line No.          Type    Supplier Part No. /              Customer Part No.         Quantity            Unit Price         Subtotal
+                                        Description                                         (UOM)
+                                Material  1G869 / Jobber Length Drill Bit,                           5 / (EA)
+  12        12                                                                                            $3.53 USD       $17.65 USD
+                                        5/32 in, Cobalt
+  Line No.    PO Line No.          Type    Supplier Part No. /              Customer Part No.         Quantity             Unit Price
+                                                                                                                             Subtotal
+                                        Description                                         (UOM)
+  13        13                 Material  1JUZ5 / Large O.D. Washer, Plain,                         1 / (EA)           $27.99 USD
+                                                                                                                          $27.99 USD
+                                        3/4 in
+ Line No.    PO Line No.          Type    Supplier Part No. /             Customer Part No.        Quantity             Unit Price
+                                                                                                                             Subtotal
+                                        Description                                         (UOM)
+14        14                 Material 1G859 / Jobber Length Drill Bit,                           3 / (EA)            $2.58 USD       $7.74 USD
+                                        5/64 in, Cobalt
+            PO Line No.
+Line No.                        Type    Supplier Part No. /              Customer Part No.        Quantity             Unit Price         Subtotal
+                                       Description                                         (UOM)
+15        15                 Material 787ER2 / Duct Tape, Black, 30 yd                         4 / (EA)
+                                                                                                           $13.71 USD      $54.84 USD
+                                       L, 1-7/8 in W
+Line No.    PO Line No.          Type    Supplier Part No. /              Customer Part No.        Quantity            Unit Price
+                                                                                                                             Subtotal
+                                       Description                                         (UOM)
+16        16                 Material  53GJ85 / SHCS,SS,M4-0.7,6mm                          2 / (EA)            $2.51 USD
+                                                                                                                           $5.02 USD
+                                       L,PK50
+==================================<Page 1 - END>================================
+==================================<Page 2 - START>================================
+Line No.    PO Line No.          Type    Supplier Part No. /              Customer Part No.         Quantity             Unit Price          Subtotal
+                                        Description                                          (UOM)
+17
+            17                 Material 1CKD3 / Manual 2-Way Ball                              2 / (EA)           $25.88 USD       $51.76 USD
+                                       Valve,NPT,Brass
+Line No.
+            PO Line No.          Type    Supplier Part No. /              Customer Part No.         Quantity             Unit Price          Subtotal
+                                        Description                                          (UOM)
+18        18                 Material 36J133 / Cable Tie,PK100
+                                                                                          1 / (EA)            $4.70 USD        $4.70 USD
+Line No.                               Supplier Part No. /
+           PO Line No.          Type                               Customer Part No.         Quantity                              Subtotal
+                                       Description                                                              Unit Price
+                                                                                          (UOM)
+19                                    1G879/
+           19                 Material                                                    5 / (EA)            $5.60 USD       $28.00 USD
+                                       JobberLengthDrillBit,15/64in,Cobalt
+Line No.    PO Line No.                  Supplier Part No. /
+                               Type                               Customer Part No.         Quantity             Unit Price          Subtotal
+                                       Description
+                                                                                          (UOM)
+20        20                 Material 2F132 / Food Grade Machine Oil,11
+                                                                                          6 / (EA)            $8.91 USD       $53.46 USD
+                                       oz,Aerosol Can
+Line No.    PO Line No.          Type    Supplier Part No. /
+                                                                   Customer Part No.         Quantity             Unit Price          Subtotal
+                                       Description
+                                                                                         (UOM)
+21        21                 Material 6CA69 / Std,Znc,M3-0.50,5.5x2
+                                                                                         2 / (EA)            $2.27 USD        $4.54 USD
+                                       2/5mm.CL6.PK100
+Line No.    PO Line No.          Type    Supplier Part No. /              Customer Part No.
+                                                                                         Quantity             Unit Price          Subtotal
+                                      Description
+                                                                                         (UOM)
+22
+           22                 Material  1G897 / Jobber Length Drill Bit, 3/8                        5 / (EA)                            $59.90 USD
+                                                                                                          $11.98 USD
+                                      in, Cobalt
+Line No.    PO Line No.          Type    Supplier Part No. /
+                                                                  Customer Part No.         Quantity             Unit Price          Subtotal
+                                      Description
+                                                                                        (UOM)
+23        23                 Material 1WU76 / Drill
+                                                                                        1 / (EA)            $5.37 USD        $5.37 USD
+                                      Screw,Hex,#8,SS410,1/2L,PK100
+Line No.
+           PO Line No.          Type    Supplier Part No. /              Customer Part No.
+                                                                                        Quantity             Unit Price         Subtotal
+                                      Description
+                                                                                        (UOM)
+24        24                 Material  1WU88 / Drill
+                                      Screw,Hex,#10,SS410,5/8L,PK100                        2 / (EA)            $8.55 USD      $17.10 USD
+Line No.    PO Line No.          Type    Supplier Part No. I
+                                                                  Customer Part No.         Quantity
+                                      Description                                                            Unit Price         Subtotal
+                                                                                        (UOM)
+25
+           25                 Material 1G861 / Jobber Length Drill Bit,
+                                                                                        5 / (EA)            $2.07 USD       $10.35 USD
+                                      3/32 in, Cobalt
+                                                                               Amount Summary
+                                                                               Line item subtotal                           $485.17 USD
+                                                                               Gross amount                             $525.20 USD
+                                                                               Net amount
+                                                                                                                       $525.20 USD
+                                                                               Total tax amount                            $40.03 USD
+                                                                               Total withholding tax amount
+                                                                               Amount Due                               $525.20 USD
+   Additional Information
+   InvoiceSourceDocument
+   PurchaseOrder
+  InvoiceSubmissionMethod
+  cXML
+  Billing Information
+                                                                          Remittance Information
+  Bill To
+                                                                          Remit To
+  Frito-Lay Inc.
+                                                                          GRAINGER
+  c/o PEPSICO NASS
+  ACCOUNTS PAYABLES                                                     DEPT. 802321786
+                                                                          KANSAS CITY
+  PO BOX 1800
+                                                                          MO
+  Winston Salem
+                                                                          64141-6267
+  NC
+                                                                          United States
+  27105
+                                                                          Address ID: US1_10359
+  United States
+  Address ID: US28                                                          Tax ID of Supplier
+                                                                          36-1150280
+                                                                      Reference Documents
+                                                                      Original Supplier Order #: 1571826726
+==================================<Page 2 - END>================================
+==================================<Page 3 - START>================================
+    Appendix
+   Line No.
+               PO Line No. Type
+                                                         Supplier Part No. / Description
+    1
+               1         Material
+                                                         6CA78 / Std,Stl,Znc,M10-1.50,17x8mm,CL8,100PK
+    Additional Details:
+    Supplier Part ID : 6CA78
+    Supplier Part Auxiliary ID : WWG6CA78
+   Line No.
+               PO Line No. Type                          Supplier Part No. / Description
+    2
+               2         Material                        1C958 / Straight Flute Tap,M5x0.8,HSS
+    Additional Details:
+    Supplier Part ID : 1C958
+    Supplier Part Auxiliary ID : WWG1C958
+    Line No.
+               PO Line No. Type                          Supplier Part No. / Description
+    3
+               3         Material                        6CA75 / Std,Stl,Znc,M6-1.00,10x5mm,CL8,100PK
+    Additional Details:
+    Supplier Part ID : 6CA75
+    Supplier Part Auxiliary ID : WWG6CA75
+   Line No.    PO Line No. Type
+                                                         Supplier Part No. / Description
+    4         4         Material
+                                                        1WU80 / Drilling Screw,#8-18,3/4 L,PK100
+    Additional Details:
+    Supplier Part ID : 1WU80
+    Supplier Part Auxiliary ID : WWG1WU80
+    Line No.    PO Line No. Type
+                                                        Supplier Part No. / Description
+    5
+              5         Material                         4AHM5 / Straight Flute Tap,#8-32,HSS-E
+    Additional Details:
+    Supplier Part ID : 4AHM5
+    Supplier Part Auxiliary ID : WWG4AHM5
+   Line No.    PO Line No. Type                           Supplier Part No. / Description
+   6
+              6         Material                         6CB14 / Std,Stl,Znc,M8-1.00,13x6.5mm,CL8,100PK
+   Additional Details:
+   Supplier Part ID : 6CB14
+   Supplier Part Auxiliary ID : WWG6CB14
+   Line No.    PO Line No. Type
+                                                        Supplier Part No. / Description
+   7         7         Material
+                                                        6CA71 / Std,Stl,Znc,M4-0.70,7x3 1/5mm,CL6,100PK
+   Additional Details:
+   Supplier Part ID : 6CA71
+   Supplier Part Auxiliary ID : WWG6CA71
+   Line No.    PO Line No. Type
+                                                        Supplier Part No. / Description
+   8         8         Material
+                                                        6CA72 / Std,Stl,Znc,M5-0.80,8x4mm,CL6,100PK
+   Additional Details:
+   Supplier Part ID : 6CA72
+   Supplier Part Auxiliary ID : WWG6CA72
+  Line No.    PO Line No. Type
+                                                       Supplier Part No. / Description
+  9         9         Material                         4AHN0 / Straight Flute Tap,#10-24,HSS-E
+  Additional Details:
+  Supplier Part ID : 4AHN0
+  Supplier Part Auxiliary ID : WWG4AHN0
+  Line No.    PO Line No. Type                           Supplier Part No. / Description
+  10        10        Material                         1G865 / Jobber Length Drill Bit, 1/8 in, Cobalt
+  Additional Details:
+  Supplier Part ID : 1G865
+  Supplier Part Auxiliary ID : WWG1G865
+  Line No.
+             PO Line No. Type                           Supplier Part No. / Description
+  11        11        Material
+                                                       1G889 / Jobber Length Drill Bit, 5/16 in, Cobalt
+  Additional Details:
+  Supplier Part ID : 1G889
+  Supplier Part Auxiliary ID : WWG1G889
+  Line No.    PO Line No. Type                           Supplier Part No. / Description
+  12        12        Material                         1G869 / Jobber Length Drill Bit, 5/32 in, Cobalt
+  Additional Details:
+  Supplier Part ID : 1G869
+  Supplier Part Auxiliary ID : WWG1G869
+  Line No.    PO Line No. Type                           Supplier Part No. / Description
+  13        13        Material                         1JUZ5 / Large O.D. Washer, Plain, 3/4 in
+ Additional Details:
+  Supplier Part ID : 1JUZ5
+  Supplier Part Auxiliary ID : WWG1JUZ5
+ Line No.
+            PO Line No. Type                           Supplier Part No. / Description
+  14        14        Material                         1G859 / Jobber Length Drill Bit, 5/64 in, Cobalt
+ Additional Details:
+  Supplier Part ID : 1G859
+  Supplier Part Auxiliary ID : WWG1G859
+ Line No.    PO Line No. Type                           Supplier Part No. / Description
+ 15        15        Material                         787ER2 / Duct Tape, Black, 30 yd L, 1-7/8 in W
+Additional Details:
+Supplier Part ID : 787ER2
+ Supplier Part Auxiliary ID : WWG787ER2
+                                                      Supplier Part No. / Description
+Line No.    PO Line No. Type
+                                                      53GJ85 / SHCS,SS,M4-0.7,6mm L,PK50
+16        16        Material
+Additional Details:
+Supplier Part ID : 53GJ85
+Supplier Part Auxiliary ID : WWG53GJ85
+Line No.    PO Line No. Type                           Supplier Part No. / Description
+17        17        Material                         1CKD3 / Manual 2-Way Ball Valve,NPT,Brass
+Additional Details:
+Supplier Part ID : 1CKD3
+Supplier Part Auxiliary ID : WWG1CKD3
+                                                      Supplier Part No. / Description
+Line No.    PO Line No. Type
+                      Material                         36J133 / Cable Tie,PK100
+18        18
+Additional Details:
+Supplier Part ID : 36J133
+Supplier Part Auxiliary ID : WWG36J133
+==================================<Page 3 - END>================================
+==================================<Page 4 - START>================================
+            PO Line No. Type
+                                                       Supplier Part No. / Description
+19        19
+                       Material
+                                                      1G879 / JobberLengthDrillBit,15/64in,Cobalt
+Additional Details:
+Supplier Part ID : 1G879
+Supplier Part Auxiliary ID : WWG1G879
+Line No.
+            PO Line No. Type                            Supplier Part No. / Description
+20        20        Material
+                                                       2F132 / Food Grade Machine Oil,11 oz,Aerosol Can
+Additional Details:
+Supplier Part ID : 2F132
+Supplier Part Auxiliary ID : WWG2F132
+Line No.    PO Line No. Type                            Supplier Part No. / Description
+21        21        Material                         6CA69 / Std,Znc,M3-0.50,5.5x2 2/5mm,CL6,PK100
+Additional Details:
+Supplier Part ID : 6CA69
+Supplier Part Auxiliary ID : WWG6CA69
+Line No.    PO Line No. Type                           Supplier Part No. / Description
+22        22        Material                         1G897 / Jobber Length Drill Bit, 3/8 in, Cobalt
+Additional Details:
+Supplier Part ID : 1G897
+Supplier Part Auxiliary ID : WWG1G897
+            PO Line No. Type                            Supplier Part No. / Description
+Line No.
+            23        Material                         1WU76 / Drill Screw,Hex,#8,SS410,1/2L,PK100
+23
+Additional Details:
+Supplier Part ID : 1WU76
+Supplier Part Auxiliary ID : WWG1WU76
+Line No.    PO Line No. Type                            Supplier Part No. / Description
+24        24        Material                         1WU88 / Drill Screw,Hex,#10,SS410,5/8L,PK100
+Additional Details:
+Supplier Part ID : 1WU88
+Supplier Part Auxiliary ID : WWG1WU88
+Line No.    PO Line No. Type                            Supplier Part No. / Description
+25        25        Material                         1G861 / Jobber Length Drill Bit, 3/32 in, Cobalt
+Additional Details:
+Supplier Part ID : 1G861
+Supplier Part Auxiliary ID : WWG1G861
+PDF generated on Wednesday 7 Jan 2026 5:03 AM GMT-08:00
+==================================<Page 4 - END>================================
+==================================<Page 5 - START>================================
+  Standard Invoice
+                                                                                                                        GRAINGER
+  Original tax invoice has been submitted electronically. This is a
+  human readable representation (copy) of the original tax invoice.
+                                                                                                                      975996628726
+                                                                    Invoice Number
+                                                                    (Supplier Reference No.)
+                                                                    Invoice Date                      Tuesday 6 Jan 2026 5:29 AM GMT-07:00
+                                                                                                                       $525.20 USD
+                                                                    Amount Due
+      Contact Information                                                         Shipping Information
+      Supplier                       Customer                                                               Ship To
+                                                                              Ship From
+                                                                                                           US-PL-ARLINGTON-TX-FLI
+      Grainger                      Frito-Lay Inc.                                Grainger
+                                                                                                           KEEPSTOCK - MAINTENA
+      100 Grainger Pkwy               c/o PEPSICO NASS                           701 GRAINGER WAY
+       Lake Forest                    ACCOUNTS PAYABLES                        MINOOKA                      948 AVE H EAST
+                                                                                                           ARLINGTON
+      IL                           PO BOX 1800                               IL
+       Winst                        Winston Salem                              60447                        TX
+       United States                   NC                                      United States                    76011
+                                    27105                                                                  United States
+                                                                                                           Phone: (817) 525-2400
+                                     United States
+                                                                                                                    PO Date : 5 Jan 2026
+    Line Items                                               PO No. : M413475080
+                                                                                          Quantity            Unit Price         Subtotal
+     Line No.    PO Line No.          Type    Supplier Part No./              Customer Part No.
+                                          Description                                        (UOM)
+                                                                                                                          $17.60 USD
+                                  Material 6CA78 /                                          2 / (EA)            $8.80 USD
+     1         1
+                                          Std,Stl,Znc,M10-1.50.17x8mm.CL8.100PK
+                                                                                                             Unit Price         Subtotal
+     Line No.    PO Line No.          Type   Supplier Part No. /             Customer Part No.        Quantity
+                                          Description                                        (UOM)
+                                                                                          1 / (EA)           $11.36 USD      $11.36 USD
+     2        2                 Material  1C958 / Straight Flute
+                                          Tap,M5x0.8.HSS
+                                                                                                                             Subtotal
+                                  Type   Supplier Part No. /             Customer Part No.        Quantity            Unit Price
+     Line No.    PO Line No.
+                                          Description                                        (UOM)
+                                                                                                            $2.02 USD       $4.04 USD
+     3        3                 Material 6CA75 /                                          2 / (EA)
+                                          Std,Stl,Znc,M6-1.00,10x5mm,CL8.100PK
+                                                                     Customer Part No.        Quantity            Unit Price         Subtotal
+     Line No.    PO Line No.          Type   Supplier Part No. /
+                                          Description                                        (UOM)
+                                                                                                            $5.59 USD       $5.59 USD
+                                   Material 1WU80 / Drilling Screw,#8-18,3/4                         1 / (EA)
+     4        4
+                                          L,PK100
+                                                                                          Quantity            Unit Price         Subtotal
+                PO Line No.          Type   Supplier Part No. /             Customer Part No.
+     Line No.                                                                              (UOM)
+                                          Description
+                                   Material 4AHM5 / Straight Flute                                1 / (EA)            $8.24 USD       $8.24 USD
+     5         5
+                                          Tap,#8-32,HSS-E
+                PO Line No.          Type   Supplier Part No. /             Customer Part No.        Quantity            Unit Price         Subtotal
+     Line No.
+                                          Description                                        (UOM)
+                                          6CB14 /                                          2 / (EA)            $7.72 USD      $15.44 USD
+     6        6                 Material
+                                          Std,Stl,Znc,M8-1.00.13x6.5mm.CL8.100PK
+                                  Type   Supplier Part No. /             Customer Part No.         Quantity            Unit Price         Subtotal
+     Line No.    PO Line No.
+                                          Description                                        (UOM)
+                                                                                                             $2.32 USD
+     7        7                  Material 6CA71 / Std,Stl,Znc,M4-0.70,7x3                          2 / (EA)                           $4.64 USD
+                                          1/5mm,CL6,100PK
+                                  Type   Supplier Part No. /              Customer Part No.         Quantity            Unit Price         Subtotal
+     Line No.    PO Line No.
+                                          Description                                        (UOM)
+     8         8                  Material 6CA72 /                                           2 / (EA)            $2.72 USD       $5.44 USD
+                                          Std.Stl.Znc,M5-0.80.8x4mm,CL6.100PK
+                                                                                                              Unit Price
+     Line No.    PO Line No.          Type    Supplier Part No. /              Customer Part No.         Quantity                             Subtotal
+                                          Description
+                                                                                           (UOM)
+                                  Material 4AHN0 / Straight Flute                                 1 / (EA)            $8.45 USD       $8.45 USD
+     9        9
+                                          Tap.#10-24.HSS-E
+    Line No.    PO Line No.          Type   Supplier Part No. /              Customer Part No.         Quantity             Unit Price         Subtotal
+                                          Description                                         (UOM)
+    10        10                 Material 1G865 / Jobber Length Drill Bit, 1/8                        5 / (EA)            $2.53 USD      $12.65 USD
+                                          in, Cobalt
+    Line No.    PO Line No.          Type    Supplier Part No. /              Customer Part No.         Quantity             Unit Price         Subtotal
+                                          Description                                         (UOM)
+    11        11                 Material  1G889 / Jobber Length Drill Bit.                           5 / (EA)            $8.66 USD      $43.30 USD
+                                          5/16 in, Cobalt
+    Line No.    PO Line No.          Type    Supplier Part No. /              Customer Part No.         Quantity            Unit Price         Subtotal
+                                          Description                                         (UOM)
+                                  Material  1G869 / Jobber Length Drill Bit,                           5 / (EA)
+    12        12                                                                                            $3.53 USD       $17.65 USD
+                                         5/32 in, Cobalt
+   Line No.    PO Line No.          Type    Supplier Part No. /              Customer Part No.         Quantity             Unit Price
+                                                                                                                              Subtotal
+                                         Description                                         (UOM)
+   13        13                 Material  1JUZ5 / Large O.D. Washer, Plain,                         1 / (EA)           $27.99 USD
+                                                                                                                            $27.99 USD
+                                         3/4 in
+   Line No.    PO Line No.          Type    Supplier Part No. /             Customer Part No.        Quantity             Unit Price
+                                                                                                                               Subtotal
+                                         Description                                         (UOM)
+  14        14                 Material 1G859 / Jobber Length Drill Bit,                           3 / (EA)            $2.58 USD       $7.74 USD
+                                         5/64 in, Cobalt
+              PO Line No.
+  Line No.                        Type    Supplier Part No. /              Customer Part No.        Quantity             Unit Price         Subtotal
+                                         Description                                         (UOM)
+  15        15                 Material 787ER2 / Duct Tape, Black, 30 yd                         4 / (EA)
+                                                                                                            $13.71 USD      $54.84 USD
+                                         L, 1-7/8 in W
+  Line No.    PO Line No.          Type    Supplier Part No. /              Customer Part No.        Quantity            Unit Price
+                                                                                                                               Subtotal
+                                         Description                                         (UOM)
+  16        16                 Material  53GJ85 / SHCS,SS,M4-0.7,6mm                          2 / (EA)            $2.51 USD
+                                                                                                                             $5.02 USD
+                                         L,PK50
+==================================<Page 5 - END>================================
+==================================<Page 6 - START>================================
+  Line No.    PO Line No.          Type    Supplier Part No. /              Customer Part No.         Quantity             Unit Price          Subtotal
+                                         Description                                          (UOM)
+ 17
+             17                 Material 1CKD3 / Manual 2-Way Ball                              2 / (EA)           $25.88 USD       $51.76 USD
+                                        Valve,NPT,Brass
+  Line No.
+             PO Line No.          Type    Supplier Part No. /              Customer Part No.         Quantity             Unit Price          Subtotal
+                                         Description                                          (UOM)
+  18        18                 Material 36J133 / Cable Tie,PK100
+                                                                                           1 / (EA)            $4.70 USD        $4.70 USD
+ Line No.                               Supplier Part No. /
+             PO Line No.          Type                               Customer Part No.         Quantity                              Subtotal
+                                        Description                                                              Unit Price
+                                                                                           (UOM)
+ 19                                    1G879/
+            19                 Material                                                    5 / (EA)            $5.60 USD       $28.00 USD
+                                        JobberLengthDrillBit,15/64in,Cobalt
+  Line No.    PO Line No.                  Supplier Part No. /
+                                Type                               Customer Part No.         Quantity             Unit Price          Subtotal
+                                        Description
+                                                                                           (UOM)
+  20        20                 Material 2F132 / Food Grade Machine Oil,11
+                                                                                           6 / (EA)            $8.91 USD       $53.46 USD
+                                        oz,Aerosol Can
+ Line No.    PO Line No.          Type    Supplier Part No. /
+                                                                    Customer Part No.         Quantity             Unit Price          Subtotal
+                                        Description
+                                                                                          (UOM)
+  21        21                 Material 6CA69 / Std,Znc,M3-0.50,5.5x2
+                                                                                          2 / (EA)            $2.27 USD        $4.54 USD
+                                        2/5mm.CL6.PK100
+  Line No.    PO Line No.          Type    Supplier Part No. /              Customer Part No.
+                                                                                          Quantity             Unit Price          Subtotal
+                                        Description
+                                                                                          (UOM)
+ 22
+            22                 Material  1G897 / Jobber Length Drill Bit, 3/8                        5 / (EA)                            $59.90 USD
+                                                                                                            $11.98 USD
+                                        in, Cobalt
+ Line No.    PO Line No.          Type    Supplier Part No. /
+                                                                    Customer Part No.         Quantity             Unit Price          Subtotal
+                                        Description
+                                                                                          (UOM)
+ 23        23                 Material 1WU76 / Drill
+                                                                                          1 / (EA)            $5.37 USD        $5.37 USD
+                                        Screw,Hex,#8,SS410,1/2L,PK100
+ Line No.
+            PO Line No.          Type    Supplier Part No. /              Customer Part No.
+                                                                                          Quantity             Unit Price         Subtotal
+                                       Description
+                                                                                         (UOM)
+ 24        24                 Material  1WU88 / Drill
+                                        Screw,Hex,#10,SS410,5/8L,PK100                        2 / (EA)            $8.55 USD      $17.10 USD
+ Line No.    PO Line No.          Type    Supplier Part No. I
+                                                                   Customer Part No.         Quantity
+                                       Description                                                            Unit Price         Subtotal
+                                                                                         (UOM)
+ 25
+            25                 Material 1G861 / Jobber Length Drill Bit,
+                                                                                         5 / (EA)            $2.07 USD       $10.35 USD
+                                       3/32 in, Cobalt
+                                                                                Amount Summary
+                                                                                Line item subtotal                           $485.17 USD
+                                                                                Gross amount                             $525.20 USD
+                                                                                Net amount
+                                                                                                                        $525.20 USD
+                                                                                Total tax amount                            $40.03 USD
+                                                                                Total withholding tax amount
+                                                                                Amount Due                               $525.20 USD
+    Additional Information
+    InvoiceSourceDocument
+    PurchaseOrder
+    InvoiceSubmissionMethod
+    cXML
+    Billing Information
+                                                                           Remittance Information
+   Bill To
+                                                                           Remit To
+    Frito-Lay Inc.
+                                                                           GRAINGER
+    c/o PEPSICO NASS
+   ACCOUNTS PAYABLES                                                     DEPT. 802321786
+                                                                           KANSAS CITY
+   PO BOX 1800
+                                                                           MO
+   Winston Salem
+                                                                           64141-6267
+   NC
+                                                                           United States
+   27105
+                                                                           Address ID: US1_10359
+   United States
+   Address ID: US28                                                          Tax ID of Supplier
+                                                                           36-1150280
+                                                                       Reference Documents
+                                                                        Original Supplier Order #: 1571826726
+==================================<Page 6 - END>================================
+==================================<Page 7 - START>================================
+    Appendix
+    Line No.
+                PO Line No. Type
+                                                          Supplier Part No. / Description
+    1
+                1         Material
+                                                          6CA78 / Std,Stl,Znc,M10-1.50,17x8mm,CL8,100PK
+    Additional Details:
+    Supplier Part ID : 6CA78
+    Supplier Part Auxiliary ID : WWG6CA78
+    Line No.
+                PO Line No. Type                          Supplier Part No. / Description
+    2
+                2         Material                        1C958 / Straight Flute Tap,M5x0.8,HSS
+    Additional Details:
+    Supplier Part ID : 1C958
+    Supplier Part Auxiliary ID : WWG1C958
+    Line No.
+                PO Line No. Type                          Supplier Part No. / Description
+     3
+                3         Material                        6CA75 / Std,Stl,Znc,M6-1.00,10x5mm,CL8,100PK
+     Additional Details:
+     Supplier Part ID : 6CA75
+    Supplier Part Auxiliary ID : WWG6CA75
+    Line No.    PO Line No. Type
+                                                         Supplier Part No. / Description
+    4         4         Material
+                                                         1WU80 / Drilling Screw,#8-18,3/4 L,PK100
+    Additional Details:
+    Supplier Part ID : 1WU80
+    Supplier Part Auxiliary ID : WWG1WU80
+    Line No.    PO Line No. Type
+                                                         Supplier Part No. / Description
+    5
+               5         Material                         4AHM5 / Straight Flute Tap,#8-32,HSS-E
+    Additional Details:
+    Supplier Part ID : 4AHM5
+    Supplier Part Auxiliary ID : WWG4AHM5
+    Line No.    PO Line No. Type                           Supplier Part No. / Description
+    6
+               6         Material                         6CB14 / Std,Stl,Znc,M8-1.00,13x6.5mm,CL8,100PK
+    Additional Details:
+    Supplier Part ID : 6CB14
+    Supplier Part Auxiliary ID : WWG6CB14
+    Line No.    PO Line No. Type
+                                                         Supplier Part No. / Description
+    7         7         Material
+                                                         6CA71 / Std,Stl,Znc,M4-0.70,7x3 1/5mm,CL6,100PK
+    Additional Details:
+    Supplier Part ID : 6CA71
+    Supplier Part Auxiliary ID : WWG6CA71
+    Line No.    PO Line No. Type
+                                                        Supplier Part No. / Description
+    8         8         Material
+                                                        6CA72 / Std,Stl,Znc,M5-0.80,8x4mm,CL6,100PK
+    Additional Details:
+    Supplier Part ID : 6CA72
+    Supplier Part Auxiliary ID : WWG6CA72
+   Line No.    PO Line No. Type
+                                                        Supplier Part No. / Description
+   9         9         Material                         4AHN0 / Straight Flute Tap,#10-24,HSS-E
+   Additional Details:
+   Supplier Part ID : 4AHN0
+   Supplier Part Auxiliary ID : WWG4AHN0
+   Line No.    PO Line No. Type                           Supplier Part No. / Description
+   10        10        Material                         1G865 / Jobber Length Drill Bit, 1/8 in, Cobalt
+   Additional Details:
+   Supplier Part ID : 1G865
+   Supplier Part Auxiliary ID : WWG1G865
+   Line No.
+              PO Line No. Type                           Supplier Part No. / Description
+   11        11        Material
+                                                        1G889 / Jobber Length Drill Bit, 5/16 in, Cobalt
+   Additional Details:
+   Supplier Part ID : 1G889
+   Supplier Part Auxiliary ID : WWG1G889
+   Line No.    PO Line No. Type                           Supplier Part No. / Description
+   12        12        Material                         1G869 / Jobber Length Drill Bit, 5/32 in, Cobalt
+  Additional Details:
+   Supplier Part ID : 1G869
+   Supplier Part Auxiliary ID : WWG1G869
+  Line No.    PO Line No. Type                           Supplier Part No. / Description
+  13        13        Material                         1JUZ5 / Large O.D. Washer, Plain, 3/4 in
+  Additional Details:
+   Supplier Part ID : 1JUZ5
+  Supplier Part Auxiliary ID : WWG1JUZ5
+  Line No.
+             PO Line No. Type                           Supplier Part No. / Description
+  14        14        Material                         1G859 / Jobber Length Drill Bit, 5/64 in, Cobalt
+  Additional Details:
+  Supplier Part ID : 1G859
+  Supplier Part Auxiliary ID : WWG1G859
+  Line No.    PO Line No. Type                           Supplier Part No. / Description
+  15        15        Material                         787ER2 / Duct Tape, Black, 30 yd L, 1-7/8 in W
+  Additional Details:
+  Supplier Part ID : 787ER2
+  Supplier Part Auxiliary ID : WWG787ER2
+                                                       Supplier Part No. / Description
+  Line No.    PO Line No. Type
+                                                       53GJ85 / SHCS,SS,M4-0.7,6mm L,PK50
+  16        16        Material
+ Additional Details:
+  Supplier Part ID : 53GJ85
+  Supplier Part Auxiliary ID : WWG53GJ85
+ Line No.    PO Line No. Type                           Supplier Part No. / Description
+ 17        17        Material                         1CKD3 / Manual 2-Way Ball Valve,NPT,Brass
+ Additional Details:
+ Supplier Part ID : 1CKD3
+ Supplier Part Auxiliary ID : WWG1CKD3
+                                                      Supplier Part No. / Description
+Line No.    PO Line No. Type
+                       Material                         36J133 / Cable Tie,PK100
+ 18        18
+ Additional Details:
+ Supplier Part ID : 36J133
+ Supplier Part Auxiliary ID : WWG36J133
+==================================<Page 7 - END>================================
+==================================<Page 8 - START>================================
+            PO Line No. Type
+                                                       Supplier Part No. / Description
+19        19
+                       Material
+                                                      1G879 / JobberLengthDrillBit,15/64in,Cobalt
+Additional Details:
+Supplier Part ID : 1G879
+Supplier Part Auxiliary ID : WWG1G879
+Line No.
+            PO Line No. Type                            Supplier Part No. / Description
+20        20        Material
+                                                       2F132 / Food Grade Machine Oil,11 oz,Aerosol Can
+Additional Details:
+Supplier Part ID : 2F132
+Supplier Part Auxiliary ID : WWG2F132
+Line No.    PO Line No. Type                            Supplier Part No. / Description
+21        21        Material                         6CA69 / Std,Znc,M3-0.50,5.5x2 2/5mm,CL6,PK100
+Additional Details:
+Supplier Part ID : 6CA69
+Supplier Part Auxiliary ID : WWG6CA69
+Line No.    PO Line No. Type                           Supplier Part No. / Description
+22        22        Material                         1G897 / Jobber Length Drill Bit, 3/8 in, Cobalt
+Additional Details:
+Supplier Part ID : 1G897
+Supplier Part Auxiliary ID : WWG1G897
+            PO Line No. Type                            Supplier Part No. / Description
+Line No.
+            23        Material                         1WU76 / Drill Screw,Hex,#8,SS410,1/2L,PK100
+23
+Additional Details:
+Supplier Part ID : 1WU76
+Supplier Part Auxiliary ID : WWG1WU76
+Line No.    PO Line No. Type                            Supplier Part No. / Description
+24        24        Material                         1WU88 / Drill Screw,Hex,#10,SS410,5/8L,PK100
+Additional Details:
+Supplier Part ID : 1WU88
+Supplier Part Auxiliary ID : WWG1WU88
+Line No.    PO Line No. Type                            Supplier Part No. / Description
+25        25        Material                         1G861 / Jobber Length Drill Bit, 3/32 in, Cobalt
+Additional Details:
+Supplier Part ID : 1G861
+Supplier Part Auxiliary ID : WWG1G861
+PDF generated on Wednesday 7 Jan 2026 5:03 AM GMT-08:00
+==================================<Page 8 - END>================================

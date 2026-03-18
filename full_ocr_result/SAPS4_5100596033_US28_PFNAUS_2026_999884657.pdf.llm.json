@@ -1,0 +1,109 @@
+{
+  "invoice_data": {
+    "invoice_number": "93307233",
+    "invoice_date": "02/11/2026",
+    "invoice_amount": "3959.88",
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": null,
+    "po_number": [
+      "4504952788"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": "805.00",
+    "cost_center": null,
+    "vendor_name": "Heat and Control",
+    "vendor_address": "21121 CABOT BLVD, HAYWARD CA 94545-1132",
+    "po_line_items": [
+      {
+        "description": "30585213 SPROCKET ASSY, IDLER, 260E",
+        "quantity": 1.0,
+        "net_price": 304.0
+      },
+      {
+        "description": "30585424 CRANK SHAFT ASSY, 260E",
+        "quantity": 1.0,
+        "net_price": 1337.0
+      },
+      {
+        "description": "30595360 SPROCKET ASSY, TENSIONER, ADJUSTING,260E",
+        "quantity": 1.0,
+        "net_price": 377.0
+      },
+      {
+        "description": "20545643 BRG BALL, 40MM,SPCL,SEMA#S-5149-M208 PRO",
+        "quantity": 8.0,
+        "net_price": 113.0
+      },
+      {
+        "description": "30808218 CRANK ASSY, 260E",
+        "quantity": 1.0,
+        "net_price": 805.0
+      },
+      {
+        "description": "1010 FREIGHT",
+        "quantity": 1.0,
+        "net_price": 232.88
+      }
+    ],
+    "vat_amount": null,
+    "gl_account": null,
+    "bank_name": null,
+    "account_holder_name": null,
+    "banking_account_number": null,
+    "remit_to_address": null,
+    "bill_to_address": null,
+    "transaction_type": "debit"
+  },
+  "filename": "SAPS4_5100596033_US28_PFNAUS_2026_999884657.pdf",
+  "raw_response": {
+    "invoice_number": "93307233",
+    "invoice_date": "02/11/2026",
+    "invoice_amount": "3959.88",
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": null,
+    "po_number": [
+      "4504952788"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": "805.00",
+    "cost_center": null,
+    "vendor_name": "Heat and Control",
+    "vendor_address": "21121 CABOT BLVD, HAYWARD CA 94545-1132",
+    "po_line_items": [
+      {
+        "description": "30585213 SPROCKET ASSY, IDLER, 260E",
+        "quantity": 1.0,
+        "net_price": 304.0
+      },
+      {
+        "description": "30585424 CRANK SHAFT ASSY, 260E",
+        "quantity": 1.0,
+        "net_price": 1337.0
+      },
+      {
+        "description": "30595360 SPROCKET ASSY, TENSIONER, ADJUSTING,260E",
+        "quantity": 1.0,
+        "net_price": 377.0
+      },
+      {
+        "description": "20545643 BRG BALL, 40MM,SPCL,SEMA#S-5149-M208 PRO",
+        "quantity": 8.0,
+        "net_price": 113.0
+      },
+      {
+        "description": "30808218 CRANK ASSY, 260E",
+        "quantity": 1.0,
+        "net_price": 805.0
+      },
+      {
+        "description": "1010 FREIGHT",
+        "quantity": 1.0,
+        "net_price": 232.88
+      }
+    ]
+  }
+}

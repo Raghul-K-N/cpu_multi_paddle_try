@@ -1,0 +1,47 @@
+{
+  "invoice_data": {
+    "invoice_number": "B2026001",
+    "invoice_date": "19-Jan-26",
+    "invoice_amount": null,
+    "invoice_currency": [
+      "CAD"
+    ],
+    "tax_amount": null,
+    "po_number": [
+      "M413514918"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "Sunshine Solution",
+    "vendor_address": "12203 Airport Road, Caledon, ON, Canada; 476 Cardinal Drive, Peterborough, ON Canada K9L 1X9",
+    "po_line_items": null,
+    "vat_amount": null,
+    "gl_account": null,
+    "bank_name": null,
+    "account_holder_name": null,
+    "banking_account_number": null,
+    "remit_to_address": null,
+    "bill_to_address": null,
+    "transaction_type": "debit"
+  },
+  "filename": "SAPS4_5100902012_CA02_PBNACA_2026_328615192.pdf",
+  "raw_response": {
+    "invoice_number": "B2026001",
+    "invoice_date": "19-Jan-26",
+    "invoice_amount": null,
+    "invoice_currency": [
+      "CAD"
+    ],
+    "tax_amount": null,
+    "po_number": [
+      "M413514918"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "Sunshine Solution",
+    "vendor_address": "12203 Airport Road, Caledon, ON, Canada; 476 Cardinal Drive, Peterborough, ON Canada K9L 1X9",
+    "po_line_items": null
+  }
+}

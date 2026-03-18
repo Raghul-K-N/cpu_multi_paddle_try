@@ -1,0 +1,69 @@
+{
+  "invoice_data": {
+    "invoice_number": "156",
+    "invoice_date": "29 Jan 2026",
+    "invoice_amount": "460.00",
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": "60.00",
+    "po_number": [
+      "M413409321"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "PEPSICO Canada",
+    "vendor_address": "6 Chemin Du Bruant, Stoneham, QC G3C 0K2",
+    "po_line_items": [
+      {
+        "description": "Janitorial Services for 145 Melissa St",
+        "quantity": 1.0,
+        "net_price": 400.0
+      },
+      {
+        "description": "4 units x $100.00/unit",
+        "quantity": 4.0,
+        "net_price": 100.0
+      }
+    ],
+    "vat_amount": null,
+    "gl_account": null,
+    "bank_name": null,
+    "account_holder_name": null,
+    "banking_account_number": null,
+    "remit_to_address": null,
+    "bill_to_address": null,
+    "transaction_type": "debit"
+  },
+  "filename": "SAPS4_5100262006_CA11_PFNACA_2026_304667641.pdf",
+  "raw_response": {
+    "invoice_number": "156",
+    "invoice_date": "29 Jan 2026",
+    "invoice_amount": "460.00",
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": "60.00",
+    "po_number": [
+      "M413409321"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "PEPSICO Canada",
+    "vendor_address": "6 Chemin Du Bruant, Stoneham, QC G3C 0K2",
+    "po_line_items": [
+      {
+        "description": "Janitorial Services for 145 Melissa St",
+        "quantity": 1.0,
+        "net_price": 400.0
+      },
+      {
+        "description": "4 units x $100.00/unit",
+        "quantity": 4.0,
+        "net_price": 100.0
+      }
+    ]
+  }
+}

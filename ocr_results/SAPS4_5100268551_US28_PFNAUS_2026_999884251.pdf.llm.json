@@ -1,0 +1,99 @@
+{
+  "invoice_data": {
+    "invoice_number": "2026004900",
+    "invoice_date": "02/03/2026",
+    "invoice_amount": "3188.09",
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": null,
+    "po_number": [
+      "4505009361"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": "71.89",
+    "cost_center": null,
+    "vendor_name": "Heat and Control",
+    "vendor_address": "21121 CABOT BLVD, HAYWARD CA 94545-1132",
+    "po_line_items": [
+      {
+        "description": "X53-1227-00 SHAFT,ROLLER,FOLLOWER",
+        "quantity": 1.0,
+        "net_price": 22.5
+      },
+      {
+        "description": "XP-5428-3 DUC BOARD",
+        "quantity": 6.0,
+        "net_price": 441.6
+      },
+      {
+        "description": "X106-7984-08 TIMING PULLEY.S5M.BF",
+        "quantity": 2.0,
+        "net_price": 126.2
+      },
+      {
+        "description": "X109-9135-01 BOSS,ROLLER,DRIVE 2",
+        "quantity": 2.0,
+        "net_price": 95.85
+      },
+      {
+        "description": "FREIGHT",
+        "quantity": 1.0,
+        "net_price": 71.89
+      }
+    ],
+    "vat_amount": null,
+    "gl_account": null,
+    "bank_name": null,
+    "account_holder_name": null,
+    "banking_account_number": null,
+    "remit_to_address": null,
+    "bill_to_address": null,
+    "transaction_type": "debit"
+  },
+  "filename": "SAPS4_5100268551_US28_PFNAUS_2026_999884251.pdf",
+  "raw_response": {
+    "invoice_number": "2026004900",
+    "invoice_date": "02/03/2026",
+    "invoice_amount": "3188.09",
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": null,
+    "po_number": [
+      "4505009361"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": "71.89",
+    "cost_center": null,
+    "vendor_name": "Heat and Control",
+    "vendor_address": "21121 CABOT BLVD, HAYWARD CA 94545-1132",
+    "po_line_items": [
+      {
+        "description": "X53-1227-00 SHAFT,ROLLER,FOLLOWER",
+        "quantity": 1.0,
+        "net_price": 22.5
+      },
+      {
+        "description": "XP-5428-3 DUC BOARD",
+        "quantity": 6.0,
+        "net_price": 441.6
+      },
+      {
+        "description": "X106-7984-08 TIMING PULLEY.S5M.BF",
+        "quantity": 2.0,
+        "net_price": 126.2
+      },
+      {
+        "description": "X109-9135-01 BOSS,ROLLER,DRIVE 2",
+        "quantity": 2.0,
+        "net_price": 95.85
+      },
+      {
+        "description": "FREIGHT",
+        "quantity": 1.0,
+        "net_price": 71.89
+      }
+    ]
+  }
+}

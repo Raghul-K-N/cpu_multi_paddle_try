@@ -33,10 +33,31 @@ def _setup_worker_logger(worker_id, log_filename):
     return logger
 
 
-LLM_API_URL = "http://34.162.53.116:8080/v1/fetch-invoice-keyfields"
+LLM_API_URL = "http://34.162.66.245:8082/v1/fetch-invoice-keyfields"
 LLM_API_KEY = "Llama-api/version-0.1"
 LLM_TIMEOUT = 800
 
+def check_is_ariba_invoice(text_line: str, checkindex: int) -> bool:
+    """ariba_keywords
+    Heuristic to determine if the invoice is an Ariba invoice based on presence of keywords.
+    """
+    ariba_keywords = ['Original tax invoice has been submitted electronically. This is a']
+   
+    text = text_line.replace(" ", "").lower()
+    is_ariba = ariba_keywords[checkindex].replace(" ", "").lower() in text
+    return is_ariba
+
+def check_is_non_po_invoice(text_line: str, checkindex: int) -> bool:
+    """
+    Heuristic to determine if the invoice is a non-PO invoice based on presence of keywords.
+    """
+    po_keywords1 = ['SAP Payment Request', 'To be filled by Requestor', 'Substitute Invoice Form']
+    po_keywords2 = ['Non-PO Invoice', 'SAP Payment Request', 'Substitute Invoice Form']
+
+
+    text = text_line.replace(" ", "").lower()
+    is_non_po = po_keywords1[checkindex].replace(" ", "").lower() in text or po_keywords2[checkindex].replace(" ", "").lower() in text
+    return is_non_po
 
 def adapt_paddle_result(pipeline_output):
     """
@@ -48,7 +69,13 @@ def adapt_paddle_result(pipeline_output):
     """
     formatted_pages = []
 
-    for page_data in pipeline_output:
+    starting_page = 0
+    end_page = len(pipeline_output)
+    matched_len = 0
+    ariba_matched_len = 0
+    matched_page = None
+    invoice_type = None    
+    for index, page_data in enumerate(pipeline_output):
         res = page_data
         raw_boxes = res.get('rec_boxes', [])
         texts = res.get('rec_texts', [])
@@ -75,11 +102,33 @@ def adapt_paddle_result(pipeline_output):
                 ]
             else:
                 formatted_box = box
-
+            if invoice_type is None:
+                if check_is_ariba_invoice(text, ariba_matched_len):
+                    invoice_type = "ariba"
+                    print(f"Matched '{text}' on page {index})")
+                    starting_page = index
+                
+                if matched_len  < 3:
+                    if check_is_non_po_invoice(text, matched_len):
+                        matched_len += 1
+                        print(f"Matched '{text}' on page {index} (matched_len={matched_len})")
+                        matched_page = index
+                    elif matched_len > 0:
+                        matched_len = 0
+                        matched_page = None
+                else:
+                    invoice_type = "non-po"
+                        
             page_items.append([formatted_box, [text, conf]])
-
+        
+        
         formatted_pages.append(page_items)
-
+    if invoice_type == "non-po":
+        print(f"Invoice classified as NON-PO based on keyword matches.")
+        return [formatted_pages[matched_page]] if matched_page is not None else formatted_pages
+    elif invoice_type == "ariba":
+        print(f"Invoice classified as ARIBA based on keyword matches in page z{starting_page}")
+        return formatted_pages[starting_page:end_page]    
     return formatted_pages
 
 

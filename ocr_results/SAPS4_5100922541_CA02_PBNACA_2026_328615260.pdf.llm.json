@@ -1,0 +1,61 @@
+{
+  "invoice_data": {
+    "invoice_number": "6342246",
+    "invoice_date": "Feb 03 26",
+    "invoice_amount": null,
+    "invoice_currency": [
+      "CAD"
+    ],
+    "tax_amount": null,
+    "po_number": [
+      "4187916-01",
+      "4505073951"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "REXEL GROUP",
+    "vendor_address": "R EXEL CANADA ELECTRICAL INC, M Y BOX 1107 STN.'T' CALGARY ALBERTA T2H 2J1",
+    "po_line_items": [
+      {
+        "description": "1756-PB72 CONTROLLOGIX 24V DC POWER SUPP",
+        "quantity": 1.0,
+        "net_price": 1244.09
+      }
+    ],
+    "vat_amount": null,
+    "gl_account": null,
+    "bank_name": null,
+    "account_holder_name": null,
+    "banking_account_number": null,
+    "remit_to_address": null,
+    "bill_to_address": null,
+    "transaction_type": "debit"
+  },
+  "filename": "SAPS4_5100922541_CA02_PBNACA_2026_328615260.pdf",
+  "raw_response": {
+    "invoice_number": "6342246",
+    "invoice_date": "Feb 03 26",
+    "invoice_amount": null,
+    "invoice_currency": [
+      "CAD"
+    ],
+    "tax_amount": null,
+    "po_number": [
+      "4187916-01",
+      "4505073951"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "REXEL GROUP",
+    "vendor_address": "R EXEL CANADA ELECTRICAL INC, M Y BOX 1107 STN.'T' CALGARY ALBERTA T2H 2J1",
+    "po_line_items": [
+      {
+        "description": "1756-PB72 CONTROLLOGIX 24V DC POWER SUPP",
+        "quantity": 1.0,
+        "net_price": 1244.09
+      }
+    ]
+  }
+}

@@ -1,0 +1,99 @@
+{
+  "invoice_data": {
+    "invoice_number": "PHXN19556",
+    "invoice_date": "01/23/2026",
+    "invoice_amount": "102.15",
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": "1.85",
+    "po_number": [
+      "M413096467"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "Mckinney Trailer Rentals",
+    "vendor_address": "2601 Saturn St. Suite 110, Brea, CA 92821, United States",
+    "po_line_items": [
+      {
+        "description": "Replace Broken Upper Marker Lamp",
+        "quantity": 0.3,
+        "net_price": 100.0
+      },
+      {
+        "description": "Repair Wiring",
+        "quantity": 0.5,
+        "net_price": 100.0
+      },
+      {
+        "description": "Miscellaneous Shop Supplies",
+        "quantity": 1.0,
+        "net_price": 8.0
+      },
+      {
+        "description": "Pigtail",
+        "quantity": 1.0,
+        "net_price": 2.82
+      },
+      {
+        "description": "Led M/c, Red",
+        "quantity": 1.0,
+        "net_price": 9.48
+      }
+    ],
+    "vat_amount": null,
+    "gl_account": null,
+    "bank_name": null,
+    "account_holder_name": null,
+    "banking_account_number": null,
+    "remit_to_address": null,
+    "bill_to_address": null,
+    "transaction_type": "debit"
+  },
+  "filename": "SAPS4_5100000011_US30_PFNAUS_2026_999746166.pdf",
+  "raw_response": {
+    "invoice_number": "PHXN19556",
+    "invoice_date": "01/23/2026",
+    "invoice_amount": "102.15",
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": "1.85",
+    "po_number": [
+      "M413096467"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "Mckinney Trailer Rentals",
+    "vendor_address": "2601 Saturn St. Suite 110, Brea, CA 92821, United States",
+    "po_line_items": [
+      {
+        "description": "Replace Broken Upper Marker Lamp",
+        "quantity": 0.3,
+        "net_price": 100.0
+      },
+      {
+        "description": "Repair Wiring",
+        "quantity": 0.5,
+        "net_price": 100.0
+      },
+      {
+        "description": "Miscellaneous Shop Supplies",
+        "quantity": 1.0,
+        "net_price": 8.0
+      },
+      {
+        "description": "Pigtail",
+        "quantity": 1.0,
+        "net_price": 2.82
+      },
+      {
+        "description": "Led M/c, Red",
+        "quantity": 1.0,
+        "net_price": 9.48
+      }
+    ]
+  }
+}

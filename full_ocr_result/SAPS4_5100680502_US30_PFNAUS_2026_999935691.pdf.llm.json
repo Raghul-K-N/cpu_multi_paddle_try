@@ -1,0 +1,69 @@
+{
+  "invoice_data": {
+    "invoice_number": "868704024",
+    "invoice_date": "02/06/2026",
+    "invoice_amount": "437.05",
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": "37.38",
+    "po_number": [
+      "M413350255"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "GRAINGER",
+    "vendor_address": "14790 W. 99TH ST., LENEXA, KS 66215-1109",
+    "po_line_items": [
+      {
+        "description": "K01-51743355 NUT, BRASS, COMPRESSION, 3/ CUST PART # 2ZLD2 MANUFACTURER # 1461X6",
+        "quantity": 10.0,
+        "net_price": 33.38
+      },
+      {
+        "description": "K01-51743214 ELBOW,BRASS,PUSH-FIT3/8IN,M CUST PART # 806TX1 MANUFACTURER # VS369PTCR-6-4 Delivery #6701438309 Date Shipped:02/06/2026 Carrier: FDX GROUNDNo:of Pkgs:1 Wt: 3.060 Trk #:490481492955 SHIPPED FROM: DC BORDENTOWN 010 400 BORDENTOWN-HEDDING RD,BORDENTOWN,NJ 08505",
+        "quantity": 7.0,
+        "net_price": 9.41
+      }
+    ],
+    "vat_amount": null,
+    "gl_account": null,
+    "bank_name": null,
+    "account_holder_name": null,
+    "banking_account_number": null,
+    "remit_to_address": null,
+    "bill_to_address": null,
+    "transaction_type": "debit"
+  },
+  "filename": "SAPS4_5100680502_US30_PFNAUS_2026_999935691.pdf",
+  "raw_response": {
+    "invoice_number": "868704024",
+    "invoice_date": "02/06/2026",
+    "invoice_amount": "437.05",
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": "37.38",
+    "po_number": [
+      "M413350255"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "GRAINGER",
+    "vendor_address": "14790 W. 99TH ST., LENEXA, KS 66215-1109",
+    "po_line_items": [
+      {
+        "description": "K01-51743355 NUT, BRASS, COMPRESSION, 3/ CUST PART # 2ZLD2 MANUFACTURER # 1461X6",
+        "quantity": 10.0,
+        "net_price": 33.38
+      },
+      {
+        "description": "K01-51743214 ELBOW,BRASS,PUSH-FIT3/8IN,M CUST PART # 806TX1 MANUFACTURER # VS369PTCR-6-4 Delivery #6701438309 Date Shipped:02/06/2026 Carrier: FDX GROUNDNo:of Pkgs:1 Wt: 3.060 Trk #:490481492955 SHIPPED FROM: DC BORDENTOWN 010 400 BORDENTOWN-HEDDING RD,BORDENTOWN,NJ 08505",
+        "quantity": 7.0,
+        "net_price": 9.41
+      }
+    ]
+  }
+}

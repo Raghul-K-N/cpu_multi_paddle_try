@@ -1,0 +1,47 @@
+{
+  "invoice_data": {
+    "invoice_number": "4170411477",
+    "invoice_date": "02/11/2026",
+    "invoice_amount": "19.32",
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": "1.45",
+    "po_number": [
+      "M412920331"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": "0.00",
+    "cost_center": null,
+    "vendor_name": "VESTIS",
+    "vendor_address": "PO BOX 731676, DALLAS TX 75373-1676",
+    "po_line_items": null,
+    "vat_amount": null,
+    "gl_account": null,
+    "bank_name": null,
+    "account_holder_name": null,
+    "banking_account_number": null,
+    "remit_to_address": null,
+    "bill_to_address": null,
+    "transaction_type": "debit"
+  },
+  "filename": "SAPS4_5100035059_US29_PFNAUS_2026_999884444.pdf",
+  "raw_response": {
+    "invoice_number": "4170411477",
+    "invoice_date": "02/11/2026",
+    "invoice_amount": "19.32",
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": "1.45",
+    "po_number": [
+      "M412920331"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": "0.00",
+    "cost_center": null,
+    "vendor_name": "VESTIS",
+    "vendor_address": "PO BOX 731676, DALLAS TX 75373-1676",
+    "po_line_items": null
+  }
+}

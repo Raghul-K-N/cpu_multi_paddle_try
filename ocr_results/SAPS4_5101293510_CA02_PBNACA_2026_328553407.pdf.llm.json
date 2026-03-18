@@ -1,0 +1,59 @@
+{
+  "invoice_data": {
+    "invoice_number": "9802601238",
+    "invoice_date": "Tuesday 10 Feb. 2026 7:10 a.m. GMT-05:00",
+    "invoice_amount": "29.62",
+    "invoice_currency": [
+      "CAD"
+    ],
+    "tax_amount": "3.86",
+    "po_number": [
+      "M413548647"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "ACKLANDS-GRAINGER INC.",
+    "vendor_address": "ACKLANDS-GRAINGER INC., PO BOX 2970, WINNIPEG, MB R3C 4B5, CA; GRP CANADA, E1E 1E6, Canada",
+    "po_line_items": [
+      {
+        "description": "WWG14J892 / KEYED PADLOCK. 53/64 IN.RECTANGLE.GOLD",
+        "quantity": 1.0,
+        "net_price": 25.76
+      }
+    ],
+    "vat_amount": null,
+    "gl_account": null,
+    "bank_name": null,
+    "account_holder_name": null,
+    "banking_account_number": null,
+    "remit_to_address": null,
+    "bill_to_address": null,
+    "transaction_type": "debit"
+  },
+  "filename": "SAPS4_5101293510_CA02_PBNACA_2026_328553407.pdf",
+  "raw_response": {
+    "invoice_number": "9802601238",
+    "invoice_date": "Tuesday 10 Feb. 2026 7:10 a.m. GMT-05:00",
+    "invoice_amount": "29.62",
+    "invoice_currency": [
+      "CAD"
+    ],
+    "tax_amount": "3.86",
+    "po_number": [
+      "M413548647"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "ACKLANDS-GRAINGER INC.",
+    "vendor_address": "ACKLANDS-GRAINGER INC., PO BOX 2970, WINNIPEG, MB R3C 4B5, CA; GRP CANADA, E1E 1E6, Canada",
+    "po_line_items": [
+      {
+        "description": "WWG14J892 / KEYED PADLOCK. 53/64 IN.RECTANGLE.GOLD",
+        "quantity": 1.0,
+        "net_price": 25.76
+      }
+    ]
+  }
+}

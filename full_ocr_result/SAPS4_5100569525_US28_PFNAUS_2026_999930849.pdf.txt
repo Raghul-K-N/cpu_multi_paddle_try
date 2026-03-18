@@ -1,0 +1,264 @@
+==================================<Page 1 - START>================================
+ Standard Invoice
+ Original tax invoice has been submitted electronically. This is a
+ human readable representation (copy) of the original tax invoice.
+                                                                Invoice Number                                    067A00007533
+                                                                (Supplier Reference No.)
+                                                                Invoice Date                      Friday 6 Feb 2026 2:51 PM GMT-05:00
+                                                                Shipping Date                  Thursday 29 Jan 2026 12:00 AM GMT-05:00
+                                                                Amount Due                                       $1,926.96 USD
+     Contact Information                                                      Shipping Information
+     Supplier                      Customer
+                                                                          Ship From                    Ship To
+     Remit/Supply/HQ/Other           Frito-Lay, Inc.
+                                                                          Oxford Instruments America,        US-PL-VANCOUVER-WA-FLI
+     300 Baker Ave                  c/o PEPSICO NASS
+                                                                          Inc.                         dannielle.gousse@pepsico.com
+     Suite 150                     ACCOUNTS PAYABLES
+                                                                          300 Baker Ave                  US-PL-VANCOUVER-WA-FLI
+     Concord                      PO BOX 1800
+                                                                          Suite 150                     4808 NW FRUIT VALLEY RD
+     MA                         Winston Salem
+                                                                          Concord                      VANCOUVER
+      01742-2124                   NC
+                                                                         MA                         WA
+      United States                  27105
+                                                                          01742-2124                    98660-1242
+                                  United States
+      Supplier VAT/Tax ID                                                     United States                  United States
+                                  Address ID: US28
+      04-3358144                                                                                       Address ID: 2105
+                                                                                                      Phone: 7373000
+   Line Items
+                                                        PO No. : M413525818                                      PO Date : 29 Jan 2026
+   Line No.
+             PO Line No.          Type    Supplier Part No. /             Customer Part No.                                          Subtotal
+                                                                                     Quantity           Unit Price
+                                       Description
+                                                                                      (UOM)
+    1        1
+                                Material 57-LE1011 / Glass Vials 23mm OD                       10 / (EA)         $158.40 USD    $1,584.00 USD
+                                       10ML - 57-LE1011
+                                       SRO 067X005706
+           Taxes. Allowances and Charges
+           Category                  Applicable To         Details                Base Amount                     Amount
+                                                                                              Rate %
+            Sales Tax
+                                    Line               Tax Description : A/P Sales   $1,584.00 USD        9.84%       $155.85 USD
+                                                      Tax
+                                                                                                Line Item Total : $1.739.85 USD
+      Tax Summary
+      Category              Details                         Base Amount               Rate %         Amount
+      Sales Tax              Tax Description : A/P Sales Tax         $1,584.00 USD              9.84%          $155.85 USD
+                                                                             Amount Summary
+                                                                             Line item subtotal                        $1,584.00 USD
+                                                                                                                   $187.11 USD
+                                                                             Shipping charges
+                                                                                                                  $1,926.96 USD
+                                                                             Gross amount
+                                                                             Net amount                            $1,926.96 USD
+                                                                             Total tax amount                          $155.85 USD
+                                                                             Total withholding tax amount
+                                                                             Amount Due                            $1,926.96 USD
+    Additional Information
+    Payment Method
+    ACH
+    Billing Information
+                                                                         Remittance Information
+    Bill From
+                                Bill To                                    Remit To
+    Oxford Instruments America,        Frito-Lay, Inc.                               OXFORD INSTRUMENTS
+    Inc.
+                                c/o PEPSICO NASS                          AMERICA, INC.
+    300 BAKER AVE                ACCOUNTS PAYABLES                       300 BAKER AVE STE 150
+    SUITE 150                    PO BOX 1800                              CONCORD
+    CONCORD                    Winston Salem                              MA
+    MA                         NC                                      01742
+    01742
+                                27105                                    United States
+    United States                   United States
+                                                                         Tax ID of Supplier
+                                Address ID: US28
+                                                                         043358144
+Payment Terms
+Net payment Terms (Days) :
+60
+==================================<Page 1 - END>================================
+==================================<Page 2 - START>================================
+ Appendix
+Line No.    PO Line No. Type                             Supplier Part No. / Description
+1          1          Material
+                                                        57-LE1011 / Glass Vials 23mm OD 10ML - 57-LE1011
+                                                        SRO 067X005706
+Additional Details:
+Classification Domain : custom
+Classification Code : MRO755001
+Supplier Part ID : 57-LE1011
+PDF generated on Friday 6 Feb 2026 11:51 AM GMT-08:00
+==================================<Page 2 - END>================================
+==================================<Page 3 - START>================================
+                                                                                                     INSTRUMENTS
+Invoice Number: 067A00007533
+                                              Customer PO: M413525818
+                                                                    Magnetic Resonance
+    Bill To:      PEPSICO INC.
+                                                                    Oxford Instruments America, Inc.
+                PEPSICO NASS ACCOUNTS PAYABLES
+   C027433                                                          300 Baker Avenue
+                PO BOX 1800
+                                                                    Suite 150
+                WINSTON SALEM NC 27105
+                                                                    Concord MA 01742
+                UNITED STATES
+                                                                    Phone: +1 978 369 9933
+                                                                    Fed ID:: 04-3358144
+                                                                    EORI:
+                Fed ID:
+                EORI:
+   Contact:                                                        Order:
+                Katy Paradee                                                             067X005706
+   Ship To:     PEPSICO - VANCOUVER                               Invoice Date:
+                                                                                        2/5/2026
+   24           4808 NW FRUIT VALLEY RD
+                US-PL-VANCOUVER-WA-FLI                            Due Date:            4/6/2026
+                VANCOUVER, WA 98660-1242
+                                                                   Payment Terms:
+                UNITED STATES                                                          Net 60 Days
+                                                                   Currency:            US Dollar
+                                                                   Delivery Terms:       FCA (OI America MA01742)
+                Fed ID:                                                                  Incoterms® 2020
+                EORI:
+                                                                   Ship Via:
+Standard Terms And Conditions
+Your order is exclusively subject to: (i) any terms and conditions specified herein; (ii) the Oxford Instruments Standard Terms and Conditions of Service
+which are available via the following link: www.oxinst.com/Ol_Terms_and_Conditions ; and (ii) to the extent purchaser's order concerns the sale of software,
+the End-User Licence Agreement available here: www.oxinst.com/Ol_Terms_and_Conditions ("EULA") (together the "Terms"), and has been accepted on
+this basis. Oxford Instruments can provide the purchaser with additional hard or soft copies of the Terms free of charge on request.By placing an order, the
+purchaser acknowledges and agrees that the Terms govern any contract entered between Oxford Instruments and the purchaser to the exclusion of any
+other terms and conditions which have been put forward, may be put forward, or are purported to have been put forward by the purchaser (irrespective of
+whether Oxford Instruments has previously agreed to, or indicated its agreement to, such other terms and conditions).
+             S/N           Contract         Item                                                       Qty UM
+Line
+                                            52-C-MQC+         MQC+ Configured Product                    1.00 EA
+1          MQC-4669
+            SRO Operation                              170
+                           10     Operation Code               Spares
+                                                                         Date             Price/Unit  Disc%   Total Price
+            Line Item            Description              Qty
+            1    57-LE1011        GLASS VIALS 23mm OD   10.00 EA       1/29/2026            158.40   0.00     1,584.00
+                                   10ml
+                                              Tax Code EXTRNL
+                                                                                                              Page 1 of 2
+                                                              America. Inc.
+==================================<Page 3 - END>================================
+==================================<Page 4 - START>================================
+invoice
+                                                                                                     INSTRUMENTS
+Invoice Number: 067A00007533           Customer PO: M413525818
+                                                                                                                  1,584.00
+                                                                                   Invoice Sale Amount:
+USD Payments To Be Made To Oxford Instruments America, Inc.
+Santander, BOSTON, 02109                                                                                          1,584.00
+                                                                                          Net Amount:
+Sort Code: 231372691, Account Number: 9995092514
+IBAN: , BIC: SVRNUS33                                                                     Misc Charges:                0.00
+                                                                                                                    187.11
+                                                                                              Freight:
+                                                                                                                    155.85
+                                                                                          Tax Amount
+                                                                                                                     0.00
+                                                                                      Prepaid Amount:
+                                                                                         Invoice Total:            1,926.96
+                                                                                                                  US Dollar
+The delivered goods remain property of Oxford Instruments America, Inc. up to the complete payment.
+require a corresponding adjustment to the tariff surcharge rate.
+Oxford Instruments is committed to trading with integrity and honesty. I you have suspicions that a transaction involving Oxford Instruments may involve
+fraud, you can report this directly to our head office by sending an email setting out your concerns to compliance @ oxinst.com.
+If you have a genuine concern about an action or behaviour that is not consistent with Oxford Instruments' ethical standards, you can report it anonymously
+by contacting our independent whistleblowing service provider, Safecall. The service is available from anywhere in the world, 24 hours a day, every day of
+the year, in over 175 languages and dialects. Further information and full contact details are available via this link: https://www.safecall.co.uk/en/clients/oxinst
+                                                                                                               Page 2 of 2
+==================================<Page 4 - END>================================
+==================================<Page 5 - START>================================
+                                                                                                     INSTRUMENTS
+Invoice Number: 067A00007533
+                                              Customer PO: M413525818
+                                                                    Magnetic Resonance
+    Bill To:      PEPSICO INC.
+                                                                    Oxford Instruments America, Inc.
+                PEPSICO NASS ACCOUNTS PAYABLES
+   C027433                                                          300 Baker Avenue
+                PO BOX 1800
+                                                                    Suite 150
+                WINSTON SALEM NC 27105
+                                                                    Concord MA 01742
+                UNITED STATES
+                                                                    Phone: +1 978 369 9933
+                                                                    Fed ID:: 04-3358144
+                                                                    EORI:
+                Fed ID:
+                EORI:
+   Contact:                                                        Order:
+                Katy Paradee                                                             067X005706
+   Ship To:     PEPSICO - VANCOUVER                               Invoice Date:
+                                                                                        2/5/2026
+   24           4808 NW FRUIT VALLEY RD
+                US-PL-VANCOUVER-WA-FLI                            Due Date:            4/6/2026
+                VANCOUVER, WA 98660-1242
+                                                                   Payment Terms:
+                UNITED STATES                                                          Net 60 Days
+                                                                   Currency:            US Dollar
+                                                                   Delivery Terms:       FCA (OI America MA01742)
+                Fed ID:                                                                  Incoterms® 2020
+                EORI:
+                                                                   Ship Via:
+Standard Terms And Conditions
+Your order is exclusively subject to: (i) any terms and conditions specified herein; (ii) the Oxford Instruments Standard Terms and Conditions of Service
+which are available via the following link: www.oxinst.com/Ol_Terms_and_Conditions ; and (ii) to the extent purchaser's order concerns the sale of software,
+the End-User Licence Agreement available here: www.oxinst.com/Ol_Terms_and_Conditions ("EULA") (together the "Terms"), and has been accepted on
+this basis. Oxford Instruments can provide the purchaser with additional hard or soft copies of the Terms free of charge on request.By placing an order, the
+purchaser acknowledges and agrees that the Terms govern any contract entered between Oxford Instruments and the purchaser to the exclusion of any
+other terms and conditions which have been put forward, may be put forward, or are purported to have been put forward by the purchaser (irrespective of
+whether Oxford Instruments has previously agreed to, or indicated its agreement to, such other terms and conditions).
+             S/N           Contract         Item                                                       Qty UM
+Line
+                                            52-C-MQC+         MQC+ Configured Product                    1.00 EA
+1          MQC-4669
+            SRO Operation                              170
+                           10     Operation Code               Spares
+                                                                         Date             Price/Unit  Disc%   Total Price
+            Line Item            Description              Qty
+            1    57-LE1011        GLASS VIALS 23mm OD   10.00 EA       1/29/2026            158.40   0.00     1,584.00
+                                   10ml
+                                              Tax Code EXTRNL
+                                                                                                              Page 1 of 2
+                                                              America. Inc.
+==================================<Page 5 - END>================================
+==================================<Page 6 - START>================================
+invoice
+                                                                                                     INSTRUMENTS
+Invoice Number: 067A00007533           Customer PO: M413525818
+                                                                                                                  1,584.00
+                                                                                   Invoice Sale Amount:
+USD Payments To Be Made To Oxford Instruments America, Inc.
+Santander, BOSTON, 02109                                                                                          1,584.00
+                                                                                          Net Amount:
+Sort Code: 231372691, Account Number: 9995092514
+IBAN: , BIC: SVRNUS33                                                                     Misc Charges:                0.00
+                                                                                                                    187.11
+                                                                                              Freight:
+                                                                                                                    155.85
+                                                                                          Tax Amount
+                                                                                                                     0.00
+                                                                                      Prepaid Amount:
+                                                                                         Invoice Total:            1,926.96
+                                                                                                                  US Dollar
+The delivered goods remain property of Oxford Instruments America, Inc. up to the complete payment.
+require a corresponding adjustment to the tariff surcharge rate.
+Oxford Instruments is committed to trading with integrity and honesty. I you have suspicions that a transaction involving Oxford Instruments may involve
+fraud, you can report this directly to our head office by sending an email setting out your concerns to compliance @ oxinst.com.
+If you have a genuine concern about an action or behaviour that is not consistent with Oxford Instruments' ethical standards, you can report it anonymously
+by contacting our independent whistleblowing service provider, Safecall. The service is available from anywhere in the world, 24 hours a day, every day of
+the year, in over 175 languages and dialects. Further information and full contact details are available via this link: https://www.safecall.co.uk/en/clients/oxinst
+                                                                                                               Page 2 of 2
+==================================<Page 6 - END>================================

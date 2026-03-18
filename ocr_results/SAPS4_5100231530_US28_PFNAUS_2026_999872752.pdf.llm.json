@@ -1,0 +1,79 @@
+{
+  "invoice_data": {
+    "invoice_number": "708968",
+    "invoice_date": "Thursday 12 Feb 2026 12:00 PM GMT-06:00",
+    "invoice_amount": "2,264.75",
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": null,
+    "po_number": [
+      "M413552123"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": "47.75",
+    "cost_center": null,
+    "vendor_name": "Urschel Laboratories, Inc.",
+    "vendor_address": "1200 Cutting Edge Drive, Chesterton, IN 46304, United States, Address ID: US28, Phone: 3731624",
+    "po_line_items": [
+      {
+        "description": "Material 25834 / 25834 - KNIFE. SLICING. FLAT. DB. 301 SS.PKG 160",
+        "quantity": 10.0,
+        "net_price": 147.0
+      },
+      {
+        "description": "Material 26121 / 26121 - PART# 22065 REPLACED BY PART: 26121 KNIFE, SLICING, CRINKLE, PKG/160",
+        "quantity": 4.0,
+        "net_price": 78.0
+      },
+      {
+        "description": "Material 26124 / 26124 - PART# 26632 REPLACED BY PART: 026124 KNIFE. SLICING. .170 V- CUT.302HD.PKG/160",
+        "quantity": 5.0,
+        "net_price": 87.0
+      }
+    ],
+    "vat_amount": null,
+    "gl_account": null,
+    "bank_name": null,
+    "account_holder_name": null,
+    "banking_account_number": null,
+    "remit_to_address": null,
+    "bill_to_address": null,
+    "transaction_type": "debit"
+  },
+  "filename": "SAPS4_5100231530_US28_PFNAUS_2026_999872752.pdf",
+  "raw_response": {
+    "invoice_number": "708968",
+    "invoice_date": "Thursday 12 Feb 2026 12:00 PM GMT-06:00",
+    "invoice_amount": "2,264.75",
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": null,
+    "po_number": [
+      "M413552123"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": "47.75",
+    "cost_center": null,
+    "vendor_name": "Urschel Laboratories, Inc.",
+    "vendor_address": "1200 Cutting Edge Drive, Chesterton, IN 46304, United States, Address ID: US28, Phone: 3731624",
+    "po_line_items": [
+      {
+        "description": "Material 25834 / 25834 - KNIFE. SLICING. FLAT. DB. 301 SS.PKG 160",
+        "quantity": 10.0,
+        "net_price": 147.0
+      },
+      {
+        "description": "Material 26121 / 26121 - PART# 22065 REPLACED BY PART: 26121 KNIFE, SLICING, CRINKLE, PKG/160",
+        "quantity": 4.0,
+        "net_price": 78.0
+      },
+      {
+        "description": "Material 26124 / 26124 - PART# 26632 REPLACED BY PART: 026124 KNIFE. SLICING. .170 V- CUT.302HD.PKG/160",
+        "quantity": 5.0,
+        "net_price": 87.0
+      }
+    ]
+  }
+}

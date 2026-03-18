@@ -1,0 +1,63 @@
+{
+  "invoice_data": {
+    "invoice_number": "IN53-01044585",
+    "invoice_date": "02/12/26",
+    "invoice_amount": null,
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": null,
+    "po_number": [
+      "M413550508"
+    ],
+    "gl_account_number": [
+      "33400501"
+    ],
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "REMIT MOTION INDUSTRIES, INC.",
+    "vendor_address": "MiMOTION, BRANCH ADDRESS: 4112 CARTWRIGHT DRIVE, KOKOMO, IN 60693-8412, PH 7654532550, FAX 7654532555",
+    "po_line_items": [
+      {
+        "description": "MGPM32TN-100Z GUIDE CYLINDER CPNO: 05637159 PNEUMATIC VALVES",
+        "quantity": 3.0,
+        "net_price": 268.64
+      }
+    ],
+    "vat_amount": null,
+    "gl_account": null,
+    "bank_name": null,
+    "account_holder_name": null,
+    "banking_account_number": null,
+    "remit_to_address": null,
+    "bill_to_address": null,
+    "transaction_type": "debit"
+  },
+  "filename": "SAPS4_5100276049_US28_PFNAUS_2026_999884271.pdf",
+  "raw_response": {
+    "invoice_number": "IN53-01044585",
+    "invoice_date": "02/12/26",
+    "invoice_amount": "../../../805.92",
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": null,
+    "po_number": [
+      "M413550508"
+    ],
+    "gl_account_number": [
+      "33400501"
+    ],
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "REMIT MOTION INDUSTRIES, INC.",
+    "vendor_address": "MiMOTION, BRANCH ADDRESS: 4112 CARTWRIGHT DRIVE, KOKOMO, IN 60693-8412, PH 7654532550, FAX 7654532555",
+    "po_line_items": [
+      {
+        "description": "MGPM32TN-100Z GUIDE CYLINDER CPNO: 05637159 PNEUMATIC VALVES",
+        "quantity": 3.0,
+        "net_price": 268.64
+      }
+    ]
+  }
+}

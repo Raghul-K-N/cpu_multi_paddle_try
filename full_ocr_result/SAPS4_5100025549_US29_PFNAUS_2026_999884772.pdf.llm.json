@@ -1,0 +1,43 @@
+{
+  "invoice_data": {
+    "invoice_number": "M413088249",
+    "invoice_date": "01/01/2026 - 01/01/2026",
+    "invoice_amount": null,
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": null,
+    "po_number": null,
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "Concentra",
+    "vendor_address": "Tax Id: 52-2134470\nAccount: N03-0620240333",
+    "po_line_items": null,
+    "vat_amount": null,
+    "gl_account": null,
+    "bank_name": null,
+    "account_holder_name": null,
+    "banking_account_number": null,
+    "remit_to_address": null,
+    "bill_to_address": null,
+    "transaction_type": "debit"
+  },
+  "filename": "SAPS4_5100025549_US29_PFNAUS_2026_999884772.pdf",
+  "raw_response": {
+    "invoice_number": "M413088249",
+    "invoice_date": "01/01/2026 - 01/01/2026",
+    "invoice_amount": null,
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": null,
+    "po_number": null,
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "Concentra",
+    "vendor_address": "Tax Id: 52-2134470\nAccount: N03-0620240333",
+    "po_line_items": null
+  }
+}

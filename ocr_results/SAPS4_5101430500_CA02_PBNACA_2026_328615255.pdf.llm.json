@@ -1,0 +1,69 @@
+{
+  "invoice_data": {
+    "invoice_number": "3117",
+    "invoice_date": "02/01/2026",
+    "invoice_amount": "2058.00",
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": "98.00",
+    "po_number": [
+      "M413476740"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "Clean-it All Ltd.",
+    "vendor_address": "Unit 3 - 1945 Pier Mac Way, Kelowna BC V1V 0C1",
+    "po_line_items": [
+      {
+        "description": "Janitorial Services for the current month of February - Nanaimo Location",
+        "quantity": 1.0,
+        "net_price": 1560.0
+      },
+      {
+        "description": "Janitorial Services for the current month of February- Victoria Location",
+        "quantity": 1.0,
+        "net_price": 400.0
+      }
+    ],
+    "vat_amount": null,
+    "gl_account": null,
+    "bank_name": null,
+    "account_holder_name": null,
+    "banking_account_number": null,
+    "remit_to_address": null,
+    "bill_to_address": null,
+    "transaction_type": "debit"
+  },
+  "filename": "SAPS4_5101430500_CA02_PBNACA_2026_328615255.pdf",
+  "raw_response": {
+    "invoice_number": "3117",
+    "invoice_date": "02/01/2026",
+    "invoice_amount": "2058.00",
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": "98.00",
+    "po_number": [
+      "M413476740"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "Clean-it All Ltd.",
+    "vendor_address": "Unit 3 - 1945 Pier Mac Way, Kelowna BC V1V 0C1",
+    "po_line_items": [
+      {
+        "description": "Janitorial Services for the current month of February - Nanaimo Location",
+        "quantity": 1.0,
+        "net_price": 1560.0
+      },
+      {
+        "description": "Janitorial Services for the current month of February- Victoria Location",
+        "quantity": 1.0,
+        "net_price": 400.0
+      }
+    ]
+  }
+}

@@ -1,0 +1,59 @@
+{
+  "invoice_data": {
+    "invoice_number": "178264988",
+    "invoice_date": "2/11/2026",
+    "invoice_amount": "140.11",
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": "8.86",
+    "po_number": [
+      "M413391870"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "Crown Equipment Corporation",
+    "vendor_address": "4852 Gray Ln, Suite 12, Stow, OH 44224, Tel 440-232-7772, Fax 440-232-7752, crown.com",
+    "po_line_items": [
+      {
+        "description": "Material and Repair Forklifts",
+        "quantity": 1.0,
+        "net_price": 131.25
+      }
+    ],
+    "vat_amount": null,
+    "gl_account": null,
+    "bank_name": null,
+    "account_holder_name": null,
+    "banking_account_number": null,
+    "remit_to_address": null,
+    "bill_to_address": null,
+    "transaction_type": "debit"
+  },
+  "filename": "SAPS4_5100285032_US28_PFNAUS_2026_999872804.pdf",
+  "raw_response": {
+    "invoice_number": "178264988",
+    "invoice_date": "2/11/2026",
+    "invoice_amount": "140.11",
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": "8.86",
+    "po_number": [
+      "M413391870"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "Crown Equipment Corporation",
+    "vendor_address": "4852 Gray Ln, Suite 12, Stow, OH 44224, Tel 440-232-7772, Fax 440-232-7752, crown.com",
+    "po_line_items": [
+      {
+        "description": "Material and Repair Forklifts",
+        "quantity": 1.0,
+        "net_price": 131.25
+      }
+    ]
+  }
+}

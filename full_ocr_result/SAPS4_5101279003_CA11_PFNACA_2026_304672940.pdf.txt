@@ -1,0 +1,28 @@
+==================================<Page 1 - START>================================
+   Invoice Date                              2025-03-31
+   Invoice Number                      STO4501762149
+  PO Number        4501762149
+  Sold To            CA-PL-LETHBRIDGE-AB-FLC
+  Vendor            FRITO-LAY INC.
+  Remittance Address        7701 Legacy Drive
+                               Plano, TX 75024
+Trading Partner                          2003995829
+Line Item
+                     Invoice Quantity                  UOM             Invoice Amount
+00020
+                                                    368                                  388.48
+                                                                          0
+00010
+                                                       2                                      2.11
+                                                                          0
+                                                           Net Amount                    390.59
+                                                          Tax
+                                                                              $
+                                                           Gross Amount                  390.59
+                                                           Quantity Total                      370
+         Comments: This is a manual invoice for an internal stock transfer. The
+         manual invoice was needed because the ERs flag was removed from the
+         BP record in error; therefore, the ERS automation did not create an
+         invoice. This only applies to interim solution prior to FLUs Corn
+        deployment.
+==================================<Page 1 - END>================================

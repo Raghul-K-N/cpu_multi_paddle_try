@@ -1,0 +1,105 @@
+{
+  "invoice_data": {
+    "invoice_number": "Cl-218153",
+    "invoice_date": "Jan 29, 2026",
+    "invoice_amount": null,
+    "invoice_currency": null,
+    "tax_amount": null,
+    "po_number": [
+      "M413482529"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "Ryder Integrated Logistics",
+    "vendor_address": "P.O. Box 209022, Dallas, TX 75320-9022, United States of America",
+    "po_line_items": [
+      {
+        "description": "Outbound Eaches (Tote)",
+        "quantity": 16224.0,
+        "net_price": 1.22
+      },
+      {
+        "description": "Outbound Batch",
+        "quantity": 58676.0,
+        "net_price": 0.89
+      },
+      {
+        "description": "Outbound Bulk",
+        "quantity": 16598.0,
+        "net_price": 0.62
+      },
+      {
+        "description": "Inbound Board on Floor (Pallet)",
+        "quantity": 590.0,
+        "net_price": 6.56
+      },
+      {
+        "description": "Inbound Deadstack (Casepick)",
+        "quantity": 30650.0,
+        "net_price": 0.24
+      },
+      {
+        "description": "Chargeback Credit - Roller Lanes",
+        "quantity": -1139.5,
+        "net_price": 1.0
+      }
+    ],
+    "vat_amount": null,
+    "gl_account": null,
+    "bank_name": null,
+    "account_holder_name": null,
+    "banking_account_number": null,
+    "remit_to_address": null,
+    "bill_to_address": null,
+    "transaction_type": "debit"
+  },
+  "filename": "SAPS4_5100218015_US29_PFNAUS_2026_999884930.pdf",
+  "raw_response": {
+    "invoice_number": "Cl-218153",
+    "invoice_date": "Jan 29, 2026",
+    "invoice_amount": null,
+    "invoice_currency": null,
+    "tax_amount": null,
+    "po_number": [
+      "M413482529"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "Ryder Integrated Logistics",
+    "vendor_address": "P.O. Box 209022, Dallas, TX 75320-9022, United States of America",
+    "po_line_items": [
+      {
+        "description": "Outbound Eaches (Tote)",
+        "quantity": 16224.0,
+        "net_price": 1.22
+      },
+      {
+        "description": "Outbound Batch",
+        "quantity": 58676.0,
+        "net_price": 0.89
+      },
+      {
+        "description": "Outbound Bulk",
+        "quantity": 16598.0,
+        "net_price": 0.62
+      },
+      {
+        "description": "Inbound Board on Floor (Pallet)",
+        "quantity": 590.0,
+        "net_price": 6.56
+      },
+      {
+        "description": "Inbound Deadstack (Casepick)",
+        "quantity": 30650.0,
+        "net_price": 0.24
+      },
+      {
+        "description": "Chargeback Credit - Roller Lanes",
+        "quantity": -1139.5,
+        "net_price": 1.0
+      }
+    ]
+  }
+}

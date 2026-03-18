@@ -1,0 +1,89 @@
+{
+  "invoice_data": {
+    "invoice_number": "4449088",
+    "invoice_date": "03-FEB-26",
+    "invoice_amount": "6,220.30",
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": "228.76",
+    "po_number": [
+      "4505055395"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": "0.00",
+    "cost_center": null,
+    "vendor_name": "VIDEOJET TECHNOLOGIES INC",
+    "vendor_address": "12113 COLLECTION CENTER DRIVE, CHICAGO IL 60693, United States",
+    "po_line_items": [
+      {
+        "description": "Spare 53mm TT(iii) Printhead",
+        "quantity": 2.0,
+        "net_price": 553.09
+      },
+      {
+        "description": "Spare 6530 Printer PCBA",
+        "quantity": 1.0,
+        "net_price": 3083.67
+      },
+      {
+        "description": "Spare 53mm TT(iii) Printhead",
+        "quantity": 2.0,
+        "net_price": 553.09
+      },
+      {
+        "description": "Spare 53mm TT(ii) Ribbon Motor w/Sensor",
+        "quantity": 5.0,
+        "net_price": 513.83
+      }
+    ],
+    "vat_amount": null,
+    "gl_account": null,
+    "bank_name": null,
+    "account_holder_name": null,
+    "banking_account_number": null,
+    "remit_to_address": null,
+    "bill_to_address": null,
+    "transaction_type": "debit"
+  },
+  "filename": "SAPS4_5100574503_US28_PFNAUS_2026_999884618.pdf",
+  "raw_response": {
+    "invoice_number": "4449088",
+    "invoice_date": "03-FEB-26",
+    "invoice_amount": "6,220.30",
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": "228.76",
+    "po_number": [
+      "4505055395"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": "0.00",
+    "cost_center": null,
+    "vendor_name": "VIDEOJET TECHNOLOGIES INC",
+    "vendor_address": "12113 COLLECTION CENTER DRIVE, CHICAGO IL 60693, United States",
+    "po_line_items": [
+      {
+        "description": "Spare 53mm TT(iii) Printhead",
+        "quantity": 2.0,
+        "net_price": 553.09
+      },
+      {
+        "description": "Spare 6530 Printer PCBA",
+        "quantity": 1.0,
+        "net_price": 3083.67
+      },
+      {
+        "description": "Spare 53mm TT(iii) Printhead",
+        "quantity": 2.0,
+        "net_price": 553.09
+      },
+      {
+        "description": "Spare 53mm TT(ii) Ribbon Motor w/Sensor",
+        "quantity": 5.0,
+        "net_price": 513.83
+      }
+    ]
+  }
+}

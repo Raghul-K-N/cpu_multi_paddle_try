@@ -1,0 +1,59 @@
+{
+  "invoice_data": {
+    "invoice_number": "1145632",
+    "invoice_date": "Friday 13 Feb 2026 12:00 AM GMT-08:00",
+    "invoice_amount": "9631.20",
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": null,
+    "po_number": [
+      "M413542548"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "Veritiv",
+    "vendor_address": "7472 Collections Center Drive, Chicago, IL 60693, UNITED STATES",
+    "po_line_items": [
+      {
+        "description": "STRETCH FILM 14X8000FT 55GA SIGMA 1RL PEPSI",
+        "quantity": 240.0,
+        "net_price": 40.13
+      }
+    ],
+    "vat_amount": null,
+    "gl_account": null,
+    "bank_name": null,
+    "account_holder_name": null,
+    "banking_account_number": null,
+    "remit_to_address": null,
+    "bill_to_address": null,
+    "transaction_type": "debit"
+  },
+  "filename": "SAPS4_5100279529_US28_PFNAUS_2026_999746324.pdf",
+  "raw_response": {
+    "invoice_number": "1145632",
+    "invoice_date": "Friday 13 Feb 2026 12:00 AM GMT-08:00",
+    "invoice_amount": "9631.20",
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": null,
+    "po_number": [
+      "M413542548"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "Veritiv",
+    "vendor_address": "7472 Collections Center Drive, Chicago, IL 60693, UNITED STATES",
+    "po_line_items": [
+      {
+        "description": "STRETCH FILM 14X8000FT 55GA SIGMA 1RL PEPSI",
+        "quantity": 240.0,
+        "net_price": 40.13
+      }
+    ]
+  }
+}

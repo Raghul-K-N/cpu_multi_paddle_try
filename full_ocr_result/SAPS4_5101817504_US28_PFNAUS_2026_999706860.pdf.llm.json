@@ -1,0 +1,55 @@
+{
+  "invoice_data": {
+    "invoice_number": "679049",
+    "invoice_date": "1/31/202e",
+    "invoice_amount": null,
+    "invoice_currency": null,
+    "tax_amount": null,
+    "po_number": [
+      "4505041865"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "MIDWEST INDUSTRIAL RUBBER , INC.",
+    "vendor_address": "P.O. BOX 772866, DETROIT, MI 48277-2866",
+    "po_line_items": [
+      {
+        "description": "BELTING #2107[000], GREY 53.5 IN X 8.5 IN WIDE LACE - UNIBAR",
+        "quantity": 2.0,
+        "net_price": 197.79
+      }
+    ],
+    "vat_amount": null,
+    "gl_account": null,
+    "bank_name": null,
+    "account_holder_name": null,
+    "banking_account_number": null,
+    "remit_to_address": null,
+    "bill_to_address": null,
+    "transaction_type": "debit"
+  },
+  "filename": "SAPS4_5101817504_US28_PFNAUS_2026_999706860.pdf",
+  "raw_response": {
+    "invoice_number": "679049",
+    "invoice_date": "1/31/202e",
+    "invoice_amount": null,
+    "invoice_currency": null,
+    "tax_amount": null,
+    "po_number": [
+      "4505041865"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "MIDWEST INDUSTRIAL RUBBER , INC.",
+    "vendor_address": "P.O. BOX 772866, DETROIT, MI 48277-2866",
+    "po_line_items": [
+      {
+        "description": "BELTING #2107[000], GREY 53.5 IN X 8.5 IN WIDE LACE - UNIBAR",
+        "quantity": 2.0,
+        "net_price": 197.79
+      }
+    ]
+  }
+}

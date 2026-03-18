@@ -1,0 +1,105 @@
+{
+  "invoice_data": {
+    "invoice_number": "Y610955360:01",
+    "invoice_date": "01/16/2026",
+    "invoice_amount": null,
+    "invoice_currency": null,
+    "tax_amount": null,
+    "po_number": [
+      "23556692"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "TAG Truck Center of Memphis",
+    "vendor_address": "4430 American Way, Memphis, TN 38118",
+    "po_line_items": [
+      {
+        "description": "VACUUM PUMP",
+        "quantity": 4.0,
+        "net_price": 1442.56
+      },
+      {
+        "description": "ANGLE PIECE",
+        "quantity": 8.0,
+        "net_price": 41.12
+      },
+      {
+        "description": "TORSION BAR MOUNT",
+        "quantity": 4.0,
+        "net_price": 21.56
+      },
+      {
+        "description": "TORSION BAR HOLDER",
+        "quantity": 4.0,
+        "net_price": 297.92
+      },
+      {
+        "description": "TORSION BAR MOUNT",
+        "quantity": 3.0,
+        "net_price": 258.72
+      },
+      {
+        "description": "TORSION BAR HOLDER",
+        "quantity": 4.0,
+        "net_price": 28.4
+      }
+    ],
+    "vat_amount": null,
+    "gl_account": null,
+    "bank_name": null,
+    "account_holder_name": null,
+    "banking_account_number": null,
+    "remit_to_address": null,
+    "bill_to_address": null,
+    "transaction_type": "debit"
+  },
+  "filename": "SAPS4_5100012049_US29_PFNAUS_2026_999934957.pdf",
+  "raw_response": {
+    "invoice_number": "Y610955360:01",
+    "invoice_date": "01/16/2026",
+    "invoice_amount": null,
+    "invoice_currency": null,
+    "tax_amount": null,
+    "po_number": [
+      "23556692"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "TAG Truck Center of Memphis",
+    "vendor_address": "4430 American Way, Memphis, TN 38118",
+    "po_line_items": [
+      {
+        "description": "VACUUM PUMP",
+        "quantity": 4.0,
+        "net_price": 1442.56
+      },
+      {
+        "description": "ANGLE PIECE",
+        "quantity": 8.0,
+        "net_price": 41.12
+      },
+      {
+        "description": "TORSION BAR MOUNT",
+        "quantity": 4.0,
+        "net_price": 21.56
+      },
+      {
+        "description": "TORSION BAR HOLDER",
+        "quantity": 4.0,
+        "net_price": 297.92
+      },
+      {
+        "description": "TORSION BAR MOUNT",
+        "quantity": 3.0,
+        "net_price": 258.72
+      },
+      {
+        "description": "TORSION BAR HOLDER",
+        "quantity": 4.0,
+        "net_price": 28.4
+      }
+    ]
+  }
+}

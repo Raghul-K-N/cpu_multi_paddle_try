@@ -1,0 +1,65 @@
+{
+  "invoice_data": {
+    "invoice_number": "321978138",
+    "invoice_date": "01/28/2026",
+    "invoice_amount": "1171.54",
+    "invoice_currency": [
+      "CAD"
+    ],
+    "tax_amount": "134.78",
+    "po_number": [
+      "4504698944",
+      "4351508",
+      "90004860",
+      "K131787"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "KRONES INC.",
+    "vendor_address": "9600 South 58th Street, P.O. Box 321801, Franklin,WI 53132-6241",
+    "po_line_items": [
+      {
+        "description": "MOUNTING DEVICE CPL.",
+        "quantity": 1.0,
+        "net_price": 1036.76
+      }
+    ],
+    "vat_amount": null,
+    "gl_account": null,
+    "bank_name": null,
+    "account_holder_name": null,
+    "banking_account_number": null,
+    "remit_to_address": null,
+    "bill_to_address": null,
+    "transaction_type": "debit"
+  },
+  "filename": "SAPS4_5100214005_CA02_PBNACA_2026_328615085.pdf",
+  "raw_response": {
+    "invoice_number": "321978138",
+    "invoice_date": "01/28/2026",
+    "invoice_amount": "1171.54",
+    "invoice_currency": [
+      "CAD"
+    ],
+    "tax_amount": "134.78",
+    "po_number": [
+      "4504698944",
+      "4351508",
+      "90004860",
+      "K131787"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "KRONES INC.",
+    "vendor_address": "9600 South 58th Street, P.O. Box 321801, Franklin,WI 53132-6241",
+    "po_line_items": [
+      {
+        "description": "MOUNTING DEVICE CPL.",
+        "quantity": 1.0,
+        "net_price": 1036.76
+      }
+    ]
+  }
+}

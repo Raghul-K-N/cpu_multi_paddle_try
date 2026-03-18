@@ -1,0 +1,59 @@
+{
+  "invoice_data": {
+    "invoice_number": "2770296722",
+    "invoice_date": "02/11/2026",
+    "invoice_amount": "13.48",
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": "0.88",
+    "po_number": [
+      "M413178489"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": "0.00",
+    "cost_center": null,
+    "vendor_name": "VESTIS",
+    "vendor_address": "2700 NEVADA BLVD, CHARLOTTE NC 28273",
+    "po_line_items": [
+      {
+        "description": "TS0002REDD SHOP TOWEL PLAIN",
+        "quantity": 600.0,
+        "net_price": 0.021
+      }
+    ],
+    "vat_amount": null,
+    "gl_account": null,
+    "bank_name": null,
+    "account_holder_name": null,
+    "banking_account_number": null,
+    "remit_to_address": null,
+    "bill_to_address": null,
+    "transaction_type": "debit"
+  },
+  "filename": "SAPS4_5100005050_US29_PFNAUS_2026_999884490.pdf",
+  "raw_response": {
+    "invoice_number": "2770296722",
+    "invoice_date": "02/11/2026",
+    "invoice_amount": "13.48",
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": "0.88",
+    "po_number": [
+      "M413178489"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": "0.00",
+    "cost_center": null,
+    "vendor_name": "VESTIS",
+    "vendor_address": "2700 NEVADA BLVD, CHARLOTTE NC 28273",
+    "po_line_items": [
+      {
+        "description": "TS0002REDD SHOP TOWEL PLAIN",
+        "quantity": 600.0,
+        "net_price": 0.021
+      }
+    ]
+  }
+}

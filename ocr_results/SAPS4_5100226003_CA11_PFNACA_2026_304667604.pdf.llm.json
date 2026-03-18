@@ -1,0 +1,59 @@
+{
+  "invoice_data": {
+    "invoice_number": "93194731",
+    "invoice_date": "09/23/2024",
+    "invoice_amount": "315.00",
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": null,
+    "po_number": [
+      "4505076355"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "HEAT AND CUNTRUL",
+    "vendor_address": "21121 CABOT BLVD, HAYWARD CA 94545-1132",
+    "po_line_items": [
+      {
+        "description": "20540419 PADDLE, ASSY,LH,05SER,TECW#21121902",
+        "quantity": 1.0,
+        "net_price": 315.0
+      }
+    ],
+    "vat_amount": null,
+    "gl_account": null,
+    "bank_name": null,
+    "account_holder_name": null,
+    "banking_account_number": null,
+    "remit_to_address": null,
+    "bill_to_address": null,
+    "transaction_type": "debit"
+  },
+  "filename": "SAPS4_5100226003_CA11_PFNACA_2026_304667604.pdf",
+  "raw_response": {
+    "invoice_number": "93194731",
+    "invoice_date": "09/23/2024",
+    "invoice_amount": "315.00",
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": null,
+    "po_number": [
+      "4505076355"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "HEAT AND CUNTRUL",
+    "vendor_address": "21121 CABOT BLVD, HAYWARD CA 94545-1132",
+    "po_line_items": [
+      {
+        "description": "20540419 PADDLE, ASSY,LH,05SER,TECW#21121902",
+        "quantity": 1.0,
+        "net_price": 315.0
+      }
+    ]
+  }
+}

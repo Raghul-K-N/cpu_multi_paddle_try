@@ -1,0 +1,79 @@
+{
+  "invoice_data": {
+    "invoice_number": "INV527220",
+    "invoice_date": "02/11/2026",
+    "invoice_amount": "4517.20",
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": "313.20",
+    "po_number": [
+      "M413549028"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "MDI",
+    "vendor_address": "3501 Broadway Street NE, Suite 100, Minneapolis MN 55413",
+    "po_line_items": [
+      {
+        "description": "FG10381 RSC, 2902, Natural, 3MM PP, 20\"x16\"x12.25\", Printed, Green Frito",
+        "quantity": 180.0,
+        "net_price": 6.8
+      },
+      {
+        "description": "FG10977 RSC, 2900, Natural, 3MM PP 180#, 20\"x16\"x9\", Printed, Frito GES Black",
+        "quantity": 160.0,
+        "net_price": 9.25
+      },
+      {
+        "description": "FG10382 RSC, 2903, Natural, 3MM PP, 20\"x16\"x9\", Printed, Red Frito",
+        "quantity": 240.0,
+        "net_price": 6.25
+      }
+    ],
+    "vat_amount": null,
+    "gl_account": null,
+    "bank_name": null,
+    "account_holder_name": null,
+    "banking_account_number": null,
+    "remit_to_address": null,
+    "bill_to_address": null,
+    "transaction_type": "debit"
+  },
+  "filename": "SAPS4_5100036552_US29_PFNAUS_2026_999884460.pdf",
+  "raw_response": {
+    "invoice_number": "INV527220",
+    "invoice_date": "02/11/2026",
+    "invoice_amount": "4517.20",
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": "313.20",
+    "po_number": [
+      "M413549028"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "MDI",
+    "vendor_address": "3501 Broadway Street NE, Suite 100, Minneapolis MN 55413",
+    "po_line_items": [
+      {
+        "description": "FG10381 RSC, 2902, Natural, 3MM PP, 20\"x16\"x12.25\", Printed, Green Frito",
+        "quantity": 180.0,
+        "net_price": 6.8
+      },
+      {
+        "description": "FG10977 RSC, 2900, Natural, 3MM PP 180#, 20\"x16\"x9\", Printed, Frito GES Black",
+        "quantity": 160.0,
+        "net_price": 9.25
+      },
+      {
+        "description": "FG10382 RSC, 2903, Natural, 3MM PP, 20\"x16\"x9\", Printed, Red Frito",
+        "quantity": 240.0,
+        "net_price": 6.25
+      }
+    ]
+  }
+}

@@ -1,0 +1,119 @@
+{
+  "invoice_data": {
+    "invoice_number": "4713",
+    "invoice_date": "30-01-2026",
+    "invoice_amount": "453.4",
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": "21.6",
+    "po_number": [
+      "4504834984"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "Pacific Mobile Repair",
+    "vendor_address": "21734 Telegraph Trail, Langley BC V1M 3S6",
+    "po_line_items": [
+      {
+        "description": "Frito Lay rate",
+        "quantity": 2.0,
+        "net_price": 105.0
+      },
+      {
+        "description": "Replace damaged ABS wiring, install new sensor cable",
+        "quantity": 1.0,
+        "net_price": 105.0
+      },
+      {
+        "description": "Seal leaks in rear roof section",
+        "quantity": 1.0,
+        "net_price": 15.25
+      },
+      {
+        "description": "Sealant 1",
+        "quantity": 1.0,
+        "net_price": 15.25
+      },
+      {
+        "description": "Sealant PF 205 off white",
+        "quantity": 1.0,
+        "net_price": 70.12
+      },
+      {
+        "description": "Parts & Materials",
+        "quantity": 1.0,
+        "net_price": 70.12
+      },
+      {
+        "description": "Wabco ABS Sensor Cable",
+        "quantity": 1.0,
+        "net_price": 31.5
+      }
+    ],
+    "vat_amount": null,
+    "gl_account": null,
+    "bank_name": null,
+    "account_holder_name": null,
+    "banking_account_number": null,
+    "remit_to_address": null,
+    "bill_to_address": null,
+    "transaction_type": "debit"
+  },
+  "filename": "SAPS4_5100119006_CA11_PFNACA_2026_304667740.pdf",
+  "raw_response": {
+    "invoice_number": "4713",
+    "invoice_date": "30-01-2026",
+    "invoice_amount": "453.4",
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": "21.6",
+    "po_number": [
+      "4504834984"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "Pacific Mobile Repair",
+    "vendor_address": "21734 Telegraph Trail, Langley BC V1M 3S6",
+    "po_line_items": [
+      {
+        "description": "Frito Lay rate",
+        "quantity": 2.0,
+        "net_price": 105.0
+      },
+      {
+        "description": "Replace damaged ABS wiring, install new sensor cable",
+        "quantity": 1.0,
+        "net_price": 105.0
+      },
+      {
+        "description": "Seal leaks in rear roof section",
+        "quantity": 1.0,
+        "net_price": 15.25
+      },
+      {
+        "description": "Sealant 1",
+        "quantity": 1.0,
+        "net_price": 15.25
+      },
+      {
+        "description": "Sealant PF 205 off white",
+        "quantity": 1.0,
+        "net_price": 70.12
+      },
+      {
+        "description": "Parts & Materials",
+        "quantity": 1.0,
+        "net_price": 70.12
+      },
+      {
+        "description": "Wabco ABS Sensor Cable",
+        "quantity": 1.0,
+        "net_price": 31.5
+      }
+    ]
+  }
+}

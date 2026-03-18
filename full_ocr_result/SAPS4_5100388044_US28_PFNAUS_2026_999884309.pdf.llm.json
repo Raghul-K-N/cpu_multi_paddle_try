@@ -1,0 +1,59 @@
+{
+  "invoice_data": {
+    "invoice_number": "957160",
+    "invoice_date": "2/04/26",
+    "invoice_amount": "166.48",
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": null,
+    "po_number": [
+      "4505074966"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": "38.58",
+    "cost_center": null,
+    "vendor_name": "Douglas Machine Inc.",
+    "vendor_address": "NW8957, PO BOX 1450, MINNEAPOLIS, MN 55485-8957",
+    "po_line_items": [
+      {
+        "description": "ELM BALLUF BMF-32M-PS-C-2-S49*",
+        "quantity": 2.0,
+        "net_price": 63.95
+      }
+    ],
+    "vat_amount": null,
+    "gl_account": null,
+    "bank_name": null,
+    "account_holder_name": null,
+    "banking_account_number": null,
+    "remit_to_address": null,
+    "bill_to_address": null,
+    "transaction_type": "debit"
+  },
+  "filename": "SAPS4_5100388044_US28_PFNAUS_2026_999884309.pdf",
+  "raw_response": {
+    "invoice_number": "957160",
+    "invoice_date": "2/04/26",
+    "invoice_amount": "166.48",
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": null,
+    "po_number": [
+      "4505074966"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": "38.58",
+    "cost_center": null,
+    "vendor_name": "Douglas Machine Inc.",
+    "vendor_address": "NW8957, PO BOX 1450, MINNEAPOLIS, MN 55485-8957",
+    "po_line_items": [
+      {
+        "description": "ELM BALLUF BMF-32M-PS-C-2-S49*",
+        "quantity": 2.0,
+        "net_price": 63.95
+      }
+    ]
+  }
+}

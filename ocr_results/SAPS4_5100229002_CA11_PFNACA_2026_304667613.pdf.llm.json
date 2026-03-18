@@ -1,0 +1,99 @@
+{
+  "invoice_data": {
+    "invoice_number": "4234519890",
+    "invoice_date": "1/4/2026",
+    "invoice_amount": "28991.65",
+    "invoice_currency": [
+      "CAD"
+    ],
+    "tax_amount": null,
+    "po_number": [
+      "4504134155"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "Smurfit Westrock Company of Canada Corp.",
+    "vendor_address": "150 PARK HILL DRIVE, MILTON, ON L9T 5V7",
+    "po_line_items": [
+      {
+        "description": "CPU",
+        "quantity": 2500.0,
+        "net_price": 652.8
+      },
+      {
+        "description": "CPU",
+        "quantity": 3750.0,
+        "net_price": 14199.53
+      },
+      {
+        "description": "CPU",
+        "quantity": 11000.0,
+        "net_price": 803.46
+      },
+      {
+        "description": "CPU",
+        "quantity": 3200.0,
+        "net_price": 793.05
+      },
+      {
+        "description": "0.08 EDGE BOARD",
+        "quantity": 1380.56,
+        "net_price": 1380.56
+      }
+    ],
+    "vat_amount": null,
+    "gl_account": null,
+    "bank_name": null,
+    "account_holder_name": null,
+    "banking_account_number": null,
+    "remit_to_address": null,
+    "bill_to_address": null,
+    "transaction_type": "debit"
+  },
+  "filename": "SAPS4_5100229002_CA11_PFNACA_2026_304667613.pdf",
+  "raw_response": {
+    "invoice_number": "4234519890",
+    "invoice_date": "1/4/2026",
+    "invoice_amount": "28991.65",
+    "invoice_currency": [
+      "CAD"
+    ],
+    "tax_amount": null,
+    "po_number": [
+      "4504134155"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "Smurfit Westrock Company of Canada Corp.",
+    "vendor_address": "150 PARK HILL DRIVE, MILTON, ON L9T 5V7",
+    "po_line_items": [
+      {
+        "description": "CPU",
+        "quantity": 2500.0,
+        "net_price": 652.8
+      },
+      {
+        "description": "CPU",
+        "quantity": 3750.0,
+        "net_price": 14199.53
+      },
+      {
+        "description": "CPU",
+        "quantity": 11000.0,
+        "net_price": 803.46
+      },
+      {
+        "description": "CPU",
+        "quantity": 3200.0,
+        "net_price": 793.05
+      },
+      {
+        "description": "0.08 EDGE BOARD",
+        "quantity": 1380.56,
+        "net_price": 1380.56
+      }
+    ]
+  }
+}

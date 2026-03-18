@@ -1,0 +1,43 @@
+{
+  "invoice_data": {
+    "invoice_number": "PAR020626",
+    "invoice_date": "02/06/2026",
+    "invoice_amount": null,
+    "invoice_currency": null,
+    "tax_amount": null,
+    "po_number": [
+      "M413442158"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "Secure On-Site Shredding, Inc",
+    "vendor_address": "1002 N Central Exp, Ste 239, Richardson, TX 75080 US",
+    "po_line_items": null,
+    "vat_amount": null,
+    "gl_account": null,
+    "bank_name": null,
+    "account_holder_name": null,
+    "banking_account_number": null,
+    "remit_to_address": null,
+    "bill_to_address": null,
+    "transaction_type": "debit"
+  },
+  "filename": "SAPS4_5100230043_US28_PFNAUS_2026_999884167.pdf",
+  "raw_response": {
+    "invoice_number": "PAR020626",
+    "invoice_date": "02/06/2026",
+    "invoice_amount": null,
+    "invoice_currency": null,
+    "tax_amount": null,
+    "po_number": [
+      "M413442158"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "Secure On-Site Shredding, Inc",
+    "vendor_address": "1002 N Central Exp, Ste 239, Richardson, TX 75080 US",
+    "po_line_items": null
+  }
+}

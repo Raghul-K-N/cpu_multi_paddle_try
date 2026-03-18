@@ -1,0 +1,139 @@
+{
+  "invoice_data": {
+    "invoice_number": "300-317587",
+    "invoice_date": "10/6/2025 5:16:16PM",
+    "invoice_amount": null,
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": null,
+    "po_number": [
+      "PO23564621"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "NATIONAL FLEET",
+    "vendor_address": "PO Box 2208, Decatur, AL 35609-2208",
+    "po_line_items": [
+      {
+        "description": "25 POINT INSPECTION COUPON",
+        "quantity": -1.0,
+        "net_price": -25.82
+      },
+      {
+        "description": "CAM2 MULTI-PUR ATF DEX/MERC QT",
+        "quantity": 1.0,
+        "net_price": 19.99
+      },
+      {
+        "description": "Pentosin Power steerign fluid",
+        "quantity": 1.0,
+        "net_price": 76.0
+      },
+      {
+        "description": "OIL COOLER AS",
+        "quantity": 1.0,
+        "net_price": 138.9
+      },
+      {
+        "description": "WASHER FLUID",
+        "quantity": 1.0,
+        "net_price": 10.99
+      },
+      {
+        "description": "ARM ASY",
+        "quantity": 1.0,
+        "net_price": 592.51
+      },
+      {
+        "description": "CTRL ARMASSY",
+        "quantity": 1.0,
+        "net_price": 423.62
+      },
+      {
+        "description": "PLATE",
+        "quantity": 2.0,
+        "net_price": 40.9
+      },
+      {
+        "description": "W718943-S439",
+        "quantity": 2.0,
+        "net_price": 18.15
+      }
+    ],
+    "vat_amount": null,
+    "gl_account": null,
+    "bank_name": null,
+    "account_holder_name": null,
+    "banking_account_number": null,
+    "remit_to_address": null,
+    "bill_to_address": null,
+    "transaction_type": "debit"
+  },
+  "filename": "SAPS4_5100183041_US29_PFNAUS_2026_999706668.pdf",
+  "raw_response": {
+    "invoice_number": "300-317587",
+    "invoice_date": "10/6/2025 5:16:16PM",
+    "invoice_amount": null,
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": null,
+    "po_number": [
+      "PO23564621"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "NATIONAL FLEET",
+    "vendor_address": "PO Box 2208, Decatur, AL 35609-2208",
+    "po_line_items": [
+      {
+        "description": "25 POINT INSPECTION COUPON",
+        "quantity": -1.0,
+        "net_price": -25.82
+      },
+      {
+        "description": "CAM2 MULTI-PUR ATF DEX/MERC QT",
+        "quantity": 1.0,
+        "net_price": 19.99
+      },
+      {
+        "description": "Pentosin Power steerign fluid",
+        "quantity": 1.0,
+        "net_price": 76.0
+      },
+      {
+        "description": "OIL COOLER AS",
+        "quantity": 1.0,
+        "net_price": 138.9
+      },
+      {
+        "description": "WASHER FLUID",
+        "quantity": 1.0,
+        "net_price": 10.99
+      },
+      {
+        "description": "ARM ASY",
+        "quantity": 1.0,
+        "net_price": 592.51
+      },
+      {
+        "description": "CTRL ARMASSY",
+        "quantity": 1.0,
+        "net_price": 423.62
+      },
+      {
+        "description": "PLATE",
+        "quantity": 2.0,
+        "net_price": 40.9
+      },
+      {
+        "description": "W718943-S439",
+        "quantity": 2.0,
+        "net_price": 18.15
+      }
+    ]
+  }
+}

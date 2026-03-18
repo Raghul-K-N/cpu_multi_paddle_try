@@ -1,0 +1,75 @@
+{
+  "invoice_data": {
+    "invoice_number": "Y610955106:01",
+    "invoice_date": "01/16/2026",
+    "invoice_amount": null,
+    "invoice_currency": null,
+    "tax_amount": null,
+    "po_number": [
+      "23556049"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "TAG Truck Group",
+    "vendor_address": "4430 AMERICAN WAY , MEMPHIS, TN 38118",
+    "po_line_items": [
+      {
+        "description": "GEAR-STEERING,THP60",
+        "quantity": 1.0,
+        "net_price": 793.67
+      },
+      {
+        "description": "GEAR-STEERING,THP60-COF",
+        "quantity": 1.0,
+        "net_price": 1179.38
+      },
+      {
+        "description": "HOSE-RADIATOR,UPPER,M2,",
+        "quantity": 1.0,
+        "net_price": 19.39
+      }
+    ],
+    "vat_amount": null,
+    "gl_account": null,
+    "bank_name": null,
+    "account_holder_name": null,
+    "banking_account_number": null,
+    "remit_to_address": null,
+    "bill_to_address": null,
+    "transaction_type": "debit"
+  },
+  "filename": "SAPS4_5100101045_US29_PFNAUS_2026_999936295.pdf",
+  "raw_response": {
+    "invoice_number": "Y610955106:01",
+    "invoice_date": "01/16/2026",
+    "invoice_amount": null,
+    "invoice_currency": null,
+    "tax_amount": null,
+    "po_number": [
+      "23556049"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "TAG Truck Group",
+    "vendor_address": "4430 AMERICAN WAY , MEMPHIS, TN 38118",
+    "po_line_items": [
+      {
+        "description": "GEAR-STEERING,THP60",
+        "quantity": 1.0,
+        "net_price": 793.67
+      },
+      {
+        "description": "GEAR-STEERING,THP60-COF",
+        "quantity": 1.0,
+        "net_price": 1179.38
+      },
+      {
+        "description": "HOSE-RADIATOR,UPPER,M2,",
+        "quantity": 1.0,
+        "net_price": 19.39
+      }
+    ]
+  }
+}

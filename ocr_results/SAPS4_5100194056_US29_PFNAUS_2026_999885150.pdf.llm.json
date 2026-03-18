@@ -1,0 +1,95 @@
+{
+  "invoice_data": {
+    "invoice_number": "Cl-216053",
+    "invoice_date": "Jan 9, 2026",
+    "invoice_amount": null,
+    "invoice_currency": null,
+    "tax_amount": null,
+    "po_number": [
+      "M413482529"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "Ryder Integrated Logistics",
+    "vendor_address": "P.O. Box 209022, Dallas, TX 75320-9022, United States of America",
+    "po_line_items": [
+      {
+        "description": "Outbound Eaches (Tote)",
+        "quantity": 14904.0,
+        "net_price": 18182.88
+      },
+      {
+        "description": "Outbound Batch",
+        "quantity": 10182.0,
+        "net_price": 9072.16
+      },
+      {
+        "description": "Outbound Bulk",
+        "quantity": 48574.0,
+        "net_price": 30067.31
+      },
+      {
+        "description": "Inbound Board on Floor (Pallet)",
+        "quantity": 785.0,
+        "net_price": 5149.6
+      },
+      {
+        "description": "Inbound Deadstack (Casepick)",
+        "quantity": 23758.0,
+        "net_price": 5583.13
+      }
+    ],
+    "vat_amount": null,
+    "gl_account": null,
+    "bank_name": null,
+    "account_holder_name": null,
+    "banking_account_number": null,
+    "remit_to_address": null,
+    "bill_to_address": null,
+    "transaction_type": "debit"
+  },
+  "filename": "SAPS4_5100194056_US29_PFNAUS_2026_999885150.pdf",
+  "raw_response": {
+    "invoice_number": "Cl-216053",
+    "invoice_date": "Jan 9, 2026",
+    "invoice_amount": null,
+    "invoice_currency": null,
+    "tax_amount": null,
+    "po_number": [
+      "M413482529"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "Ryder Integrated Logistics",
+    "vendor_address": "P.O. Box 209022, Dallas, TX 75320-9022, United States of America",
+    "po_line_items": [
+      {
+        "description": "Outbound Eaches (Tote)",
+        "quantity": 14904.0,
+        "net_price": 18182.88
+      },
+      {
+        "description": "Outbound Batch",
+        "quantity": 10182.0,
+        "net_price": 9072.16
+      },
+      {
+        "description": "Outbound Bulk",
+        "quantity": 48574.0,
+        "net_price": 30067.31
+      },
+      {
+        "description": "Inbound Board on Floor (Pallet)",
+        "quantity": 785.0,
+        "net_price": 5149.6
+      },
+      {
+        "description": "Inbound Deadstack (Casepick)",
+        "quantity": 23758.0,
+        "net_price": 5583.13
+      }
+    ]
+  }
+}

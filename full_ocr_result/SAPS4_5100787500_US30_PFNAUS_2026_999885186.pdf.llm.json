@@ -1,0 +1,59 @@
+{
+  "invoice_data": {
+    "invoice_number": "XA111246501",
+    "invoice_date": "11/7/2025",
+    "invoice_amount": "-34.50",
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": "1.56",
+    "po_number": [
+      "23459849"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": "34.50",
+    "cost_center": null,
+    "vendor_name": "Mountain West Truck Center - West Valley City (P731)(P)",
+    "vendor_address": "7114 W SR201 North Frontage Rd, West Valley City, UT 84128, 301-975-0380",
+    "po_line_items": [
+      {
+        "description": "VALVE BRIDGE",
+        "quantity": 1.0,
+        "net_price": 32.11
+      }
+    ],
+    "vat_amount": null,
+    "gl_account": null,
+    "bank_name": null,
+    "account_holder_name": null,
+    "banking_account_number": null,
+    "remit_to_address": null,
+    "bill_to_address": null,
+    "transaction_type": "credit"
+  },
+  "filename": "SAPS4_5100787500_US30_PFNAUS_2026_999885186.pdf",
+  "raw_response": {
+    "invoice_number": "XA111246501",
+    "invoice_date": "11/7/2025",
+    "invoice_amount": "-34.50",
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": "1.56",
+    "po_number": [
+      "23459849"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": "34.50",
+    "cost_center": null,
+    "vendor_name": "Mountain West Truck Center - West Valley City (P731)(P)",
+    "vendor_address": "7114 W SR201 North Frontage Rd, West Valley City, UT 84128, 301-975-0380",
+    "po_line_items": [
+      {
+        "description": "VALVE BRIDGE",
+        "quantity": 1.0,
+        "net_price": 32.11
+      }
+    ]
+  }
+}

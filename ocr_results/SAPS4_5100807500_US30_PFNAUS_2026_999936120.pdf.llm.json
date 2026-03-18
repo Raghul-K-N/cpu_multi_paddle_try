@@ -1,0 +1,59 @@
+{
+  "invoice_data": {
+    "invoice_number": "XA038831501",
+    "invoice_date": "12/31/2025",
+    "invoice_amount": "-106.09",
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": "8.09",
+    "po_number": [
+      "23343242"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": "0.00",
+    "cost_center": null,
+    "vendor_name": "Bruckner's Truck & Equipment",
+    "vendor_address": "Bruckner's Truck & Equipment - Dallas Irving Blvd, 3611 Irving Blvd, Dallas, TX 75247",
+    "po_line_items": [
+      {
+        "description": "MODULATOR",
+        "quantity": 1.0,
+        "net_price": 98.0
+      }
+    ],
+    "vat_amount": null,
+    "gl_account": null,
+    "bank_name": null,
+    "account_holder_name": null,
+    "banking_account_number": null,
+    "remit_to_address": null,
+    "bill_to_address": null,
+    "transaction_type": "credit"
+  },
+  "filename": "SAPS4_5100807500_US30_PFNAUS_2026_999936120.pdf",
+  "raw_response": {
+    "invoice_number": "XA038831501",
+    "invoice_date": "12/31/2025",
+    "invoice_amount": "-106.09",
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": "8.09",
+    "po_number": [
+      "23343242"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": "0.00",
+    "cost_center": null,
+    "vendor_name": "Bruckner's Truck & Equipment",
+    "vendor_address": "Bruckner's Truck & Equipment - Dallas Irving Blvd, 3611 Irving Blvd, Dallas, TX 75247",
+    "po_line_items": [
+      {
+        "description": "MODULATOR",
+        "quantity": 1.0,
+        "net_price": 98.0
+      }
+    ]
+  }
+}

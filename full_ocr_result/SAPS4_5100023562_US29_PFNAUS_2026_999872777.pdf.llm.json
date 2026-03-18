@@ -1,0 +1,59 @@
+{
+  "invoice_data": {
+    "invoice_number": "O493564",
+    "invoice_date": "02/12/26",
+    "invoice_amount": "100.00",
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": "8.38",
+    "po_number": [
+      "M413465376"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "Lehigh Outfitters, LLC",
+    "vendor_address": "39 East Canal Street, Nelsonville, Ohio 45764, United States",
+    "po_line_items": [
+      {
+        "description": "Material Safety Shoes/Boots / PPE & Safety Equipment (PGT)",
+        "quantity": 1.0,
+        "net_price": 91.62
+      }
+    ],
+    "vat_amount": null,
+    "gl_account": null,
+    "bank_name": null,
+    "account_holder_name": null,
+    "banking_account_number": null,
+    "remit_to_address": null,
+    "bill_to_address": null,
+    "transaction_type": "debit"
+  },
+  "filename": "SAPS4_5100023562_US29_PFNAUS_2026_999872777.pdf",
+  "raw_response": {
+    "invoice_number": "O493564",
+    "invoice_date": "02/12/26",
+    "invoice_amount": "100.00",
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": "8.38",
+    "po_number": [
+      "M413465376"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "Lehigh Outfitters, LLC",
+    "vendor_address": "39 East Canal Street, Nelsonville, Ohio 45764, United States",
+    "po_line_items": [
+      {
+        "description": "Material Safety Shoes/Boots / PPE & Safety Equipment (PGT)",
+        "quantity": 1.0,
+        "net_price": 91.62
+      }
+    ]
+  }
+}

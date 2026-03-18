@@ -1,0 +1,59 @@
+{
+  "invoice_data": {
+    "invoice_number": "868703984",
+    "invoice_date": "02/11/2026",
+    "invoice_amount": "32.62",
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": "1.85",
+    "po_number": [
+      "4505180750"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "GRAINGER",
+    "vendor_address": "4320 LEWIS RD, HARRISBURG, PA 17111-2538",
+    "po_line_items": [
+      {
+        "description": "POWER CORD,5-15P,SJT,12 FT.,BLK,15A,12/",
+        "quantity": null,
+        "net_price": null
+      }
+    ],
+    "vat_amount": null,
+    "gl_account": null,
+    "bank_name": null,
+    "account_holder_name": null,
+    "banking_account_number": null,
+    "remit_to_address": null,
+    "bill_to_address": null,
+    "transaction_type": "debit"
+  },
+  "filename": "SAPS4_5100385038_US28_PFNAUS_2026_999884295.pdf",
+  "raw_response": {
+    "invoice_number": "868703984",
+    "invoice_date": "02/11/2026",
+    "invoice_amount": "32.62",
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": "1.85",
+    "po_number": [
+      "4505180750"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "GRAINGER",
+    "vendor_address": "4320 LEWIS RD, HARRISBURG, PA 17111-2538",
+    "po_line_items": [
+      {
+        "description": "POWER CORD,5-15P,SJT,12 FT.,BLK,15A,12/",
+        "quantity": null,
+        "net_price": null
+      }
+    ]
+  }
+}

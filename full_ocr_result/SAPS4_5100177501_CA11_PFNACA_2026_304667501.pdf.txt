@@ -1,0 +1,282 @@
+==================================<Page 1 - START>================================
+Standard Invoice
+                                                                                                                   GRAINGER
+Original tax invoice has been submitted electronically. This is a
+human readable representation (copy) of the original tax invoice.
+                                                                Invoice Number                                      9805096980
+                                                                (Supplier Reference No.)
+                                                                Invoice Date                  Thursday 12 Feb. 2026 7:00 a.m. GMT-05:00
+                                                                                                                  $130.79 CAD
+                                                                Amount Due
+    Contact Information
+                                                                          Shipping Information
+    Supplier                       Customer
+                                                                          Ship From                    Ship To
+    ACKLANDS-GRAINGER INC.        EDI ONLY PEPSI FOODS ULC
+                                                                          ACKLANDS-GRAINGER INC.        CA-PL-LETHBRIDGE-AB-FLC
+    PO BOX 2970                   (FLC)
+                                                                          11708 - 167 STREET NW          2200 31ST STREET
+    WINNIPEG
+                                  2200 31 ST N                              EDMONTON                   LETHBRIDGE
+    MB
+                                  LETH PLNT DISPENSING                      AB                          AB
+    R3C 4B5
+                                  LETHBRIDGE                              T5M 3Z2                      T1H 5K8
+     CA
+                                 AB                                      Canada                      Canada
+                                  T1H 5K8
+                                  Canada
+  Line Items                                              PO No. : M413550036
+                                                                                                             PO Date : 10 Feb. 2026
+  Line No.   PO Line No.          Type    Supplier Part No. /             Customer Part No.
+                                                                                      Quantity            Unit Price        Subtotal
+                                       Description
+                                                                                      (UOM)
+  60
+             6                 Material WWG2DMR8 / SHOULDER                            1 / (PK)         $102.42 CAD     $102.42 CAD
+                                       SCREW.5/8&quot:X1-1/4&quot:.1/2-13.PK2
+                                                                                                   Line Item Total : $102.42 CAD
+  Line No.   PO Line No.
+                               Type    Supplier Part No. /             Customer Part No.        Quantity           Unit Price         Subtotal
+                                       Description                                       (UOM)
+  100      10                Material WWG6ZF03 / T CLIP                                                               $22.14 CAD
+                                                                                      1 / (EA)          $22.14 CAD
+                                                                                                   Line Item Total : $22.14 CAD
+      Tax Summary
+      Category              Details                          Base Amount               Rate %          Amount
+      GST                  Tax Description : GOODS AND         $124.56 CAD               5%            $6.23 CAD
+                            SERVICES
+      PST                                                 $124.56 CAD               0%            $0.00 CAD
+                            Tax Description : State/Provincial
+                           Tax
+                                                                             Amount Summary
+                                                                                                                    $124.56 CAD
+                                                                              Line item subtotal
+                                                                                                                    $130.79 CAD
+                                                                              Gross amount
+                                                                                                                    $130.79 CAD
+                                                                              Net amount
+                                                                              Total tax amount                            $6.23 CAD
+                                                                              Total withholding tax amount
+                                                                                                                    $130.79 CAD
+                                                                              Amount Due
+    Additional Information
+    invioceSourceDocument
+    PurchaseOrder
+    Billing Information                                                         Remittance Information
+    Bill To                                                                 Remit To
+                                                                          ACKLANDS-GRAINGER INC.
+    PEPSI FOODS ULC (FLC)
+                                                                          PO BOX 2970
+    2095 MATHESON BLVD E
+                                                                          WINNIPEG
+    MISSISSAUGA
+                                                                          MB
+   ON
+                                                                          R3C 4B5
+   L4W 0G2
+                                                                          Canada
+   Canada
+                                                                          Address ID: CA1_2751
+   Address ID:
+   CA1_ARIBA_PAYABLES
+==================================<Page 1 - END>================================
+==================================<Page 2 - START>================================
+Line No.    PO Line No. Type                            Supplier Part No. / Description
+60         6          Material                         WWG2DMR8 / SHOULDER SCREW,5/8&quot;X1-1/4&quot;,1/2-13,PK2
+Additional Details:
+Supplier Part ID : WWG2DMR8
+Line No.    PO Line No. Type                            Supplier Part No. / Description
+100        10         Material                         WWG6ZF03 / T CLIP
+Additional Details:
+Supplier Part ID : WWG6ZF03
+PDF generated on Friday 13 Feb. 2026 6:12 a.m. GMT-08:00
+==================================<Page 2 - END>================================
+==================================<Page 3 - START>================================
+       Standard Invoice
+                                                                                                                         GRAINGER
+      Original tax invoice has been submitted electronically. This is a
+      human readable representation (copy) of the original tax invoice.
+                                                                       Invoice Number                                      9805096980
+                                                                       (Supplier Reference No.)
+                                                                       Invoice Date                  Thursday 12 Feb. 2026 7:00 a.m. GMT-05:00
+                                                                                                                        $130.79 CAD
+                                                                       Amount Due
+           Contact Information
+                                                                                Shipping Information
+           Supplier                       Customer
+                                                                                Ship From                    Ship To
+           ACKLANDS-GRAINGER INC.        EDI ONLY PEPSI FOODS ULC
+                                                                                ACKLANDS-GRAINGER INC.        CA-PL-LETHBRIDGE-AB-FLC
+           PO BOX 2970                   (FLC)
+                                                                                11708 - 167 STREET NW          2200 31ST STREET
+           WINNIPEG
+                                        2200 31 ST N                              EDMONTON                   LETHBRIDGE
+           MB
+                                        LETH PLNT DISPENSING                      AB                          AB
+           R3C 4B5
+                                        LETHBRIDGE                              T5M 3Z2                      T1H 5K8
+           CA
+                                        AB                                      Canada                      Canada
+                                        T1H 5K8
+                                        Canada
+         Line Items                                              PO No. : M413550036
+                                                                                                                    PO Date : 10 Feb. 2026
+         Line No.   PO Line No.          Type    Supplier Part No. /             Customer Part No.
+                                                                                            Quantity            Unit Price        Subtotal
+                                              Description
+                                                                                            (UOM)
+         60
+                   6                 Material WWG2DMR8 / SHOULDER                            1 / (PK)         $102.42 CAD     $102.42 CAD
+                                              SCREW.5/8&quot:X1-1/4&quot:.1/2-13.PK2
+                                                                                                         Line Item Total : $102.42 CAD
+         Line No.   PO Line No.
+                                      Type    Supplier Part No. /             Customer Part No.        Quantity           Unit Price         Subtotal
+                                              Description                                       (UOM)
+         100      10                Material WWG6ZF03 / T CLIP                                                               $22.14 CAD
+                                                                                            1 / (EA)          $22.14 CAD
+                                                                                                          Line Item Total : $22.14 CAD
+            Tax Summary
+            Category              Details                          Base Amount               Rate %          Amount
+            GST                  Tax Description : GOODS AND         $124.56 CAD               5%            $6.23 CAD
+                                  SERVICES
+            PST                                                 $124.56 CAD               0%            $0.00 CAD
+                                  Tax Description : State/Provincial
+                                  Tax
+                                                                                    Amount Summary
+                                                                                                                          $124.56 CAD
+                                                                                    Line item subtotal
+                                                                                                                          $130.79 CAD
+                                                                                    Gross amount
+                                                                                                                          $130.79 CAD
+                                                                                    Net amount
+                                                                                    Total tax amount                            $6.23 CAD
+                                                                                    Total withholding tax amount
+                                                                                                                           $130.79 CAD
+                                                                                    Amount Due
+           Additional Information
+           invioceSourceDocument
+          PurchaseOrder
+          Billing Information                                                         Remittance Information
+          Bill To                                                                 Remit To
+                                                                                ACKLANDS-GRAINGER INC.
+          PEPSI FOODS ULC (FLC)
+                                                                                PO BOX 2970
+          2095 MATHESON BLVD E
+                                                                                WINNIPEG
+          MISSISSAUGA
+                                                                                MB
+          ON
+                                                                                R3C 4B5
+          L4W 0G2
+                                                                                Canada
+          Canada
+                                                                                Address ID: CA1_2751
+          Address ID:
+          CA1_ARIBA_PAYABLES
+==================================<Page 3 - END>================================
+==================================<Page 4 - START>================================
+Line No.    PO Line No. Type                            Supplier Part No. / Description
+60         6          Material                         WWG2DMR8 / SHOULDER SCREW,5/8&quot;X1-1/4&quot;,1/2-13,PK2
+Additional Details:
+Supplier Part ID : WWG2DMR8
+Line No.    PO Line No. Type                            Supplier Part No. / Description
+100        10         Material                         WWG6ZF03 / T CLIP
+Additional Details:
+Supplier Part ID : WWG6ZF03
+PDF generated on Friday 13 Feb. 2026 6:12 a.m. GMT-08:00
+==================================<Page 4 - END>================================
+==================================<Page 5 - START>================================
+       Standard Invoice
+                                                                                                                         GRAINGER
+      Original tax invoice has been submitted electronically. This is a
+      human readable representation (copy) of the original tax invoice.
+                                                                       Invoice Number                                      9805096980
+                                                                       (Supplier Reference No.)
+                                                                       Invoice Date                  Thursday 12 Feb. 2026 7:00 a.m. GMT-05:00
+                                                                                                                        $130.79 CAD
+                                                                       Amount Due
+           Contact Information
+                                                                                Shipping Information
+           Supplier                       Customer
+                                                                                Ship From                    Ship To
+           ACKLANDS-GRAINGER INC.        EDI ONLY PEPSI FOODS ULC
+                                                                                ACKLANDS-GRAINGER INC.        CA-PL-LETHBRIDGE-AB-FLC
+           PO BOX 2970                   (FLC)
+                                                                                11708 - 167 STREET NW          2200 31ST STREET
+           WINNIPEG
+                                        2200 31 ST N                              EDMONTON                   LETHBRIDGE
+           MB
+                                        LETH PLNT DISPENSING                      AB                          AB
+           R3C 4B5
+                                        LETHBRIDGE                              T5M 3Z2                      T1H 5K8
+           CA
+                                        AB                                      Canada                      Canada
+                                        T1H 5K8
+                                        Canada
+         Line Items                                              PO No. : M413550036
+                                                                                                                    PO Date : 10 Feb. 2026
+         Line No.   PO Line No.          Type    Supplier Part No. /             Customer Part No.
+                                                                                            Quantity            Unit Price        Subtotal
+                                              Description
+                                                                                            (UOM)
+         60
+                   6                 Material WWG2DMR8 / SHOULDER                            1 / (PK)         $102.42 CAD     $102.42 CAD
+                                              SCREW.5/8&quot:X1-1/4&quot:.1/2-13.PK2
+                                                                                                         Line Item Total : $102.42 CAD
+         Line No.   PO Line No.
+                                      Type    Supplier Part No. /             Customer Part No.        Quantity           Unit Price         Subtotal
+                                              Description                                       (UOM)
+         100      10                Material WWG6ZF03 / T CLIP                                                               $22.14 CAD
+                                                                                            1 / (EA)          $22.14 CAD
+                                                                                                          Line Item Total : $22.14 CAD
+            Tax Summary
+            Category              Details                          Base Amount               Rate %          Amount
+            GST                  Tax Description : GOODS AND         $124.56 CAD               5%            $6.23 CAD
+                                  SERVICES
+            PST                                                 $124.56 CAD               0%            $0.00 CAD
+                                  Tax Description : State/Provincial
+                                  Tax
+                                                                                    Amount Summary
+                                                                                                                          $124.56 CAD
+                                                                                    Line item subtotal
+                                                                                                                          $130.79 CAD
+                                                                                    Gross amount
+                                                                                                                          $130.79 CAD
+                                                                                    Net amount
+                                                                                    Total tax amount                            $6.23 CAD
+                                                                                    Total withholding tax amount
+                                                                                                                           $130.79 CAD
+                                                                                    Amount Due
+           Additional Information
+           invioceSourceDocument
+          PurchaseOrder
+          Billing Information                                                         Remittance Information
+          Bill To                                                                 Remit To
+                                                                                ACKLANDS-GRAINGER INC.
+          PEPSI FOODS ULC (FLC)
+                                                                                PO BOX 2970
+          2095 MATHESON BLVD E
+                                                                                WINNIPEG
+          MISSISSAUGA
+                                                                                MB
+          ON
+                                                                                R3C 4B5
+          L4W 0G2
+                                                                                Canada
+          Canada
+                                                                                Address ID: CA1_2751
+          Address ID:
+          CA1_ARIBA_PAYABLES
+==================================<Page 5 - END>================================
+==================================<Page 6 - START>================================
+Line No.    PO Line No. Type                            Supplier Part No. / Description
+60         6          Material                         WWG2DMR8 / SHOULDER SCREW,5/8&quot;X1-1/4&quot;,1/2-13,PK2
+Additional Details:
+Supplier Part ID : WWG2DMR8
+Line No.    PO Line No. Type                            Supplier Part No. / Description
+100        10         Material                         WWG6ZF03 / T CLIP
+Additional Details:
+Supplier Part ID : WWG6ZF03
+PDF generated on Friday 13 Feb. 2026 6:12 a.m. GMT-08:00
+==================================<Page 6 - END>================================

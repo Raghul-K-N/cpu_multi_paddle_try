@@ -1,0 +1,89 @@
+{
+  "invoice_data": {
+    "invoice_number": "176382",
+    "invoice_date": "2026-02-02",
+    "invoice_amount": "347.89",
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": null,
+    "po_number": [
+      "M413530751"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": "19.61",
+    "cost_center": null,
+    "vendor_name": "BRENTON",
+    "vendor_address": "PNC BANK, NA, 500 First Ave, PITTSBURGH, PA 15219, SWIFT:PNCCUS33, ACCOUNT:4210110476, ABA:041000124, Tax ID: 58-2402604",
+    "po_line_items": [
+      {
+        "description": "MISC SENTRY FG-131",
+        "quantity": 2.0,
+        "net_price": 120.751
+      },
+      {
+        "description": "MISC SENTRY CARRIAGE LATCH KIT",
+        "quantity": 2.0,
+        "net_price": 1.998
+      },
+      {
+        "description": "MISC SENTRY FG-126A",
+        "quantity": 2.0,
+        "net_price": 3.468
+      },
+      {
+        "description": "MISC SENTRY FG-124",
+        "quantity": 1.0,
+        "net_price": 3.468
+      }
+    ],
+    "vat_amount": null,
+    "gl_account": null,
+    "bank_name": null,
+    "account_holder_name": null,
+    "banking_account_number": null,
+    "remit_to_address": null,
+    "bill_to_address": null,
+    "transaction_type": "debit"
+  },
+  "filename": "SAPS4_5100258536_US28_PFNAUS_2026_999884236.pdf",
+  "raw_response": {
+    "invoice_number": "176382",
+    "invoice_date": "2026-02-02",
+    "invoice_amount": "347.89",
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": null,
+    "po_number": [
+      "M413530751"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": "19.61",
+    "cost_center": null,
+    "vendor_name": "BRENTON",
+    "vendor_address": "PNC BANK, NA, 500 First Ave, PITTSBURGH, PA 15219, SWIFT:PNCCUS33, ACCOUNT:4210110476, ABA:041000124, Tax ID: 58-2402604",
+    "po_line_items": [
+      {
+        "description": "MISC SENTRY FG-131",
+        "quantity": 2.0,
+        "net_price": 120.751
+      },
+      {
+        "description": "MISC SENTRY CARRIAGE LATCH KIT",
+        "quantity": 2.0,
+        "net_price": 1.998
+      },
+      {
+        "description": "MISC SENTRY FG-126A",
+        "quantity": 2.0,
+        "net_price": 3.468
+      },
+      {
+        "description": "MISC SENTRY FG-124",
+        "quantity": 1.0,
+        "net_price": 3.468
+      }
+    ]
+  }
+}

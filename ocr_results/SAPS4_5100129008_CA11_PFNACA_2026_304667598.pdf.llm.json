@@ -1,0 +1,65 @@
+{
+  "invoice_data": {
+    "invoice_number": "230167",
+    "invoice_date": "2026-01-31",
+    "invoice_amount": null,
+    "invoice_currency": null,
+    "tax_amount": null,
+    "po_number": [
+      "M413537539"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "Massé Inc.",
+    "vendor_address": "1336, rue Turcotte, Val-d'Or, Québec J9P 3X6, Canada",
+    "po_line_items": [
+      {
+        "description": "Service de remblaiement et étendre un voyage de 0 3/4 chez Pepsico Amos",
+        "quantity": null,
+        "net_price": 385.0
+      },
+      {
+        "description": "1Administration 15%",
+        "quantity": null,
+        "net_price": 57.75
+      }
+    ],
+    "vat_amount": null,
+    "gl_account": null,
+    "bank_name": null,
+    "account_holder_name": null,
+    "banking_account_number": null,
+    "remit_to_address": null,
+    "bill_to_address": null,
+    "transaction_type": "debit"
+  },
+  "filename": "SAPS4_5100129008_CA11_PFNACA_2026_304667598.pdf",
+  "raw_response": {
+    "invoice_number": "230167",
+    "invoice_date": "2026-01-31",
+    "invoice_amount": null,
+    "invoice_currency": null,
+    "tax_amount": null,
+    "po_number": [
+      "M413537539"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "Massé Inc.",
+    "vendor_address": "1336, rue Turcotte, Val-d'Or, Québec J9P 3X6, Canada",
+    "po_line_items": [
+      {
+        "description": "Service de remblaiement et étendre un voyage de 0 3/4 chez Pepsico Amos",
+        "quantity": null,
+        "net_price": 385.0
+      },
+      {
+        "description": "1Administration 15%",
+        "quantity": null,
+        "net_price": 57.75
+      }
+    ]
+  }
+}

@@ -1,0 +1,59 @@
+{
+  "invoice_data": {
+    "invoice_number": "9793419970",
+    "invoice_date": "03/FEB/2026",
+    "invoice_amount": "250.68",
+    "invoice_currency": [
+      "CAD"
+    ],
+    "tax_amount": "28.84",
+    "po_number": [
+      "M413231842"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "GRAINGER",
+    "vendor_address": "123 Commerce Valley Drive E, 7th Floor, Thornhill, ON L3T 7W8",
+    "po_line_items": [
+      {
+        "description": "NEUTRAL DETERGENT/ICE MELT REMOVER,4 L",
+        "quantity": 8.0,
+        "net_price": 27.73
+      }
+    ],
+    "vat_amount": null,
+    "gl_account": null,
+    "bank_name": null,
+    "account_holder_name": null,
+    "banking_account_number": null,
+    "remit_to_address": null,
+    "bill_to_address": null,
+    "transaction_type": "debit"
+  },
+  "filename": "SAPS4_5100935503_CA02_PBNACA_2026_328615263.pdf",
+  "raw_response": {
+    "invoice_number": "9793419970",
+    "invoice_date": "03/FEB/2026",
+    "invoice_amount": "250.68",
+    "invoice_currency": [
+      "CAD"
+    ],
+    "tax_amount": "28.84",
+    "po_number": [
+      "M413231842"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "GRAINGER",
+    "vendor_address": "123 Commerce Valley Drive E, 7th Floor, Thornhill, ON L3T 7W8",
+    "po_line_items": [
+      {
+        "description": "NEUTRAL DETERGENT/ICE MELT REMOVER,4 L",
+        "quantity": 8.0,
+        "net_price": 27.73
+      }
+    ]
+  }
+}

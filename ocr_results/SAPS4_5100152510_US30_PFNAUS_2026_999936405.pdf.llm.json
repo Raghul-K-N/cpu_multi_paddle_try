@@ -1,0 +1,99 @@
+{
+  "invoice_data": {
+    "invoice_number": "6585451185",
+    "invoice_date": "12/12/2025",
+    "invoice_amount": "1770.20",
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": null,
+    "po_number": [
+      "23534849"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "BRIDGESTONE RIDGESTONE AMERICAS TIRE OPERATIONS, LLC",
+    "vendor_address": "00 4TH AVENUE SOUTH, SUITE 100, P.O. BOX 140990, NASHVILLE, TENNESSEE 37201, DALLAS, TX 75373-0026, USA",
+    "po_line_items": [
+      {
+        "description": "B760 295/75R22.5 TLST",
+        "quantity": 4554.0,
+        "net_price": 164.52
+      },
+      {
+        "description": "VALVE STEM, STEEL, TL MED",
+        "quantity": 8.0,
+        "net_price": 3.0
+      },
+      {
+        "description": "REFINISHING R/W PWDR COAT",
+        "quantity": 8.0,
+        "net_price": 23.0
+      },
+      {
+        "description": "MOUNT+DISMNT TIRE,MED TRK",
+        "quantity": 8.0,
+        "net_price": 16.0
+      },
+      {
+        "description": "VALVE CAP, FLOW THRU",
+        "quantity": 8.0,
+        "net_price": 1.25
+      }
+    ],
+    "vat_amount": null,
+    "gl_account": null,
+    "bank_name": null,
+    "account_holder_name": null,
+    "banking_account_number": null,
+    "remit_to_address": null,
+    "bill_to_address": null,
+    "transaction_type": "debit"
+  },
+  "filename": "SAPS4_5100152510_US30_PFNAUS_2026_999936405.pdf",
+  "raw_response": {
+    "invoice_number": "6585451185",
+    "invoice_date": "12/12/2025",
+    "invoice_amount": "1770.20",
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": null,
+    "po_number": [
+      "23534849"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "BRIDGESTONE RIDGESTONE AMERICAS TIRE OPERATIONS, LLC",
+    "vendor_address": "00 4TH AVENUE SOUTH, SUITE 100, P.O. BOX 140990, NASHVILLE, TENNESSEE 37201, DALLAS, TX 75373-0026, USA",
+    "po_line_items": [
+      {
+        "description": "B760 295/75R22.5 TLST",
+        "quantity": 4554.0,
+        "net_price": 164.52
+      },
+      {
+        "description": "VALVE STEM, STEEL, TL MED",
+        "quantity": 8.0,
+        "net_price": 3.0
+      },
+      {
+        "description": "REFINISHING R/W PWDR COAT",
+        "quantity": 8.0,
+        "net_price": 23.0
+      },
+      {
+        "description": "MOUNT+DISMNT TIRE,MED TRK",
+        "quantity": 8.0,
+        "net_price": 16.0
+      },
+      {
+        "description": "VALVE CAP, FLOW THRU",
+        "quantity": 8.0,
+        "net_price": 1.25
+      }
+    ]
+  }
+}

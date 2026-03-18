@@ -1,0 +1,99 @@
+{
+  "invoice_data": {
+    "invoice_number": "91005933",
+    "invoice_date": "Jan 16, 2026",
+    "invoice_amount": "2,968.25",
+    "invoice_currency": [
+      "CAD"
+    ],
+    "tax_amount": "141.35",
+    "po_number": [
+      "4505130702"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": "24.00",
+    "cost_center": null,
+    "vendor_name": "CIMCO Refrigeration",
+    "vendor_address": "129 572 Aero Drive NE, Calgary, AB T2E 7Y4, Canada",
+    "po_line_items": [
+      {
+        "description": "Truck Charge",
+        "quantity": 1.0,
+        "net_price": 24.0
+      },
+      {
+        "description": "Labour Charges",
+        "quantity": 1.0,
+        "net_price": 167.0
+      },
+      {
+        "description": "58079 KIT DE RETROFIT P/GMM NEXT -",
+        "quantity": 1.0,
+        "net_price": 2625.0
+      },
+      {
+        "description": "H&S COMPLIANCE",
+        "quantity": 1.0,
+        "net_price": 4.9
+      },
+      {
+        "description": "Shop Supplies",
+        "quantity": 1.0,
+        "net_price": 6.0
+      }
+    ],
+    "vat_amount": null,
+    "gl_account": null,
+    "bank_name": null,
+    "account_holder_name": null,
+    "banking_account_number": null,
+    "remit_to_address": null,
+    "bill_to_address": null,
+    "transaction_type": "debit"
+  },
+  "filename": "SAPS4_5100111561_CA02_PBNACA_2026_328586823.pdf",
+  "raw_response": {
+    "invoice_number": "91005933",
+    "invoice_date": "Jan 16, 2026",
+    "invoice_amount": "2,968.25",
+    "invoice_currency": [
+      "CAD"
+    ],
+    "tax_amount": "141.35",
+    "po_number": [
+      "4505130702"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": "24.00",
+    "cost_center": null,
+    "vendor_name": "CIMCO Refrigeration",
+    "vendor_address": "129 572 Aero Drive NE, Calgary, AB T2E 7Y4, Canada",
+    "po_line_items": [
+      {
+        "description": "Truck Charge",
+        "quantity": 1.0,
+        "net_price": 24.0
+      },
+      {
+        "description": "Labour Charges",
+        "quantity": 1.0,
+        "net_price": 167.0
+      },
+      {
+        "description": "58079 KIT DE RETROFIT P/GMM NEXT -",
+        "quantity": 1.0,
+        "net_price": 2625.0
+      },
+      {
+        "description": "H&S COMPLIANCE",
+        "quantity": 1.0,
+        "net_price": 4.9
+      },
+      {
+        "description": "Shop Supplies",
+        "quantity": 1.0,
+        "net_price": 6.0
+      }
+    ]
+  }
+}

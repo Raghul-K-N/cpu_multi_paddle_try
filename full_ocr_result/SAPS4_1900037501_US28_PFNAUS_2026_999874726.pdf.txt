@@ -1,0 +1,628 @@
+==================================<Page 1 - START>================================
+  OpenText Workflow History
+  Vendor
+  STACEY LEGRONE
+  5155 N 79TH DRIVE
+  GLENDALE AZ 85303
+  USA
+   Invoice
+   Reference
+                     LEGRONE3FEB26
+                                                              Document Date    03.02.2026
+   DP Document No.  39327664
+                                                              Net Amount
+                                                                                USD          2,625.00
+  Comp. Code       US28 Frito-Lay, Inc.
+                                                              Tax Amount       USD
+                                                                                                   0.00
+  Posting Date     13.02.2026
+                                                              Gross Amount     USD          2,625.00
+  SAP Document No. 1900037501 2026
+                                          Pre-Process History
+   ACTIVITY
+                                                          USER       END TIME         DOCUMENT STATUS
+   Update status
+                                                          VRBLAOT_U  05.02.2026       Validation
+                                                          SR         18:31:46          Complete
+                                      Document Process History
+  ACTIVITY
+                     PROCESS TYPE/BLOCK REASON          USER        END TIME         DOCUMENT STATUS
+  BC Inbound
+                                                         VRBLAOT_U   05.02.2026        Document
+                                                         SR          17:56:18
+                                                                                        Registered
+  Workflow Start   Invalid Requestor ID (NPO)         Record to  05.02.2026       Created
+                                                         Report      18:31:46
+                                                         Batch
+                                                         Account
+                                                         Owner:
+  Apply Business   Invalid Requestor ID (NPO)
+                                                         BOOBALAN   12.02.2026        Created
+ Rules                                                              15:42:44
+                                                         BALAJI
+ Comment:
+Changed By:   BOOBALAN BALAJI (09371498)
+Changed On:   02/12/2026 15:42:42
+***********************************************************************
+Please approve and update mandatory details.
+Business Rules
+                   Approval Required (NPo)             SAP_WFRT   12.02.2026        Indexed
+Check in BG                                                         15:42:48
+  Invoice submitted for Approval                                   12.02.2026 15:42:48
+  Financial Information Entered                       KIVA        12.02.2026 15:52:59
+                                                         JORDAN
+  Financial Information Entered                       KIVA        12.02.2026 15:53:28
+                                                         JORDAN
+ Data Entered and Invoice Approved                   KIVA        12.02.2026 15:53:30
+                                                         JORDAN
+ Invoice Approved                                      AIDA        12.02.2026 19:18:38
+                                                         BABALOLA
+==================================<Page 1 - END>================================
+==================================<Page 2 - START>================================
+OpenText Workflow History
+Invoice
+Vendor            STACEY LEGRONE GLENDALE
+Reference         LEGRONE3FEB26                       Gross Amount     USD        2,625.00
+                              Document Process History - Continuation
+                     PROCESS TYPE/BLOCK REASON          USER        END TIME          DOCUMENT STATUS
+  ACTIVITY
+    Comment:
+    Approved
+  Approval          Approval Required (NPO)             SAP_WFRT   12.02.2026        Approval
+  Workflow                                                           19:18:42          Complete
+  Business Rules   Process Non-PO Invoice (NPO)        SAP_WFRT    12.02.2026        Approval
+  Check in BG                                                        19:18:43          Complete
+                                                                                        Sent for Doc
+  Create Doc. BG   Process Non-PO Invoice (NPO)        SAP_WFRT   12.02.2026
+                                                                      19:18:44         Creation
+ Post Non-PO      Process Non-Po Invoice (NPo)       NAVINKUMA  13.02.2026        Sent for Doc
+                                                                                        Creation
+ Invoice                                               RR        13:53:56
+                                                                                        Document
+ Post Non-PO      Process Non-PO Invoice (NPO)       NAVINKUMA  13.02.2026
+ Invoice                                               RR        13:54:36          Created
+                                                                                        Posted
+ SAP Document                                          SAP_WFRT   13.02.2026
+                                                                      13:54:44
+ Check
+==================================<Page 2 - END>================================
+==================================<Page 3 - START>================================
+       PEPSICO
+  1.You must fillin all of the fields below and the form must be accompanied with supporting documentation.
+  2. Save submission as 1 single PDF file prior to submitting to nassapinvoicesubmission@pepsico.com
+  3. The form can be used for the following invoice/payment type activity: Taxes/Legal Settlements/Business
+              SAP Payment Request
+                                                               To be filled by Requestor
+             Substitute Invoice Form
+  Vendor Type                                S4
+  Vendor Name:                               STACEY LEGRONE
+  Vendor Number:
+                                             2005202806
+ Company Code:
+                                             US28
+ Remit To Address :                           5155 N. 79th Drive
+                                             Glendale, AZ 85303
+ (Must match the address in the AP system)
+Special Handling needed:                      No
+Attn:
+Address:
+Overnight delivery required:
+(if yes provide account # or CC below)
+FedEx or UPs, & Provide Number:
+FedEx or UPS account #
+Cost Center (If No FedEx/UPs Number):
+Trnsaction type:
+Choose only 1 option - Invoice or Credit Memo from  Invoice
+the dropdown
+Invoice Date:                               2/3/2026
+Invoice #:
+                                            LEGRONE3FEB26
+Limited to 16 characters
+Purchase Order #
+Not required if non-PO
+Payment GROsS Amount:                      $2,625.00
+Tax Amount
+                                            $0.00
+(if applicable)
+Payment NET Amount:                        $2,625.00
+Currency (USD or CAD)                        USD
+Header Text:                                NON-PO STACEY LEGRONE
+                                            KIVA JORDAN
+Requestor Name:
+                                            KIVA.JORDAN@PEPSISCO.COM
+Requestor email
+1st Level Approver Name                      KIVA JORDAN
+1st Level Approver Email id/GPID                KIVA.JORDAN@PEPSISCO.COM
+Date Requested:                            2/3/2026
+GL Coding (6 digits)                          219577
+Cost Center (if applicable)
+                                           4FUSL00000
+Profit Center (if applicable)
+WBS Element (if applicable)
+For Assistance On This Form submission please contact:
+Raise service now ticket(Snow)                 PepsiCo - Sign In
+==================================<Page 3 - END>================================
+==================================<Page 4 - START>================================
+                              SETTLEMENT AGREEMENT AND GENERAL RELEASE
+                 This Settlement Agreement and General Release (“Agreement’”) is made and entered into
+          between Stacey Legrone, their heirs, beneficiaries, executors, administrators, successors, and
+           assigns (collectively, “Claimant’”), and Frito-Lay, Inc. as well as its present and former parents;
+           subsidiaries; allied, affiliated and associated companies; officers; agents; servants; and
+           employees (collectively, “the Company’”).
+                  WHEREAS, Claimant has alleged various claims and causes of action against the
+          Company related to their employment, as more particularly set forth in a letter and emails sent to
+          the Company through his attorneys at Stone Rose Law (the “Demand”);
+                  WHEREAS, the Company denies any and all such claims and further denies that it has
+           engaged in any wrongdoing or has any liability whatsoever;
+                 WHEREAS, the Company denies that it or any of its agents violated any law or duty to
+           Claimant regarding their employment or the separation thereof;
+                 WHEREAS, bona fide disputes and controversies exist between the Parties, both as to
+           liability and the amount thereof, if any, and by reason of such disputes and controversies, the
+           Parties hereto desire to compromise and settle all claims and causes of action of any kind
+           whatsoever that Claimant has or may have against the Company and other parties herein
+           released;
+                  WHEREAS, the Parties intend that the full terms and conditions of such compromise and
+           settlement be as set forth in this Agreement; and
+                  NOW, THEREFORE, in consideration of the mutual promises, releases, covenants, and
+           agreements contained herein, including those set forth above, the Parties agree as follow:
+                  1.     Settlement Payment. The Company will pay Claimant Seven Thousand Five
+           Hundred Dollars and Zero Cents $7,500.00) (the “Settlement Payment"). The Settlement
+           Payment will be allocated and paid as follows:
+                  (a)    The Company will pay “[Stacey Legrone ," via ACH, the gross amount of Two
+                          Thousand Six Hundred Twenty Five Dollars and Zero Cents ($2,625.00), which
+                          will be characterized as wages. As to this portion of the Settlement Payment, the
+                          Company will make appropriate withholdings and will report it on an IRS Form
+                          W-2.
+                          The Company will pay “[Stacey Legrone ," via ACH, the gross amount of Two
+                   (q)
+                          Thousand Six Hundred Twenty Five Dollars and Zero Cents ($2,625.00), for
+                           alleged penalties and non-wage relief, and the Company will issue an IRS Form
+                           1099 to Claimant for said amount.
+                   (c)    The Company will pay Claimant’s Counsel, “Stone Rose Law," via ACH, the gross
+                           amount of Two Thousand Two Hundred Fifty Dollars and Zero Cents ($2,250.00)
+                           for Claimant’s attorneys’ fees and costs in connection with the Demand. The
+                                                            1
+==================================<Page 4 - END>================================
+==================================<Page 5 - START>================================
+                         Company will issue an IRS Form 1099 reflecting this payment in accordance with
+                         IRS rules and regulations.
+                (d)    The Settlement Payment will be within sixty (60) calendar days after the Company's
+                        receipt of (1) this Agreement signed by Claimant and (2) all documents sent to
+                        Claimant and Claimant’s Counsel for the processing of the Settlement Payment,
+                        including applicable ACH forms and W-4 forms.
+                        The Settlement Payment will represent full and complete payment on the claims
+                (e)
+                        raised by Claimant in the Demand, including any and all claims for attorneys’ fees
+                        and costs.
+                2.     Valuable Consideration. The Company warrants that the monies described in
+        this Section 1 are not required to be paid by any policy or procedure of the Company, and the
+        Company is making these payments to Claimant solely by virtue of this Agreement. Claimant
+        acknowledges and agrees that the payment provided in Section 1 of this Agreement is additional
+        valuable consideration to which Claimant would not otherwise be entitled absent their execution
+        of this Agreement and the promises set forth herein. Claimant further acknowledges that absent
+        this Agreement and the promises contained herein, Claimant would not be provided with the
+        Settlement Payment.
+                3.     General Release and Waiver of Claims.
+                               In consideration of and in return for the promises and covenants undertaken
+                        (a)
+         herein by the Company, and for other good and valuable consideration, Claimant does hereby
+         acknowledge full and complete satisfaction of and does hereby release, acquit, absolve, waive,
+         discharge, settle, compromise, and forever hold blameless the Company and its parents,
+         subsidiaries, affiliates, related companies and business concerns, past and present, including
+         PepsiCo, Inc.; Pepsi-Cola Company; Bottling Group, LLC; PepsiCo Sales, Inc.; Pepsi-Cola Sales
+         & Distribution, Inc.; New Bern Transport Corporation; Greyhawk Leasing, LLC; SVC
+         Manufacturing, Inc.; CB Manufacturing Company, Inc.; PepsiCo Beverage Sales, LLC; Frito-
+         Lay, Inc.; Rolling Frito-Lay Sales, LP; FL-Transportation, Inc.; Tropicana Manufacturing
+         Company; and Quaker Oats Company, as well as each of their and the Company’s partners,
+         trustees, directors, officers, members, shareholders, agents, attorneys, servants, employees, and
+         employee welfare benefit plans (including all fiduciaries, administrators, and insurers of such
+         employee welfare benefit plans), past and present (collectively, the “Releasees”), from any and
+          all claims, demands, liens, agreements, contracts, covenants, lawsuits, actions, causes of action,
+          grievances, matters, wages, overtime payments, sick payments, vacation payments, severance
+         payments, obligations, commissions, debts, profit sharing claims, expenses, damages,
+         controversies, judgments, orders, and liabilities of whatever kind or nature under local, state, or
+         federal law, equity, or otherwise, foreseen or unforeseen, known or unknown, ") that Claimant
+         now has or may have against the Releasees, or any of them, from matters that occurred prior to
+         the date of execution of this Agreement (collectively, the “Claims”), including specifically, but
+         not exclusively, and without limiting the generality of the foregoing, any and all Claims: (1)
+          arising out of Claimant’s employment with the Company and subsequent decision to resign; (2)
+          arising from the offer and acceptance of this Agreement (excluding any alleged breach of this
+          Agreement by one or more of the Releasees); and (3) arising out of or in any way connected with
+          any claim, loss, damage, or injury whatsoever, known or unknown, suspected or unsuspected,
+                                                           2
+==================================<Page 5 - END>================================
+==================================<Page 6 - START>================================
+         resulting from any act, omission, or deed done or suffered to be done by or on the part of the
+         Releasees, or any of them, committed or omitted at any time on, before, up to, and including the
+         date that Claimant executes this Agreement, including any and all claims alleged in the Action.
+         Claimant understands that the provisions of this Section mean that, except as may
+         otherwise be provided by law notwithstanding the provisions of this Agreement to the
+         contrary, they cannot bring a lawsuit against the Releasees except for any claim(s) related
+         to the alleged breach of this Agreement by one or more of the Releasees, for matters which
+          occurred prior to the execution of this Agreement.
+                         (b)    The Claims RELEASED, WAIVED, SETTLED, COMPROMISED,
+          and DISCHARĠED by Claimant include, but are not limited to, all Claims arising out of or
+          related to Claimant's employment and/or termination of employment, as well as any claims
+          arising under Title VII of the Civil Rights Act of 1964, as amended, 42 U.S.C. § 2000e, et seq.
+          (“Title VII"); the Civil Rights Act of 1866, 42 U.S.C. § 1981; the Americans with Disabilities
+          Act, 42 U.S.C. § 12101, et seq., as amended by the Americans with Disabilities Amendments Act
+          of 2008 (collectively, the “ADA”); the Age Discrimination in Employment Act of 1967, 29 U.S.C.
+          § 621, et seq. (“ADEA’); the Family and Medical Leave Act, 29 U.S.C. § 2601, et seq. (“FMLA”);
+          the Pregnancy Workers Fairness Act (“PWFA"); the Families First Coronavirus Response Act,
+          29 C.F.R. § 826, et seq. (“FFCRA"); the Fair Labor Standards Act, 29 U.S.C. § 201, et seq.
+          (“FLSA”); the Equal Pay Act of 1963 (“EPA”); the Employee Retirement Income Security Act
+          of 1974, 29 U.S.C. § 1001, et seq. (“ERISA"); the Worker Adjustment and Retraining
+          Notification Act (“WARN’); the Occupational Safety and Health Act (“OSHA’); and 18 U.S.C.
+          § 1591. Claimant also releases, waives, settles, compromises, and discharges any and all claims
+          arising under any other federal, state, or local constitution, statute, law, regulation, rule,
+          ordinance, order, or public policy; claims for defamation, slander, or libel; claims arising under
+          contract, including a collective bargaining agreement; claims alleging breach of an actual or
+          implied contract of employment between Claimant and the Company; claims for retaliation based
+          on the filing of a worker's compensation claim; claims for malicious prosecution; claims of
+          unjust, wrongful, retaliatory or tortious transfer, demotion, or discharge (including any claim of
+          fraud, negligence, retaliation for whistleblowing, refusal to participate in any activities, or
+          intentional infliction of emotional distress); other tort claims; claims arising under a policy,
+          practice, or procedure of the Releasees, or any of them; claims arising under common law; or any
+          other claim, whether cognizable in law or inequity, based upon any conduct up to and including
+          the date of this Agreement.
+                         (c)_This general release and waiver also includes all equitable and legal relief,
+          attorneys’ fees, and costs. This Agreement is intended to be a resolution of any possible claims,
+          and the Parties agree that neither party is a “prevailing party." Claimant specifically intends and
+          agrees that this Agreement fully contemplates all claims for attorney’s fees and costs, and hereby
+          releases, waives, settles, compromises, and discharges any such claims.
+                         (d)
+                                Claimant covenants and agrees not to bring, file, charge, claim, submit,
+          sue, or cause—or assist a third party in bringing, filing, charging, claiming, submitting, suing, or
+          causing—any action, cause of action, lawsuit, claim, charge, complaint, arbitration request, or
+          proceeding to any agency, court, organization, or judicial forum, including all federal, state, and
+          local forums, concerning or in any way related to any of the Claims released by them pursuant to
+          Section 3. Claimant further agrees that this Agreement is, will constitute, and may be pleaded as,
+          a bar to any such Claim. By signing this Agreement and accepting the benefits provided, Claimant
+                                                          3
+==================================<Page 6 - END>================================
+==================================<Page 7 - START>================================
+         covenants and agrees that, except for any Claims expressly excluded from this Agreement, they
+         will not hereafter pursue any individual claims, whether brought by Claimant, an administrative
+          agency, or any other person on Claimant’s behalf, or which include Claimant in any class against
+         the Company or the Releasees for or on account of anything, whether known or unknown,
+         foreseen or unforeseen, that has occurred up to the effective date of this Agreement and that
+          relates directly or indirectly to their employment or termination of employment with the
+          Company or with any one or more of the Releasees. Claimant further agrees that if any person or
+          entity should bring such an action, lawsuit, claim, charge, complaint, arbitration request, or
+          proceeding on their behalf, they hereby waive and forfeit any right to recovery under said claim
+          and will exercise every good faith effort to have such claim dismissed.
+                         (e) By signing this Agreement, Claimant specifically waives, releases, and
+          discharges their rights, if any, to any monetary recovery or other relief (including any backpay,
+          front pay, reinstatement, or other legal or equitable relief) that may arise from and/or relate to any
+          charge, complaint, lawsuit, or other proceeding brought by Claimant or on Claimant’s behalf by
+          any third party, except for any right that Claimant may have to receive a payment or award from
+          a government agency (and not the Company) for information provided to the government agency
+          or where otherwise prohibited. Claimant understands that the provisions of this Agreement mean
+          that they cannot bring a lawsuit in any forum (whether it be foreign, federal, state, or local) against
+          the Company or the other Releasees for any reason for Claims that they may have as of the date
+          of this Agreement, except as specifically provided for herein. This Agreement does not prohibit
+          Claimant from seeking and obtaining a whistleblower award from the SEC pursuant to Rule 21F
+           of the Securities Exchange Act.
+                  4.     No Waiver of Future Claims or Interference with Rights.
+                          (a)    This general release and waiver does not apply to any rights or Claims that
+           may arise after the date that this Agreement is executed by Claimant or to rights or Claims that
+          may not be waived or released as a matter of law, including, but not limited to, Claims for earned
+           and vested pension benefits.
+                          (q)   Regardless of whether or not Claimant signs this Agreement, nothing in
+           any Company agreement, policy, or practice, including this Agreement: (i) limits or affects
+           Claimant’s right to challenge the validity of this Agreement under the ADEA; (ii) prohibits
+          Claimant from enforcing the terms of this Agreement; (iii) prevents Claimant from
+          communicatingwith, filing a charge or complaint with, providingdocuments or
+          information voluntarily or in response to a subpoena or other information request to; or
+          participating in an investigation or proceedingconducted by the Equal Employment
+          Opportunity Commission (“EEOC"), National Labor Relations Board (“NLRB"), the
+          Securities and ExchangeCommission (“SEC"),theOccupational Safetyand Health
+          Administration (“OSHA"), law enforcement, or any other federal, state, or local agency
+          charged with the enforcement of any laws; (iv) prevents Claimant from testifying, providing
+          evidence, responding to a subpoena or discovery request in court litigation or arbitration, to the
+          extent that they are permitted to do so by law; (v) requires Claimant to disclose to the Company
+          any such filing, communication, or participation; or (vi) prevents a non-management, non-
+          supervisory employee from engaging in protected concerted activity under Section 7 of the
+          National Labor Relations Act or under similar state laws, such as joining, assisting, or forming a
+          union, bargaining, picketing, striking, or participating in other activity for mutual aid or
+                                                            4
+==================================<Page 7 - END>================================
+==================================<Page 8 - START>================================
+         protection, or refusing to do so (this includes using or disclosing information acquired through
+         lawful means regarding wages, hours, benefits, or other terms and conditions of employment,
+          except where the information was entrusted to the employee in confidence by the Company as
+          part of the employee’s job duties).
+                         (c)    Nothing in this Agreement limits or affects Claimant’s right to disclose or
+          discuss sexual harassment or sexual assault disputes.
+                         (d)    Notwithstanding Claimant’s confidentiality and non-disclosure obligations
+          in this Agreement and otherwise, Claimant understands that, as provided by the Federal Defend
+          Trade Secrets Act, Claimant will not be held criminally or civilly liable under any federal or state
+          trade secret law for the disclosure of a trade secret made: (1) in confidence to a federal, state, or
+          local government official, either directly or indirectly, or to an attorney, and solely for the purpose
+          of reporting or investigating a suspected violation of law; or (2) in a complaint or other document
+          filed in a lawsuit or other proceeding, if such filing is made under seal.
+                 5.     Pending Claims. Claimant represents and warrants that they do not have any other
+          claims, charges, complaints, or lawsuits against the Company or the other Releasees and that no
+          claims are pending before any court, agency, or other person/entity. If Claimant has any claims,
+          charges, complaints, or lawsuits against the Company or the Releasees, Claimant agrees that
+          Claimant will take all steps necessary to make sure that any and all claims are dismissed with
+          prejudice.
+                  6.     Representations and Warranties Regarding the FMLA and FLSA. Claimant
+          represents and warrants that they are not aware of any circumstances that might entitle Claimant
+          to a leave of absence under the Family and Medical Leave Act (“FMLA") or any fact that might
+          justify a claim against the Company for violation of the FMLA. Claimant further represents and
+          warrants that they have received and been properly paid any and all wages and commissions for
+          all hours worked for the Company and all overtime compensation to which they may have been
+          entitled under the Fair Labor Standards Act (“FLSA"), and that they are not currently aware of
+          any facts or circumstances constituting a violation by the Company and/or Releasees of the
+          FMLA or FLSA. Claimant specifically warrants that they have discussed this issue and all
+          underlying facts with their attorneys and, in consultation with their attorneys, makes these
+          representations. Claimant acknowledges that the Company is relying on the accuracy of this
+          representation as a material term of this Agreement.
+                  7.     No On-the-Job Injury. Claimant represents and warrants that they have not
+          suffered an on-the-job injury for which they have filed a claim for workers' compensation
+          benefits.
+                  8.
+                          Tax Liability and Indemnification. Claimant acknowledges and agrees that: (1)
+          the Company has made no representations to them regarding the tax consequences of the
+          settlement proceeds paid pursuant to this Agreement; and (2) Claimant is ultimately responsible
+          for determining the taxability of the Settlement Amount referred to in Section 1 above, and for
+          paying their portion of the taxes (federal, state, or otherwise), if any, that any taxing authority
+          determines is owed with respect to such payment. Claimant agrees that should the Company incur
+          tax liability or penalties for failing to withhold taxes from the Settlement Payment (whether it be
+          federal, state or local), Claimant will defend and indemnify the Company against any tax liability
+                                                           5
+==================================<Page 8 - END>================================
+==================================<Page 9 - START>================================
+         for tax loss incurred by Company, including, but not limited to penalties and/or interest that may
+         accrue toward it as a liability if any portion of the Settlement Payment be claimed as taxable by
+          any governmental entity.
+                 9.
+                         Non-Assignment. Claimant expressly promises the Company and the other
+          Releasees that they have not assigned or transferred, or purported to assign or transfer, and will
+          not assign or otherwise transfer: (a) any claims, or portions of claims, against the Company or the
+          other Releasees; (b) any rights that they have or may have had to assert claims on their behalf or
+          on behalf of others against the Company or the other Releasees; and (c) any right that they have
+          or may have to the Settlement Payment. Claimant promises that any monies, benefits, or other
+          consideration that they receive from the Company are not subject to any liens, garnishments,
+          mortgages, or other charges, and no one else has any claim to any portion of the Settlement
+          Payment (except for their attorney, as set forth in Section 1 above).
+                 10.    Confidentiality. Claimant agrees that the financial terms and/or the substance or
+          contents of discussions involved in reaching this Agreement, including the Settlement Amount
+          and payments in Section 1, are strictly confidential and will not be publicized on media or the
+          internet. Claimant further agrees not to disclose this information to anyone, save and except for
+          their certified public accountant(s), tax advisor(s), mental health professional(s), financial
+          planner(s), spouse/partner, and present legal counsel. Upon inquiry of any kind about this matter
+          by any entity or individual not a party to this Agreement (including by any current or former
+          Company employee), Claimant will state only that this matter has been resolved and will give no
+          other indication(s), verbal or otherwise, regarding the outcome or the general or specific terms of
+          this Agreement.
+                  Claimant understands that Section 7 of the National Labor Relations Act guarantees
+          employees the right to self-organization, to form, join, or assist labor organizations, to bargain
+          collectively through representatives of their own choosing, and to engage in other concerted
+          activities for collective bargaining or other mutual aid or protection, as well as the right to refrain
+          from any or all such activities. Claimant understands that nothing contained in this Agreement
+          limits Claimant’s rights under the National Labor Relations Act.
+                 11.    Non-Disparagement.
+                         (a)    Claimant agrees that they will not make any disparaging statement(s) about
+          the Company; the Releasees; Claimant's employment with the Company; the cessation of
+          Claimant’s employment with the Company; the Company’s brands, products, or services; the
+          Company’s employees, management members, or business leaders; or any other dealings of any
+          kind between Claimant and the Company, to past, present, or prospective employees, clients,
+          customers, partners, vendors, or suppliers of the Releasees or to other members of the public,
+          including representatives of the media, that are: (1) knowingly false; (2) made with reckless
+          disregard for the truth; and/or (3) made in a manner reasonably calculated to harm the Company’s
+          reputation.
+                         (b) The Company agrees to advise all currently employed individuals who
+          supervised or worked with Claimant to not make false, derogatory, disparaging, or defamatory
+          remarks about Claimant, his employment with the Company, or the cessation of his employment
+          with the Company.
+                                                          6
+==================================<Page 9 - END>================================
+==================================<Page 10 - START>================================
+                         (c)   Nothing in this Agreement will prohibit any party from providing testimony
+         in a deposition, hearing, or trial in any case brought against the other party, even if such testimony
+         is deemed to be derogatory or disparaging, provided that the party does so in response to a
+         subpoena or court order.
+                          (d)    This Section will also not apply to communications between Claimant and
+          their spouse/partner, accountants, tax advisors, and attorneys; any disclosure or statement relating
+         to any proceeding to enforce the terms of this Agreement; communications with a government
+          agency; truthful statements about criminal conduct; or communications expressly authorized by
+          law or lawful process.
+                  12.    Neutral Reference. Claimant agrees to direct any and all potential employers
+          seeking references solely to the Company's telephone reference line, for which the current
+          telephone number is 1-800-996-7566 (code no. 73774). Pursuant to the Company’s standard
+          policy, the telephone reference line will, upon request, confirm Claimant’s dates of employment,
+          final hourly rate of pay (if authorized by Claimant in writing), and job title, but will not reveal the
+          circumstances of their separation from employment. Claimant agrees that they will not otherwise
+          seek any reference from the Company, or any employee or representative of the Company, and
+          agrees that the Company is not required to provide any reference.
+                  13.   No Right to Reinstatement or Rehire. Claimant acknowledges and agrees that
+          they have no right to reinstatement, rehire, or employment by the Company or Releasees, in any
+          capacity, including permanent, temporary, or casual employment, whether directly by the
+          Company or indirectly by any organization or agency furnishing labor to the Company. Claimant
+          further agrees not to apply for employment with the Company or the Releasees after execution of
+          this Agreement. Claimant acknowledges that any such attempt to seek employment or
+          reemployment would be a breach of this Agreement, and the Company and the other Releasees
+          may disregard any such application or attempt. If any entity employing Claimant after their
+          employment with the Company is acquired by PepsiCo, Inc. or any of the Releasees, such
+          acquisition and/or Claimant’s continued employment thereafter will not constitute a violation of
+          this provision.
+                  14.    No Admission of Liability. This Agreement is being entered into solely for the
+          purpose of settling disputed claims, and will not be construed as: (a) an admission by the
+          Company or the other Releasees of any (i) liability or wrongdoing to Claimant, (ii) breach
+          of any agreement, or (iii) violation of a statute, law, ordinance, or regulation; or (b) a waiver
+          of any defenses as to those matters within the scope of this Agreement. The Company and
+          the other Releasees specifically deny any liability or wrongdoing. The terms of this
+          Agreement are contractual and not merely recital, and any amount paid in settlement is merely to
+          compromise doubtful and disputed claims, to avoid litigation, and to buy peace.
+                  15.
+                          Capacity of the Parties. The Parties represent to each other that they have the full
+          power, capacity, and authority to enter into this Agreement. The Parties also represent and
+          warrant that no portion of any claim, right, demand, action, or lawsuit that the Parties have or
+          might have had arising out of the acts, events, transactions, and occurrences referred to herein
+          have been assigned, transferred, or conveyed to any person not a party to this Agreement by way
+          of subrogation, operation of law, or otherwise, and that no releases or settlement agreements are
+                                                           7
+==================================<Page 10 - END>================================
+==================================<Page 11 - START>================================
+          necessary or need to be obtained from any other person or entity to release and discharge
+          completely any of the Parties’ claims released in this Agreement.
+                  16.   Binding Nature. This Agreement and all the terms and provisions contained herein
+          will bind the heirs, personal representatives, successors, and assigns of each Party and will inure
+          to the benefit of the Parties and their respective heirs, representatives, successors, and assigns.
+                  17.
+                         Entire Agreement. The Parties understand and agree that this Agreement contains
+          the entire agreement and understanding between the Parties and supersedes any and all prior
+          agreements, arrangements, or understandings between the Parties relating to the subject matter of
+          this Agreement. No oral understandings, statements, promises, or inducements contrary to the
+          terms of the Agreement exist. This Agreement cannot be changed or terminated orally. Any
+          modifications to this Agreement must be in writing and signed by all Parties.
+                  18.   Governing Law, Interpretation, and Construction. The Parties understand and
+          agree that this Agreement, except as otherwise governed by federal law, will be governed by,
+          construed, and enforced in accordance with, and subject to, the laws of the State of Texas without
+          regard for any conflict of law principles. The Parties acknowledge that this Agreement is a
+          collaborative effort by the attorneys for the Parties and that, as such, no provision of this
+          Agreement will be more strictly construed against one party as the drafter of the provision.
+                  19.   Counterparts. The Parties understand and agree that this Agreement may be
+          executed in several identical counterparts, each of which will be deemed an original for all
+          purposes. Each Party agrees that facsimile or electronic signatures will have the same effect as
+          original signatures.
+                  20.   Amendment and Severability. This Agreement may not be amended, modified,
+          altered, or changed except by written agreement signed by all Parties. If any one or more
+          provisions (or portion thereof) of this Agreement are held to be invalid, unlawful, or
+          unenforceable for any reason, the invalid, unlawful, or unenforceable provision (or portion
+          thereof) will be severed from the remainder of this Agreement (or provision), and the remainder
+          will remain in effect and be construed as broadly as possible, as if such invalid, unlawful, or
+          unenforceable provision (or portion thereof) had never been contained in this Agreement (unless
+          the provision is either the one requiring payment or the release of claims, in which case the
+          agreement is null and void). However, if the release of all claims described in Section 3 of this
+          Agreement (and its sub-paragraphs) is in any respect determined to be invalid or unenforceable
+          by a court of competent jurisdiction, and Claimant thereafter files an administrative claim or legal
+          action related to any claims released in Section 3, then, at the Company’s option, Claimant will
+          be required (and promises and agrees) to repay to the Company, on demand, all amounts paid by
+          the Company pursuant to Section 1 above, and the Parties will revert to the position held by each
+          prior to the signing of this Agreement.
+                 21.Additional Releases and Covenants Required by Section 111 of the Medicare,
+          Medicaid and SCHIP Extension Act of 2007, As Amended. Claimant represents and
+          warrants that they are not a Medicare beneficiary as of the date of this Agreement. Because
+          Claimant is not a Medicare recipient as of the date of this Agreement, no conditional
+          payments have been made by Medicare. Claimant represents and warrants that no Medicaid
+                                                           8
+==================================<Page 11 - END>================================
+==================================<Page 12 - START>================================
+         payments have been made to or on behalf of Claimant and that no liens, claims, demands,
+         subrogated interests, or causes of action of any nature or character exist or have been asserted
+         arising from or related to any matters released under this Agreement. Claimant further agrees that
+         Claimant, and not the Company or any of the Releasees, will be responsible for satisfying all such
+         liens, including workers' compensation liens, hospital liens, claims, demands, subrogated
+         interests, or causes of action that may exist or have been asserted or that may in the future exist
+         or be asserted. Claimant further agrees to indemnify, defend, and hold the Company and the
+         Releasees harmless from any claims or demands by Medicare, Medicaid, workers’ compensation,
+          or any other entity for any payments made as a result of the events arising from or relating to the
+          matters released under this Agreement.
+                 22.   Assumption of Risk of Mistake. The Parties hereby expressly assume the risk of
+          any mistake of fact or that the true facts might be other or different from facts now known or
+          believed to exist, and it is the express intent of the parties to forever settle, adjust and compromise
+          the disputes raised by the Action without regard to who may or may not have been correct in their
+          respective understandings of the facts or the law relating thereto.
+                 23.   Time To Consider Agreement. Claimant understands that they have been given
+          twenty-one (21) days to consider and sign this Agreement (the “Consideration Period’”), and
+          Claimant acknowledges and agrees that this consideration period is reasonable and adequate.
+                 Revocation. Claimant will have seven (7) days from the date that she signs this
+          Agreement to revoke it if she so desires. This Agreement will not become effective or
+          enforceable until this seven (7) day revocation period has expired, provided that the Parties also
+          meet all of the conditions in this Agreement. Claimant may revoke this Agreement only by
+          giving the Company a formal, written notice of her revocation of this Agreement to the
+          Company’s counsel, Connor Saenz, at Connor.Saenz@pepsico.com by the close of business on
+          the seventh (7th) day following Claimant’s execution of this Agreement. If Claimant has not
+          communicated their acceptance of this offer to the Company before the expiration of the
+          consideration period as set forth in this Section, this offer automatically expires at that time, and
+          the Company is not required to take any further action to rescind or otherwise withdraw the
+          terms of this Agreement.
+                 24.
+                         Right to Counsel. Each party warrants and represents that it has had the opportunity
+          to consult with its attorneys regarding the effect of this Agreement, and that it has executed this
+          Agreement fully aware of its content, purpose, and effect, based upon its sole judgment, belief,
+          and knowledge, and that it is not relying on representations or statements made by another party
+          to this Agreement or by anyone representing another party to this Agreement. Each party
+          acknowledges that neither another party, nor any agent or attorney of another party, has made any
+          promise, representation, or warranty whatsoever, express or implied, not contained herein
+          concerning the subject matters hereof to induce it to execute this Agreement, and acknowledges
+          that it has not executed this Agreement in reliance upon any such promise, representation, or
+          warranty. Each party acknowledges and agrees that it has been represented by independent
+          counsel of its own choice throughout all negotiations that have preceded the execution of this
+          Agreement, and that it has entered into and executed this Agreement with the consent of said
+          independent counsel. This Agreement is executed voluntarily by each party, without any duress
+          or undue influence.
+                                                          9
+==================================<Page 12 - END>================================
+==================================<Page 13 - START>================================
+                  Claimant acknowledges that at the time that they were presented this Agreement for their
+         consideration, they were represented by Counsel and had the opportunity to consult with their
+         counsel concerning this Agreement, its meaning and effect, and the claims that they are releasing,
+         prior to executing this Agreement
+                 25.
+                         Signatures, Execution, and Copies:The parties agree that separate copies of this
+          document will constitute original documents that may be signed separately but which together
+          will constitute the one single Agreement. The parties agree that this Agreement will not be
+          binding on any party, however, until signed by all parties or their representatives. This Agreement
+          may be signed by hand or electronically, and a faxed, photocopied, or scanned image of this
+          Agreement (including any signatures or markings thereon) will be deemed as valid and
+          admissible as an original. The parties further agree that each party's executed copy of this
+          Agreement may be transmitted to the other party by email and will be deemed an original signed
+         copy.
+                  26.   Effective Date: This Agreement will be effective once all Parties execute the
+          Agreement.
+                  27.   Attorneys' Fees: If any of the Parties should bring any action, suit, complaint, or
+          proceeding against any of the other parties hereto to enforce this Agreement, the validity hereof, any
+          of the terms or provisions hereof, or any of the matters released hereby, or should any of the parties
+          assert this Agreement as an affirmative defense in an action brought by the other party, the prevailing
+          party in such action, suit, or proceeding (as determined by a court of competent jurisdiction) will be
+          entitled to recover from the other such party reasonable attorneys' fees to be fixed by the court and
+          costs incurred in connection therewith, including attorneys’ fees and costs relating to any and all
+          appeals or petitions taken with respect to any such action, suit, or proceeding.
+                  28.   Cooperation: The parties agree to execute any and all other documents and instruments
+          in writing that may be reasonably necessary or proper to effectuate and carry out the purposes of this
+          Agreement.
+                         Knowing and Voluntary Acknowledgment. Claimant declares that they have
+                  29.
+          completely read this Agreement and acknowledges that it is written in a manner calculated for
+          Claimant to understand. Claimant states that they fully understand its terms and contents,
+           including the rights and obligations hereunder, and freely, voluntarily, and without coercion
+           enters into this Agreement. Further, Claimant agrees and acknowledges that they have had the
+           full opportunity to investigate all matters pertaining to their Claims and that the general waiver
+           and release of all rights or claims that they may have under any local, state, or federal law is
+           knowing and voluntary.
+                   PLEASE READ CAREFULLY. THIS AGREEMENT CONTAINS A
+                    GENERAL RELEASE OF ALL KNOWN AND UNKNOWN CLAIMS.
+==================================<Page 13 - END>================================
+==================================<Page 14 - START>================================
+                 IN WITNESS WHEREOF, the undersigned have executed this Settlement Agreement
+        and General Release.
+                    01/15/2026
+          Dated:
+                                                              Stacey Legrone
+         Dated:   1/26/2026
+                                                              Frito-Lay, Inc.
+                                                                              Connor Saenz
+                                                              By:
+                                                                                  Connor Saenz
+                                                              Print Name:
+                                                              Title:       Employment Law Director
+==================================<Page 14 - END>================================
+==================================<Page 15 - START>================================
+         From: SPA - PepsiCo Nass AP Invoice Submission <nassapInvoiceSubmission@pepsico.com>
+         Sent: Tue, 3 Feb 2026 17:02:50 (UTC)
+         To: svcimagingspaboxprod@pepsico.com
+         Subject: FW: NON-PO STACEY LEGRONE
+         Original Number of Attachments : 1
+         Original Attachment Names: NON-PO STACEY LEGRONE.pdf
+        Number of forwarded PDF's: 1
+         Number of forwarded Non PDF files: 0
+         From: Jordan, Kiva{PEP} <Kiva.Jordan@pepsico.com>
+         Sent: Tuesday, February 3, 2026 5:01:09 PM
+         To: SPA - PepsiCo Nass AP Invoice Submission <nassaplnvoiceSubmission@pepsico.com>
+         Subject: NON-PO STACEY LEGRONE
+         Please process as ACH .
+==================================<Page 15 - END>================================

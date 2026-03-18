@@ -1,0 +1,89 @@
+{
+  "invoice_data": {
+    "invoice_number": "T03754",
+    "invoice_date": "2 February 2026",
+    "invoice_amount": "1550.23",
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": "190.38",
+    "po_number": [
+      "771761/00929516"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "Ryder",
+    "vendor_address": "RYDER TRUCK RENTAL CANADA, P.O. BOX 9464 STATION A, TORONTO,ON,M5W 4E1, 800-947-9337",
+    "po_line_items": [
+      {
+        "description": "Fixed Rental",
+        "quantity": 1.0,
+        "net_price": 764.75
+      },
+      {
+        "description": "Licensing & Recovery Fee",
+        "quantity": 1.0,
+        "net_price": 35.0
+      },
+      {
+        "description": "PHYS DMG - $1500DED",
+        "quantity": 1.0,
+        "net_price": 133.0
+      },
+      {
+        "description": "Mileage charges",
+        "quantity": 1.0,
+        "net_price": 175.1
+      }
+    ],
+    "vat_amount": null,
+    "gl_account": null,
+    "bank_name": null,
+    "account_holder_name": null,
+    "banking_account_number": null,
+    "remit_to_address": null,
+    "bill_to_address": null,
+    "transaction_type": "debit"
+  },
+  "filename": "SAPS4_5101124505_CA11_PFNACA_2026_304654785.pdf",
+  "raw_response": {
+    "invoice_number": "T03754",
+    "invoice_date": "2 February 2026",
+    "invoice_amount": "1550.23",
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": "190.38",
+    "po_number": [
+      "771761/00929516"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "Ryder",
+    "vendor_address": "RYDER TRUCK RENTAL CANADA, P.O. BOX 9464 STATION A, TORONTO,ON,M5W 4E1, 800-947-9337",
+    "po_line_items": [
+      {
+        "description": "Fixed Rental",
+        "quantity": 1.0,
+        "net_price": 764.75
+      },
+      {
+        "description": "Licensing & Recovery Fee",
+        "quantity": 1.0,
+        "net_price": 35.0
+      },
+      {
+        "description": "PHYS DMG - $1500DED",
+        "quantity": 1.0,
+        "net_price": 133.0
+      },
+      {
+        "description": "Mileage charges",
+        "quantity": 1.0,
+        "net_price": 175.1
+      }
+    ]
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "invoice_data": {
+    "invoice_number": "No H52721",
+    "invoice_date": "01 nov 25",
+    "invoice_amount": null,
+    "invoice_currency": null,
+    "tax_amount": null,
+    "po_number": null,
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "PORTES DE GARAGE",
+    "vendor_address": "MANUFACTURIER DE PORTES EN ALUMINIUM ET POLYCARBONATE, 225, rue Saguenay, Rouyn-Noranda, Qc J9X 5N4, Tél.: 819-762-9907, Fax: 819-764-4400",
+    "po_line_items": null,
+    "vat_amount": null,
+    "gl_account": null,
+    "bank_name": null,
+    "account_holder_name": null,
+    "banking_account_number": null,
+    "remit_to_address": null,
+    "bill_to_address": null,
+    "transaction_type": "debit"
+  },
+  "filename": "SAPS4_5100974502_CA02_PBNACA_2026_328615284.pdf",
+  "raw_response": {
+    "invoice_number": "No H52721",
+    "invoice_date": "01 nov 25",
+    "invoice_amount": null,
+    "invoice_currency": null,
+    "tax_amount": null,
+    "po_number": null,
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "PORTES DE GARAGE",
+    "vendor_address": "MANUFACTURIER DE PORTES EN ALUMINIUM ET POLYCARBONATE, 225, rue Saguenay, Rouyn-Noranda, Qc J9X 5N4, Tél.: 819-762-9907, Fax: 819-764-4400",
+    "po_line_items": null
+  }
+}

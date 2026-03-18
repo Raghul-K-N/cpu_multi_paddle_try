@@ -1,0 +1,483 @@
+==================================<Page 1 - START>================================
+Standard Invoice
+                                                                                                                    GRAINGER
+Original tax invoice has been submitted electronically. This is a
+human readable representation (copy) of the original tax invoice.
+                                                                                                                  980658640126
+                                                                Invoice Number
+                                                                (Supplier Reference No.)
+                                                                Invoice Date                    Thursday 12 Feb 2026 5:32 AM GMT-07:00
+                                                                                                                   $782.60 USD
+                                                                Amount Due
+    Contact Information                                                        Shipping Information
+    Supplier                      Customer                                                               Ship To
+                                                                          Ship From
+    Grainger                      Frito-Lay Inc.                                Grainger                       US-PL-MODESTO-CA-FLI
+    100 Grainger Pkwy               c/o PEPSICO NASS                           2710 KEYSTONE PACIFIC          CAFE VENDING
+    Lake Forest                    ACCOUNTS PAYABLES                       PARKWAY                     600 GARNER RD
+    IL                          PO BOX 1800                               PATTERSON                    MODESTO
+    Winst                        Winston Salem                              CA                           CA
+     United States                  NC                                      95363                         95357
+                                 27105                                    United States                    United States
+                                 United States                                                            Phone: (209) 544-5400
+                                                                                                               PO Date : 12 Feb 2026
+  Line Items                                              PO No. : M413555623
+                                                                                                        Unit Price         Subtotal
+   Line No.    PO Line No.         Type   Supplier Part No. /             Customer Part No.        Quantity
+                                                                                      (UOM)
+                                       Description
+                                     11C672 / EMT Utility                                 12 / (EA)           $4.25 USD       $51.00 USD
+   1        1                 Material
+                                       Scissors,Blue,7-1/4 L
+                               Type   Supplier Part No. /             Customer Part No.        Quantity            Unit Price         Subtotal
+   Line No.    PO Line No.
+                                       Description                                       (UOM)
+   2        2                 Material 806T74 / VF,Cut Rstnt Gloves,Gry/                       12 / (EA)          $15.09 USD      $181.08 USD
+                                       YIw.9.40LL58.PR
+                                                                                      Quantity            Unit Price         Subtotal
+   Line No.   PO Line No.         Type    Supplier Part No. /             Customer Part No.
+                                       Description                                       (UOM)
+                               Material 6XKD2 / Safety Glasses, Clear.                          36 / (EA)           $1.45 USD       $52.20 USD
+   3        3
+                                      Clear
+   Line No.    PO Line No.         Type   Supplier Part No. /             Customer Part No.        Quantity            Unit Price         Subtotal
+                                      Description                                       (UOM)
+                               Material 24U136 / Mechanics                                 1 / (EA)           $13.93 USD      $13.93 USD
+   4        4
+                                      Gloves,L/9,9,PR
+             PO Line No.         Type   Supplier Part No. /             Customer Part No.        Quantity            Unit Price         Subtotal
+   Line No.
+                                       Description                                       (UOM)
+   5        5                Material  4VCD5 /                                         12 / (EA)           $3.11 USD      $37.32 USD
+                                      SafetyGlasses,Clr.AntiFog.Slvr
+                               Type   Supplier Part No. /             Customer Part No.        Quantity            Unit Price         Subtotal
+   Line No.   PO Line No.
+                                      Description                                       (UOM)
+   6        6                 Material 806T73 / VF,Cut Rstnt Gloves,Gry/                       12 / (EA)          $15.06 USD      $180.72 USD
+                                      Ylw,8,40LL55.PR
+   Line No.    PO Line No.         Type   Supplier Part No. /             Customer Part No.        Quantity            Unit Price         Subtotal
+                                      Description
+                                                                                      (UOM)
+   7        7                 Material 806T72 / VF,Cut-Resistant
+                                                                                      12 / (EA)          $15.06 USD     $180.72 USD
+                                      Gloves,7,40LL78,PR
+   Line No.    PO Line No.         Type   Supplier Part No. /             Customer Part No.        Quantity            Unit Price
+                                                                                                                        Subtotal
+                                      Description                                       (UOM)
+   8        8                 Material  1FYX7 /
+                                                                                      24 / (EA)           $0.91 USD      $21.84 USD
+                                      SafetyGlasses,Clear,AntiFog,ScrtchRsstnt
+                                                                             Amount Summary
+                                                                             Line item subtotal                          $718.81 USD
+                                                                             Gross amount                             $782.60 USD
+                                                                             Net amount
+                                                                                                                    $782.60 USD
+                                                                             Total tax amount
+                                                                                                                     $63.79 USD
+                                                                             Total withholding tax amount
+                                                                             Amount Due                              $782.60 USD
+    Additional Information
+    InvoiceSourceDocument
+    PurchaseOrder
+    InvoiceSubmissionMethod
+   cXML
+   Billing Information                                                        Remittance Information
+   Bill To                                                                Remit To
+   Frito-Lay Inc.                                                            GRAINGER
+   c/o PEPSICO NASS                                                      DEPT. 820208205
+   ACCOUNTS PAYABLES                                                   PALATINE
+   PO BOX 1800
+                                                                        IL
+   Winston Salem
+                                                                        60038-0001
+   NC
+                                                                        United States
+   27105
+                                                                        Address ID: US1_10359
+   United States
+   Address ID: US28                                                        Tax ID of Supplier
+                                                                        36-1150280
+                                                                     Reference Documents
+                                                                     Original Supplier Order #: 1575649971
+==================================<Page 1 - END>================================
+==================================<Page 2 - START>================================
+  Appendix
+  Line No.
+             PO Line No. Type
+                                                        Supplier Part No. / Description
+  1
+             1         Material
+                                                        11C672 / EMT Utility Scissors,Blue,7-1/4 L
+  Additional Details:
+  Supplier Part ID : 11C672
+  Supplier Part Auxiliary ID : WWG11C672
+ Line No.    PO Line No. Type
+                                                        Supplier Part No. / Description
+  2          2         Material
+                                                        806T74 / VF,Cut Rstnt Gloves,Gry/Ylw,9,40LL58,PR
+  Additional Details:
+  Supplier Part ID : 806T74
+  Supplier Part Auxiliary ID : WWG806T74
+ Line No.
+             PO Line No. Type                           Supplier Part No. / Description
+  3          3         Material
+                                                        6XKD2 / Safety Glasses, Clear, Clear
+  Additional Details:
+  Supplier Part ID : 6XKD2
+ Supplier Part Auxiliary ID : WWG6XKD2
+ Line No.    PO Line No. Type                            Supplier Part No. / Description
+                       Material
+ 4         4                                          24U136 / Mechanics Gloves,L/9,9,PR
+ Additional Details:
+ Supplier Part ID : 24U136
+ Supplier Part Auxiliary ID : WWG24U136
+ Line No.    PO Line No. Type                            Supplier Part No. / Description
+                       Material
+ 5         5                                          4VCD5 / SafetyGlasses,Clr,AntiFog,Slvr
+Additional Details:
+Supplier Part ID : 4VCD5
+Supplier Part Auxiliary ID : WWG4VCD5
+            PO Line No. Type
+Line No.                                                Supplier Part No. / Description
+                       Material
+6         6                                          806T73 / VF,Cut Rstnt Gloves,Gry/Ylw,8,40LL55,PR
+Additional Details:
+Supplier Part ID : 806T73
+Supplier Part Auxiliary ID : WWG806T73
+Line No.    PO Line No. Type                            Supplier Part No. / Description
+7
+            7         Material                          806T72 / VF,Cut-Resistant Gloves,7,40LL78,PR
+Additional Details:
+Supplier Part ID : 806T72
+Supplier Part Auxiliary ID : WWG806T72
+Line No.
+            PO Line No. Type                            Supplier Part No. / Description
+8
+            8         Material                          1FYX7 / SafetyGlasses,Clear,AntiFog,ScrtchRsstnt
+Additional Details:
+Supplier Part ID : 1FYX7
+Supplier Part Auxiliary ID : WWG1FYX7
+PDF generated on Friday 13 Feb 2026 5:23 AM GMT-08:00
+==================================<Page 2 - END>================================
+==================================<Page 3 - START>================================
+Standard Invoice
+                                                                                                                     GRAINGER
+Original tax invoice has been submitted electronically. This is a
+human readable representation (copy) of the original tax invoice.
+                                                                                                                   980658640126
+                                                                 Invoice Number
+                                                                 (Supplier Reference No.)
+                                                                 Invoice Date                    Thursday 12 Feb 2026 5:32 AM GMT-07:00
+                                                                                                                    $782.60 USD
+                                                                 Amount Due
+     Contact Information                                                        Shipping Information
+     Supplier                      Customer                                                               Ship To
+                                                                           Ship From
+     Grainger                      Frito-Lay Inc.                                Grainger                       US-PL-MODESTO-CA-FLI
+     100 Grainger Pkwy               c/o PEPSICO NASS                           2710 KEYSTONE PACIFIC          CAFE VENDING
+     Lake Forest                    ACCOUNTS PAYABLES                       PARKWAY                     600 GARNER RD
+     IL                          PO BOX 1800                               PATTERSON                    MODESTO
+     Winst                        Winston Salem                              CA                           CA
+      United States                  NC                                      95363                         95357
+                                  27105                                    United States                    United States
+                                  United States                                                            Phone: (209) 544-5400
+                                                                                                                PO Date : 12 Feb 2026
+   Line Items                                              PO No. : M413555623
+                                                                                                         Unit Price         Subtotal
+    Line No.    PO Line No.         Type   Supplier Part No. /             Customer Part No.        Quantity
+                                                                                       (UOM)
+                                        Description
+                                      11C672 / EMT Utility                                 12 / (EA)           $4.25 USD       $51.00 USD
+    1        1                 Material
+                                        Scissors,Blue,7-1/4 L
+                                Type   Supplier Part No. /             Customer Part No.        Quantity            Unit Price         Subtotal
+    Line No.    PO Line No.
+                                        Description                                       (UOM)
+    2        2                 Material 806T74 / VF,Cut Rstnt Gloves,Gry/                       12 / (EA)          $15.09 USD      $181.08 USD
+                                        YIw.9.40LL58.PR
+                                                                                      Quantity            Unit Price         Subtotal
+    Line No.   PO Line No.         Type    Supplier Part No. /             Customer Part No.
+                                        Description                                       (UOM)
+                                Material 6XKD2 / Safety Glasses, Clear.                          36 / (EA)           $1.45 USD       $52.20 USD
+    3        3
+                                       Clear
+    Line No.    PO Line No.         Type   Supplier Part No. /             Customer Part No.        Quantity            Unit Price         Subtotal
+                                       Description                                       (UOM)
+                                Material 24U136 / Mechanics                                 1 / (EA)           $13.93 USD      $13.93 USD
+    4        4
+                                       Gloves,L/9,9,PR
+              PO Line No.         Type   Supplier Part No. /             Customer Part No.        Quantity            Unit Price         Subtotal
+    Line No.
+                                        Description                                       (UOM)
+    5        5                Material  4VCD5 /                                         12 / (EA)           $3.11 USD      $37.32 USD
+                                       SafetyGlasses,Clr.AntiFog.Slvr
+                                Type   Supplier Part No. /             Customer Part No.        Quantity            Unit Price         Subtotal
+    Line No.   PO Line No.
+                                       Description                                       (UOM)
+    6        6                 Material 806T73 / VF,Cut Rstnt Gloves,Gry/                       12 / (EA)          $15.06 USD      $180.72 USD
+                                       Ylw,8,40LL55.PR
+    Line No.    PO Line No.         Type   Supplier Part No. /             Customer Part No.        Quantity            Unit Price         Subtotal
+                                       Description
+                                                                                      (UOM)
+    7        7                 Material 806T72 / VF,Cut-Resistant
+                                                                                      12 / (EA)          $15.06 USD     $180.72 USD
+                                       Gloves,7,40LL78,PR
+    Line No.    PO Line No.         Type   Supplier Part No. /             Customer Part No.        Quantity            Unit Price
+                                                                                                                         Subtotal
+                                       Description                                       (UOM)
+    8        8                 Material  1FYX7 /
+                                                                                      24 / (EA)           $0.91 USD      $21.84 USD
+                                       SafetyGlasses,Clear,AntiFog,ScrtchRsstnt
+                                                                              Amount Summary
+                                                                              Line item subtotal                          $718.81 USD
+                                                                              Gross amount                             $782.60 USD
+                                                                              Net amount
+                                                                                                                     $782.60 USD
+                                                                              Total tax amount
+                                                                                                                      $63.79 USD
+                                                                              Total withholding tax amount
+                                                                              Amount Due                              $782.60 USD
+     Additional Information
+     InvoiceSourceDocument
+     PurchaseOrder
+    InvoiceSubmissionMethod
+    cXML
+    Billing Information                                                        Remittance Information
+    Bill To                                                                Remit To
+    Frito-Lay Inc.                                                            GRAINGER
+    c/o PEPSICO NASS                                                      DEPT. 820208205
+    ACCOUNTS PAYABLES                                                   PALATINE
+    PO BOX 1800
+                                                                         IL
+    Winston Salem
+                                                                         60038-0001
+    NC
+                                                                         United States
+    27105
+                                                                         Address ID: US1_10359
+    United States
+    Address ID: US28                                                        Tax ID of Supplier
+                                                                         36-1150280
+                                                                      Reference Documents
+                                                                      Original Supplier Order #: 1575649971
+==================================<Page 3 - END>================================
+==================================<Page 4 - START>================================
+  Appendix
+  Line No.
+             PO Line No. Type
+                                                        Supplier Part No. / Description
+  1
+             1         Material
+                                                        11C672 / EMT Utility Scissors,Blue,7-1/4 L
+  Additional Details:
+  Supplier Part ID : 11C672
+  Supplier Part Auxiliary ID : WWG11C672
+ Line No.    PO Line No. Type
+                                                        Supplier Part No. / Description
+  2          2         Material
+                                                        806T74 / VF,Cut Rstnt Gloves,Gry/Ylw,9,40LL58,PR
+  Additional Details:
+  Supplier Part ID : 806T74
+  Supplier Part Auxiliary ID : WWG806T74
+ Line No.
+             PO Line No. Type                           Supplier Part No. / Description
+  3          3         Material
+                                                        6XKD2 / Safety Glasses, Clear, Clear
+  Additional Details:
+  Supplier Part ID : 6XKD2
+ Supplier Part Auxiliary ID : WWG6XKD2
+ Line No.    PO Line No. Type                            Supplier Part No. / Description
+                       Material
+ 4         4                                          24U136 / Mechanics Gloves,L/9,9,PR
+ Additional Details:
+ Supplier Part ID : 24U136
+ Supplier Part Auxiliary ID : WWG24U136
+ Line No.    PO Line No. Type                            Supplier Part No. / Description
+                       Material
+ 5         5                                          4VCD5 / SafetyGlasses,Clr,AntiFog,Slvr
+Additional Details:
+Supplier Part ID : 4VCD5
+Supplier Part Auxiliary ID : WWG4VCD5
+            PO Line No. Type
+Line No.                                                Supplier Part No. / Description
+                       Material
+6         6                                          806T73 / VF,Cut Rstnt Gloves,Gry/Ylw,8,40LL55,PR
+Additional Details:
+Supplier Part ID : 806T73
+Supplier Part Auxiliary ID : WWG806T73
+Line No.    PO Line No. Type                            Supplier Part No. / Description
+7
+            7         Material                          806T72 / VF,Cut-Resistant Gloves,7,40LL78,PR
+Additional Details:
+Supplier Part ID : 806T72
+Supplier Part Auxiliary ID : WWG806T72
+Line No.
+            PO Line No. Type                            Supplier Part No. / Description
+8
+            8         Material                          1FYX7 / SafetyGlasses,Clear,AntiFog,ScrtchRsstnt
+Additional Details:
+Supplier Part ID : 1FYX7
+Supplier Part Auxiliary ID : WWG1FYX7
+PDF generated on Friday 13 Feb 2026 5:23 AM GMT-08:00
+==================================<Page 4 - END>================================
+==================================<Page 5 - START>================================
+Standard Invoice
+                                                                                                                     GRAINGER
+Original tax invoice has been submitted electronically. This is a
+human readable representation (copy) of the original tax invoice.
+                                                                                                                   980658640126
+                                                                 Invoice Number
+                                                                 (Supplier Reference No.)
+                                                                 Invoice Date                    Thursday 12 Feb 2026 5:32 AM GMT-07:00
+                                                                                                                    $782.60 USD
+                                                                 Amount Due
+     Contact Information                                                        Shipping Information
+     Supplier                      Customer                                                               Ship To
+                                                                           Ship From
+     Grainger                      Frito-Lay Inc.                                Grainger                       US-PL-MODESTO-CA-FLI
+     100 Grainger Pkwy               c/o PEPSICO NASS                           2710 KEYSTONE PACIFIC          CAFE VENDING
+     Lake Forest                    ACCOUNTS PAYABLES                       PARKWAY                     600 GARNER RD
+     IL                          PO BOX 1800                               PATTERSON                    MODESTO
+     Winst                        Winston Salem                              CA                           CA
+      United States                  NC                                      95363                         95357
+                                  27105                                    United States                    United States
+                                  United States                                                            Phone: (209) 544-5400
+                                                                                                                PO Date : 12 Feb 2026
+   Line Items                                              PO No. : M413555623
+                                                                                                         Unit Price         Subtotal
+    Line No.    PO Line No.         Type   Supplier Part No. /             Customer Part No.        Quantity
+                                                                                       (UOM)
+                                        Description
+                                      11C672 / EMT Utility                                 12 / (EA)           $4.25 USD       $51.00 USD
+    1        1                 Material
+                                        Scissors,Blue,7-1/4 L
+                                Type   Supplier Part No. /             Customer Part No.        Quantity            Unit Price         Subtotal
+    Line No.    PO Line No.
+                                        Description                                       (UOM)
+    2        2                 Material 806T74 / VF,Cut Rstnt Gloves,Gry/                       12 / (EA)          $15.09 USD      $181.08 USD
+                                        YIw.9.40LL58.PR
+                                                                                      Quantity            Unit Price         Subtotal
+    Line No.   PO Line No.         Type    Supplier Part No. /             Customer Part No.
+                                        Description                                       (UOM)
+                                Material 6XKD2 / Safety Glasses, Clear.                          36 / (EA)           $1.45 USD       $52.20 USD
+    3        3
+                                       Clear
+    Line No.    PO Line No.         Type   Supplier Part No. /             Customer Part No.        Quantity            Unit Price         Subtotal
+                                       Description                                       (UOM)
+                                Material 24U136 / Mechanics                                 1 / (EA)           $13.93 USD      $13.93 USD
+    4        4
+                                       Gloves,L/9,9,PR
+              PO Line No.         Type   Supplier Part No. /             Customer Part No.        Quantity            Unit Price         Subtotal
+    Line No.
+                                        Description                                       (UOM)
+    5        5                Material  4VCD5 /                                         12 / (EA)           $3.11 USD      $37.32 USD
+                                       SafetyGlasses,Clr.AntiFog.Slvr
+                                Type   Supplier Part No. /             Customer Part No.        Quantity            Unit Price         Subtotal
+    Line No.   PO Line No.
+                                       Description                                       (UOM)
+    6        6                 Material 806T73 / VF,Cut Rstnt Gloves,Gry/                       12 / (EA)          $15.06 USD      $180.72 USD
+                                       Ylw,8,40LL55.PR
+    Line No.    PO Line No.         Type   Supplier Part No. /             Customer Part No.        Quantity            Unit Price         Subtotal
+                                       Description
+                                                                                      (UOM)
+    7        7                 Material 806T72 / VF,Cut-Resistant
+                                                                                      12 / (EA)          $15.06 USD     $180.72 USD
+                                       Gloves,7,40LL78,PR
+    Line No.    PO Line No.         Type   Supplier Part No. /             Customer Part No.        Quantity            Unit Price
+                                                                                                                         Subtotal
+                                       Description                                       (UOM)
+    8        8                 Material  1FYX7 /
+                                                                                      24 / (EA)           $0.91 USD      $21.84 USD
+                                       SafetyGlasses,Clear,AntiFog,ScrtchRsstnt
+                                                                              Amount Summary
+                                                                              Line item subtotal                          $718.81 USD
+                                                                              Gross amount                             $782.60 USD
+                                                                              Net amount
+                                                                                                                     $782.60 USD
+                                                                              Total tax amount
+                                                                                                                      $63.79 USD
+                                                                              Total withholding tax amount
+                                                                              Amount Due                              $782.60 USD
+     Additional Information
+     InvoiceSourceDocument
+     PurchaseOrder
+    InvoiceSubmissionMethod
+    cXML
+    Billing Information                                                        Remittance Information
+    Bill To                                                                Remit To
+    Frito-Lay Inc.                                                            GRAINGER
+    c/o PEPSICO NASS                                                      DEPT. 820208205
+    ACCOUNTS PAYABLES                                                   PALATINE
+    PO BOX 1800
+                                                                         IL
+    Winston Salem
+                                                                         60038-0001
+    NC
+                                                                         United States
+    27105
+                                                                         Address ID: US1_10359
+    United States
+    Address ID: US28                                                        Tax ID of Supplier
+                                                                         36-1150280
+                                                                      Reference Documents
+                                                                      Original Supplier Order #: 1575649971
+==================================<Page 5 - END>================================
+==================================<Page 6 - START>================================
+  Appendix
+  Line No.
+             PO Line No. Type
+                                                        Supplier Part No. / Description
+  1
+             1         Material
+                                                        11C672 / EMT Utility Scissors,Blue,7-1/4 L
+  Additional Details:
+  Supplier Part ID : 11C672
+  Supplier Part Auxiliary ID : WWG11C672
+ Line No.    PO Line No. Type
+                                                        Supplier Part No. / Description
+  2          2         Material
+                                                        806T74 / VF,Cut Rstnt Gloves,Gry/Ylw,9,40LL58,PR
+  Additional Details:
+  Supplier Part ID : 806T74
+  Supplier Part Auxiliary ID : WWG806T74
+ Line No.
+             PO Line No. Type                           Supplier Part No. / Description
+  3          3         Material
+                                                        6XKD2 / Safety Glasses, Clear, Clear
+  Additional Details:
+  Supplier Part ID : 6XKD2
+ Supplier Part Auxiliary ID : WWG6XKD2
+ Line No.    PO Line No. Type                            Supplier Part No. / Description
+                       Material
+ 4         4                                          24U136 / Mechanics Gloves,L/9,9,PR
+ Additional Details:
+ Supplier Part ID : 24U136
+ Supplier Part Auxiliary ID : WWG24U136
+ Line No.    PO Line No. Type                            Supplier Part No. / Description
+                       Material
+ 5         5                                          4VCD5 / SafetyGlasses,Clr,AntiFog,Slvr
+Additional Details:
+Supplier Part ID : 4VCD5
+Supplier Part Auxiliary ID : WWG4VCD5
+            PO Line No. Type
+Line No.                                                Supplier Part No. / Description
+                       Material
+6         6                                          806T73 / VF,Cut Rstnt Gloves,Gry/Ylw,8,40LL55,PR
+Additional Details:
+Supplier Part ID : 806T73
+Supplier Part Auxiliary ID : WWG806T73
+Line No.    PO Line No. Type                            Supplier Part No. / Description
+7
+            7         Material                          806T72 / VF,Cut-Resistant Gloves,7,40LL78,PR
+Additional Details:
+Supplier Part ID : 806T72
+Supplier Part Auxiliary ID : WWG806T72
+Line No.
+            PO Line No. Type                            Supplier Part No. / Description
+8
+            8         Material                          1FYX7 / SafetyGlasses,Clear,AntiFog,ScrtchRsstnt
+Additional Details:
+Supplier Part ID : 1FYX7
+Supplier Part Auxiliary ID : WWG1FYX7
+PDF generated on Friday 13 Feb 2026 5:23 AM GMT-08:00
+==================================<Page 6 - END>================================

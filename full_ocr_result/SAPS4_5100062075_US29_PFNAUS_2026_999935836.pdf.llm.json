@@ -1,0 +1,39 @@
+{
+  "invoice_data": {
+    "invoice_number": "1798",
+    "invoice_date": "12/01/2025",
+    "invoice_amount": null,
+    "invoice_currency": null,
+    "tax_amount": null,
+    "po_number": null,
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "J&J Snow Solutions LLC",
+    "vendor_address": "809 Stone Rd, Falconer, NY 14733 US",
+    "po_line_items": null,
+    "vat_amount": null,
+    "gl_account": null,
+    "bank_name": null,
+    "account_holder_name": null,
+    "banking_account_number": null,
+    "remit_to_address": null,
+    "bill_to_address": null,
+    "transaction_type": "debit"
+  },
+  "filename": "SAPS4_5100062075_US29_PFNAUS_2026_999935836.pdf",
+  "raw_response": {
+    "invoice_number": "1798",
+    "invoice_date": "12/01/2025",
+    "invoice_amount": null,
+    "invoice_currency": null,
+    "tax_amount": null,
+    "po_number": null,
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "J&J Snow Solutions LLC",
+    "vendor_address": "809 Stone Rd, Falconer, NY 14733 US",
+    "po_line_items": null
+  }
+}

@@ -1,0 +1,117 @@
+{
+  "invoice_data": {
+    "invoice_number": "0000067887",
+    "invoice_date": "11/20/2025",
+    "invoice_amount": null,
+    "invoice_currency": null,
+    "tax_amount": null,
+    "po_number": [
+      "M413540259",
+      "M413449059"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "Motive Energy of Texas, LLC",
+    "vendor_address": "1120 Bammel Road, Houston, TX 77073 USA",
+    "po_line_items": [
+      {
+        "description": "2/0 RED CABLE UL 3311",
+        "quantity": 66.0,
+        "net_price": null
+      },
+      {
+        "description": "2/0 RED 6.00 FT",
+        "quantity": 6.0,
+        "net_price": 11.0
+      },
+      {
+        "description": "2/0 BLACK CABLE UL 3311 6.00 FT",
+        "quantity": 6.0,
+        "net_price": 11.0
+      },
+      {
+        "description": "SB350_CNT 2/0 SET OF TWO, TIP",
+        "quantity": 1.0,
+        "net_price": 17.0
+      },
+      {
+        "description": "SB350_HSG_GRAY (ANDERSON)",
+        "quantity": 1.0,
+        "net_price": 14.96
+      },
+      {
+        "description": "K-1800TB5-B 36-V, LOW PRO SYSTEM, BLUE QC, #50",
+        "quantity": 1.0,
+        "net_price": 354.0
+      },
+      {
+        "description": "SS-100U90 (BLACK) UNIVERSAL SINGLE 90deg TERM SHROUD,300cs",
+        "quantity": 1.0,
+        "net_price": 6.25
+      }
+    ],
+    "vat_amount": null,
+    "gl_account": null,
+    "bank_name": null,
+    "account_holder_name": null,
+    "banking_account_number": null,
+    "remit_to_address": null,
+    "bill_to_address": null,
+    "transaction_type": "debit"
+  },
+  "filename": "SAPS4_5100316504_US29_PFNAUS_2026_999885106.pdf",
+  "raw_response": {
+    "invoice_number": "0000067887",
+    "invoice_date": "11/20/2025",
+    "invoice_amount": null,
+    "invoice_currency": null,
+    "tax_amount": null,
+    "po_number": [
+      "M413540259",
+      "M413449059"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "Motive Energy of Texas, LLC",
+    "vendor_address": "1120 Bammel Road, Houston, TX 77073 USA",
+    "po_line_items": [
+      {
+        "description": "2/0 RED CABLE UL 3311",
+        "quantity": 66.0,
+        "net_price": null
+      },
+      {
+        "description": "2/0 RED 6.00 FT",
+        "quantity": 6.0,
+        "net_price": 11.0
+      },
+      {
+        "description": "2/0 BLACK CABLE UL 3311 6.00 FT",
+        "quantity": 6.0,
+        "net_price": 11.0
+      },
+      {
+        "description": "SB350_CNT 2/0 SET OF TWO, TIP",
+        "quantity": 1.0,
+        "net_price": 17.0
+      },
+      {
+        "description": "SB350_HSG_GRAY (ANDERSON)",
+        "quantity": 1.0,
+        "net_price": 14.96
+      },
+      {
+        "description": "K-1800TB5-B 36-V, LOW PRO SYSTEM, BLUE QC, #50",
+        "quantity": 1.0,
+        "net_price": 354.0
+      },
+      {
+        "description": "SS-100U90 (BLACK) UNIVERSAL SINGLE 90deg TERM SHROUD,300cs",
+        "quantity": 1.0,
+        "net_price": 6.25
+      }
+    ]
+  }
+}

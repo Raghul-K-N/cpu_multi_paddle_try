@@ -1,0 +1,59 @@
+{
+  "invoice_data": {
+    "invoice_number": "708972",
+    "invoice_date": "Thursdav 12 Feb 2026 12:00 PM GMT-06:00",
+    "invoice_amount": "2377.48",
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": "88.96",
+    "po_number": [
+      "M413540639"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": "32.52",
+    "cost_center": null,
+    "vendor_name": "Urschel Laboratories, Inc.",
+    "vendor_address": "1200 Cutting Edge Drive, Chesterton, IN 46304, United States\nAddress ID: US28",
+    "po_line_items": [
+      {
+        "description": "34392 / KNIFE HOLDER, SLICE, 170V. QC. FRITO",
+        "quantity": 16.0,
+        "net_price": 2256.0
+      }
+    ],
+    "vat_amount": null,
+    "gl_account": null,
+    "bank_name": null,
+    "account_holder_name": null,
+    "banking_account_number": null,
+    "remit_to_address": null,
+    "bill_to_address": null,
+    "transaction_type": "debit"
+  },
+  "filename": "SAPS4_5100185566_US28_PFNAUS_2026_999872686.pdf",
+  "raw_response": {
+    "invoice_number": "708972",
+    "invoice_date": "Thursdav 12 Feb 2026 12:00 PM GMT-06:00",
+    "invoice_amount": "2377.48",
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": "88.96",
+    "po_number": [
+      "M413540639"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": "32.52",
+    "cost_center": null,
+    "vendor_name": "Urschel Laboratories, Inc.",
+    "vendor_address": "1200 Cutting Edge Drive, Chesterton, IN 46304, United States\nAddress ID: US28",
+    "po_line_items": [
+      {
+        "description": "34392 / KNIFE HOLDER, SLICE, 170V. QC. FRITO",
+        "quantity": 16.0,
+        "net_price": 2256.0
+      }
+    ]
+  }
+}

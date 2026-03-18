@@ -1,0 +1,71 @@
+{
+  "invoice_data": {
+    "invoice_number": "DP14225AR",
+    "invoice_date": "01/21/2026",
+    "invoice_amount": null,
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": null,
+    "po_number": [
+      "4505051255",
+      "5209"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "Adaptive Resources Inc",
+    "vendor_address": "2021 Commerce Drive, McKinney TX 75069",
+    "po_line_items": [
+      {
+        "description": "CMPTR;INDL PNL,32GB,800 X 600 PIXELS,8IN",
+        "quantity": 1.0,
+        "net_price": 2677.88
+      },
+      {
+        "description": "Shipping",
+        "quantity": null,
+        "net_price": 72.61
+      }
+    ],
+    "vat_amount": null,
+    "gl_account": null,
+    "bank_name": null,
+    "account_holder_name": null,
+    "banking_account_number": null,
+    "remit_to_address": null,
+    "bill_to_address": null,
+    "transaction_type": "debit"
+  },
+  "filename": "SAPS4_5101887503_US28_PFNAUS_2026_999875672.pdf",
+  "raw_response": {
+    "invoice_number": "DP14225AR",
+    "invoice_date": "01/21/2026",
+    "invoice_amount": null,
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": null,
+    "po_number": [
+      "4505051255",
+      "5209"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "Adaptive Resources Inc",
+    "vendor_address": "2021 Commerce Drive, McKinney TX 75069",
+    "po_line_items": [
+      {
+        "description": "CMPTR;INDL PNL,32GB,800 X 600 PIXELS,8IN",
+        "quantity": 1.0,
+        "net_price": 2677.88
+      },
+      {
+        "description": "Shipping",
+        "quantity": null,
+        "net_price": 72.61
+      }
+    ]
+  }
+}

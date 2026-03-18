@@ -1,0 +1,101 @@
+{
+  "invoice_data": {
+    "invoice_number": "3010754705",
+    "invoice_date": "02/10/2026",
+    "invoice_amount": "20.13",
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": null,
+    "po_number": [
+      "M411539715",
+      "N92695-FRITO"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": "0.00",
+    "cost_center": null,
+    "vendor_name": "VESTIS",
+    "vendor_address": "311 MAIN STREET, BOYLSTON MA 01505",
+    "po_line_items": [
+      {
+        "description": "DM0001NAVY MAT NYLON/RUBBER 4X6 Rent",
+        "quantity": 5.0,
+        "net_price": 1.661
+      },
+      {
+        "description": "DM0001NAVY MAT NYLON/RUBBER 3X4 Rent",
+        "quantity": 0.826,
+        "net_price": 0.83
+      },
+      {
+        "description": "DP0002GREN DUST MOP ENVELOPE 48 Rent",
+        "quantity": 1.0,
+        "net_price": 0.718
+      },
+      {
+        "description": "TS0002REDD SHOP TOWEL PLAIN 18X18 Rent",
+        "quantity": 250.0,
+        "net_price": 0.021
+      },
+      {
+        "description": "XX0257BLAK LNDRY BAG ERGO Rent",
+        "quantity": 0.0,
+        "net_price": 0.0
+      }
+    ],
+    "vat_amount": null,
+    "gl_account": null,
+    "bank_name": null,
+    "account_holder_name": null,
+    "banking_account_number": null,
+    "remit_to_address": null,
+    "bill_to_address": null,
+    "transaction_type": "debit"
+  },
+  "filename": "SAPS4_5100069556_US29_PFNAUS_2026_999884473.pdf",
+  "raw_response": {
+    "invoice_number": "3010754705",
+    "invoice_date": "02/10/2026",
+    "invoice_amount": "20.13",
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": null,
+    "po_number": [
+      "M411539715",
+      "N92695-FRITO"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": "0.00",
+    "cost_center": null,
+    "vendor_name": "VESTIS",
+    "vendor_address": "311 MAIN STREET, BOYLSTON MA 01505",
+    "po_line_items": [
+      {
+        "description": "DM0001NAVY MAT NYLON/RUBBER 4X6 Rent",
+        "quantity": 5.0,
+        "net_price": 1.661
+      },
+      {
+        "description": "DM0001NAVY MAT NYLON/RUBBER 3X4 Rent",
+        "quantity": 0.826,
+        "net_price": 0.83
+      },
+      {
+        "description": "DP0002GREN DUST MOP ENVELOPE 48 Rent",
+        "quantity": 1.0,
+        "net_price": 0.718
+      },
+      {
+        "description": "TS0002REDD SHOP TOWEL PLAIN 18X18 Rent",
+        "quantity": 250.0,
+        "net_price": 0.021
+      },
+      {
+        "description": "XX0257BLAK LNDRY BAG ERGO Rent",
+        "quantity": 0.0,
+        "net_price": 0.0
+      }
+    ]
+  }
+}

@@ -1,0 +1,75 @@
+{
+  "invoice_data": {
+    "invoice_number": "0032498418",
+    "invoice_date": "February 3, 2026",
+    "invoice_amount": "252.51",
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": "29.05",
+    "po_number": null,
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "PENSKE TRUCK LEASING CANADA, INC.",
+    "vendor_address": "P.O. BOX 7476, POSTAL STATION A, TORONTO, ON M5W 3C1",
+    "po_line_items": [
+      {
+        "description": "SYSTEM",
+        "quantity": 1.0,
+        "net_price": 190.0
+      },
+      {
+        "description": "AIR FILTER, CABIN HEATER",
+        "quantity": 1.0,
+        "net_price": 18.26
+      },
+      {
+        "description": "Shop Supplies",
+        "quantity": null,
+        "net_price": 15.2
+      }
+    ],
+    "vat_amount": null,
+    "gl_account": null,
+    "bank_name": null,
+    "account_holder_name": null,
+    "banking_account_number": null,
+    "remit_to_address": null,
+    "bill_to_address": null,
+    "transaction_type": "debit"
+  },
+  "filename": "SAPS4_5100258011_CA11_PFNACA_2026_304667625.pdf",
+  "raw_response": {
+    "invoice_number": "0032498418",
+    "invoice_date": "February 3, 2026",
+    "invoice_amount": "252.51",
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": "29.05",
+    "po_number": null,
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "PENSKE TRUCK LEASING CANADA, INC.",
+    "vendor_address": "P.O. BOX 7476, POSTAL STATION A, TORONTO, ON M5W 3C1",
+    "po_line_items": [
+      {
+        "description": "SYSTEM",
+        "quantity": 1.0,
+        "net_price": 190.0
+      },
+      {
+        "description": "AIR FILTER, CABIN HEATER",
+        "quantity": 1.0,
+        "net_price": 18.26
+      },
+      {
+        "description": "Shop Supplies",
+        "quantity": null,
+        "net_price": 15.2
+      }
+    ]
+  }
+}

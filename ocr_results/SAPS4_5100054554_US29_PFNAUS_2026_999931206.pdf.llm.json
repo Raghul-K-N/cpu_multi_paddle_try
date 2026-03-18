@@ -1,0 +1,95 @@
+{
+  "invoice_data": {
+    "invoice_number": "138419CS",
+    "invoice_date": "03/24/2025",
+    "invoice_amount": null,
+    "invoice_currency": null,
+    "tax_amount": null,
+    "po_number": [
+      "Frito Lay - 40731M08"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "PACCAR Parts Fleet Services",
+    "vendor_address": "P.O. Box 731165, Dallas, TX 75373-1165, USA",
+    "po_line_items": [
+      {
+        "description": "HINGE DOOR",
+        "quantity": 1.0,
+        "net_price": 76.5
+      },
+      {
+        "description": "HINGE DOOR",
+        "quantity": 1.0,
+        "net_price": 81.05
+      },
+      {
+        "description": "DOOR CHECK ASSY",
+        "quantity": 1.0,
+        "net_price": 35.21
+      },
+      {
+        "description": "FREIGHT",
+        "quantity": 1.0,
+        "net_price": 113.77
+      },
+      {
+        "description": "91 AVALARA",
+        "quantity": 1.0,
+        "net_price": 0.0
+      }
+    ],
+    "vat_amount": null,
+    "gl_account": null,
+    "bank_name": null,
+    "account_holder_name": null,
+    "banking_account_number": null,
+    "remit_to_address": null,
+    "bill_to_address": null,
+    "transaction_type": "debit"
+  },
+  "filename": "SAPS4_5100054554_US29_PFNAUS_2026_999931206.pdf",
+  "raw_response": {
+    "invoice_number": "138419CS",
+    "invoice_date": "03/24/2025",
+    "invoice_amount": null,
+    "invoice_currency": null,
+    "tax_amount": null,
+    "po_number": [
+      "Frito Lay - 40731M08"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "PACCAR Parts Fleet Services",
+    "vendor_address": "P.O. Box 731165, Dallas, TX 75373-1165, USA",
+    "po_line_items": [
+      {
+        "description": "HINGE DOOR",
+        "quantity": 1.0,
+        "net_price": 76.5
+      },
+      {
+        "description": "HINGE DOOR",
+        "quantity": 1.0,
+        "net_price": 81.05
+      },
+      {
+        "description": "DOOR CHECK ASSY",
+        "quantity": 1.0,
+        "net_price": 35.21
+      },
+      {
+        "description": "FREIGHT",
+        "quantity": 1.0,
+        "net_price": 113.77
+      },
+      {
+        "description": "91 AVALARA",
+        "quantity": 1.0,
+        "net_price": 0.0
+      }
+    ]
+  }
+}

@@ -1,0 +1,47 @@
+{
+  "invoice_data": {
+    "invoice_number": "5752278240",
+    "invoice_date": "January 08, 2026",
+    "invoice_amount": "131.25",
+    "invoice_currency": [
+      "CAD"
+    ],
+    "tax_amount": null,
+    "po_number": [
+      "M413437597"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": "111.88",
+    "cost_center": null,
+    "vendor_name": "UPS Canada Ltd.",
+    "vendor_address": "JPMorgan Chase, Toronto",
+    "po_line_items": null,
+    "vat_amount": null,
+    "gl_account": null,
+    "bank_name": null,
+    "account_holder_name": null,
+    "banking_account_number": null,
+    "remit_to_address": null,
+    "bill_to_address": null,
+    "transaction_type": "debit"
+  },
+  "filename": "SAPS4_5100263006_CA11_PFNACA_2026_304667638.pdf",
+  "raw_response": {
+    "invoice_number": "5752278240",
+    "invoice_date": "January 08, 2026",
+    "invoice_amount": "131.25",
+    "invoice_currency": [
+      "CAD"
+    ],
+    "tax_amount": null,
+    "po_number": [
+      "M413437597"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": "111.88",
+    "cost_center": null,
+    "vendor_name": "UPS Canada Ltd.",
+    "vendor_address": "JPMorgan Chase, Toronto",
+    "po_line_items": null
+  }
+}

@@ -1,0 +1,89 @@
+{
+  "invoice_data": {
+    "invoice_number": "T260111241",
+    "invoice_date": "02-01-2026",
+    "invoice_amount": null,
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": null,
+    "po_number": [
+      "M412447842"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "TFS, Ltd",
+    "vendor_address": "3292 Levis Commons Blvd., Perrysburg, OH 43551",
+    "po_line_items": [
+      {
+        "description": "January, 2026 Parts",
+        "quantity": 1.0,
+        "net_price": 893.04
+      },
+      {
+        "description": "January, 2026 Labor",
+        "quantity": 1.0,
+        "net_price": 1737.0
+      },
+      {
+        "description": "January, 2026 Travel",
+        "quantity": 1.0,
+        "net_price": 250.0
+      },
+      {
+        "description": "January, 2026 Tax",
+        "quantity": 1.0,
+        "net_price": 26.57
+      }
+    ],
+    "vat_amount": null,
+    "gl_account": null,
+    "bank_name": null,
+    "account_holder_name": null,
+    "banking_account_number": null,
+    "remit_to_address": null,
+    "bill_to_address": null,
+    "transaction_type": "debit"
+  },
+  "filename": "SAPS4_5101507000_US29_PFNAUS_2026_999884918.pdf",
+  "raw_response": {
+    "invoice_number": "T260111241",
+    "invoice_date": "02-01-2026",
+    "invoice_amount": null,
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": null,
+    "po_number": [
+      "M412447842"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "TFS, Ltd",
+    "vendor_address": "3292 Levis Commons Blvd., Perrysburg, OH 43551",
+    "po_line_items": [
+      {
+        "description": "January, 2026 Parts",
+        "quantity": 1.0,
+        "net_price": 893.04
+      },
+      {
+        "description": "January, 2026 Labor",
+        "quantity": 1.0,
+        "net_price": 1737.0
+      },
+      {
+        "description": "January, 2026 Travel",
+        "quantity": 1.0,
+        "net_price": 250.0
+      },
+      {
+        "description": "January, 2026 Tax",
+        "quantity": 1.0,
+        "net_price": 26.57
+      }
+    ]
+  }
+}

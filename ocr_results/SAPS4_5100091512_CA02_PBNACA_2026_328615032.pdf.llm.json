@@ -1,0 +1,47 @@
+{
+  "invoice_data": {
+    "invoice_number": "78254079",
+    "invoice_date": "31-Dec-2024",
+    "invoice_amount": "590.36",
+    "invoice_currency": [
+      "CAD"
+    ],
+    "tax_amount": "77.00",
+    "po_number": [
+      "M413538869"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "Air Liquide Canada Inc.",
+    "vendor_address": "280 JOHN ST, MONCTON, NB E1C 9W3",
+    "po_line_items": null,
+    "vat_amount": null,
+    "gl_account": null,
+    "bank_name": null,
+    "account_holder_name": null,
+    "banking_account_number": null,
+    "remit_to_address": null,
+    "bill_to_address": null,
+    "transaction_type": "debit"
+  },
+  "filename": "SAPS4_5100091512_CA02_PBNACA_2026_328615032.pdf",
+  "raw_response": {
+    "invoice_number": "78254079",
+    "invoice_date": "31-Dec-2024",
+    "invoice_amount": "590.36",
+    "invoice_currency": [
+      "CAD"
+    ],
+    "tax_amount": "77.00",
+    "po_number": [
+      "M413538869"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "Air Liquide Canada Inc.",
+    "vendor_address": "280 JOHN ST, MONCTON, NB E1C 9W3",
+    "po_line_items": null
+  }
+}

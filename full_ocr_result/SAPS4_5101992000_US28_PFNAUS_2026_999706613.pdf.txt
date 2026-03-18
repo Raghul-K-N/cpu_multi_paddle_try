@@ -1,0 +1,250 @@
+==================================<Page 1 - START>================================
+Standard Invoice
+                                                                                                                   GRAINGER
+Original tax invoice has been submitted electronically. This is a
+human readable representation (copy) of the original tax invoice.
+                                                                Invoice Number                                      980319153626
+                                                                (Supplier Reference No.)
+                                                                                              Tuesday 10 Feb 2026 3:28 AM GMT-07:00
+                                                                Invoice Date
+                                                                                                                  $226.46 USD
+                                                                Amount Due
+    Contact Information
+                                                                          Shipping Information
+    Supplier                      Customer
+                                                                          Ship From                     Ship To
+    Grainger
+                                 Frito-Lay Inc.                               Grainger                      US-PL-ABERDEEN-MD-FLI
+    100 Grainger Pkwy               c/o PEPSICO NASS                          400 BORDENTOWN-HEDDING       KEEPSTOCK WW LAB
+    Lake Forest                    ACCOUNTS PAYABLES                       RD                          800 HICKORY DR
+    IL                           PO BOX 1800                               BORDENTOWN                  ABERDEEN
+    Winst                        Winston Salem                              NJ                          MD
+    United States                  NC                                      08505                        21001
+                                 27105                                    United States                    United States
+                                 United States                                                            Phone: (410) 273-0822
+  Line Items                                              PO No. : M413549320                                      PO Date : 10 Feb 2026
+  Line No.    PO Line No.          Type    Supplier Part No. /             Customer Part No.        Quantity            Unit Price         Subtotal
+                                      Description                                       (UOM)
+   1
+            1                 Material 793EN8 / Red Buffer Solution,pH                         1 / (EA)           $25.65 USD      $25.65 USD
+                                      4.00.4L.Plastic
+  Line No.
+            PO Line No.          Type    Supplier Part No. /             Customer Part No.        Quantity            Unit Price         Subtotal
+                                      Description                                       (UOM)
+  2        2                 Material 793EP1 / Yellow Buffer Solution,pH                       1 / (EA)           $33.22 USD      $33.22 USD
+                                      7.00,4L,Plastc
+  Line No.    PO Line No.          Type   Supplier Part No. /             Customer Part No.        Quantity            Unit Price         Subtotal
+                                      Description                                       (UOM)
+                                                                                                      $14.50 USD      $14.50 USD
+  3        3                 Material 45TW63 / Cleaning Vinegar,1                           1 / (EA)
+                                      gal,Jug,PK4
+  Line No.                             Supplier Part No. /             Customer Part No.        Quantity            Unit Price         Subtotal
+            PO Line No.         Type
+                                      Description                                       (UOM)
+  4         4                 Material  41H893 / Germicidal                                 2 / (EA)          $26.83 USD      $53.66 USD
+                                      Bleach,Unscented,121 oz,PK3
+  Line No.    PO Line No.         Type    Supplier Part No. /             Customer Part No.        Quantity            Unit Price         Subtotal
+                                      Description                                       (UOM)
+                                                                                                      $33.22 USD      $33.22 USD
+  5        5                 Material 793EP6 / Blue Buffer Solution,pH                        1 / (EA)
+                                      10.00.4L.Plastic
+  Line No.                      Type    Supplier Part No. /                                  Quantity            Unit Price         Subtotal
+            PO Line No.                                            Customer Part No.
+                                      Description                                       (UOM)
+  6        6                 Material 33GY87 / VF,Cut Res                                12 / (EA)          $4.45 USD      $53.40 USD
+                                      Gloves,Gry,11,24L257,PR
+                                                                             Amount Summary
+                                                                             Line item subtotal                          $213.65 USD
+                                                                                                                    $226.46 USD
+                                                                             Gross amount
+                                                                             Net amount                              $226.46 USD
+                                                                             Total tax amount                           $12.81 USD
+                                                                             Total withholding tax amount
+                                                                                                                    $226.46 USD
+                                                                             Amount Due
+   Additional Information
+   InvoiceSourceDocument
+   PurchaseOrder
+   InvoiceSubmissionMethod
+   cXML
+                                                                         Remittance Information
+  Billing Information
+                                                                        Remit To
+  Bill To
+  Frito-Lay Inc.                                                            GRAINGER
+  c/o PEPSICO NASS                                                       DEPT. 828362913
+  ACCOUNTS PAYABLES                                                    PALATINE
+  PO BOX 1800                                                            IL
+  Winston Salem                                                           60038-0001
+  NC                                                                   United States
+  27105                                                                 Address ID: US1_10359
+  United States
+                                                                        Tax ID of Supplier
+  Address ID: US28
+                                                                        36-1150280
+                                                                     Reference Documents
+                                                                     Original Supplier Order #: 1575681990
+==================================<Page 1 - END>================================
+==================================<Page 2 - START>================================
+  Appendix
+ Line No.    PO Line No. Type
+                                                        Supplier Part No. / Description
+  1          1         Material
+                                                        793EN8 / Red Buffer Solution,pH 4.00,4L,Plastic
+  Additional Details:
+ Supplier Part ID : 793EN8
+ Supplier Part Auxiliary ID : WWG793EN8
+ Line No.    PO Line No. Type                           Supplier Part No. / Description
+ 2
+             2         Material                         793EP1 / Yellow Buffer Solution,pH 7.00,4L,Plastc
+ Additional Details:
+ Supplier Part ID : 793EP1
+ Supplier Part Auxiliary ID : WWG793EP1
+ Line No.    PO Line No. Type                           Supplier Part No. / Description
+ 3          3         Material                         45TW63 / Cleaning Vinegar,1 gal,Jug,PK4
+ Additional Details:
+ Supplier Part ID : 45TW63
+ Supplier Part Auxiliary ID : WWG45TW63
+ Line No.    PO Line No. Type                           Supplier Part No. / Description
+ 4         4          Material                         41H893 / Germicidal Bleach,Unscented,121 oz,PK3
+ Additional Details:
+Supplier Part ID : 41H893
+Supplier Part Auxiliary ID : WWG41H893
+Line No.    PO Line No. Type                           Supplier Part No. / Description
+5         5         Material                         793EP6 / Blue Buffer Solution,pH 10.00,4L,Plastic
+Additional Details:
+Supplier Part ID : 793EP6
+Supplier Part Auxiliary ID : WWG793EP6
+Line No.    PO Line No. Type                            Supplier Part No. / Description
+                      Material
+6         6                                         33GY87 / VF,Cut Res Gloves,Gry,11,24L257,PR
+Additional Details:
+Supplier Part ID : 33GY87
+Supplier Part Auxiliary ID : WWG33GY87
+PDF generated on Wednesday 11 Feb 2026 3:21 AM GMT-08:00
+==================================<Page 2 - END>================================
+==================================<Page 3 - START>================================
+ Standard Invoice
+                                                                                                                    GRAINGER
+ Original tax invoice has been submitted electronically. This is a
+ human readable representation (copy) of the original tax invoice.
+                                                                 Invoice Number                                      980319153626
+                                                                 (Supplier Reference No.)
+                                                                                               Tuesday 10 Feb 2026 3:28 AM GMT-07:00
+                                                                 Invoice Date
+                                                                                                                    $226.46 USD
+                                                                 Amount Due
+     Contact Information
+                                                                           Shipping Information
+     Supplier                      Customer
+                                                                           Ship From                     Ship To
+     Grainger
+                                  Frito-Lay Inc.                               Grainger                      US-PL-ABERDEEN-MD-FLI
+     100 Grainger Pkwy               c/o PEPSICO NASS                          400 BORDENTOWN-HEDDING       KEEPSTOCK WW LAB
+     Lake Forest                    ACCOUNTS PAYABLES                       RD                          800 HICKORY DR
+      IL                           PO BOX 1800                               BORDENTOWN                  ABERDEEN
+     Winst                        Winston Salem                              NJ                          MD
+      United States                  NC                                      08505                        21001
+                                  27105                                    United States                    United States
+                                  United States                                                            Phone: (410) 273-0822
+   Line Items                                              PO No. : M413549320                                      PO Date : 10 Feb 2026
+   Line No.    PO Line No.          Type    Supplier Part No. /             Customer Part No.        Quantity            Unit Price         Subtotal
+                                        Description                                       (UOM)
+    1
+              1                 Material 793EN8 / Red Buffer Solution,pH                         1 / (EA)           $25.65 USD      $25.65 USD
+                                        4.00.4L.Plastic
+    Line No.
+              PO Line No.          Type    Supplier Part No. /             Customer Part No.        Quantity            Unit Price         Subtotal
+                                        Description                                       (UOM)
+    2        2                 Material 793EP1 / Yellow Buffer Solution,pH                       1 / (EA)           $33.22 USD      $33.22 USD
+                                        7.00,4L,Plastc
+    Line No.    PO Line No.          Type   Supplier Part No. /             Customer Part No.        Quantity            Unit Price         Subtotal
+                                        Description                                       (UOM)
+                                                                                                       $14.50 USD      $14.50 USD
+    3        3                 Material 45TW63 / Cleaning Vinegar,1                           1 / (EA)
+                                       gal,Jug,PK4
+   Line No.                             Supplier Part No. /             Customer Part No.        Quantity            Unit Price         Subtotal
+              PO Line No.         Type
+                                        Description                                       (UOM)
+    4         4                 Material  41H893 / Germicidal                                 2 / (EA)          $26.83 USD      $53.66 USD
+                                       Bleach,Unscented,121 oz,PK3
+   Line No.    PO Line No.         Type    Supplier Part No. /             Customer Part No.        Quantity            Unit Price         Subtotal
+                                       Description                                       (UOM)
+                                                                                                       $33.22 USD      $33.22 USD
+   5        5                 Material 793EP6 / Blue Buffer Solution,pH                        1 / (EA)
+                                       10.00.4L.Plastic
+   Line No.                      Type    Supplier Part No. /                                  Quantity            Unit Price         Subtotal
+             PO Line No.                                            Customer Part No.
+                                       Description                                       (UOM)
+   6        6                 Material 33GY87 / VF,Cut Res                                12 / (EA)          $4.45 USD      $53.40 USD
+                                       Gloves,Gry,11,24L257,PR
+                                                                              Amount Summary
+                                                                              Line item subtotal                          $213.65 USD
+                                                                                                                     $226.46 USD
+                                                                              Gross amount
+                                                                              Net amount                              $226.46 USD
+                                                                              Total tax amount                           $12.81 USD
+                                                                              Total withholding tax amount
+                                                                                                                     $226.46 USD
+                                                                              Amount Due
+    Additional Information
+    InvoiceSourceDocument
+    PurchaseOrder
+    InvoiceSubmissionMethod
+    cXML
+                                                                          Remittance Information
+    Billing Information
+                                                                          Remit To
+   Bill To
+   Frito-Lay Inc.                                                            GRAINGER
+   c/o PEPSICO NASS                                                       DEPT. 828362913
+   ACCOUNTS PAYABLES                                                    PALATINE
+   PO BOX 1800                                                            IL
+   Winston Salem                                                           60038-0001
+   NC                                                                   United States
+   27105                                                                 Address ID: US1_10359
+   United States
+                                                                          Tax ID of Supplier
+   Address ID: US28
+                                                                         36-1150280
+                                                                      Reference Documents
+                                                                      Original Supplier Order #: 1575681990
+==================================<Page 3 - END>================================
+==================================<Page 4 - START>================================
+  Appendix
+ Line No.    PO Line No. Type
+                                                        Supplier Part No. / Description
+  1          1         Material
+                                                        793EN8 / Red Buffer Solution,pH 4.00,4L,Plastic
+  Additional Details:
+ Supplier Part ID : 793EN8
+ Supplier Part Auxiliary ID : WWG793EN8
+ Line No.    PO Line No. Type                           Supplier Part No. / Description
+ 2
+             2         Material                         793EP1 / Yellow Buffer Solution,pH 7.00,4L,Plastc
+ Additional Details:
+ Supplier Part ID : 793EP1
+ Supplier Part Auxiliary ID : WWG793EP1
+ Line No.    PO Line No. Type                           Supplier Part No. / Description
+ 3          3         Material                         45TW63 / Cleaning Vinegar,1 gal,Jug,PK4
+ Additional Details:
+ Supplier Part ID : 45TW63
+ Supplier Part Auxiliary ID : WWG45TW63
+ Line No.    PO Line No. Type                           Supplier Part No. / Description
+ 4         4          Material                         41H893 / Germicidal Bleach,Unscented,121 oz,PK3
+ Additional Details:
+Supplier Part ID : 41H893
+Supplier Part Auxiliary ID : WWG41H893
+Line No.    PO Line No. Type                           Supplier Part No. / Description
+5         5         Material                         793EP6 / Blue Buffer Solution,pH 10.00,4L,Plastic
+Additional Details:
+Supplier Part ID : 793EP6
+Supplier Part Auxiliary ID : WWG793EP6
+Line No.    PO Line No. Type                            Supplier Part No. / Description
+                      Material
+6         6                                         33GY87 / VF,Cut Res Gloves,Gry,11,24L257,PR
+Additional Details:
+Supplier Part ID : 33GY87
+Supplier Part Auxiliary ID : WWG33GY87
+PDF generated on Wednesday 11 Feb 2026 3:21 AM GMT-08:00
+==================================<Page 4 - END>================================

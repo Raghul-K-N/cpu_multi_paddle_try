@@ -1,0 +1,59 @@
+{
+  "invoice_data": {
+    "invoice_number": "116862618",
+    "invoice_date": "6/26/2025",
+    "invoice_amount": null,
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": null,
+    "po_number": [
+      "PO 4502517904"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "Crown Equipment Corporation",
+    "vendor_address": "4000 Scientific Dr, Arliington, TX 76014, PO Box 641173, Cincinnati, OH 45264-1173",
+    "po_line_items": [
+      {
+        "description": "Guide Accessory U-Bend Wldt",
+        "quantity": 4.0,
+        "net_price": 1166.0
+      }
+    ],
+    "vat_amount": null,
+    "gl_account": null,
+    "bank_name": null,
+    "account_holder_name": null,
+    "banking_account_number": null,
+    "remit_to_address": null,
+    "bill_to_address": null,
+    "transaction_type": "debit"
+  },
+  "filename": "SAPS4_5100409515_US28_PFNAUS_2026_999706992.pdf",
+  "raw_response": {
+    "invoice_number": "116862618",
+    "invoice_date": "6/26/2025",
+    "invoice_amount": null,
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": null,
+    "po_number": [
+      "PO 4502517904"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "Crown Equipment Corporation",
+    "vendor_address": "4000 Scientific Dr, Arliington, TX 76014, PO Box 641173, Cincinnati, OH 45264-1173",
+    "po_line_items": [
+      {
+        "description": "Guide Accessory U-Bend Wldt",
+        "quantity": 4.0,
+        "net_price": 1166.0
+      }
+    ]
+  }
+}

@@ -1,0 +1,61 @@
+{
+  "invoice_data": {
+    "invoice_number": "4505189047",
+    "invoice_date": "2/12/26",
+    "invoice_amount": "518.29",
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": "33.91",
+    "po_number": [
+      "4505189047",
+      "59763587"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": "40.36",
+    "cost_center": null,
+    "vendor_name": "McMaster-Carr",
+    "vendor_address": "630-600-3600, 630-834-9427 (fax), chi.sales@mcmaster.com",
+    "po_line_items": [
+      {
+        "description": "6493K6 Rotary Shaft, 316 Stainless Steel, 1/2\" Diameter, 60\" Long",
+        "quantity": 2.0,
+        "net_price": 222.01
+      }
+    ],
+    "vat_amount": null,
+    "gl_account": null,
+    "bank_name": null,
+    "account_holder_name": null,
+    "banking_account_number": null,
+    "remit_to_address": null,
+    "bill_to_address": null,
+    "transaction_type": "debit"
+  },
+  "filename": "SAPS4_5100304535_US28_PFNAUS_2026_999935180.pdf",
+  "raw_response": {
+    "invoice_number": "4505189047",
+    "invoice_date": "2/12/26",
+    "invoice_amount": "518.29",
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": "33.91",
+    "po_number": [
+      "4505189047",
+      "59763587"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": "40.36",
+    "cost_center": null,
+    "vendor_name": "McMaster-Carr",
+    "vendor_address": "630-600-3600, 630-834-9427 (fax), chi.sales@mcmaster.com",
+    "po_line_items": [
+      {
+        "description": "6493K6 Rotary Shaft, 316 Stainless Steel, 1/2\" Diameter, 60\" Long",
+        "quantity": 2.0,
+        "net_price": 222.01
+      }
+    ]
+  }
+}

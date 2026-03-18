@@ -1,0 +1,43 @@
+{
+  "invoice_data": {
+    "invoice_number": "505259623",
+    "invoice_date": "2026/01/31",
+    "invoice_amount": null,
+    "invoice_currency": [
+      "CAD"
+    ],
+    "tax_amount": null,
+    "po_number": null,
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "Purolator",
+    "vendor_address": "PUROLATOR INC.\nPO BOX 4800 STN MAIN\nCONCORD, ON L4K 0K1 CANADA",
+    "po_line_items": null,
+    "vat_amount": null,
+    "gl_account": null,
+    "bank_name": null,
+    "account_holder_name": null,
+    "banking_account_number": null,
+    "remit_to_address": null,
+    "bill_to_address": null,
+    "transaction_type": "debit"
+  },
+  "filename": "SAPS4_5101113511_CA02_PBNACA_2026_328586851.pdf",
+  "raw_response": {
+    "invoice_number": "505259623",
+    "invoice_date": "2026/01/31",
+    "invoice_amount": null,
+    "invoice_currency": [
+      "CAD"
+    ],
+    "tax_amount": null,
+    "po_number": null,
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "Purolator",
+    "vendor_address": "PUROLATOR INC.\nPO BOX 4800 STN MAIN\nCONCORD, ON L4K 0K1 CANADA",
+    "po_line_items": null
+  }
+}

@@ -1,0 +1,59 @@
+{
+  "invoice_data": {
+    "invoice_number": "888526581",
+    "invoice_date": "02/12/2026",
+    "invoice_amount": "38.37",
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": "2.93",
+    "po_number": [
+      "M413547037"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "GRAINGER",
+    "vendor_address": "6006 E. BEN WHITE BLVD, AUSTIN, TX 78741-7504",
+    "po_line_items": [
+      {
+        "description": "WRENCH,OPEN END,3/8 X 7/16\",SATIN CHROM",
+        "quantity": 2.0,
+        "net_price": 17.72
+      }
+    ],
+    "vat_amount": null,
+    "gl_account": null,
+    "bank_name": null,
+    "account_holder_name": null,
+    "banking_account_number": null,
+    "remit_to_address": null,
+    "bill_to_address": null,
+    "transaction_type": "debit"
+  },
+  "filename": "SAPS4_5100193540_US28_PFNAUS_2026_999934635.pdf",
+  "raw_response": {
+    "invoice_number": "888526581",
+    "invoice_date": "02/12/2026",
+    "invoice_amount": "38.37",
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": "2.93",
+    "po_number": [
+      "M413547037"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "GRAINGER",
+    "vendor_address": "6006 E. BEN WHITE BLVD, AUSTIN, TX 78741-7504",
+    "po_line_items": [
+      {
+        "description": "WRENCH,OPEN END,3/8 X 7/16\",SATIN CHROM",
+        "quantity": 2.0,
+        "net_price": 17.72
+      }
+    ]
+  }
+}

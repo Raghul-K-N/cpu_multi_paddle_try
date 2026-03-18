@@ -1,0 +1,47 @@
+{
+  "invoice_data": {
+    "invoice_number": "XA110845901",
+    "invoice_date": "9/24/2025",
+    "invoice_amount": "-107.18",
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": "0.00",
+    "po_number": [
+      "23470542"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": "107.18",
+    "cost_center": null,
+    "vendor_name": "Mountain West Truck Center - West Valley City (P731)(P)",
+    "vendor_address": "7114 W SR201 North Frontage Rd, West Valley City, UT 84128, 301-975-0380",
+    "po_line_items": null,
+    "vat_amount": null,
+    "gl_account": null,
+    "bank_name": null,
+    "account_holder_name": null,
+    "banking_account_number": null,
+    "remit_to_address": null,
+    "bill_to_address": null,
+    "transaction_type": "credit"
+  },
+  "filename": "SAPS4_5100123509_US30_PFNAUS_2026_999936232.pdf",
+  "raw_response": {
+    "invoice_number": "XA110845901",
+    "invoice_date": "9/24/2025",
+    "invoice_amount": "-107.18",
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": "0.00",
+    "po_number": [
+      "23470542"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": "107.18",
+    "cost_center": null,
+    "vendor_name": "Mountain West Truck Center - West Valley City (P731)(P)",
+    "vendor_address": "7114 W SR201 North Frontage Rd, West Valley City, UT 84128, 301-975-0380",
+    "po_line_items": null
+  }
+}

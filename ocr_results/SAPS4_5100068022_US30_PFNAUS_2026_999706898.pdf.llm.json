@@ -1,0 +1,105 @@
+{
+  "invoice_data": {
+    "invoice_number": "238940P",
+    "invoice_date": "09 JUL 24",
+    "invoice_amount": null,
+    "invoice_currency": null,
+    "tax_amount": null,
+    "po_number": [
+      "23192176"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "NEXTRAN TRUCK CENTERS",
+    "vendor_address": "900 GREAT MIDWEST DR., K.C., MO. 64161, 4001 N.E. RANDOLPH RD., K.C., MO. 64161, 6608 Kaw Drive, KANSAS CITY, MO 64161, KANSAS CITY, KS 66111",
+    "po_line_items": [
+      {
+        "description": "BRACKET",
+        "quantity": 92.66,
+        "net_price": 0.0
+      },
+      {
+        "description": "BLOWER MO",
+        "quantity": 143.34,
+        "net_price": 143.34
+      },
+      {
+        "description": "SENSOR",
+        "quantity": 254.83,
+        "net_price": 254.83
+      },
+      {
+        "description": "AIR DEFLE",
+        "quantity": 256.49,
+        "net_price": 0.0
+      },
+      {
+        "description": "OIL FILTE",
+        "quantity": 17.09,
+        "net_price": 170.9
+      },
+      {
+        "description": "SENSOR",
+        "quantity": 397.46,
+        "net_price": 794.92
+      }
+    ],
+    "vat_amount": null,
+    "gl_account": null,
+    "bank_name": null,
+    "account_holder_name": null,
+    "banking_account_number": null,
+    "remit_to_address": null,
+    "bill_to_address": null,
+    "transaction_type": "debit"
+  },
+  "filename": "SAPS4_5100068022_US30_PFNAUS_2026_999706898.pdf",
+  "raw_response": {
+    "invoice_number": "238940P",
+    "invoice_date": "09 JUL 24",
+    "invoice_amount": null,
+    "invoice_currency": null,
+    "tax_amount": null,
+    "po_number": [
+      "23192176"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "NEXTRAN TRUCK CENTERS",
+    "vendor_address": "900 GREAT MIDWEST DR., K.C., MO. 64161, 4001 N.E. RANDOLPH RD., K.C., MO. 64161, 6608 Kaw Drive, KANSAS CITY, MO 64161, KANSAS CITY, KS 66111",
+    "po_line_items": [
+      {
+        "description": "BRACKET",
+        "quantity": 92.66,
+        "net_price": 0.0
+      },
+      {
+        "description": "BLOWER MO",
+        "quantity": 143.34,
+        "net_price": 143.34
+      },
+      {
+        "description": "SENSOR",
+        "quantity": 254.83,
+        "net_price": 254.83
+      },
+      {
+        "description": "AIR DEFLE",
+        "quantity": 256.49,
+        "net_price": 0.0
+      },
+      {
+        "description": "OIL FILTE",
+        "quantity": 17.09,
+        "net_price": 170.9
+      },
+      {
+        "description": "SENSOR",
+        "quantity": 397.46,
+        "net_price": 794.92
+      }
+    ]
+  }
+}

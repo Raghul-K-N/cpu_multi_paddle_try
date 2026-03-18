@@ -1,0 +1,85 @@
+{
+  "invoice_data": {
+    "invoice_number": "43619",
+    "invoice_date": "2/3/2026",
+    "invoice_amount": null,
+    "invoice_currency": null,
+    "tax_amount": null,
+    "po_number": [
+      "4504894502"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "South Georgia Machine & Fabrication",
+    "vendor_address": "69 East Jefferson Street, Hazlehurst, GA 31539",
+    "po_line_items": [
+      {
+        "description": "2PLATE, SHUTTER R FRITO-LAY CUSTOM",
+        "quantity": null,
+        "net_price": 70.0
+      },
+      {
+        "description": "ATLAS, 800357956, 50208744, SGM3089",
+        "quantity": null,
+        "net_price": 53.2
+      },
+      {
+        "description": "11Stub Shaft, 800363661, 50218900, SGM4907",
+        "quantity": null,
+        "net_price": 585.2
+      },
+      {
+        "description": "1UPS Shipping",
+        "quantity": null,
+        "net_price": 24.48
+      }
+    ],
+    "vat_amount": null,
+    "gl_account": null,
+    "bank_name": null,
+    "account_holder_name": null,
+    "banking_account_number": null,
+    "remit_to_address": null,
+    "bill_to_address": null,
+    "transaction_type": "debit"
+  },
+  "filename": "SAPS4_5100310040_US28_PFNAUS_2026_999884141.pdf",
+  "raw_response": {
+    "invoice_number": "43619",
+    "invoice_date": "2/3/2026",
+    "invoice_amount": null,
+    "invoice_currency": null,
+    "tax_amount": null,
+    "po_number": [
+      "4504894502"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "South Georgia Machine & Fabrication",
+    "vendor_address": "69 East Jefferson Street, Hazlehurst, GA 31539",
+    "po_line_items": [
+      {
+        "description": "2PLATE, SHUTTER R FRITO-LAY CUSTOM",
+        "quantity": null,
+        "net_price": 70.0
+      },
+      {
+        "description": "ATLAS, 800357956, 50208744, SGM3089",
+        "quantity": null,
+        "net_price": 53.2
+      },
+      {
+        "description": "11Stub Shaft, 800363661, 50218900, SGM4907",
+        "quantity": null,
+        "net_price": 585.2
+      },
+      {
+        "description": "1UPS Shipping",
+        "quantity": null,
+        "net_price": 24.48
+      }
+    ]
+  }
+}

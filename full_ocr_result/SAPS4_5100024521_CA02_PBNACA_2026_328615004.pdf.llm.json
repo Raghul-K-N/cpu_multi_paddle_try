@@ -1,0 +1,61 @@
+{
+  "invoice_data": {
+    "invoice_number": "25-501958",
+    "invoice_date": "11/22/25",
+    "invoice_amount": "4264.40",
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": null,
+    "po_number": [
+      "4504278747",
+      "OPB000401"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": "110.00",
+    "cost_center": null,
+    "vendor_name": "ATLANTIUM TECHNOLOGIES LTD",
+    "vendor_address": "Beit Shemesh, Israel 9905511",
+    "po_line_items": [
+      {
+        "description": "UV LAMP 140MM 4.2KW",
+        "quantity": 4.0,
+        "net_price": 1038.6
+      }
+    ],
+    "vat_amount": null,
+    "gl_account": null,
+    "bank_name": null,
+    "account_holder_name": null,
+    "banking_account_number": null,
+    "remit_to_address": null,
+    "bill_to_address": null,
+    "transaction_type": "debit"
+  },
+  "filename": "SAPS4_5100024521_CA02_PBNACA_2026_328615004.pdf",
+  "raw_response": {
+    "invoice_number": "25-501958",
+    "invoice_date": "11/22/25",
+    "invoice_amount": "4264.40",
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": null,
+    "po_number": [
+      "4504278747",
+      "OPB000401"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": "110.00",
+    "cost_center": null,
+    "vendor_name": "ATLANTIUM TECHNOLOGIES LTD",
+    "vendor_address": "Beit Shemesh, Israel 9905511",
+    "po_line_items": [
+      {
+        "description": "UV LAMP 140MM 4.2KW",
+        "quantity": 4.0,
+        "net_price": 1038.6
+      }
+    ]
+  }
+}

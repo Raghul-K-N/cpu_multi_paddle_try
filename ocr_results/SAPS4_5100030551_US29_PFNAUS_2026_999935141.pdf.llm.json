@@ -1,0 +1,65 @@
+{
+  "invoice_data": {
+    "invoice_number": "481216",
+    "invoice_date": "01/22/26",
+    "invoice_amount": null,
+    "invoice_currency": null,
+    "tax_amount": null,
+    "po_number": [
+      "23556956"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "United Ford",
+    "vendor_address": "UNITED FORD 12007 E. 61ST ST, BROKEN ARROW, OK 74012, P.O. BOX 470210, TULSA, OK 74147-0210",
+    "po_line_items": [
+      {
+        "description": "BUMPER A 569E",
+        "quantity": 1.0,
+        "net_price": 394.43
+      },
+      {
+        "description": "DEFLECTO 360",
+        "quantity": 1.0,
+        "net_price": 42.91
+      }
+    ],
+    "vat_amount": null,
+    "gl_account": null,
+    "bank_name": null,
+    "account_holder_name": null,
+    "banking_account_number": null,
+    "remit_to_address": null,
+    "bill_to_address": null,
+    "transaction_type": "debit"
+  },
+  "filename": "SAPS4_5100030551_US29_PFNAUS_2026_999935141.pdf",
+  "raw_response": {
+    "invoice_number": "481216",
+    "invoice_date": "01/22/26",
+    "invoice_amount": null,
+    "invoice_currency": null,
+    "tax_amount": null,
+    "po_number": [
+      "23556956"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "United Ford",
+    "vendor_address": "UNITED FORD 12007 E. 61ST ST, BROKEN ARROW, OK 74012, P.O. BOX 470210, TULSA, OK 74147-0210",
+    "po_line_items": [
+      {
+        "description": "BUMPER A 569E",
+        "quantity": 1.0,
+        "net_price": 394.43
+      },
+      {
+        "description": "DEFLECTO 360",
+        "quantity": 1.0,
+        "net_price": 42.91
+      }
+    ]
+  }
+}

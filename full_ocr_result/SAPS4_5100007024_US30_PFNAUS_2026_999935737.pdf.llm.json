@@ -1,0 +1,47 @@
+{
+  "invoice_data": {
+    "invoice_number": "XA106001901",
+    "invoice_date": "2/5/2026",
+    "invoice_amount": "78.70",
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": null,
+    "po_number": [
+      "23570691"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "Bergey's Truck Centers - New Castle (A310)",
+    "vendor_address": "29 E Commons Blvd Suite 300, New Castle, DE 19720, 302-324-8340",
+    "po_line_items": null,
+    "vat_amount": null,
+    "gl_account": null,
+    "bank_name": null,
+    "account_holder_name": null,
+    "banking_account_number": null,
+    "remit_to_address": null,
+    "bill_to_address": null,
+    "transaction_type": "debit"
+  },
+  "filename": "SAPS4_5100007024_US30_PFNAUS_2026_999935737.pdf",
+  "raw_response": {
+    "invoice_number": "XA106001901",
+    "invoice_date": "2/5/2026",
+    "invoice_amount": "78.70",
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": null,
+    "po_number": [
+      "23570691"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "Bergey's Truck Centers - New Castle (A310)",
+    "vendor_address": "29 E Commons Blvd Suite 300, New Castle, DE 19720, 302-324-8340",
+    "po_line_items": null
+  }
+}

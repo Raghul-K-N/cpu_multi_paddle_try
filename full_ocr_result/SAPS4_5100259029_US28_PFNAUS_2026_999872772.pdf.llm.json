@@ -1,0 +1,59 @@
+{
+  "invoice_data": {
+    "invoice_number": "5824-0005",
+    "invoice_date": "Friday 13 Feb 2026 11:54 AM GMT-06:00",
+    "invoice_amount": "22432.11",
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": "1709.61",
+    "po_number": [
+      "M413556922"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "R&B Roofing LLC",
+    "vendor_address": "2601 Wood Dr, Garland, Tx 75041-2441, United States, Address ID: 2601 Wood Dr, Garland, Tx 75041, United States, Address ID: US28",
+    "po_line_items": [
+      {
+        "description": "Not Available / L1/ Freight to R&B",
+        "quantity": 20.7225,
+        "net_price": 20722.5
+      }
+    ],
+    "vat_amount": null,
+    "gl_account": null,
+    "bank_name": null,
+    "account_holder_name": null,
+    "banking_account_number": null,
+    "remit_to_address": null,
+    "bill_to_address": null,
+    "transaction_type": "debit"
+  },
+  "filename": "SAPS4_5100259029_US28_PFNAUS_2026_999872772.pdf",
+  "raw_response": {
+    "invoice_number": "5824-0005",
+    "invoice_date": "Friday 13 Feb 2026 11:54 AM GMT-06:00",
+    "invoice_amount": "22432.11",
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": "1709.61",
+    "po_number": [
+      "M413556922"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "R&B Roofing LLC",
+    "vendor_address": "2601 Wood Dr, Garland, Tx 75041-2441, United States, Address ID: 2601 Wood Dr, Garland, Tx 75041, United States, Address ID: US28",
+    "po_line_items": [
+      {
+        "description": "Not Available / L1/ Freight to R&B",
+        "quantity": 20.7225,
+        "net_price": 20722.5
+      }
+    ]
+  }
+}

@@ -1,0 +1,69 @@
+{
+  "invoice_data": {
+    "invoice_number": "9169023972",
+    "invoice_date": "Sunday 8 Feb 2026 12:00 PM GMT-08:00",
+    "invoice_amount": "1,515.39",
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": "117.03",
+    "po_number": [
+      "M413464567"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": "174.80",
+    "cost_center": null,
+    "vendor_name": "Airgas Usa, Llc",
+    "vendor_address": "259 N Radnor Chester Rd Ste 100, Radnor, Pennsylvania 19087-5240, United States, Address ID: US28",
+    "po_line_items": [
+      {
+        "description": "Material Nitrogen / Industrial Gases - Bought In (PGT)",
+        "quantity": 1223.56,
+        "net_price": 1.0
+      },
+      {
+        "description": "PROPANE INDUSTRIAL 33 CGA 510 FORKLIFT (Vol: 416 LBS)",
+        "quantity": 13.0,
+        "net_price": 94.12
+      }
+    ],
+    "vat_amount": null,
+    "gl_account": null,
+    "bank_name": null,
+    "account_holder_name": null,
+    "banking_account_number": null,
+    "remit_to_address": null,
+    "bill_to_address": null,
+    "transaction_type": "debit"
+  },
+  "filename": "SAPS4_5101986002_US28_PFNAUS_2026_999706529.pdf",
+  "raw_response": {
+    "invoice_number": "9169023972",
+    "invoice_date": "Sunday 8 Feb 2026 12:00 PM GMT-08:00",
+    "invoice_amount": "1,515.39",
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": "117.03",
+    "po_number": [
+      "M413464567"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": "174.80",
+    "cost_center": null,
+    "vendor_name": "Airgas Usa, Llc",
+    "vendor_address": "259 N Radnor Chester Rd Ste 100, Radnor, Pennsylvania 19087-5240, United States, Address ID: US28",
+    "po_line_items": [
+      {
+        "description": "Material Nitrogen / Industrial Gases - Bought In (PGT)",
+        "quantity": 1223.56,
+        "net_price": 1.0
+      },
+      {
+        "description": "PROPANE INDUSTRIAL 33 CGA 510 FORKLIFT (Vol: 416 LBS)",
+        "quantity": 13.0,
+        "net_price": 94.12
+      }
+    ]
+  }
+}

@@ -1,0 +1,59 @@
+{
+  "invoice_data": {
+    "invoice_number": "M260100038",
+    "invoice_date": "Wednesday 4 Feb 2026 12:00 PM GMT-05:00",
+    "invoice_amount": "30123.00",
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": "1044.06",
+    "po_number": [
+      "M413393190"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "Concentric LLC",
+    "vendor_address": "1621 W Crosby Rd, Carrollton, TX 75006-6670, United States; Address ID: Branch 211; 2611 W COUNTY ROAD 0 NS, FRANKFORT, IN 46041-8751, United States; Address ID: 2047; Phone: 6594517",
+    "po_line_items": [
+      {
+        "description": "Not Available / Concentric-Blanket PO 2026",
+        "quantity": 29.07894,
+        "net_price": 1.0
+      }
+    ],
+    "vat_amount": null,
+    "gl_account": null,
+    "bank_name": null,
+    "account_holder_name": null,
+    "banking_account_number": null,
+    "remit_to_address": null,
+    "bill_to_address": null,
+    "transaction_type": "debit"
+  },
+  "filename": "SAPS4_5100466507_US28_PFNAUS_2026_999872964.pdf",
+  "raw_response": {
+    "invoice_number": "M260100038",
+    "invoice_date": "Wednesday 4 Feb 2026 12:00 PM GMT-05:00",
+    "invoice_amount": "30123.00",
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": "1044.06",
+    "po_number": [
+      "M413393190"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "Concentric LLC",
+    "vendor_address": "1621 W Crosby Rd, Carrollton, TX 75006-6670, United States; Address ID: Branch 211; 2611 W COUNTY ROAD 0 NS, FRANKFORT, IN 46041-8751, United States; Address ID: 2047; Phone: 6594517",
+    "po_line_items": [
+      {
+        "description": "Not Available / Concentric-Blanket PO 2026",
+        "quantity": 29.07894,
+        "net_price": 1.0
+      }
+    ]
+  }
+}

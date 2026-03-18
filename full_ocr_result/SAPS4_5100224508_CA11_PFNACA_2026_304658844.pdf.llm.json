@@ -1,0 +1,103 @@
+{
+  "invoice_data": {
+    "invoice_number": "9011154840",
+    "invoice_date": "10/07/2025",
+    "invoice_amount": "155.60",
+    "invoice_currency": [
+      "CAD"
+    ],
+    "tax_amount": "20.27",
+    "po_number": [
+      "M413509361",
+      "04003889",
+      "M412958107"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "Québec Linge",
+    "vendor_address": "75 Norfinch Drive, Toronto, Ontario, M3N 1W8",
+    "po_line_items": [
+      {
+        "description": "Vest-Ins",
+        "quantity": 1.0,
+        "net_price": 116.99
+      },
+      {
+        "description": "Pers - Custom Embroidery Appli",
+        "quantity": 1.0,
+        "net_price": 0.0
+      },
+      {
+        "description": "Shirt-Tee-Cttn",
+        "quantity": 2.0,
+        "net_price": 9.17
+      },
+      {
+        "description": "Pers - Custom Embroidery Appli",
+        "quantity": 2.0,
+        "net_price": 0.0
+      },
+      {
+        "description": "Pers - Custom Embroidery Appli",
+        "quantity": 2.0,
+        "net_price": 0.0
+      }
+    ],
+    "vat_amount": null,
+    "gl_account": null,
+    "bank_name": null,
+    "account_holder_name": null,
+    "banking_account_number": null,
+    "remit_to_address": null,
+    "bill_to_address": null,
+    "transaction_type": "debit"
+  },
+  "filename": "SAPS4_5100224508_CA11_PFNACA_2026_304658844.pdf",
+  "raw_response": {
+    "invoice_number": "9011154840",
+    "invoice_date": "10/07/2025",
+    "invoice_amount": "155.60",
+    "invoice_currency": [
+      "CAD"
+    ],
+    "tax_amount": "20.27",
+    "po_number": [
+      "M413509361",
+      "04003889",
+      "M412958107"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "Québec Linge",
+    "vendor_address": "75 Norfinch Drive, Toronto, Ontario, M3N 1W8",
+    "po_line_items": [
+      {
+        "description": "Vest-Ins",
+        "quantity": 1.0,
+        "net_price": 116.99
+      },
+      {
+        "description": "Pers - Custom Embroidery Appli",
+        "quantity": 1.0,
+        "net_price": 0.0
+      },
+      {
+        "description": "Shirt-Tee-Cttn",
+        "quantity": 2.0,
+        "net_price": 9.17
+      },
+      {
+        "description": "Pers - Custom Embroidery Appli",
+        "quantity": 2.0,
+        "net_price": 0.0
+      },
+      {
+        "description": "Pers - Custom Embroidery Appli",
+        "quantity": 2.0,
+        "net_price": 0.0
+      }
+    ]
+  }
+}

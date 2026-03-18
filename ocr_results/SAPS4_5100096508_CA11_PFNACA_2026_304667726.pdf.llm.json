@@ -1,0 +1,69 @@
+{
+  "invoice_data": {
+    "invoice_number": "119661",
+    "invoice_date": "02/05/2026",
+    "invoice_amount": "396.32",
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": "18.87",
+    "po_number": [
+      "M413524856"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "Warwick Printing Co. Ltd.",
+    "vendor_address": "Lethbridge, Alberta T1H 0H7, Canada",
+    "po_line_items": [
+      {
+        "description": "Drivers Daily Log-Form A",
+        "quantity": 3.0,
+        "net_price": 377.45
+      },
+      {
+        "description": "1240 2 part Carbonless, Prepress: Repeat order no changes Size: 9x8.5 inc stub Sides: 1 Colors: Black Only",
+        "quantity": 3.0,
+        "net_price": 377.45
+      }
+    ],
+    "vat_amount": null,
+    "gl_account": null,
+    "bank_name": null,
+    "account_holder_name": null,
+    "banking_account_number": null,
+    "remit_to_address": null,
+    "bill_to_address": null,
+    "transaction_type": "debit"
+  },
+  "filename": "SAPS4_5100096508_CA11_PFNACA_2026_304667726.pdf",
+  "raw_response": {
+    "invoice_number": "119661",
+    "invoice_date": "02/05/2026",
+    "invoice_amount": "396.32",
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": "18.87",
+    "po_number": [
+      "M413524856"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "Warwick Printing Co. Ltd.",
+    "vendor_address": "Lethbridge, Alberta T1H 0H7, Canada",
+    "po_line_items": [
+      {
+        "description": "Drivers Daily Log-Form A",
+        "quantity": 3.0,
+        "net_price": 377.45
+      },
+      {
+        "description": "1240 2 part Carbonless, Prepress: Repeat order no changes Size: 9x8.5 inc stub Sides: 1 Colors: Black Only",
+        "quantity": 3.0,
+        "net_price": 377.45
+      }
+    ]
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "invoice_data": {
+    "invoice_number": "SRVCE00410621",
+    "invoice_date": "12/31/2025",
+    "invoice_amount": null,
+    "invoice_currency": null,
+    "tax_amount": "66.43",
+    "po_number": [
+      "M413552731",
+      "NEED"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "Entech Sales & Service, LLC",
+    "vendor_address": "3404 Garden Brook Drive, Dallas, TX 75234-2444",
+    "po_line_items": null,
+    "vat_amount": null,
+    "gl_account": null,
+    "bank_name": null,
+    "account_holder_name": null,
+    "banking_account_number": null,
+    "remit_to_address": null,
+    "bill_to_address": null,
+    "transaction_type": "debit"
+  },
+  "filename": "SAPS4_5100322036_US28_PFNAUS_2026_999884151.pdf",
+  "raw_response": {
+    "invoice_number": "SRVCE00410621",
+    "invoice_date": "12/31/2025",
+    "invoice_amount": null,
+    "invoice_currency": null,
+    "tax_amount": "66.43",
+    "po_number": [
+      "M413552731",
+      "NEED"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "Entech Sales & Service, LLC",
+    "vendor_address": "3404 Garden Brook Drive, Dallas, TX 75234-2444",
+    "po_line_items": null
+  }
+}

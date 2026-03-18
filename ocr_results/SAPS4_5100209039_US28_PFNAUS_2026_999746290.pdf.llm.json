@@ -1,0 +1,59 @@
+{
+  "invoice_data": {
+    "invoice_number": "980634163326",
+    "invoice_date": "Thursday 12 Feb 2026 3:13 AM GMT-07:00",
+    "invoice_amount": null,
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": "5.99",
+    "po_number": [
+      "M413554198"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "GRAINGER",
+    "vendor_address": "100 Grainger Pkwy, Lake Forest, IL, United States, 2450 ANNAPOLIS LANE N., PLYMOUTH, MN, 55441, United States, 46041, United States",
+    "po_line_items": [
+      {
+        "description": "800ML1 / DC Charger,12 V DC,Hi-Vis Orange",
+        "quantity": 8.0,
+        "net_price": 10.7
+      }
+    ],
+    "vat_amount": null,
+    "gl_account": null,
+    "bank_name": null,
+    "account_holder_name": null,
+    "banking_account_number": null,
+    "remit_to_address": null,
+    "bill_to_address": null,
+    "transaction_type": "debit"
+  },
+  "filename": "SAPS4_5100209039_US28_PFNAUS_2026_999746290.pdf",
+  "raw_response": {
+    "invoice_number": "980634163326",
+    "invoice_date": "Thursday 12 Feb 2026 3:13 AM GMT-07:00",
+    "invoice_amount": "../../91.59",
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": "5.99",
+    "po_number": [
+      "M413554198"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "GRAINGER",
+    "vendor_address": "100 Grainger Pkwy, Lake Forest, IL, United States, 2450 ANNAPOLIS LANE N., PLYMOUTH, MN, 55441, United States, 46041, United States",
+    "po_line_items": [
+      {
+        "description": "800ML1 / DC Charger,12 V DC,Hi-Vis Orange",
+        "quantity": 8.0,
+        "net_price": 10.7
+      }
+    ]
+  }
+}

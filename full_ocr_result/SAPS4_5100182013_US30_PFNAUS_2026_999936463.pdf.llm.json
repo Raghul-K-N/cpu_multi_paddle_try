@@ -1,0 +1,129 @@
+{
+  "invoice_data": {
+    "invoice_number": "3070643068",
+    "invoice_date": "02/12/2026",
+    "invoice_amount": "65.78",
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": "4.45",
+    "po_number": [
+      "M413423042"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": "0.00",
+    "cost_center": null,
+    "vendor_name": "vestis",
+    "vendor_address": "PO BOX 731676, DALLAS TX 75373-1676",
+    "po_line_items": [
+      {
+        "description": "DL5563VERT MAT FRITO LAY",
+        "quantity": 6.0,
+        "net_price": 3.459
+      },
+      {
+        "description": "DL6000HORZ LOGO MAT",
+        "quantity": 6.0,
+        "net_price": 1.836
+      },
+      {
+        "description": "3X10",
+        "quantity": 5.0,
+        "net_price": 3.459
+      },
+      {
+        "description": "DL6000VERT LOGO MAT",
+        "quantity": 4.15,
+        "net_price": 0.0
+      },
+      {
+        "description": "DM0001CHAR MAT NYLON/RUBBER",
+        "quantity": 2.0,
+        "net_price": 2.077
+      },
+      {
+        "description": "DM0025BLAK SCRAPER MAT",
+        "quantity": 2.0,
+        "net_price": 0.742
+      },
+      {
+        "description": "4X6",
+        "quantity": 3.0,
+        "net_price": 1.661
+      },
+      {
+        "description": "DM0501DKGY MAT FLAT BACK",
+        "quantity": 2.0,
+        "net_price": 0.826
+      }
+    ],
+    "vat_amount": null,
+    "gl_account": null,
+    "bank_name": null,
+    "account_holder_name": null,
+    "banking_account_number": null,
+    "remit_to_address": null,
+    "bill_to_address": null,
+    "transaction_type": "debit"
+  },
+  "filename": "SAPS4_5100182013_US30_PFNAUS_2026_999936463.pdf",
+  "raw_response": {
+    "invoice_number": "3070643068",
+    "invoice_date": "02/12/2026",
+    "invoice_amount": "65.78",
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": "4.45",
+    "po_number": [
+      "M413423042"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": "0.00",
+    "cost_center": null,
+    "vendor_name": "vestis",
+    "vendor_address": "PO BOX 731676, DALLAS TX 75373-1676",
+    "po_line_items": [
+      {
+        "description": "DL5563VERT MAT FRITO LAY",
+        "quantity": 6.0,
+        "net_price": 3.459
+      },
+      {
+        "description": "DL6000HORZ LOGO MAT",
+        "quantity": 6.0,
+        "net_price": 1.836
+      },
+      {
+        "description": "3X10",
+        "quantity": 5.0,
+        "net_price": 3.459
+      },
+      {
+        "description": "DL6000VERT LOGO MAT",
+        "quantity": 4.15,
+        "net_price": 0.0
+      },
+      {
+        "description": "DM0001CHAR MAT NYLON/RUBBER",
+        "quantity": 2.0,
+        "net_price": 2.077
+      },
+      {
+        "description": "DM0025BLAK SCRAPER MAT",
+        "quantity": 2.0,
+        "net_price": 0.742
+      },
+      {
+        "description": "4X6",
+        "quantity": 3.0,
+        "net_price": 1.661
+      },
+      {
+        "description": "DM0501DKGY MAT FLAT BACK",
+        "quantity": 2.0,
+        "net_price": 0.826
+      }
+    ]
+  }
+}

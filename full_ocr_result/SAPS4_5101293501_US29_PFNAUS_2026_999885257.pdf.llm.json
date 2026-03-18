@@ -1,0 +1,65 @@
+{
+  "invoice_data": {
+    "invoice_number": "000-1010",
+    "invoice_date": "02/03/2026",
+    "invoice_amount": null,
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": "../2.81",
+    "po_number": null,
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "American Team Cleaning Services Inc.",
+    "vendor_address": "17 8th Avenue, Chicopee, MA 01020",
+    "po_line_items": [
+      {
+        "description": "General Office Cleaning- @ 3x Per week Monday - Wednesday - Friday x1 employee General Office Cleaning to include but not limited to sweeping, mopping, dusting, trash removal, window cleaning etc.",
+        "quantity": 13.0,
+        "net_price": 70.0
+      },
+      {
+        "description": "Deodorizer Urinal Screen Splash Prevention",
+        "quantity": 1.0,
+        "net_price": 44.95
+      }
+    ],
+    "vat_amount": null,
+    "gl_account": null,
+    "bank_name": null,
+    "account_holder_name": null,
+    "banking_account_number": null,
+    "remit_to_address": null,
+    "bill_to_address": null,
+    "transaction_type": "debit"
+  },
+  "filename": "SAPS4_5101293501_US29_PFNAUS_2026_999885257.pdf",
+  "raw_response": {
+    "invoice_number": "000-1010",
+    "invoice_date": "02/03/2026",
+    "invoice_amount": "../../957.76",
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": "../2.81",
+    "po_number": null,
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "American Team Cleaning Services Inc.",
+    "vendor_address": "17 8th Avenue, Chicopee, MA 01020",
+    "po_line_items": [
+      {
+        "description": "General Office Cleaning- @ 3x Per week Monday - Wednesday - Friday x1 employee General Office Cleaning to include but not limited to sweeping, mopping, dusting, trash removal, window cleaning etc.",
+        "quantity": 13.0,
+        "net_price": 70.0
+      },
+      {
+        "description": "Deodorizer Urinal Screen Splash Prevention",
+        "quantity": 1.0,
+        "net_price": 44.95
+      }
+    ]
+  }
+}

@@ -1,0 +1,59 @@
+{
+  "invoice_data": {
+    "invoice_number": "4504958592",
+    "invoice_date": "1/27/2026",
+    "invoice_amount": "1897.00",
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": "0.00",
+    "po_number": [
+      "0090527-IN"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": "97.00",
+    "cost_center": null,
+    "vendor_name": "R & D Machine",
+    "vendor_address": "P.O. BOX 560486 · DALLAS, TEXAS 75356-0486",
+    "po_line_items": [
+      {
+        "description": "KNIFE, BLADE FUNYUN",
+        "quantity": 100.0,
+        "net_price": 18.0
+      }
+    ],
+    "vat_amount": null,
+    "gl_account": null,
+    "bank_name": null,
+    "account_holder_name": null,
+    "banking_account_number": null,
+    "remit_to_address": null,
+    "bill_to_address": null,
+    "transaction_type": "debit"
+  },
+  "filename": "SAPS4_5100513513_US28_PFNAUS_2026_999935094.pdf",
+  "raw_response": {
+    "invoice_number": "4504958592",
+    "invoice_date": "1/27/2026",
+    "invoice_amount": "1897.00",
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": "0.00",
+    "po_number": [
+      "0090527-IN"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": "97.00",
+    "cost_center": null,
+    "vendor_name": "R & D Machine",
+    "vendor_address": "P.O. BOX 560486 · DALLAS, TEXAS 75356-0486",
+    "po_line_items": [
+      {
+        "description": "KNIFE, BLADE FUNYUN",
+        "quantity": 100.0,
+        "net_price": 18.0
+      }
+    ]
+  }
+}

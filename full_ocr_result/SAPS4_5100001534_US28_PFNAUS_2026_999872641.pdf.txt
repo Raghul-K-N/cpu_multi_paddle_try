@@ -1,0 +1,357 @@
+==================================<Page 1 - START>================================
+Standard Invoice
+Original tax invoice has been submitted electronically. This is a
+human readable representation (copy) of the original tax invoice.
+                                                                 Invoice Number                                           708970
+                                                                 (Supplier Reference No.)
+                                                                 Invoice Date                   Thursdav 12 Feb 2026 12:00 PM GMT-06:00
+                                                                 Amount Due                                       $5,204.00 USD
+    Contact Information
+                                                                           Shipping Information
+    Supplier                       Customer
+                                                                           Ship From                     Ship To
+    Urschel Laboratories, Inc.
+                                  Frito-Lay, Inc.
+                                                                           Urschel Laboratories, Inc.           US-PL-FAYETTEVILLE-TN-FLI
+     1200 Cutting Edge Drive           c/o PEPSICO NASS
+                                                                           1200 Cutting Edge Drive            Ken Pamplin
+     Chesterton                     ACCOUNTS PAYABLES
+                                                                           Chesterton                     US-PL-FAYETTEVILLE-TN-FLI
+     IN                           PO BOX 1800
+                                                                           IN                           101 INDUSTRIAL BLVD
+     46304                        Winston Salem
+                                                                           46304                        FAYETTEVILLE
+     United States                   NC
+                                                                           United States                   TN
+                                  27105
+                                                                                                        37334-7034
+                                  United States
+                                                                                                        United States
+                                  Address ID: US28
+                                                                                                        Address ID: 2002
+                                                                                                        Phone: 4333800
+   Line Items
+                                                         PO No. : M413554495                                      PO Date : 12 Feb 2026
+   Line No.   PO Line No.
+                                Type    Supplier Part No./              Customer Part No.        Quantity            Unit Price         Subtotal
+                                       Description
+                                                                                       (UOM)
+   1        1                 Material 34306 / CAM, SLICE ADJ, UPPER,                       2 / (EA)
+                                                                                                      $174.00 USD     $348.00 USD
+                                        COATED, DYN1
+                                                                                                    Line Item Total : $348.00 USD
+   Line No.    PO Line No.          Type    Supplier Part No. /             Customer Part No.        Quantity            Unit Price         Subtotal
+                                       Description                                       (UOM)
+   2                           Material 34392 / KNIFE HOLDER, SLICE.
+             2                                                                        24 / (EA)         $141.00 USD    $3,384.00 USD
+                                       170V, QC, FRITO
+                                                                                                  Line Item Total : $3,384.00 USD
+   Line No.   PO Line No.         Type    Supplier Part No. /             Customer Part No.                          Unit Price         Subtotal
+                                                                                       Quantity
+                                       Description                                       (UOM)
+   3        3                 Material 34278 / KNIFE HOLDER, FLAT,                         16 / (EA)          $92.00 USD    $1,472.00 USD
+                                       SLICE,QRC,HP, INSERT
+                                                                                                  Line Item Total : $1,472.00 USD
+                                                                              Amount Summary
+                                                                              Line item subtotal                         $5,204.00 USD
+                                                                              Gross amount                           $5,204.00 USD
+                                                                                                                    $5,204.00 USD
+                                                                              Net amount
+                                                                                                                       $0.00 USD
+                                                                              Total tax amount
+                                                                              Total withholding tax amount
+                                                                                                                    $5,204.00 USD
+                                                                              Amount Due
+    Additional Information
+    Payment Method
+    Check
+    Billing Information                                                         Remittance Information
+    Bill From                      Bill To                                    Remit To
+    Urschel Laboratories. Inc.
+                                Frito-Lay, Inc.                               A/R
+    1200 Cutting Edge Drive
+                                c/o PEPSICO NASS                           PO BOX 856299
+    Chesterton
+                                ACCOUNTS PAYABLES                       MINNEAPOLIS
+    IN
+                                PO BOX 1800                               MN
+    46304
+                                Winston Salem                              55485-6299
+    United States
+                                NC                                      United States
+                                27105                                    Address ID: US1_11004
+                                United States
+                                Address ID: US28
+Payment Terms
+ Net payment Terms (Days) :
+30
+==================================<Page 1 - END>================================
+==================================<Page 2 - START>================================
+ Appendix
+Line No.
+            PO Line No. Type                            Supplier Part No. / Description
+1          1
+                      Material                          34306 / CAM, SLICE ADJ, UPPER, COATED, DYN1
+Additional Details:
+Classification Domain : Custom
+Classification Code : CAP100307_101
+Supplier Part ID : 34306
+Manufacturer Part ID : 34306
+Line No.
+           PO Line No. Type                            Supplier Part No. / Description
+2
+           2          Material                          34392 / KNIFE HOLDER, SLICE, 170V, QC, FRITO
+Additional Details:
+Classification Domain : Custom
+Classification Code : CAP100307_101
+Supplier Part ID : 34392
+Manufacturer Part ID : 34392
+Line No.    PO Line No. Type
+                                                       Supplier Part No. / Description
+3         3          Material
+                                                       34278 / KNIFE HOLDER, FLAT, SLICE,QRC,HP, INSERT
+Additional Details:
+Classification Domain : Custom
+Classification Code : CAP100307_101
+Supplier Part ID : 34278
+Manufacturer Part ID : 34278
+PDF generated on Friday 13 Feb 2026 8:32 AM GMT-08:00
+==================================<Page 2 - END>================================
+==================================<Page 3 - START>================================
+  Standard Invoice
+  Original tax invoice has been submitted electronically. This is a
+  human readable representation (copy) of the original tax invoice.
+                                                                   Invoice Number                                           708970
+                                                                   (Supplier Reference No.)
+                                                                   Invoice Date                   Thursdav 12 Feb 2026 12:00 PM GMT-06:00
+                                                                   Amount Due                                       $5,204.00 USD
+      Contact Information
+                                                                            Shipping Information
+      Supplier                       Customer
+                                                                            Ship From                     Ship To
+      Urschel Laboratories, Inc.
+                                   Frito-Lay, Inc.
+                                                                            Urschel Laboratories, Inc.           US-PL-FAYETTEVILLE-TN-FLI
+      1200 Cutting Edge Drive           c/o PEPSICO NASS
+                                                                            1200 Cutting Edge Drive            Ken Pamplin
+      Chesterton                     ACCOUNTS PAYABLES
+                                                                            Chesterton                     US-PL-FAYETTEVILLE-TN-FLI
+      IN                           PO BOX 1800
+                                                                            IN                           101 INDUSTRIAL BLVD
+      46304                        Winston Salem
+                                                                            46304                        FAYETTEVILLE
+      United States                   NC
+                                                                            United States                   TN
+                                   27105
+                                                                                                         37334-7034
+                                   United States
+                                                                                                         United States
+                                    Address ID: US28
+                                                                                                         Address ID: 2002
+                                                                                                         Phone: 4333800
+     Line Items
+                                                           PO No. : M413554495                                      PO Date : 12 Feb 2026
+     Line No.   PO Line No.
+                                 Type    Supplier Part No./              Customer Part No.        Quantity            Unit Price         Subtotal
+                                         Description
+                                                                                        (UOM)
+     1        1                 Material 34306 / CAM, SLICE ADJ, UPPER,                       2 / (EA)
+                                                                                                        $174.00 USD     $348.00 USD
+                                         COATED, DYN1
+                                                                                                     Line Item Total : $348.00 USD
+     Line No.    PO Line No.          Type    Supplier Part No. /             Customer Part No.        Quantity            Unit Price         Subtotal
+                                         Description                                       (UOM)
+     2                           Material 34392 / KNIFE HOLDER, SLICE.
+               2                                                                        24 / (EA)         $141.00 USD    $3,384.00 USD
+                                         170V, QC, FRITO
+                                                                                                    Line Item Total : $3,384.00 USD
+     Line No.   PO Line No.         Type    Supplier Part No. /             Customer Part No.                          Unit Price         Subtotal
+                                                                                        Quantity
+                                         Description                                       (UOM)
+     3        3                 Material 34278 / KNIFE HOLDER, FLAT,                         16 / (EA)          $92.00 USD    $1,472.00 USD
+                                         SLICE,QRC,HP, INSERT
+                                                                                                    Line Item Total : $1,472.00 USD
+                                                                                Amount Summary
+                                                                                Line item subtotal                         $5,204.00 USD
+                                                                                Gross amount                           $5,204.00 USD
+                                                                                                                     $5,204.00 USD
+                                                                                Net amount
+                                                                                                                        $0.00 USD
+                                                                                Total tax amount
+                                                                                Total withholding tax amount
+                                                                                                                      $5,204.00 USD
+                                                                                Amount Due
+      Additional Information
+      Payment Method
+      Check
+      Billing Information                                                         Remittance Information
+      Bill From                      Bill To                                    Remit To
+      Urschel Laboratories. Inc.
+                                  Frito-Lay, Inc.                               A/R
+      1200 Cutting Edge Drive
+                                  c/o PEPSICO NASS                           PO BOX 856299
+      Chesterton
+                                  ACCOUNTS PAYABLES                       MINNEAPOLIS
+      IN
+                                  PO BOX 1800                               MN
+     46304
+                                  Winston Salem                              55485-6299
+     United States
+                                  NC                                      United States
+                                  27105                                    Address ID: US1_11004
+                                  United States
+                                  Address ID: US28
+  Payment Terms
+   Net payment Terms (Days) :
+   30
+==================================<Page 3 - END>================================
+==================================<Page 4 - START>================================
+ Appendix
+Line No.
+            PO Line No. Type                            Supplier Part No. / Description
+1          1
+                      Material                          34306 / CAM, SLICE ADJ, UPPER, COATED, DYN1
+Additional Details:
+Classification Domain : Custom
+Classification Code : CAP100307_101
+Supplier Part ID : 34306
+Manufacturer Part ID : 34306
+Line No.
+           PO Line No. Type                            Supplier Part No. / Description
+2
+           2          Material                          34392 / KNIFE HOLDER, SLICE, 170V, QC, FRITO
+Additional Details:
+Classification Domain : Custom
+Classification Code : CAP100307_101
+Supplier Part ID : 34392
+Manufacturer Part ID : 34392
+Line No.    PO Line No. Type
+                                                       Supplier Part No. / Description
+3         3          Material
+                                                       34278 / KNIFE HOLDER, FLAT, SLICE,QRC,HP, INSERT
+Additional Details:
+Classification Domain : Custom
+Classification Code : CAP100307_101
+Supplier Part ID : 34278
+Manufacturer Part ID : 34278
+PDF generated on Friday 13 Feb 2026 8:32 AM GMT-08:00
+==================================<Page 4 - END>================================
+==================================<Page 5 - START>================================
+  Standard Invoice
+  Original tax invoice has been submitted electronically. This is a
+  human readable representation (copy) of the original tax invoice.
+                                                                   Invoice Number                                           708970
+                                                                   (Supplier Reference No.)
+                                                                   Invoice Date                   Thursdav 12 Feb 2026 12:00 PM GMT-06:00
+                                                                   Amount Due                                       $5,204.00 USD
+      Contact Information
+                                                                            Shipping Information
+      Supplier                       Customer
+                                                                            Ship From                     Ship To
+      Urschel Laboratories, Inc.
+                                   Frito-Lay, Inc.
+                                                                            Urschel Laboratories, Inc.           US-PL-FAYETTEVILLE-TN-FLI
+      1200 Cutting Edge Drive           c/o PEPSICO NASS
+                                                                            1200 Cutting Edge Drive            Ken Pamplin
+      Chesterton                     ACCOUNTS PAYABLES
+                                                                            Chesterton                     US-PL-FAYETTEVILLE-TN-FLI
+      IN                           PO BOX 1800
+                                                                            IN                           101 INDUSTRIAL BLVD
+      46304                        Winston Salem
+                                                                            46304                        FAYETTEVILLE
+      United States                   NC
+                                                                            United States                   TN
+                                   27105
+                                                                                                         37334-7034
+                                   United States
+                                                                                                         United States
+                                    Address ID: US28
+                                                                                                         Address ID: 2002
+                                                                                                         Phone: 4333800
+     Line Items
+                                                           PO No. : M413554495                                      PO Date : 12 Feb 2026
+     Line No.   PO Line No.
+                                 Type    Supplier Part No./              Customer Part No.        Quantity            Unit Price         Subtotal
+                                         Description
+                                                                                        (UOM)
+     1        1                 Material 34306 / CAM, SLICE ADJ, UPPER,                       2 / (EA)
+                                                                                                        $174.00 USD     $348.00 USD
+                                         COATED, DYN1
+                                                                                                     Line Item Total : $348.00 USD
+     Line No.    PO Line No.          Type    Supplier Part No. /             Customer Part No.        Quantity            Unit Price         Subtotal
+                                         Description                                       (UOM)
+     2                           Material 34392 / KNIFE HOLDER, SLICE.
+               2                                                                        24 / (EA)         $141.00 USD    $3,384.00 USD
+                                         170V, QC, FRITO
+                                                                                                    Line Item Total : $3,384.00 USD
+     Line No.   PO Line No.         Type    Supplier Part No. /             Customer Part No.                          Unit Price         Subtotal
+                                                                                        Quantity
+                                         Description                                       (UOM)
+     3        3                 Material 34278 / KNIFE HOLDER, FLAT,                         16 / (EA)          $92.00 USD    $1,472.00 USD
+                                         SLICE,QRC,HP, INSERT
+                                                                                                    Line Item Total : $1,472.00 USD
+                                                                                Amount Summary
+                                                                                Line item subtotal                         $5,204.00 USD
+                                                                                Gross amount                           $5,204.00 USD
+                                                                                                                     $5,204.00 USD
+                                                                                Net amount
+                                                                                                                        $0.00 USD
+                                                                                Total tax amount
+                                                                                Total withholding tax amount
+                                                                                                                      $5,204.00 USD
+                                                                                Amount Due
+      Additional Information
+      Payment Method
+      Check
+      Billing Information                                                         Remittance Information
+      Bill From                      Bill To                                    Remit To
+      Urschel Laboratories. Inc.
+                                  Frito-Lay, Inc.                               A/R
+      1200 Cutting Edge Drive
+                                  c/o PEPSICO NASS                           PO BOX 856299
+      Chesterton
+                                  ACCOUNTS PAYABLES                       MINNEAPOLIS
+      IN
+                                  PO BOX 1800                               MN
+     46304
+                                  Winston Salem                              55485-6299
+     United States
+                                  NC                                      United States
+                                  27105                                    Address ID: US1_11004
+                                  United States
+                                  Address ID: US28
+  Payment Terms
+   Net payment Terms (Days) :
+   30
+==================================<Page 5 - END>================================
+==================================<Page 6 - START>================================
+ Appendix
+Line No.
+            PO Line No. Type                            Supplier Part No. / Description
+1          1
+                      Material                          34306 / CAM, SLICE ADJ, UPPER, COATED, DYN1
+Additional Details:
+Classification Domain : Custom
+Classification Code : CAP100307_101
+Supplier Part ID : 34306
+Manufacturer Part ID : 34306
+Line No.
+           PO Line No. Type                            Supplier Part No. / Description
+2
+           2          Material                          34392 / KNIFE HOLDER, SLICE, 170V, QC, FRITO
+Additional Details:
+Classification Domain : Custom
+Classification Code : CAP100307_101
+Supplier Part ID : 34392
+Manufacturer Part ID : 34392
+Line No.    PO Line No. Type
+                                                       Supplier Part No. / Description
+3         3          Material
+                                                       34278 / KNIFE HOLDER, FLAT, SLICE,QRC,HP, INSERT
+Additional Details:
+Classification Domain : Custom
+Classification Code : CAP100307_101
+Supplier Part ID : 34278
+Manufacturer Part ID : 34278
+PDF generated on Friday 13 Feb 2026 8:32 AM GMT-08:00
+==================================<Page 6 - END>================================

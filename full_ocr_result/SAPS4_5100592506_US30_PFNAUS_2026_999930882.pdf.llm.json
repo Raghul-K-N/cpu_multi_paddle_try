@@ -1,0 +1,81 @@
+{
+  "invoice_data": {
+    "invoice_number": "RI17245",
+    "invoice_date": "1/31/2026",
+    "invoice_amount": null,
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": null,
+    "po_number": [
+      "2259450600",
+      "M413085656"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "BOWMAN TRAILER LEASING",
+    "vendor_address": "PO BOX 433, WILLIAMSPORT, MD 21795, United States",
+    "po_line_items": [
+      {
+        "description": "Mileage Fixed Rate / Mileage Fixed Rate",
+        "quantity": 16000.0,
+        "net_price": 640.0
+      },
+      {
+        "description": "Dry Van 2014-Newer / Dry Van 2014-Newer",
+        "quantity": 9.0,
+        "net_price": 300.0
+      },
+      {
+        "description": "Dry Van 2020-Newer / Dry Van 2020-Newer",
+        "quantity": 7.0,
+        "net_price": 325.0
+      }
+    ],
+    "vat_amount": null,
+    "gl_account": null,
+    "bank_name": null,
+    "account_holder_name": null,
+    "banking_account_number": null,
+    "remit_to_address": null,
+    "bill_to_address": null,
+    "transaction_type": "debit"
+  },
+  "filename": "SAPS4_5100592506_US30_PFNAUS_2026_999930882.pdf",
+  "raw_response": {
+    "invoice_number": "RI17245",
+    "invoice_date": "1/31/2026",
+    "invoice_amount": null,
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": null,
+    "po_number": [
+      "2259450600",
+      "M413085656"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "BOWMAN TRAILER LEASING",
+    "vendor_address": "PO BOX 433, WILLIAMSPORT, MD 21795, United States",
+    "po_line_items": [
+      {
+        "description": "Mileage Fixed Rate / Mileage Fixed Rate",
+        "quantity": 16000.0,
+        "net_price": 640.0
+      },
+      {
+        "description": "Dry Van 2014-Newer / Dry Van 2014-Newer",
+        "quantity": 9.0,
+        "net_price": 300.0
+      },
+      {
+        "description": "Dry Van 2020-Newer / Dry Van 2020-Newer",
+        "quantity": 7.0,
+        "net_price": 325.0
+      }
+    ]
+  }
+}

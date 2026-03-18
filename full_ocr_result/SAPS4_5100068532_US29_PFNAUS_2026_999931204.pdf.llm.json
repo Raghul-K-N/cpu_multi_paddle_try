@@ -1,0 +1,109 @@
+{
+  "invoice_data": {
+    "invoice_number": "8963008",
+    "invoice_date": "January 31, 2025",
+    "invoice_amount": "396.90",
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": null,
+    "po_number": [
+      "M412805925"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "Plunkett's 7 Varment Guard",
+    "vendor_address": "ARMENT 40 52nd Way Northeast, Fridley, MN 55421",
+    "po_line_items": [
+      {
+        "description": "Annual Assessment",
+        "quantity": null,
+        "net_price": 108.0
+      },
+      {
+        "description": "Interior Rodent Traps",
+        "quantity": null,
+        "net_price": 0.0
+      },
+      {
+        "description": "Exterior Rodent Traps",
+        "quantity": null,
+        "net_price": 10.8
+      },
+      {
+        "description": "Exterior Rodent Bait Stations",
+        "quantity": null,
+        "net_price": 82.8
+      },
+      {
+        "description": "German Cockroach Control",
+        "quantity": null,
+        "net_price": 27.0
+      },
+      {
+        "description": "Interior Insect Control",
+        "quantity": null,
+        "net_price": 36.0
+      }
+    ],
+    "vat_amount": null,
+    "gl_account": null,
+    "bank_name": null,
+    "account_holder_name": null,
+    "banking_account_number": null,
+    "remit_to_address": null,
+    "bill_to_address": null,
+    "transaction_type": "debit"
+  },
+  "filename": "SAPS4_5100068532_US29_PFNAUS_2026_999931204.pdf",
+  "raw_response": {
+    "invoice_number": "8963008",
+    "invoice_date": "January 31, 2025",
+    "invoice_amount": "396.90",
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": null,
+    "po_number": [
+      "M412805925"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "Plunkett's 7 Varment Guard",
+    "vendor_address": "ARMENT 40 52nd Way Northeast, Fridley, MN 55421",
+    "po_line_items": [
+      {
+        "description": "Annual Assessment",
+        "quantity": null,
+        "net_price": 108.0
+      },
+      {
+        "description": "Interior Rodent Traps",
+        "quantity": null,
+        "net_price": 0.0
+      },
+      {
+        "description": "Exterior Rodent Traps",
+        "quantity": null,
+        "net_price": 10.8
+      },
+      {
+        "description": "Exterior Rodent Bait Stations",
+        "quantity": null,
+        "net_price": 82.8
+      },
+      {
+        "description": "German Cockroach Control",
+        "quantity": null,
+        "net_price": 27.0
+      },
+      {
+        "description": "Interior Insect Control",
+        "quantity": null,
+        "net_price": 36.0
+      }
+    ]
+  }
+}

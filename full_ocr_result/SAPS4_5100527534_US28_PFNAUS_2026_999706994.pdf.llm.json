@@ -1,0 +1,59 @@
+{
+  "invoice_data": {
+    "invoice_number": "116862934",
+    "invoice_date": "6/27/2025",
+    "invoice_amount": "5248.07",
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": "399.97",
+    "po_number": [
+      "4502582443"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "Crown Equipment Corporation",
+    "vendor_address": "4000 Scientific Dr, Arliington, TX 76014, PO Box 641173, Cincinnati, OH 45264-1173",
+    "po_line_items": [
+      {
+        "description": "Motor Ac Traction 36V Truck",
+        "quantity": 2.0,
+        "net_price": 4848.1
+      }
+    ],
+    "vat_amount": null,
+    "gl_account": null,
+    "bank_name": null,
+    "account_holder_name": null,
+    "banking_account_number": null,
+    "remit_to_address": null,
+    "bill_to_address": null,
+    "transaction_type": "debit"
+  },
+  "filename": "SAPS4_5100527534_US28_PFNAUS_2026_999706994.pdf",
+  "raw_response": {
+    "invoice_number": "116862934",
+    "invoice_date": "6/27/2025",
+    "invoice_amount": "5248.07",
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": "399.97",
+    "po_number": [
+      "4502582443"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "Crown Equipment Corporation",
+    "vendor_address": "4000 Scientific Dr, Arliington, TX 76014, PO Box 641173, Cincinnati, OH 45264-1173",
+    "po_line_items": [
+      {
+        "description": "Motor Ac Traction 36V Truck",
+        "quantity": 2.0,
+        "net_price": 4848.1
+      }
+    ]
+  }
+}

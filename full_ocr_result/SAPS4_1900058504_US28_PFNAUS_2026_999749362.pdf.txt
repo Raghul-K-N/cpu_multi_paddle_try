@@ -1,0 +1,214 @@
+==================================<Page 1 - START>================================
+   OpenText Workflow History
+   Vendor
+   TCI ACQUISITION CORP
+   CSC TAX COMPLIANCE INC
+   13500 EVENING CREEK DR N
+    SAN DIEGO CA 92128-8104
+    USA
+    Invoice
+    Reference        INV62306
+                                                               Document Date    17.12.2025
+    DP Document No.   39327914
+                                                               Net Amount       USD         83,095.41
+    Comp. Code       US28 Frito-Lay, Inc.                     Tax Amount
+                                                                                 USD            5,492.96
+   Posting Date
+                      13.02.2026                               Gross Amount
+                                                                                 USD         88,588.37
+   SAP Document No. 1900058504 2026
+                                           Pre-Process History
+    ACTIVITY                                             USER       END TIME
+                                                                                        DOCUMENT STATUS
+    Update status                                        VRBLAOT_U  05.02.2026        Validation
+                                                          SR         18:54:33          Complete
+                                       Document Process History
+    ACTIVITY         PROCESS TYPE/BLOCK REASON
+                                                          USER        END TIME         DOCUMENT STATUS
+    BC Inbound
+                                                          VRBLAOT_U  05.02.2026       Document
+                                                          SR          18:16:25         Registered
+    Workflow Start   Invalid Requestor ID (NPo)
+                                                          Record to  05.02.2026        Created
+                                                          Report     18:54:33
+                                                          Batch
+                                                          Account
+                                                          Owner:
+   Apply Business   Invalid Requestor ID (NPO)
+                                                          NAVINKUMA  12.02.2026        Created
+   Rules                                                 RR         21:34:23
+   Comment:
+  Changed By:  NAVINKUMAR R (09336939)
+  Changed On:   02/12/2026 21:34:19
+  ***********************************************************************
+ Hi Please approve the non po invoice
+ Apply Business
+                     Invalid Vendor (NPO)                NAVINKUMA   12.02.2026        Created
+Rules                                                  RR         21:34:48
+Comment:
+*****************************************************************
+Changed By:   NAVINKUMAR R (09336939)
+Changed On:   02/12/2026 21:34:45
+Hi Please approve the non po invoice
+Apply Business    Invalid Vendor (NPO)                NAVINKUMA   12.02.2026        Created
+Rules                                                   R R         21:35:58
+==================================<Page 1 - END>================================
+==================================<Page 2 - START>================================
+OpenText Workflow History
+Invoice
+Vendor
+                    TCI ACQUISITION CORP SAN DIEGO
+ Reference
+                    INV62306                            Gross Amount     USD      88,588.37
+                              Document Process History - Continuation
+  ACTIVITY
+                      PROCESS TYPE/BLOCK REASON          USER        END TIME         DOCUMENT STATUS
+  Comment:
+  *********************************************************************
+  Changed By:   NAVINKUMAR R (09336939)
+  Changed On:   02/12/2026 21:35:55
+  ************************************************************************
+  Hi Please approve the non po invoice
+   Business Rules   Approval Required (NPo)            SAP_WFRT
+                                                                       12.02.2026       Indexed
+   Check in BG                                                       21:36:04
+     Invoice submitted for Approval                                  12.02.2026 21:36:05
+      Financial Information Entered                       DAWN        12.02.2026 23:16:23
+                                                           COHEN
+      Comment:
+      Tax on Invoice should be $5492.96
+      Data Entered and Invoice Approved                  DAWN       12.02.2026 23:17:02
+                                                           COHEN
+      Comment:
+      Tax on Invoice should be $5492.96
+      Amount to be paid to TCI $88,588.37
+                                                                       12.02.2026 23:30:20
+      Invoice Approved                                    ERIC
+                                                           WOJINSKI
+    Approval         Approval Required (NPo)            SAP_WFRT   12.02.2026       Approval
+    Workflow                                                          23:30:24         Complete
+                                                                       12.02.2026       Approval
+    Business Rules   Process Non-PO Invoice (NPO)       SAP_WFRT
+    Check in BG                                                       23:30:25         Complete
+    Create Doc. BG   Process Non-PO Invoice (NPO)       SAP_WFRT   12.02.2026       Sent for Doc
+                                                                       23:30:26         Creation
+    Post Non-PO                                           KARTHIK M  13.02.2026       Document
+                      Process Non-PO Invoice (NPO)
+    Invoice                                                           11:31:44         Created
+                                                                       13.02.2026       Posted
+    SAP Document                                          SAP_WFRT
+    Check                                                             11:31:51
+==================================<Page 2 - END>================================
+==================================<Page 3 - START>================================
+       PEPSICO
+You must fill n all of the fields below and the form must be accompanied with supporting documentation.
+2.Save submission as 1 single PDF file prior to submitting to nassapinvoicesubmission@pepsico.com
+            SAP Payment Request
+                                                                         To be filled by Requestor
+       Substitute Invoice Form
+Vendor Type                                         S4
+Vendor Name:                                        CSC Tax Compliance, Inc
+Vendor Number:                                      2003230570
+Company Code:                                       US28
+                                                   13500 EVENING CREEK DR N
+Remit To Address :
+                                                   SAN DIEGO, CA 92128-8125
+Must match the address in the AP system)
+Special Handling needed:
+Attn:
+Address:
+Overnight delivery required:
+if yes provide account # or CC below)
+edEx or UPS, & Provide Number:
+edEx or UPS account #
+Cost Center (If No FedEx/UPS Number):
+rnsaction type:                                       Invoice
+Choose only 1 option - Invoice or Credit Memo from the dropdown
+nvoice Date:                                         12/17/2025
+nvoice #:
+                                                   INV62306
+imited to 16 characters
+urchase Order #
+Not required if non-PO
+ayment GROSS Amount:                                $83,095.41
+ax Amount
+                                                  $5,492.96
+(f applicable)
+                                                  $88,588.37
+ayment NET Amount:
+Currency (USD or CAD)                                  USD
+leader Text:                                          PTMS ANNUAL FEE
+tequestor Name:                                      Dawn Cohen
+tequestor email                                       dawn.cohen@pepsico.com
+st Level Approver Name                                 Eric Wojinski
+st Level Approver Email id/GPID                           eric.d.wojinski@pepsico.com/01171782
+ate Requested:
+                                                  2/3/2026
+L Coding (6 digits)                                     219520
+Cost Center (if applicable)                                2000699902
+rofit Center (if applicable)                               4FUSL00000
+VBS Element (if applicable)
+For Assistance On This Form submission please contact:
+Raise service now ticket(Snow)
+                                                  PepsiCo - Sign In
+==================================<Page 3 - END>================================
+==================================<Page 4 - START>================================
+                                                                                                            1 of 1
+                                                                                             12/17/2025
+      Tax Compliance, Inc.                                                Date
+                                                                                     Invoice # INV62306
+      MAIL CHECKS TO:                                                              Terms  Net 60
+      PO BOX 735697                                                                PO#   Required
+      Dallas, TX 75373-5697
+      Phone: (858) 547-4100
+      www.cscglobal.com
+      BILL TO
+                                                     ACH REMIT TO:
+      PepsiCo, Inc.                                   Tax Compliance, Inc.
+                                                                                    DUE DATE        PLEASE PAY
+      7701 Legacy Drive                              ABA #: 071000013
+                                                                                    02/15/2026        $88,588.37
+      Suite 1300                                     Swift Code: CHASUS33
+      Plano TX 75024                                Bank Acct #: 758680417
+            CsC TcI® System Solution - Beginning
+             01/01/2026 through 12/31/2026
+            Property Tax Management System ("PTMS")                                                                   $50,418.17
+                                                                                                             $7,035.50
+            PTMS - Additional Fee
+            Hosted Services                                                                                     $25,116.74
+            PTMS Annual Utility Maintenance                                                                            $525.00
+            Grand Totals                                                                                     $83,095.41
+                                                                                                           $83,095.41
+                                                                                Subtotal
+                                                                                Tax Total                    $5,492.96
+                                                                              Total USD                   $88,588.37
+                                                                         Amount Applied                        $0.00
+                                                                            Amount Due                   $88,588.37
+                                                                                                       THANK YOU!
+                  CSC Tax Compliance, Inc., 2100 E Lake Cook Rd, Suite 800, Buffalo Grove, IL 60089
+==================================<Page 4 - END>================================
+==================================<Page 5 - START>================================
+          From: SPA - PepsiCo Nass AP Invoice Submission <nassapInvoiceSubmission@pepsico.com>
+           Sent: Tue, 3 Feb 2026 20:00:52 (UTC)
+           To: svcimagingspaboxprod@pepsico.com
+           Subject: FW: CSC Tax Compliance, Inc/Invoice INV62306 - Non PO Invoice
+           Importance: High
+           Original Number of Attachments : 1
+           Original Attachment Names: Invoice_INV62306.pdf
+           Number of forwarded PDF's: 1
+           Number of forwarded Non PDF files: 0
+           From: Cohen, Dawn{PEP}<Dawn.Cohen@pepsico.com>
+           Sent: Tuesday, February 3, 2026 7:59:02 PM
+           To: SPA - PepsiCo Nass AP Invoice Submission <nassaplnvoiceSubmission@pepsico.com>
+           Subject: CSC Tax Compliance, Inc/Invoice INV62306 - Non PO Invoice
+           Hi,
+           Please see the attached invoice for processing.
+           Thanks!
+                                             Dawn Cohen
+                                            Property Tax Asst Analyst
+                                            PepsiCo, Inc. | Corporate Tax Administration
+              pepsico           dawn.cohen@pepsico.com
+                Food. Drinks, Smiles.
+                                             7701 Legacy Dr. Plano, TX 75024
+                                             972.334.5264
+==================================<Page 5 - END>================================

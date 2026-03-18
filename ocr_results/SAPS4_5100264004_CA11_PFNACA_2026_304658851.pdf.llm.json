@@ -1,0 +1,43 @@
+{
+  "invoice_data": {
+    "invoice_number": "570367",
+    "invoice_date": "Jan 19, 2026",
+    "invoice_amount": null,
+    "invoice_currency": null,
+    "tax_amount": null,
+    "po_number": [
+      "4504880801"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "Naylor Building Partnerships Inc.",
+    "vendor_address": "455 N.Service Rd E. Oakville,ON L6H 1A5(905)338-8000, 375 Sheldon Dr Unit 7&8 Cambridge,ON N1T 1B1(519)740-9090, 180 Wilkinson Rd Unit 21 Brampton,ON L6T 4W8(905)458-1602, 110 Scotia Ct. Whitby, ON L1N 8Y7 (289)278-1482",
+    "po_line_items": null,
+    "vat_amount": null,
+    "gl_account": null,
+    "bank_name": null,
+    "account_holder_name": null,
+    "banking_account_number": null,
+    "remit_to_address": null,
+    "bill_to_address": null,
+    "transaction_type": "debit"
+  },
+  "filename": "SAPS4_5100264004_CA11_PFNACA_2026_304658851.pdf",
+  "raw_response": {
+    "invoice_number": "570367",
+    "invoice_date": "Jan 19, 2026",
+    "invoice_amount": null,
+    "invoice_currency": null,
+    "tax_amount": null,
+    "po_number": [
+      "4504880801"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "Naylor Building Partnerships Inc.",
+    "vendor_address": "455 N.Service Rd E. Oakville,ON L6H 1A5(905)338-8000, 375 Sheldon Dr Unit 7&8 Cambridge,ON N1T 1B1(519)740-9090, 180 Wilkinson Rd Unit 21 Brampton,ON L6T 4W8(905)458-1602, 110 Scotia Ct. Whitby, ON L1N 8Y7 (289)278-1482",
+    "po_line_items": null
+  }
+}

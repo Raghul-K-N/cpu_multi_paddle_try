@@ -1,0 +1,129 @@
+{
+  "invoice_data": {
+    "invoice_number": "20271550",
+    "invoice_date": "01/31/2026",
+    "invoice_amount": "378.55",
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": "18.02",
+    "po_number": [
+      "M412719716"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "WESTC&AST PLASTICRECYCLINGI NC",
+    "vendor_address": "20255 102 Ave, Langley, B.C. V1M 4B4, Canada",
+    "po_line_items": [
+      {
+        "description": "1 Bulk Bag Clear Polyethylene - 2 Bag Min - Jan 16",
+        "quantity": 1.0,
+        "net_price": 39.78
+      },
+      {
+        "description": "Clear Polyethylene - Jan 21",
+        "quantity": 3.0,
+        "net_price": 19.89
+      },
+      {
+        "description": "1 Bulk Bag Clear Polyethylene - 2 Bag Min - Jan 23",
+        "quantity": 1.0,
+        "net_price": 39.78
+      },
+      {
+        "description": "Clear Polyethylene - Jan 28",
+        "quantity": 1.0,
+        "net_price": 19.89
+      },
+      {
+        "description": "1 Bulk Bag Clear Polyethylene - 2 Bag Min - Jan 30",
+        "quantity": 1.0,
+        "net_price": 39.78
+      },
+      {
+        "description": "Environmental/Fuel Fee",
+        "quantity": 1.0,
+        "net_price": 52.51
+      },
+      {
+        "description": "Commodity Offset Fee",
+        "quantity": 1.0,
+        "net_price": 66.84
+      },
+      {
+        "description": "Bulk Bags Rental Fee",
+        "quantity": 1.0,
+        "net_price": 2.5
+      }
+    ],
+    "vat_amount": null,
+    "gl_account": null,
+    "bank_name": null,
+    "account_holder_name": null,
+    "banking_account_number": null,
+    "remit_to_address": null,
+    "bill_to_address": null,
+    "transaction_type": "debit"
+  },
+  "filename": "SAPS4_5101613500_CA11_PFNACA_2026_304672296.pdf",
+  "raw_response": {
+    "invoice_number": "20271550",
+    "invoice_date": "01/31/2026",
+    "invoice_amount": "378.55",
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": "18.02",
+    "po_number": [
+      "M412719716"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "WESTC&AST PLASTICRECYCLINGI NC",
+    "vendor_address": "20255 102 Ave, Langley, B.C. V1M 4B4, Canada",
+    "po_line_items": [
+      {
+        "description": "1 Bulk Bag Clear Polyethylene - 2 Bag Min - Jan 16",
+        "quantity": 1.0,
+        "net_price": 39.78
+      },
+      {
+        "description": "Clear Polyethylene - Jan 21",
+        "quantity": 3.0,
+        "net_price": 19.89
+      },
+      {
+        "description": "1 Bulk Bag Clear Polyethylene - 2 Bag Min - Jan 23",
+        "quantity": 1.0,
+        "net_price": 39.78
+      },
+      {
+        "description": "Clear Polyethylene - Jan 28",
+        "quantity": 1.0,
+        "net_price": 19.89
+      },
+      {
+        "description": "1 Bulk Bag Clear Polyethylene - 2 Bag Min - Jan 30",
+        "quantity": 1.0,
+        "net_price": 39.78
+      },
+      {
+        "description": "Environmental/Fuel Fee",
+        "quantity": 1.0,
+        "net_price": 52.51
+      },
+      {
+        "description": "Commodity Offset Fee",
+        "quantity": 1.0,
+        "net_price": 66.84
+      },
+      {
+        "description": "Bulk Bags Rental Fee",
+        "quantity": 1.0,
+        "net_price": 2.5
+      }
+    ]
+  }
+}

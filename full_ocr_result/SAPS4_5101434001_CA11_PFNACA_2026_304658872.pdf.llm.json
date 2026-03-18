@@ -1,0 +1,109 @@
+{
+  "invoice_data": {
+    "invoice_number": "54677391",
+    "invoice_date": "2026-01-31",
+    "invoice_amount": "260,36",
+    "invoice_currency": [
+      "CAD"
+    ],
+    "tax_amount": "33,91",
+    "po_number": [
+      "4504511108"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "LINDE CANADA INC.",
+    "vendor_address": "165 RUE DES GRANDS LACS, STE AUGUSTIN DE DESMAURES QC G3A 2K1, SCARBOROUGH ON M1R 5M1, VANIER QC G1M 2G1, Canada",
+    "po_line_items": [
+      {
+        "description": "LOCATION BOUTEILLE K IND. RNTC120",
+        "quantity": 2.0,
+        "net_price": 1.14
+      },
+      {
+        "description": "LOCATION BOUTEILLE T IND. RNTC121",
+        "quantity": 1.0,
+        "net_price": 1.14
+      },
+      {
+        "description": "LOCATION BOUTEILLE S IND. RNTC123",
+        "quantity": 1.0,
+        "net_price": 1.14
+      },
+      {
+        "description": "LOCATION BOUTEILLE CWS RNTC212",
+        "quantity": 1.0,
+        "net_price": 1.14
+      },
+      {
+        "description": "FRAIS SERV SÉCURITÉ/ENVIRONN. CMSCHAZMATMM2",
+        "quantity": 1.0,
+        "net_price": 26.95
+      },
+      {
+        "description": "ACETYLENE WS CYLINDER WITH A CAP",
+        "quantity": 1.0,
+        "net_price": 2.59
+      }
+    ],
+    "vat_amount": null,
+    "gl_account": null,
+    "bank_name": null,
+    "account_holder_name": null,
+    "banking_account_number": null,
+    "remit_to_address": null,
+    "bill_to_address": null,
+    "transaction_type": "debit"
+  },
+  "filename": "SAPS4_5101434001_CA11_PFNACA_2026_304658872.pdf",
+  "raw_response": {
+    "invoice_number": "54677391",
+    "invoice_date": "2026-01-31",
+    "invoice_amount": "260,36",
+    "invoice_currency": [
+      "CAD"
+    ],
+    "tax_amount": "33,91",
+    "po_number": [
+      "4504511108"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "LINDE CANADA INC.",
+    "vendor_address": "165 RUE DES GRANDS LACS, STE AUGUSTIN DE DESMAURES QC G3A 2K1, SCARBOROUGH ON M1R 5M1, VANIER QC G1M 2G1, Canada",
+    "po_line_items": [
+      {
+        "description": "LOCATION BOUTEILLE K IND. RNTC120",
+        "quantity": 2.0,
+        "net_price": 1.14
+      },
+      {
+        "description": "LOCATION BOUTEILLE T IND. RNTC121",
+        "quantity": 1.0,
+        "net_price": 1.14
+      },
+      {
+        "description": "LOCATION BOUTEILLE S IND. RNTC123",
+        "quantity": 1.0,
+        "net_price": 1.14
+      },
+      {
+        "description": "LOCATION BOUTEILLE CWS RNTC212",
+        "quantity": 1.0,
+        "net_price": 1.14
+      },
+      {
+        "description": "FRAIS SERV SÉCURITÉ/ENVIRONN. CMSCHAZMATMM2",
+        "quantity": 1.0,
+        "net_price": 26.95
+      },
+      {
+        "description": "ACETYLENE WS CYLINDER WITH A CAP",
+        "quantity": 1.0,
+        "net_price": 2.59
+      }
+    ]
+  }
+}

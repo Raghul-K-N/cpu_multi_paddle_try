@@ -1,0 +1,79 @@
+{
+  "invoice_data": {
+    "invoice_number": "F000834",
+    "invoice_date": "23-DÉC-2025",
+    "invoice_amount": null,
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": null,
+    "po_number": [
+      "4504305195"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "Summum Formation & Logistique Inc.",
+    "vendor_address": "01-35 Boul. de la Pinière, Terrebonne (Québec), J 4P7, Téléphone / Phone no.: 514 351-2333No. fax / fax no.: Télécopieur : 514 351-1881",
+    "po_line_items": [
+      {
+        "description": "Frais de déplacement (kilomètre)",
+        "quantity": 0.7,
+        "net_price": 22.4
+      },
+      {
+        "description": "Frais de déplacement (horaire)",
+        "quantity": 50.0,
+        "net_price": 190.0
+      },
+      {
+        "description": "Évaluation Routière",
+        "quantity": 2.0,
+        "net_price": 190.0
+      }
+    ],
+    "vat_amount": null,
+    "gl_account": null,
+    "bank_name": null,
+    "account_holder_name": null,
+    "banking_account_number": null,
+    "remit_to_address": null,
+    "bill_to_address": null,
+    "transaction_type": "debit"
+  },
+  "filename": "SAPS4_5101531001_CA11_PFNACA_2026_304654799.pdf",
+  "raw_response": {
+    "invoice_number": "F000834",
+    "invoice_date": "23-DÉC-2025",
+    "invoice_amount": null,
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": null,
+    "po_number": [
+      "4504305195"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "Summum Formation & Logistique Inc.",
+    "vendor_address": "01-35 Boul. de la Pinière, Terrebonne (Québec), J 4P7, Téléphone / Phone no.: 514 351-2333No. fax / fax no.: Télécopieur : 514 351-1881",
+    "po_line_items": [
+      {
+        "description": "Frais de déplacement (kilomètre)",
+        "quantity": 0.7,
+        "net_price": 22.4
+      },
+      {
+        "description": "Frais de déplacement (horaire)",
+        "quantity": 50.0,
+        "net_price": 190.0
+      },
+      {
+        "description": "Évaluation Routière",
+        "quantity": 2.0,
+        "net_price": 190.0
+      }
+    ]
+  }
+}

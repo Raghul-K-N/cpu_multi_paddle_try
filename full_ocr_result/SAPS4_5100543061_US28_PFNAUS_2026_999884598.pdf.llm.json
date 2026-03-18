@@ -1,0 +1,39 @@
+{
+  "invoice_data": {
+    "invoice_number": "0090524-IN",
+    "invoice_date": "1/27/2026",
+    "invoice_amount": null,
+    "invoice_currency": null,
+    "tax_amount": null,
+    "po_number": null,
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "R & D Machine",
+    "vendor_address": "P.O. BOX 560486 · DALLAS, TEXAS 75356-0486",
+    "po_line_items": null,
+    "vat_amount": null,
+    "gl_account": null,
+    "bank_name": null,
+    "account_holder_name": null,
+    "banking_account_number": null,
+    "remit_to_address": null,
+    "bill_to_address": null,
+    "transaction_type": "debit"
+  },
+  "filename": "SAPS4_5100543061_US28_PFNAUS_2026_999884598.pdf",
+  "raw_response": {
+    "invoice_number": "0090524-IN",
+    "invoice_date": "1/27/2026",
+    "invoice_amount": null,
+    "invoice_currency": null,
+    "tax_amount": null,
+    "po_number": null,
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "R & D Machine",
+    "vendor_address": "P.O. BOX 560486 · DALLAS, TEXAS 75356-0486",
+    "po_line_items": null
+  }
+}

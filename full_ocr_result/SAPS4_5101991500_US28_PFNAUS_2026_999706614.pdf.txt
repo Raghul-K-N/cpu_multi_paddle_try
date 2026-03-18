@@ -1,0 +1,310 @@
+==================================<Page 1 - START>================================
+Standard Invoice
+                                                                                                                    GRAINGER
+Original tax invoice has been submitted electronically. This is a
+human readable representation (copy) of the original tax invoice.
+                                                                Invoice Number                                      980258716326
+                                                                (Supplier Reference No.)
+                                                                                              Tuesday 10 Feb 2026 5:35 AM GMT-07:00
+                                                                Invoice Date
+                                                                                                                 $1,933.86 USD
+                                                                Amount Due
+    Contact Information                                                       Shipping Information
+    Supplier                      Customer
+                                                                          Ship From                      Ship To
+    Grainger                      Frito-Lay Inc.                               Grainger                      US-PL-KERN-CA-FLI
+    100 Grainger Pkwy               c/o PEPSICO NASS                          2710 KEYSTONE PACIFIC          CONSUMABLES - BAKERY
+    Lake Forest                   ACCOUNTS PAYABLES                       PARKWAY                     28801 HAGEMAN RD
+    IL                          PO BOX 1800                               PATTERSON                    BAKERSFIELD
+    Winst                        Winston Salem                              CA                          CA
+    United States                  NC                                      95363                         93314
+                                 27105                                    United States                    United States
+                                 United States                                                            Phone: (661) 328-6000
+  Line Items                                              PO No. : M413548703                                       PO Date : 10 Feb 2026
+  Line No.    PO Line No.         Type    Supplier Part No. /             Customer Part No.        Quantity            Unit Price         Subtotal
+                                      Description                                       (UOM)
+  1        1                 Material 2FDD8 / Cable Tie,PK50                              2 / (EA)           $60.92 USD      $121.84 USD
+  Line No.    PO Line No.         Type   Supplier Part No. /             Customer Part No.        Quantity            Unit Price         Subtotal
+                                      Description                                       (UOM)
+  2                          Material 1PFA8 / Elbow,Nylon,Push-
+            2                                                                       1 / (EA)           $22.88 USD      $22.88 USD
+                                      Fit1/4,MNPT1/8,PK10
+  Line No.   PO Line No.         Type   Supplier Part No. /             Customer Part No.        Quantity            Unit Price         Subtotal
+                                      Description                                       (UOM)
+   3        3                 Material 12R706 / Sleeve                                   5 / (EA)            $2.83 USD      $14.15 USD
+                                      Bearing.Bronze,1/4 in Bore,PK3
+  Line No.    PO Line No.         Type   Supplier Part No. /
+                                                                Customer Part No.        Quantity            Unit Price         Subtotal
+                                      Description
+                                                                                     (UOM)
+   4        4                 Material 4XC23 /                                                          $37.51 USD      $375.10 USD
+                                                                                     10 / (EA)
+                                      Fuse,600VAC.Cyl,CC,4A,Non-
+                                      Indicating
+  Line No.    PO Line No.         Type   Supplier Part No. /             Customer Part No.        Quantity            Unit Price         Subtotal
+                                      Description
+                                                                                     (UOM)
+   5        5                 Material 36LK34 / Connector,SS,Trade Size
+                                                                                     3 / (EA)           $74.82 USD     $224.46 USD
+                                      1/2in
+  Line No.    PO Line No.         Type   Supplier Part No. I
+                                                                Customer Part No.        Quantity            Unit Price         Subtotal
+                                      Description                                       (UOM)
+  6        8                Material
+                                      6F121 /                                         10 / (EA)          $47.13 USD
+                                                                                                                    $471.30 USD
+                                      Fuse,600VAC.Cyl,CC,8A,Non-
+                                      Indicating
+  Line No.   PO Line No.         Type   Supplier Part No. /
+                                                                Customer Part No.        Quantity            Unit Price         Subtotal
+                                      Description
+                                                                                     (UOM)
+  7        9                 Material
+                                      4XF36 /
+                                                                                     6 / (EA)           $92.79 USD      $556.74 USD
+                                      Fuse,600VAC.Cyl,J,35A,300VDC,Non-
+                                     Ind
+                                                                            Amount Summary
+                                                                            Line item subtotal                         $1.786.47 USD
+                                                                            Gross amount
+                                                                                                                  $1,933.86 USD
+                                                                            Net amount
+                                                                                                                  $1,933.86 USD
+                                                                            Total tax amount
+                                                                                                                    $147.39 USD
+                                                                            Total withholding tax amount
+                                                                            Amount Due
+                                                                                                                  $1,933.86 USD
+   Additional Information
+   InvoiceSourceDocument
+   PurchaseOrder
+   InvoiceSubmissionMethod
+  cXML
+  Billing Information
+                                                                        Remittance Information
+  Bill To
+                                                                        Remit To
+  Frito-Lay Inc.
+                                                                        GRAINGER
+  c/o PEPSICO NASS
+                                                                        DEPT. 886129610
+  ACCOUNTS PAYABLES
+                                                                        PALATINE
+  PO BOX 1800
+  Winston Salem                                                          IL
+  NC                                                                  60038-0001
+  27105                                                                United States
+                                                                       Address ID: US1_10359
+  United States
+  Address ID: US28                                                        Tax ID of Supplier
+                                                                       36-1150280
+                                                                    Reference Documents
+                                                                    Original Supplier Order #: 1575679072
+==================================<Page 1 - END>================================
+==================================<Page 2 - START>================================
+  Appendix
+  Line No.
+             PO Line No. Type                           Supplier Part No. / Description
+  1          1         Material
+                                                        2FDD8 / Cable Tie,PK50
+  Additional Details:
+  Supplier Part ID : 2FDD8
+  Supplier Part Auxiliary ID : WWG2FDD8
+  Line No.    PO Line No. Type
+                                                        Supplier Part No. / Description
+  2         2         Material
+                                                        1PFA8 / Elbow,Nylon,Push-Fit1/4,MNPT1/8,PK10
+  Additional Details:
+  Supplier Part ID : 1PFA8
+  Supplier Part Auxiliary ID : WWG1PFA8
+  Line No.    PO Line No. Type
+                                                       Supplier Part No. / Description
+  3         3         Material
+                                                       12R706 / Sleeve Bearing,Bronze,1/4 in Bore,PK3
+  Additional Details:
+  Supplier Part ID : 12R706
+  Supplier Part Auxiliary ID : WWG12R706
+  Line No.
+            PO Line No. Type                           Supplier Part No. / Description
+  4                    Material
+            4                                         4XC23 / Fuse,600VAC,Cyl,CC,4A,Non-Indicating
+  Additional Details:
+ Supplier Part ID : 4XC23
+ Supplier Part Auxiliary ID : WWG4XC23
+            PO Line No. Type
+Line No.                                              Supplier Part No. / Description
+ 5         5         Material                          36LK34 / Connector,SS,Trade Size 1/2in
+ Additional Details:
+ Supplier Part ID : 36LK34
+ Supplier Part Auxiliary ID : WWG36LK34
+Line No.    PO Line No. Type
+                                                       Supplier Part No. / Description
+ 6         8         Material
+                                                       6F121 / Fuse,600VAC,Cyl,CC,8A,Non-Indicating
+ Additional Details:
+ Supplier Part ID : 6F121
+ Supplier Part Auxiliary ID : WWG6F121
+Line No.    PO Line No. Type
+                                                      Supplier Part No. / Description
+7         9         Material
+                                                      4XF36 / Fuse,600VAC,Cyl,J,35A,300VDC,Non-Ind
+Additional Details:
+Supplier Part ID : 4XF36
+Supplier Part Auxiliary ID : WWG4XF36
+PDF generated on Wednesday 11 Feb 2026 5:17 AM GMT-08:00
+==================================<Page 2 - END>================================
+==================================<Page 3 - START>================================
+ Standard Invoice
+                                                                                                                     GRAINGER
+Original tax invoice has been submitted electronically. This is a
+human readable representation (copy) of the original tax invoice.
+                                                                 Invoice Number                                      980258716326
+                                                                 (Supplier Reference No.)
+                                                                                               Tuesday 10 Feb 2026 5:35 AM GMT-07:00
+                                                                 Invoice Date
+                                                                                                                  $1,933.86 USD
+                                                                 Amount Due
+     Contact Information                                                       Shipping Information
+     Supplier                      Customer
+                                                                           Ship From                      Ship To
+     Grainger                      Frito-Lay Inc.                               Grainger                      US-PL-KERN-CA-FLI
+     100 Grainger Pkwy               c/o PEPSICO NASS                          2710 KEYSTONE PACIFIC          CONSUMABLES - BAKERY
+     Lake Forest                   ACCOUNTS PAYABLES                       PARKWAY                     28801 HAGEMAN RD
+     IL                          PO BOX 1800                               PATTERSON                    BAKERSFIELD
+     Winst                        Winston Salem                              CA                          CA
+     United States                  NC                                      95363                         93314
+                                  27105                                    United States                    United States
+                                  United States                                                            Phone: (661) 328-6000
+   Line Items                                              PO No. : M413548703                                       PO Date : 10 Feb 2026
+   Line No.    PO Line No.         Type    Supplier Part No. /             Customer Part No.        Quantity            Unit Price         Subtotal
+                                       Description                                       (UOM)
+    1        1                 Material 2FDD8 / Cable Tie,PK50                              2 / (EA)           $60.92 USD      $121.84 USD
+    Line No.    PO Line No.         Type   Supplier Part No. /             Customer Part No.        Quantity            Unit Price         Subtotal
+                                       Description                                       (UOM)
+    2                          Material 1PFA8 / Elbow,Nylon,Push-
+             2                                                                       1 / (EA)           $22.88 USD      $22.88 USD
+                                       Fit1/4,MNPT1/8,PK10
+    Line No.   PO Line No.         Type   Supplier Part No. /             Customer Part No.        Quantity            Unit Price         Subtotal
+                                       Description                                       (UOM)
+    3        3                 Material 12R706 / Sleeve                                   5 / (EA)            $2.83 USD      $14.15 USD
+                                       Bearing.Bronze,1/4 in Bore,PK3
+    Line No.    PO Line No.         Type   Supplier Part No. /
+                                                                 Customer Part No.        Quantity            Unit Price         Subtotal
+                                       Description
+                                                                                      (UOM)
+    4        4                 Material 4XC23 /                                                          $37.51 USD      $375.10 USD
+                                                                                      10 / (EA)
+                                       Fuse,600VAC.Cyl,CC,4A,Non-
+                                       Indicating
+    Line No.    PO Line No.         Type   Supplier Part No. /             Customer Part No.        Quantity            Unit Price         Subtotal
+                                       Description
+                                                                                      (UOM)
+    5        5                 Material 36LK34 / Connector,SS,Trade Size
+                                                                                      3 / (EA)           $74.82 USD     $224.46 USD
+                                       1/2in
+   Line No.    PO Line No.         Type   Supplier Part No. I
+                                                                 Customer Part No.        Quantity            Unit Price         Subtotal
+                                       Description                                       (UOM)
+   6        8                Material
+                                       6F121 /                                         10 / (EA)          $47.13 USD
+                                                                                                                     $471.30 USD
+                                       Fuse,600VAC.Cyl,CC,8A,Non-
+                                       Indicating
+   Line No.   PO Line No.         Type   Supplier Part No. /
+                                                                 Customer Part No.        Quantity            Unit Price         Subtotal
+                                       Description
+                                                                                      (UOM)
+   7        9                 Material
+                                      4XF36 /
+                                                                                      6 / (EA)           $92.79 USD      $556.74 USD
+                                       Fuse,600VAC.Cyl,J,35A,300VDC,Non-
+                                      Ind
+                                                                             Amount Summary
+                                                                              Line item subtotal                         $1.786.47 USD
+                                                                             Gross amount
+                                                                                                                   $1,933.86 USD
+                                                                             Net amount
+                                                                                                                   $1,933.86 USD
+                                                                             Total tax amount
+                                                                                                                    $147.39 USD
+                                                                             Total withholding tax amount
+                                                                             Amount Due
+                                                                                                                   $1,933.86 USD
+    Additional Information
+    InvoiceSourceDocument
+    PurchaseOrder
+    InvoiceSubmissionMethod
+   cXML
+   Billing Information
+                                                                         Remittance Information
+   Bill To
+                                                                         Remit To
+   Frito-Lay Inc.
+                                                                         GRAINGER
+   c/o PEPSICO NASS
+                                                                         DEPT. 886129610
+   ACCOUNTS PAYABLES
+                                                                         PALATINE
+   PO BOX 1800
+   Winston Salem                                                          IL
+   NC                                                                  60038-0001
+   27105                                                                United States
+                                                                        Address ID: US1_10359
+   United States
+   Address ID: US28                                                        Tax ID of Supplier
+                                                                        36-1150280
+                                                                     Reference Documents
+                                                                     Original Supplier Order #: 1575679072
+==================================<Page 3 - END>================================
+==================================<Page 4 - START>================================
+  Appendix
+  Line No.
+             PO Line No. Type                           Supplier Part No. / Description
+  1          1         Material
+                                                        2FDD8 / Cable Tie,PK50
+  Additional Details:
+  Supplier Part ID : 2FDD8
+  Supplier Part Auxiliary ID : WWG2FDD8
+  Line No.    PO Line No. Type
+                                                        Supplier Part No. / Description
+  2         2         Material
+                                                        1PFA8 / Elbow,Nylon,Push-Fit1/4,MNPT1/8,PK10
+  Additional Details:
+  Supplier Part ID : 1PFA8
+  Supplier Part Auxiliary ID : WWG1PFA8
+  Line No.    PO Line No. Type
+                                                       Supplier Part No. / Description
+  3         3         Material
+                                                       12R706 / Sleeve Bearing,Bronze,1/4 in Bore,PK3
+  Additional Details:
+  Supplier Part ID : 12R706
+  Supplier Part Auxiliary ID : WWG12R706
+  Line No.
+            PO Line No. Type                           Supplier Part No. / Description
+  4                    Material
+            4                                         4XC23 / Fuse,600VAC,Cyl,CC,4A,Non-Indicating
+  Additional Details:
+ Supplier Part ID : 4XC23
+ Supplier Part Auxiliary ID : WWG4XC23
+            PO Line No. Type
+Line No.                                              Supplier Part No. / Description
+ 5         5         Material                          36LK34 / Connector,SS,Trade Size 1/2in
+ Additional Details:
+ Supplier Part ID : 36LK34
+ Supplier Part Auxiliary ID : WWG36LK34
+Line No.    PO Line No. Type
+                                                       Supplier Part No. / Description
+ 6         8         Material
+                                                       6F121 / Fuse,600VAC,Cyl,CC,8A,Non-Indicating
+ Additional Details:
+ Supplier Part ID : 6F121
+ Supplier Part Auxiliary ID : WWG6F121
+Line No.    PO Line No. Type
+                                                      Supplier Part No. / Description
+7         9         Material
+                                                      4XF36 / Fuse,600VAC,Cyl,J,35A,300VDC,Non-Ind
+Additional Details:
+Supplier Part ID : 4XF36
+Supplier Part Auxiliary ID : WWG4XF36
+PDF generated on Wednesday 11 Feb 2026 5:17 AM GMT-08:00
+==================================<Page 4 - END>================================

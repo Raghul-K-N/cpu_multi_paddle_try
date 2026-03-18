@@ -1,0 +1,69 @@
+{
+  "invoice_data": {
+    "invoice_number": "STKN23536",
+    "invoice_date": "02/04/2026",
+    "invoice_amount": "227.17",
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": "2.67",
+    "po_number": [
+      "M413096452"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "Mckinney Trailer Rentals",
+    "vendor_address": "2601 Saturn St. Suite 110, Brea, CA 92821, United States",
+    "po_line_items": [
+      {
+        "description": "Service Call: 9846 Fourth St. Rancho Cucamonga, CA. 91730 (Complete Trailer Inspections On-Site)",
+        "quantity": 2.0,
+        "net_price": 190.0
+      },
+      {
+        "description": "Fuel Surcharge",
+        "quantity": 1.0,
+        "net_price": 34.5
+      }
+    ],
+    "vat_amount": null,
+    "gl_account": null,
+    "bank_name": null,
+    "account_holder_name": null,
+    "banking_account_number": null,
+    "remit_to_address": null,
+    "bill_to_address": null,
+    "transaction_type": "debit"
+  },
+  "filename": "SAPS4_5100237014_US30_PFNAUS_2026_999872830.pdf",
+  "raw_response": {
+    "invoice_number": "STKN23536",
+    "invoice_date": "02/04/2026",
+    "invoice_amount": "227.17",
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": "2.67",
+    "po_number": [
+      "M413096452"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "Mckinney Trailer Rentals",
+    "vendor_address": "2601 Saturn St. Suite 110, Brea, CA 92821, United States",
+    "po_line_items": [
+      {
+        "description": "Service Call: 9846 Fourth St. Rancho Cucamonga, CA. 91730 (Complete Trailer Inspections On-Site)",
+        "quantity": 2.0,
+        "net_price": 190.0
+      },
+      {
+        "description": "Fuel Surcharge",
+        "quantity": 1.0,
+        "net_price": 34.5
+      }
+    ]
+  }
+}

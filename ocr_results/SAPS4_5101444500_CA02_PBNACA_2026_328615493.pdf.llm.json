@@ -1,0 +1,47 @@
+{
+  "invoice_data": {
+    "invoice_number": "X9132262",
+    "invoice_date": "1/30/2026",
+    "invoice_amount": "206.36",
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": "23.74",
+    "po_number": [
+      "M413532333"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "WindsorCopler Inc.",
+    "vendor_address": "8605 Twin Oaks Drive WINDSOR, ON N8N 5B8",
+    "po_line_items": null,
+    "vat_amount": null,
+    "gl_account": null,
+    "bank_name": null,
+    "account_holder_name": null,
+    "banking_account_number": null,
+    "remit_to_address": null,
+    "bill_to_address": null,
+    "transaction_type": "debit"
+  },
+  "filename": "SAPS4_5101444500_CA02_PBNACA_2026_328615493.pdf",
+  "raw_response": {
+    "invoice_number": "X9132262",
+    "invoice_date": "1/30/2026",
+    "invoice_amount": "206.36",
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": "23.74",
+    "po_number": [
+      "M413532333"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "WindsorCopler Inc.",
+    "vendor_address": "8605 Twin Oaks Drive WINDSOR, ON N8N 5B8",
+    "po_line_items": null
+  }
+}

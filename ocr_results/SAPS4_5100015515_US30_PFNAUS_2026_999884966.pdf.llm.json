@@ -1,0 +1,59 @@
+{
+  "invoice_data": {
+    "invoice_number": "IN1924488",
+    "invoice_date": "2026-02-12",
+    "invoice_amount": "165.00",
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": null,
+    "po_number": [
+      "M413549195"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": "15.00",
+    "cost_center": null,
+    "vendor_name": "GEOTAB INC.",
+    "vendor_address": "2440 Winston Park Drive, Oakville, ON L6H 7V2, Canada",
+    "po_line_items": [
+      {
+        "description": "GO9B device (AT&T, USA, LTE CATM1).",
+        "quantity": 2.0,
+        "net_price": 75.0
+      }
+    ],
+    "vat_amount": null,
+    "gl_account": null,
+    "bank_name": null,
+    "account_holder_name": null,
+    "banking_account_number": null,
+    "remit_to_address": null,
+    "bill_to_address": null,
+    "transaction_type": "debit"
+  },
+  "filename": "SAPS4_5100015515_US30_PFNAUS_2026_999884966.pdf",
+  "raw_response": {
+    "invoice_number": "IN1924488",
+    "invoice_date": "2026-02-12",
+    "invoice_amount": "165.00",
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": null,
+    "po_number": [
+      "M413549195"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": "15.00",
+    "cost_center": null,
+    "vendor_name": "GEOTAB INC.",
+    "vendor_address": "2440 Winston Park Drive, Oakville, ON L6H 7V2, Canada",
+    "po_line_items": [
+      {
+        "description": "GO9B device (AT&T, USA, LTE CATM1).",
+        "quantity": 2.0,
+        "net_price": 75.0
+      }
+    ]
+  }
+}

@@ -1,0 +1,216 @@
+==================================<Page 1 - START>================================
+     OpenText Workflow History
+     Vendor
+      MENASHA CORPORATION
+      MENASHA PACKAGING COMPANY LLC
+      DEPT 6970
+      75 REMITTANCE DR
+      CHICAGO IL 60675-6970
+      USA
+      Invoice
+      Reference        3202537304
+                                                                  Document Date
+                                                                                   23.01.2026
+      DP Document No.  39075241
+                                                                  Net Amount       USD
+                                                                                                 2,191.00
+      Comp. Code       US28 Frito-Lay, Inc.
+                                                                  Tax Amount       USD               0.00
+     Posting Date     13.02.2026
+                                                                  Gross Amount     USD          2,191.00
+     SAP Document No. 1900062007 2026
+                                              Pre-Process History
+      ACTIVITY                                              USER
+                                                                         END TIME          DOCUMENT STATUS
+      Update status                                        VRBLAOT_U
+                                                                         28.01.2026        Validation
+                                                             SR         21:17:40          Complete
+                                         Document Process History
+     ACTIVITY         PROCESS TYPE/BLOCK REASON
+                                                            USER       END TIME         DOCUMENT STATUS
+     BC Inbound
+                                                            VRBLAOT_U  28.01.2026       Document
+                                                            SR          21:10:54
+                                                                                           Registered
+    Workflow Start
+                       Invalid Requestor ID (NPO)         Record to  28.01.2026        Created
+                                                                         21:17:40
+                                                            Report
+                                                            Batch
+                                                            Account
+                                                            Owner:
+   Apply Business
+                      Invalid Requestor ID (NPO)          NAVINKUMA  06.02.2026        Created
+   Rules
+                                                            RR         21:01:02
+  Comment:
+  Changed By:   NAVINKUMAR R (09336939)
+  Changed On:
+                  02/06/2026 21:01:00
+ **********************************************************************
+Hi Please approve the non po invoice
+Business Rules    Approval Required (NPo)             SAP_WFRT    06.02.2026        Indexed
+Check in BG
+                                                                         21:01:06
+   Invoice submitted for Approval
+                                                                         06.02.2026 21:01:07
+   Financial Information Entered
+                                                            KATIE       10.02.2026 12:37:36
+                                                            LEE
+  Data Entered and Invoice Approved                    KATIE       10.02.2026 12:37:38
+                                                            LEE
+   Invoice Approved
+                                                            CARLTON     12.02.2026 17:41:07
+                                                            MARSHALL
+Approval          Approval Required (NPO)             SAP_WFRT    12.02.2026        Approval
+Workflow                                                               17:41:13          Complete
+==================================<Page 1 - END>================================
+==================================<Page 2 - START>================================
+  OpenText Workflow History
+  Invoice
+  Vendor            MENASHA CORPORATION CHICAGO
+  Reference         3202537304                          Gross Amount     USD        2,191.00
+                                Document Process History - Continuation
+    ACTIVITY          PROCESS TYPE/BLOCK REASON          USER        END TIME          DOCUMENTSTATUS
+   Business Rules   Process Non-PO Invoice (NPO)        SAP_WFRT    12.02.2026        Approval
+    Check in BG                                                        17:41:14          Complete
+                                                            SAP_WFRT                       Sent for Doc
+   Create Doc. BG   Process Non-Po Invoice (NPO)                    12.02.2026
+                                                                         17:41:15          Creation
+   Post Non-PO      Process Non-PO Invoice (NPO)        BOOBALAN    13.02.2026        Document
+                                                            BALAJI      13:10:39          Created
+   Invoice
+   SAP Document                                           SAP_WFRT    13.02.2026        Posted
+   Check                                                               13:10:45
+==================================<Page 2 - END>================================
+==================================<Page 3 - START>================================
+            PEPSICO
+   Instructions: When there is not an "Ojficial" Invoice to request payment, complete the information on this form.
+   1.You must fill in all of the fields below and the form must be accompanied with supporting documentation.
+   2.Save submission as 1 single PDF file prior to submitting to nassapinvoicesubmission@pepsico.com
+                SAP Payment Request
+                                                                                      To be filled by Requestor
+          Substitute Invoice Form
+  Vendor Type
+                                                              S4
+  Vendor Name:
+                                                              Menasha Corporation
+  Vendor Number:
+                                                                                                                               2000022584
+  Company Code:
+                                                              US28
+  Remit To Address :                                          PO Box 856449
+  (Must match the address in the AP system)                      Minneapolis, MN 55485
+  Special Handling needed:
+                                                             No
+  Attn:
+  Address:
+  Overnight delivery required:
+  (if yes provide account # or CC below)
+  FedEx or UPS, & Provide Number:
+  FedEx or UPS account #
+  Cost Center (If No FedEx/UPS Number):
+ Trnsaction type:
+                                                            Invoice
+Choose only 1 option - Invoice or Credit Memo from the dropdown
+ Invoice Date:                                              1/23/2026
+Invoice #:
+Limited to 16 characters - REQUIRED                                                                                              3202537304
+Purchase Order #
+Not required if non-PO
+Payment GROSS Amount:                                    $2,191.00
+Tax Amount
+(if applicable)
+Payment NET Amount:                                      $2,191.00
+Currency (USD or CAD)
+                                                           USD
+Header Text:
+                                                            Non PO ERS Freight Payment 4503530361
+Requestor Name:                                           Katie Lee
+Requestor email                                            Katie.Lee@pepsico.com
+1st Level Approver Name                                    Carlton Marshall
+1st Level Approver Email id/GPID                              71011218
+Date Requested:
+                                                           674040
+GL Coding (6 digits)
+Cost Center (if applicable)                                   2A44100200
+Profit Center (if applicable)                                  4FUSL00000
+WBS Element (if applicable)
+For Assistance On This Form submission please contact:
+Raise service now ticket(Snow)                               PepsiCo - Sign In
+==================================<Page 3 - END>================================
+==================================<Page 4 - START>================================
+                                                              Menasha
+                          I N V O I C E
+          Invoice Number.
+                              3202537304
+          Date:                Jan 22, 2026
+                                                             PLEASE REMIT TO:
+          Freight Terms:          FOB DESTINATION -PPD & ADD
+                                                                  US Dollar (USD)
+          Trailer:
+                                                                  Menasha Packaging Company, LLC
+                                                                   PO Box 858449
+                                                                  Minneapolis, MN 554B5-6449
+          Plant:
+                              MENASHA - HARTFORD PLANT
+          Customer Reference:
+                              4503530361
+          Sales Person:
+                              SEAN MURPHY                    Payment Tenns:
+          Country Of Origin:        Made in USA
+                                                                          Net 90 Days
+          Bill To:    1022401                                   Ship To:    1036847
+                    PEPSICO NASS ACCCUNTS PAYABLE                          SIETE AUSTIN FRITO LAY
+                    POBOX 180D                                          STASSNEY PLANT 2A44
+                    WINSTON SALEM NC 271D2-1800                             6315 E STASSNEY LN BLDG 7
+                                                                       STE 100
+                                                                       AUSTIN TX 78744-3000
+               MATERIAL A
+                                            ORDER   BILLING        PARTIALA   UNIT PRICE            EXTENDED
+          ITENDESCRIPTION                                   UNIT
+                                          QUANTITY  QUANTITY       COMPLETE   PRICE UNIT               PRICE
+              CUST- MATERIAL
+         10  FREIGHT
+                                          o        1        EA  Complete     $2,101.00 / 1             $2,191.00
+              FREIGHT CHARGE
+              FREIGHT TR-CALV-17.6-03-F
+              Sales Order#: 19041563Delivery#: 19041553Shipment#
+              Customer PO Number: 4503530361 Line:
+                                                                          Sub total:                 $2,191.00
+                                                                              Tax:                    $0.00
+                                                                          Total USD:                 $2,191.00
+          CRD Corments:
+         1-18-26:Please invoioe forfreight related to PO# 4503530361 part#
+         TR-CALV-17.6-03-F. Thank you, Dawn Kohn.
+                     1025588
+         Sold to:
+                     FRITO LAY INC
+                     7701 LEGACY DR
+                     PLANO TX 75024-4002
+          All Tooling WillBe Destroyed 18 Months after Last Run. This document is govemed by the Seller’s Terms and Conditions of sales as indicated on our
+                      website (www.menasha.com).A Servioe charge of 1 1% (18 % per annum) will be added to past due balance.
+                                                 Page : 1 of 1                                     TAX D 39-1367484
+      INVOICE
+==================================<Page 4 - END>================================
+==================================<Page 5 - START>================================
+      From: SPA - PepsiCo Nass AP Invoice Submission <nassapInvoiceSubmission@pepsico.com>
+      Sent: Tue, 27 Jan 2026 13:11:32 (UTC)
+      To: svcimagingspaboxprod@pepsico.com
+      Subject: FW: Non PO ERS Freight Payment 4503530361
+      Original Number of Attachments : 1
+      Original Attachment Names: Menasha Freight Invoice 3202537304 1.27.pdf
+      Number of forwarded PDF's: 1
+      Number of forwarded Non PDF files: 0
+      From: LEE, KATIE{PEP}<KATIE.LEE@pepsico.com>
+      Sent: Tuesday, January 27, 2026 1:10:05 PM
+      To: SPA - PepsiCo Nass AP Invoice Submission <nassaplnvoiceSubmission@pepsico.com>
+      Subject: Non PO ERS Freight Payment 4503530361
+                                           SIETE
+                                                                Katíe Lee
+                                                                MFG Resource — Directs & Transformation | FLNA SIETE
+                                                                PepsiCo, Inc. | 6315 E Stassney Lane | Austin, TX | 78744
+                                                                Katie.Lee@pepsico.com
+            pepsico
+               Food. Drinks. Smiles.
+==================================<Page 5 - END>================================

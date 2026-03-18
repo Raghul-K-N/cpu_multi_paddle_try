@@ -1,0 +1,109 @@
+{
+  "invoice_data": {
+    "invoice_number": "4468",
+    "invoice_date": "11/28/2025",
+    "invoice_amount": "3813.75",
+    "invoice_currency": [
+      "CAD"
+    ],
+    "tax_amount": "438.75",
+    "po_number": [
+      "4504223083"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "Best New Product Awards Inc.",
+    "vendor_address": "1 St. Clair Ave. West, Suite #503, Toronto, ON M4V 1K6",
+    "po_line_items": [
+      {
+        "description": "Registration Munchies® Old School BBQ Flavoured Potato Chips, Munchies®",
+        "quantity": 1.0,
+        "net_price": 3375.0
+      },
+      {
+        "description": "Tangy Ketchup Flavoured Potato Chips, Munchies® Supreme Sour",
+        "quantity": null,
+        "net_price": null
+      },
+      {
+        "description": "Cream and Onion Flavoured Tortilla Chips, Munchies® Chili",
+        "quantity": null,
+        "net_price": null
+      },
+      {
+        "description": "Cheese Stampede Flavoured Tortilla Chips, Munchies® Cheeky",
+        "quantity": null,
+        "net_price": null
+      },
+      {
+        "description": "Cheddar Flavoured Popcorn, Munchies® Deliciously All Dressed",
+        "quantity": null,
+        "net_price": null
+      },
+      {
+        "description": "Flavoured Popcorn",
+        "quantity": null,
+        "net_price": null
+      }
+    ],
+    "vat_amount": null,
+    "gl_account": null,
+    "bank_name": null,
+    "account_holder_name": null,
+    "banking_account_number": null,
+    "remit_to_address": null,
+    "bill_to_address": null,
+    "transaction_type": "debit"
+  },
+  "filename": "SAPS4_5101324503_CA11_PFNACA_2026_304672280.pdf",
+  "raw_response": {
+    "invoice_number": "4468",
+    "invoice_date": "11/28/2025",
+    "invoice_amount": "3813.75",
+    "invoice_currency": [
+      "CAD"
+    ],
+    "tax_amount": "438.75",
+    "po_number": [
+      "4504223083"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "Best New Product Awards Inc.",
+    "vendor_address": "1 St. Clair Ave. West, Suite #503, Toronto, ON M4V 1K6",
+    "po_line_items": [
+      {
+        "description": "Registration Munchies® Old School BBQ Flavoured Potato Chips, Munchies®",
+        "quantity": 1.0,
+        "net_price": 3375.0
+      },
+      {
+        "description": "Tangy Ketchup Flavoured Potato Chips, Munchies® Supreme Sour",
+        "quantity": null,
+        "net_price": null
+      },
+      {
+        "description": "Cream and Onion Flavoured Tortilla Chips, Munchies® Chili",
+        "quantity": null,
+        "net_price": null
+      },
+      {
+        "description": "Cheese Stampede Flavoured Tortilla Chips, Munchies® Cheeky",
+        "quantity": null,
+        "net_price": null
+      },
+      {
+        "description": "Cheddar Flavoured Popcorn, Munchies® Deliciously All Dressed",
+        "quantity": null,
+        "net_price": null
+      },
+      {
+        "description": "Flavoured Popcorn",
+        "quantity": null,
+        "net_price": null
+      }
+    ]
+  }
+}

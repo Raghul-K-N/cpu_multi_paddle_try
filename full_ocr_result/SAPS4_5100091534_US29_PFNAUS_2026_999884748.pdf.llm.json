@@ -1,0 +1,69 @@
+{
+  "invoice_data": {
+    "invoice_number": "VV115",
+    "invoice_date": "December 29, 2025",
+    "invoice_amount": null,
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": "48.26",
+    "po_number": [
+      "M413194265"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "RSI Services/Springtime Air, LLC",
+    "vendor_address": "4929 Treaschwig Rd, Spring, TX 77373",
+    "po_line_items": [
+      {
+        "description": "Standard preventative maintenance cleaning with chemicals. Remove all components and hand wash them. reassembled components and ran a 30 minute cleaning cycle with proper cleaning solution. Ran 3 freeze cycles to ensure proper operation per manufacture specifications. Notes : GATE CODE 9647#",
+        "quantity": 3.0,
+        "net_price": 585.0
+      },
+      {
+        "description": "Commercial Service Call",
+        "quantity": 1.0,
+        "net_price": 229.0
+      }
+    ],
+    "vat_amount": null,
+    "gl_account": null,
+    "bank_name": null,
+    "account_holder_name": null,
+    "banking_account_number": null,
+    "remit_to_address": null,
+    "bill_to_address": null,
+    "transaction_type": "debit"
+  },
+  "filename": "SAPS4_5100091534_US29_PFNAUS_2026_999884748.pdf",
+  "raw_response": {
+    "invoice_number": "VV115",
+    "invoice_date": "December 29, 2025",
+    "invoice_amount": "../../../862.26",
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": "48.26",
+    "po_number": [
+      "M413194265"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "RSI Services/Springtime Air, LLC",
+    "vendor_address": "4929 Treaschwig Rd, Spring, TX 77373",
+    "po_line_items": [
+      {
+        "description": "Standard preventative maintenance cleaning with chemicals. Remove all components and hand wash them. reassembled components and ran a 30 minute cleaning cycle with proper cleaning solution. Ran 3 freeze cycles to ensure proper operation per manufacture specifications. Notes : GATE CODE 9647#",
+        "quantity": 3.0,
+        "net_price": 585.0
+      },
+      {
+        "description": "Commercial Service Call",
+        "quantity": 1.0,
+        "net_price": 229.0
+      }
+    ]
+  }
+}

@@ -1,0 +1,69 @@
+{
+  "invoice_data": {
+    "invoice_number": "2807167",
+    "invoice_date": "February 4, 2026",
+    "invoice_amount": "125.75",
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": "7.68",
+    "po_number": [
+      "4505012193"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "supplyFORCE",
+    "vendor_address": "700 American Avenue, St 300, KING OF PRUSSIA PA 19406-1434, 866-776-8289 Fax 484-322-7100, PO Box 788581, PHILADELPHIA PA 19178",
+    "po_line_items": [
+      {
+        "description": "A-B; 889R-F3ECA-5; 889 AC Micro Cable; CABLE;AC MCR",
+        "quantity": 3.0,
+        "net_price": 74.61
+      },
+      {
+        "description": "LHE4X32T8UNVISNSCB;OSRAM SYLVANIA BALLST;LGHTG,ELEK,120/277V,32W",
+        "quantity": 2.0,
+        "net_price": 43.46
+      }
+    ],
+    "vat_amount": null,
+    "gl_account": null,
+    "bank_name": null,
+    "account_holder_name": null,
+    "banking_account_number": null,
+    "remit_to_address": null,
+    "bill_to_address": null,
+    "transaction_type": "debit"
+  },
+  "filename": "SAPS4_5100326024_US28_PFNAUS_2026_999884168.pdf",
+  "raw_response": {
+    "invoice_number": "2807167",
+    "invoice_date": "February 4, 2026",
+    "invoice_amount": "125.75",
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": "7.68",
+    "po_number": [
+      "4505012193"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "supplyFORCE",
+    "vendor_address": "700 American Avenue, St 300, KING OF PRUSSIA PA 19406-1434, 866-776-8289 Fax 484-322-7100, PO Box 788581, PHILADELPHIA PA 19178",
+    "po_line_items": [
+      {
+        "description": "A-B; 889R-F3ECA-5; 889 AC Micro Cable; CABLE;AC MCR",
+        "quantity": 3.0,
+        "net_price": 74.61
+      },
+      {
+        "description": "LHE4X32T8UNVISNSCB;OSRAM SYLVANIA BALLST;LGHTG,ELEK,120/277V,32W",
+        "quantity": 2.0,
+        "net_price": 43.46
+      }
+    ]
+  }
+}

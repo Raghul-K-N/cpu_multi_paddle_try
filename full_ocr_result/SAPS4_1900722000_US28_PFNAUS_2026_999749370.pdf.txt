@@ -1,0 +1,205 @@
+==================================<Page 1 - START>================================
+   OpenText Workflow History
+   Vendor
+   ECHO GLOBAL LOGISTICS INC
+   ONLINE FREIGHT SERVICES INC
+   860789 PO BOX
+   MINNEAPOLIS MN
+                    55486
+   USA
+    Invoice
+    Reference
+                      1952260
+                                                               Document Date    29.01.2026
+   DP Document No.  39201929
+                                                               Net Amount
+                                                                                 USD            850.00
+   Comp. Code       US28 Frito-Lay, Inc.
+                                                               Tax Amount       USD
+                                                                                                    0.00
+   Posting Date     13.02.2026
+                                                               Gross Amount     USD
+                                                                                                850.00
+   SAP Document No. 1900722000 2026
+                                           Pre-Process History
+    ACTIVITY
+                                                          USER       END TIME          DOCUMENT STATUS
+    Update status                                        VRBLAOT_U  02.02.2026       Validation
+                                                          SR         17:15:31          Complete
+                                       Document Process History
+   ACTIVITY         PROCESS TYPE/BLOCK REASON
+                                                          USER        END TIME         DOCUMENT STATUS
+   BC Inbound
+                                                          VRBLAOT_U   02.02.2026        Document
+                                                          SR          17:05:47         Registered
+   Workflow Start
+                     Invalid Requestor ID (NPO)         Record to  02.02.2026       Created
+                                                                      17:15:31
+                                                          Report
+                                                          Batch
+                                                          Account
+                                                          Owner:
+  Apply Business
+                     Invalid Requestor ID (NPO)         KARTHIK M  10.02.2026        Created
+  Rules
+                                                                      21:37:17
+  Comment:
+ Changed By:
+                KARTHIK M (09368931)
+Changed On:   02/10/2026 21:37:14
+*****************************************************************
+Hi,
+Please approve to process.
+Business Rules    Approval Required (NPo)             SAP_WFRT    10.02.2026        Indexed
+Check in BG
+                                                                       21:37:23
+  Invoice submitted for Approval
+                                                                      10.02.2026 21:37:24
+  Financial Information Entered                        KATIE       12.02.2026 12:43:05
+                                                          LEE
+  Data Entered and Invoice Approved                   KATIE       12.02.2026 12:43:07
+                                                          LEE
+  Invoice Approved                                      CARLTON     12.02.2026 12:58:22
+                                                          MARSHALL
+==================================<Page 1 - END>================================
+==================================<Page 2 - START>================================
+OpenText Workflow History
+Invoice
+Vendor            ECHO GLOBAL LOGISTICS INC MINNEAPOLIS
+                   1952260                             Gross Amount     USD          850.00
+Reference
+                             Document Process History - Continuation
+ ACTIVITY          PROCESS TYPE/BLOCK REASON          USER        END TIME          DOCUMENT STATUS
+                    Approval Required (NPo)             SAP_WFRT    12.02.2026        Approval
+ Approval
+ Workflow                                                           12:58:25          Complete
+                                                         SAP_WFRT                      Approval
+Business Rules   Process Non-PO Invoice (NPO)                    12.02.2026
+Check in BG                                                        12:58:26          Complete
+Create Doc. BG   Process Non-Po Invoice (NPo)        SAP_WFRT   12.02.2026        Sent for Doc
+                                                                                         Creation
+                                                                      12:58:26
+Post Non-PO      Process Non-Po Invoice (NPo)        KARTHIK M  13.02.2026        Document
+Invoice                                                             11:00:27          Created
+SAP Document                                           SAP_WFRT    13.02.2026        Posted
+                                                                      11:00:34
+Check
+==================================<Page 2 - END>================================
+==================================<Page 3 - START>================================
+          PEPSICO
+  Instructions:When there is not an "Ojficial" Invoice to request payment, complete the information on this form.
+  1.You must fillin all of the fields below and the form must be accompanied with supporting documentation.
+  2.Save submission as 1 single PDF file prior to submitting to nassapinvoicesubmission@pepsico.com
+ The form can be used for the following invoice/payment type activity: Taxes/Legal Settlements/Business Licenses/Fines/Donation/sponsorship.
+              SAP Payment Request
+                                                                                  To be filled by Requestor
+        Substitute Invoice Form
+Vendor Type                                              S4
+Vendor Name:
+                                                           Echo Global Logistics, Inc - DBA Online Freight Services
+Vendor Number:                                           2004939655
+Company Code:
+                                                           US28
+                                                           PO Box 860789
+Remit To Address :
+(Must match the address in the AP system)                      Minneapolis, MN 55486-0789
+Special Handling needed:                                    No
+Attn:
+Address:
+Overnight delivery required:
+(if yes provide account # or CC below)
+FedEx or UPS, & Provide Number:
+FedEx or UPS account #
+Cost Center (If No FedEx/UPS Number):
+Trnsaction type:
+                                                          Invoice
+Choose only 1 option - Invoice or Credit Memo from the dropdown
+Invoice Date:                                             1/29/2026
+Invoice #:
+                                                                                                                                1952260
+Limited to 16 characters - REQUIRED
+Purchase Order #
+Not required if non-PO
+Payment GROSS Amount:                                   $850.00
+Tax Amount
+(if applicable)
+Payment NET Amount:                                     $850.00
+Currency (USD or CAD)                                     USD
+Header Text:                                              Non PO ERS Freight Invoice 4504257951
+                                                         Katie Lee
+Requestor Name:
+Requestor email                                          Katie.Lee@pepsico.com
+                                                          Carlton Marshall
+1st Level Approver Name
+1st Level Approver Email id/GPID                             71011218
+Date Requested:
+                                                         674040
+GL Coding (6 digits)
+                                                         2A44100200
+Cost Center (if applicable)
+Profit Center (if applicable)                                  4FUSL00000
+WBS Element (if applicable)
+For Assistance On This Form submission please contact:
+Raise service now ticket(Snow)                              PepsiCo - Sign In
+==================================<Page 3 - END>================================
+==================================<Page 4 - START>================================
+                          Online Freight Services, Inc.                    INVOICE
+        OFS     PO Box 860789
+                          Minneapolis, Mn 55486-0789                       Invaice #: 1952260
+                          (800) 284-2603 Toll Free
+                                                                           Date: D1/29/26
+                          (651) 468-6868 Phone
+                                                                         Terms: Net 60
+                          (651) 468-6869 Fax
+                          www.onlinefreight.com
+     Bill To:
+             Frito-Lay, Inc. c/o PepsiCo NAS$ Accounts Payable
+             6110 Trade Center Drive, Unit 102B
+             Auslin, TX 78744
+                  Our Sales Rep                              Reference Numbers
+     Ivan Ibarra                                                     4504257951
+                                          Customer PO:
+     (800) 284-2603   Ext: 6731
+     ibarra@onlinefreight.com
+               Product & Equipment                                Qty        Service Options
+                                                  UOM
+    Product:    Cassava Flour               Weight (in pounds)      44,000 lbs
+     Value:      $99,999. Class:              Length (ftin)                53 ft
+                00
+     Equipment:  Van
+    TL/LTL:     Truçkload
+                                                                                      Extended
+                     Stops                     Charge Type          Qty       Rate
+    (1) Piçkup:      01,27/26                Base Haul (Flat Rate)             1.00  $850.00   $850.00
+        Et Worth, TX 76110
+    (2) Drop:       01/27/26
+        Austin, TX 78744
+                                                                                Total Due: $850.00
+                                         Special Instructions
+     Make all checks payable to:Online Freight Services, Inc.
+                            Po Box 860789
+                            Minneapolis, MN 55486-0789
+        If you have any questions conceming this invoica, call: Accounts Racaivable @ (651) 468-6868
+                               Thank You, We Appreciate Your Business
+==================================<Page 4 - END>================================
+==================================<Page 5 - START>================================
+     From: SPA - PepsiCo Nass AP Invoice Submission <nassapInvoiceSubmission@pepsico.com>
+     Sent: Fri, 30 Jan 2026 21:35:47 (UTC)
+     To: svcimagingspaboxprod@pepsico.com
+     Subject: FW: Non PO ERS Freight Invoice 4504257951
+     Original Number of Attachments : 1
+     Original Attachment Names: OFS Freight Invoice 1952260 1.30.pdf
+    Number of forwarded PDF's: 1
+    Number of forwarded Non PDF files: 0
+    From: LEE, KATIE {PEP} <KATIE.LEE@pepsico.com>
+    Sent: Friday, January 30, 2026 9:34:30 PM
+    To: SPA - PepsiCo Nass AP Invoice Submission <nassaplnvoiceSubmission@pepsico.com>
+    Subject: Non PO ERS Freight Invoice 4504257951
+                                          SIETE
+                                                              Katíe Lee
+                                                              MFG Resource — Directs & Transformation | FLNA SIETE
+                                                              PepsiCo, Inc. | 6315 E Stassney Lane | Austin, TX | 78744
+                                                               Katie.Lee@pepsico.com
+          pepsico
+             Food. Drinks. Smiles.
+==================================<Page 5 - END>================================

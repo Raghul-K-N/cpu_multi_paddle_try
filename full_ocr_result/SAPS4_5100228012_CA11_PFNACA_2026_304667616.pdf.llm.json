@@ -1,0 +1,59 @@
+{
+  "invoice_data": {
+    "invoice_number": "58729",
+    "invoice_date": "10/15/2025",
+    "invoice_amount": "256.50",
+    "invoice_currency": [
+      "CAD"
+    ],
+    "tax_amount": "31.50",
+    "po_number": [
+      "M413447804"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "Sonitrol of South Central Ontario Inc.",
+    "vendor_address": "2419 Industrial Street, Burlington, Ontario L7P 1A6, Canada",
+    "po_line_items": [
+      {
+        "description": "Proximity Cards with Photo: L Parker, B Steeves, T Mazurek, D Helpard, A Walsh, M Singh, J Robert, L Parker, R Mydren",
+        "quantity": 9.0,
+        "net_price": 225.0
+      }
+    ],
+    "vat_amount": null,
+    "gl_account": null,
+    "bank_name": null,
+    "account_holder_name": null,
+    "banking_account_number": null,
+    "remit_to_address": null,
+    "bill_to_address": null,
+    "transaction_type": "debit"
+  },
+  "filename": "SAPS4_5100228012_CA11_PFNACA_2026_304667616.pdf",
+  "raw_response": {
+    "invoice_number": "58729",
+    "invoice_date": "10/15/2025",
+    "invoice_amount": "256.50",
+    "invoice_currency": [
+      "CAD"
+    ],
+    "tax_amount": "31.50",
+    "po_number": [
+      "M413447804"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "Sonitrol of South Central Ontario Inc.",
+    "vendor_address": "2419 Industrial Street, Burlington, Ontario L7P 1A6, Canada",
+    "po_line_items": [
+      {
+        "description": "Proximity Cards with Photo: L Parker, B Steeves, T Mazurek, D Helpard, A Walsh, M Singh, J Robert, L Parker, R Mydren",
+        "quantity": 9.0,
+        "net_price": 225.0
+      }
+    ]
+  }
+}

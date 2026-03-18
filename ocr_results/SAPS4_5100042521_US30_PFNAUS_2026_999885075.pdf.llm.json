@@ -1,0 +1,69 @@
+{
+  "invoice_data": {
+    "invoice_number": "129021939",
+    "invoice_date": "09/25/25",
+    "invoice_amount": "141.73",
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": "12.29",
+    "po_number": [
+      "23483946"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": "0.00",
+    "cost_center": null,
+    "vendor_name": "FleetPride",
+    "vendor_address": "FLEETPRIDE, PO BOX 847118, DALLAS TX 75284-7118, (361) 883-4358",
+    "po_line_items": [
+      {
+        "description": "42044628 TMPR LOC NUT TN (EA)",
+        "quantity": 2.0,
+        "net_price": 43.92
+      },
+      {
+        "description": "42018253 6 HOLE ZYTEL HUBCAP 4.50 BC BLACK (EA)",
+        "quantity": 2.0,
+        "net_price": 21.96
+      }
+    ],
+    "vat_amount": null,
+    "gl_account": null,
+    "bank_name": null,
+    "account_holder_name": null,
+    "banking_account_number": null,
+    "remit_to_address": null,
+    "bill_to_address": null,
+    "transaction_type": "debit"
+  },
+  "filename": "SAPS4_5100042521_US30_PFNAUS_2026_999885075.pdf",
+  "raw_response": {
+    "invoice_number": "129021939",
+    "invoice_date": "09/25/25",
+    "invoice_amount": "141.73",
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": "12.29",
+    "po_number": [
+      "23483946"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": "0.00",
+    "cost_center": null,
+    "vendor_name": "FleetPride",
+    "vendor_address": "FLEETPRIDE, PO BOX 847118, DALLAS TX 75284-7118, (361) 883-4358",
+    "po_line_items": [
+      {
+        "description": "42044628 TMPR LOC NUT TN (EA)",
+        "quantity": 2.0,
+        "net_price": 43.92
+      },
+      {
+        "description": "42018253 6 HOLE ZYTEL HUBCAP 4.50 BC BLACK (EA)",
+        "quantity": 2.0,
+        "net_price": 21.96
+      }
+    ]
+  }
+}

@@ -1,0 +1,81 @@
+{
+  "invoice_data": {
+    "invoice_number": "6585499218",
+    "invoice_date": "12/13/2025",
+    "invoice_amount": "581.01",
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": "38.01",
+    "po_number": [
+      "759149348",
+      "23575378"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "BRIDGESTONE",
+    "vendor_address": "00 4TH AVENUE SOUTH, SUITE 100, P.O. BOX 140990, NASHVILLE, TENNESSEE 37201, DALLAS, TX 75373-0026, USA",
+    "po_line_items": [
+      {
+        "description": "REGULAR HRS SERVICE CALL",
+        "quantity": 4.0,
+        "net_price": 126.75
+      },
+      {
+        "description": "VALVE STEM, STEEL, TL MED",
+        "quantity": 1.0,
+        "net_price": 6.0
+      },
+      {
+        "description": "FEE, MILEAGE",
+        "quantity": 30.0,
+        "net_price": 1.0
+      }
+    ],
+    "vat_amount": null,
+    "gl_account": null,
+    "bank_name": null,
+    "account_holder_name": null,
+    "banking_account_number": null,
+    "remit_to_address": null,
+    "bill_to_address": null,
+    "transaction_type": "debit"
+  },
+  "filename": "SAPS4_5100231514_US30_PFNAUS_2026_999884980.pdf",
+  "raw_response": {
+    "invoice_number": "6585499218",
+    "invoice_date": "12/13/2025",
+    "invoice_amount": "581.01",
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": "38.01",
+    "po_number": [
+      "759149348",
+      "23575378"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "BRIDGESTONE",
+    "vendor_address": "00 4TH AVENUE SOUTH, SUITE 100, P.O. BOX 140990, NASHVILLE, TENNESSEE 37201, DALLAS, TX 75373-0026, USA",
+    "po_line_items": [
+      {
+        "description": "REGULAR HRS SERVICE CALL",
+        "quantity": 4.0,
+        "net_price": 126.75
+      },
+      {
+        "description": "VALVE STEM, STEEL, TL MED",
+        "quantity": 1.0,
+        "net_price": 6.0
+      },
+      {
+        "description": "FEE, MILEAGE",
+        "quantity": 30.0,
+        "net_price": 1.0
+      }
+    ]
+  }
+}

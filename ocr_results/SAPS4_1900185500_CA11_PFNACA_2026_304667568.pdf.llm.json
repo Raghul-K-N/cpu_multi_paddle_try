@@ -1,0 +1,63 @@
+{
+  "invoice_data": {
+    "invoice_number": "IN0235111",
+    "invoice_date": "01.12.2025",
+    "invoice_amount": "1,439.40",
+    "invoice_currency": [
+      "CAD"
+    ],
+    "tax_amount": "0.00",
+    "po_number": null,
+    "gl_account_number": [
+      "660028"
+    ],
+    "freight_and_handling_charges": null,
+    "cost_center": [
+      "2049100201"
+    ],
+    "vendor_name": "W.D. POTATO LIMITED",
+    "vendor_address": "WD 3644 SI0ER0A0 10. BEETON, ONTARIO. LOG 1AO TEL: (905) 729-2263 FAX: (905) 729-4136",
+    "po_line_items": [
+      {
+        "description": "MINIST EXEMPTION PERMITS",
+        "quantity": 60.0,
+        "net_price": 23.99
+      }
+    ],
+    "vat_amount": null,
+    "gl_account": null,
+    "bank_name": null,
+    "account_holder_name": null,
+    "banking_account_number": null,
+    "remit_to_address": null,
+    "bill_to_address": null,
+    "transaction_type": "debit"
+  },
+  "filename": "SAPS4_1900185500_CA11_PFNACA_2026_304667568.pdf",
+  "raw_response": {
+    "invoice_number": "IN0235111",
+    "invoice_date": "01.12.2025",
+    "invoice_amount": "1,439.40",
+    "invoice_currency": [
+      "CAD"
+    ],
+    "tax_amount": "0.00",
+    "po_number": null,
+    "gl_account_number": [
+      "660028"
+    ],
+    "freight_and_handling_charges": null,
+    "cost_center": [
+      "2049100201"
+    ],
+    "vendor_name": "W.D. POTATO LIMITED",
+    "vendor_address": "WD 3644 SI0ER0A0 10. BEETON, ONTARIO. LOG 1AO TEL: (905) 729-2263 FAX: (905) 729-4136",
+    "po_line_items": [
+      {
+        "description": "MINIST EXEMPTION PERMITS",
+        "quantity": 60.0,
+        "net_price": 23.99
+      }
+    ]
+  }
+}

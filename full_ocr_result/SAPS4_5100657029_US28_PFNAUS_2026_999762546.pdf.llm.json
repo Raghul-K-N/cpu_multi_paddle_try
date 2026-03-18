@@ -1,0 +1,57 @@
+{
+  "invoice_data": {
+    "invoice_number": "90187390",
+    "invoice_date": "02/09/2026",
+    "invoice_amount": null,
+    "invoice_currency": null,
+    "tax_amount": null,
+    "po_number": [
+      "4504294216",
+      "5227565"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "Daifuku Intralogistics America Corporation",
+    "vendor_address": "6300 Northwind Parkway, Hobart, IN, 46342, Phone: (219)777-2220 Fax: (708)229-2495, Email: AR_Shared@wynright.com, PO Box 71383, Chicago, IL 60694-1383",
+    "po_line_items": [
+      {
+        "description": "QTY 2 W-7990385 DAIFUKU NRFP00114650",
+        "quantity": 2.0,
+        "net_price": 418.0
+      }
+    ],
+    "vat_amount": null,
+    "gl_account": null,
+    "bank_name": null,
+    "account_holder_name": null,
+    "banking_account_number": null,
+    "remit_to_address": null,
+    "bill_to_address": null,
+    "transaction_type": "debit"
+  },
+  "filename": "SAPS4_5100657029_US28_PFNAUS_2026_999762546.pdf",
+  "raw_response": {
+    "invoice_number": "90187390",
+    "invoice_date": "02/09/2026",
+    "invoice_amount": null,
+    "invoice_currency": null,
+    "tax_amount": null,
+    "po_number": [
+      "4504294216",
+      "5227565"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "Daifuku Intralogistics America Corporation",
+    "vendor_address": "6300 Northwind Parkway, Hobart, IN, 46342, Phone: (219)777-2220 Fax: (708)229-2495, Email: AR_Shared@wynright.com, PO Box 71383, Chicago, IL 60694-1383",
+    "po_line_items": [
+      {
+        "description": "QTY 2 W-7990385 DAIFUKU NRFP00114650",
+        "quantity": 2.0,
+        "net_price": 418.0
+      }
+    ]
+  }
+}

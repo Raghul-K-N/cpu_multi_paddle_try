@@ -1,0 +1,69 @@
+{
+  "invoice_data": {
+    "invoice_number": "207788",
+    "invoice_date": "Wednesday 11 Feb 2026 10:43 AM GMT-05:00",
+    "invoice_amount": "6223.42",
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": "415.33",
+    "po_number": [
+      "M413394243"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": "534.09",
+    "cost_center": null,
+    "vendor_name": "Solution Group LLC",
+    "vendor_address": "6239 south East Street, Suite F, Indianapolis, IN 46227, United States",
+    "po_line_items": [
+      {
+        "description": "Material Not Available / Facility Chemicals BPO 2026",
+        "quantity": 5.274,
+        "net_price": 1.0
+      },
+      {
+        "description": "100B - OSM Frito Modesto",
+        "quantity": 1800.0,
+        "net_price": 2.93
+      }
+    ],
+    "vat_amount": null,
+    "gl_account": null,
+    "bank_name": null,
+    "account_holder_name": null,
+    "banking_account_number": null,
+    "remit_to_address": null,
+    "bill_to_address": null,
+    "transaction_type": "debit"
+  },
+  "filename": "SAPS4_5101988000_US28_PFNAUS_2026_999706540.pdf",
+  "raw_response": {
+    "invoice_number": "207788",
+    "invoice_date": "Wednesday 11 Feb 2026 10:43 AM GMT-05:00",
+    "invoice_amount": "6223.42",
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": "415.33",
+    "po_number": [
+      "M413394243"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": "534.09",
+    "cost_center": null,
+    "vendor_name": "Solution Group LLC",
+    "vendor_address": "6239 south East Street, Suite F, Indianapolis, IN 46227, United States",
+    "po_line_items": [
+      {
+        "description": "Material Not Available / Facility Chemicals BPO 2026",
+        "quantity": 5.274,
+        "net_price": 1.0
+      },
+      {
+        "description": "100B - OSM Frito Modesto",
+        "quantity": 1800.0,
+        "net_price": 2.93
+      }
+    ]
+  }
+}

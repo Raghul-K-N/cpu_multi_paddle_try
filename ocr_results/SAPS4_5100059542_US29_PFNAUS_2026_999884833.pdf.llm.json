@@ -1,0 +1,89 @@
+{
+  "invoice_data": {
+    "invoice_number": "6585131343",
+    "invoice_date": "12/06/2025",
+    "invoice_amount": "902.39",
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": "23.33",
+    "po_number": [
+      "23570138"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "BRIDGESTONE AMERICAS TIRE OPERATIONS, LLC",
+    "vendor_address": "00 4TH AVENUE SOUTH, SUITE 100, NASHVILLE, TENNESSEE 37201, P.O. BOX 140990, DALLAS, TX 75373-0026, USA",
+    "po_line_items": [
+      {
+        "description": "TRANSFORCE HT3 LT225/75R16 TLBLPS115RE",
+        "quantity": 1.0,
+        "net_price": 158.7
+      },
+      {
+        "description": "STATE WASTE FEE",
+        "quantity": 1.0,
+        "net_price": 1.0
+      },
+      {
+        "description": "MATERIAL TYPE: FS LIGHT TRUCK RADIAL, COMMERCIAL <18, FEE, MILEAGE",
+        "quantity": 146.0,
+        "net_price": 0.91
+      },
+      {
+        "description": "EMERGENCY AFTER HRS SVC",
+        "quantity": 3.0,
+        "net_price": 195.5
+      }
+    ],
+    "vat_amount": null,
+    "gl_account": null,
+    "bank_name": null,
+    "account_holder_name": null,
+    "banking_account_number": null,
+    "remit_to_address": null,
+    "bill_to_address": null,
+    "transaction_type": "debit"
+  },
+  "filename": "SAPS4_5100059542_US29_PFNAUS_2026_999884833.pdf",
+  "raw_response": {
+    "invoice_number": "6585131343",
+    "invoice_date": "12/06/2025",
+    "invoice_amount": "902.39",
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": "23.33",
+    "po_number": [
+      "23570138"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "BRIDGESTONE AMERICAS TIRE OPERATIONS, LLC",
+    "vendor_address": "00 4TH AVENUE SOUTH, SUITE 100, NASHVILLE, TENNESSEE 37201, P.O. BOX 140990, DALLAS, TX 75373-0026, USA",
+    "po_line_items": [
+      {
+        "description": "TRANSFORCE HT3 LT225/75R16 TLBLPS115RE",
+        "quantity": 1.0,
+        "net_price": 158.7
+      },
+      {
+        "description": "STATE WASTE FEE",
+        "quantity": 1.0,
+        "net_price": 1.0
+      },
+      {
+        "description": "MATERIAL TYPE: FS LIGHT TRUCK RADIAL, COMMERCIAL <18, FEE, MILEAGE",
+        "quantity": 146.0,
+        "net_price": 0.91
+      },
+      {
+        "description": "EMERGENCY AFTER HRS SVC",
+        "quantity": 3.0,
+        "net_price": 195.5
+      }
+    ]
+  }
+}

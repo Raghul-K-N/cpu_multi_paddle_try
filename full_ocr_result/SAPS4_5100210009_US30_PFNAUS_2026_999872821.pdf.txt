@@ -1,0 +1,381 @@
+==================================<Page 1 - START>================================
+Standard Invoice
+                                                                                                                   GRAINGER
+Original tax invoice has been submitted electronically. This is a
+human readable representation (copy) of the original tax invoice.
+                                                                Invoice Number                                     980568936226
+                                                                (Supplier Reference No.)
+                                                                Invoice Date                    Thursday 12 Feb 2026 5:38 AM GMT-07:00
+                                                                Amount Due                                         $223.28 USD
+    Contact Information
+                                                                          Shipping Information
+    Supplier                      Customer
+                                                                          Ship From                     Ship To
+    Grainger
+                                 FL Transportation Inc.
+                                                                          Grainger                      US-FL-ORLANDO-FL-FLT
+    100 Grainger Pkwy               c/o PEPSICO NASS
+                                                                          101 SOUTHCHASE BLVD          TAURA.ATKINS@PEPSICO
+    Lake Forest                    ACCOUNTS PAYABLES
+                                                                          FOUNTAIN INN                  2800 SILVER STAR RD
+    IL                           PO BOX 1800
+                                                                          SC                           ORLANDO
+    Winst                        Winston Salem
+                                                                          29644                        FL
+    United States                   NC
+                                                                          United States                    32808
+                                 27105
+                                                                                                       United States
+                                 United States
+                                                                                                       Phone: (800) 352-4477
+  Line Items
+                                                         PO No. : M413554302                                      PO Date : 12 Feb 2026
+  Line No.
+            PO Line No.          Type   Supplier Part No. /             Customer Part No.        Quantity            Unit Price         Subtotal
+                                      Description
+                                                                                      (UOM)
+  1        1                 Material 5JK50 / Knit Gloves,Beige,L,PR                                           $0.53 USD      $57.24 USD
+                                                                                      108 / (EA)
+  Line No.   PO Line No.
+                               Type    Supplier Part No. /             Customer Part No.        Quantity            Unit Price         Subtotal
+                                      Description
+                                                                                      (UOM)
+  2        2                 Material 2UUJ6 / Knit Gloves,Beige,XL                                            $0.53 USD      $50.88 USD
+                                                                                      96 / (EA)
+  Line No.   PO Line No.         Type   Supplier Part No. /                                                    Unit Price         Subtotal
+                                                                 Customer Part No.        Quantity
+                                      Description                                       UOM)
+  3        3                 Material 5JK51 / Knit Gloves,Beige,S                            48 / (EA)          $0.53 USD      $25.44 USD
+  Line No.    PO Line No.         Type   Supplier Part No. /             Customer Part No.        Quantity            Unit Price         Subtotal
+                                      Description                                       (UOM)
+                                                                                                                      $14.64 USD
+  4        4                 Material 4NML3 / Knit Gloves,Beige,2XL,PR                       24 / (EA)          $0.61 USD
+                                                                                                        Unit Price         Subtotal
+  Line No.   PO Line No.         Type   Supplier Part No. /             Customer Part No.        Quantity
+                                      Description                                       (UOM)
+                                                                                                      $61.45 USD      $61.45 USD
+  5        5                 Material 1PKR4 / Sanitizer Wipes,Alcohol,7                        1 / (EA)
+                                      inL,5 inW
+                                                                             Amount Summary
+                                                                             Line item subtotal                          $209.65 USD
+                                                                             Gross amount                            $223.28 USD
+                                                                                                                    $223.28 USD
+                                                                              Net amount
+                                                                                                                     $13.63 USD
+                                                                             Total tax amount
+                                                                             Total withholding tax amount
+                                                                                                                    $223.28 USD
+                                                                             Amount Due
+    Additional Information
+    InvoiceSourceDocument
+   PurchaseOrder
+   InvoiceSubmissionMethod
+   cXML
+                                                                         Remittance Information
+   Billing Information
+                                                                         Remit To
+   Bill To
+                                                                         GRAINGER
+   FL Transportation Inc.
+                                                                         DEPT. 888068755
+   c/o PEPSICO NASS
+                                                                         KANSAS CITY
+   ACCOUNTS PAYABLES
+                                                                         MO
+   PO BOX 1800                                                           64141-6267
+   Winston Salem                                                           United States
+   NC                                                                   Address ID: US1_10359
+  27105
+                                                                         Tax ID of Supplier
+   United States
+                                                                         36-1150280
+   Address ID: US30
+                                                                     Reference Documents
+                                                                      Original Supplier Order #: 1575932466
+==================================<Page 1 - END>================================
+==================================<Page 2 - START>================================
+ Appendix
+Line No.
+            PO Line No. Type                           Supplier Part No. / Description
+  1          1
+                       Material                         5JK50 / Knit Gloves,Beige,L,PR
+ Additional Details:
+ Supplier Part ID : 5JK50
+ Supplier Part Auxiliary ID : WWG5JK50
+Line No.    PO Line No. Type                           Supplier Part No. / Description
+2
+            2         Material                         2UUJ6 / Knit Gloves,Beige,XL
+ Additional Details:
+ Supplier Part ID : 2UUJ6
+Supplier Part Auxiliary ID : WWG2UUJ6
+ Line No.    PO Line No. Type                           Supplier Part No. / Description
+ 3         3         Material                         5JK51 / Knit Gloves,Beige,S
+Additional Details:
+ Supplier Part ID : 5JK51
+ Supplier Part Auxiliary ID : WWG5JK51
+Line No.    PO Line No. Type                           Supplier Part No. / Description
+4         4          Material                         4NML3 / Knit Gloves,Beige,2XL,PR
+Additional Details:
+Supplier Part ID : 4NML3
+ Supplier Part Auxiliary ID : WWG4NML3
+Line No.    PO Line No. Type                           Supplier Part No. / Description
+5         5         Material                         1PKR4 / Sanitizer Wipes,Alcohol,7 inL,5 inW
+Additional Details:
+Supplier Part ID : 1PKR4
+Supplier Part Auxiliary ID : WWG1PKR4
+PDF generated on Friday 13 Feb 2026 5:51 AM GMT-08:00
+==================================<Page 2 - END>================================
+==================================<Page 3 - START>================================
+  Standard Invoice
+                                                                                                                     GRAINGER
+  Original tax invoice has been submitted electronically. This is a
+  human readable representation (copy) of the original tax invoice.
+                                                                  Invoice Number                                     980568936226
+                                                                  (Supplier Reference No.)
+                                                                  Invoice Date                    Thursday 12 Feb 2026 5:38 AM GMT-07:00
+                                                                  Amount Due                                         $223.28 USD
+      Contact Information
+                                                                            Shipping Information
+      Supplier                      Customer
+                                                                            Ship From                     Ship To
+      Grainger
+                                   FL Transportation Inc.
+                                                                           Grainger                      US-FL-ORLANDO-FL-FLT
+      100 Grainger Pkwy               c/o PEPSICO NASS
+                                                                            101 SOUTHCHASE BLVD          TAURA.ATKINS@PEPSICO
+      Lake Forest                    ACCOUNTS PAYABLES
+                                                                            FOUNTAIN INN                  2800 SILVER STAR RD
+      IL                           PO BOX 1800
+                                                                            SC                           ORLANDO
+      Winst                        Winston Salem
+                                                                            29644                        FL
+      United States                   NC
+                                                                            United States                    32808
+                                   27105
+                                                                                                         United States
+                                   United States
+                                                                                                        Phone: (800) 352-4477
+    Line Items
+                                                          PO No. : M413554302                                      PO Date : 12 Feb 2026
+    Line No.
+              PO Line No.          Type   Supplier Part No. /             Customer Part No.        Quantity            Unit Price         Subtotal
+                                        Description
+                                                                                        (UOM)
+    1        1                 Material 5JK50 / Knit Gloves,Beige,L,PR                                           $0.53 USD      $57.24 USD
+                                                                                        108 / (EA)
+    Line No.   PO Line No.
+                                Type    Supplier Part No. /             Customer Part No.        Quantity            Unit Price         Subtotal
+                                        Description
+                                                                                        (UOM)
+    2        2                 Material 2UUJ6 / Knit Gloves,Beige,XL                                            $0.53 USD      $50.88 USD
+                                                                                        96 / (EA)
+    Line No.   PO Line No.         Type   Supplier Part No. /                                                    Unit Price         Subtotal
+                                                                  Customer Part No.        Quantity
+                                        Description                                       UOM)
+    3        3                 Material 5JK51 / Knit Gloves,Beige,S                            48 / (EA)          $0.53 USD      $25.44 USD
+    Line No.    PO Line No.         Type   Supplier Part No. /             Customer Part No.        Quantity            Unit Price         Subtotal
+                                        Description                                       (UOM)
+                                                                                                                       $14.64 USD
+    4        4                 Material 4NML3 / Knit Gloves,Beige,2XL,PR                       24 / (EA)          $0.61 USD
+                                                                                                          Unit Price         Subtotal
+    Line No.   PO Line No.         Type   Supplier Part No. /             Customer Part No.        Quantity
+                                        Description                                       (UOM)
+                                                                                                        $61.45 USD      $61.45 USD
+    5        5                 Material 1PKR4 / Sanitizer Wipes,Alcohol,7                        1 / (EA)
+                                        inL,5 inW
+                                                                               Amount Summary
+                                                                               Line item subtotal                          $209.65 USD
+                                                                               Gross amount                            $223.28 USD
+                                                                                                                      $223.28 USD
+                                                                               Net amount
+                                                                                                                       $13.63 USD
+                                                                               Total tax amount
+                                                                               Total withholding tax amount
+                                                                                                                      $223.28 USD
+                                                                               Amount Due
+     Additional Information
+     InvoiceSourceDocument
+     PurchaseOrder
+     InvoiceSubmissionMethod
+     cXML
+                                                                           Remittance Information
+     Billing Information
+                                                                           Remit To
+     Bill To
+                                                                           GRAINGER
+     FL Transportation Inc.
+                                                                           DEPT. 888068755
+     c/o PEPSICO NASS
+                                                                           KANSAS CITY
+     ACCOUNTS PAYABLES
+                                                                           MO
+     PO BOX 1800                                                           64141-6267
+    Winston Salem                                                           United States
+    NC                                                                   Address ID: US1_10359
+    27105
+                                                                          Tax ID of Supplier
+    United States
+                                                                          36-1150280
+    Address ID: US30
+                                                                       Reference Documents
+                                                                        Original Supplier Order #: 1575932466
+==================================<Page 3 - END>================================
+==================================<Page 4 - START>================================
+ Appendix
+Line No.
+            PO Line No. Type                           Supplier Part No. / Description
+  1          1
+                       Material                         5JK50 / Knit Gloves,Beige,L,PR
+ Additional Details:
+ Supplier Part ID : 5JK50
+ Supplier Part Auxiliary ID : WWG5JK50
+Line No.    PO Line No. Type                           Supplier Part No. / Description
+2
+            2         Material                         2UUJ6 / Knit Gloves,Beige,XL
+ Additional Details:
+ Supplier Part ID : 2UUJ6
+Supplier Part Auxiliary ID : WWG2UUJ6
+ Line No.    PO Line No. Type                           Supplier Part No. / Description
+ 3         3         Material                         5JK51 / Knit Gloves,Beige,S
+Additional Details:
+ Supplier Part ID : 5JK51
+ Supplier Part Auxiliary ID : WWG5JK51
+Line No.    PO Line No. Type                           Supplier Part No. / Description
+4         4          Material                         4NML3 / Knit Gloves,Beige,2XL,PR
+Additional Details:
+Supplier Part ID : 4NML3
+ Supplier Part Auxiliary ID : WWG4NML3
+Line No.    PO Line No. Type                           Supplier Part No. / Description
+5         5         Material                         1PKR4 / Sanitizer Wipes,Alcohol,7 inL,5 inW
+Additional Details:
+Supplier Part ID : 1PKR4
+Supplier Part Auxiliary ID : WWG1PKR4
+PDF generated on Friday 13 Feb 2026 5:51 AM GMT-08:00
+==================================<Page 4 - END>================================
+==================================<Page 5 - START>================================
+  Standard Invoice
+                                                                                                                     GRAINGER
+  Original tax invoice has been submitted electronically. This is a
+  human readable representation (copy) of the original tax invoice.
+                                                                  Invoice Number                                     980568936226
+                                                                  (Supplier Reference No.)
+                                                                  Invoice Date                    Thursday 12 Feb 2026 5:38 AM GMT-07:00
+                                                                  Amount Due                                         $223.28 USD
+      Contact Information
+                                                                            Shipping Information
+      Supplier                      Customer
+                                                                            Ship From                     Ship To
+      Grainger
+                                   FL Transportation Inc.
+                                                                           Grainger                      US-FL-ORLANDO-FL-FLT
+      100 Grainger Pkwy               c/o PEPSICO NASS
+                                                                            101 SOUTHCHASE BLVD          TAURA.ATKINS@PEPSICO
+      Lake Forest                    ACCOUNTS PAYABLES
+                                                                            FOUNTAIN INN                  2800 SILVER STAR RD
+      IL                           PO BOX 1800
+                                                                            SC                           ORLANDO
+      Winst                        Winston Salem
+                                                                            29644                        FL
+      United States                   NC
+                                                                            United States                    32808
+                                   27105
+                                                                                                         United States
+                                   United States
+                                                                                                        Phone: (800) 352-4477
+    Line Items
+                                                          PO No. : M413554302                                      PO Date : 12 Feb 2026
+    Line No.
+              PO Line No.          Type   Supplier Part No. /             Customer Part No.        Quantity            Unit Price         Subtotal
+                                        Description
+                                                                                        (UOM)
+    1        1                 Material 5JK50 / Knit Gloves,Beige,L,PR                                           $0.53 USD      $57.24 USD
+                                                                                        108 / (EA)
+    Line No.   PO Line No.
+                                Type    Supplier Part No. /             Customer Part No.        Quantity            Unit Price         Subtotal
+                                        Description
+                                                                                        (UOM)
+    2        2                 Material 2UUJ6 / Knit Gloves,Beige,XL                                            $0.53 USD      $50.88 USD
+                                                                                        96 / (EA)
+    Line No.   PO Line No.         Type   Supplier Part No. /                                                    Unit Price         Subtotal
+                                                                  Customer Part No.        Quantity
+                                        Description                                       UOM)
+    3        3                 Material 5JK51 / Knit Gloves,Beige,S                            48 / (EA)          $0.53 USD      $25.44 USD
+    Line No.    PO Line No.         Type   Supplier Part No. /             Customer Part No.        Quantity            Unit Price         Subtotal
+                                        Description                                       (UOM)
+                                                                                                                       $14.64 USD
+    4        4                 Material 4NML3 / Knit Gloves,Beige,2XL,PR                       24 / (EA)          $0.61 USD
+                                                                                                          Unit Price         Subtotal
+    Line No.   PO Line No.         Type   Supplier Part No. /             Customer Part No.        Quantity
+                                        Description                                       (UOM)
+                                                                                                        $61.45 USD      $61.45 USD
+    5        5                 Material 1PKR4 / Sanitizer Wipes,Alcohol,7                        1 / (EA)
+                                        inL,5 inW
+                                                                               Amount Summary
+                                                                               Line item subtotal                          $209.65 USD
+                                                                               Gross amount                            $223.28 USD
+                                                                                                                      $223.28 USD
+                                                                               Net amount
+                                                                                                                       $13.63 USD
+                                                                               Total tax amount
+                                                                               Total withholding tax amount
+                                                                                                                      $223.28 USD
+                                                                               Amount Due
+     Additional Information
+     InvoiceSourceDocument
+     PurchaseOrder
+     InvoiceSubmissionMethod
+     cXML
+                                                                           Remittance Information
+     Billing Information
+                                                                           Remit To
+     Bill To
+                                                                           GRAINGER
+     FL Transportation Inc.
+                                                                           DEPT. 888068755
+     c/o PEPSICO NASS
+                                                                           KANSAS CITY
+     ACCOUNTS PAYABLES
+                                                                           MO
+     PO BOX 1800                                                           64141-6267
+    Winston Salem                                                           United States
+    NC                                                                   Address ID: US1_10359
+    27105
+                                                                          Tax ID of Supplier
+    United States
+                                                                          36-1150280
+    Address ID: US30
+                                                                       Reference Documents
+                                                                        Original Supplier Order #: 1575932466
+==================================<Page 5 - END>================================
+==================================<Page 6 - START>================================
+ Appendix
+Line No.
+            PO Line No. Type                           Supplier Part No. / Description
+  1          1
+                       Material                         5JK50 / Knit Gloves,Beige,L,PR
+ Additional Details:
+ Supplier Part ID : 5JK50
+ Supplier Part Auxiliary ID : WWG5JK50
+Line No.    PO Line No. Type                           Supplier Part No. / Description
+2
+            2         Material                         2UUJ6 / Knit Gloves,Beige,XL
+ Additional Details:
+ Supplier Part ID : 2UUJ6
+Supplier Part Auxiliary ID : WWG2UUJ6
+ Line No.    PO Line No. Type                           Supplier Part No. / Description
+ 3         3         Material                         5JK51 / Knit Gloves,Beige,S
+Additional Details:
+ Supplier Part ID : 5JK51
+ Supplier Part Auxiliary ID : WWG5JK51
+Line No.    PO Line No. Type                           Supplier Part No. / Description
+4         4          Material                         4NML3 / Knit Gloves,Beige,2XL,PR
+Additional Details:
+Supplier Part ID : 4NML3
+ Supplier Part Auxiliary ID : WWG4NML3
+Line No.    PO Line No. Type                           Supplier Part No. / Description
+5         5         Material                         1PKR4 / Sanitizer Wipes,Alcohol,7 inL,5 inW
+Additional Details:
+Supplier Part ID : 1PKR4
+Supplier Part Auxiliary ID : WWG1PKR4
+PDF generated on Friday 13 Feb 2026 5:51 AM GMT-08:00
+==================================<Page 6 - END>================================

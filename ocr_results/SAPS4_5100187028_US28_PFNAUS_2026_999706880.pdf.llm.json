@@ -1,0 +1,55 @@
+{
+  "invoice_data": {
+    "invoice_number": "TX80-01000613",
+    "invoice_date": "10/15/24",
+    "invoice_amount": null,
+    "invoice_currency": null,
+    "tax_amount": null,
+    "po_number": [
+      "4504367971"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "REMIT MOTION INDUSTRIES, INC.",
+    "vendor_address": "4810 N SAM HOUSTON PKWY W, HOUSTON, TX 77086, PH 7136889100, FAX 7136837029, BRANCH ADDRESS",
+    "po_line_items": [
+      {
+        "description": "7300095 ES10-R ELEMENT 7300095 ELASTOMER CPLGS",
+        "quantity": 4.0,
+        "net_price": 209.69
+      }
+    ],
+    "vat_amount": null,
+    "gl_account": null,
+    "bank_name": null,
+    "account_holder_name": null,
+    "banking_account_number": null,
+    "remit_to_address": null,
+    "bill_to_address": null,
+    "transaction_type": "debit"
+  },
+  "filename": "SAPS4_5100187028_US28_PFNAUS_2026_999706880.pdf",
+  "raw_response": {
+    "invoice_number": "TX80-01000613",
+    "invoice_date": "10/15/24",
+    "invoice_amount": null,
+    "invoice_currency": null,
+    "tax_amount": null,
+    "po_number": [
+      "4504367971"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "REMIT MOTION INDUSTRIES, INC.",
+    "vendor_address": "4810 N SAM HOUSTON PKWY W, HOUSTON, TX 77086, PH 7136889100, FAX 7136837029, BRANCH ADDRESS",
+    "po_line_items": [
+      {
+        "description": "7300095 ES10-R ELEMENT 7300095 ELASTOMER CPLGS",
+        "quantity": 4.0,
+        "net_price": 209.69
+      }
+    ]
+  }
+}

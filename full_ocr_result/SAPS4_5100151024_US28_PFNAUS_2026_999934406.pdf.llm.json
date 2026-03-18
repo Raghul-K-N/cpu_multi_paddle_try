@@ -1,0 +1,59 @@
+{
+  "invoice_data": {
+    "invoice_number": "120752370",
+    "invoice_date": "12-Feb-2026",
+    "invoice_amount": "132.69",
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": "10.75",
+    "po_number": [
+      "4504911881"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": "6.99",
+    "cost_center": null,
+    "vendor_name": "Digi-Key Electronics",
+    "vendor_address": "701 Brooks Ave South, PO Box 677, Thief River Falls, MN 56701-0677, USA",
+    "po_line_items": [
+      {
+        "description": "FAN AXIAL 254X89MM 115VAC TERM",
+        "quantity": 1.0,
+        "net_price": 114.95
+      }
+    ],
+    "vat_amount": null,
+    "gl_account": null,
+    "bank_name": null,
+    "account_holder_name": null,
+    "banking_account_number": null,
+    "remit_to_address": null,
+    "bill_to_address": null,
+    "transaction_type": "debit"
+  },
+  "filename": "SAPS4_5100151024_US28_PFNAUS_2026_999934406.pdf",
+  "raw_response": {
+    "invoice_number": "120752370",
+    "invoice_date": "12-Feb-2026",
+    "invoice_amount": "132.69",
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": "10.75",
+    "po_number": [
+      "4504911881"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": "6.99",
+    "cost_center": null,
+    "vendor_name": "Digi-Key Electronics",
+    "vendor_address": "701 Brooks Ave South, PO Box 677, Thief River Falls, MN 56701-0677, USA",
+    "po_line_items": [
+      {
+        "description": "FAN AXIAL 254X89MM 115VAC TERM",
+        "quantity": 1.0,
+        "net_price": 114.95
+      }
+    ]
+  }
+}

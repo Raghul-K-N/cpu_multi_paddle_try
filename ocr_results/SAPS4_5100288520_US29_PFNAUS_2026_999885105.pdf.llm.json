@@ -1,0 +1,87 @@
+{
+  "invoice_data": {
+    "invoice_number": "C013583774",
+    "invoice_date": "February 6, 2026",
+    "invoice_amount": null,
+    "invoice_currency": null,
+    "tax_amount": "67.52",
+    "po_number": [
+      "M413553239",
+      "2505303415"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "PENSKE TRUCK LEASING CO., L.P.",
+    "vendor_address": "P.O. BOX 827380, PHILADELPHIA, PA 19182-7380",
+    "po_line_items": [
+      {
+        "description": "1-UNLEADED GASOLINE",
+        "quantity": 15.0,
+        "net_price": 15.0
+      },
+      {
+        "description": "2-ENVIRONMENTAL FEE",
+        "quantity": 1.0,
+        "net_price": 1.0
+      },
+      {
+        "description": "AR COMMERCIAL RENTAL",
+        "quantity": 0.14,
+        "net_price": 19.88
+      },
+      {
+        "description": "AR SALES TAX",
+        "quantity": 0.0,
+        "net_price": 29.05
+      }
+    ],
+    "vat_amount": null,
+    "gl_account": null,
+    "bank_name": null,
+    "account_holder_name": null,
+    "banking_account_number": null,
+    "remit_to_address": null,
+    "bill_to_address": null,
+    "transaction_type": "debit"
+  },
+  "filename": "SAPS4_5100288520_US29_PFNAUS_2026_999885105.pdf",
+  "raw_response": {
+    "invoice_number": "C013583774",
+    "invoice_date": "February 6, 2026",
+    "invoice_amount": null,
+    "invoice_currency": null,
+    "tax_amount": "67.52",
+    "po_number": [
+      "M413553239",
+      "2505303415"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "PENSKE TRUCK LEASING CO., L.P.",
+    "vendor_address": "P.O. BOX 827380, PHILADELPHIA, PA 19182-7380",
+    "po_line_items": [
+      {
+        "description": "1-UNLEADED GASOLINE",
+        "quantity": 15.0,
+        "net_price": 15.0
+      },
+      {
+        "description": "2-ENVIRONMENTAL FEE",
+        "quantity": 1.0,
+        "net_price": 1.0
+      },
+      {
+        "description": "AR COMMERCIAL RENTAL",
+        "quantity": 0.14,
+        "net_price": 19.88
+      },
+      {
+        "description": "AR SALES TAX",
+        "quantity": 0.0,
+        "net_price": 29.05
+      }
+    ]
+  }
+}

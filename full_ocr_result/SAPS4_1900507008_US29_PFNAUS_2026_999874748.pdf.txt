@@ -1,0 +1,190 @@
+==================================<Page 1 - START>================================
+   OpenText Workflow History
+   Vendor
+   PACIFIC RIM CAPITAL INC
+   PACIFIC RIM CAPITAL INC
+   525 TECHNOLOGY DR
+   STE 400
+   IRVINE CA 92618-1390
+   USA
+   Invoice
+    Reference        4-NR00047975
+                                                               Document Date
+                                                                                 05.12.2026
+   DP Document No.  39364339
+                                                               Net Amount       USD
+                                                                                              1,872.68
+   Comp. Code       US29 Rolling Frito-Lay Sales
+                                                               Tax Amount       USD
+                                                                                                    0.00
+   Posting Date     13.02.2026
+                                                               Gross Amount
+                                                                                 USD          1,872.68
+   SAP Document No. 1900507008 2026
+                                           Pre-Process History
+    ACTIVITY
+                                                          USER       END TIME         DOCUMENT STATUS
+    Update status
+                                                          VRBLAOT_U  06.02.2026       Validation
+                                                          SR          21:16:21
+                                                                                        Complete
+                                       Document Process History
+   ACTIVITY          PROCESS TYPE/BLOCK REASON
+                                                          USER        END TIME         DOCUMENT STATUS
+   BC Inbound
+                                                          VRBLAOT_U  06.02.2026       Document
+                                                          SR          20:11:24          Registered
+   Workflow Start   Approval Required (NPO)            Record to  06.02.2026        Indexed
+                                                          Report      21:16:21
+                                                          Batch
+                                                          Account
+                                                          Owner:
+     Invoice submitted for Approval                                   06.02.2026 21:16:23
+    Comment entered                                     LANETTE     06.02.2026 22:12:23
+                                                          GREGOIRE
+    Comment:
+    approved
+    Invoice Approved                                     LANETTE     06.02.2026 22:12:24
+                                                          GREGOIRE
+    Invoice Approved                                     ASHLEY      07.02.2026 20:02:22
+                                                          PETERS
+Approval          Approval Required (NPO)             SAP_WFRT    07.02.2026        Approval
+Workflow                                                            20:02:26
+                                                                                          Complete
+Business Rules   Process Non-PO Invoice (NPO)        SAP_WFRT    07.02.2026        Approval
+Check in BG                                                         20:02:27          Complete
+Post Non-PO      Process Non-PO Invoice (NPO)        NAVINKUMA  13.02.2026        Document
+Invoice
+                                                          RR         13:46:43          Created
+SAP Document
+                                                          SAP_WFRT    13.02.2026        Posted
+Check                                                                13:46:51
+==================================<Page 1 - END>================================
+==================================<Page 2 - START>================================
+        PEPSICO
+  InstructionsWhen there is not an "Oficial"Invoice to request payment, complete the information on this form.
+  You must fillin all of the fields below and the form must be accompanied with supporting documentation.
+  Save submission as 1 single PDF file prior to submitting to nassapinvoicesubmission@pepsico.com
+             SAP Payment Request
+        Substitute Invoice Form                      To be filled by Requestor
+  Vendor Type
+                                              S4
+  Vendor Name:
+                                              Pacific Rim Capital, Inc.
+  Vendor Number:
+                                              2000032895
+  Company Code:
+                                              US29
+                                             Pacific Rim Capital, Inc 151362
+  Remit To Address :                               6440 S. Millrock Drive
+  (Must match the address in the AP system)                 Suite 400
+                                             Salt Lake City, UT 84121
+                                             United States Of America
+  Special Handling needed:                           No
+  Attn:
+                                             Attn: UMB Bank, N.A.
+                                             6440 S. Millrock Drive
+                                             Suite 400
+                                             Salt Lake City, UT 84121
+  Address:                                     United States Of America
+  Overnight delivery required:
+  (if yes provide account # or CC below)
+                                            No
+  FedEx or UPS, & Provide Number:
+ FedEx or UPS account #
+ Cost Center (If No FedEx/UPS Number):
+ Trnsaction type:
+ Choose only 1 option - Invoice or Credit Memo from the dropdown   Invoice
+ Invoice Date:                                  12/5/2026
+ Invoice #:
+                                            4-NR00047975
+Limited to 16 characters
+Purchase Order #
+Not required if non-PO
+Payment GROSS Amount:                          $1,872.68
+Tax Amount
+(if applicable)
+Payment NET Amount:                            $1,872.68
+Currency (USD or CAD)
+Header Text:                                  Property Tax
+Requestor Name:                               Lanette Gregoire
+                                           Lanette.Gregoire@pepsico.com
+Requestor email
+                                           Ashley Peters
+1st Level Approver Name
+                                           Ashley.Peters@pepsico.com
+1st Level Approver Email id/GPID
+                                           02/04/2026
+Date Requested:
+                                           666330
+GL Coding (6 digits)
+Cost Center (if applicable)                          2298470600
+Profit Center (if applicable)                         No
+WBS Element (if applicable)                         No
+For Assistance On This Form submission please contact:
+Raise service now ticket(Snow)                       PepsiCo - Sign In
+==================================<Page 2 - END>================================
+==================================<Page 3 - START>================================
+                                                                                               INVOICE
+         PRC
+                                                                                               No: 4-NR00047975
+          Pacific Rim Capital,Inc.
+ Tel: (949) 389-0800 Fax: (949) 389-0900                                                               Invoice Date: 12/05/2025
+                                                                                              Invoice Due Date: 03/05/2026
+                                                           Please reference payment instructions on the last page of the invoice.
+Bill To: Frito-Lay, Inc.
+                                                                 Remit To: Pacific Rim Capital, Inc 151362
+        Attn: Accounts Payable
+                                                                          Attn: UMB Bank, N.A.
+        7701 Legacy Dr                                                    6440 S. Millrock Drive
+        Plano, TX 75024                                                   Suite 400
+        United States Of America
+                                                                          Salt Lake City, UT 84121
+                                                                          United States Of America
+ SUPPORTING DOCUMENTATION ONLY
+                      PURCHASE ORDER #                                             LEASE NUMBER
+                                                                                        2121212
+ASSET PO #                                                                                                   AMOUNT
+                       MODEL #          SERIAL #            DESCRIPTION
+Sundry - Deal Based
+      -Property Tax -                                                                                                1,872.68
+      2025 Property Tax
+      Multnomah County, OR
+     Sales Tax                                                                                                        0.00
+                                                                                         Invoice Total             $1,872.68
+                                                                                            Sales Tax                $0.00
+                                                                                            Total Due           $1,872.68
+                                                                                       Payable in USD
+SUPPORTING DOCUMENTATION ONLY
+SUPPORTING DOCUMENTATION ONLY
+               Please remit payment by ACH transfer or check.Please make all checks payable to Pacific Rim Capital, Inc 151362
+                 Total payment is due within 10 days of Invoice Due Date,otherwise a late fee will be applied.
+                    If you have any questions or comments please contact PRCbilling@pacrimcap.com
+                                                 Thank you for your business!
+==================================<Page 3 - END>================================
+==================================<Page 4 - START>================================
+           From: SPA - PepsiCo Nass AP Invoice Submission <nassapInvoiceSubmission@pepsico.com>
+           Sent: Wed, 4 Feb 2026 21:20:54 (UTC)
+           To: svcimagingspaboxprod@pepsico.com
+           Subject: FW: PACIFIC RIM PORTLAND TAXES INVOICE 4-NR00047975
+           Original Number of Attachments : 1
+           Original Attachment Names: 4-NR00047975.pdf
+           Number of forwarded PDF's: 1
+           Number of forwarded Non PDF files: 0
+           From: Guerrero, Nicole {PEP}<Nicole.Guerrero@pepsico.com>
+           Sent: Wednesday, February 4, 2026 9:19:07 PM
+           To: SPA - PepsiCo Nass AP Invoice Submission <nassaplnvoiceSubmission@pepsico.com>; Guerrero,
+           Nicole {PEP}<Nicole.Guerrero@pepsico.com>
+           Subject: PACIFIC RIM PORTLAND TAXES INVOICE 4-NR00047975
+            PACIFIC RIM PORTLAND TAXES INVOICE 4-NR00047975
+            Kind regards,
+                Fritolay
+                                                Nicole Guerrero
+                   Good fun!
+                                                S&T - R2P - MCC - Indirect Purchasing
+                                                R2P IP Analyst | RW Buyer
+                                                Bosque de Duraznos 67, Bosque de las Lomas,
+                                               CP 11700, CDMX, Mexico.
+                                                Email: nicole.guerrero@pepsico.com
+                PEPSICO
+==================================<Page 4 - END>================================

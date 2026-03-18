@@ -1,0 +1,59 @@
+{
+  "invoice_data": {
+    "invoice_number": "1013069",
+    "invoice_date": "2026-02-03",
+    "invoice_amount": null,
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": "505.48",
+    "po_number": [
+      "4504601313"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": "81.60",
+    "cost_center": null,
+    "vendor_name": "ID Technology, LLC",
+    "vendor_address": "P.O. Box 73419, Cleveland, OH 44193 USA",
+    "po_line_items": [
+      {
+        "description": "Assy, Printer, Modified, RH, Enet",
+        "quantity": 1.0,
+        "net_price": 6785.0
+      }
+    ],
+    "vat_amount": null,
+    "gl_account": null,
+    "bank_name": null,
+    "account_holder_name": null,
+    "banking_account_number": null,
+    "remit_to_address": null,
+    "bill_to_address": null,
+    "transaction_type": "debit"
+  },
+  "filename": "SAPS4_5100494527_US28_PFNAUS_2026_999884487.pdf",
+  "raw_response": {
+    "invoice_number": "1013069",
+    "invoice_date": "2026-02-03",
+    "invoice_amount": "../../../../7372.08",
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": "505.48",
+    "po_number": [
+      "4504601313"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": "81.60",
+    "cost_center": null,
+    "vendor_name": "ID Technology, LLC",
+    "vendor_address": "P.O. Box 73419, Cleveland, OH 44193 USA",
+    "po_line_items": [
+      {
+        "description": "Assy, Printer, Modified, RH, Enet",
+        "quantity": 1.0,
+        "net_price": 6785.0
+      }
+    ]
+  }
+}

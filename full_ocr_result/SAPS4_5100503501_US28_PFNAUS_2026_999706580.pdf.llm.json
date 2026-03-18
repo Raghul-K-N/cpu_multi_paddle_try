@@ -1,0 +1,99 @@
+{
+  "invoice_data": {
+    "invoice_number": "980301051226",
+    "invoice_date": "Tuesday 10 Feb 2026 3:31 AM GMT-07:00",
+    "invoice_amount": "384.32",
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": "21.75",
+    "po_number": [
+      "M413548471"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": "169.00",
+    "cost_center": null,
+    "vendor_name": "GRAINGER",
+    "vendor_address": "Grainger, 100 Grainger Pkwy, Lake Forest, IL, United States",
+    "po_line_items": [
+      {
+        "description": "3TB47 / Trash Can, Gry. 32 gal, Plastic",
+        "quantity": 2.0,
+        "net_price": 27.78
+      },
+      {
+        "description": "2U250 / Facial Tissue,100,White,47410,PK30",
+        "quantity": 1.0,
+        "net_price": 28.86
+      },
+      {
+        "description": "24X071 / Maintenance Absorbent,25 Ib.,Bag",
+        "quantity": 3.0,
+        "net_price": 9.35
+      },
+      {
+        "description": "5TP99 / Maintenance Absorbent,20 Ib.,Pail",
+        "quantity": 3.0,
+        "net_price": 23.98
+      },
+      {
+        "description": "4TJY5 / Cold Protection Gloves,M,Gld Ylw/Blue,PR",
+        "quantity": 1.0,
+        "net_price": 9.16
+      }
+    ],
+    "vat_amount": null,
+    "gl_account": null,
+    "bank_name": null,
+    "account_holder_name": null,
+    "banking_account_number": null,
+    "remit_to_address": null,
+    "bill_to_address": null,
+    "transaction_type": "debit"
+  },
+  "filename": "SAPS4_5100503501_US28_PFNAUS_2026_999706580.pdf",
+  "raw_response": {
+    "invoice_number": "980301051226",
+    "invoice_date": "Tuesday 10 Feb 2026 3:31 AM GMT-07:00",
+    "invoice_amount": "384.32",
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": "21.75",
+    "po_number": [
+      "M413548471"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": "169.00",
+    "cost_center": null,
+    "vendor_name": "GRAINGER",
+    "vendor_address": "Grainger, 100 Grainger Pkwy, Lake Forest, IL, United States",
+    "po_line_items": [
+      {
+        "description": "3TB47 / Trash Can, Gry. 32 gal, Plastic",
+        "quantity": 2.0,
+        "net_price": 27.78
+      },
+      {
+        "description": "2U250 / Facial Tissue,100,White,47410,PK30",
+        "quantity": 1.0,
+        "net_price": 28.86
+      },
+      {
+        "description": "24X071 / Maintenance Absorbent,25 Ib.,Bag",
+        "quantity": 3.0,
+        "net_price": 9.35
+      },
+      {
+        "description": "5TP99 / Maintenance Absorbent,20 Ib.,Pail",
+        "quantity": 3.0,
+        "net_price": 23.98
+      },
+      {
+        "description": "4TJY5 / Cold Protection Gloves,M,Gld Ylw/Blue,PR",
+        "quantity": 1.0,
+        "net_price": 9.16
+      }
+    ]
+  }
+}

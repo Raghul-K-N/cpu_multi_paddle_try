@@ -1,0 +1,65 @@
+{
+  "invoice_data": {
+    "invoice_number": "MR045152",
+    "invoice_date": "01/30/26",
+    "invoice_amount": null,
+    "invoice_currency": null,
+    "tax_amount": null,
+    "po_number": [
+      "23564840"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "RADIATOR WORKS",
+    "vendor_address": "36555 ECORSE RD, ROMULUS, MI 48174",
+    "po_line_items": [
+      {
+        "description": "HDC010664PA",
+        "quantity": 1.0,
+        "net_price": 609.05
+      },
+      {
+        "description": "RAD;08-12 FTL M2;CONFRM CONN W/OC;2 PINS ECH CORNER;PL/ALM",
+        "quantity": 1.0,
+        "net_price": 609.05
+      }
+    ],
+    "vat_amount": null,
+    "gl_account": null,
+    "bank_name": null,
+    "account_holder_name": null,
+    "banking_account_number": null,
+    "remit_to_address": null,
+    "bill_to_address": null,
+    "transaction_type": "debit"
+  },
+  "filename": "SAPS4_5100096566_US29_PFNAUS_2026_999936219.pdf",
+  "raw_response": {
+    "invoice_number": "MR045152",
+    "invoice_date": "01/30/26",
+    "invoice_amount": null,
+    "invoice_currency": null,
+    "tax_amount": null,
+    "po_number": [
+      "23564840"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "RADIATOR WORKS",
+    "vendor_address": "36555 ECORSE RD, ROMULUS, MI 48174",
+    "po_line_items": [
+      {
+        "description": "HDC010664PA",
+        "quantity": 1.0,
+        "net_price": 609.05
+      },
+      {
+        "description": "RAD;08-12 FTL M2;CONFRM CONN W/OC;2 PINS ECH CORNER;PL/ALM",
+        "quantity": 1.0,
+        "net_price": 609.05
+      }
+    ]
+  }
+}

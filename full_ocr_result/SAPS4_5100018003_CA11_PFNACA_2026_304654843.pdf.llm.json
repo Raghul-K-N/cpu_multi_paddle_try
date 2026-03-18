@@ -1,0 +1,79 @@
+{
+  "invoice_data": {
+    "invoice_number": "QC09-00973660",
+    "invoice_date": "02/03/26",
+    "invoice_amount": null,
+    "invoice_currency": [
+      "CAD"
+    ],
+    "tax_amount": null,
+    "po_number": [
+      "4504961133"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "REMIT MOTION INDUSTRIES, (CANADA) INC",
+    "vendor_address": "SUCCURSALE CENTRE-VILLE, MONTREAL, QC H3C 5N7, 3000, RUE EINSTEIN, QUEBEC, QC G1X 4B3",
+    "po_line_items": [
+      {
+        "description": "UX1SS24 UNIBAR-316 10/BX 01353",
+        "quantity": 1.0,
+        "net_price": 196.4
+      },
+      {
+        "description": "NCDGBN32-0150 NCG CYLINDER",
+        "quantity": 8.0,
+        "net_price": 47.06
+      },
+      {
+        "description": "SPA6415-6 ACTUATOR",
+        "quantity": 1.0,
+        "net_price": 3164.53
+      }
+    ],
+    "vat_amount": null,
+    "gl_account": null,
+    "bank_name": null,
+    "account_holder_name": null,
+    "banking_account_number": null,
+    "remit_to_address": null,
+    "bill_to_address": null,
+    "transaction_type": "debit"
+  },
+  "filename": "SAPS4_5100018003_CA11_PFNACA_2026_304654843.pdf",
+  "raw_response": {
+    "invoice_number": "QC09-00973660",
+    "invoice_date": "02/03/26",
+    "invoice_amount": null,
+    "invoice_currency": [
+      "CAD"
+    ],
+    "tax_amount": null,
+    "po_number": [
+      "4504961133"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "REMIT MOTION INDUSTRIES, (CANADA) INC",
+    "vendor_address": "SUCCURSALE CENTRE-VILLE, MONTREAL, QC H3C 5N7, 3000, RUE EINSTEIN, QUEBEC, QC G1X 4B3",
+    "po_line_items": [
+      {
+        "description": "UX1SS24 UNIBAR-316 10/BX 01353",
+        "quantity": 1.0,
+        "net_price": 196.4
+      },
+      {
+        "description": "NCDGBN32-0150 NCG CYLINDER",
+        "quantity": 8.0,
+        "net_price": 47.06
+      },
+      {
+        "description": "SPA6415-6 ACTUATOR",
+        "quantity": 1.0,
+        "net_price": 3164.53
+      }
+    ]
+  }
+}

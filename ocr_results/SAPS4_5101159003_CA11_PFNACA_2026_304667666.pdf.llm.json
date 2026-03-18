@@ -1,0 +1,63 @@
+{
+  "invoice_data": {
+    "invoice_number": "274716",
+    "invoice_date": "12-Feb-2026",
+    "invoice_amount": null,
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": null,
+    "po_number": [
+      "452568",
+      "1055806",
+      "4504094343"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "RICHARDSON OILSEED LIMITED",
+    "vendor_address": "2800 - ONE LOMBARD PLACE, WINNIPEG, MB, CANADA R3B 0X8",
+    "po_line_items": [
+      {
+        "description": "HI OLEIC/LOW LIN CANOLA OIL (53 00 078)",
+        "quantity": 47937.3143,
+        "net_price": 0.6219
+      }
+    ],
+    "vat_amount": null,
+    "gl_account": null,
+    "bank_name": null,
+    "account_holder_name": null,
+    "banking_account_number": null,
+    "remit_to_address": null,
+    "bill_to_address": null,
+    "transaction_type": "debit"
+  },
+  "filename": "SAPS4_5101159003_CA11_PFNACA_2026_304667666.pdf",
+  "raw_response": {
+    "invoice_number": "274716",
+    "invoice_date": "12-Feb-2026",
+    "invoice_amount": null,
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": null,
+    "po_number": [
+      "452568",
+      "1055806",
+      "4504094343"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "RICHARDSON OILSEED LIMITED",
+    "vendor_address": "2800 - ONE LOMBARD PLACE, WINNIPEG, MB, CANADA R3B 0X8",
+    "po_line_items": [
+      {
+        "description": "HI OLEIC/LOW LIN CANOLA OIL (53 00 078)",
+        "quantity": 47937.3143,
+        "net_price": 0.6219
+      }
+    ]
+  }
+}

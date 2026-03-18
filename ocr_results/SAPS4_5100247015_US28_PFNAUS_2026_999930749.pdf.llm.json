@@ -1,0 +1,59 @@
+{
+  "invoice_data": {
+    "invoice_number": "300262208",
+    "invoice_date": "Wednesday 11 Feb 2026 12:00 PM GMT-05:00",
+    "invoice_amount": null,
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": null,
+    "po_number": [
+      "M413545423"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": "330.24",
+    "cost_center": null,
+    "vendor_name": "Dystar LP",
+    "vendor_address": "Dystar LP, 9844-A Southern Pine Blvd, Charlotte, NC 28273, United States",
+    "po_line_items": [
+      {
+        "description": "Material 600114-NWIBC / FOAM BLAST 72401 DEFOAMER TOTE",
+        "quantity": 1.0,
+        "net_price": 8008.0
+      }
+    ],
+    "vat_amount": null,
+    "gl_account": null,
+    "bank_name": null,
+    "account_holder_name": null,
+    "banking_account_number": null,
+    "remit_to_address": null,
+    "bill_to_address": null,
+    "transaction_type": "debit"
+  },
+  "filename": "SAPS4_5100247015_US28_PFNAUS_2026_999930749.pdf",
+  "raw_response": {
+    "invoice_number": "300262208",
+    "invoice_date": "Wednesday 11 Feb 2026 12:00 PM GMT-05:00",
+    "invoice_amount": "../../../8338.24",
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": null,
+    "po_number": [
+      "M413545423"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": "330.24",
+    "cost_center": null,
+    "vendor_name": "Dystar LP",
+    "vendor_address": "Dystar LP, 9844-A Southern Pine Blvd, Charlotte, NC 28273, United States",
+    "po_line_items": [
+      {
+        "description": "Material 600114-NWIBC / FOAM BLAST 72401 DEFOAMER TOTE",
+        "quantity": 1.0,
+        "net_price": 8008.0
+      }
+    ]
+  }
+}

@@ -1,0 +1,344 @@
+==================================<Page 1 - START>================================
+Standard Invoice
+                                                                                                                       staples()
+Original tax invoice has been submitted electronically. This is a
+human readable representation (copy) of the original tax invoice.
+                                                                  Invoice Number                                          72381611
+                                                                  (Supplier Reference No.)
+                                                                  Invoice Date                     Monday 9 Feb. 2026 6:06 a.m. GMT-07:00
+                                                                                                                      $201.73 CAD
+                                                                  Amount Due
+    Contact Information                                                         Shipping Information
+    Supplier                                                                                              Ship To
+                                  Customer                                  Ship From
+    Supplier VAT/Tax ID              PEPSICO FOODS CANADA O/                   Staples Canada ULC              FRITO-LAY CDA/PEPSICO
+    126152586RT0001               A FRITO LAY CANADA                         9 TANTRAMAR CRES             BEVERAGE
+                                                                                                          LAURA.PARKER@PEPSICO.COM
+                                                                            AMHERST
+                                  5550 EXPLORER DR 8TH                                                    59 MINAS WAREHOUSE RD
+                                  FLOOR                                    NS
+                                                                                                          CA-PL-KENTVILLE-NS-FLC
+                                  MISSISSAUGA                              B4H 4J6
+                                                                                                          KENTVILLE
+                                  ON                                       Canada
+                                                                                                          NS
+                                  L4W 0C3
+                                                                                                          B4N 3W9
+                                  Canada
+                                                                                                          CA
+                                  Address ID:
+                                                                                                          Address ID: shipTo
+                                  CA1_ARIBA_PAYABLES
+                                                          PO No. : M413545371                                        PO Date : 9 Feb. 2026
+  Line Items
+                                                                                                                            Subtotal
+                                                                   Customer Part No.        Quantity            Unit Price
+  Line No.    PO Line No.          Type    Supplier Part No. /
+                                       Description                                        (UOM)
+                                                                                                          $2.29 CAD       $6.87 CAD
+   1         1                  Material BICGSM11BK /                                     3 / (BX)
+                                        PEN,BALLPOINT,ROUNDSTICK,MEDBK
+                                                                                                        Line Item Total : $6.87 CAD
+                                                                   Customer Part No.        Quantity            Unit Price         Subtotal
+   Line No.    PO Line No.          Type    Supplier Part No. /
+                                                                                        (UOM)
+                                        Description
+                                                                                                                          $6.87 CAD
+                                MaterialBICGSM11BE                                     3 / (BX)            $2.29 CAD
+   2        2
+                                        PEN,BALLPOINT.ROUNDSTICK,MEDBE
+                                                                                                        Line Item Total : $6.87 CAD
+                                                                                                           Unit Price         Subtotal
+             PO Line No.          Type    Supplier Part No. /             Customer Part No.        Quantity
+   Line No.
+                                        Description                                        (UOM)
+                                                                                        1 / (BX)            $2.83 CAD       $2.83 CAD
+   3         3                  Material ACC72500 / PAPER
+                                        CLIP,JUMBO,SMOOTH
+                                                                                                        Line Item Total : $2.83 CAD
+                                                                                                                            Subtotal
+                                Type    Supplier Part No. /             Customer Part No.         Quantity            Unit Price
+   Line No.    PO Line No.
+                                        Description                                        (UOM)
+                                                                                         2 / (PK)            $7.49 CAD      $14.98 CAD
+              4                 Material SAN30665 / FINE TIP PER
+   4                                   MARKER BK 5/PK
+                                                                                                       Line Item Total : $14.98 CAD
+                                Type    Supplier Part No. /             Customer Part No.         Quantity            Unit Price         Subtotal
+   Line No.    PO Line No.
+                                        Description                                        (UOM)
+                                                                                                          $39.13 CAD      $78.26 CAD
+                                Material CWPCW58336 / TOILET TISSUE,2                        2 / (CT)
+   5         5
+                                        PLY,400 SHEETS
+                                                                                                       Line Item Total : $78.26 CAD
+                                        Supplier Part No. /             Customer Part No.         Quantity            Unit Price         Subtotal
+   Line No.    PO Line No.          Type
+                                        Description                                        (UOM)
+                                                                                                          $14.49 CAD
+                                Material  AVE83507BX / HI-LITER                               1 / (BX)                          $14.49 CAD
+   6         6
+                                        HIGHLIGHTER YELLOW 12
+                                                                                                       Line Item Total : $14.49 CAD
+                                Type    Supplier Part No. /              Customer Part No.         Quantity            Unit Price         Subtotal
+    Line No.    PO Line No.
+                                        Description                                        (UOM)
+              8                  Material  CWPSA600378G4 / CP60 LOTION                        1 / (EA)           $17.49 CAD      $17.49 CAD
+   7
+                                        HAND SOAP.3.78L
+                                                                                                       Line Item Total : $17.49 CAD
+                                                                                                           Unit Price         Subtotal
+   Line No.    PO Line No.          Type    Supplier Part No. /              Customer Part No.         Quantity
+                                        Description
+                                                                                         (UOM)
+                                Material CCDH085 / TOWEL,PAPER 100                          1 / (CT)           $35.16 CAD      $35.16 CAD
+    8         9
+                                        RECYCLED NAT
+                                                                                                       Line Item Total : $35.16 CAD
+       Tax Summary
+                             Details                          Base Amount               Rate %          Amount
+       Category
+       HST                  Tax Description :                   $176.95 CAD                14.0%           $24.78 CAD
+                             126152586RT0001
+                             Tax Location : CA
+                                                                                Amount Summary
+                                                                                Line item subtotal                          $176.95 CAD
+                                                                                Gross amount                             $201.73 CAD
+                                                                                Net amount                              $201.73 CAD
+                                                                                                                       $24.78 CAD
+                                                                                Total tax amount
+                                                                                Total withholding tax amount
+                                                                                Amount Due                              $201.73 CAD
+     Additional Information
+                                                                            Remittance Information
+                                                                            Remit To
+                                                                            Staples Canada ULC
+                                                                           c/o T04446C
+                                                                           PO Box 4446C, STN A
+                                                                            Toronto
+                                                                            ON
+                                                                           M5W 4A2
+                                                                            CA
+                                                                            Address ID: CA1_32220
+==================================<Page 1 - END>================================
+==================================<Page 2 - START>================================
+  Appendix
+  Line No.
+             PO Line No. Type                           Supplier Part No. / Description
+  1
+             1         Material                         BICGSM11BK / PEN,BALLPOINT,ROUNDSTICK,MEDBK
+  Additional Details:
+  Supplier Part ID : BICGSM11BK
+  Line No.
+             PO Line No. Type                           Supplier Part No. / Description
+  2         2
+                       Material                         BICGSM11BE / PEN,BALLPOINT,ROUNDSTICK,MEDBE
+  Additional Details:
+  Supplier Part ID : BICGSM11BE
+ Line No.
+             PO Line No. Type
+                                                       Supplier Part No. / Description
+  3
+            3         Material                        ACC72500 / PAPER CLIP,JUMBO,SMOOTH
+  Additional Details:
+  Supplier Part ID : ACC72500
+ Line No.    PO Line No. Type
+                                                      Supplier Part No. / Description
+  4         4         Material
+                                                      SAN30665 / FINE TIP PER MARKER BK 5/PK
+ Additional Details:
+ Supplier Part ID : SAN30665
+ Line No.
+            PO Line No. Type                           Supplier Part No. / Description
+ 5         5         Material
+                                                      CWPCW58336 / TOILET TISSUE,2 PLY,400 SHEETS
+ Additional Details:
+ Supplier Part ID : CWPCW58336
+ Line No.    PO Line No. Type                           Supplier Part No. / Description
+ 6                    Material
+            6                                        AVE83507BX / HI-LITER HIGHLIGHTER YELLOW 12
+ Additional Details:
+ Supplier Part ID : AVE83507BX
+Line No.    PO Line No. Type                           Supplier Part No. / Description
+                      Material
+ 7         8                                        CWPSA600378G4 / CP60 LOTION HAND SOAP,3.78L
+Additional Details:
+Supplier Part ID : CWPSA600378G4
+Line No.    PO Line No. Type                           Supplier Part No. / Description
+8         9         Material                         CCDH085 / TOWEL,PAPER 100 RECYCLED NAT
+Additional Details:
+Supplier Part ID : CCDH085
+PDF generated on Tuesday 10 Feb. 2026 3:09 a.m. GMT-08:00
+==================================<Page 2 - END>================================
+==================================<Page 3 - START>================================
+ Standard Invoice
+                                                                                                                        staples()
+ Original tax invoice has been submitted electronically. This is a
+ human readable representation (copy) of the original tax invoice.
+                                                                    Invoice Number                                          72381611
+                                                                    (Supplier Reference No.)
+                                                                   Invoice Date                     Monday 9 Feb. 2026 6:06 a.m. GMT-07:00
+                                                                                                                       $201.73 CAD
+                                                                   Amount Due
+      Contact Information                                                         Shipping Information
+      Supplier                                                                                              Ship To
+                                   Customer                                  Ship From
+      Supplier VAT/Tax ID              PEPSICO FOODS CANADA O/                   Staples Canada ULC              FRITO-LAY CDA/PEPSICO
+      126152586RT0001               A FRITO LAY CANADA                         9 TANTRAMAR CRES             BEVERAGE
+                                                                                                           LAURA.PARKER@PEPSICO.COM
+                                                                             AMHERST
+                                   5550 EXPLORER DR 8TH                                                    59 MINAS WAREHOUSE RD
+                                   FLOOR                                    NS
+                                                                                                           CA-PL-KENTVILLE-NS-FLC
+                                    MISSISSAUGA                              B4H 4J6
+                                                                                                           KENTVILLE
+                                   ON                                       Canada
+                                                                                                           NS
+                                   L4W 0C3
+                                                                                                           B4N 3W9
+                                   Canada
+                                                                                                           CA
+                                    Address ID:
+                                                                                                           Address ID: shipTo
+                                   CA1_ARIBA_PAYABLES
+                                                            PO No. : M413545371                                        PO Date : 9 Feb. 2026
+    Line Items
+                                                                                                                             Subtotal
+                                                                    Customer Part No.        Quantity            Unit Price
+    Line No.    PO Line No.          Type    Supplier Part No. /
+                                         Description                                        (UOM)
+                                                                                                            $2.29 CAD       $6.87 CAD
+    1         1                  Material BICGSM11BK /                                     3 / (BX)
+                                         PEN,BALLPOINT,ROUNDSTICK,MEDBK
+                                                                                                         Line Item Total : $6.87 CAD
+                                                                    Customer Part No.        Quantity            Unit Price         Subtotal
+    Line No.    PO Line No.          Type    Supplier Part No. /
+                                                                                          (UOM)
+                                         Description
+                                                                                                                           $6.87 CAD
+                                  MaterialBICGSM11BE                                     3 / (BX)            $2.29 CAD
+    2        2
+                                         PEN,BALLPOINT.ROUNDSTICK,MEDBE
+                                                                                                         Line Item Total : $6.87 CAD
+                                                                                                            Unit Price         Subtotal
+               PO Line No.          Type    Supplier Part No. /             Customer Part No.        Quantity
+    Line No.
+                                         Description                                        (UOM)
+                                                                                          1 / (BX)            $2.83 CAD       $2.83 CAD
+    3         3                  Material ACC72500 / PAPER
+                                         CLIP,JUMBO,SMOOTH
+                                                                                                         Line Item Total : $2.83 CAD
+                                                                                                                             Subtotal
+                                  Type    Supplier Part No. /             Customer Part No.         Quantity            Unit Price
+    Line No.    PO Line No.
+                                         Description                                        (UOM)
+                                                                                          2 / (PK)            $7.49 CAD      $14.98 CAD
+               4                 Material SAN30665 / FINE TIP PER
+     4                                   MARKER BK 5/PK
+                                                                                                        Line Item Total : $14.98 CAD
+                                  Type    Supplier Part No. /             Customer Part No.         Quantity            Unit Price         Subtotal
+     Line No.    PO Line No.
+                                         Description                                        (UOM)
+                                                                                                           $39.13 CAD      $78.26 CAD
+                                  Material CWPCW58336 / TOILET TISSUE,2                        2 / (CT)
+     5         5
+                                         PLY,400 SHEETS
+                                                                                                        Line Item Total : $78.26 CAD
+                                          Supplier Part No. /             Customer Part No.         Quantity            Unit Price         Subtotal
+     Line No.    PO Line No.          Type
+                                          Description                                        (UOM)
+                                                                                                           $14.49 CAD
+                                  Material  AVE83507BX / HI-LITER                               1 / (BX)                          $14.49 CAD
+     6         6
+                                          HIGHLIGHTER YELLOW 12
+                                                                                                        Line Item Total : $14.49 CAD
+                                  Type    Supplier Part No. /              Customer Part No.         Quantity            Unit Price         Subtotal
+     Line No.    PO Line No.
+                                          Description                                        (UOM)
+               8                  Material  CWPSA600378G4 / CP60 LOTION                        1 / (EA)           $17.49 CAD      $17.49 CAD
+     7
+                                          HAND SOAP.3.78L
+                                                                                                        Line Item Total : $17.49 CAD
+                                                                                                             Unit Price         Subtotal
+     Line No.    PO Line No.          Type    Supplier Part No. /              Customer Part No.         Quantity
+                                          Description
+                                                                                          (UOM)
+                                  Material CCDH085 / TOWEL,PAPER 100                          1 / (CT)           $35.16 CAD      $35.16 CAD
+     8         9
+                                          RECYCLED NAT
+                                                                                                        Line Item Total : $35.16 CAD
+        Tax Summary
+                              Details                          Base Amount               Rate %          Amount
+        Category
+        HST                  Tax Description :                   $176.95 CAD                14.0%           $24.78 CAD
+                              126152586RT0001
+                              Tax Location : CA
+                                                                                 Amount Summary
+                                                                                 Line item subtotal                          $176.95 CAD
+                                                                                  Gross amount                             $201.73 CAD
+                                                                                 Net amount                              $201.73 CAD
+                                                                                                                         $24.78 CAD
+                                                                                 Total tax amount
+                                                                                 Total withholding tax amount
+                                                                                 Amount Due                              $201.73 CAD
+      Additional Information
+                                                                             Remittance Information
+                                                                             Remit To
+                                                                             Staples Canada ULC
+                                                                             c/o T04446C
+                                                                             PO Box 4446C, STN A
+                                                                             Toronto
+                                                                             ON
+                                                                             M5W 4A2
+                                                                             CA
+                                                                             Address ID: CA1_32220
+==================================<Page 3 - END>================================
+==================================<Page 4 - START>================================
+  Appendix
+  Line No.
+             PO Line No. Type                           Supplier Part No. / Description
+  1
+             1         Material                         BICGSM11BK / PEN,BALLPOINT,ROUNDSTICK,MEDBK
+  Additional Details:
+  Supplier Part ID : BICGSM11BK
+  Line No.
+             PO Line No. Type                           Supplier Part No. / Description
+  2         2
+                       Material                         BICGSM11BE / PEN,BALLPOINT,ROUNDSTICK,MEDBE
+  Additional Details:
+  Supplier Part ID : BICGSM11BE
+ Line No.
+             PO Line No. Type
+                                                       Supplier Part No. / Description
+  3
+            3         Material                        ACC72500 / PAPER CLIP,JUMBO,SMOOTH
+  Additional Details:
+  Supplier Part ID : ACC72500
+ Line No.    PO Line No. Type
+                                                      Supplier Part No. / Description
+  4         4         Material
+                                                      SAN30665 / FINE TIP PER MARKER BK 5/PK
+ Additional Details:
+ Supplier Part ID : SAN30665
+ Line No.
+            PO Line No. Type                           Supplier Part No. / Description
+ 5         5         Material
+                                                      CWPCW58336 / TOILET TISSUE,2 PLY,400 SHEETS
+ Additional Details:
+ Supplier Part ID : CWPCW58336
+ Line No.    PO Line No. Type                           Supplier Part No. / Description
+ 6                    Material
+            6                                        AVE83507BX / HI-LITER HIGHLIGHTER YELLOW 12
+ Additional Details:
+ Supplier Part ID : AVE83507BX
+Line No.    PO Line No. Type                           Supplier Part No. / Description
+                      Material
+ 7         8                                        CWPSA600378G4 / CP60 LOTION HAND SOAP,3.78L
+Additional Details:
+Supplier Part ID : CWPSA600378G4
+Line No.    PO Line No. Type                           Supplier Part No. / Description
+8         9         Material                         CCDH085 / TOWEL,PAPER 100 RECYCLED NAT
+Additional Details:
+Supplier Part ID : CCDH085
+PDF generated on Tuesday 10 Feb. 2026 3:09 a.m. GMT-08:00
+==================================<Page 4 - END>================================

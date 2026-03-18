@@ -1,0 +1,59 @@
+{
+  "invoice_data": {
+    "invoice_number": "02P736559",
+    "invoice_date": "2/5/2026",
+    "invoice_amount": null,
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": null,
+    "po_number": [
+      "23569988"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "Nextran Truck Center - Orlando",
+    "vendor_address": "2200 W Landstreet Rd, Orlando, FL 32809, 407-855-1200",
+    "po_line_items": [
+      {
+        "description": "EC450 CLUTCH, CORSAIR",
+        "quantity": 1.0,
+        "net_price": 842.85
+      }
+    ],
+    "vat_amount": null,
+    "gl_account": null,
+    "bank_name": null,
+    "account_holder_name": null,
+    "banking_account_number": null,
+    "remit_to_address": null,
+    "bill_to_address": null,
+    "transaction_type": "debit"
+  },
+  "filename": "SAPS4_5100075514_US30_PFNAUS_2026_999936055.pdf",
+  "raw_response": {
+    "invoice_number": "02P736559",
+    "invoice_date": "2/5/2026",
+    "invoice_amount": "../../../897.63",
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": null,
+    "po_number": [
+      "23569988"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "Nextran Truck Center - Orlando",
+    "vendor_address": "2200 W Landstreet Rd, Orlando, FL 32809, 407-855-1200",
+    "po_line_items": [
+      {
+        "description": "EC450 CLUTCH, CORSAIR",
+        "quantity": 1.0,
+        "net_price": 842.85
+      }
+    ]
+  }
+}

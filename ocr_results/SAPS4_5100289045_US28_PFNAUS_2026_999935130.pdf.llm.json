@@ -1,0 +1,59 @@
+{
+  "invoice_data": {
+    "invoice_number": "868566944",
+    "invoice_date": "02/12/2026",
+    "invoice_amount": "108.18",
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": "6.60",
+    "po_number": [
+      "4505194954"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "GRAINGER",
+    "vendor_address": "1721 6TH ST. SW, CANTON, OH 44706-1203",
+    "po_line_items": [
+      {
+        "description": "WIRE ROPE,500 FTL,1/16 IN DIA.,100 LB",
+        "quantity": 1.0,
+        "net_price": 101.58
+      }
+    ],
+    "vat_amount": null,
+    "gl_account": null,
+    "bank_name": null,
+    "account_holder_name": null,
+    "banking_account_number": null,
+    "remit_to_address": null,
+    "bill_to_address": null,
+    "transaction_type": "debit"
+  },
+  "filename": "SAPS4_5100289045_US28_PFNAUS_2026_999935130.pdf",
+  "raw_response": {
+    "invoice_number": "868566944",
+    "invoice_date": "02/12/2026",
+    "invoice_amount": "108.18",
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": "6.60",
+    "po_number": [
+      "4505194954"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "GRAINGER",
+    "vendor_address": "1721 6TH ST. SW, CANTON, OH 44706-1203",
+    "po_line_items": [
+      {
+        "description": "WIRE ROPE,500 FTL,1/16 IN DIA.,100 LB",
+        "quantity": 1.0,
+        "net_price": 101.58
+      }
+    ]
+  }
+}

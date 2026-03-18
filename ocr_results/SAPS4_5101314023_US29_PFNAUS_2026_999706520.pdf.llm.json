@@ -1,0 +1,59 @@
+{
+  "invoice_data": {
+    "invoice_number": "980279707726",
+    "invoice_date": "Tuesday 10 Feb 2026 2:52 AM GMT-07:00",
+    "invoice_amount": "968.29",
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": null,
+    "po_number": [
+      "M413549313"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "Grainger",
+    "vendor_address": "100 Grainger Pkwy, Lake Forest, IL, United States, 27105, United States",
+    "po_line_items": [
+      {
+        "description": "455C39 / Folding Step,375 Ib. Ld Cap.,Aluminum",
+        "quantity": 4.0,
+        "net_price": 221.07
+      }
+    ],
+    "vat_amount": null,
+    "gl_account": null,
+    "bank_name": null,
+    "account_holder_name": null,
+    "banking_account_number": null,
+    "remit_to_address": null,
+    "bill_to_address": null,
+    "transaction_type": "debit"
+  },
+  "filename": "SAPS4_5101314023_US29_PFNAUS_2026_999706520.pdf",
+  "raw_response": {
+    "invoice_number": "980279707726",
+    "invoice_date": "Tuesday 10 Feb 2026 2:52 AM GMT-07:00",
+    "invoice_amount": "968.29",
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": null,
+    "po_number": [
+      "M413549313"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "Grainger",
+    "vendor_address": "100 Grainger Pkwy, Lake Forest, IL, United States, 27105, United States",
+    "po_line_items": [
+      {
+        "description": "455C39 / Folding Step,375 Ib. Ld Cap.,Aluminum",
+        "quantity": 4.0,
+        "net_price": 221.07
+      }
+    ]
+  }
+}

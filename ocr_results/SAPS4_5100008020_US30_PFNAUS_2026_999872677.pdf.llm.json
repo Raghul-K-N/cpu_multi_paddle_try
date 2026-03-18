@@ -1,0 +1,129 @@
+{
+  "invoice_data": {
+    "invoice_number": "PTLN20661",
+    "invoice_date": "02/06/2026",
+    "invoice_amount": "420.00",
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": null,
+    "po_number": [
+      "M413096448"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "L Transportation Inc",
+    "vendor_address": "P.O. Box 515574, 701 LEGACY DR, LOS ANGELES CA 90051-4586, LANO , TX , 75024 , USA",
+    "po_line_items": [
+      {
+        "description": "Service Call to Frito Portland to Repair Reported Damaged",
+        "quantity": 1.0,
+        "net_price": 148.35
+      },
+      {
+        "description": "Gladhands & Mounting Plate & Update Upcoming DOT Inspections",
+        "quantity": 1.0,
+        "net_price": 77.4
+      },
+      {
+        "description": "Replace Gladhands",
+        "quantity": 0.6,
+        "net_price": 129.0
+      },
+      {
+        "description": "Repair/Replace Damaged Gladhand Mounting Plate",
+        "quantity": 0.5,
+        "net_price": 129.0
+      },
+      {
+        "description": "Mileage Charge",
+        "quantity": 1.0,
+        "net_price": 28.75
+      },
+      {
+        "description": "OREGON CAT Fee",
+        "quantity": 1.0,
+        "net_price": 0.62
+      },
+      {
+        "description": "Misc/shop Expenses",
+        "quantity": 1.0,
+        "net_price": 86.19
+      },
+      {
+        "description": "Miscellaneous Shop Supplies",
+        "quantity": 1.0,
+        "net_price": 14.19
+      }
+    ],
+    "vat_amount": null,
+    "gl_account": null,
+    "bank_name": null,
+    "account_holder_name": null,
+    "banking_account_number": null,
+    "remit_to_address": null,
+    "bill_to_address": null,
+    "transaction_type": "debit"
+  },
+  "filename": "SAPS4_5100008020_US30_PFNAUS_2026_999872677.pdf",
+  "raw_response": {
+    "invoice_number": "PTLN20661",
+    "invoice_date": "02/06/2026",
+    "invoice_amount": "420.00",
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": null,
+    "po_number": [
+      "M413096448"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "L Transportation Inc",
+    "vendor_address": "P.O. Box 515574, 701 LEGACY DR, LOS ANGELES CA 90051-4586, LANO , TX , 75024 , USA",
+    "po_line_items": [
+      {
+        "description": "Service Call to Frito Portland to Repair Reported Damaged",
+        "quantity": 1.0,
+        "net_price": 148.35
+      },
+      {
+        "description": "Gladhands & Mounting Plate & Update Upcoming DOT Inspections",
+        "quantity": 1.0,
+        "net_price": 77.4
+      },
+      {
+        "description": "Replace Gladhands",
+        "quantity": 0.6,
+        "net_price": 129.0
+      },
+      {
+        "description": "Repair/Replace Damaged Gladhand Mounting Plate",
+        "quantity": 0.5,
+        "net_price": 129.0
+      },
+      {
+        "description": "Mileage Charge",
+        "quantity": 1.0,
+        "net_price": 28.75
+      },
+      {
+        "description": "OREGON CAT Fee",
+        "quantity": 1.0,
+        "net_price": 0.62
+      },
+      {
+        "description": "Misc/shop Expenses",
+        "quantity": 1.0,
+        "net_price": 86.19
+      },
+      {
+        "description": "Miscellaneous Shop Supplies",
+        "quantity": 1.0,
+        "net_price": 14.19
+      }
+    ]
+  }
+}

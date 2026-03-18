@@ -1,0 +1,89 @@
+{
+  "invoice_data": {
+    "invoice_number": "93196235",
+    "invoice_date": "09/30/2024",
+    "invoice_amount": "312.85",
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": null,
+    "po_number": [
+      "4505053548"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": "58.85",
+    "cost_center": null,
+    "vendor_name": "HEAT AND CONTROL",
+    "vendor_address": "21121 CABOT BLVD, HAYWARD CA 94545-1132",
+    "po_line_items": [
+      {
+        "description": "DIAPHRAGM, 60",
+        "quantity": 2.0,
+        "net_price": 5.85
+      },
+      {
+        "description": "SHAFT, LINK",
+        "quantity": 2.0,
+        "net_price": 43.15
+      },
+      {
+        "description": "LINK, CUTTER",
+        "quantity": 2.0,
+        "net_price": 78.0
+      },
+      {
+        "description": "FREIGHT",
+        "quantity": 1.0,
+        "net_price": 58.85
+      }
+    ],
+    "vat_amount": null,
+    "gl_account": null,
+    "bank_name": null,
+    "account_holder_name": null,
+    "banking_account_number": null,
+    "remit_to_address": null,
+    "bill_to_address": null,
+    "transaction_type": "debit"
+  },
+  "filename": "SAPS4_5100270010_CA11_PFNACA_2026_304667657.pdf",
+  "raw_response": {
+    "invoice_number": "93196235",
+    "invoice_date": "09/30/2024",
+    "invoice_amount": "312.85",
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": null,
+    "po_number": [
+      "4505053548"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": "58.85",
+    "cost_center": null,
+    "vendor_name": "HEAT AND CONTROL",
+    "vendor_address": "21121 CABOT BLVD, HAYWARD CA 94545-1132",
+    "po_line_items": [
+      {
+        "description": "DIAPHRAGM, 60",
+        "quantity": 2.0,
+        "net_price": 5.85
+      },
+      {
+        "description": "SHAFT, LINK",
+        "quantity": 2.0,
+        "net_price": 43.15
+      },
+      {
+        "description": "LINK, CUTTER",
+        "quantity": 2.0,
+        "net_price": 78.0
+      },
+      {
+        "description": "FREIGHT",
+        "quantity": 1.0,
+        "net_price": 58.85
+      }
+    ]
+  }
+}

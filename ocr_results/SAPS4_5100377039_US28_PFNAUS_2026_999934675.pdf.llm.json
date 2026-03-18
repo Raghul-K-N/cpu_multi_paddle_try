@@ -1,0 +1,59 @@
+{
+  "invoice_data": {
+    "invoice_number": "42097154",
+    "invoice_date": "02/03/2026",
+    "invoice_amount": "191.36",
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": "0.00",
+    "po_number": [
+      "4505075045"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": "17.06",
+    "cost_center": null,
+    "vendor_name": "ifm efector inc.",
+    "vendor_address": "1100 Atwater Drive, Malvern, Pa. 19355, 800-441-8246 Fax 800-329-0436, www.ifm.com, E-mail cs.us@ifm.com, PO Box 8538-307, Philadelphia, PA 19171-0307, 420 Montgomery Street, San Francisco, CA 94104, Bank Phone # 1-800-922-4684, ABA/RTN # 121 000 248, Swift Code: WFBIUS6S, CHIPS: 0407",
+    "po_line_items": [
+      {
+        "description": "Inductive proximity sensor,15mm nonflush range, 30mm diameter metal housing, 2-wire AC/DC, N.O. output, 2 meter cable.",
+        "quantity": 1.0,
+        "net_price": 152.5
+      }
+    ],
+    "vat_amount": null,
+    "gl_account": null,
+    "bank_name": null,
+    "account_holder_name": null,
+    "banking_account_number": null,
+    "remit_to_address": null,
+    "bill_to_address": null,
+    "transaction_type": "debit"
+  },
+  "filename": "SAPS4_5100377039_US28_PFNAUS_2026_999934675.pdf",
+  "raw_response": {
+    "invoice_number": "42097154",
+    "invoice_date": "02/03/2026",
+    "invoice_amount": "191.36",
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": "0.00",
+    "po_number": [
+      "4505075045"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": "17.06",
+    "cost_center": null,
+    "vendor_name": "ifm efector inc.",
+    "vendor_address": "1100 Atwater Drive, Malvern, Pa. 19355, 800-441-8246 Fax 800-329-0436, www.ifm.com, E-mail cs.us@ifm.com, PO Box 8538-307, Philadelphia, PA 19171-0307, 420 Montgomery Street, San Francisco, CA 94104, Bank Phone # 1-800-922-4684, ABA/RTN # 121 000 248, Swift Code: WFBIUS6S, CHIPS: 0407",
+    "po_line_items": [
+      {
+        "description": "Inductive proximity sensor,15mm nonflush range, 30mm diameter metal housing, 2-wire AC/DC, N.O. output, 2 meter cable.",
+        "quantity": 1.0,
+        "net_price": 152.5
+      }
+    ]
+  }
+}

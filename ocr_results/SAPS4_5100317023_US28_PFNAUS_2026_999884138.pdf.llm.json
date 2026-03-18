@@ -1,0 +1,55 @@
+{
+  "invoice_data": {
+    "invoice_number": "GA29-00920329",
+    "invoice_date": "12/18/25",
+    "invoice_amount": null,
+    "invoice_currency": null,
+    "tax_amount": null,
+    "po_number": [
+      "4504558920"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "REMIT MOTION INDUSTRIES, INC.",
+    "vendor_address": "MOTION 2499 INDUSTRIAL PARK DR. MACON, GA 31216 PH 4787840500 FAX 4787881500",
+    "po_line_items": [
+      {
+        "description": "AS2201F-01-06SD SPEED CONTROL W/FITT PNEUMATIC VALVES",
+        "quantity": 10.0,
+        "net_price": 65.8
+      }
+    ],
+    "vat_amount": null,
+    "gl_account": null,
+    "bank_name": null,
+    "account_holder_name": null,
+    "banking_account_number": null,
+    "remit_to_address": null,
+    "bill_to_address": null,
+    "transaction_type": "debit"
+  },
+  "filename": "SAPS4_5100317023_US28_PFNAUS_2026_999884138.pdf",
+  "raw_response": {
+    "invoice_number": "GA29-00920329",
+    "invoice_date": "12/18/25",
+    "invoice_amount": null,
+    "invoice_currency": null,
+    "tax_amount": null,
+    "po_number": [
+      "4504558920"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "REMIT MOTION INDUSTRIES, INC.",
+    "vendor_address": "MOTION 2499 INDUSTRIAL PARK DR. MACON, GA 31216 PH 4787840500 FAX 4787881500",
+    "po_line_items": [
+      {
+        "description": "AS2201F-01-06SD SPEED CONTROL W/FITT PNEUMATIC VALVES",
+        "quantity": 10.0,
+        "net_price": 65.8
+      }
+    ]
+  }
+}

@@ -1,0 +1,59 @@
+{
+  "invoice_data": {
+    "invoice_number": "599784",
+    "invoice_date": "Wednesday 11 Feb 2026 12:00 PM GMT-05:00",
+    "invoice_amount": null,
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": null,
+    "po_number": [
+      "M413394871"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "RK ENVIRONMENTAL SERVICES LLC",
+    "vendor_address": "139 Fox Knoll Rd, 768 CARVER AVE, Powells Point, NC 27966, NJ 7675, US",
+    "po_line_items": [
+      {
+        "description": "Bait Stations 1025516808",
+        "quantity": 34.06,
+        "net_price": 1.0
+      }
+    ],
+    "vat_amount": null,
+    "gl_account": null,
+    "bank_name": null,
+    "account_holder_name": null,
+    "banking_account_number": null,
+    "remit_to_address": null,
+    "bill_to_address": null,
+    "transaction_type": "debit"
+  },
+  "filename": "SAPS4_5101461032_US29_PFNAUS_2026_999706565.pdf",
+  "raw_response": {
+    "invoice_number": "599784",
+    "invoice_date": "Wednesday 11 Feb 2026 12:00 PM GMT-05:00",
+    "invoice_amount": null,
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": null,
+    "po_number": [
+      "M413394871"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "RK ENVIRONMENTAL SERVICES LLC",
+    "vendor_address": "139 Fox Knoll Rd, 768 CARVER AVE, Powells Point, NC 27966, NJ 7675, US",
+    "po_line_items": [
+      {
+        "description": "Bait Stations 1025516808",
+        "quantity": 34.06,
+        "net_price": 1.0
+      }
+    ]
+  }
+}

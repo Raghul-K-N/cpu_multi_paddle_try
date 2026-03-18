@@ -1,0 +1,47 @@
+{
+  "invoice_data": {
+    "invoice_number": "M260200010",
+    "invoice_date": "Monday 9 Feb 2026 12:00 PM GMT-05:00",
+    "invoice_amount": "........79,309.32",
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": null,
+    "po_number": [
+      "M413556323"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "Concentric LLC",
+    "vendor_address": "1621 W Crosby Rd, Carrollton, TX 75006-6670, United States; Address ID: Branch 211; Address ID: US29",
+    "po_line_items": null,
+    "vat_amount": null,
+    "gl_account": null,
+    "bank_name": null,
+    "account_holder_name": null,
+    "banking_account_number": null,
+    "remit_to_address": null,
+    "bill_to_address": null,
+    "transaction_type": "debit"
+  },
+  "filename": "SAPS4_5100029034_US29_PFNAUS_2026_999872798.pdf",
+  "raw_response": {
+    "invoice_number": "M260200010",
+    "invoice_date": "Monday 9 Feb 2026 12:00 PM GMT-05:00",
+    "invoice_amount": "../../../../79,309.32",
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": null,
+    "po_number": [
+      "M413556323"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "Concentric LLC",
+    "vendor_address": "1621 W Crosby Rd, Carrollton, TX 75006-6670, United States; Address ID: Branch 211; Address ID: US29",
+    "po_line_items": null
+  }
+}

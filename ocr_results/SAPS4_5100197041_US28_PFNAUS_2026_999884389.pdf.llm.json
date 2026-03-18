@@ -1,0 +1,91 @@
+{
+  "invoice_data": {
+    "invoice_number": "123149-2",
+    "invoice_date": "02/11/26",
+    "invoice_amount": "2944.10",
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": null,
+    "po_number": [
+      "123149",
+      "4504923037"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": "262.10",
+    "cost_center": null,
+    "vendor_name": "CARTER DAY INTERNATIONAL, INC",
+    "vendor_address": "500 73™d AVENUE N.E., MINNEAPOLIS, MN 55432",
+    "po_line_items": [
+      {
+        "description": "Coupling Cylinder Assy MPS",
+        "quantity": 241.0,
+        "net_price": 241.0
+      },
+      {
+        "description": "V-Belt #B-62",
+        "quantity": 34.0,
+        "net_price": 34.0
+      },
+      {
+        "description": "Wiper Shaft Sub Assembly RH Modular",
+        "quantity": 2.0,
+        "net_price": 1083.0
+      },
+      {
+        "description": "Precision Sizer",
+        "quantity": 424402.0,
+        "net_price": null
+      }
+    ],
+    "vat_amount": null,
+    "gl_account": null,
+    "bank_name": null,
+    "account_holder_name": null,
+    "banking_account_number": null,
+    "remit_to_address": null,
+    "bill_to_address": null,
+    "transaction_type": "debit"
+  },
+  "filename": "SAPS4_5100197041_US28_PFNAUS_2026_999884389.pdf",
+  "raw_response": {
+    "invoice_number": "123149-2",
+    "invoice_date": "02/11/26",
+    "invoice_amount": "2944.10",
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": null,
+    "po_number": [
+      "123149",
+      "4504923037"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": "262.10",
+    "cost_center": null,
+    "vendor_name": "CARTER DAY INTERNATIONAL, INC",
+    "vendor_address": "500 73™d AVENUE N.E., MINNEAPOLIS, MN 55432",
+    "po_line_items": [
+      {
+        "description": "Coupling Cylinder Assy MPS",
+        "quantity": 241.0,
+        "net_price": 241.0
+      },
+      {
+        "description": "V-Belt #B-62",
+        "quantity": 34.0,
+        "net_price": 34.0
+      },
+      {
+        "description": "Wiper Shaft Sub Assembly RH Modular",
+        "quantity": 2.0,
+        "net_price": 1083.0
+      },
+      {
+        "description": "Precision Sizer",
+        "quantity": 424402.0,
+        "net_price": null
+      }
+    ]
+  }
+}

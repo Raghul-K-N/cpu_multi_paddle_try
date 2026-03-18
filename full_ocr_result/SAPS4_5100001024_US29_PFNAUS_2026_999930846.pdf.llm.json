@@ -1,0 +1,59 @@
+{
+  "invoice_data": {
+    "invoice_number": "6112293",
+    "invoice_date": "12 Feb 2026",
+    "invoice_amount": "28.87",
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": "2.24",
+    "po_number": [
+      "M413377579"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "SPRAGUE",
+    "vendor_address": "Bakersfield Branch, 3003 Petrol Rd, Bakersfield, CA 93308-9739, United States; Address ID: Bakersfield, United States, Address ID: US29",
+    "po_line_items": [
+      {
+        "description": "Not Available / Pest Control BPO",
+        "quantity": 1.0,
+        "net_price": 26.63
+      }
+    ],
+    "vat_amount": null,
+    "gl_account": null,
+    "bank_name": null,
+    "account_holder_name": null,
+    "banking_account_number": null,
+    "remit_to_address": null,
+    "bill_to_address": null,
+    "transaction_type": "debit"
+  },
+  "filename": "SAPS4_5100001024_US29_PFNAUS_2026_999930846.pdf",
+  "raw_response": {
+    "invoice_number": "6112293",
+    "invoice_date": "12 Feb 2026",
+    "invoice_amount": "28.87",
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": "2.24",
+    "po_number": [
+      "M413377579"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "SPRAGUE",
+    "vendor_address": "Bakersfield Branch, 3003 Petrol Rd, Bakersfield, CA 93308-9739, United States; Address ID: Bakersfield, United States, Address ID: US29",
+    "po_line_items": [
+      {
+        "description": "Not Available / Pest Control BPO",
+        "quantity": 1.0,
+        "net_price": 26.63
+      }
+    ]
+  }
+}

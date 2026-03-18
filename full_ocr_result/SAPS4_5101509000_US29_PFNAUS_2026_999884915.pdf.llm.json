@@ -1,0 +1,65 @@
+{
+  "invoice_data": {
+    "invoice_number": "INV-U514",
+    "invoice_date": "12/31/2025",
+    "invoice_amount": null,
+    "invoice_currency": null,
+    "tax_amount": null,
+    "po_number": [
+      "4504802243"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "Gatik AI, Inc.",
+    "vendor_address": "161 E. Evelyn Avenue, Mountain View CA 94041, United States",
+    "po_line_items": [
+      {
+        "description": "Cartage PHX for monthly billing",
+        "quantity": 35.0,
+        "net_price": 483816.55
+      },
+      {
+        "description": "Incremental Hourly Fee OT",
+        "quantity": 16.48,
+        "net_price": 37.87
+      }
+    ],
+    "vat_amount": null,
+    "gl_account": null,
+    "bank_name": null,
+    "account_holder_name": null,
+    "banking_account_number": null,
+    "remit_to_address": null,
+    "bill_to_address": null,
+    "transaction_type": "debit"
+  },
+  "filename": "SAPS4_5101509000_US29_PFNAUS_2026_999884915.pdf",
+  "raw_response": {
+    "invoice_number": "INV-U514",
+    "invoice_date": "12/31/2025",
+    "invoice_amount": null,
+    "invoice_currency": null,
+    "tax_amount": null,
+    "po_number": [
+      "4504802243"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "Gatik AI, Inc.",
+    "vendor_address": "161 E. Evelyn Avenue, Mountain View CA 94041, United States",
+    "po_line_items": [
+      {
+        "description": "Cartage PHX for monthly billing",
+        "quantity": 35.0,
+        "net_price": 483816.55
+      },
+      {
+        "description": "Incremental Hourly Fee OT",
+        "quantity": 16.48,
+        "net_price": 37.87
+      }
+    ]
+  }
+}

@@ -1,0 +1,69 @@
+{
+  "invoice_data": {
+    "invoice_number": "800605446",
+    "invoice_date": "02/12/2026",
+    "invoice_amount": null,
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": "0.71",
+    "po_number": [
+      "4505183307"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "GRAINGER",
+    "vendor_address": "3900 EASTON DR, BAKERSFIELD, CA 93309-1083",
+    "po_line_items": [
+      {
+        "description": "TENSION BAND,STEEL,2-3/8 IN DIA.",
+        "quantity": 4.0,
+        "net_price": 5.36
+      },
+      {
+        "description": "CARRIAGE BOLTS,STEEL,3/8 IN DIA.,PK10",
+        "quantity": 1.0,
+        "net_price": 3.29
+      }
+    ],
+    "vat_amount": null,
+    "gl_account": null,
+    "bank_name": null,
+    "account_holder_name": null,
+    "banking_account_number": null,
+    "remit_to_address": null,
+    "bill_to_address": null,
+    "transaction_type": "debit"
+  },
+  "filename": "SAPS4_5100333538_US28_PFNAUS_2026_999884185.pdf",
+  "raw_response": {
+    "invoice_number": "800605446",
+    "invoice_date": "02/12/2026",
+    "invoice_amount": "../../9.36",
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": "0.71",
+    "po_number": [
+      "4505183307"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "GRAINGER",
+    "vendor_address": "3900 EASTON DR, BAKERSFIELD, CA 93309-1083",
+    "po_line_items": [
+      {
+        "description": "TENSION BAND,STEEL,2-3/8 IN DIA.",
+        "quantity": 4.0,
+        "net_price": 5.36
+      },
+      {
+        "description": "CARRIAGE BOLTS,STEEL,3/8 IN DIA.,PK10",
+        "quantity": 1.0,
+        "net_price": 3.29
+      }
+    ]
+  }
+}

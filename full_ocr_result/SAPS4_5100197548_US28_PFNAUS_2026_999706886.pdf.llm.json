@@ -1,0 +1,83 @@
+{
+  "invoice_data": {
+    "invoice_number": "R16315 A",
+    "invoice_date": "01/15/2025",
+    "invoice_amount": "8111.00",
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": "469.90",
+    "po_number": [
+      "4501059236",
+      "4501492929",
+      "4501192416"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": "31.70",
+    "cost_center": null,
+    "vendor_name": "Rosemont Engineering, Inc.",
+    "vendor_address": "225 Stedman Street, Unit 34, Lowell, MA 01851, +19784539191, https:/www.rosemonteng.com/",
+    "po_line_items": [
+      {
+        "description": "Field Services on two Fire Pump Controllers to replace HMI displays.",
+        "quantity": 8.0,
+        "net_price": 1400.0
+      },
+      {
+        "description": "Mileage (to/from work location)",
+        "quantity": 1.5,
+        "net_price": 210.0
+      },
+      {
+        "description": "5.7\" HMI display for diesel fire pump controller.",
+        "quantity": 2.0,
+        "net_price": 6000.0
+      }
+    ],
+    "vat_amount": null,
+    "gl_account": null,
+    "bank_name": null,
+    "account_holder_name": null,
+    "banking_account_number": null,
+    "remit_to_address": null,
+    "bill_to_address": null,
+    "transaction_type": "debit"
+  },
+  "filename": "SAPS4_5100197548_US28_PFNAUS_2026_999706886.pdf",
+  "raw_response": {
+    "invoice_number": "R16315 A",
+    "invoice_date": "01/15/2025",
+    "invoice_amount": "8111.00",
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": "469.90",
+    "po_number": [
+      "4501059236",
+      "4501492929",
+      "4501192416"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": "31.70",
+    "cost_center": null,
+    "vendor_name": "Rosemont Engineering, Inc.",
+    "vendor_address": "225 Stedman Street, Unit 34, Lowell, MA 01851, +19784539191, https:/www.rosemonteng.com/",
+    "po_line_items": [
+      {
+        "description": "Field Services on two Fire Pump Controllers to replace HMI displays.",
+        "quantity": 8.0,
+        "net_price": 1400.0
+      },
+      {
+        "description": "Mileage (to/from work location)",
+        "quantity": 1.5,
+        "net_price": 210.0
+      },
+      {
+        "description": "5.7\" HMI display for diesel fire pump controller.",
+        "quantity": 2.0,
+        "net_price": 6000.0
+      }
+    ]
+  }
+}

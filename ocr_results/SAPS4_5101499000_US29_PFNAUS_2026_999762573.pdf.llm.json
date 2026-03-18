@@ -1,0 +1,47 @@
+{
+  "invoice_data": {
+    "invoice_number": "46929",
+    "invoice_date": "2/1/2026",
+    "invoice_amount": null,
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": null,
+    "po_number": [
+      "M413535996"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "ServiceMaster by McCann",
+    "vendor_address": "2150 Baty Road, Lima, OH 45807",
+    "po_line_items": null,
+    "vat_amount": null,
+    "gl_account": null,
+    "bank_name": null,
+    "account_holder_name": null,
+    "banking_account_number": null,
+    "remit_to_address": null,
+    "bill_to_address": null,
+    "transaction_type": "debit"
+  },
+  "filename": "SAPS4_5101499000_US29_PFNAUS_2026_999762573.pdf",
+  "raw_response": {
+    "invoice_number": "46929",
+    "invoice_date": "2/1/2026",
+    "invoice_amount": null,
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": null,
+    "po_number": [
+      "M413535996"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "ServiceMaster by McCann",
+    "vendor_address": "2150 Baty Road, Lima, OH 45807",
+    "po_line_items": null
+  }
+}

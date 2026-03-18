@@ -1,0 +1,292 @@
+==================================<Page 1 - START>================================
+Standard Invoice                                                                                                 GRAINGER
+Original tax invoice has been submitted electronically. This is a
+human readable representation (copy) of the original tax invoice.
+                                                                                                                    9800971088
+                                                                 Invoice Number
+                                                                 (Supplier Reference No.)
+                                                                                               Monday 9 Feb. 2026 7:00 a.m. GMT-05:00
+                                                                 Invoice Date
+                                                                 Amount Due                                        $506.66 CAD
+    Contact Information
+                                                                           Shipping Information
+    Supplier
+                                  Customer
+                                                                           Ship From                     Ship To
+     ACKLANDS-GRAINGER INC.
+                                  EDI ONLY PEPSI FOODS ULC                   AGI CALEDON DC               CA-PL-LAUZON-QC-FLC
+     PO BOX 2970                  (FLC)                                     21 Merchant Road                8450 BOUL GUILLAUME
+     WINNIPEG                    8450 BOUL GUILLAUME-                      Caledon                       COUTURE
+     MB                          COUTURE                                 ON                          LEVIS
+     R3C 4B5                      LÉVIS                                    L7C 3Y7                      QC
+     CA                          QC                                      Canada                       G6V 7L7
+                                  G6V 7L7                                                               Canada
+                                  Canada
+   Line Items                                              PO No. : M413543934                                       PO Date : 7 Feb. 2026
+   Line No.    PO Line No.          Type    Supplier Part No. /             Customer Part No.        Quantity            Unit Price         Subtotal
+                                       Description                                       (UOM)
+                                                                                       2 / (EA)           $23.88 CAD       $47.76 CAD
+   10        1                 Material  MSY700FBG / LIQUIDE
+                                       NETTOYANT FOG-BE-GONE
+                                       1GAL
+                                                                                                     Line Item Total : $47.76 CAD
+   Line No.    PO Line No.         Type   Supplier Part No. /             Customer Part No.        Quantity            Unit Price         Subtotal
+                                       Description                                       (UOM)
+                                       RON385 / NITECH GANTS EXAM                        20 / (BX)           $9.72 CAD     $194.40 CAD
+   20       2                 Material
+                                       L 100/BTE (BX)
+                                                                                                    Line Item Total : $194.40 CAD
+   Line No.    PO Line No.          Type   Supplier Part No. /             Customer Part No.        Quantity            Unit Price         Subtotal
+                                       Description                                        (UOM)
+    30       3                 Material  EBP23NJ46 / RONDELLE                              1 / (PK)            $2.25 CAD        $2.25 CAD
+                                       AUTOBLQ AI304 N Degrees 6,50/
+                                       PQ
+                                                                                                      Line Item Total : $2.25 CAD
+   Line No.    PO Line No.          Type   Supplier Part No. /             Customer Part No.        Quantity            Unit Price         Subtotal
+                                       Description                                        (UOM)
+                                       RON375 / GANT NITRILE BLEU                         20 / (BX)           $9.26 CAD      $185.20 CAD
+   40       4                 Material
+                                        NITECH50 PR/BT
+                                                                                                    Line Item Total : $185.20 CAD
+   Line No.    PO Line No.          Type    Supplier Part No. /             Customer Part No.        Quantity            Unit Price         Subtotal
+                                       Description                                        (UOM)
+   50       5                 Material  EBP23NJ52 / RONDELLE                              2 / (PK)            $4.22 CAD       $8.44 CAD
+                                       AUTOBLQ AI304 3/8.50/PQ
+                                                                                                      Line Item Total : $8.44 CAD
+   Line No.    PO Line No.          Type    Supplier Part No. /             Customer Part No.        Quantity            Unit Price         Subtotal
+                                       Description                                        (UOM)
+   60       6                 Material  EBP22YK31 / ECROU HEX D934                         1 / (PK)            $1.51 CAD       $1.51 CAD
+                                       18-8 M5-0.8.50/PQ
+                                                                                                      Line Item Total : $1.51 CAD
+   Line No.    PO Line No.          Type    Supplier Part No. /
+                                                                 Customer Part No.        Quantity            Unit Price         Subtotal
+                                       Description
+                                                                                       (UOM)
+   70       7                 Material  EBP22UK82 / ECROU HEX D934                        1 / (PK)            $1.11 CAD       $1.11 CAD
+                                       18-8 M4-0.7.50/PQ
+                                                                                                      Line Item Total : $1.11 CAD
+      Tax Summary
+      Category               Details                          Base Amount               Rate %          Amount
+      GST                  Tax Description : GOODS AND         $440.67 CAD                                $22.03 CAD
+                            SERVICES
+      PST
+                            Tax Description : State/Provincial        $440.67 CAD                9.975%          $43.96 CAD
+                           Tax
+                                                                              Amount Summary
+                                                                              Line item subtotal
+                                                                                                                     $440.67 CAD
+                                                                              Gross amount                             $506.66 CAD
+                                                                              Net amount                              $506.66 CAD
+                                                                              Total tax amount                            $65.99 CAD
+                                                                              Total withholding tax amount
+                                                                              Amount Due                              $506.66 CAD
+    Additional Information
+    invioceSourceDocument
+    PurchaseOrder
+   Billing Information                                                        Remittance Information
+   Bill To                                                                 Remit To
+                                                                         ACKLANDS-GRAINGER INC.
+   PEPSI FOODS ULC (FLC)
+                                                                         PO BOX 2970
+   2095 MATHESON BLVD E
+                                                                         WINNIPEG
+   MISSISSAUGA
+   ON                                                                   MB
+   L4W 0G2                                                               R3C 4B5
+   Canada                                                                Canada
+                                                                         Address ID: CA1_2751
+   Address ID:
+   CA1 ARIBA_PAYABLES
+==================================<Page 1 - END>================================
+==================================<Page 2 - START>================================
+  Appendix
+  Line No.
+             PO Line No. Type
+                                                        Supplier Part No. / Description
+  10
+             1         Material                         MSY700FBG / LIQUIDE NETTOYANT FOG-BE-GONE 1GAL
+  Additional Details:
+  Supplier Part ID : MSY700FBG
+  Line No.
+             PO Line No. Type                           Supplier Part No. / Description
+ 20
+             2         Material                         RON385 / NITECH GANTS EXAM L 100/BTE (BX)
+  Additional Details:
+  Supplier Part ID : RON385
+ Line No.    PO Line No. Type                           Supplier Part No. / Description
+ 30
+             3         Material                         EBP23NJ46 / RONDELLE AUTOBLQ AI304 N Degrees 6,50/PQ
+ Additional Details:
+ Supplier Part ID : EBP23NJ46
+ Line No.    PO Line No. Type
+                                                        Supplier Part No. / Description
+40        4         Material
+                                                        RON375 / GANT NITRILE BLEU NITECH50 PR/BT
+ Additional Details:
+ Supplier Part ID : RON375
+Line No.    PO Line No. Type
+                                                        Supplier Part No. / Description
+ 50        5         Material
+                                                       EBP23NJ52 / RONDELLE AUTOBLQ AI304 3/8,50/PQ
+Additional Details:
+ Supplier Part ID : EBP23NJ52
+Line No.    PO Line No. Type
+                                                       Supplier Part No. / Description
+60        6          Material
+                                                       EBP22YK31 / ECROU HEX D934 18-8 M5-0.8,50/PQ
+Additional Details:
+ Supplier Part ID : EBP22YK31
+Line No.    PO Line No. Type
+                                                       Supplier Part No. / Description
+70        7         Material
+                                                       EBP22UK82 / ECROU HEX D934 18-8 M4-0.7,50/PQ
+Additional Details:
+ Supplier Part ID : EBP22UK82
+PDF generated on Tuesday 10 Feb. 2026 6:24 a.m. GMT-08:00
+==================================<Page 2 - END>================================
+==================================<Page 3 - START>================================
+  Standard Invoice                                                                                                 GRAINGER
+  Original tax invoice has been submitted electronically. This is a
+  human readable representation (copy) of the original tax invoice.
+                                                                                                                      9800971088
+                                                                   Invoice Number
+                                                                   (Supplier Reference No.)
+                                                                                                 Monday 9 Feb. 2026 7:00 a.m. GMT-05:00
+                                                                   Invoice Date
+                                                                   Amount Due                                        $506.66 CAD
+      Contact Information
+                                                                            Shipping Information
+      Supplier
+                                   Customer
+                                                                            Ship From                     Ship To
+      ACKLANDS-GRAINGER INC.
+                                    EDI ONLY PEPSI FOODS ULC                   AGI CALEDON DC               CA-PL-LAUZON-QC-FLC
+      PO BOX 2970                  (FLC)                                     21 Merchant Road                8450 BOUL GUILLAUME
+      WINNIPEG                    8450 BOUL GUILLAUME-                      Caledon                       COUTURE
+      MB                          COUTURE                                 ON                          LEVIS
+       R3C 4B5                      LÉVIS                                    L7C 3Y7                      QC
+       CA                          QC                                      Canada                       G6V 7L7
+                                    G6V 7L7                                                               Canada
+                                    Canada
+     Line Items                                              PO No. : M413543934                                       PO Date : 7 Feb. 2026
+     Line No.    PO Line No.          Type    Supplier Part No. /             Customer Part No.        Quantity            Unit Price         Subtotal
+                                         Description                                       (UOM)
+                                                                                         2 / (EA)           $23.88 CAD       $47.76 CAD
+     10        1                 Material  MSY700FBG / LIQUIDE
+                                         NETTOYANT FOG-BE-GONE
+                                         1GAL
+                                                                                                       Line Item Total : $47.76 CAD
+     Line No.    PO Line No.         Type   Supplier Part No. /             Customer Part No.        Quantity            Unit Price         Subtotal
+                                         Description                                       (UOM)
+                                         RON385 / NITECH GANTS EXAM                        20 / (BX)           $9.72 CAD     $194.40 CAD
+     20       2                 Material
+                                         L 100/BTE (BX)
+                                                                                                      Line Item Total : $194.40 CAD
+     Line No.    PO Line No.          Type   Supplier Part No. /             Customer Part No.        Quantity            Unit Price         Subtotal
+                                         Description                                        (UOM)
+     30       3                 Material  EBP23NJ46 / RONDELLE                              1 / (PK)            $2.25 CAD        $2.25 CAD
+                                         AUTOBLQ AI304 N Degrees 6,50/
+                                         PQ
+                                                                                                       Line Item Total : $2.25 CAD
+     Line No.    PO Line No.          Type   Supplier Part No. /             Customer Part No.        Quantity            Unit Price         Subtotal
+                                         Description                                        (UOM)
+                                         RON375 / GANT NITRILE BLEU                         20 / (BX)           $9.26 CAD      $185.20 CAD
+     40       4                 Material
+                                         NITECH50 PR/BT
+                                                                                                      Line Item Total : $185.20 CAD
+     Line No.    PO Line No.          Type    Supplier Part No. /             Customer Part No.        Quantity            Unit Price         Subtotal
+                                         Description                                        (UOM)
+     50       5                 Material  EBP23NJ52 / RONDELLE                              2 / (PK)            $4.22 CAD       $8.44 CAD
+                                         AUTOBLQ AI304 3/8.50/PQ
+                                                                                                        Line Item Total : $8.44 CAD
+     Line No.    PO Line No.          Type    Supplier Part No. /             Customer Part No.        Quantity            Unit Price         Subtotal
+                                         Description                                        (UOM)
+     60       6                 Material  EBP22YK31 / ECROU HEX D934                         1 / (PK)            $1.51 CAD       $1.51 CAD
+                                         18-8 M5-0.8.50/PQ
+                                                                                                        Line Item Total : $1.51 CAD
+     Line No.    PO Line No.          Type    Supplier Part No. /
+                                                                   Customer Part No.        Quantity            Unit Price         Subtotal
+                                         Description
+                                                                                        (UOM)
+    70       7                 Material  EBP22UK82 / ECROU HEX D934                        1 / (PK)            $1.11 CAD       $1.11 CAD
+                                         18-8 M4-0.7.50/PQ
+                                                                                                        Line Item Total : $1.11 CAD
+        Tax Summary
+        Category               Details                          Base Amount               Rate %          Amount
+        GST                  Tax Description : GOODS AND         $440.67 CAD                                $22.03 CAD
+                              SERVICES
+        PST
+                              Tax Description : State/Provincial        $440.67 CAD                9.975%          $43.96 CAD
+                             Tax
+                                                                               Amount Summary
+                                                                                Line item subtotal
+                                                                                                                       $440.67 CAD
+                                                                                Gross amount                             $506.66 CAD
+                                                                                Net amount                              $506.66 CAD
+                                                                                Total tax amount                            $65.99 CAD
+                                                                                Total withholding tax amount
+                                                                               Amount Due                              $506.66 CAD
+      Additional Information
+      invioceSourceDocument
+     PurchaseOrder
+     Billing Information                                                        Remittance Information
+     Bill To                                                                 Remit To
+                                                                           ACKLANDS-GRAINGER INC.
+     PEPSI FOODS ULC (FLC)
+                                                                           PO BOX 2970
+     2095 MATHESON BLVD E
+                                                                           WINNIPEG
+     MISSISSAUGA
+     ON                                                                   MB
+     L4W 0G2                                                               R3C 4B5
+     Canada                                                                Canada
+                                                                           Address ID: CA1_2751
+     Address ID:
+     CA1 ARIBA_PAYABLES
+==================================<Page 3 - END>================================
+==================================<Page 4 - START>================================
+  Appendix
+  Line No.
+             PO Line No. Type
+                                                        Supplier Part No. / Description
+  10
+             1         Material                         MSY700FBG / LIQUIDE NETTOYANT FOG-BE-GONE 1GAL
+  Additional Details:
+  Supplier Part ID : MSY700FBG
+  Line No.
+             PO Line No. Type                           Supplier Part No. / Description
+ 20
+             2         Material                         RON385 / NITECH GANTS EXAM L 100/BTE (BX)
+  Additional Details:
+  Supplier Part ID : RON385
+ Line No.    PO Line No. Type                           Supplier Part No. / Description
+ 30
+             3         Material                         EBP23NJ46 / RONDELLE AUTOBLQ AI304 N Degrees 6,50/PQ
+ Additional Details:
+ Supplier Part ID : EBP23NJ46
+ Line No.    PO Line No. Type
+                                                        Supplier Part No. / Description
+40        4         Material
+                                                        RON375 / GANT NITRILE BLEU NITECH50 PR/BT
+ Additional Details:
+ Supplier Part ID : RON375
+Line No.    PO Line No. Type
+                                                        Supplier Part No. / Description
+ 50        5         Material
+                                                       EBP23NJ52 / RONDELLE AUTOBLQ AI304 3/8,50/PQ
+Additional Details:
+ Supplier Part ID : EBP23NJ52
+Line No.    PO Line No. Type
+                                                       Supplier Part No. / Description
+60        6          Material
+                                                       EBP22YK31 / ECROU HEX D934 18-8 M5-0.8,50/PQ
+Additional Details:
+ Supplier Part ID : EBP22YK31
+Line No.    PO Line No. Type
+                                                       Supplier Part No. / Description
+70        7         Material
+                                                       EBP22UK82 / ECROU HEX D934 18-8 M4-0.7,50/PQ
+Additional Details:
+ Supplier Part ID : EBP22UK82
+PDF generated on Tuesday 10 Feb. 2026 6:24 a.m. GMT-08:00
+==================================<Page 4 - END>================================

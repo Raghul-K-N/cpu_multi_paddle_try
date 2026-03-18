@@ -1,0 +1,69 @@
+{
+  "invoice_data": {
+    "invoice_number": "M00506600",
+    "invoice_date": "1/29/2026",
+    "invoice_amount": "1,344.64",
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": "87.97",
+    "po_number": [
+      "M413126042"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "MILESTONE EQUIPMENT COMPANY LLC",
+    "vendor_address": "PO Box 205589, Dallas, TX 75320-5589, United States",
+    "po_line_items": [
+      {
+        "description": "Road Service Call - Aberdeen, MD",
+        "quantity": null,
+        "net_price": null
+      },
+      {
+        "description": "Service call to unlock brakes 21561 Division St, Crest Hill, IL",
+        "quantity": null,
+        "net_price": null
+      }
+    ],
+    "vat_amount": null,
+    "gl_account": null,
+    "bank_name": null,
+    "account_holder_name": null,
+    "banking_account_number": null,
+    "remit_to_address": null,
+    "bill_to_address": null,
+    "transaction_type": "debit"
+  },
+  "filename": "SAPS4_5100083021_US30_PFNAUS_2026_999930760.pdf",
+  "raw_response": {
+    "invoice_number": "M00506600",
+    "invoice_date": "1/29/2026",
+    "invoice_amount": "1,344.64",
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": "87.97",
+    "po_number": [
+      "M413126042"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "MILESTONE EQUIPMENT COMPANY LLC",
+    "vendor_address": "PO Box 205589, Dallas, TX 75320-5589, United States",
+    "po_line_items": [
+      {
+        "description": "Road Service Call - Aberdeen, MD",
+        "quantity": null,
+        "net_price": null
+      },
+      {
+        "description": "Service call to unlock brakes 21561 Division St, Crest Hill, IL",
+        "quantity": null,
+        "net_price": null
+      }
+    ]
+  }
+}

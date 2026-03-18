@@ -1,0 +1,59 @@
+{
+  "invoice_data": {
+    "invoice_number": "887664091",
+    "invoice_date": "02/12/2026",
+    "invoice_amount": "-39.47",
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": "2.58",
+    "po_number": [
+      "M413501728"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "GRAINGER",
+    "vendor_address": "1901 NONCONNAH BLVD., MEMPHIS. TN 38132-2106",
+    "po_line_items": [
+      {
+        "description": "PAPER TOWEL ROLL,250,WHITE,27700,PK12",
+        "quantity": 1.0,
+        "net_price": 36.89
+      }
+    ],
+    "vat_amount": null,
+    "gl_account": null,
+    "bank_name": null,
+    "account_holder_name": null,
+    "banking_account_number": null,
+    "remit_to_address": null,
+    "bill_to_address": null,
+    "transaction_type": "credit"
+  },
+  "filename": "SAPS4_5100092040_US29_PFNAUS_2026_999936141.pdf",
+  "raw_response": {
+    "invoice_number": "887664091",
+    "invoice_date": "02/12/2026",
+    "invoice_amount": "-39.47",
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": "2.58",
+    "po_number": [
+      "M413501728"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "GRAINGER",
+    "vendor_address": "1901 NONCONNAH BLVD., MEMPHIS. TN 38132-2106",
+    "po_line_items": [
+      {
+        "description": "PAPER TOWEL ROLL,250,WHITE,27700,PK12",
+        "quantity": 1.0,
+        "net_price": 36.89
+      }
+    ]
+  }
+}

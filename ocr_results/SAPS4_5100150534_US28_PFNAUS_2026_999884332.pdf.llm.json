@@ -1,0 +1,89 @@
+{
+  "invoice_data": {
+    "invoice_number": "53786530",
+    "invoice_date": "02-11-26",
+    "invoice_amount": "350.00",
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": "0.00",
+    "po_number": [
+      "M413002698"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "Johnson Controls Fire Protection LP",
+    "vendor_address": "826 Southern Pine Blvd, CHARLOTTE,NC 28273-3418",
+    "po_line_items": [
+      {
+        "description": "Safety and Personal Protection Equipment Fee",
+        "quantity": 1.0,
+        "net_price": 0.0
+      },
+      {
+        "description": "EXT INSPECTION MONTHLY",
+        "quantity": 122.0,
+        "net_price": 0.0
+      },
+      {
+        "description": "SUPP MINIMUM SERVICE CHARGE",
+        "quantity": 1.0,
+        "net_price": 350.0
+      },
+      {
+        "description": "TRUCK CHARGE",
+        "quantity": 1.0,
+        "net_price": 0.0
+      }
+    ],
+    "vat_amount": null,
+    "gl_account": null,
+    "bank_name": null,
+    "account_holder_name": null,
+    "banking_account_number": null,
+    "remit_to_address": null,
+    "bill_to_address": null,
+    "transaction_type": "debit"
+  },
+  "filename": "SAPS4_5100150534_US28_PFNAUS_2026_999884332.pdf",
+  "raw_response": {
+    "invoice_number": "53786530",
+    "invoice_date": "02-11-26",
+    "invoice_amount": "350.00",
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": "0.00",
+    "po_number": [
+      "M413002698"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "Johnson Controls Fire Protection LP",
+    "vendor_address": "826 Southern Pine Blvd, CHARLOTTE,NC 28273-3418",
+    "po_line_items": [
+      {
+        "description": "Safety and Personal Protection Equipment Fee",
+        "quantity": 1.0,
+        "net_price": 0.0
+      },
+      {
+        "description": "EXT INSPECTION MONTHLY",
+        "quantity": 122.0,
+        "net_price": 0.0
+      },
+      {
+        "description": "SUPP MINIMUM SERVICE CHARGE",
+        "quantity": 1.0,
+        "net_price": 350.0
+      },
+      {
+        "description": "TRUCK CHARGE",
+        "quantity": 1.0,
+        "net_price": 0.0
+      }
+    ]
+  }
+}

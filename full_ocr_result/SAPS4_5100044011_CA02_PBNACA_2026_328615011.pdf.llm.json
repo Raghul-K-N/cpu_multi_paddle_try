@@ -1,0 +1,81 @@
+{
+  "invoice_data": {
+    "invoice_number": "17399",
+    "invoice_date": "1/30/2026",
+    "invoice_amount": null,
+    "invoice_currency": null,
+    "tax_amount": null,
+    "po_number": null,
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "JEM Building Services Inc.",
+    "vendor_address": "54114 Loudoun Road, Oak Bluff, MB R4G 0C4",
+    "po_line_items": [
+      {
+        "description": "Warehouse floor cleaning inside 570 Marjorie Street, additional to scope of work.",
+        "quantity": 8.0,
+        "net_price": 49.0
+      },
+      {
+        "description": "Warehouse floor cleaning inside 1850 Ellice Avenue, additional to scope of work.",
+        "quantity": 5.0,
+        "net_price": 49.0
+      },
+      {
+        "description": "Equipment - Autoscrubber required to clean floor throughout bottling plant.",
+        "quantity": 1.0,
+        "net_price": 149.0
+      },
+      {
+        "description": "Dispatch Vehicle for equipment delivery to and from service site As per Kevin Hill",
+        "quantity": 2.0,
+        "net_price": 75.0
+      }
+    ],
+    "vat_amount": null,
+    "gl_account": null,
+    "bank_name": null,
+    "account_holder_name": null,
+    "banking_account_number": null,
+    "remit_to_address": null,
+    "bill_to_address": null,
+    "transaction_type": "debit"
+  },
+  "filename": "SAPS4_5100044011_CA02_PBNACA_2026_328615011.pdf",
+  "raw_response": {
+    "invoice_number": "17399",
+    "invoice_date": "1/30/2026",
+    "invoice_amount": null,
+    "invoice_currency": null,
+    "tax_amount": null,
+    "po_number": null,
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "JEM Building Services Inc.",
+    "vendor_address": "54114 Loudoun Road, Oak Bluff, MB R4G 0C4",
+    "po_line_items": [
+      {
+        "description": "Warehouse floor cleaning inside 570 Marjorie Street, additional to scope of work.",
+        "quantity": 8.0,
+        "net_price": 49.0
+      },
+      {
+        "description": "Warehouse floor cleaning inside 1850 Ellice Avenue, additional to scope of work.",
+        "quantity": 5.0,
+        "net_price": 49.0
+      },
+      {
+        "description": "Equipment - Autoscrubber required to clean floor throughout bottling plant.",
+        "quantity": 1.0,
+        "net_price": 149.0
+      },
+      {
+        "description": "Dispatch Vehicle for equipment delivery to and from service site As per Kevin Hill",
+        "quantity": 2.0,
+        "net_price": 75.0
+      }
+    ]
+  }
+}

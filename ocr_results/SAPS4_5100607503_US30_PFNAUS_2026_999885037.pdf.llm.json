@@ -1,0 +1,89 @@
+{
+  "invoice_data": {
+    "invoice_number": "CM1426435P",
+    "invoice_date": "10/9/2025",
+    "invoice_amount": "-483.17",
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": "1.83",
+    "po_number": [
+      "23491628"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": "0.00",
+    "cost_center": null,
+    "vendor_name": "TEC Equipment - Portland (P732)(P)",
+    "vendor_address": "750 NE Columbia Blvd, Portland, OR 97211",
+    "po_line_items": [
+      {
+        "description": "BRACKET",
+        "quantity": 1.0,
+        "net_price": -30.69
+      },
+      {
+        "description": "BRACKET",
+        "quantity": 1.0,
+        "net_price": -30.54
+      },
+      {
+        "description": "BUMPER RAIL",
+        "quantity": 1.0,
+        "net_price": -228.19
+      },
+      {
+        "description": "PLATE",
+        "quantity": 1.0,
+        "net_price": -191.92
+      }
+    ],
+    "vat_amount": null,
+    "gl_account": null,
+    "bank_name": null,
+    "account_holder_name": null,
+    "banking_account_number": null,
+    "remit_to_address": null,
+    "bill_to_address": null,
+    "transaction_type": "credit"
+  },
+  "filename": "SAPS4_5100607503_US30_PFNAUS_2026_999885037.pdf",
+  "raw_response": {
+    "invoice_number": "CM1426435P",
+    "invoice_date": "10/9/2025",
+    "invoice_amount": "-483.17",
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": "1.83",
+    "po_number": [
+      "23491628"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": "0.00",
+    "cost_center": null,
+    "vendor_name": "TEC Equipment - Portland (P732)(P)",
+    "vendor_address": "750 NE Columbia Blvd, Portland, OR 97211",
+    "po_line_items": [
+      {
+        "description": "BRACKET",
+        "quantity": 1.0,
+        "net_price": -30.69
+      },
+      {
+        "description": "BRACKET",
+        "quantity": 1.0,
+        "net_price": -30.54
+      },
+      {
+        "description": "BUMPER RAIL",
+        "quantity": 1.0,
+        "net_price": -228.19
+      },
+      {
+        "description": "PLATE",
+        "quantity": 1.0,
+        "net_price": -191.92
+      }
+    ]
+  }
+}

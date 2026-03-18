@@ -1,0 +1,115 @@
+{
+  "invoice_data": {
+    "invoice_number": "BOI1-004717",
+    "invoice_date": "11/10/2025",
+    "invoice_amount": null,
+    "invoice_currency": null,
+    "tax_amount": null,
+    "po_number": [
+      "M413509285"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "Vestis First Aid & Safety Lockbox",
+    "vendor_address": "P.O. Box 734514, Dallas, TX 75373-4514",
+    "po_line_items": [
+      {
+        "description": "1x3 Plastic Strip LG",
+        "quantity": 1.0,
+        "net_price": 14.48
+      },
+      {
+        "description": "4\" Gauze Roll",
+        "quantity": 1.0,
+        "net_price": 9.35
+      },
+      {
+        "description": "Service Charge",
+        "quantity": 1.0,
+        "net_price": 25.0
+      },
+      {
+        "description": "Blood Clotting Spray",
+        "quantity": 1.0,
+        "net_price": 18.79
+      },
+      {
+        "description": "Antacid MD",
+        "quantity": 1.0,
+        "net_price": 33.6
+      },
+      {
+        "description": "Ibuprofen MD",
+        "quantity": 1.0,
+        "net_price": 33.6
+      },
+      {
+        "description": "Cherry Cough MD",
+        "quantity": 1.0,
+        "net_price": 29.26
+      }
+    ],
+    "vat_amount": null,
+    "gl_account": null,
+    "bank_name": null,
+    "account_holder_name": null,
+    "banking_account_number": null,
+    "remit_to_address": null,
+    "bill_to_address": null,
+    "transaction_type": "debit"
+  },
+  "filename": "SAPS4_5101212001_US29_PFNAUS_2026_999885247.pdf",
+  "raw_response": {
+    "invoice_number": "BOI1-004717",
+    "invoice_date": "11/10/2025",
+    "invoice_amount": null,
+    "invoice_currency": null,
+    "tax_amount": null,
+    "po_number": [
+      "M413509285"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "Vestis First Aid & Safety Lockbox",
+    "vendor_address": "P.O. Box 734514, Dallas, TX 75373-4514",
+    "po_line_items": [
+      {
+        "description": "1x3 Plastic Strip LG",
+        "quantity": 1.0,
+        "net_price": 14.48
+      },
+      {
+        "description": "4\" Gauze Roll",
+        "quantity": 1.0,
+        "net_price": 9.35
+      },
+      {
+        "description": "Service Charge",
+        "quantity": 1.0,
+        "net_price": 25.0
+      },
+      {
+        "description": "Blood Clotting Spray",
+        "quantity": 1.0,
+        "net_price": 18.79
+      },
+      {
+        "description": "Antacid MD",
+        "quantity": 1.0,
+        "net_price": 33.6
+      },
+      {
+        "description": "Ibuprofen MD",
+        "quantity": 1.0,
+        "net_price": 33.6
+      },
+      {
+        "description": "Cherry Cough MD",
+        "quantity": 1.0,
+        "net_price": 29.26
+      }
+    ]
+  }
+}

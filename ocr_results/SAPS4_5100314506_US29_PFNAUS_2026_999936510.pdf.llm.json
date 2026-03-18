@@ -1,0 +1,51 @@
+{
+  "invoice_data": {
+    "invoice_number": "2026 Mtg Sponsor",
+    "invoice_date": null,
+    "invoice_amount": null,
+    "invoice_currency": null,
+    "tax_amount": null,
+    "po_number": [
+      "4505116693"
+    ],
+    "gl_account_number": [
+      "645280"
+    ],
+    "freight_and_handling_charges": null,
+    "cost_center": [
+      "2358302423"
+    ],
+    "vendor_name": "Franchise World HQ, LLC",
+    "vendor_address": "1 Corporate Drive, Suite 1000, Shelton, CT 06484, WAY",
+    "po_line_items": null,
+    "vat_amount": null,
+    "gl_account": null,
+    "bank_name": null,
+    "account_holder_name": null,
+    "banking_account_number": null,
+    "remit_to_address": null,
+    "bill_to_address": null,
+    "transaction_type": "debit"
+  },
+  "filename": "SAPS4_5100314506_US29_PFNAUS_2026_999936510.pdf",
+  "raw_response": {
+    "invoice_number": "2026 Mtg Sponsor",
+    "invoice_date": null,
+    "invoice_amount": null,
+    "invoice_currency": null,
+    "tax_amount": null,
+    "po_number": [
+      "4505116693"
+    ],
+    "gl_account_number": [
+      "645280"
+    ],
+    "freight_and_handling_charges": null,
+    "cost_center": [
+      "2358302423"
+    ],
+    "vendor_name": "Franchise World HQ, LLC",
+    "vendor_address": "1 Corporate Drive, Suite 1000, Shelton, CT 06484, WAY",
+    "po_line_items": null
+  }
+}

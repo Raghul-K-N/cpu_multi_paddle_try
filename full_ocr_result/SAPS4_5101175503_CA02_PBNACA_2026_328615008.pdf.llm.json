@@ -1,0 +1,59 @@
+{
+  "invoice_data": {
+    "invoice_number": "902300809",
+    "invoice_date": "02/04/2026",
+    "invoice_amount": null,
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": null,
+    "po_number": [
+      "4504864330"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "H.B. Fuller Canada Inc.",
+    "vendor_address": "H.B. Fuller, 199 Bay Street, Suite 4000, Toronto ON M5L 1A9",
+    "po_line_items": [
+      {
+        "description": "Swift®therm LT PHC-7005 PHC7005 PE BX 17.24 KG 3506.91.5000 350691",
+        "quantity": 108.0,
+        "net_price": 7036.2
+      }
+    ],
+    "vat_amount": null,
+    "gl_account": null,
+    "bank_name": null,
+    "account_holder_name": null,
+    "banking_account_number": null,
+    "remit_to_address": null,
+    "bill_to_address": null,
+    "transaction_type": "debit"
+  },
+  "filename": "SAPS4_5101175503_CA02_PBNACA_2026_328615008.pdf",
+  "raw_response": {
+    "invoice_number": "902300809",
+    "invoice_date": "02/04/2026",
+    "invoice_amount": null,
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": null,
+    "po_number": [
+      "4504864330"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "H.B. Fuller Canada Inc.",
+    "vendor_address": "H.B. Fuller, 199 Bay Street, Suite 4000, Toronto ON M5L 1A9",
+    "po_line_items": [
+      {
+        "description": "Swift®therm LT PHC-7005 PHC7005 PE BX 17.24 KG 3506.91.5000 350691",
+        "quantity": 108.0,
+        "net_price": 7036.2
+      }
+    ]
+  }
+}

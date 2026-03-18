@@ -1,0 +1,572 @@
+==================================<Page 1 - START>================================
+ Standard Invoice
+                                                                                                                        staples[)
+ Original tax invoice has been submitted electronically. This is a
+ human readable representation (copy) of the original tax invoice.
+                                                                    Invoice Number                                           72390001
+                                                                    (Supplier Reference No.)
+                                                                    Invoice Date                     Monday 9 Feb. 2026 6:09 a.m. GMT-07:00
+                                                                    Amount Due                                         $2,639.01 CAD
+     Contact Information                                                          Shipping Information
+     Supplier
+                                    Customer                                   Ship From                      Ship To
+                                    PEPSICO FOODS CANADA O/                                                 FRITO-LAY CDA/PEPSICO
+      Supplier VAT/Tax ID                                                         Staples Canada ULC
+                                    A FRITO LAY CANADA                                                       BEVERAGE
+      126152586RT0001                                                          1616 EIFFEL
+                                                                                                            DAVID.BEGIN@PEPSICO.COM
+                                    5550 EXPLORER DR 8TH                       BOUCHERVILLE
+                                                                              QC                           8450 BOUL GUILLAUME
+                                    FLOOR
+                                    MISSISSAUGA                               J4B 8N3                        COUTURE -
+                                    ON                                        Canada                        LEVIS
+                                    L4W 0C3                                                                 QC
+                                    Canada                                                                  G6V 7L7
+                                                                                                            CA
+                                    Address ID:
+                                                                                                            Address ID: shipTo
+                                    CA1_ARIBA_PAYABLES
+   Line Items                                                 PO No. : M413546586                                        PO Date : 9 Feb. 2026
+                                                                                                                                Subtotal
+   Line No.    PO Line No.          Type    Supplier Part No. /              Customer Part No.         Quantity             Unit Price
+                                                                                           (UOM)
+                                          Description
+   1         1                  Material  BICCSM11BE / STYLO CLIC STIC                        5 / (BX)            $8.69 CAD       $43.45 CAD
+                                         RETRACT. BLEU
+                                                                                                          Line Item Total : $43.45 CAD
+                                                                                                                                Subtotal
+   Line No.    PO Line No.          Type    Supplier Part No. /              Customer Part No.         Quantity             Unit Price
+                                                                                           (UOM)
+                                          Description
+   2         2                  Material  BICCSM241BLK / CLIC STIC                            5 / (BX)           $21.99 CAD      $109.95 CAD
+                                          STYLO BILLE 24BX
+                                                                                                         Line Item Total : $109.95 CAD
+                                                                                           Quantity                              Subtotal
+   Line No.    PO Line No.          Type    Supplier Part No. /              Customer Part No.                            Unit Price
+                                          Description                                         (UOM)
+   3         3                  Material  STP32006 / PINCE-                                   3 / (BX)            $7.69 CAD       $23.07 CAD
+                                          NOTES,ARGENTEES,3Q4&quot;,
+                                         40
+                                                                                                          Line Item Total : $23.07 CAD
+   Line No.    PO Line No.                  Supplier Part No. /              Customer Part No.         Quantity            Unit Price          Subtotal
+                                 Type
+                                         Description                                         (UOM)
+   4         4                  Material  SWI35550 / AGRAFES 3/8 PR                            1 / (BX)            $8.73 CAD        $8.73 CAD
+                                          77701/77715
+                                                                                                           Line Item Total : $8.73 CAD
+   Line No.    PO Line No.          Type    Supplier Part No. /              Customer Part No.         Quantity             Unit Price          Subtotal
+                                          Description                                         (UOM)
+   5         5                  Material  BICVCG11JBK / STYLO                                4 / (BX)            $11.29 CAD       $45.16 CAD
+                                          RETRACTABLE MEDIUM NOIR
+                                                                                                          Line Item Total : $45.16 CAD
+   Line No.    PO Line No.          Type    Supplier Part No. /              Customer Part No.         Quantity             Unit Price          Subtotal
+                                         Description                                         (UOM)
+                                 Material  BICVCG11JBL / STYLO                                10 / (BX)           $11.29 CAD
+   6         6                                                                                                             $112.90 CAD
+                                          ATLANTIS.MOYEN BLEU
+                                                                                                         Line Item Total : $112.90 CAD
+   Line No.    PO Line No.          Type    Supplier Part No. /              Customer Part No.         Quantity             Unit Price          Subtotal
+                                         Description                                          (UOM)
+                                 Material  STP073070 /                                        5 / (PK)           $18.99 CAD
+   7         7                                                                                                              $94.95 CAD
+                                         PAPIER,30.20LB,8.5X11.CANARI
+                                                                                                          Line Item Total : $94.95 CAD
+   Line No.    PO Line No.          Type    Supplier Part No. /              Customer Part No.         Quantity             Unit Price          Subtotal
+                                         Description                                          (UOM)
+                                 Material
+   8         8                          EMEMD64GB253 / LECTEUR USB                        5 / (EA)            $11.99 CAD       $59.95 CAD
+                                         SLIDE 30 EMTEC 64G
+                                                                                                          Line Item Total : $59.95 CAD
+  Line No.    PO Line No.          Type    Supplier Part No. /              Customer Part No.         Quantity             Unit Price
+                                                                                                                                Subtotal
+                                         Description                                         (UOM)
+  11        10                 Material  AVE84201BX / MARQUEUR,                            2 / (BX)            $11.64 CAD       $23.28 CAD
+                                         MARQUE BEAUCOUP, RGU
+                                                                                                          Line Item Total : $23.28 CAD
+  Line No.    PO Line No.          Type    Supplier Part No. /              Customer Part No.         Quantity             Unit Price
+                                                                                                                                Subtotal
+                                         Description                                          (UOM)
+  12        11                  Material STP073060 / PAPIER.30                               5 / (PK)            $18.99 CAD       $94.95 CAD
+                                         20LB.8.5X11,BLEU
+                                                                                                          Line Item Total : $94.95 CAD
+  Line No.    PO Line No.                   Supplier Part No. /              Customer Part No.         Quantity
+                                 Type                                                                          Unit Price          Subtotal
+                                         Description                                          (UOM)
+  15        13                  Material  STP14336/                                         5 / (CT)            $63.24 CAD
+                                                                                                                             $316.20 CAD
+                                         PAPIER,SFI,20LB.8.5X11,BR92,BL
+                                                                                                          Line Item Total : $316.20 CAD
+ Line No.                                                            Customer Part No.
+            PO Line No.          Type    Supplier Part No. /                                    Quantity             Unit Price          Subtotal
+                                         Description
+                                                                                           (UOM)
+ 16        14                  Material  STP073010/
+                                                                                           5 / (PK)            $8.43 CAD       $42.15 CAD
+                                         PAPIER,20LB,8.5X11,VERT
+                                                                                                          Line Item Total : $42.15 CAD
+Line No.    PO Line No.          Type    Supplier Part No. /              Customer Part No.         Quantity             Unit Price
+                                                                                                                                 Subtotal
+                                         Description                                          (UOM)
+20
+            17                  Material STP073000 /                                        5 / (PK)            $8.43 CAD
+                                         PAPIER,20LB,8.5X11,ROSE                                                               $42.15 CAD
+                                                                                                          Line Item Total : $42.15 CAD
+Line No.    PO Line No.          Type    Supplier Part No. /              Customer Part No.         Quantity
+                                                                                                               Unit Price          Subtotal
+                                         Descrription                                          (UOM)
+21        18                  Material  BRTTN830 / BROTHER TN830                           4 / (EA)
+                                                                                                             $74.99 CAD      $299.96 CAD
+                                         TONER NOIR
+                                                                                                          Line Item Total : $299,96 CAD
+==================================<Page 1 - END>================================
+==================================<Page 2 - START>================================
+  Line No.    PO Line No.          Type    Supplier Part No. /              Customer Part No.                            Unit Price          Subtotal
+                                                                                           Quantity
+                                         Description
+                                                                                           (UOM)
+  22
+             19                 Material  STP06025 / INDEX,8                                                    $7.95 CAD       $31.80 CAD
+                                                                                           4 / (PK)
+                                         ONGLETS,INSCRIPTIBLES
+                                                                                                         Line Item Total : $31.80 CAD
+  Line No.    PO Line No.          Type    Supplier Part No. /
+                                                                    Customer Part No.         Quantity            Unit Price          Subtotal
+                                         Description
+                                                                                           (UOM)
+  23        20                 Material STP15126/
+                                                                                          6 / (EA)           $18.99 CAD      $113.94 CAD
+                                         RELIURE,3&quot;,NOIR
+                                                                                                        Line Item Total : $113.94 CAD
+  Line No.    PO Line No.          Type    Supplier Part No. /              Customer Part No.         Quantity
+                                        Description                                                            Unit Price          Subtotal
+                                                                                          (UOM)
+  24        21                 Material  HEWCE390A / CARTOUCHE
+                                                                                          3 / (EA)          $273.57 CAD      $820.71 CAD
+                                        HPCE390A.NOIR
+                                                                                                        Line Item Total : $820.71 CAD
+  Line No.    PO Line No.          Type    Supplier Part No. /              Customer Part No.
+                                                                                          Quantity            Unit Price          Subtotal
+                                        Description                                         (UOM)
+  25        22                 Material  NVB47020EA / EMZONE AIR                            1 / (EA)
+                                        DUSTER - 1 UNIT                                                     $11.99 CAD       $11.99 CAD
+                                                                                                        Line Item Total : $11.99 CAD
+      Tax Summary
+      Category               Details                           Base Amount                Rate %
+                                                                                                       Amount
+                            Tax Description :
+      QST                                                   $2,295.29 CAD               9.975%          $228.96 CAD
+                            1010882792TQ0001
+                            Tax Location : CA
+      GST                  Tax Description :                    $2,295.29 CAD
+                                                                                      5%             $114.76 CAD
+                            126152586RT0001
+                            Tax Location : CA
+                                                                                Amount Summary
+                                                                                Line item subtotal
+                                                                                                                      $2,295.29 CAD
+                                                                                Gross amount                            $2,639.01 CAD
+                                                                                Net amount                             $2,639.01 CAD
+                                                                                Total tax amount                           $343.72 CAD
+                                                                                Total withholding tax amount
+                                                                               Amount Due                             $2,639.01 CAD
+    Additional Information
+                                                                           Remittance Information
+                                                                           Remit To
+                                                                           Staples Canada ULC
+                                                                           c/o T04446C
+                                                                           PO Box 4446C, STN A
+                                                                           Toronto
+                                                                           ON
+                                                                           M5W 4A2
+                                                                           CA
+                                                                           Address ID: CA1 32220
+==================================<Page 2 - END>================================
+==================================<Page 3 - START>================================
+   Appendix
+   Line No.
+              PO Line No. Type
+                                                         Supplier Part No. / Description
+   1
+              1         Material
+                                                         BICCSM11BE / STYLO CLIC STIC RETRACT. BLEU
+   Additional Details:
+   Supplier Part ID : BICCSM11BE
+  Line No.
+              PO Line No. Type
+                                                         Supplier Part No. / Description
+   2
+              2
+                         Material                         BICCSM241BLK / CLIC STIC STYLO BILLE 24BX
+   Additional Details:
+   Supplier Part ID : BICCSM241BLK
+   Line No.
+              PO Line No. Type                           Supplier Part No. / Description
+   3
+              3         Material                         STP32006 / PINCE-NOTES,ARGENTEES,3Q4&quot;, 40
+   Additional Details:
+   Supplier Part ID : STP32006
+   Line No.
+              PO Line No. Type                           Supplier Part No. / Description
+   4
+              4          Material                         SWI35550 / AGRAFES 3/8 PR 77701/77715
+   Additional Details:
+   Supplier Part ID : SWI35550
+   Line No.    PO Line No. Type
+                                                         Supplier Part No. / Description
+   5         5          Material
+                                                         BICVCG11JBK / STYLO RETRACTABLE MEDIUM NOIR
+   Additional Details:
+   Supplier Part ID : BICVCG11JBK
+   Line No.    PO Line No. Type                           Supplier Part No. / Description
+   6         6         Material                         BICVCG11JBL / STYLO ATLANTIS,MOYEN BLEU
+   Additional Details:
+   Supplier Part ID : BICVCG11JBL
+   Line No.    PO Line No. Type
+                                                         Supplier Part No. / Description
+   7                    Material
+              7                                         STP073070 / PAPIER,30,20LB,8.5X11,CANARI
+   Additional Details:
+   Supplier Part ID : STP073070
+   Line No.    PO Line No. Type                           Supplier Part No. / Description
+   8
+              8         Material
+                                                        EMEMD64GB253 / LECTEUR USB SLIDE 30 EMTEC 64G
+   Additional Details:
+   Supplier Part ID : EMEMD64GB253
+   Line No.    PO Line No. Type
+                                                        Supplier Part No. / Description
+   11        10        Material
+                                                        AVE84201BX / MARQUEUR, MARQUE BEAUCOUP, RGU
+   Additional Details:
+   Supplier Part ID : AVE84201BX
+   Line No.    PO Line No. Type                           Supplier Part No. / Description
+   12        11        Material                         STP073060 / PAPIER,30, 20LB,8.5X11,BLEU
+    Additional Details:
+    Supplier Part ID : STP073060
+    Line No.    PO Line No. Type                           Supplier Part No. / Description
+    15        13        Material                         STP14336 / PAPIER,SFI,20LB,8.5X11,BR92,BL
+    Additional Details:
+    Supplier Part ID : STP14336
+    Line No.    PO Line No. Type                           Supplier Part No. / Description
+    16        14        Material                         STP073010 / PAPIER,20LB,8.5X11,VERT
+    Additional Details:
+    Supplier Part ID : STP073010
+    Line No.    PO Line No. Type
+                                                        Supplier Part No. / Description
+    20        17        Material
+                                                        STP073000 / PAPIER,20LB,8.5X11,ROSE
+    Additional Details:
+    Supplier Part ID : STP073000
+    Line No.    PO Line No. Type                           Supplier Part No. / Description
+                         Material
+    21        18                                       BRTTN830 / BROTHER TN830 TONER NOIR
+    Additional Details:
+    Supplier Part ID : BRTTN830
+    Line No.    PO Line No. Type                           Supplier Part No. / Description
+    22       19        Material                         STP06025 / INDEX,8 ONGLETS,INSCRIPTIBLES
+    Additional Details:
+    Supplier Part ID : STP06025
+    Line No.    PO Line No. Type                           Supplier Part No. / Description
+                                                       STP15126 / RELIURE,3&quot;,NOIR
+    23        20        Material
+    Additional Details:
+    Supplier Part ID : STP15126
+   Line No.    PO Line No. Type                           Supplier Part No. / Description
+   24                                                 HEWCE390A / CARTOUCHE HPCE390A,NOIR
+              21        Material
+    Additional Details:
+    Supplier Part ID : HEWCE390A
+   Line No.
+              PO Line No. Type                           Supplier Part No. / Description
+   25       22                                      NVB47020EA / EMZONE AIR DUSTER - 1 UNIT
+                        Material
+    Additional Details:
+    Supplier Part ID : NVB47020EA
+   PDF generated on Tuesday 10 Feb. 2026 3:11 a.m. GMT-08:00
+==================================<Page 3 - END>================================
+==================================<Page 4 - START>================================
+ Standard Invoice
+                                                                                                                        staples[)
+ Original tax invoice has been submitted electronically. This is a
+ human readable representation (copy) of the original tax invoice.
+                                                                    Invoice Number                                           72390001
+                                                                    (Supplier Reference No.)
+                                                                    Invoice Date                     Monday 9 Feb. 2026 6:09 a.m. GMT-07:00
+                                                                    Amount Due                                         $2,639.01 CAD
+     Contact Information                                                          Shipping Information
+     Supplier
+                                    Customer                                   Ship From                      Ship To
+                                    PEPSICO FOODS CANADA O/                                                 FRITO-LAY CDA/PEPSICO
+      Supplier VAT/Tax ID                                                         Staples Canada ULC
+                                    A FRITO LAY CANADA                                                       BEVERAGE
+      126152586RT0001                                                          1616 EIFFEL
+                                                                                                            DAVID.BEGIN@PEPSICO.COM
+                                    5550 EXPLORER DR 8TH                       BOUCHERVILLE
+                                                                              QC                           8450 BOUL GUILLAUME
+                                    FLOOR
+                                    MISSISSAUGA                               J4B 8N3                        COUTURE -
+                                    ON                                        Canada                        LEVIS
+                                    L4W 0C3                                                                 QC
+                                    Canada                                                                  G6V 7L7
+                                                                                                            CA
+                                    Address ID:
+                                                                                                            Address ID: shipTo
+                                    CA1_ARIBA_PAYABLES
+   Line Items                                                 PO No. : M413546586                                        PO Date : 9 Feb. 2026
+                                                                                                                                Subtotal
+   Line No.    PO Line No.          Type    Supplier Part No. /              Customer Part No.         Quantity             Unit Price
+                                                                                           (UOM)
+                                          Description
+   1         1                  Material  BICCSM11BE / STYLO CLIC STIC                        5 / (BX)            $8.69 CAD       $43.45 CAD
+                                         RETRACT. BLEU
+                                                                                                          Line Item Total : $43.45 CAD
+                                                                                                                                Subtotal
+   Line No.    PO Line No.          Type    Supplier Part No. /              Customer Part No.         Quantity             Unit Price
+                                                                                           (UOM)
+                                          Description
+   2         2                  Material  BICCSM241BLK / CLIC STIC                            5 / (BX)           $21.99 CAD      $109.95 CAD
+                                          STYLO BILLE 24BX
+                                                                                                         Line Item Total : $109.95 CAD
+                                                                                           Quantity                              Subtotal
+   Line No.    PO Line No.          Type    Supplier Part No. /              Customer Part No.                            Unit Price
+                                          Description                                         (UOM)
+   3         3                  Material  STP32006 / PINCE-                                   3 / (BX)            $7.69 CAD       $23.07 CAD
+                                          NOTES,ARGENTEES,3Q4&quot;,
+                                         40
+                                                                                                          Line Item Total : $23.07 CAD
+   Line No.    PO Line No.                  Supplier Part No. /              Customer Part No.         Quantity            Unit Price          Subtotal
+                                 Type
+                                         Description                                         (UOM)
+   4         4                  Material  SWI35550 / AGRAFES 3/8 PR                            1 / (BX)            $8.73 CAD        $8.73 CAD
+                                          77701/77715
+                                                                                                           Line Item Total : $8.73 CAD
+   Line No.    PO Line No.          Type    Supplier Part No. /              Customer Part No.         Quantity             Unit Price          Subtotal
+                                          Description                                         (UOM)
+   5         5                  Material  BICVCG11JBK / STYLO                                4 / (BX)            $11.29 CAD       $45.16 CAD
+                                          RETRACTABLE MEDIUM NOIR
+                                                                                                          Line Item Total : $45.16 CAD
+   Line No.    PO Line No.          Type    Supplier Part No. /              Customer Part No.         Quantity             Unit Price          Subtotal
+                                         Description                                         (UOM)
+                                 Material  BICVCG11JBL / STYLO                                10 / (BX)           $11.29 CAD
+   6         6                                                                                                             $112.90 CAD
+                                          ATLANTIS.MOYEN BLEU
+                                                                                                         Line Item Total : $112.90 CAD
+   Line No.    PO Line No.          Type    Supplier Part No. /              Customer Part No.         Quantity             Unit Price          Subtotal
+                                         Description                                          (UOM)
+                                 Material  STP073070 /                                        5 / (PK)           $18.99 CAD
+   7         7                                                                                                              $94.95 CAD
+                                         PAPIER,30.20LB,8.5X11.CANARI
+                                                                                                          Line Item Total : $94.95 CAD
+   Line No.    PO Line No.          Type    Supplier Part No. /              Customer Part No.         Quantity             Unit Price          Subtotal
+                                         Description                                          (UOM)
+                                 Material
+   8         8                          EMEMD64GB253 / LECTEUR USB                        5 / (EA)            $11.99 CAD       $59.95 CAD
+                                         SLIDE 30 EMTEC 64G
+                                                                                                          Line Item Total : $59.95 CAD
+  Line No.    PO Line No.          Type    Supplier Part No. /              Customer Part No.         Quantity             Unit Price
+                                                                                                                                Subtotal
+                                         Description                                         (UOM)
+  11        10                 Material  AVE84201BX / MARQUEUR,                            2 / (BX)            $11.64 CAD       $23.28 CAD
+                                         MARQUE BEAUCOUP, RGU
+                                                                                                          Line Item Total : $23.28 CAD
+  Line No.    PO Line No.          Type    Supplier Part No. /              Customer Part No.         Quantity             Unit Price
+                                                                                                                                Subtotal
+                                         Description                                          (UOM)
+  12        11                  Material STP073060 / PAPIER.30                               5 / (PK)            $18.99 CAD       $94.95 CAD
+                                         20LB.8.5X11,BLEU
+                                                                                                          Line Item Total : $94.95 CAD
+  Line No.    PO Line No.                   Supplier Part No. /              Customer Part No.         Quantity
+                                 Type                                                                          Unit Price          Subtotal
+                                         Description                                          (UOM)
+  15        13                  Material  STP14336/                                         5 / (CT)            $63.24 CAD
+                                                                                                                             $316.20 CAD
+                                         PAPIER,SFI,20LB.8.5X11,BR92,BL
+                                                                                                          Line Item Total : $316.20 CAD
+ Line No.                                                            Customer Part No.
+            PO Line No.          Type    Supplier Part No. /                                    Quantity             Unit Price          Subtotal
+                                         Description
+                                                                                           (UOM)
+ 16        14                  Material  STP073010/
+                                                                                           5 / (PK)            $8.43 CAD       $42.15 CAD
+                                         PAPIER,20LB,8.5X11,VERT
+                                                                                                          Line Item Total : $42.15 CAD
+Line No.    PO Line No.          Type    Supplier Part No. /              Customer Part No.         Quantity             Unit Price
+                                                                                                                                 Subtotal
+                                         Description                                          (UOM)
+20
+            17                  Material STP073000 /                                        5 / (PK)            $8.43 CAD
+                                         PAPIER,20LB,8.5X11,ROSE                                                               $42.15 CAD
+                                                                                                          Line Item Total : $42.15 CAD
+Line No.    PO Line No.          Type    Supplier Part No. /              Customer Part No.         Quantity
+                                                                                                               Unit Price          Subtotal
+                                         Descrription                                          (UOM)
+21        18                  Material  BRTTN830 / BROTHER TN830                           4 / (EA)
+                                                                                                             $74.99 CAD      $299.96 CAD
+                                         TONER NOIR
+                                                                                                          Line Item Total : $299,96 CAD
+==================================<Page 4 - END>================================
+==================================<Page 5 - START>================================
+  Line No.    PO Line No.          Type    Supplier Part No. /              Customer Part No.                            Unit Price          Subtotal
+                                                                                           Quantity
+                                         Description
+                                                                                           (UOM)
+  22
+             19                 Material  STP06025 / INDEX,8                                                    $7.95 CAD       $31.80 CAD
+                                                                                           4 / (PK)
+                                         ONGLETS,INSCRIPTIBLES
+                                                                                                         Line Item Total : $31.80 CAD
+  Line No.    PO Line No.          Type    Supplier Part No. /
+                                                                    Customer Part No.         Quantity            Unit Price          Subtotal
+                                         Description
+                                                                                           (UOM)
+  23        20                 Material STP15126/
+                                                                                          6 / (EA)           $18.99 CAD      $113.94 CAD
+                                         RELIURE,3&quot;,NOIR
+                                                                                                        Line Item Total : $113.94 CAD
+  Line No.    PO Line No.          Type    Supplier Part No. /              Customer Part No.         Quantity
+                                        Description                                                            Unit Price          Subtotal
+                                                                                          (UOM)
+  24        21                 Material  HEWCE390A / CARTOUCHE
+                                                                                          3 / (EA)          $273.57 CAD      $820.71 CAD
+                                        HPCE390A.NOIR
+                                                                                                        Line Item Total : $820.71 CAD
+  Line No.    PO Line No.          Type    Supplier Part No. /              Customer Part No.
+                                                                                          Quantity            Unit Price          Subtotal
+                                        Description                                         (UOM)
+  25        22                 Material  NVB47020EA / EMZONE AIR                            1 / (EA)
+                                        DUSTER - 1 UNIT                                                     $11.99 CAD       $11.99 CAD
+                                                                                                        Line Item Total : $11.99 CAD
+      Tax Summary
+      Category               Details                           Base Amount                Rate %
+                                                                                                       Amount
+                            Tax Description :
+      QST                                                   $2,295.29 CAD               9.975%          $228.96 CAD
+                            1010882792TQ0001
+                            Tax Location : CA
+      GST                  Tax Description :                    $2,295.29 CAD
+                                                                                      5%             $114.76 CAD
+                            126152586RT0001
+                            Tax Location : CA
+                                                                                Amount Summary
+                                                                                Line item subtotal
+                                                                                                                      $2,295.29 CAD
+                                                                                Gross amount                            $2,639.01 CAD
+                                                                                Net amount                             $2,639.01 CAD
+                                                                                Total tax amount                           $343.72 CAD
+                                                                                Total withholding tax amount
+                                                                               Amount Due                             $2,639.01 CAD
+    Additional Information
+                                                                           Remittance Information
+                                                                           Remit To
+                                                                           Staples Canada ULC
+                                                                           c/o T04446C
+                                                                           PO Box 4446C, STN A
+                                                                           Toronto
+                                                                           ON
+                                                                           M5W 4A2
+                                                                           CA
+                                                                           Address ID: CA1 32220
+==================================<Page 5 - END>================================
+==================================<Page 6 - START>================================
+   Appendix
+   Line No.
+              PO Line No. Type
+                                                         Supplier Part No. / Description
+   1
+              1         Material
+                                                         BICCSM11BE / STYLO CLIC STIC RETRACT. BLEU
+   Additional Details:
+   Supplier Part ID : BICCSM11BE
+  Line No.
+              PO Line No. Type
+                                                         Supplier Part No. / Description
+   2
+              2
+                         Material                         BICCSM241BLK / CLIC STIC STYLO BILLE 24BX
+   Additional Details:
+   Supplier Part ID : BICCSM241BLK
+   Line No.
+              PO Line No. Type                           Supplier Part No. / Description
+   3
+              3         Material                         STP32006 / PINCE-NOTES,ARGENTEES,3Q4&quot;, 40
+   Additional Details:
+   Supplier Part ID : STP32006
+   Line No.
+              PO Line No. Type                           Supplier Part No. / Description
+   4
+              4          Material                         SWI35550 / AGRAFES 3/8 PR 77701/77715
+   Additional Details:
+   Supplier Part ID : SWI35550
+   Line No.    PO Line No. Type
+                                                         Supplier Part No. / Description
+   5         5          Material
+                                                         BICVCG11JBK / STYLO RETRACTABLE MEDIUM NOIR
+   Additional Details:
+   Supplier Part ID : BICVCG11JBK
+   Line No.    PO Line No. Type                           Supplier Part No. / Description
+   6         6         Material                         BICVCG11JBL / STYLO ATLANTIS,MOYEN BLEU
+   Additional Details:
+   Supplier Part ID : BICVCG11JBL
+   Line No.    PO Line No. Type
+                                                         Supplier Part No. / Description
+   7                    Material
+              7                                         STP073070 / PAPIER,30,20LB,8.5X11,CANARI
+   Additional Details:
+   Supplier Part ID : STP073070
+   Line No.    PO Line No. Type                           Supplier Part No. / Description
+   8
+              8         Material
+                                                        EMEMD64GB253 / LECTEUR USB SLIDE 30 EMTEC 64G
+   Additional Details:
+   Supplier Part ID : EMEMD64GB253
+   Line No.    PO Line No. Type
+                                                        Supplier Part No. / Description
+   11        10        Material
+                                                        AVE84201BX / MARQUEUR, MARQUE BEAUCOUP, RGU
+   Additional Details:
+   Supplier Part ID : AVE84201BX
+   Line No.    PO Line No. Type                           Supplier Part No. / Description
+   12        11        Material                         STP073060 / PAPIER,30, 20LB,8.5X11,BLEU
+    Additional Details:
+    Supplier Part ID : STP073060
+    Line No.    PO Line No. Type                           Supplier Part No. / Description
+    15        13        Material                         STP14336 / PAPIER,SFI,20LB,8.5X11,BR92,BL
+    Additional Details:
+    Supplier Part ID : STP14336
+    Line No.    PO Line No. Type                           Supplier Part No. / Description
+    16        14        Material                         STP073010 / PAPIER,20LB,8.5X11,VERT
+    Additional Details:
+    Supplier Part ID : STP073010
+    Line No.    PO Line No. Type
+                                                        Supplier Part No. / Description
+    20        17        Material
+                                                        STP073000 / PAPIER,20LB,8.5X11,ROSE
+    Additional Details:
+    Supplier Part ID : STP073000
+    Line No.    PO Line No. Type                           Supplier Part No. / Description
+                         Material
+    21        18                                       BRTTN830 / BROTHER TN830 TONER NOIR
+    Additional Details:
+    Supplier Part ID : BRTTN830
+    Line No.    PO Line No. Type                           Supplier Part No. / Description
+    22       19        Material                         STP06025 / INDEX,8 ONGLETS,INSCRIPTIBLES
+    Additional Details:
+    Supplier Part ID : STP06025
+    Line No.    PO Line No. Type                           Supplier Part No. / Description
+                                                       STP15126 / RELIURE,3&quot;,NOIR
+    23        20        Material
+    Additional Details:
+    Supplier Part ID : STP15126
+   Line No.    PO Line No. Type                           Supplier Part No. / Description
+   24                                                 HEWCE390A / CARTOUCHE HPCE390A,NOIR
+              21        Material
+    Additional Details:
+    Supplier Part ID : HEWCE390A
+   Line No.
+              PO Line No. Type                           Supplier Part No. / Description
+   25       22                                      NVB47020EA / EMZONE AIR DUSTER - 1 UNIT
+                        Material
+    Additional Details:
+    Supplier Part ID : NVB47020EA
+   PDF generated on Tuesday 10 Feb. 2026 3:11 a.m. GMT-08:00
+==================================<Page 6 - END>================================

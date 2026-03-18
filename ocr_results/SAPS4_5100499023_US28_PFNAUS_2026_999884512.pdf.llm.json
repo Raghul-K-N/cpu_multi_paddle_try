@@ -1,0 +1,59 @@
+{
+  "invoice_data": {
+    "invoice_number": "M0001202",
+    "invoice_date": "12/30/2025",
+    "invoice_amount": "514.44",
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": null,
+    "po_number": [
+      "4504560003"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "Professional Packaging Systems",
+    "vendor_address": "PO Box 530491, Grand Prairie, TX 75053-0491",
+    "po_line_items": [
+      {
+        "description": "WE RECEIVED PRODUCT IN BROWN CASE INSTEAD OF KO WE HAVE TO REWORK WITH A COST OF MATERIALS AND LABOR OF 4.5 HRS X $32.00 AND $370.44 PER MATERIALS TOTAL OF $ 514.44",
+        "quantity": 1.0,
+        "net_price": 514.44
+      }
+    ],
+    "vat_amount": null,
+    "gl_account": null,
+    "bank_name": null,
+    "account_holder_name": null,
+    "banking_account_number": null,
+    "remit_to_address": null,
+    "bill_to_address": null,
+    "transaction_type": "debit"
+  },
+  "filename": "SAPS4_5100499023_US28_PFNAUS_2026_999884512.pdf",
+  "raw_response": {
+    "invoice_number": "M0001202",
+    "invoice_date": "12/30/2025",
+    "invoice_amount": "514.44",
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": null,
+    "po_number": [
+      "4504560003"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "Professional Packaging Systems",
+    "vendor_address": "PO Box 530491, Grand Prairie, TX 75053-0491",
+    "po_line_items": [
+      {
+        "description": "WE RECEIVED PRODUCT IN BROWN CASE INSTEAD OF KO WE HAVE TO REWORK WITH A COST OF MATERIALS AND LABOR OF 4.5 HRS X $32.00 AND $370.44 PER MATERIALS TOTAL OF $ 514.44",
+        "quantity": 1.0,
+        "net_price": 514.44
+      }
+    ]
+  }
+}

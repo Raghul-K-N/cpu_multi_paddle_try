@@ -1,0 +1,69 @@
+{
+  "invoice_data": {
+    "invoice_number": "1013686",
+    "invoice_date": "2026-02-05",
+    "invoice_amount": "8118.94",
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": "583.96",
+    "po_number": [
+      "M413221269"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "ID Technology, LLC",
+    "vendor_address": "P.O. Box 73419, Cleveland, 0H 44193 USA",
+    "po_line_items": [
+      {
+        "description": "Item: NASPA-B-22",
+        "quantity": 0.0071,
+        "net_price": 5903.64
+      },
+      {
+        "description": "Item: NASPA-B-23",
+        "quantity": 0.0071,
+        "net_price": 1631.34
+      }
+    ],
+    "vat_amount": null,
+    "gl_account": null,
+    "bank_name": null,
+    "account_holder_name": null,
+    "banking_account_number": null,
+    "remit_to_address": null,
+    "bill_to_address": null,
+    "transaction_type": "debit"
+  },
+  "filename": "SAPS4_5101654522_US28_PFNAUS_2026_999884740.pdf",
+  "raw_response": {
+    "invoice_number": "1013686",
+    "invoice_date": "2026-02-05",
+    "invoice_amount": "8118.94",
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": "583.96",
+    "po_number": [
+      "M413221269"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "ID Technology, LLC",
+    "vendor_address": "P.O. Box 73419, Cleveland, 0H 44193 USA",
+    "po_line_items": [
+      {
+        "description": "Item: NASPA-B-22",
+        "quantity": 0.0071,
+        "net_price": 5903.64
+      },
+      {
+        "description": "Item: NASPA-B-23",
+        "quantity": 0.0071,
+        "net_price": 1631.34
+      }
+    ]
+  }
+}

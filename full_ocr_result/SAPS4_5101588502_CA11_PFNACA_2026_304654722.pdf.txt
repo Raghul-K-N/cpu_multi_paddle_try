@@ -1,0 +1,434 @@
+==================================<Page 1 - START>================================
+Standard Invoice
+                                                                                                                     GRAINGER
+Original tax invoice has been submitted electronically. This is a
+human readable representation (copy) of the original tax invoice.
+                                                                  Invoice Number                                       9800827496
+                                                                  (Supplier Reference No.)
+                                                                  Invoice Date                    Monday 9 Feb. 2026 7:00 a.m. GMT-05:00
+                                                                                                                   $1,150.49 CAD
+                                                                  Amount Due
+    Contact Information
+                                                                            Shipping Information
+    Supplier
+                                  Customer
+                                                                            Ship From                     Ship To
+     ACKLANDS-GRAINGER INC.
+                                  EDI ONLY PEPSI FOODS ULC                   AGI CALEDON DC               CA-PL-LAUZON-QC-FLC
+     PO BOX 2970                   (FLC)                                     21 Merchant Road                8450 BOUL GUILLAUME
+     WINNIPEG                     8450 BOUL GUILLAUME-                       Caledon                       COUTURE
+                                                                                                         LEVIS
+     MB                          COUTURE                                 ON
+                                                                                                         QC
+     R3C 4B5                      LÉVIS                                    L7C 3Y7
+                                                                                                         G6V 7L7
+     CA                          QC                                      Canada
+                                                                                                         Canada
+                                  G6V 7L7
+                                  Canada
+                                                                                                                 PO Date : 7 Feb. 2026
+   Line Items                                               PO No. : M413543909
+                                                                                        Quantity            Unit Price         Subtotal
+   Line No.    PO Line No.          Type    Supplier Part No. /              Customer Part No.
+                                        Description                                        (UOM)
+                                                                                                                        $24.00 CAD
+   10                           Material EVREN91 / PILES ALC IND                             12 / (PK)           $2.00 CAD
+              1
+                                        ENERGIZER AA 4/PQ
+                                                                                                      Line Item Total : $24.00 CAD
+                                        Supplier Part No. /             Customer Part No.        Quantity            Unit Price         Subtotal
+   Line No.    PO Line No.          Type
+                                        Description                                        (UOM)
+   20        2                  Material EBP31JT12 / VIS MEC A4                              1 / (PK)            $4.45 CAD       $4.45 CAD
+                                        CYLNDR PH M4-0-7X12,50/PQ
+                                                                                                        Line Item Total : $4.45 CAD
+                                        Supplier Part No. /             Customer Part No.        Quantity            Unit Price         Subtotal
+   Line No.    PO Line No.          Type
+                                        Description                                        (UOM)
+   30        3                 Material  RON395 / NITECH GANTS EXAM                        20 / (BX)           $9.26 CAD     $185.20 CAD
+                                        XL 100/BTE (BX)
+                                                                                                      Line Item Total : $185.20 CAD
+                                                                                         Quantity            Unit Price         Subtotal
+   Line No.    PO Line No.          Type    Supplier Part No. /              Customer Part No.
+                                        Description                                        (UOM)
+   40       4                 Material  EBP25DK31 / RNDLL PLATE AC                         1 / (PK)            $3.55 CAD       $3.55 CAD
+                                        INX304 0.344X0.688.50/PQ
+                                                                                                        Line Item Total : $3.55 CAD
+                                                                                                            Unit Price         Subtotal
+   Line No.    PO Line No.          Type    Supplier Part No. /              Customer Part No.         Quantity
+                                        Description                                         (UOM)
+   50        5                  Material  EBP22TN74 / BOULON HEX D933                        1 / (PK)           $13.24 CAD      $13.24 CAD
+                                        AL A2 M8-1.25X30.50/PO
+                                                                                                       Line Item Total : $13.24 CAD
+                                        Supplier Part No. /                                    Quantity            Unit Price         Subtotal
+   Line No.    PO Line No.          Type                               Customer Part No.
+                                        Description
+                                                                                         (UOM)
+   60        6                  Material HDLLT30 / BOUCHONS                                10 / (BX)          $54.83 CAD     $548.30 CAD
+                                        D'OREILLE DETECTABLES 100/
+                                        BT
+                                                                                                       Line Item Total : $548.30 CAD
+                                        Supplier Part No. /              Customer Part No.         Quantity             Unit Price         Subtotal
+   Line No.    PO Line No.          Type
+                                        Description                                         (UOM)
+   70        7                  Material  RON375 / GANT NITRILE BLEU                          20 / (BX)           $9.26 CAD      $185.20 CAD
+                                        NITECH50 PR/BT
+                                                                                                       Line Item Total : $185.20 CAD
+             PO Line No.          Type    Supplier Part No. /              Customer Part No.         Quantity            Unit Price         Subtotal
+   Line No.
+                                        Description                                         (UOM)
+  80       8                  Material  EBP23NJ52 / RONDELLE                              1 / (PK)            $4.22 CAD       $4.22 CAD
+                                        AUTOBLQ AI304 3/8,50/PQ
+                                                                                                         Line Item Total : $4.22 CAD
+                                                                                                             Unit Price
+  Line No.    PO Line No.          Type    Supplier Part No. /              Customer Part No.         Quantity                             Subtotal
+                                        Description
+                                                                                         (UOM)
+                                Material  EBP3AUW4 / BOULON HEX AI304                        1 / (PK)           $10.35 CAD      $10.35 CAD
+  90        9
+                                        UNC 3/8-16X1-.50/PQ
+                                                                                                        Line Item Total : $10.35 CAD
+  Line No.    PO Line No.          Type    Supplier Part No. /              Customer Part No.         Quantity            Unit Price         Subtotal
+                                        Description                                         (UOM)
+                                                                                                            $5.85 CAD       $5.85 CAD
+  100      10                 Material  EBP22RV97 / ECROU BLC NY                           1 / (PK)
+                                        RGL AI304 UNC 5/16-18,50/PQ
+                                                                                                         Line Item Total : $5.85 CAD
+  Line No.    PO Line No.          Type    Supplier Part No. /              Customer Part No.         Quantity             Unit Price         Subtotal
+                                        Description                                         (UOM)
+  110       11                 MaterialEBP3AVD1 / BOULON HEX AI304                         1 / (PK)           $12.64 CAD      $12.64 CAD
+                                        UNC 3/8-16X2-.25/PQ
+                                                                                                        Line Item Total : $12.64 CAD
+  Line No.    PO Line No.                  Supplier Part No. /              Customer Part No.         Quantity             Unit Price         Subtotal
+                                Type
+                                        Description                                         (UOM)
+ 120       12                 Material  EBP22RV96 / ECROU BLC NY                           1 / (PK)            $3.65 CAD       $3.65 CAD
+                                        RGL AI304 UNC 1/4-20,50/PQ
+                                                                                                         Line Item Total : $3.65 CAD
+     Tax Summary
+                                                             Base Amount                Rate %          Amount
+     Category                Details
+                                                                                                       $50.03 CAD
+     GST                   Tax Description : GOODS AND          $1,000.65 CAD              5%
+                             SERVICES
+                                                             $1,000.65 CAD              9.975%          $99.81 CAD
+     PST                   Tax Description : State/Provincial
+                            Tax
+                                                                                 Amount Summary
+                                                                                 Line item subtotal                         $1,000.65 CAD
+                                                                                 Gross amount                           $1,150.49 CAD
+==================================<Page 1 - END>================================
+==================================<Page 2 - START>================================
+                                                                             Amount Summary
+                                                                             Net amount                            $1,150.49 CAD
+                                                                             Total tax amount                          $149.84 CAD
+                                                                             Total withholding tax amount
+                                                                            Amount Due                            $1,150.49 CAD
+  Additional Information
+  invioceSourceDocument
+ PurchaseOrder
+ Billing Information                                                         Remittance Information
+ Bill To
+                                                                        Remit To
+ PEPSI FOODS ULC (FLC)
+                                                                        ACKLANDS-GRAINGER INC.
+ 2095 MATHESON BLVD E                                                  PO BOX 2970
+ MISSISSAUGA                                                           WINNIPEG
+ ON
+                                                                        MB
+ L4W 0G2                                                               R3C 4B5
+ Canada                                                                Canada
+ Address ID:
+                                                                        Address ID: CA1_2751
+ CA1_ARIBA_PAYABLES
+==================================<Page 2 - END>================================
+==================================<Page 3 - START>================================
+ Line No.
+             PO Line No. Type                            Supplier Part No. / Description
+ 10         1
+                        Material                          EVREN91 / PILES ALC IND ENERGIZER AA 4/PQ
+ Additional Details:
+ Supplier Part ID : EVREN91
+ Line No.
+             PO Line No. Type
+                                                         Supplier Part No. / Description
+ 20
+             2         Material
+                                                         EBP31JT12 / VIS MEC A4 CYLNDR PH M4-0-7X12,50/PQ
+ Additional Details:
+ Supplier Part ID : EBP31JT12
+Line No.
+             PO Line No. Type                            Supplier Part No. / Description
+30        3
+                        Material                         RON395 / NITECH GANTS EXAM XL 100/BTE (BX)
+ Additional Details:
+ Supplier Part ID : RON395
+Line No.    PO Line No. Type
+                                                         Supplier Part No. / Description
+40        4          Material
+                                                        EBP25DK31 / RNDLL PLATE AC INX304 0.344X0.688,50/PQ
+ Additional Details:
+ Supplier Part ID : EBP25DK31
+ Line No.
+             PO Line No. Type                            Supplier Part No. / Description
+ 50
+             5          Material                          EBP22TN74 / BOULON HEX D933 AI A2 M8-1.25X30,50/PQ
+ Additional Details:
+ Supplier Part ID : EBP22TN74
+Line No.    PO Line No. Type                            Supplier Part No. / Description
+60        6          Material
+                                                         HDLLT30 / BOUCHONS D'OREILLE DETECTABLES 100/BT
+Additional Details:
+Supplier Part ID : HDLLT30
+Line No.
+            PO Line No. Type                             Supplier Part No. / Description
+70        7          Material
+                                                         RON375 / GANT NITRILE BLEU NITECH50 PR/BT
+Additional Details:
+Supplier Part ID : RON375
+Line No.
+            PO Line No. Type                            Supplier Part No. / Description
+80
+            8         Material                          EBP23NJ52 / RONDELLE AUTOBLQ AI304 3/8,50/PQ
+Additional Details:
+Supplier Part ID : EBP23NJ52
+Line No.    PO Line No. Type                            Supplier Part No. / Description
+90        9          Material
+                                                        EBP3AUW4 / BOULON HEX AI304 UNC 3/8-16X1-,50/PQ
+ Additional Details:
+ Supplier Part ID : EBP3AUW4
+Line No.
+            PO Line No. Type                            Supplier Part No. / Description
+100
+            10        Material                          EBP22RV97 / ECROU BLC NY RGL AI304 UNC 5/16-18,50/PQ
+ Additional Details:
+ Supplier Part ID : EBP22RV97
+Line No.    PO Line No. Type                            Supplier Part No. / Description
+110
+            11         Material                          EBP3AVD1 / BOULON HEX AI304 UNC 3/8-16X2-,25/PQ
+Additional Details:
+ Supplier Part ID : EBP3AVD1
+Line No.    PO Line No. Type                            Supplier Part No. / Description
+ 120
+            12        Material                          EBP22RV96 / ECROU BLC NY RGL AI304 UNC 1/4-20,50/PQ
+Additional Details:
+ Supplier Part ID : EBP22RV96
+PDF generated on Tuesday 10 Feb. 2026 6:25 a.m. GMT-08:00
+==================================<Page 3 - END>================================
+==================================<Page 4 - START>================================
+Standard Invoice
+                                                                                                                     GRAINGER
+Original tax invoice has been submitted electronically. This is a
+human readable representation (copy) of the original tax invoice.
+                                                                  Invoice Number                                       9800827496
+                                                                  (Supplier Reference No.)
+                                                                  Invoice Date                    Monday 9 Feb. 2026 7:00 a.m. GMT-05:00
+                                                                                                                   $1,150.49 CAD
+                                                                  Amount Due
+     Contact Information
+                                                                            Shipping Information
+     Supplier
+                                   Customer
+                                                                            Ship From                     Ship To
+     ACKLANDS-GRAINGER INC.
+                                   EDI ONLY PEPSI FOODS ULC                   AGI CALEDON DC               CA-PL-LAUZON-QC-FLC
+     PO BOX 2970                   (FLC)                                     21 Merchant Road                8450 BOUL GUILLAUME
+     WINNIPEG                     8450 BOUL GUILLAUME-                       Caledon                       COUTURE
+                                                                                                         LEVIS
+     MB                          COUTURE                                 ON
+                                                                                                         QC
+     R3C 4B5                      LÉVIS                                    L7C 3Y7
+                                                                                                         G6V 7L7
+     CA                          QC                                      Canada
+                                                                                                         Canada
+                                   G6V 7L7
+                                   Canada
+                                                                                                                  PO Date : 7 Feb. 2026
+   Line Items                                               PO No. : M413543909
+                                                                                         Quantity            Unit Price         Subtotal
+   Line No.    PO Line No.          Type    Supplier Part No. /              Customer Part No.
+                                        Description                                        (UOM)
+                                                                                                                         $24.00 CAD
+   10                           Material EVREN91 / PILES ALC IND                             12 / (PK)           $2.00 CAD
+              1
+                                         ENERGIZER AA 4/PQ
+                                                                                                       Line Item Total : $24.00 CAD
+                                        Supplier Part No. /             Customer Part No.        Quantity            Unit Price         Subtotal
+   Line No.    PO Line No.          Type
+                                        Description                                        (UOM)
+   20        2                  Material EBP31JT12 / VIS MEC A4                              1 / (PK)            $4.45 CAD       $4.45 CAD
+                                        CYLNDR PH M4-0-7X12,50/PQ
+                                                                                                        Line Item Total : $4.45 CAD
+                                        Supplier Part No. /             Customer Part No.        Quantity            Unit Price         Subtotal
+   Line No.    PO Line No.          Type
+                                        Description                                        (UOM)
+   30        3                 Material  RON395 / NITECH GANTS EXAM                        20 / (BX)           $9.26 CAD     $185.20 CAD
+                                        XL 100/BTE (BX)
+                                                                                                      Line Item Total : $185.20 CAD
+                                                                                         Quantity            Unit Price         Subtotal
+   Line No.    PO Line No.          Type    Supplier Part No. /              Customer Part No.
+                                        Description                                        (UOM)
+   40       4                 Material  EBP25DK31 / RNDLL PLATE AC                         1 / (PK)            $3.55 CAD       $3.55 CAD
+                                        INX304 0.344X0.688.50/PQ
+                                                                                                        Line Item Total : $3.55 CAD
+                                                                                                            Unit Price         Subtotal
+   Line No.    PO Line No.          Type    Supplier Part No. /              Customer Part No.         Quantity
+                                        Description                                         (UOM)
+   50        5                  Material  EBP22TN74 / BOULON HEX D933                        1 / (PK)           $13.24 CAD      $13.24 CAD
+                                        AL A2 M8-1.25X30.50/PO
+                                                                                                        Line Item Total : $13.24 CAD
+                                        Supplier Part No. /                                    Quantity            Unit Price         Subtotal
+   Line No.    PO Line No.          Type                               Customer Part No.
+                                        Description
+                                                                                         (UOM)
+   60        6                  Material HDLLT30 / BOUCHONS                                10 / (BX)          $54.83 CAD     $548.30 CAD
+                                        D'OREILLE DETECTABLES 100/
+                                        BT
+                                                                                                       Line Item Total : $548.30 CAD
+                                        Supplier Part No. /              Customer Part No.         Quantity             Unit Price         Subtotal
+   Line No.    PO Line No.          Type
+                                        Description                                         (UOM)
+   70        7                  Material  RON375 / GANT NITRILE BLEU                          20 / (BX)           $9.26 CAD      $185.20 CAD
+                                        NITECH50 PR/BT
+                                                                                                       Line Item Total : $185.20 CAD
+             PO Line No.          Type    Supplier Part No. /              Customer Part No.         Quantity            Unit Price         Subtotal
+   Line No.
+                                        Description                                         (UOM)
+   80       8                  Material  EBP23NJ52 / RONDELLE                              1 / (PK)            $4.22 CAD       $4.22 CAD
+                                        AUTOBLQ AI304 3/8,50/PQ
+                                                                                                         Line Item Total : $4.22 CAD
+                                                                                                             Unit Price
+   Line No.    PO Line No.          Type    Supplier Part No. /              Customer Part No.         Quantity                             Subtotal
+                                        Description
+                                                                                          (UOM)
+                                Material  EBP3AUW4 / BOULON HEX AI304                        1 / (PK)           $10.35 CAD      $10.35 CAD
+   90        9
+                                        UNC 3/8-16X1-.50/PQ
+                                                                                                        Line Item Total : $10.35 CAD
+  Line No.    PO Line No.          Type    Supplier Part No. /              Customer Part No.         Quantity            Unit Price         Subtotal
+                                        Description                                         (UOM)
+                                                                                                            $5.85 CAD       $5.85 CAD
+  100      10                 Material  EBP22RV97 / ECROU BLC NY                           1 / (PK)
+                                        RGL AI304 UNC 5/16-18,50/PQ
+                                                                                                         Line Item Total : $5.85 CAD
+  Line No.    PO Line No.          Type    Supplier Part No. /              Customer Part No.         Quantity             Unit Price         Subtotal
+                                        Description                                         (UOM)
+  110       11                 MaterialEBP3AVD1 / BOULON HEX AI304                         1 / (PK)           $12.64 CAD      $12.64 CAD
+                                        UNC 3/8-16X2-.25/PQ
+                                                                                                        Line Item Total : $12.64 CAD
+  Line No.    PO Line No.                  Supplier Part No. /              Customer Part No.         Quantity             Unit Price         Subtotal
+                                Type
+                                        Description                                         (UOM)
+  120       12                 Material  EBP22RV96 / ECROU BLC NY                           1 / (PK)            $3.65 CAD       $3.65 CAD
+                                        RGL AI304 UNC 1/4-20,50/PQ
+                                                                                                         Line Item Total : $3.65 CAD
+     Tax Summary
+                                                              Base Amount                Rate %          Amount
+     Category                Details
+                                                                                                        $50.03 CAD
+     GST                   Tax Description : GOODS AND          $1,000.65 CAD              5%
+                             SERVICES
+                                                              $1,000.65 CAD              9.975%          $99.81 CAD
+     PST                   Tax Description : State/Provincial
+                             Tax
+                                                                                 Amount Summary
+                                                                                 Line item subtotal                         $1,000.65 CAD
+                                                                                 Gross amount                           $1,150.49 CAD
+==================================<Page 4 - END>================================
+==================================<Page 5 - START>================================
+                                                                             Amount Summary
+                                                                             Net amount                            $1,150.49 CAD
+                                                                             Total tax amount                          $149.84 CAD
+                                                                             Total withholding tax amount
+                                                                             Amount Due                            $1,150.49 CAD
+  Additional Information
+  invioceSourceDocument
+  PurchaseOrder
+  Billing Information                                                         Remittance Information
+  Bill To
+                                                                         Remit To
+  PEPSI FOODS ULC (FLC)
+                                                                         ACKLANDS-GRAINGER INC.
+  2095 MATHESON BLVD E                                                  PO BOX 2970
+  MISSISSAUGA                                                           WINNIPEG
+  ON
+                                                                         MB
+ L4W 0G2                                                               R3C 4B5
+ Canada                                                                Canada
+ Address ID:
+                                                                        Address ID: CA1_2751
+ CA1_ARIBA_PAYABLES
+==================================<Page 5 - END>================================
+==================================<Page 6 - START>================================
+ Line No.
+             PO Line No. Type                            Supplier Part No. / Description
+ 10         1
+                        Material                          EVREN91 / PILES ALC IND ENERGIZER AA 4/PQ
+ Additional Details:
+ Supplier Part ID : EVREN91
+ Line No.
+             PO Line No. Type
+                                                         Supplier Part No. / Description
+ 20
+             2         Material
+                                                         EBP31JT12 / VIS MEC A4 CYLNDR PH M4-0-7X12,50/PQ
+ Additional Details:
+ Supplier Part ID : EBP31JT12
+Line No.
+             PO Line No. Type                            Supplier Part No. / Description
+30        3
+                        Material                         RON395 / NITECH GANTS EXAM XL 100/BTE (BX)
+ Additional Details:
+ Supplier Part ID : RON395
+Line No.    PO Line No. Type
+                                                         Supplier Part No. / Description
+40        4          Material
+                                                        EBP25DK31 / RNDLL PLATE AC INX304 0.344X0.688,50/PQ
+ Additional Details:
+ Supplier Part ID : EBP25DK31
+ Line No.
+             PO Line No. Type                            Supplier Part No. / Description
+ 50
+             5          Material                          EBP22TN74 / BOULON HEX D933 AI A2 M8-1.25X30,50/PQ
+ Additional Details:
+ Supplier Part ID : EBP22TN74
+Line No.    PO Line No. Type                            Supplier Part No. / Description
+60        6          Material
+                                                         HDLLT30 / BOUCHONS D'OREILLE DETECTABLES 100/BT
+Additional Details:
+Supplier Part ID : HDLLT30
+Line No.
+            PO Line No. Type                             Supplier Part No. / Description
+70        7          Material
+                                                         RON375 / GANT NITRILE BLEU NITECH50 PR/BT
+Additional Details:
+Supplier Part ID : RON375
+Line No.
+            PO Line No. Type                            Supplier Part No. / Description
+80
+            8         Material                          EBP23NJ52 / RONDELLE AUTOBLQ AI304 3/8,50/PQ
+Additional Details:
+Supplier Part ID : EBP23NJ52
+Line No.    PO Line No. Type                            Supplier Part No. / Description
+90        9          Material
+                                                        EBP3AUW4 / BOULON HEX AI304 UNC 3/8-16X1-,50/PQ
+ Additional Details:
+ Supplier Part ID : EBP3AUW4
+Line No.
+            PO Line No. Type                            Supplier Part No. / Description
+100
+            10        Material                          EBP22RV97 / ECROU BLC NY RGL AI304 UNC 5/16-18,50/PQ
+ Additional Details:
+ Supplier Part ID : EBP22RV97
+Line No.    PO Line No. Type                            Supplier Part No. / Description
+110
+            11         Material                          EBP3AVD1 / BOULON HEX AI304 UNC 3/8-16X2-,25/PQ
+Additional Details:
+ Supplier Part ID : EBP3AVD1
+Line No.    PO Line No. Type                            Supplier Part No. / Description
+ 120
+            12        Material                          EBP22RV96 / ECROU BLC NY RGL AI304 UNC 1/4-20,50/PQ
+Additional Details:
+ Supplier Part ID : EBP22RV96
+PDF generated on Tuesday 10 Feb. 2026 6:25 a.m. GMT-08:00
+==================================<Page 6 - END>================================

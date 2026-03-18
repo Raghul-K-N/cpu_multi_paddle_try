@@ -1,0 +1,59 @@
+{
+  "invoice_data": {
+    "invoice_number": "1568580",
+    "invoice_date": "03-FEB-26",
+    "invoice_amount": "1275.32",
+    "invoice_currency": [
+      "CAD"
+    ],
+    "tax_amount": "146.72",
+    "po_number": [
+      "4504956690"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": "0.00",
+    "cost_center": null,
+    "vendor_name": "IDEOJET",
+    "vendor_address": "8020 Gore Road, London, ON N5V 4T7",
+    "po_line_items": [
+      {
+        "description": "V4210-D Ink, Black, 750 ml",
+        "quantity": 10.0,
+        "net_price": 112.86
+      }
+    ],
+    "vat_amount": null,
+    "gl_account": null,
+    "bank_name": null,
+    "account_holder_name": null,
+    "banking_account_number": null,
+    "remit_to_address": null,
+    "bill_to_address": null,
+    "transaction_type": "debit"
+  },
+  "filename": "SAPS4_5100214512_CA02_PBNACA_2026_328615086.pdf",
+  "raw_response": {
+    "invoice_number": "1568580",
+    "invoice_date": "03-FEB-26",
+    "invoice_amount": "1275.32",
+    "invoice_currency": [
+      "CAD"
+    ],
+    "tax_amount": "146.72",
+    "po_number": [
+      "4504956690"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": "0.00",
+    "cost_center": null,
+    "vendor_name": "IDEOJET",
+    "vendor_address": "8020 Gore Road, London, ON N5V 4T7",
+    "po_line_items": [
+      {
+        "description": "V4210-D Ink, Black, 750 ml",
+        "quantity": 10.0,
+        "net_price": 112.86
+      }
+    ]
+  }
+}

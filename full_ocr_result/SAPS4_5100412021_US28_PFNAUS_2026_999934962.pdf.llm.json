@@ -1,0 +1,79 @@
+{
+  "invoice_data": {
+    "invoice_number": "26410755-00",
+    "invoice_date": "2/12/26",
+    "invoice_amount": "1,699.19",
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": "129.49",
+    "po_number": [
+      "4504868240"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "THE REYNOLDS COMPANY ELECTRICAL SUPPLY",
+    "vendor_address": "6413 TRI COUNTY PKWY, SCHERTZ, TX 78154-9999",
+    "po_line_items": [
+      {
+        "description": "ALBR140MTC3EB63 A-B 140MT-C3E-B63 MOTOR PROTECTION C/B",
+        "quantity": 5.0,
+        "net_price": 855.95
+      },
+      {
+        "description": "ALBR100C09EJ10 A-B 100-C09EJ10 IEC CONTACTOR",
+        "quantity": 5.0,
+        "net_price": 586.85
+      },
+      {
+        "description": "ALBR1931EFCB A-B 193-1EFCB E100 OVERLOAD RELAY",
+        "quantity": 2.0,
+        "net_price": 126.9
+      }
+    ],
+    "vat_amount": null,
+    "gl_account": null,
+    "bank_name": null,
+    "account_holder_name": null,
+    "banking_account_number": null,
+    "remit_to_address": null,
+    "bill_to_address": null,
+    "transaction_type": "debit"
+  },
+  "filename": "SAPS4_5100412021_US28_PFNAUS_2026_999934962.pdf",
+  "raw_response": {
+    "invoice_number": "26410755-00",
+    "invoice_date": "2/12/26",
+    "invoice_amount": "1,699.19",
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": "129.49",
+    "po_number": [
+      "4504868240"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "THE REYNOLDS COMPANY ELECTRICAL SUPPLY",
+    "vendor_address": "6413 TRI COUNTY PKWY, SCHERTZ, TX 78154-9999",
+    "po_line_items": [
+      {
+        "description": "ALBR140MTC3EB63 A-B 140MT-C3E-B63 MOTOR PROTECTION C/B",
+        "quantity": 5.0,
+        "net_price": 855.95
+      },
+      {
+        "description": "ALBR100C09EJ10 A-B 100-C09EJ10 IEC CONTACTOR",
+        "quantity": 5.0,
+        "net_price": 586.85
+      },
+      {
+        "description": "ALBR1931EFCB A-B 193-1EFCB E100 OVERLOAD RELAY",
+        "quantity": 2.0,
+        "net_price": 126.9
+      }
+    ]
+  }
+}

@@ -1,0 +1,55 @@
+{
+  "invoice_data": {
+    "invoice_number": "6580S0044",
+    "invoice_date": "01/15/26",
+    "invoice_amount": null,
+    "invoice_currency": [
+      "CAD"
+    ],
+    "tax_amount": null,
+    "po_number": null,
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "Ryder Supply Chain Solutions Canada ULC",
+    "vendor_address": "6755 Mississauga Road, Suite 201, Mississauga, ON L5N 7Y2, Tel: 905-542-5407, PO Box 7883, Station A, Lockbox # T07883C, Toronto, Ontario, M5W 2R2, Canada",
+    "po_line_items": [
+      {
+        "description": "Pass through",
+        "quantity": 22041.31,
+        "net_price": 1.1
+      }
+    ],
+    "vat_amount": null,
+    "gl_account": null,
+    "bank_name": null,
+    "account_holder_name": null,
+    "banking_account_number": null,
+    "remit_to_address": null,
+    "bill_to_address": null,
+    "transaction_type": "debit"
+  },
+  "filename": "SAPS4_5100271501_CA02_PBNACA_2026_328586836.pdf",
+  "raw_response": {
+    "invoice_number": "6580S0044",
+    "invoice_date": "01/15/26",
+    "invoice_amount": null,
+    "invoice_currency": [
+      "CAD"
+    ],
+    "tax_amount": null,
+    "po_number": null,
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "Ryder Supply Chain Solutions Canada ULC",
+    "vendor_address": "6755 Mississauga Road, Suite 201, Mississauga, ON L5N 7Y2, Tel: 905-542-5407, PO Box 7883, Station A, Lockbox # T07883C, Toronto, Ontario, M5W 2R2, Canada",
+    "po_line_items": [
+      {
+        "description": "Pass through",
+        "quantity": 22041.31,
+        "net_price": 1.1
+      }
+    ]
+  }
+}

@@ -1,0 +1,79 @@
+{
+  "invoice_data": {
+    "invoice_number": "56318",
+    "invoice_date": null,
+    "invoice_amount": null,
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": null,
+    "po_number": [
+      "4505091911"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "AMCO PRODUCTS COMPANY",
+    "vendor_address": "PO BOX 145, FORT SMITH, AR 72902, United States",
+    "po_line_items": [
+      {
+        "description": "AM8102.7 - DETENT PIN FOR CHUCK, SS",
+        "quantity": 100.0,
+        "net_price": 4.95
+      },
+      {
+        "description": "AM8103.5 - DETENT O-RING FOR CHUCK, URETHANE",
+        "quantity": 50.0,
+        "net_price": 2.9
+      },
+      {
+        "description": "AM9057 - ANTI-ROTATION PLATE WITH BUMPER, 28mm, 5-POINT, AROL",
+        "quantity": 24.0,
+        "net_price": 125.0
+      }
+    ],
+    "vat_amount": null,
+    "gl_account": null,
+    "bank_name": null,
+    "account_holder_name": null,
+    "banking_account_number": null,
+    "remit_to_address": null,
+    "bill_to_address": null,
+    "transaction_type": "debit"
+  },
+  "filename": "SAPS4_5100831014_CA02_PBNACA_2026_328615161.pdf",
+  "raw_response": {
+    "invoice_number": "56318",
+    "invoice_date": null,
+    "invoice_amount": null,
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": null,
+    "po_number": [
+      "4505091911"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "AMCO PRODUCTS COMPANY",
+    "vendor_address": "PO BOX 145, FORT SMITH, AR 72902, United States",
+    "po_line_items": [
+      {
+        "description": "AM8102.7 - DETENT PIN FOR CHUCK, SS",
+        "quantity": 100.0,
+        "net_price": 4.95
+      },
+      {
+        "description": "AM8103.5 - DETENT O-RING FOR CHUCK, URETHANE",
+        "quantity": 50.0,
+        "net_price": 2.9
+      },
+      {
+        "description": "AM9057 - ANTI-ROTATION PLATE WITH BUMPER, 28mm, 5-POINT, AROL",
+        "quantity": 24.0,
+        "net_price": 125.0
+      }
+    ]
+  }
+}

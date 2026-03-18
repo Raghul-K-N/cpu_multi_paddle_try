@@ -1,0 +1,59 @@
+{
+  "invoice_data": {
+    "invoice_number": "459647432001",
+    "invoice_date": "Thursday 12 Feb 2026 12:00 PM GMT-05:00",
+    "invoice_amount": "54.78",
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": "3.58",
+    "po_number": [
+      "M413554779"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "ODP BUSINESS SOLUTIONS, LLC",
+    "vendor_address": "ODP BUSINESS SOLUTIONS, LLC, 323 S COUNTY ROAD 300 W, 6600 North Military Trail, Boca Raton, FL 33496, United States",
+    "po_line_items": [
+      {
+        "description": "KEYBOARD,USB,K120,BLK",
+        "quantity": 5.0,
+        "net_price": 10.24
+      }
+    ],
+    "vat_amount": null,
+    "gl_account": null,
+    "bank_name": null,
+    "account_holder_name": null,
+    "banking_account_number": null,
+    "remit_to_address": null,
+    "bill_to_address": null,
+    "transaction_type": "debit"
+  },
+  "filename": "SAPS4_5100269048_US28_PFNAUS_2026_999930801.pdf",
+  "raw_response": {
+    "invoice_number": "459647432001",
+    "invoice_date": "Thursday 12 Feb 2026 12:00 PM GMT-05:00",
+    "invoice_amount": "54.78",
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": "3.58",
+    "po_number": [
+      "M413554779"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "ODP BUSINESS SOLUTIONS, LLC",
+    "vendor_address": "ODP BUSINESS SOLUTIONS, LLC, 323 S COUNTY ROAD 300 W, 6600 North Military Trail, Boca Raton, FL 33496, United States",
+    "po_line_items": [
+      {
+        "description": "KEYBOARD,USB,K120,BLK",
+        "quantity": 5.0,
+        "net_price": 10.24
+      }
+    ]
+  }
+}

@@ -1,0 +1,454 @@
+==================================<Page 1 - START>================================
+Standard Invoice
+Original tax invoice has been submitted electronically. This is a                    Invoice Number                                     PSI-001142976
+human readable representation (copy) of the original tax invoice.
+                                                                 (Supplier Reference No.)
+                                                                 Invoice Date                      Friday 13 Feb 2026 3:17 PM GMT-06:00
+                                                                                                                    27 Jan 2026
+                                                                 Service Start Date
+                                                                 Service End Date                                      31 Jan 2026
+                                                                 Amount Due                                       $1,463.45 USD
+    Contact Information
+                                                                           Shipping Information
+    Supplier
+                                  Customer
+                                                                           Ship From                     Ship To
+    Shoppa's Material Handling
+                                  Frito-Lay, Inc.
+    LTD                                                                  Shoppa's Material Handling         US-PL-ARLINGTON-TX-FLI
+                                  c/o PEPSICO NASS
+                                                                           LTD                         jeremy.r.morton@pepsico.com
+    P.O.BOX 612027                ACCOUNTS PAYABLES
+                                                                          PO Box 612027                 US-PL-ARLINGTON-TX-FLI
+    Dallas                        PO BOX 1800
+                                                                           15217 Grand River Road           948 AVE H EAST
+    TX                          Winston Salem
+                                                                          Dallas                        ARLINGTON
+    75261                        NC
+                                                                          TX                          TX
+     United States                   27105
+                                                                          75261-2027                    76011-7722
+                                  United States
+                                                                          United States                   United States
+                                  Address ID: US28
+                                                                                                       Address ID: 2021
+                                                                                                       Phone: 5252400
+  Line Items
+                                                         PO No. : M413319412                                      PO Date : 16 Oct 2025
+   Line No.   PO Line No.          Type    Supplier Part No. /
+                                                                 Customer Part No.        Quantity            Unit Price         Subtotal
+                                       Description
+                                                                                       (UOM)
+   1
+             1                 Material Not Available / BPO SERVICES
+                                                                                       1,353.82 / (EA)      $1.00 USD    $1,353.82 USD
+                                       2005 ARLINGTON
+          Taxes, Allowances and Charges
+           Category                  Applicable To
+                                                       Details                Base Amount         Rate %       Amount
+           Sales Tax                 Line
+                                                       Tax Description : A/P Sales  $1.353.82 USD        8.10%        $109.63 USD
+                                                       Tax
+                                                                                                  Line Item Total : $1,463.45 USD
+      Tax Summary
+      Category              Details                          Base Amount               Rate %          Amount
+      Sales Tax              Tax Description : A/P Sales Tax         $1,353.82 USD              8.10%          $109.63 USD
+                                                                              Amount Summary
+                                                                              Line item subtotal                        $1,353.82 USD
+                                                                              Gross amount                          $1,463.45 USD
+                                                                              Net amount                            $1,463.45 USD
+                                                                              Total tax amount                          $109.63 USD
+                                                                              Total withholding tax amount
+                                                                              Amount Due                            $1,463.45 USD
+     Additional Information
+     Payment Method
+     ACH
+     ServiceDescription
+     Service
+                                                                          Remittance Information
+     Billing Information
+    Bill From                      Bill To                                    Remit To
+                                 Frito-Lay, Inc.                               SHOPPAS MATERIAL
+     Shoppa's Material Handling
+     LTD                         c/o PEPSICO NASS                          HANDLING LTD
+     P.O. BOX 612027                ACCOUNTS PAYABLES                       P O BOX 612027
+    Dallas                        PO BOX 1800                              DALLAS
+    TX                          Winston Salem                              TX
+     75261                        NC                                      75261-2027
+     United States                   27105                                    United States
+                                                                          Address ID: US1_23746
+                                 United States
+                                 Address ID: US28
+                                                                          Tax ID of Supplier
+                                                                          752163913
+  Payment Terms
+   Net payment Terms (Days) :
+   60
+  Comments :
+  Invoice and Work Order Attached COOLANT WAS LEAKING.
+  REPLACED RADIATOR HOSE.
+==================================<Page 1 - END>================================
+==================================<Page 2 - START>================================
+Appendix
+Line No.
+            PO Line No. Type                             Supplier Part No. / Description
+1          1
+                        Material                           Not Available / BPO SERVICES 2005 ARLINGTON
+Additional Details:
+Classification Domain : custom
+Classification Code : MRO759001
+Supplier Part ID : Not Available
+PDF generated on Friday 13 Feb 2026 1:17 PM GMT-08:00
+==================================<Page 2 - END>================================
+==================================<Page 3 - START>================================
+                                                                                                               01-FTW
+                                                    Invoice              Date
+     SHOPPA'S                                                              SMH - Fort Worth
+                                                                                                   15217 Grand River Rd
+                                                PSI-001142976
+                                                                         01/31/26
+      MATERIAL HANDLING                                                        FORT WORTH, TX 76155
+                                                                                                          817.359.1100
+                                                                                                                  USA
+                                                Service Invoice
+       Bill To:    FRITO LAY                                Ship To:    FRITO LAY
+         24762                                                    24762
+                    948 AVE H EAST                                          948 AVE H EAST
+                    ARLINGTON, TX 76011                                   ARLINGTON, TX 76011
+                    USA                                                     USA
+      Invoice Date             Salesperson             Work Order No.        Purchase Order No.        Due Date
+        01/31/26              Bryce Ferrell               W1252110                                    04/01/26
+                                                                                 M413319412
+                                 Model                                                               Meter Reading
+         Make                                           Serial No.                Fleet Code
+         CLARK                  C18C               C152L-0985-98340                                    7,997
+Service Requested:       COOLANT WAS LEAKING.
+Work Performed:
+                           NOTES - TECH NOTES
+Reporting Code:
+                           Tyler Lusk [01/27/2026, 06:43:30 PM] P0C called and stated unit was leaking coolant, checked while on site
+                           and found coming from lower radiator hose, hose wasn't leaking bad, PoC wanted to replace, ordered part,
+                           once arrived picked up part and drove
+                           TOPRAD - TOPPED OFF RADIATOR/FILLED RESERVOIR
+                           Tyler Lusk [01/27/2026, 06:43:30 PM] P0C called and stated unit was leaking coolant, checked while on site
+                           and found coming from lower radiator hose, hose wasn't leaking bad, PoC wanted to replace, ordered part,
+                           once arrived picked up part and drove
+                           RADHOSE - REMOVED/REPLACED RADIATOR HOSE.
+                           Tyler Lusk [01/27/2026, 06:43:30 PM] P0C called and stated unit was leaking coolant, checked while on site
+                           and found coming from lower radiator hose, hose wasn't leaking bad, PoC wanted to replace, ordered part,
+                           once arrived picked up part and drove
+ PLEASE REMIT TO:                                                         Materials
+                                                                                                                386.32
+Shoppa's Material Handling, Ltd                                            Labor
+                                                                                                                967.50
+PO Box 612027
+                                                                           Sales Tax                            109.63
+Dallas, TX 75261-2027
+                                                                           Total Due
+                                                                                                              1,463.45
+                                                                                                        93134CS
+                                                                                                      Page 1 of 2
+==================================<Page 3 - END>================================
+==================================<Page 4 - START>================================
+                                                  Parts Return Policy
+        Non-stock parts require a 50% non-refundable deposit prior to order
+        Items classified non-returnable by our vendor — not acceptable for credit
+        Parts returned 0-30 days - 25% restocking charge on returnable items
+        Parts returned over 30 days — special handling subject to vendor's return policy
+        Minimum parts return - $25.00 extended value
+        All returns must be authorized prior to returning parts and must be accompanied by the original packaging and a
+        copy of the original invoice on which the parts were purchased.
+                                                 Terms of Sale or Lease
+         Acceptance of delivery of the equipment described hereon shall constitute acceptance by the buyer or lessee of
+         the following terms and conditions upon which said equipment is sold.
+                                                Disclaimer of Warranties
+         The buyer agrees and acknowledges that Shoppas material handling, Itd ("sMH") makes no warranties express
+         or implied, with respect to the equipment or part sold or leased except such warranty as may have been given to
+         the buyer or lessee in writing by SMH and SMH expressly disclaims any warranty or merchantability or fitness for
+         a particular purpose with respect to such equipment or part.
+                                                  Disclaimer of Liability
+         The buyer agrees and acknowledges that SMH disclaims and shall have no liability whatsoever for any damage,
+         loss or injury to a person or property, including any damage, loss or injury attributable to SMH's negligence or
+         fault resulting from or arising out of the manufacture, sale, lease, delivery, installation, repair, operation, failure
+         or use of such equipment or part. Ln the event that this document pertains to the lease of said equipment,
+         above terms and conditions shall apply to the lessee thereof the following additional terms shall prevail. (a)
+         lessee insurance thereon; (b) the equipment shall at all times remain the property of SMH and shall be returned
+         to it upon expiration of the rental period in the same condition as at the date of delivery, ordinary wear
+         expected.
+                                            Terms of Sale for Used Equipment
+         This being used equipment in the manufacture or production of which we were not involved (this sale is on an
+         “as-is" basis) and all warranties, expressed or implied as to the merchantability or fitness for a particular
+         purpose are expressly negated. All claims for deficiencies must be made within 48 hours after receipt of goods
+                                               Toyota Warranty Disclaimer
+         Certain equipment, parts, accessories or attachments either purchased under this invoice or used during
+         services rendered under this invoice were not manufactured by or on behalf of or specifically sold or approved
+         by Toyota Material Handling, U.S.A., Inc. (“TMHU"). Such equipment, parts, accessories or attachments are not
+         included in any warranties, express or implied, furnished by TMHU or any of TMHU's suppliers.
+                  All past due accounts are subject to a 1 -1/2% finance charge per month
+==================================<Page 4 - END>================================
+==================================<Page 5 - START>================================
+                                                                        WORK ORDER
+       SHOPPA'S
+       MATERIAL HANDLING
+                                                                                                           W1252110
+                                                                           WORK ORDER #
+                                                                                                          SV-133317
+                                                                          SERVICE VISIT #
+                                                                                                           1/28/2026
+                                                                                     DATE
+                                   Note: This is a service receipt, not an invoice.
+                                                                               CUST PO
+     BILL TO CUSTOMER                    SHIP TO CUSTOMER
+     24762                                24762                               QUOTE #
+     FRITO LAY                            FRITO LAY
+                                           948 AVE H EAST                      CONTACT
+     948 AVE H EAST
+     ARLINGTON TX, 76011                   ARLINGTON TX,
+                                                                               PHONE #
+                                           76011
+                                                                               TECH      LUSTY
+      EQUIPMENT #                  MAKE                     MODEL                    SERIAL
+                                                                                          C152L-0985-98340
+      E098233                      CLARK                    C18C
+                                    Hour Meter
+      CUST UNIT #
+                                    7997
+     SERVICE DESCRIPTION
+      coolant leak
+    REASON FOR SERVICE
+     COOLANT WAS LEAKING.
+    CAUSE / CONDITION
+     RADIATOR HOSE WAS LEAKING.
+    REPAIRS MADE
+     TOPPED OFF RADIATOR/FILLED RESERVOIRREMOVED/REPLACED RADIATOR HOSE.
+     POC called and stated unit was leaking coolant, checked while on site and found coming from lower radiator hose, hose wasn't leaking bad, POC
+     wanted to replace, ordered part, once arrived picked up part and drove to customer, removed old hose and replaced with new, topped off fluid and
+     started unit to bleed air from cooling system, once cooling system was good, let unit idle for 15min to see if it would over heat and leak and
+     nothing, returned unit, PoC wasn't on site due to ice and snow, will return later to check for leaks again and get signed
+    RECOMMENDATIONS
+   PARTS / MATERIALS
+    QTY                          DESCRIPTION
+    1                             Safety Checklist
+    1                             HOSE-COOLANT OUTLET
+                                                             1/28/2026
+==================================<Page 5 - END>================================
+==================================<Page 6 - START>================================
+     SHOPPA'S                                  WORK ORDER
+      MATERIAL HANDLING
+                                                                                                            W1252110
+                                                                           WORK ORDER #
+                                                                          SERVICE VISIT #                SV-133317
+                                                                                                             1/28/2026
+                                                                                     DATE
+                                 Note: This is a service receipt, not an invoice.
+    1                             Freight
+    3                             EXTEND LIFE COOLANT, GALLON
+    2                             BRAKE CLEANER, NON-CHLORINATED 12.5 0Z
+                                                            1/28/2026
+==================================<Page 6 - END>================================
+==================================<Page 7 - START>================================
+                                            Safety Checklist
+                                            Generated: 1/28/2026, 8:51:24 AM
+                                                     Passed
+      Does the hour meter display work?
+      Yes
+      Are brakes functioning properly?
+      •Yes
+      Are all lights functioning as needed?
+      Yes
+      Are there any leaks in system?
+      • No
+      Are there any issues with the steering?
+      •No
+      Are there any concerns regarding the overhead guard?
+      • No
+      Data tag in need of replacement?
+      • No
+      Fluid levels adequate? Engine, Trans, Hyd and Coolant?
+      •Yes
+      Seatbelt in need of replacing?
+      • No
+      Parking brake in need of attention?
+     • No
+     Any issues regarding the horn?
+     No
+     Did you offer to show replaced parts to customer?
+     • N/A
+                                                      Page 1 of 1
+==================================<Page 7 - END>================================
+==================================<Page 8 - START>================================
+                                                                                                               01-FTW
+                                                    Invoice              Date
+     SHOPPA'S                                                              SMH - Fort Worth
+                                                                                                   15217 Grand River Rd
+                                                PSI-001142976
+                                                                         01/31/26
+      MATERIAL HANDLING                                                        FORT WORTH, TX 76155
+                                                                                                          817.359.1100
+                                                                                                                  USA
+                                                Service Invoice
+       Bill To:    FRITO LAY                                Ship To:    FRITO LAY
+         24762                                                    24762
+                    948 AVE H EAST                                          948 AVE H EAST
+                    ARLINGTON, TX 76011                                   ARLINGTON, TX 76011
+                    USA                                                     USA
+      Invoice Date             Salesperson             Work Order No.        Purchase Order No.        Due Date
+        01/31/26              Bryce Ferrell               W1252110                                    04/01/26
+                                                                                 M413319412
+                                 Model                                                               Meter Reading
+         Make                                           Serial No.                Fleet Code
+         CLARK                  C18C               C152L-0985-98340                                    7,997
+Service Requested:       COOLANT WAS LEAKING.
+Work Performed:
+                           NOTES - TECH NOTES
+Reporting Code:
+                           Tyler Lusk [01/27/2026, 06:43:30 PM] P0C called and stated unit was leaking coolant, checked while on site
+                           and found coming from lower radiator hose, hose wasn't leaking bad, PoC wanted to replace, ordered part,
+                           once arrived picked up part and drove
+                           TOPRAD - TOPPED OFF RADIATOR/FILLED RESERVOIR
+                           Tyler Lusk [01/27/2026, 06:43:30 PM] P0C called and stated unit was leaking coolant, checked while on site
+                           and found coming from lower radiator hose, hose wasn't leaking bad, PoC wanted to replace, ordered part,
+                           once arrived picked up part and drove
+                           RADHOSE - REMOVED/REPLACED RADIATOR HOSE.
+                           Tyler Lusk [01/27/2026, 06:43:30 PM] P0C called and stated unit was leaking coolant, checked while on site
+                           and found coming from lower radiator hose, hose wasn't leaking bad, PoC wanted to replace, ordered part,
+                           once arrived picked up part and drove
+ PLEASE REMIT TO:                                                         Materials
+                                                                                                                386.32
+Shoppa's Material Handling, Ltd                                            Labor
+                                                                                                                967.50
+PO Box 612027
+                                                                           Sales Tax                            109.63
+Dallas, TX 75261-2027
+                                                                           Total Due
+                                                                                                              1,463.45
+                                                                                                        93134CS
+                                                                                                      Page 1 of 2
+==================================<Page 8 - END>================================
+==================================<Page 9 - START>================================
+                                                  Parts Return Policy
+        Non-stock parts require a 50% non-refundable deposit prior to order
+        Items classified non-returnable by our vendor — not acceptable for credit
+        Parts returned 0-30 days - 25% restocking charge on returnable items
+        Parts returned over 30 days — special handling subject to vendor's return policy
+        Minimum parts return - $25.00 extended value
+        All returns must be authorized prior to returning parts and must be accompanied by the original packaging and a
+        copy of the original invoice on which the parts were purchased.
+                                                 Terms of Sale or Lease
+         Acceptance of delivery of the equipment described hereon shall constitute acceptance by the buyer or lessee of
+         the following terms and conditions upon which said equipment is sold.
+                                                Disclaimer of Warranties
+         The buyer agrees and acknowledges that Shoppas material handling, Itd ("sMH") makes no warranties express
+         or implied, with respect to the equipment or part sold or leased except such warranty as may have been given to
+         the buyer or lessee in writing by SMH and SMH expressly disclaims any warranty or merchantability or fitness for
+         a particular purpose with respect to such equipment or part.
+                                                  Disclaimer of Liability
+         The buyer agrees and acknowledges that SMH disclaims and shall have no liability whatsoever for any damage,
+         loss or injury to a person or property, including any damage, loss or injury attributable to SMH's negligence or
+         fault resulting from or arising out of the manufacture, sale, lease, delivery, installation, repair, operation, failure
+         or use of such equipment or part. Ln the event that this document pertains to the lease of said equipment,
+         above terms and conditions shall apply to the lessee thereof the following additional terms shall prevail. (a)
+         lessee insurance thereon; (b) the equipment shall at all times remain the property of SMH and shall be returned
+         to it upon expiration of the rental period in the same condition as at the date of delivery, ordinary wear
+         expected.
+                                            Terms of Sale for Used Equipment
+         This being used equipment in the manufacture or production of which we were not involved (this sale is on an
+         “as-is" basis) and all warranties, expressed or implied as to the merchantability or fitness for a particular
+         purpose are expressly negated. All claims for deficiencies must be made within 48 hours after receipt of goods
+                                               Toyota Warranty Disclaimer
+         Certain equipment, parts, accessories or attachments either purchased under this invoice or used during
+         services rendered under this invoice were not manufactured by or on behalf of or specifically sold or approved
+         by Toyota Material Handling, U.S.A., Inc. (“TMHU"). Such equipment, parts, accessories or attachments are not
+         included in any warranties, express or implied, furnished by TMHU or any of TMHU's suppliers.
+                  All past due accounts are subject to a 1 -1/2% finance charge per month
+==================================<Page 9 - END>================================
+==================================<Page 10 - START>================================
+                                                                        WORK ORDER
+       SHOPPA'S
+       MATERIAL HANDLING
+                                                                                                           W1252110
+                                                                           WORK ORDER #
+                                                                                                          SV-133317
+                                                                          SERVICE VISIT #
+                                                                                                           1/28/2026
+                                                                                     DATE
+                                   Note: This is a service receipt, not an invoice.
+                                                                               CUST PO
+     BILL TO CUSTOMER                    SHIP TO CUSTOMER
+     24762                                24762                               QUOTE #
+     FRITO LAY                            FRITO LAY
+                                           948 AVE H EAST                      CONTACT
+     948 AVE H EAST
+     ARLINGTON TX, 76011                   ARLINGTON TX,
+                                                                               PHONE #
+                                           76011
+                                                                               TECH      LUSTY
+      EQUIPMENT #                  MAKE                     MODEL                    SERIAL
+                                                                                          C152L-0985-98340
+      E098233                      CLARK                    C18C
+                                    Hour Meter
+      CUST UNIT #
+                                    7997
+     SERVICE DESCRIPTION
+      coolant leak
+    REASON FOR SERVICE
+     COOLANT WAS LEAKING.
+    CAUSE / CONDITION
+     RADIATOR HOSE WAS LEAKING.
+    REPAIRS MADE
+     TOPPED OFF RADIATOR/FILLED RESERVOIRREMOVED/REPLACED RADIATOR HOSE.
+     POC called and stated unit was leaking coolant, checked while on site and found coming from lower radiator hose, hose wasn't leaking bad, POC
+     wanted to replace, ordered part, once arrived picked up part and drove to customer, removed old hose and replaced with new, topped off fluid and
+     started unit to bleed air from cooling system, once cooling system was good, let unit idle for 15min to see if it would over heat and leak and
+     nothing, returned unit, PoC wasn't on site due to ice and snow, will return later to check for leaks again and get signed
+    RECOMMENDATIONS
+   PARTS / MATERIALS
+    QTY                          DESCRIPTION
+    1                             Safety Checklist
+    1                             HOSE-COOLANT OUTLET
+                                                             1/28/2026
+==================================<Page 10 - END>================================
+==================================<Page 11 - START>================================
+     SHOPPA'S                                  WORK ORDER
+      MATERIAL HANDLING
+                                                                                                            W1252110
+                                                                           WORK ORDER #
+                                                                          SERVICE VISIT #                SV-133317
+                                                                                                             1/28/2026
+                                                                                     DATE
+                                 Note: This is a service receipt, not an invoice.
+    1                             Freight
+    3                             EXTEND LIFE COOLANT, GALLON
+    2                             BRAKE CLEANER, NON-CHLORINATED 12.5 0Z
+                                                            1/28/2026
+==================================<Page 11 - END>================================
+==================================<Page 12 - START>================================
+                                            Safety Checklist
+                                            Generated: 1/28/2026, 8:51:24 AM
+                                                     Passed
+      Does the hour meter display work?
+      Yes
+      Are brakes functioning properly?
+      •Yes
+      Are all lights functioning as needed?
+      Yes
+      Are there any leaks in system?
+      • No
+      Are there any issues with the steering?
+      •No
+      Are there any concerns regarding the overhead guard?
+      • No
+      Data tag in need of replacement?
+      • No
+      Fluid levels adequate? Engine, Trans, Hyd and Coolant?
+      •Yes
+      Seatbelt in need of replacing?
+      • No
+      Parking brake in need of attention?
+     • No
+     Any issues regarding the horn?
+     No
+     Did you offer to show replaced parts to customer?
+     • N/A
+                                                      Page 1 of 1
+==================================<Page 12 - END>================================

@@ -1,0 +1,59 @@
+{
+  "invoice_data": {
+    "invoice_number": "DFW289384",
+    "invoice_date": "2/2/2026",
+    "invoice_amount": null,
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": "58.02",
+    "po_number": [
+      "M412345557"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "Canteen Refreshment Services",
+    "vendor_address": "P.O. Box 417632, Boston, MA 02241-7632",
+    "po_line_items": [
+      {
+        "description": "Rent - Ice Machine",
+        "quantity": 2.0,
+        "net_price": 351.65
+      }
+    ],
+    "vat_amount": null,
+    "gl_account": null,
+    "bank_name": null,
+    "account_holder_name": null,
+    "banking_account_number": null,
+    "remit_to_address": null,
+    "bill_to_address": null,
+    "transaction_type": "debit"
+  },
+  "filename": "SAPS4_5100386038_US28_PFNAUS_2026_999884293.pdf",
+  "raw_response": {
+    "invoice_number": "DFW289384",
+    "invoice_date": "2/2/2026",
+    "invoice_amount": "../../../../761.32",
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": "58.02",
+    "po_number": [
+      "M412345557"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "Canteen Refreshment Services",
+    "vendor_address": "P.O. Box 417632, Boston, MA 02241-7632",
+    "po_line_items": [
+      {
+        "description": "Rent - Ice Machine",
+        "quantity": 2.0,
+        "net_price": 351.65
+      }
+    ]
+  }
+}

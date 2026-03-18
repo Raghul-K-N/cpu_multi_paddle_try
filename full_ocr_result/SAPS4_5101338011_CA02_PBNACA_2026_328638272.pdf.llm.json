@@ -1,0 +1,69 @@
+{
+  "invoice_data": {
+    "invoice_number": "3400209770",
+    "invoice_date": "02/09/2026",
+    "invoice_amount": "1766.16",
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": "203.18",
+    "po_number": [
+      "246912"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": "96.41",
+    "cost_center": null,
+    "vendor_name": "markem-imaje PRINTING SOLUTIONS",
+    "vendor_address": "Markem-Imaje Inc. 2233 Argentia Road East Tower, Suite 302 MISSISSAUGA, ON L5N 2X7 CANADA, Markem-Imaje M9067C (for CAD payments) -or- Markem-Imaje M9067U (for USD payments) Case Postal 11792 Dept, 24 Succursale Centre-Ville Montreal, QC H3C 0C6",
+    "po_line_items": [
+      {
+        "description": "912710C0560160BK05 Perform Plus 2710 TTR 0560 X 160 X 5RL",
+        "quantity": 2.0,
+        "net_price": 118.13
+      },
+      {
+        "description": "912511P0450160BK05Performance 2511 TTR 0450 X 160 X 5RL",
+        "quantity": 10.0,
+        "net_price": 114.73
+      }
+    ],
+    "vat_amount": null,
+    "gl_account": null,
+    "bank_name": null,
+    "account_holder_name": null,
+    "banking_account_number": null,
+    "remit_to_address": null,
+    "bill_to_address": null,
+    "transaction_type": "debit"
+  },
+  "filename": "SAPS4_5101338011_CA02_PBNACA_2026_328638272.pdf",
+  "raw_response": {
+    "invoice_number": "3400209770",
+    "invoice_date": "02/09/2026",
+    "invoice_amount": "1766.16",
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": "203.18",
+    "po_number": [
+      "246912"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": "96.41",
+    "cost_center": null,
+    "vendor_name": "markem-imaje PRINTING SOLUTIONS",
+    "vendor_address": "Markem-Imaje Inc. 2233 Argentia Road East Tower, Suite 302 MISSISSAUGA, ON L5N 2X7 CANADA, Markem-Imaje M9067C (for CAD payments) -or- Markem-Imaje M9067U (for USD payments) Case Postal 11792 Dept, 24 Succursale Centre-Ville Montreal, QC H3C 0C6",
+    "po_line_items": [
+      {
+        "description": "912710C0560160BK05 Perform Plus 2710 TTR 0560 X 160 X 5RL",
+        "quantity": 2.0,
+        "net_price": 118.13
+      },
+      {
+        "description": "912511P0450160BK05Performance 2511 TTR 0450 X 160 X 5RL",
+        "quantity": 10.0,
+        "net_price": 114.73
+      }
+    ]
+  }
+}

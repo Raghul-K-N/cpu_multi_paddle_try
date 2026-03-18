@@ -1,0 +1,69 @@
+{
+  "invoice_data": {
+    "invoice_number": "173421600",
+    "invoice_date": "02-03-2026",
+    "invoice_amount": "90.14",
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": null,
+    "po_number": [
+      "4505075017"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": "11.14",
+    "cost_center": null,
+    "vendor_name": "HARTFIEL AUTOMATION",
+    "vendor_address": "6533 FLYING CLOUD DR | STE 100, EDEN PRAIRIE, MN 55344",
+    "po_line_items": [
+      {
+        "description": "9-1012048",
+        "quantity": 1.0,
+        "net_price": 79.0
+      },
+      {
+        "description": "55B-12-PE-501JJ",
+        "quantity": 1.0,
+        "net_price": 79.0
+      }
+    ],
+    "vat_amount": null,
+    "gl_account": null,
+    "bank_name": null,
+    "account_holder_name": null,
+    "banking_account_number": null,
+    "remit_to_address": null,
+    "bill_to_address": null,
+    "transaction_type": "debit"
+  },
+  "filename": "SAPS4_5100335524_US28_PFNAUS_2026_999884193.pdf",
+  "raw_response": {
+    "invoice_number": "173421600",
+    "invoice_date": "02-03-2026",
+    "invoice_amount": "90.14",
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": null,
+    "po_number": [
+      "4505075017"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": "11.14",
+    "cost_center": null,
+    "vendor_name": "HARTFIEL AUTOMATION",
+    "vendor_address": "6533 FLYING CLOUD DR | STE 100, EDEN PRAIRIE, MN 55344",
+    "po_line_items": [
+      {
+        "description": "9-1012048",
+        "quantity": 1.0,
+        "net_price": 79.0
+      },
+      {
+        "description": "55B-12-PE-501JJ",
+        "quantity": 1.0,
+        "net_price": 79.0
+      }
+    ]
+  }
+}

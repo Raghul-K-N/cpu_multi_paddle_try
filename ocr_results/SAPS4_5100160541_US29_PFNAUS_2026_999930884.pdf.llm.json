@@ -1,0 +1,59 @@
+{
+  "invoice_data": {
+    "invoice_number": "459556879001",
+    "invoice_date": "Thursday 12 Feb 2026 12:00 PM GMT-05:00",
+    "invoice_amount": "230.03",
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": "15.05",
+    "po_number": [
+      "M413554444"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "ODP BUSINESS SOLUTIONS, LLC",
+    "vendor_address": "6600 North Military Trail, Boca Raton, FL 33496, United States, 305493619",
+    "po_line_items": [
+      {
+        "description": "5031507 / 27IN CURVED GAMING MONITOR",
+        "quantity": 1.0,
+        "net_price": 214.98
+      }
+    ],
+    "vat_amount": null,
+    "gl_account": null,
+    "bank_name": null,
+    "account_holder_name": null,
+    "banking_account_number": null,
+    "remit_to_address": null,
+    "bill_to_address": null,
+    "transaction_type": "debit"
+  },
+  "filename": "SAPS4_5100160541_US29_PFNAUS_2026_999930884.pdf",
+  "raw_response": {
+    "invoice_number": "459556879001",
+    "invoice_date": "Thursday 12 Feb 2026 12:00 PM GMT-05:00",
+    "invoice_amount": "230.03",
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": "15.05",
+    "po_number": [
+      "M413554444"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "ODP BUSINESS SOLUTIONS, LLC",
+    "vendor_address": "6600 North Military Trail, Boca Raton, FL 33496, United States, 305493619",
+    "po_line_items": [
+      {
+        "description": "5031507 / 27IN CURVED GAMING MONITOR",
+        "quantity": 1.0,
+        "net_price": 214.98
+      }
+    ]
+  }
+}

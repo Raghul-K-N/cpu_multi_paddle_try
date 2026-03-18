@@ -1,0 +1,89 @@
+{
+  "invoice_data": {
+    "invoice_number": "02P737588",
+    "invoice_date": "2/9/2026",
+    "invoice_amount": "1,386.00",
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": null,
+    "po_number": [
+      "23572377"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": "0.00",
+    "cost_center": null,
+    "vendor_name": "Nextran Truck Center - Orlando",
+    "vendor_address": "2200 W Landstreet Rd, Orlando, FL 32809",
+    "po_line_items": [
+      {
+        "description": "NOX SENSOR OUTLET",
+        "quantity": 1.0,
+        "net_price": 536.72
+      },
+      {
+        "description": "CORE NOX SENSOR",
+        "quantity": 1.0,
+        "net_price": 113.99
+      },
+      {
+        "description": "NOX SENSOR INLET",
+        "quantity": 1.0,
+        "net_price": 536.72
+      },
+      {
+        "description": "CORE NOX SENSOR",
+        "quantity": 1.0,
+        "net_price": 113.99
+      }
+    ],
+    "vat_amount": null,
+    "gl_account": null,
+    "bank_name": null,
+    "account_holder_name": null,
+    "banking_account_number": null,
+    "remit_to_address": null,
+    "bill_to_address": null,
+    "transaction_type": "debit"
+  },
+  "filename": "SAPS4_5100024505_US30_PFNAUS_2026_999935855.pdf",
+  "raw_response": {
+    "invoice_number": "02P737588",
+    "invoice_date": "2/9/2026",
+    "invoice_amount": "1,386.00",
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": null,
+    "po_number": [
+      "23572377"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": "0.00",
+    "cost_center": null,
+    "vendor_name": "Nextran Truck Center - Orlando",
+    "vendor_address": "2200 W Landstreet Rd, Orlando, FL 32809",
+    "po_line_items": [
+      {
+        "description": "NOX SENSOR OUTLET",
+        "quantity": 1.0,
+        "net_price": 536.72
+      },
+      {
+        "description": "CORE NOX SENSOR",
+        "quantity": 1.0,
+        "net_price": 113.99
+      },
+      {
+        "description": "NOX SENSOR INLET",
+        "quantity": 1.0,
+        "net_price": 536.72
+      },
+      {
+        "description": "CORE NOX SENSOR",
+        "quantity": 1.0,
+        "net_price": 113.99
+      }
+    ]
+  }
+}

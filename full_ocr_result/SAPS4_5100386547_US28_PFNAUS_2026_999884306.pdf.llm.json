@@ -1,0 +1,99 @@
+{
+  "invoice_data": {
+    "invoice_number": "957147",
+    "invoice_date": "2/04/26",
+    "invoice_amount": null,
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": null,
+    "po_number": [
+      "4505055299"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "Douglas Machine Inc.",
+    "vendor_address": "1705 34th Ave W Alexandria, Minnesota 56308 USA",
+    "po_line_items": [
+      {
+        "description": "RSPC-SS  -NF-N- - -",
+        "quantity": 2.0,
+        "net_price": 7.78
+      },
+      {
+        "description": "FS 3/8 NYLON LOCKING NUT ZN",
+        "quantity": 1.0,
+        "net_price": 0.15
+      },
+      {
+        "description": "FS 3/8X1-1/2 HHCS GR5 ZN",
+        "quantity": 1.0,
+        "net_price": 0.51
+      },
+      {
+        "description": "FS 3/8 LOCK WASHER G8 YZN",
+        "quantity": 1.0,
+        "net_price": 0.09
+      },
+      {
+        "description": "FS 1/4X1 FHSCS ZN",
+        "quantity": 1.0,
+        "net_price": 0.43
+      }
+    ],
+    "vat_amount": null,
+    "gl_account": null,
+    "bank_name": null,
+    "account_holder_name": null,
+    "banking_account_number": null,
+    "remit_to_address": null,
+    "bill_to_address": null,
+    "transaction_type": "debit"
+  },
+  "filename": "SAPS4_5100386547_US28_PFNAUS_2026_999884306.pdf",
+  "raw_response": {
+    "invoice_number": "957147",
+    "invoice_date": "2/04/26",
+    "invoice_amount": null,
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": null,
+    "po_number": [
+      "4505055299"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "Douglas Machine Inc.",
+    "vendor_address": "1705 34th Ave W Alexandria, Minnesota 56308 USA",
+    "po_line_items": [
+      {
+        "description": "RSPC-SS  -NF-N- - -",
+        "quantity": 2.0,
+        "net_price": 7.78
+      },
+      {
+        "description": "FS 3/8 NYLON LOCKING NUT ZN",
+        "quantity": 1.0,
+        "net_price": 0.15
+      },
+      {
+        "description": "FS 3/8X1-1/2 HHCS GR5 ZN",
+        "quantity": 1.0,
+        "net_price": 0.51
+      },
+      {
+        "description": "FS 3/8 LOCK WASHER G8 YZN",
+        "quantity": 1.0,
+        "net_price": 0.09
+      },
+      {
+        "description": "FS 1/4X1 FHSCS ZN",
+        "quantity": 1.0,
+        "net_price": 0.43
+      }
+    ]
+  }
+}

@@ -1,0 +1,462 @@
+==================================<Page 1 - START>================================
+     Standard Invoice
+                                                                                                                           staplest)
+     Original tax invoice has been submitted electronically. This is a
+     human readable representation (copy) of the original tax invoice.
+                                                                       Invoice Number                                          72400571
+                                                                       (Supplier Reference No.)
+                                                                       Invoice Date                   Tuesday 10 Feb. 2026 5:44 a.m. GMT-07:00
+                                                                                                                          $914.42 CAD
+                                                                       Amount Due
+          Contact Information                                                        Shipping Information
+          Supplier
+                                       Customer                                  Ship From                     Ship To
+          Supplier VAT/Tax ID              PEPSICO FOODS CANADA O/                   Staples Canada ULC              FRITO-LAY CDA/PEPSICO
+          126152586RT0001               A FRITO LAY CANADA                        9 TANTRAMAR CRES             BEVERAGE
+                                       5550 EXPLORER DR 8TH                      AMHERST                     PAMELA.HUBLEY@PEPSICO.COM
+                                       FLOOR                                   NS                          80 DAVID WILE RD
+                                                                                                              CA-DC-WILEVILLE-NS-
+                                       MISSISSAUGA                              B4H 4J6
+                                                                                                              PBCCAN
+                                       ON                                      Canada
+                                                                                                              WILEVILLE
+                                       L4W 0C3
+                                       Canada                                                                NS
+                                       Address ID:                                                              B4V 5J6
+                                       CA1 ARIBA_PAYABLES                                                     CA
+                                                                                                              Address ID: shipTo
+       Line Items                                               PO No. : M413548822                                      PO Date : 10 Feb. 2026
+                                                                                             Quantity            Unit Price         Subtotal
+       Line No.    PO Line No.          Type    Supplier Part No. /              Customer Part No.
+                                                                                             (UOM)
+                                             Description
+       1         1                  Material STP14336 /                                        4 / (CT)           $63.24 CAD     $252.96 CAD
+                                             PAPER,SFI,20LB.8.5X11,92BR,WHI
+                                                                                                          Line Item Total : $252.96 CAD
+       Line No.    PO Line No.          Type    Supplier Part No. /             Customer Part No.        Quantity            Unit Price         Subtotal
+                                             Description                                        (UOM)
+                                                                                             1 / (PK)            $5.87 CAD       $5.87 CAD
+       2         2                  MaterialSTPS33YR12 / PAD.SELF STICK
+                                             NOTES,3X3,YLW
+                                                                                                            Line Item Total : $5.87 CAD
+                                                                                                                                 Subtotal
+       Line No.    PO Line No.          Type   Supplier Part No. /             Customer Part No.        Quantity            Unit Price
+                                                                                             (UOM)
+                                            Description
+       3         3                  Material STP17866 / PAPER CLIPS.#1,NON                       6 / (BX)            $0.67 CAD       $4.02 CAD
+                                             SLIP
+                                                                                                             Line Item Total : $4.02 CAD
+                                                                        Customer Part No.        Quantity            Unit Price         Subtotal
+       Line No.    PO Line No.          Type   Supplier Part No. /
+                                            Description                                        (UOM)
+       4         4                  Material HRY13400 /                                        4 / (EA)            $9.39 CAD      $37.56 CAD
+                                             NOTEBOOK,SPIRAL,9
+                                             1/2X6.200PG
+                                                                                                            Line Item Total : $37.56 CAD
+       Line No.    PO Line No.          Type    Supplier Part No. /              Customer Part No.         Quantity             Unit Price          Subtotal
+                                                                                              (UOM)
+                                            Description
+                                     Material PAP1951259 /                                      1 / (BX)            $7.55 CAD        $7.55 CAD
+       5         5
+                                            PEN.INKJOY,RETRACT,BLUE
+                                                                                                             Line Item Total : $7.55 CAD
+                                                                                              Quantity             Unit Price
+       Line No.    PO Line No.          Type    Supplier Part No. /              Customer Part No.                                             Subtotal
+                                            Description                                         (UOM)
+      6         6                  Material STP16807 /CORRECTION                             3 / (PK)            $2.21 CAD        $6.63 CAD
+                                            TAPE.5MMX8M
+                                                                                                              Line Item Total : $6.63 CAD
+      Line No.    PO Line No.          Type    Supplier Part No. /              Customer Part No.         Quantity             Unit Price
+                                                                                                                                  Subtotal
+                                            Description                                         (UOM)
+      7         7                  Material  GEP26301 /                                         1 / (BX)           $109.99 CAD      $109.99 CAD
+                                            TOWEL,ROLL,ACCLAIM,800°,NATURL
+                                                                                                            Line Item Total : $109.99 CAD
+      Line No.    PO Line No.          Type    Supplier Part No. /                                    Quantity             Unit Price          Subtotal
+                                                                       Customer Part No.
+                                            Description                                          (UOM)
+      8         8                  Material  KCI48040 / TOILET                                    2 / (CT)            $38.12 CAD       $76.24 CAD
+                                            TISSUE,2PLY,550SHEETS
+                                                                                                             Line Item Total : $76.24 CAD
+     Line No.    PO Line No.          Type    Supplier Part No. /
+                                                                       Customer Part No.         Quantity             Unit Price          Subtotal
+                                           Description                                          (UOM)
+     9         9                  Material STP13596 / FILE                                     1 / (BX)            $47.99 CAD       $47.99 CAD
+                                           FOLDERS,LEGAL,YELLOW
+                                                                                                             Line Item Total : $47.99 CAD
+    Line No.    PO Line No.
+                                   Type    Supplier Part No. /              Customer Part No.         Quantity             Unit Price          Subtotal
+                                           Description
+                                                                                              (UOM)
+    10        10                  Material STP31890 / FILE
+                                                                                              1 / (BX)            $47.99 CAD       $47.99 CAD
+                                           FOLDERS,LEGAL,NAVY
+                                                                                                             Line Item Total : $47.99 CAD
+   Line No.    PO Line No.           Type    Supplier Part No. /              Customer Part No.         Quantity             Unit Price
+                                                                                                                                    Subtotal
+                                           Description                                          (UOM)
+   11
+              11                  Material  GEP89480 / TOWEL,ENMOTION                          1 / (CT)           $114.99 CAD      $114.99 CAD
+                                           BROWN,800*
+                                                                                                            Line Item Total : $114.99 CAD
+  Line No.
+             PO Line No.           Type    Supplier Part No. /              Customer Part No.         Quantity             Unit Price          Subtotal
+                                          Description
+                                                                                              (UOM)
+ 12        12                  Material  DYM16952 /
+                                                                                              1 / (EA)            $14.49 CAD       $14.49 CAD
+                                          TAPE,REFILL,LETRATAG,BLK ON
+                                          CL
+                                                                                                             Line Item Total : $14.49 CAD
+Line No.    PO Line No.           Type    Supplier Part No. /              Customer Part No.         Quantity             Unit Price
+                                                                                                                                    Subtotal
+                                          Description                                          (UOM)
+13         14                   Material  STP431670 / OB 10X13 KRAFT                           2 / (PK)            $37.92 CAD
+                                                                                                                                 $75.84 CAD
+                                          ENV 100PK
+                                                                                                             Line Item Total : $75.84 CAD
+    Tax Summary
+==================================<Page 1 - END>================================
+==================================<Page 2 - START>================================
+        Category               Details                          Base Amount                               Amount
+                                                                                        Rate %
+        HST                  Tax Description :                   $802.12 CAD               14.0%           $112.30 CAD
+                               126152586RT0001
+                              Tax Location : CA
+                                                                                  Amount Summary
+                                                                                                                         $802.12 CAD
+                                                                                  Line item subtotal
+                                                                                                                        $914.42 CAD
+                                                                                  Gross amount
+                                                                                                                        $914.42 CAD
+                                                                                  Net amount
+                                                                                                                        $112.30 CAD
+                                                                                 Total tax amount
+                                                                                  Total withholding tax amount
+                                                                                 Amount Due                              $914.42 CAD
+     Additional Information
+                                                                             Remittance Information
+                                                                             Remit To
+                                                                             Staples Canada ULC
+                                                                             c/o T04446C
+                                                                             PO Box 4446C, STN A
+                                                                             Toronto
+                                                                             ON
+                                                                             M5W 4A2
+                                                                             CA
+                                                                             Address ID: CA1_32220
+==================================<Page 2 - END>================================
+==================================<Page 3 - START>================================
+      Appendix
+      Line No.
+                 PO Line No. Type                            Supplier Part No. / Description
+      1
+                  1         Material
+                                                             STP14336 / PAPER,SFI,20LB,8.5X11,92BR,WHI
+      Additional Details:
+      Supplier Part ID : STP14336
+     Line No.
+                 PO Line No. Type                            Supplier Part No. / Description
+      2
+                 2
+                            Material                          STPS33YR12 / PAD,SELF STICK NOTES,3X3,YLW
+      Additional Details:
+      Supplier Part ID : STPS33YR12
+     Line No.
+                 PO Line No. Type                            Supplier Part No. / Description
+      3
+                 3         Material                         STP17866 / PAPER CLIPS,#1,NON SLIP
+      Additional Details:
+      Supplier Part ID : STP17866
+     Line No.
+                 PO Line No. Type                            Supplier Part No. / Description
+      4
+                 4         Material                         HRY13400 / NOTEBOOK,SPIRAL,9 1/2X6,200PG
+      Additional Details:
+      Supplier Part ID : HRY13400
+     Line No.    PO Line No. Type
+                                                             Supplier Part No. / Description
+      5          5          Material
+                                                             PAP1951259 / PEN,INKJOY,RETRACT,BLUE
+      Additional Details:
+      Supplier Part ID : PAP1951259
+     Line No.
+                 PO Line No. Type                            Supplier Part No. / Description
+      6
+                 6          Material                          STP16807 / CORRECTION TAPE,5MMX8M
+     Additional Details:
+     Supplier Part ID : STP16807
+     Line No.    PO Line No. Type
+                                                             Supplier Part No. / Description
+     7         7          Material
+                                                             GEP26301 / TOWEL,ROLL,ACCLAIM,800°,NATURL
+     Additional Details:
+     Supplier Part ID : GEP26301
+     Line No.
+                PO Line No. Type                            Supplier Part No. / Description
+     8
+                8          Material                          KCI48040 / TOILET TISSUE,2PLY,550SHEETS
+     Additional Details:
+     Supplier Part ID : KCI48040
+     Line No.    PO Line No. Type
+                                                            Supplier Part No. / Description
+     9
+                 9          Material
+                                                            STP13596 / FILE FOLDERS,LEGAL,YELLOW
+     Additional Details:
+      Supplier Part ID : STP13596
+     Line No.
+                 PO Line No. Type                            Supplier Part No. / Description
+      10
+                 10        Material                          STP31890 / FILE FOLDERS,LEGAL,NAVY
+     Additional Details:
+      Supplier Part ID : STP31890
+     Line No.    PO Line No. Type                            Supplier Part No. / Description
+                 11        Material                          GEP89480 / TOWEL,ENMOTION BROWN,800*
+     Additional Details:
+      Supplier Part ID : GEP89480
+     Line No.    PO Line No. Type
+                                                            Supplier Part No. / Description
+     12        12        Material
+                                                            DYM16952 / TAPE,REFILL,LETRATAG,BLK ON CL
+     Additional Details:
+     Supplier Part ID : DYM16952
+     Line No.
+                PO Line No. Type                            Supplier Part No. / Description
+     13        14
+                           Material                          STP431670 / OB 10X13 KRAFT ENV 100PK
+     Additional Details:
+     Supplier Part ID : STP431670
+    PDF generated on Wednesday 11 Feb. 2026 2:45 a.m. GMT-08:00
+==================================<Page 3 - END>================================
+==================================<Page 4 - START>================================
+     Standard Invoice
+                                                                                                                           staplest)
+     Original tax invoice has been submitted electronically. This is a
+     human readable representation (copy) of the original tax invoice.
+                                                                       Invoice Number                                          72400571
+                                                                       (Supplier Reference No.)
+                                                                       Invoice Date                   Tuesday 10 Feb. 2026 5:44 a.m. GMT-07:00
+                                                                                                                          $914.42 CAD
+                                                                       Amount Due
+          Contact Information                                                        Shipping Information
+          Supplier
+                                       Customer                                  Ship From                     Ship To
+          Supplier VAT/Tax ID              PEPSICO FOODS CANADA O/                   Staples Canada ULC              FRITO-LAY CDA/PEPSICO
+          126152586RT0001               A FRITO LAY CANADA                        9 TANTRAMAR CRES             BEVERAGE
+                                       5550 EXPLORER DR 8TH                      AMHERST                     PAMELA.HUBLEY@PEPSICO.COM
+                                       FLOOR                                   NS                          80 DAVID WILE RD
+                                                                                                              CA-DC-WILEVILLE-NS-
+                                       MISSISSAUGA                              B4H 4J6
+                                                                                                              PBCCAN
+                                       ON                                      Canada
+                                                                                                              WILEVILLE
+                                       L4W 0C3
+                                       Canada                                                                NS
+                                       Address ID:                                                              B4V 5J6
+                                       CA1 ARIBA_PAYABLES                                                     CA
+                                                                                                              Address ID: shipTo
+       Line Items                                               PO No. : M413548822                                      PO Date : 10 Feb. 2026
+                                                                                             Quantity            Unit Price         Subtotal
+       Line No.    PO Line No.          Type    Supplier Part No. /              Customer Part No.
+                                                                                             (UOM)
+                                             Description
+       1         1                  Material STP14336 /                                        4 / (CT)           $63.24 CAD     $252.96 CAD
+                                             PAPER,SFI,20LB.8.5X11,92BR,WHI
+                                                                                                          Line Item Total : $252.96 CAD
+       Line No.    PO Line No.          Type    Supplier Part No. /             Customer Part No.        Quantity            Unit Price         Subtotal
+                                             Description                                        (UOM)
+                                                                                             1 / (PK)            $5.87 CAD       $5.87 CAD
+       2         2                  MaterialSTPS33YR12 / PAD.SELF STICK
+                                             NOTES,3X3,YLW
+                                                                                                            Line Item Total : $5.87 CAD
+                                                                                                                                 Subtotal
+       Line No.    PO Line No.          Type   Supplier Part No. /             Customer Part No.        Quantity            Unit Price
+                                                                                             (UOM)
+                                            Description
+       3         3                  Material STP17866 / PAPER CLIPS.#1,NON                       6 / (BX)            $0.67 CAD       $4.02 CAD
+                                             SLIP
+                                                                                                             Line Item Total : $4.02 CAD
+                                                                        Customer Part No.        Quantity            Unit Price         Subtotal
+       Line No.    PO Line No.          Type   Supplier Part No. /
+                                            Description                                        (UOM)
+       4         4                  Material HRY13400 /                                        4 / (EA)            $9.39 CAD      $37.56 CAD
+                                             NOTEBOOK,SPIRAL,9
+                                             1/2X6.200PG
+                                                                                                            Line Item Total : $37.56 CAD
+       Line No.    PO Line No.          Type    Supplier Part No. /              Customer Part No.         Quantity             Unit Price          Subtotal
+                                                                                              (UOM)
+                                            Description
+                                     Material PAP1951259 /                                      1 / (BX)            $7.55 CAD        $7.55 CAD
+       5         5
+                                            PEN.INKJOY,RETRACT,BLUE
+                                                                                                             Line Item Total : $7.55 CAD
+                                                                                              Quantity             Unit Price
+       Line No.    PO Line No.          Type    Supplier Part No. /              Customer Part No.                                             Subtotal
+                                            Description                                         (UOM)
+      6         6                  Material STP16807 /CORRECTION                             3 / (PK)            $2.21 CAD        $6.63 CAD
+                                            TAPE.5MMX8M
+                                                                                                              Line Item Total : $6.63 CAD
+      Line No.    PO Line No.          Type    Supplier Part No. /              Customer Part No.         Quantity             Unit Price
+                                                                                                                                  Subtotal
+                                            Description                                         (UOM)
+      7         7                  Material  GEP26301 /                                         1 / (BX)           $109.99 CAD      $109.99 CAD
+                                            TOWEL,ROLL,ACCLAIM,800°,NATURL
+                                                                                                            Line Item Total : $109.99 CAD
+      Line No.    PO Line No.          Type    Supplier Part No. /                                    Quantity             Unit Price          Subtotal
+                                                                       Customer Part No.
+                                            Description                                          (UOM)
+      8         8                  Material  KCI48040 / TOILET                                    2 / (CT)            $38.12 CAD       $76.24 CAD
+                                            TISSUE,2PLY,550SHEETS
+                                                                                                             Line Item Total : $76.24 CAD
+     Line No.    PO Line No.          Type    Supplier Part No. /
+                                                                       Customer Part No.         Quantity             Unit Price          Subtotal
+                                           Description                                          (UOM)
+     9         9                  Material STP13596 / FILE                                     1 / (BX)            $47.99 CAD       $47.99 CAD
+                                           FOLDERS,LEGAL,YELLOW
+                                                                                                             Line Item Total : $47.99 CAD
+    Line No.    PO Line No.
+                                   Type    Supplier Part No. /              Customer Part No.         Quantity             Unit Price          Subtotal
+                                           Description
+                                                                                              (UOM)
+    10        10                  Material STP31890 / FILE
+                                                                                              1 / (BX)            $47.99 CAD       $47.99 CAD
+                                           FOLDERS,LEGAL,NAVY
+                                                                                                             Line Item Total : $47.99 CAD
+   Line No.    PO Line No.           Type    Supplier Part No. /              Customer Part No.         Quantity             Unit Price
+                                                                                                                                    Subtotal
+                                           Description                                          (UOM)
+   11
+              11                  Material  GEP89480 / TOWEL,ENMOTION                          1 / (CT)           $114.99 CAD      $114.99 CAD
+                                           BROWN,800*
+                                                                                                            Line Item Total : $114.99 CAD
+  Line No.
+             PO Line No.           Type    Supplier Part No. /              Customer Part No.         Quantity             Unit Price          Subtotal
+                                          Description
+                                                                                              (UOM)
+ 12        12                  Material  DYM16952 /
+                                                                                              1 / (EA)            $14.49 CAD       $14.49 CAD
+                                          TAPE,REFILL,LETRATAG,BLK ON
+                                          CL
+                                                                                                             Line Item Total : $14.49 CAD
+Line No.    PO Line No.           Type    Supplier Part No. /              Customer Part No.         Quantity             Unit Price
+                                                                                                                                    Subtotal
+                                          Description                                          (UOM)
+13         14                   Material  STP431670 / OB 10X13 KRAFT                           2 / (PK)            $37.92 CAD
+                                                                                                                                 $75.84 CAD
+                                          ENV 100PK
+                                                                                                             Line Item Total : $75.84 CAD
+    Tax Summary
+==================================<Page 4 - END>================================
+==================================<Page 5 - START>================================
+        Category               Details                          Base Amount                               Amount
+                                                                                        Rate %
+        HST                  Tax Description :                   $802.12 CAD               14.0%           $112.30 CAD
+                               126152586RT0001
+                              Tax Location : CA
+                                                                                  Amount Summary
+                                                                                                                         $802.12 CAD
+                                                                                  Line item subtotal
+                                                                                                                        $914.42 CAD
+                                                                                  Gross amount
+                                                                                                                        $914.42 CAD
+                                                                                  Net amount
+                                                                                                                        $112.30 CAD
+                                                                                 Total tax amount
+                                                                                  Total withholding tax amount
+                                                                                 Amount Due                              $914.42 CAD
+     Additional Information
+                                                                             Remittance Information
+                                                                             Remit To
+                                                                             Staples Canada ULC
+                                                                             c/o T04446C
+                                                                             PO Box 4446C, STN A
+                                                                             Toronto
+                                                                             ON
+                                                                             M5W 4A2
+                                                                             CA
+                                                                             Address ID: CA1_32220
+==================================<Page 5 - END>================================
+==================================<Page 6 - START>================================
+      Appendix
+      Line No.
+                 PO Line No. Type                            Supplier Part No. / Description
+      1
+                  1         Material
+                                                             STP14336 / PAPER,SFI,20LB,8.5X11,92BR,WHI
+      Additional Details:
+      Supplier Part ID : STP14336
+     Line No.
+                 PO Line No. Type                            Supplier Part No. / Description
+      2
+                 2
+                            Material                          STPS33YR12 / PAD,SELF STICK NOTES,3X3,YLW
+      Additional Details:
+      Supplier Part ID : STPS33YR12
+     Line No.
+                 PO Line No. Type                            Supplier Part No. / Description
+      3
+                 3         Material                         STP17866 / PAPER CLIPS,#1,NON SLIP
+      Additional Details:
+      Supplier Part ID : STP17866
+     Line No.
+                 PO Line No. Type                            Supplier Part No. / Description
+      4
+                 4         Material                         HRY13400 / NOTEBOOK,SPIRAL,9 1/2X6,200PG
+      Additional Details:
+      Supplier Part ID : HRY13400
+     Line No.    PO Line No. Type
+                                                             Supplier Part No. / Description
+      5          5          Material
+                                                             PAP1951259 / PEN,INKJOY,RETRACT,BLUE
+      Additional Details:
+      Supplier Part ID : PAP1951259
+     Line No.
+                 PO Line No. Type                            Supplier Part No. / Description
+      6
+                 6          Material                          STP16807 / CORRECTION TAPE,5MMX8M
+     Additional Details:
+     Supplier Part ID : STP16807
+     Line No.    PO Line No. Type
+                                                             Supplier Part No. / Description
+     7         7          Material
+                                                             GEP26301 / TOWEL,ROLL,ACCLAIM,800°,NATURL
+     Additional Details:
+     Supplier Part ID : GEP26301
+     Line No.
+                PO Line No. Type                            Supplier Part No. / Description
+     8
+                8          Material                          KCI48040 / TOILET TISSUE,2PLY,550SHEETS
+     Additional Details:
+     Supplier Part ID : KCI48040
+     Line No.    PO Line No. Type
+                                                            Supplier Part No. / Description
+     9
+                 9          Material
+                                                            STP13596 / FILE FOLDERS,LEGAL,YELLOW
+     Additional Details:
+      Supplier Part ID : STP13596
+     Line No.
+                 PO Line No. Type                            Supplier Part No. / Description
+      10
+                 10        Material                          STP31890 / FILE FOLDERS,LEGAL,NAVY
+     Additional Details:
+      Supplier Part ID : STP31890
+     Line No.    PO Line No. Type                            Supplier Part No. / Description
+                 11        Material                          GEP89480 / TOWEL,ENMOTION BROWN,800*
+     Additional Details:
+      Supplier Part ID : GEP89480
+     Line No.    PO Line No. Type
+                                                            Supplier Part No. / Description
+     12        12        Material
+                                                            DYM16952 / TAPE,REFILL,LETRATAG,BLK ON CL
+     Additional Details:
+     Supplier Part ID : DYM16952
+     Line No.
+                PO Line No. Type                            Supplier Part No. / Description
+     13        14
+                           Material                          STP431670 / OB 10X13 KRAFT ENV 100PK
+     Additional Details:
+     Supplier Part ID : STP431670
+    PDF generated on Wednesday 11 Feb. 2026 2:45 a.m. GMT-08:00
+==================================<Page 6 - END>================================

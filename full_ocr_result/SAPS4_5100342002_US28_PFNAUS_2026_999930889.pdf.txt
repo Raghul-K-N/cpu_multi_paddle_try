@@ -1,0 +1,250 @@
+==================================<Page 1 - START>================================
+Standard Invoice
+                                                                                                                   GRAINER
+Original tax invoice has been submitted electronically. This is a
+human readable representation (copy) of the original tax invoice.
+                                                                 Invoice Number                                     980439388326
+                                                                (Supplier Reference No.)
+                                                                                            Wednesday 11 Feb 2026 5:47 AM GMT-07:00
+                                                                Invoice Date
+                                                                Amount Due                                        $1,673.80 USD
+    Contact Information
+                                                                          Shipping Information
+    Supplier                      Customer
+                                                                          Ship From                     Ship To
+    Grainger
+                                 Frito-Lay Inc.                                                            US-PL-TOPEKA-KS-FLI
+                                                                          Grainger
+    100 Grainger Pkwy               c/o PEPSICO NASS                                                       VMI ORDER
+                                                                          11200 E. 210 HWY
+    Lake Forest                    ACCOUNTS PAYABLES                                                    4236 SW KIRKLAWN AVE
+                                                                          KANSAS CITY
+    IL                           PO BOX 1800                                                           TOPEKA
+                                                                          MO
+    Winst                        Winston Salem                                                           KS
+                                                                          64161
+    United States                  NC
+                                                                          United States                    66609
+                                 27105
+                                                                                                       United States
+                                 United States
+                                                                                                       Phone: (785) 267-2600
+  Line Items                                              PO No. : M413552095                                       PO Date : 11 Feb 2026
+  Line No.                              Supplier Part No. /                                                     Unit Price         Subtotal
+            PO Line No.         Type                              Customer Part No.        Quantity
+                                       Description
+                                                                                      (UOM)
+  1        1                 Material 62HZ88 / VF,Coated Glove,Blk/                          144 / (EA)          $2.05 USD      $295.20 USD
+                                       Gry.8,20KJ46.PR
+  Line No.    PO Line No.          Type    Supplier Part No. /             Customer Part No.        Quantity            Unit Price         Subtotal
+                                       Description                                       (UOM)
+  2
+            2                 Material 1YAC5 / Safety                                    25 / (EA)           $1.38 USD      $34.50 USD
+                                      Vest,Lime,Universal
+  Line No.                                                                                                                Subtotal
+             PO Line No.         Type    Supplier Part No. /             Customer Part No.        Quantity            Unit Price
+                                      Description                                       (UOM)
+  3                           Material 62HZ90 / VF,Coated Glove,Blk/                                           $2.05 USD     $295.20 USD
+            3                                                                        144 / (EA)
+                                       Gr,10,20KJ48,PR
+  Line No.    PO Line No.          Type    Supplier Part No. /             Customer Part No.        Quantity            Unit Price         Subtotal
+                                      Description                                       (UOM)
+                                                                                                       $3.25 USD      $468.00 USD
+  4        4                 Material 380YG4 / VF.Coated                                 144 / (EA)
+                                      Gloves,Gry.10,5AJ30,PR
+                                                                                                        Unit Price         Subtotal
+  Line No.    PO Line No.          Type    Supplier Part No. /             Customer Part No.        Quantity
+                                      Description                                       (UOM)
+                                      20GY49 / VF.Coated                                                  $3.04 USD      $437.76 USD
+  5        5                 Material                                                 144 / (EA)
+                                       Gloves.3/4Dip.8.5AJ28.PR
+                                                                             Amount Summary
+                                                                             Line item subtotal                         $1,530.66 USD
+                                                                             Gross amount                           $1,673.80 USD
+                                                                                                                   $1,673.80 USD
+                                                                             Net amount
+                                                                                                                    $143.14 USD
+                                                                             Total tax amount
+                                                                             Total withholding tax amount
+                                                                                                                   $1,673.80 USD
+                                                                             Amount Due
+    Additional Information
+    InvoiceSourceDocument
+   PurchaseOrder
+   InvoiceSubmissionMethod
+   cXML
+                                                                         Remittance Information
+   Billing Information
+                                                                         Remit To
+   Bill To
+   Frito-Lay Inc.                                                            GRAINGER
+   c/o PEPSICO NASS                                                       DEPT. 811095447
+   ACCOUNTS PAYABLES                                                    KANSAS CITY
+   PO BOX 1800                                                           MO
+   Winston Salem                                                           64141-6267
+   NC                                                                   United States
+                                                                         Address ID: US1_10359
+   27105
+   United States                                                            Tax ID of Supplier
+   Address ID: US28
+                                                                         36-1150280
+                                                                     Reference Documents
+                                                                      Original Supplier Order #: 1575834657
+==================================<Page 1 - END>================================
+==================================<Page 2 - START>================================
+Appendix
+Line No.
+            PO Line No. Type                            Supplier Part No. / Description
+ 1          1          Material
+                                                       62HZ88 / VF,Coated Glove,Blk/Gry,8,20KJ46,PR
+ Additional Details:
+ Supplier Part ID : 62HZ88
+ Supplier Part Auxiliary ID : WWG62HZ88
+Line No.    PO Line No. Type                            Supplier Part No. / Description
+ 2
+                       Material                         1YAC5 / Safety Vest,Lime,Universal
+Additional Details:
+Supplier Part ID : 1YAC5
+ Supplier Part Auxiliary ID : WWG1YAC5
+Line No.    PO Line No. Type                           Supplier Part No. / Description
+ 3         3         Material                         62HZ90 / VF,Coated Glove,Blk/Gr,10,20KJ48,PR
+Additional Details:
+ Supplier Part ID : 62HZ90
+ Supplier Part Auxiliary ID : WWG62HZ90
+Line No.    PO Line No. Type                           Supplier Part No. / Description
+4         4         Material                         380YG4 / VF,Coated Gloves,Gry,10,5AJ30,PR
+Additional Details:
+Supplier Part ID : 380YG4
+Supplier Part Auxiliary ID : WWG380YG4
+Line No.    PO Line No. Type                           Supplier Part No. / Description
+5         5         Material                         20GY49 / VF,Coated Gloves,3/4Dip,8,5AJ28,PR
+Additional Details:
+Supplier Part ID : 20GY49
+Supplier Part Auxiliary ID : WWG20GY49
+PDF generated on Thursday 12 Feb 2026 5:47 AM GMT-08:00
+==================================<Page 2 - END>================================
+==================================<Page 3 - START>================================
+  Standard Invoice
+                                                                                                                     GRAINER
+  Original tax invoice has been submitted electronically. This is a
+  human readable representation (copy) of the original tax invoice.
+                                                                   Invoice Number                                     980439388326
+                                                                   (Supplier Reference No.)
+                                                                                              Wednesday 11 Feb 2026 5:47 AM GMT-07:00
+                                                                   Invoice Date
+                                                                  Amount Due                                        $1,673.80 USD
+      Contact Information
+                                                                            Shipping Information
+      Supplier                      Customer
+                                                                            Ship From                     Ship To
+      Grainger
+                                   Frito-Lay Inc.                                                            US-PL-TOPEKA-KS-FLI
+                                                                            Grainger
+      100 Grainger Pkwy               c/o PEPSICO NASS                                                       VMI ORDER
+                                                                            11200 E. 210 HWY
+      Lake Forest                    ACCOUNTS PAYABLES                                                    4236 SW KIRKLAWN AVE
+                                                                            KANSAS CITY
+      IL                           PO BOX 1800                                                           TOPEKA
+                                                                            MO
+      Winst                        Winston Salem                                                           KS
+                                                                            64161
+      United States                  NC
+                                                                            United States                    66609
+                                   27105
+                                                                                                         United States
+                                    United States
+                                                                                                         Phone: (785) 267-2600
+    Line Items                                              PO No. : M413552095                                       PO Date : 11 Feb 2026
+    Line No.                              Supplier Part No. /                                                     Unit Price         Subtotal
+              PO Line No.         Type                              Customer Part No.        Quantity
+                                         Description
+                                                                                        (UOM)
+     1        1                 Material 62HZ88 / VF,Coated Glove,Blk/                          144 / (EA)          $2.05 USD      $295.20 USD
+                                         Gry.8,20KJ46.PR
+    Line No.    PO Line No.          Type    Supplier Part No. /             Customer Part No.        Quantity            Unit Price         Subtotal
+                                         Description                                       (UOM)
+    2
+              2                 Material 1YAC5 / Safety                                    25 / (EA)           $1.38 USD      $34.50 USD
+                                         Vest,Lime,Universal
+    Line No.                                                                                                                Subtotal
+               PO Line No.         Type    Supplier Part No. /             Customer Part No.        Quantity            Unit Price
+                                        Description                                       (UOM)
+    3                           Material 62HZ90 / VF,Coated Glove,Blk/                                           $2.05 USD     $295.20 USD
+              3                                                                        144 / (EA)
+                                         Gr,10,20KJ48,PR
+    Line No.    PO Line No.          Type    Supplier Part No. /             Customer Part No.        Quantity            Unit Price         Subtotal
+                                        Description                                       (UOM)
+                                                                                                         $3.25 USD      $468.00 USD
+    4        4                 Material 380YG4 / VF.Coated                                 144 / (EA)
+                                         Gloves,Gry.10,5AJ30,PR
+                                                                                                          Unit Price         Subtotal
+    Line No.    PO Line No.          Type    Supplier Part No. /             Customer Part No.        Quantity
+                                        Description                                       (UOM)
+                                        20GY49 / VF.Coated                                                  $3.04 USD      $437.76 USD
+    5        5                 Material                                                 144 / (EA)
+                                         Gloves.3/4Dip.8.5AJ28.PR
+                                                                               Amount Summary
+                                                                               Line item subtotal                         $1,530.66 USD
+                                                                                Gross amount                           $1,673.80 USD
+                                                                                                                     $1,673.80 USD
+                                                                               Net amount
+                                                                                                                      $143.14 USD
+                                                                               Total tax amount
+                                                                               Total withholding tax amount
+                                                                                                                     $1,673.80 USD
+                                                                               Amount Due
+      Additional Information
+      InvoiceSourceDocument
+     PurchaseOrder
+     InvoiceSubmissionMethod
+     cXML
+                                                                           Remittance Information
+     Billing Information
+                                                                           Remit To
+     Bill To
+     Frito-Lay Inc.                                                            GRAINGER
+     c/o PEPSICO NASS                                                       DEPT. 811095447
+     ACCOUNTS PAYABLES                                                    KANSAS CITY
+     PO BOX 1800                                                           MO
+     Winston Salem                                                           64141-6267
+     NC                                                                   United States
+                                                                           Address ID: US1_10359
+     27105
+     United States                                                            Tax ID of Supplier
+     Address ID: US28
+                                                                           36-1150280
+                                                                       Reference Documents
+                                                                        Original Supplier Order #: 1575834657
+==================================<Page 3 - END>================================
+==================================<Page 4 - START>================================
+Appendix
+Line No.
+            PO Line No. Type                            Supplier Part No. / Description
+ 1          1          Material
+                                                       62HZ88 / VF,Coated Glove,Blk/Gry,8,20KJ46,PR
+ Additional Details:
+ Supplier Part ID : 62HZ88
+ Supplier Part Auxiliary ID : WWG62HZ88
+Line No.    PO Line No. Type                            Supplier Part No. / Description
+ 2
+                       Material                         1YAC5 / Safety Vest,Lime,Universal
+Additional Details:
+Supplier Part ID : 1YAC5
+ Supplier Part Auxiliary ID : WWG1YAC5
+Line No.    PO Line No. Type                           Supplier Part No. / Description
+ 3         3         Material                         62HZ90 / VF,Coated Glove,Blk/Gr,10,20KJ48,PR
+Additional Details:
+ Supplier Part ID : 62HZ90
+ Supplier Part Auxiliary ID : WWG62HZ90
+Line No.    PO Line No. Type                           Supplier Part No. / Description
+4         4         Material                         380YG4 / VF,Coated Gloves,Gry,10,5AJ30,PR
+Additional Details:
+Supplier Part ID : 380YG4
+Supplier Part Auxiliary ID : WWG380YG4
+Line No.    PO Line No. Type                           Supplier Part No. / Description
+5         5         Material                         20GY49 / VF,Coated Gloves,3/4Dip,8,5AJ28,PR
+Additional Details:
+Supplier Part ID : 20GY49
+Supplier Part Auxiliary ID : WWG20GY49
+PDF generated on Thursday 12 Feb 2026 5:47 AM GMT-08:00
+==================================<Page 4 - END>================================

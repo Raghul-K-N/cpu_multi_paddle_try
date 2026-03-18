@@ -1,0 +1,79 @@
+{
+  "invoice_data": {
+    "invoice_number": "843",
+    "invoice_date": "26/01/2026",
+    "invoice_amount": null,
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": null,
+    "po_number": [
+      "M413537110"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "epsico Foods Canada",
+    "vendor_address": "067 Bond St., Orth Bay ON P1B 4V6",
+    "po_line_items": [
+      {
+        "description": "Snow plowing as per F2067B160925, instalment 2 of 2",
+        "quantity": 1.0,
+        "net_price": 1680.0
+      },
+      {
+        "description": "Jan 9, 14",
+        "quantity": 2.0,
+        "net_price": 190.0
+      },
+      {
+        "description": "Sanding",
+        "quantity": 2.0,
+        "net_price": 190.0
+      }
+    ],
+    "vat_amount": null,
+    "gl_account": null,
+    "bank_name": null,
+    "account_holder_name": null,
+    "banking_account_number": null,
+    "remit_to_address": null,
+    "bill_to_address": null,
+    "transaction_type": "debit"
+  },
+  "filename": "SAPS4_5100125021_CA11_PFNACA_2026_304667759.pdf",
+  "raw_response": {
+    "invoice_number": "843",
+    "invoice_date": "26/01/2026",
+    "invoice_amount": null,
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": null,
+    "po_number": [
+      "M413537110"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "epsico Foods Canada",
+    "vendor_address": "067 Bond St., Orth Bay ON P1B 4V6",
+    "po_line_items": [
+      {
+        "description": "Snow plowing as per F2067B160925, instalment 2 of 2",
+        "quantity": 1.0,
+        "net_price": 1680.0
+      },
+      {
+        "description": "Jan 9, 14",
+        "quantity": 2.0,
+        "net_price": 190.0
+      },
+      {
+        "description": "Sanding",
+        "quantity": 2.0,
+        "net_price": 190.0
+      }
+    ]
+  }
+}

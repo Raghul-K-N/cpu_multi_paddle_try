@@ -1,0 +1,61 @@
+{
+  "invoice_data": {
+    "invoice_number": "INV1151135",
+    "invoice_date": "8/9/2024",
+    "invoice_amount": "518.10",
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": "0.00",
+    "po_number": [
+      "S1119555",
+      "4500309832"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "Key Technology Inc.",
+    "vendor_address": "150 Avery Street, Walla Walla, WA 99362, USA",
+    "po_line_items": [
+      {
+        "description": "WINDOW LIGHTING OPTYX 6000",
+        "quantity": 2.0,
+        "net_price": 259.05
+      }
+    ],
+    "vat_amount": null,
+    "gl_account": null,
+    "bank_name": null,
+    "account_holder_name": null,
+    "banking_account_number": null,
+    "remit_to_address": null,
+    "bill_to_address": null,
+    "transaction_type": "debit"
+  },
+  "filename": "SAPS4_5100088006_CA11_PFNACA_2026_304668364.pdf",
+  "raw_response": {
+    "invoice_number": "INV1151135",
+    "invoice_date": "8/9/2024",
+    "invoice_amount": "518.10",
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": "0.00",
+    "po_number": [
+      "S1119555",
+      "4500309832"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "Key Technology Inc.",
+    "vendor_address": "150 Avery Street, Walla Walla, WA 99362, USA",
+    "po_line_items": [
+      {
+        "description": "WINDOW LIGHTING OPTYX 6000",
+        "quantity": 2.0,
+        "net_price": 259.05
+      }
+    ]
+  }
+}

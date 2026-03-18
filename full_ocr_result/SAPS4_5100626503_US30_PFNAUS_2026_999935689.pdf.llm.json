@@ -1,0 +1,89 @@
+{
+  "invoice_data": {
+    "invoice_number": "5570761016",
+    "invoice_date": "02/11/2026",
+    "invoice_amount": "29.27",
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": "2.23",
+    "po_number": [
+      "M413458248"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": "0.00",
+    "cost_center": null,
+    "vendor_name": "VESTIS",
+    "vendor_address": "PO BOX 731676, DALLAS TX 75373-1676",
+    "po_line_items": [
+      {
+        "description": "CE0194BLAK ATM TWL DISPENSER",
+        "quantity": 1.0,
+        "net_price": 1.946
+      },
+      {
+        "description": "MAT NYLON/RUBBER 3X4",
+        "quantity": 3.0,
+        "net_price": 0.826
+      },
+      {
+        "description": "DM0025BLAK SCRAPER MAT 3X5",
+        "quantity": 5.0,
+        "net_price": 0.742
+      },
+      {
+        "description": "TS0002REDD SHOP TOWEL PLAIN 18X18",
+        "quantity": 900.0,
+        "net_price": 0.021
+      }
+    ],
+    "vat_amount": null,
+    "gl_account": null,
+    "bank_name": null,
+    "account_holder_name": null,
+    "banking_account_number": null,
+    "remit_to_address": null,
+    "bill_to_address": null,
+    "transaction_type": "debit"
+  },
+  "filename": "SAPS4_5100626503_US30_PFNAUS_2026_999935689.pdf",
+  "raw_response": {
+    "invoice_number": "5570761016",
+    "invoice_date": "02/11/2026",
+    "invoice_amount": "29.27",
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": "2.23",
+    "po_number": [
+      "M413458248"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": "0.00",
+    "cost_center": null,
+    "vendor_name": "VESTIS",
+    "vendor_address": "PO BOX 731676, DALLAS TX 75373-1676",
+    "po_line_items": [
+      {
+        "description": "CE0194BLAK ATM TWL DISPENSER",
+        "quantity": 1.0,
+        "net_price": 1.946
+      },
+      {
+        "description": "MAT NYLON/RUBBER 3X4",
+        "quantity": 3.0,
+        "net_price": 0.826
+      },
+      {
+        "description": "DM0025BLAK SCRAPER MAT 3X5",
+        "quantity": 5.0,
+        "net_price": 0.742
+      },
+      {
+        "description": "TS0002REDD SHOP TOWEL PLAIN 18X18",
+        "quantity": 900.0,
+        "net_price": 0.021
+      }
+    ]
+  }
+}

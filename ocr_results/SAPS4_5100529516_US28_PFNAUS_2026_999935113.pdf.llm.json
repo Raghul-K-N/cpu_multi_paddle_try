@@ -1,0 +1,55 @@
+{
+  "invoice_data": {
+    "invoice_number": "GA29-00923553",
+    "invoice_date": "02/12/26",
+    "invoice_amount": null,
+    "invoice_currency": null,
+    "tax_amount": null,
+    "po_number": [
+      "4505173901"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "REMIT MOTION INDUSTRIES, INC.",
+    "vendor_address": "MOTION 2499 INDUSTRIAL PARK DR. MACON, GA 31216 PH 4787840500 FAX 4787881500",
+    "po_line_items": [
+      {
+        "description": "100S5M255 SUPER TORQUE TIMING BELT 51T CPNO: 800355386 TIMING & HTD BELTS",
+        "quantity": 6.0,
+        "net_price": 8.29
+      }
+    ],
+    "vat_amount": null,
+    "gl_account": null,
+    "bank_name": null,
+    "account_holder_name": null,
+    "banking_account_number": null,
+    "remit_to_address": null,
+    "bill_to_address": null,
+    "transaction_type": "debit"
+  },
+  "filename": "SAPS4_5100529516_US28_PFNAUS_2026_999935113.pdf",
+  "raw_response": {
+    "invoice_number": "GA29-00923553",
+    "invoice_date": "02/12/26",
+    "invoice_amount": null,
+    "invoice_currency": null,
+    "tax_amount": null,
+    "po_number": [
+      "4505173901"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "REMIT MOTION INDUSTRIES, INC.",
+    "vendor_address": "MOTION 2499 INDUSTRIAL PARK DR. MACON, GA 31216 PH 4787840500 FAX 4787881500",
+    "po_line_items": [
+      {
+        "description": "100S5M255 SUPER TORQUE TIMING BELT 51T CPNO: 800355386 TIMING & HTD BELTS",
+        "quantity": 6.0,
+        "net_price": 8.29
+      }
+    ]
+  }
+}

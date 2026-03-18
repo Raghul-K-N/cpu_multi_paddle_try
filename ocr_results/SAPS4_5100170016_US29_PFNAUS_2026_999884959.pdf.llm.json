@@ -1,0 +1,43 @@
+{
+  "invoice_data": {
+    "invoice_number": "41955485A",
+    "invoice_date": "12/25/2025",
+    "invoice_amount": "68.22",
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": "4.16",
+    "po_number": null,
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "Johnson Controls Security Solutions",
+    "vendor_address": "5920 Castleway West Drive, Indianapolis, IN 46250-1957",
+    "po_line_items": null,
+    "vat_amount": null,
+    "gl_account": null,
+    "bank_name": null,
+    "account_holder_name": null,
+    "banking_account_number": null,
+    "remit_to_address": null,
+    "bill_to_address": null,
+    "transaction_type": "debit"
+  },
+  "filename": "SAPS4_5100170016_US29_PFNAUS_2026_999884959.pdf",
+  "raw_response": {
+    "invoice_number": "41955485A",
+    "invoice_date": "12/25/2025",
+    "invoice_amount": "68.22",
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": "4.16",
+    "po_number": null,
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "Johnson Controls Security Solutions",
+    "vendor_address": "5920 Castleway West Drive, Indianapolis, IN 46250-1957",
+    "po_line_items": null
+  }
+}

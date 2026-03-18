@@ -1,0 +1,59 @@
+{
+  "invoice_data": {
+    "invoice_number": "980521816226",
+    "invoice_date": "Thursday 12 Feb 2026 5:17 AM GMT-07:00",
+    "invoice_amount": "637.33",
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": null,
+    "po_number": [
+      "M413553422"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "GRAINGER",
+    "vendor_address": "100 Grainger Pkwy, Lake Forest, IL, United States\n8701 MINOR LANE, LOUISVILLE, KY, United States\nPhone: (972) 334-7019",
+    "po_line_items": [
+      {
+        "description": "56HG34 / Stretch Wrap,LLDPE,6000 ft. L,20 W",
+        "quantity": 5.0,
+        "net_price": 117.75
+      }
+    ],
+    "vat_amount": null,
+    "gl_account": null,
+    "bank_name": null,
+    "account_holder_name": null,
+    "banking_account_number": null,
+    "remit_to_address": null,
+    "bill_to_address": null,
+    "transaction_type": "debit"
+  },
+  "filename": "SAPS4_5100106032_US29_PFNAUS_2026_999872664.pdf",
+  "raw_response": {
+    "invoice_number": "980521816226",
+    "invoice_date": "Thursday 12 Feb 2026 5:17 AM GMT-07:00",
+    "invoice_amount": "637.33",
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": null,
+    "po_number": [
+      "M413553422"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "GRAINGER",
+    "vendor_address": "100 Grainger Pkwy, Lake Forest, IL, United States\n8701 MINOR LANE, LOUISVILLE, KY, United States\nPhone: (972) 334-7019",
+    "po_line_items": [
+      {
+        "description": "56HG34 / Stretch Wrap,LLDPE,6000 ft. L,20 W",
+        "quantity": 5.0,
+        "net_price": 117.75
+      }
+    ]
+  }
+}

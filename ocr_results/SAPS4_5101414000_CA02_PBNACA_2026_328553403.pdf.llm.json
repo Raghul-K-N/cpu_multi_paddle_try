@@ -1,0 +1,59 @@
+{
+  "invoice_data": {
+    "invoice_number": "9801716003",
+    "invoice_date": "Tuesday 10 Feb. 2026 7:00 a.m. GMT-05:00",
+    "invoice_amount": "120.46",
+    "invoice_currency": [
+      "CAD"
+    ],
+    "tax_amount": "13.86",
+    "po_number": [
+      "M413546178"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "ACKLANDS-GRAINGER INC.",
+    "vendor_address": "PO BOX 2970, WINNIPEG, MB R3C 4B5, CA; AGI CALEDON DC, 21 Merchant Road, Caledon, ON L7C 3Y7, Canada; CA-DC-TIMMINS-ON-PBCCAN, 867 PINE ST S, TIMMINS, ON P4N 8S3, Canada",
+    "po_line_items": [
+      {
+        "description": "WWG52JL72 / MECHANICS GLOVES.9 IN L.GREEN/TAN.PR",
+        "quantity": 5.0,
+        "net_price": 106.6
+      }
+    ],
+    "vat_amount": null,
+    "gl_account": null,
+    "bank_name": null,
+    "account_holder_name": null,
+    "banking_account_number": null,
+    "remit_to_address": null,
+    "bill_to_address": null,
+    "transaction_type": "debit"
+  },
+  "filename": "SAPS4_5101414000_CA02_PBNACA_2026_328553403.pdf",
+  "raw_response": {
+    "invoice_number": "9801716003",
+    "invoice_date": "Tuesday 10 Feb. 2026 7:00 a.m. GMT-05:00",
+    "invoice_amount": "120.46",
+    "invoice_currency": [
+      "CAD"
+    ],
+    "tax_amount": "13.86",
+    "po_number": [
+      "M413546178"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "ACKLANDS-GRAINGER INC.",
+    "vendor_address": "PO BOX 2970, WINNIPEG, MB R3C 4B5, CA; AGI CALEDON DC, 21 Merchant Road, Caledon, ON L7C 3Y7, Canada; CA-DC-TIMMINS-ON-PBCCAN, 867 PINE ST S, TIMMINS, ON P4N 8S3, Canada",
+    "po_line_items": [
+      {
+        "description": "WWG52JL72 / MECHANICS GLOVES.9 IN L.GREEN/TAN.PR",
+        "quantity": 5.0,
+        "net_price": 106.6
+      }
+    ]
+  }
+}

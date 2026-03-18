@@ -1,0 +1,207 @@
+==================================<Page 1 - START>================================
+   OpenText Workflow History
+   Vendor
+   TROPIC WATER LLC
+   TROPIC WATER
+   151 KUPUOHI ST
+    STE H5
+    LAHAINA HI 96761-2725
+    USA
+    Invoice
+    Reference
+                      294492                                  Document Date
+                                                                                 15.04.2025
+    DP Document No.  39237962
+                                                               Net Amount       USD
+                                                                                                 10.94
+    Comp. Code       US29 Rolling Frito-Lay Sales
+                                                               Tax Amount       USD               0.00
+   Posting Date     13.02.2026
+                                                               Gross Amount     USD            10.94
+   SAP Document No. 1900596008 2026
+                                           Pre-Process History
+    ACTIVITY
+                                                          USER       END TIME         DOCUMENT STATUS
+    Update status
+                                                          VRBLAOT_U  03.02.2026       Validation
+                                                          SR         17:04:03          Complete
+                                       Document Process History
+    ACTIVITY
+                      PROCESS TYPE/BLOCK REASON          USER        END TIME         DOCUMENT STATUS
+    BC Inbound
+                                                          VRBLAOT_U  03.02.2026        Document
+                                                          SR          17:02:14
+                                                                                        Registered
+    Workflow Start
+                      Invalid Requestor ID (NPO)         Record to  03.02.2026       Created
+                                                          Report      17:04:04
+                                                          Batch
+                                                          Account
+                                                          Owner:
+   Bypassed Rule    Invalid Requestor ID (NPO)
+                                                          NAVINKUMA  11.02.2026        Created
+   -Invoice Older
+                                                         R R         19:17:52
+   than Allowe
+  Comment:
+  Changed By:09336939
+  Changed On:
+                 02/11/2026 19:17:52
+  ********************************************************************
+ Apply Business   Invalid Requestor ID (NPO)          NAVINKUMA  11.02.2026
+                                                                                        Created
+Rules
+                                                         R R         19:18:39
+Comment:
+****************************************************************
+Changed By:   NAVINKUMAR R (09336939)
+Changed On:   02/11/2026 19:18:38
+Please approve the non po invoice
+Business Rules    Approval Required (NPO)             SAP_WFRT    11.02.2026        Indexed
+Check in BG
+                                                                      19:18:45
+==================================<Page 1 - END>================================
+==================================<Page 2 - START>================================
+OpenText Workflow History
+Invoice
+Vendor            TROPIC WATER LLC LAHAINA
+Reference         294492                              Gross Amount     USD          10.94
+                              Document Process History - Continuation
+  ACTIVITY          PROCESS TYPE/BLOCK REASON          USER        END TIME          DOCUMENT STATUS
+    Invoice submitted for Approval                                   11.02.2026 19:18:46
+    Financial Information Entered                       YESSICA    12.02.2026 15:29:47
+                                                          GUTIERREZ
+    Data Entered and Invoice Approved                   YESSICA     12.02.2026 15:29:53
+                                                          GUTIERREZ
+    Comment:
+    please approve
+                                                          JUAN        12.02.2026 18:58:05
+    Invoice Approved
+                                                          SANCHEZ
+                                                                                         Approval
+  Approval          Approval Required (NPO)             SAP_WFRT    12.02.2026
+  Workflow                                                           18:58:12          Complete
+  Business Rules   Process Non-PO Invoice (NPO)        SAP_WFRT   12.02.2026       Approval
+                                                                                         Complete
+  Check in BG                                                        18:58:13
+                                                          SAP_WFRT   12.02.2026        Sent for Doc
+  Create Doc. BG   Process Non-Po Invoice (NPO)
+                                                                                         Creation
+                                                                      18:58:15
+                                                                                         Document
+  Post Non-PO      Process Non-PO Invoice (NPO)       NAVINKUMA  13.02.2026
+                                                                       13:58:47          Created
+  Invoice                                                RR
+                                                                                         Posted
+ SAP Document                                           SAP_WFRT   13.02.2026
+  Check                                                              13:58:56
+==================================<Page 2 - END>================================
+==================================<Page 3 - START>================================
+       PEPSICO
+ Instructions:When there is not an "Ojficial" Invoice to request payment, complete the information on this form.
+ 1.You must fill in all of the fields below and the form must be accompanied with supporting documentation.
+ Save submission as 1 single PDF file prior to submitting to nassapinvoicesubmission@pepsico.com
+            SAP Payment Request
+       Substitute Invoice Form                      To be filled by Requestor
+ Vendor Type
+                                            S4
+Vendor Name:
+                                            TROPIC WATER LLC
+Vendor Number:
+                                            2003192785
+Company Code:
+                                            US29
+Remit To Address :                               TROPIC WATER LLC
+(Must match the address in the AP system)                 151 KUPUOHI ST, STE H5
+                                            LAHAINA, HI 96761
+Special Handling needed:
+                                            No
+Attn:
+Address:
+Overnight delivery required:
+(if yes provide account # or CC below)
+FedEx or UPs, & Provide Number:
+FedEx or UPS account #
+Cost Center (If No FedEx/UPS Number):
+Trnsaction type:
+Choose only 1 option - Invoice or Credit Memo from the dropdown   Invoice
+Invoice Date:                                  15/04/2025
+Invoice #:
+                                           294492
+Limited to 16 characters
+Purchase Order #
+Not required if non-PO
+Payment GROSS Amount:                          $10.94
+Tax Amount
+(if applicable)
+Payment NET Amount:                            $10.94
+Currency (USD or CAD)                            USD
+Header Text:                                  294492
+Requestor Name:                               Yessica Gutierrez
+Requestor email                               yessica.gutierrez@pepsico.com
+1st Level Approver Name                          Juan Carlos Sanchez
+1st Level Approver Email id/GPID                      80232444
+Date Requested:                               07/02/2026
+GL Coding (6 digits)                              660077
+Cost Center (if applicable)                          2039450600
+Profit Center (if applicable)
+WBS Element (if applicable)
+For Assistance On This Form submission please contact:
+Raise service now ticket(Snow)                       PepsiCo - Sign In
+==================================<Page 3 - END>================================
+==================================<Page 4 - START>================================
+    TROPIC WATER, LLC
+    151 Kupuohi St Ste H5
+    Lahaina, HI 96761-2725                                                  Tropic
+    +18086610007
+    sales@tropicwater.com
+     INVOICE
+     BILL TO                          SHIP TO                                INVOICE # 294492
+                                                                                       DATE 02/01/2026
+     Frito-Lay, Inc.                      Frito Lay Maui
+                                                                                  DUE DATE 03/03/2026
+     94-120 Malakeke Place            197 Kalepa Place
+                                                                                     TERMS Net 30
+     Honolulu, HI 96797                Kahului, HI 96732
+      DESCRIPTION                                                                     QTY    RATE  AMOUNT
+     February 2026
+                                                                                                  10.45    10.45T
+      Cook N Cold Bottled Water Dispenser Rent                                             1
+                                                                                                              10.45
+     Remit payment to:                                   SUBTOTAL
+                                                                                                                0.49
+     Tropic Water                                         TAX
+     151Kupuohi Street Suite H5                                                                        10.94
+                                                              TOTAL
+     Lahaina, HI 96761
+                                                              BALANCE DUE                            $10.94
+     Pay online today. Debit, Credit, Online Check,
+     Apple Pay: Click on the below "Pay Invoice"
+     buuton
+      Pay invoice
+==================================<Page 4 - END>================================
+==================================<Page 5 - START>================================
+        From: SPA - PepsiCo Nass AP Invoice Submission <nassapInvoiceSubmission@pepsico.com>
+        Sent: Tue, 3 Feb 2026 03:28:38 (UTC)
+        To: svcimagingspaboxprod@pepsico.com
+        Subject: FW: 294492 Inv Kahului, HI - Tropic Water, LLC
+         Original Number of Attachments : 1
+        Original Attachment Names: 294492.pdf
+        Number of forwarded PDF's: 1
+        Number of forwarded Non PDF files: 0
+         From: SPA - FLNA West Service Operations <FLNAWestSOPS@pepsico.com>
+         Sent: Tuesday, February 3, 2026 3:27:59 AM
+         To: SPA - PepsiCo Nass AP Invoice Submission <nassaplnvoiceSubmission@pepsico.com>
+         Subject: 294492 Inv Kahului, HI - Tropic Water, LLC
+         @SPA - PepsiCo Nass AP Invoice Submission
+         Please help us to process this attached invoice.
+        Thank you.
+                                               Yessica Gutiérrez
+                                              S&T - R2P - MCC - Indirect Purchasing
+         pepsico
+                                              R2P IP Analyst | PFNA West Service Operations
+                                              Bosque de Duraznos 67, Bosque de las Lomas,
+          Fritolay
+                                              CP 11700, CDMX, Mexico.
+              Good fun!                       Email: FLNAWestSOPS@pepsico.com
+==================================<Page 5 - END>================================

@@ -1,0 +1,95 @@
+{
+  "invoice_data": {
+    "invoice_number": "5040184102",
+    "invoice_date": "08/21/2023",
+    "invoice_amount": null,
+    "invoice_currency": null,
+    "tax_amount": null,
+    "po_number": [
+      "N92695-FRITO"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "aramark",
+    "vendor_address": "2680 Palumbo Drive, Lexington, KY 40509",
+    "po_line_items": [
+      {
+        "description": "DM0001MDGYMAT NYLON/RUBBER 3X10 Rent",
+        "quantity": 3.0,
+        "net_price": 7.53
+      },
+      {
+        "description": "DM0001MDGYMAT NYLON/RUBBER 3X4 Rent",
+        "quantity": 2.0,
+        "net_price": 0.998
+      },
+      {
+        "description": "DM0001MDGYMAT NYLON/RUBBER 4X6 Rent",
+        "quantity": 3.0,
+        "net_price": 2.006
+      },
+      {
+        "description": "DM0001MDGYMAT NYLON/RUBBER 3X5 Rent",
+        "quantity": 1.0,
+        "net_price": 1.793
+      },
+      {
+        "description": "DM0025BLAK SCRAPER MAT",
+        "quantity": 1.0,
+        "net_price": 2.0
+      }
+    ],
+    "vat_amount": null,
+    "gl_account": null,
+    "bank_name": null,
+    "account_holder_name": null,
+    "banking_account_number": null,
+    "remit_to_address": null,
+    "bill_to_address": null,
+    "transaction_type": "debit"
+  },
+  "filename": "SAPS4_5100305523_US28_PFNAUS_2026_999706926.pdf",
+  "raw_response": {
+    "invoice_number": "5040184102",
+    "invoice_date": "08/21/2023",
+    "invoice_amount": null,
+    "invoice_currency": null,
+    "tax_amount": null,
+    "po_number": [
+      "N92695-FRITO"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "aramark",
+    "vendor_address": "2680 Palumbo Drive, Lexington, KY 40509",
+    "po_line_items": [
+      {
+        "description": "DM0001MDGYMAT NYLON/RUBBER 3X10 Rent",
+        "quantity": 3.0,
+        "net_price": 7.53
+      },
+      {
+        "description": "DM0001MDGYMAT NYLON/RUBBER 3X4 Rent",
+        "quantity": 2.0,
+        "net_price": 0.998
+      },
+      {
+        "description": "DM0001MDGYMAT NYLON/RUBBER 4X6 Rent",
+        "quantity": 3.0,
+        "net_price": 2.006
+      },
+      {
+        "description": "DM0001MDGYMAT NYLON/RUBBER 3X5 Rent",
+        "quantity": 1.0,
+        "net_price": 1.793
+      },
+      {
+        "description": "DM0025BLAK SCRAPER MAT",
+        "quantity": 1.0,
+        "net_price": 2.0
+      }
+    ]
+  }
+}

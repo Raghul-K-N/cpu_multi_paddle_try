@@ -1,0 +1,59 @@
+{
+  "invoice_data": {
+    "invoice_number": "6201391569",
+    "invoice_date": "Monday 9 Feb. 2026 12:00 p.m. GMT-06:00",
+    "invoice_amount": "312.30",
+    "invoice_currency": [
+      "CAD"
+    ],
+    "tax_amount": "30.95",
+    "po_number": [
+      "M413275626"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "Canadian Linen and Uniform Service Co.",
+    "vendor_address": "2095 Matheson Blvd East, 302 1st ave N, SASKATOON SK L4W 0G2, S7K 1X4, Canada, Address ID: CA11, Canada, Address ID: 2509, Phone: 3745000",
+    "po_line_items": [
+      {
+        "description": "Not Available / Saskatoon Mat Rental & Bathroom Supplies 2025/26 - BPO",
+        "quantity": 281.35,
+        "net_price": 1.0
+      }
+    ],
+    "vat_amount": null,
+    "gl_account": null,
+    "bank_name": null,
+    "account_holder_name": null,
+    "banking_account_number": null,
+    "remit_to_address": null,
+    "bill_to_address": null,
+    "transaction_type": "debit"
+  },
+  "filename": "SAPS4_5101587500_CA11_PFNACA_2026_304654717.pdf",
+  "raw_response": {
+    "invoice_number": "6201391569",
+    "invoice_date": "Monday 9 Feb. 2026 12:00 p.m. GMT-06:00",
+    "invoice_amount": "312.30",
+    "invoice_currency": [
+      "CAD"
+    ],
+    "tax_amount": "30.95",
+    "po_number": [
+      "M413275626"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "Canadian Linen and Uniform Service Co.",
+    "vendor_address": "2095 Matheson Blvd East, 302 1st ave N, SASKATOON SK L4W 0G2, S7K 1X4, Canada, Address ID: CA11, Canada, Address ID: 2509, Phone: 3745000",
+    "po_line_items": [
+      {
+        "description": "Not Available / Saskatoon Mat Rental & Bathroom Supplies 2025/26 - BPO",
+        "quantity": 281.35,
+        "net_price": 1.0
+      }
+    ]
+  }
+}

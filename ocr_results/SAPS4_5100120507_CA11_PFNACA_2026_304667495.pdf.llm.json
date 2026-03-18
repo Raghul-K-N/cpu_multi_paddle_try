@@ -1,0 +1,79 @@
+{
+  "invoice_data": {
+    "invoice_number": "9797136505",
+    "invoice_date": "Thursday 5 Feb. 2026 7:10 a.m. GMT-05:00",
+    "invoice_amount": "-177.27",
+    "invoice_currency": [
+      "CAD"
+    ],
+    "tax_amount": "-8.43",
+    "po_number": [
+      "M413447734"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "ACKLANDS-GRAINGER INC.",
+    "vendor_address": "PO BOX 2970, WINNIPEG MB R3C 4B5, Canada",
+    "po_line_items": [
+      {
+        "description": "BEM8814-10, COATED GLVS,NEOPRENE,CTTN/PES,10,BLK,PR",
+        "quantity": -3.0,
+        "net_price": -56.28
+      },
+      {
+        "description": "BEM8814-09, COATED GLOVES,NEOPRENE,CTTN/PES,9,BLK,PR",
+        "quantity": -3.0,
+        "net_price": -56.28
+      },
+      {
+        "description": "BEM8814-08, COATED GLOVES,NEOPRENE,CTTN/PES,8,BLK,PR",
+        "quantity": -3.0,
+        "net_price": -56.28
+      }
+    ],
+    "vat_amount": null,
+    "gl_account": null,
+    "bank_name": null,
+    "account_holder_name": null,
+    "banking_account_number": null,
+    "remit_to_address": null,
+    "bill_to_address": null,
+    "transaction_type": "credit"
+  },
+  "filename": "SAPS4_5100120507_CA11_PFNACA_2026_304667495.pdf",
+  "raw_response": {
+    "invoice_number": "9797136505",
+    "invoice_date": "Thursday 5 Feb. 2026 7:10 a.m. GMT-05:00",
+    "invoice_amount": "-177.27",
+    "invoice_currency": [
+      "CAD"
+    ],
+    "tax_amount": "-8.43",
+    "po_number": [
+      "M413447734"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "ACKLANDS-GRAINGER INC.",
+    "vendor_address": "PO BOX 2970, WINNIPEG MB R3C 4B5, Canada",
+    "po_line_items": [
+      {
+        "description": "BEM8814-10, COATED GLVS,NEOPRENE,CTTN/PES,10,BLK,PR",
+        "quantity": -3.0,
+        "net_price": -56.28
+      },
+      {
+        "description": "BEM8814-09, COATED GLOVES,NEOPRENE,CTTN/PES,9,BLK,PR",
+        "quantity": -3.0,
+        "net_price": -56.28
+      },
+      {
+        "description": "BEM8814-08, COATED GLOVES,NEOPRENE,CTTN/PES,8,BLK,PR",
+        "quantity": -3.0,
+        "net_price": -56.28
+      }
+    ]
+  }
+}

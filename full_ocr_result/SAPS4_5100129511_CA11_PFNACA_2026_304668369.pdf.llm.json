@@ -1,0 +1,43 @@
+{
+  "invoice_data": {
+    "invoice_number": "327187",
+    "invoice_date": "01/23/26",
+    "invoice_amount": null,
+    "invoice_currency": null,
+    "tax_amount": null,
+    "po_number": [
+      "M413400843"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "APEX Industries Inc.",
+    "vendor_address": "714 Windmill Rd Unit 2, Dartmouth N.S. B3B 1C2",
+    "po_line_items": null,
+    "vat_amount": null,
+    "gl_account": null,
+    "bank_name": null,
+    "account_holder_name": null,
+    "banking_account_number": null,
+    "remit_to_address": null,
+    "bill_to_address": null,
+    "transaction_type": "debit"
+  },
+  "filename": "SAPS4_5100129511_CA11_PFNACA_2026_304668369.pdf",
+  "raw_response": {
+    "invoice_number": "327187",
+    "invoice_date": "01/23/26",
+    "invoice_amount": null,
+    "invoice_currency": null,
+    "tax_amount": null,
+    "po_number": [
+      "M413400843"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "APEX Industries Inc.",
+    "vendor_address": "714 Windmill Rd Unit 2, Dartmouth N.S. B3B 1C2",
+    "po_line_items": null
+  }
+}

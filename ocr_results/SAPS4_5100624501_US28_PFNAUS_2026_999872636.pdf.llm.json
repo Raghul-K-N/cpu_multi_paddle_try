@@ -1,0 +1,69 @@
+{
+  "invoice_data": {
+    "invoice_number": "176232815",
+    "invoice_date": "2/10/2026",
+    "invoice_amount": null,
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": "0.15",
+    "po_number": [
+      "M413360189"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "Crown Equipment Corporation",
+    "vendor_address": "1355 East Fortune Ave. Suite 102, Fresno, CA 93725, Tel 559-585-8000, Fax 559-585-8001",
+    "po_line_items": [
+      {
+        "description": "Warning Stand On",
+        "quantity": 1.0,
+        "net_price": 84.57
+      },
+      {
+        "description": "Labor",
+        "quantity": 1.0,
+        "net_price": 1.83
+      }
+    ],
+    "vat_amount": null,
+    "gl_account": null,
+    "bank_name": null,
+    "account_holder_name": null,
+    "banking_account_number": null,
+    "remit_to_address": null,
+    "bill_to_address": null,
+    "transaction_type": "debit"
+  },
+  "filename": "SAPS4_5100624501_US28_PFNAUS_2026_999872636.pdf",
+  "raw_response": {
+    "invoice_number": "176232815",
+    "invoice_date": "2/10/2026",
+    "invoice_amount": "../../../86.55",
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": "0.15",
+    "po_number": [
+      "M413360189"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "Crown Equipment Corporation",
+    "vendor_address": "1355 East Fortune Ave. Suite 102, Fresno, CA 93725, Tel 559-585-8000, Fax 559-585-8001",
+    "po_line_items": [
+      {
+        "description": "Warning Stand On",
+        "quantity": 1.0,
+        "net_price": 84.57
+      },
+      {
+        "description": "Labor",
+        "quantity": 1.0,
+        "net_price": 1.83
+      }
+    ]
+  }
+}

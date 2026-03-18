@@ -1,0 +1,89 @@
+{
+  "invoice_data": {
+    "invoice_number": "980600851326",
+    "invoice_date": "Thursday 12 Feb 2026 3:28 AM GMT-07:00",
+    "invoice_amount": "524.45",
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": "31.31",
+    "po_number": [
+      "M413555100"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "Grainger",
+    "vendor_address": "100 Grainger Pkwy, Lake Forest, IL, United States, 27105, United States",
+    "po_line_items": [
+      {
+        "description": "33KL05 / Dispensing Spout, Oasis, Blue, White",
+        "quantity": 5.0,
+        "net_price": 11.38
+      },
+      {
+        "description": "33KL07 / Dispensing Spout, Oasis, Red, White",
+        "quantity": 5.0,
+        "net_price": 17.36
+      },
+      {
+        "description": "33KF35 / Manual 2-Way Ball Valve,Press,Bronze",
+        "quantity": 4.0,
+        "net_price": 51.44
+      },
+      {
+        "description": "33KF34 / Manual 2-Way Ball Valve,Press,Bronze",
+        "quantity": 4.0,
+        "net_price": 35.92
+      }
+    ],
+    "vat_amount": null,
+    "gl_account": null,
+    "bank_name": null,
+    "account_holder_name": null,
+    "banking_account_number": null,
+    "remit_to_address": null,
+    "bill_to_address": null,
+    "transaction_type": "debit"
+  },
+  "filename": "SAPS4_5100155573_US28_PFNAUS_2026_999746206.pdf",
+  "raw_response": {
+    "invoice_number": "980600851326",
+    "invoice_date": "Thursday 12 Feb 2026 3:28 AM GMT-07:00",
+    "invoice_amount": "524.45",
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": "31.31",
+    "po_number": [
+      "M413555100"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "Grainger",
+    "vendor_address": "100 Grainger Pkwy, Lake Forest, IL, United States, 27105, United States",
+    "po_line_items": [
+      {
+        "description": "33KL05 / Dispensing Spout, Oasis, Blue, White",
+        "quantity": 5.0,
+        "net_price": 11.38
+      },
+      {
+        "description": "33KL07 / Dispensing Spout, Oasis, Red, White",
+        "quantity": 5.0,
+        "net_price": 17.36
+      },
+      {
+        "description": "33KF35 / Manual 2-Way Ball Valve,Press,Bronze",
+        "quantity": 4.0,
+        "net_price": 51.44
+      },
+      {
+        "description": "33KF34 / Manual 2-Way Ball Valve,Press,Bronze",
+        "quantity": 4.0,
+        "net_price": 35.92
+      }
+    ]
+  }
+}

@@ -1,0 +1,109 @@
+{
+  "invoice_data": {
+    "invoice_number": "6320747452",
+    "invoice_date": "02/11/2026",
+    "invoice_amount": "30.68",
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": "1.60",
+    "po_number": [
+      "M413382766"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": "0.00",
+    "cost_center": null,
+    "vendor_name": "vestis",
+    "vendor_address": "33723 DELAGRAVE DRIVE, PRARIE DU CHIEN WI 53821",
+    "po_line_items": [
+      {
+        "description": "CE0120XXXX BAG STAND TALL",
+        "quantity": 0.0,
+        "net_price": 0.0
+      },
+      {
+        "description": "DM0001DKGY MAT NYLON/RUBBER 3X10",
+        "quantity": 9.0,
+        "net_price": 2.077
+      },
+      {
+        "description": "DM0001DKGY MAT NYLON/RUBBER 3X4",
+        "quantity": 6.0,
+        "net_price": 0.826
+      },
+      {
+        "description": "DP0018BLUE MOP DUST SYNTHETIC 30",
+        "quantity": 6.0,
+        "net_price": 0.429
+      },
+      {
+        "description": "DP0025BLUE MOP WET SYNTHETIC LGER",
+        "quantity": 11.0,
+        "net_price": 0.826
+      },
+      {
+        "description": "LAUNDRY BAG ERGO CLIPS",
+        "quantity": 0.0,
+        "net_price": 0.0
+      }
+    ],
+    "vat_amount": null,
+    "gl_account": null,
+    "bank_name": null,
+    "account_holder_name": null,
+    "banking_account_number": null,
+    "remit_to_address": null,
+    "bill_to_address": null,
+    "transaction_type": "debit"
+  },
+  "filename": "SAPS4_5100011039_US29_PFNAUS_2026_999934899.pdf",
+  "raw_response": {
+    "invoice_number": "6320747452",
+    "invoice_date": "02/11/2026",
+    "invoice_amount": "30.68",
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": "1.60",
+    "po_number": [
+      "M413382766"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": "0.00",
+    "cost_center": null,
+    "vendor_name": "vestis",
+    "vendor_address": "33723 DELAGRAVE DRIVE, PRARIE DU CHIEN WI 53821",
+    "po_line_items": [
+      {
+        "description": "CE0120XXXX BAG STAND TALL",
+        "quantity": 0.0,
+        "net_price": 0.0
+      },
+      {
+        "description": "DM0001DKGY MAT NYLON/RUBBER 3X10",
+        "quantity": 9.0,
+        "net_price": 2.077
+      },
+      {
+        "description": "DM0001DKGY MAT NYLON/RUBBER 3X4",
+        "quantity": 6.0,
+        "net_price": 0.826
+      },
+      {
+        "description": "DP0018BLUE MOP DUST SYNTHETIC 30",
+        "quantity": 6.0,
+        "net_price": 0.429
+      },
+      {
+        "description": "DP0025BLUE MOP WET SYNTHETIC LGER",
+        "quantity": 11.0,
+        "net_price": 0.826
+      },
+      {
+        "description": "LAUNDRY BAG ERGO CLIPS",
+        "quantity": 0.0,
+        "net_price": 0.0
+      }
+    ]
+  }
+}

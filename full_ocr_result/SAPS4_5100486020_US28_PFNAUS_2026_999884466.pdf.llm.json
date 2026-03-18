@@ -1,0 +1,69 @@
+{
+  "invoice_data": {
+    "invoice_number": "44067",
+    "invoice_date": "February 11, 2026",
+    "invoice_amount": null,
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": null,
+    "po_number": [
+      "4504880923"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "GREENER corporation",
+    "vendor_address": "4 Helmly Street, Bayville, NJ 08721, USA",
+    "po_line_items": [
+      {
+        "description": "REB-GC 3155-56-ASY Greener Part #: REB-GC 3155-56-ASY Rebuild Douglas 13.500\" Sealing Jaw Assembly",
+        "quantity": 1.0,
+        "net_price": 1508.0
+      },
+      {
+        "description": "GC 3155-56-ASY Greener Part #: GC 3155-56-ASY Douglas 13.500\" Sealing Jaw Assembly",
+        "quantity": 1.0,
+        "net_price": 4417.0
+      }
+    ],
+    "vat_amount": null,
+    "gl_account": null,
+    "bank_name": null,
+    "account_holder_name": null,
+    "banking_account_number": null,
+    "remit_to_address": null,
+    "bill_to_address": null,
+    "transaction_type": "debit"
+  },
+  "filename": "SAPS4_5100486020_US28_PFNAUS_2026_999884466.pdf",
+  "raw_response": {
+    "invoice_number": "44067",
+    "invoice_date": "February 11, 2026",
+    "invoice_amount": null,
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": null,
+    "po_number": [
+      "4504880923"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "GREENER corporation",
+    "vendor_address": "4 Helmly Street, Bayville, NJ 08721, USA",
+    "po_line_items": [
+      {
+        "description": "REB-GC 3155-56-ASY Greener Part #: REB-GC 3155-56-ASY Rebuild Douglas 13.500\" Sealing Jaw Assembly",
+        "quantity": 1.0,
+        "net_price": 1508.0
+      },
+      {
+        "description": "GC 3155-56-ASY Greener Part #: GC 3155-56-ASY Douglas 13.500\" Sealing Jaw Assembly",
+        "quantity": 1.0,
+        "net_price": 4417.0
+      }
+    ]
+  }
+}

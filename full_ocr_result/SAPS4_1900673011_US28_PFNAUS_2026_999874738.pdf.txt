@@ -1,0 +1,220 @@
+==================================<Page 1 - START>================================
+   OpenText Workflow History
+   Vendor
+   PROFESSIONAL PACKAGING SYSTEMS
+   PO BOX 530491
+   GRAND PRAIRIE TX
+                    75053-0491
+   USA
+    Invoice
+    Reference        M0001093
+                                                               Document Date
+                                                                                 12.10.2025
+   DP Document No.  39249475
+                                                               Net Amount       USD        15,212.01
+   Comp. Code       US28 Frito-Lay, Inc.                     Tax Amount
+                                                                                USD               0.00
+   Posting Date
+                     13.02.2026                               Gross Amount
+                                                                                USD         15,212.01
+   SAP Document No. 1900673011 2026
+                                           Pre-Process History
+    ACTIVITY                                             USER
+                                                                      END TIME         DOCUMENT STATUS
+    Update status                                        VRBLAOT_U
+                                                                      03.02.2026       Validation
+                                                          SR         21:21:31         Complete
+                                       Document Process History
+   ACTIVITY          PROCESS TYPE/BLOCK REASON
+                                                          USER       END TIME         DOCUMENT STATUS
+   BC Inbound
+                                                          VRBLAOT_U  03.02.2026        Document
+                                                          SR          21:21:31         Registered
+   Workflow Start   Missing Mandatory Information
+                                                          Record to  03.02.2026        Created
+                     (NPO)                                           21:54:28
+                                                          Report
+                                                          Batch
+                                                          Account
+                                                          Owner:
+  Apply Business   Suspected Duplicate (NPo)
+                                                          SURYA      04.02.2026        Created
+  Rules
+                                                          NARAYANAN  20:15:40
+  Confirm Not
+                    Missing Mandatory Information      SURYA       04.02.2026        Indexed
+ Duplicate        (NPO)
+                                                          NARAYANAN  20:15:51
+Comment:
+**********************************************************************
+Changed By:   SURYA NARAYANAN (09498862)
+Changed On:   02/04/2026 20:15:51
+*********************************************************************
+NOt a duplicate
+Business Rules   Approval Required (NPo)             SAP_WFRT    04.02.2026        Indexed
+Check in BG                                                         20:15:58
+  Invoice submitted for Approval
+                                                                      04.02.2026 20:15:59
+  Financial Information Entered                       DYLAN       06.02.2026 20:48:59
+                                                         ROMINE
+  Data Entered and Invoice Approved                   DYLAN       06.02.2026 20:49:01
+                                                         ROMINE
+  Invoice Approved                                     DOUGLAS     06.02.2026 20:53:07
+                                                         FRUCCI
+==================================<Page 1 - END>================================
+==================================<Page 2 - START>================================
+OpenText Workflow History
+Invoice
+Vendor            PROFESSIONAL PACKAGING SYSTEMS GRAND PRAIRIE
+Reference         M0001093                             Gross Amount     USD      15,212.01
+                             Document Process History - Continuation
+  ACTIVITY          PROCESS TYPE/BLOCK REASON           USER        END TIME          DOCUMENT STATUS
+ Approval          Approval Required (NPO)             SAP_WFRT    06.02.2026        Approval
+ Workflow                                                            20:53:12          Complete
+ Business Rules   Process Non-PO Invoice (NPO)        SAP_WFRT   06.02.2026        Approval
+Check in BG                                                         20:53:13          Complete
+                                                                                         Sent for Doc
+Create Doc. BG   Process Non-PO Invoice (NPO)        SAP_WFRT    06.02.2026
+                                                                      20:53:14          Creation
+Post Non-PO       Process Non-PO Invoice (NPO)        NAVINKUMA  11.02.2026        Sent for Doc
+                                                                                         Creation
+Invoice                                                RR        11:28:33
+                                                          KARTHIK M                    Sent for Doc
+Post Non-PO      Process Non-PO Invoice (NPO)                    13.02.2026
+Invoice                                                             11:38:58          Creation
+Post Non-PO      Process Non-PO Invoice (NPO)        KARTHIK M  13.02.2026       Document
+                                                                      15:48:28          Created
+Invoice
+Comment:
+Changed By:   KARTHIK M (09368931)
+Changed On:   02/13/2026 15:48:18
+Processing against doc id# 37146416.
+SAP Document                                                        13.02.2026        Posted
+                                                          SAP_WFRT
+Check                                                               15:48:39
+==================================<Page 2 - END>================================
+==================================<Page 3 - START>================================
+                PEPSICO
+                  Instructions: When there is not an "Official" Invoice to request payment, complete the information on this form.
+1. Fill in the Description field below with the payment type - for example: Donation / Taxes / Other
+2.You must fill in all of the fields below and the form must be accompanied with supporting documentation
+3. Save submission as 1 single PDF file prior to attaching to SharePoint request
+4. The form can be used for the following invoice/payment type activity:
+                                                           Non-PO Invoice
+                                                   SAP Payment Request
+                                                 Substitute Invoice Form
+Vendor Name:
+                                                               Professional Packaging Systems
+Vendor Number:
+                                                               2003185278
+Company Code:
+                                                              US28
+Remit To Address :
+                                                              Professional Packaging Systems
+(Must match the address in the AP system)
+                                                              PO Box 530491
+                                                              Grand Prarie, TX 75053-0491
+Preferred Payment Method:        ACH
+Transaction type:
+                                                              Invoice
+                                                              *choose only 1 option - Invoice or Credit Memo from the dropdown
+Invoice Date:
+                                                              10/12/2025
+Invoice #:
+                                                              M0001093
+                                                              *Limited to 16 characters
+Purchase Order #
+(not required if non-PO)
+                                                             (not required if non-PO)
+Payment GROSS Amount:         $15,212.01
+Tax Amount (if applicable):                        $0.00
+Payment NET Amount:                $15,212.01
+Currency                                         USD
+Header Text:                                  25323784/324385-COR - DR
+Requestor Name:                          Dylan Romine
+Requestor email
+                                                           dylan.romine@pepsico.com
+Date Requested:
+                                                           11/19/2025
+GL Acct: 137100
+                                                           Cost Center: 2000050201
+For Assistance On This Form submission please contact:
+NASSAPSpecialRequest@pepsico.com
+==================================<Page 3 - END>================================
+==================================<Page 4 - START>================================
+                             Qual Pac
+                             2010 South Great Southwest Parkway
+                             Grand Prairie, TX 75051                                              Customer Invoice
+            QUAL PAC
+                             Tel 214-788-2789
+                                                                                                         M0001093
+ORDER INFO
+Invoice Date:      10/12/2025
+Due Date:         12/11/2025
+Terms:            Net 60
+Order No:
+                  N/A
+Note:
+                                                                     Remit      Professional Packaging Systems
+BILL TO                           FRITO - BRK (CORP)                   To:         PO Box 530491
+                Frito Lay Inc.                                                        Grand Prairie, TX 75053-0491
+                C/O JAY CHEVALIER
+                32509 U.S. HWY 90
+                BROOKSHIRE, TX 77423
+               USA
+                                                                     SHIPPING INFO
+SHIP TO                            FRITO-HQ / JAY                     Ship Date:
+                                                                      Shipper No:
+               Frito Lay Inc.
+                C/O JAY CHEVALIER                                       Ship Via:
+                32509 U.S. HWY 90
+                                                                      Tracking No / Exp:
+                BROOKSHIRE, TX 77423
+                                                                      Trailer No:
+               USA
+                                                                      Freight Terms:
+                                                                      FOB:
+                                                                                                   Unit Price           Ext
+LineDescription                                                               Order      Ship
+                                                                                                                     Price
+                                                                               Qty
+                                                                                                      1.0589      15,212.01
+1   RESV.25323784/324385-COR                                                   14,366
+     30063687 - 42CT LAYS AND RUFFLES VP
+                                                                                                Sales Amount:    $15,212.01
+Note:
+RESV.25323784/324385-COR                                                                         Freight Charge:         $0.00
+                                                                                                        Tax:         $0.00
+                                                                                                                $15,212.01
+                                                                                                       Total:
+→ THANK YOU FOR THE
+VALUED SUPPORT & BUSINESS
+                                                                                                     10/15/2025 3:40 PM Page
+==================================<Page 4 - END>================================
+==================================<Page 5 - START>================================
+           From: SPA - PepsiCo Nass AP Invoice Submission <nassapInvoiceSubmission@pepsico.com>
+           Sent: Mon, 24 Nov 2025 17:57:21 (UTC)
+           To: svcimagingspaboxprod@pepsico.com
+           Subject: FW: Qual Pac/Pro Pac Invoice M0001093
+            Original Number of Attachments : 1
+           Original Attachment Names: QP M0001093, $15,212.01 - combined.pdf
+            Number of forwarded PDF's: 1
+            Number of forwarded Non PDF files: 0
+            From: Romine, Dylan {PEP} <Dylan.Romine@pepsico.com>
+            Sent: Monday, November 24, 2025 5:56:05 PM
+            To: SPA - PepsiCo Nass AP Invoice Submission <nassaplnvoiceSubmission@pepsico.com>
+            Cc: DL - FLNA Cost Acct Obsolescence <FLNACostAcctObsolescence@pepsico.com>
+            Subject: Qual Pac/Pro Pac Invoice M0001093
+            Hi all,
+            Please expedite the attached obsolescence invoice and coversheet for Qual Pac/Qual Pac. GL
+             Acct and Cost Center included on the cover sheet.
+            This invoice is tied to obsolescence reserve _25323784/324385-CORDR.
+            Thank you,
+            Dylan Romine
+            PepsiCo  Procurement
+            PFNA Seasonings & Ingredients
+               7701 Legacy Dr. Plano, Texas 75024
+            Dylan.Romine@pepsico.com
+                          FritoLay
+                             Good fun!
+==================================<Page 5 - END>================================

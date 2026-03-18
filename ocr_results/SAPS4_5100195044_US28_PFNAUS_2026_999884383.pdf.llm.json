@@ -1,0 +1,63 @@
+{
+  "invoice_data": {
+    "invoice_number": "446858982001",
+    "invoice_date": "04-NOV-25",
+    "invoice_amount": "93.81",
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": "5.52",
+    "po_number": [
+      "M413333991"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": [
+      "NON SENT"
+    ],
+    "vendor_name": "ODP Business Solutions, LLC",
+    "vendor_address": "PO BOX 633204, CINCINNATI OH 45263-3204",
+    "po_line_items": [
+      {
+        "description": "SYNERGY HD ANC WRLS HEAD",
+        "quantity": 1.0,
+        "net_price": 88.29
+      }
+    ],
+    "vat_amount": null,
+    "gl_account": null,
+    "bank_name": null,
+    "account_holder_name": null,
+    "banking_account_number": null,
+    "remit_to_address": null,
+    "bill_to_address": null,
+    "transaction_type": "debit"
+  },
+  "filename": "SAPS4_5100195044_US28_PFNAUS_2026_999884383.pdf",
+  "raw_response": {
+    "invoice_number": "446858982001",
+    "invoice_date": "04-NOV-25",
+    "invoice_amount": "93.81",
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": "5.52",
+    "po_number": [
+      "M413333991"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": [
+      "NON SENT"
+    ],
+    "vendor_name": "ODP Business Solutions, LLC",
+    "vendor_address": "PO BOX 633204, CINCINNATI OH 45263-3204",
+    "po_line_items": [
+      {
+        "description": "SYNERGY HD ANC WRLS HEAD",
+        "quantity": 1.0,
+        "net_price": 88.29
+      }
+    ]
+  }
+}

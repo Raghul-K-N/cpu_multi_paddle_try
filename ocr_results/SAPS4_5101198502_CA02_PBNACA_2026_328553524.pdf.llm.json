@@ -1,0 +1,69 @@
+{
+  "invoice_data": {
+    "invoice_number": "428125589",
+    "invoice_date": "30-Jan-2026",
+    "invoice_amount": "29,122.55",
+    "invoice_currency": [
+      "CAD"
+    ],
+    "tax_amount": "3,350.38",
+    "po_number": [
+      "M413496217"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "HCLTech",
+    "vendor_address": "auga Road - suite 400/500, Mississauga, Canada Pin: L5N 0C2",
+    "po_line_items": [
+      {
+        "description": "Network Services - January'26 charges PO M413496217",
+        "quantity": 1.0,
+        "net_price": 25772.17
+      },
+      {
+        "description": "DC Hosted NW SERVICES Tech Ref L",
+        "quantity": 1.0,
+        "net_price": 25772.17
+      }
+    ],
+    "vat_amount": null,
+    "gl_account": null,
+    "bank_name": null,
+    "account_holder_name": null,
+    "banking_account_number": null,
+    "remit_to_address": null,
+    "bill_to_address": null,
+    "transaction_type": "debit"
+  },
+  "filename": "SAPS4_5101198502_CA02_PBNACA_2026_328553524.pdf",
+  "raw_response": {
+    "invoice_number": "428125589",
+    "invoice_date": "30-Jan-2026",
+    "invoice_amount": "29,122.55",
+    "invoice_currency": [
+      "CAD"
+    ],
+    "tax_amount": "3,350.38",
+    "po_number": [
+      "M413496217"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "HCLTech",
+    "vendor_address": "auga Road - suite 400/500, Mississauga, Canada Pin: L5N 0C2",
+    "po_line_items": [
+      {
+        "description": "Network Services - January'26 charges PO M413496217",
+        "quantity": 1.0,
+        "net_price": 25772.17
+      },
+      {
+        "description": "DC Hosted NW SERVICES Tech Ref L",
+        "quantity": 1.0,
+        "net_price": 25772.17
+      }
+    ]
+  }
+}

@@ -1,0 +1,69 @@
+{
+  "invoice_data": {
+    "invoice_number": "INV-035681",
+    "invoice_date": "01/01/2026",
+    "invoice_amount": "6166.80",
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": null,
+    "po_number": [
+      "M413479626"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "Olio Group",
+    "vendor_address": "PO Box 583442, 100 South 1st Street, Minneapolis, Minnesota 55458",
+    "po_line_items": [
+      {
+        "description": "Snow Plowing (Per Push) 1 - 3 Inches",
+        "quantity": 7.0,
+        "net_price": 2135.0
+      },
+      {
+        "description": "Salt Application (Per Application)",
+        "quantity": 11.0,
+        "net_price": 3575.0
+      }
+    ],
+    "vat_amount": null,
+    "gl_account": null,
+    "bank_name": null,
+    "account_holder_name": null,
+    "banking_account_number": null,
+    "remit_to_address": null,
+    "bill_to_address": null,
+    "transaction_type": "debit"
+  },
+  "filename": "SAPS4_5100018544_US29_PFNAUS_2026_999884670.pdf",
+  "raw_response": {
+    "invoice_number": "INV-035681",
+    "invoice_date": "01/01/2026",
+    "invoice_amount": "6166.80",
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": null,
+    "po_number": [
+      "M413479626"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "Olio Group",
+    "vendor_address": "PO Box 583442, 100 South 1st Street, Minneapolis, Minnesota 55458",
+    "po_line_items": [
+      {
+        "description": "Snow Plowing (Per Push) 1 - 3 Inches",
+        "quantity": 7.0,
+        "net_price": 2135.0
+      },
+      {
+        "description": "Salt Application (Per Application)",
+        "quantity": 11.0,
+        "net_price": 3575.0
+      }
+    ]
+  }
+}

@@ -1,0 +1,71 @@
+{
+  "invoice_data": {
+    "invoice_number": "33236681",
+    "invoice_date": "01/15/2026",
+    "invoice_amount": "1639.28",
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": "138.80",
+    "po_number": [
+      "23555048",
+      "110535"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "ExxonMobil Oil Corporation",
+    "vendor_address": "P.O. BOX 841067, DALLAS, TX 75284-1067",
+    "po_line_items": [
+      {
+        "description": "MOBIL DELVAC 1 5W-30 ADVANCED SYNTHETIC, CK-4, CASE 4X1USG",
+        "quantity": 192.0,
+        "net_price": 1138.56
+      },
+      {
+        "description": "MOBIL DELVAC EXT LIFE 50/50 PREDILUTED COOLANT,6X1GA",
+        "quantity": 48.0,
+        "net_price": 361.92
+      }
+    ],
+    "vat_amount": null,
+    "gl_account": null,
+    "bank_name": null,
+    "account_holder_name": null,
+    "banking_account_number": null,
+    "remit_to_address": null,
+    "bill_to_address": null,
+    "transaction_type": "debit"
+  },
+  "filename": "SAPS4_5100089047_US29_PFNAUS_2026_999884702.pdf",
+  "raw_response": {
+    "invoice_number": "33236681",
+    "invoice_date": "01/15/2026",
+    "invoice_amount": "1639.28",
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": "138.80",
+    "po_number": [
+      "23555048",
+      "110535"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "ExxonMobil Oil Corporation",
+    "vendor_address": "P.O. BOX 841067, DALLAS, TX 75284-1067",
+    "po_line_items": [
+      {
+        "description": "MOBIL DELVAC 1 5W-30 ADVANCED SYNTHETIC, CK-4, CASE 4X1USG",
+        "quantity": 192.0,
+        "net_price": 1138.56
+      },
+      {
+        "description": "MOBIL DELVAC EXT LIFE 50/50 PREDILUTED COOLANT,6X1GA",
+        "quantity": 48.0,
+        "net_price": 361.92
+      }
+    ]
+  }
+}

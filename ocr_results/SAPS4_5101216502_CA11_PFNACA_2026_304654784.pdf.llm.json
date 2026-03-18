@@ -1,0 +1,43 @@
+{
+  "invoice_data": {
+    "invoice_number": "16040566-00",
+    "invoice_date": "3/2026",
+    "invoice_amount": null,
+    "invoice_currency": null,
+    "tax_amount": "24.69",
+    "po_number": [
+      "190965"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "GRAYBAR CANADA",
+    "vendor_address": "PO BOX 9078, STATION \"A\", HALIFAX, NS B3K 5M7",
+    "po_line_items": null,
+    "vat_amount": null,
+    "gl_account": null,
+    "bank_name": null,
+    "account_holder_name": null,
+    "banking_account_number": null,
+    "remit_to_address": null,
+    "bill_to_address": null,
+    "transaction_type": "debit"
+  },
+  "filename": "SAPS4_5101216502_CA11_PFNACA_2026_304654784.pdf",
+  "raw_response": {
+    "invoice_number": "16040566-00",
+    "invoice_date": "3/2026",
+    "invoice_amount": null,
+    "invoice_currency": null,
+    "tax_amount": "24.69",
+    "po_number": [
+      "190965"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "GRAYBAR CANADA",
+    "vendor_address": "PO BOX 9078, STATION \"A\", HALIFAX, NS B3K 5M7",
+    "po_line_items": null
+  }
+}

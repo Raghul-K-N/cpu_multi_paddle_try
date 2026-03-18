@@ -1,0 +1,43 @@
+{
+  "invoice_data": {
+    "invoice_number": "543553",
+    "invoice_date": "01/10/2026",
+    "invoice_amount": null,
+    "invoice_currency": null,
+    "tax_amount": null,
+    "po_number": [
+      "M413401613"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "CENTERLINE",
+    "vendor_address": "1600 E. Fourth St. Suite 340 | Santa Ana, CA 92701",
+    "po_line_items": null,
+    "vat_amount": null,
+    "gl_account": null,
+    "bank_name": null,
+    "account_holder_name": null,
+    "banking_account_number": null,
+    "remit_to_address": null,
+    "bill_to_address": null,
+    "transaction_type": "debit"
+  },
+  "filename": "SAPS4_5100683503_US30_PFNAUS_2026_999935688.pdf",
+  "raw_response": {
+    "invoice_number": "543553",
+    "invoice_date": "01/10/2026",
+    "invoice_amount": null,
+    "invoice_currency": null,
+    "tax_amount": null,
+    "po_number": [
+      "M413401613"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "CENTERLINE",
+    "vendor_address": "1600 E. Fourth St. Suite 340 | Santa Ana, CA 92701",
+    "po_line_items": null
+  }
+}

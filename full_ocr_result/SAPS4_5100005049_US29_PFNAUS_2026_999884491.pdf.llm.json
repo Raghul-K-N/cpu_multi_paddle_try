@@ -1,0 +1,79 @@
+{
+  "invoice_data": {
+    "invoice_number": "600054",
+    "invoice_date": "01/06/2026",
+    "invoice_amount": "160.40",
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": "7.74",
+    "po_number": [
+      "23548852"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": "23.70",
+    "cost_center": null,
+    "vendor_name": "MILL SUPPLY, INC.",
+    "vendor_address": "19801 Miles Rd, Cleveland, OH 44128-4117",
+    "po_line_items": [
+      {
+        "description": "CENTER MECH. FOR K167A",
+        "quantity": 2.0,
+        "net_price": 43.77
+      },
+      {
+        "description": "CENTER MECH. W/INSIDE RELEASE",
+        "quantity": 1.0,
+        "net_price": 41.42
+      },
+      {
+        "description": "K-168-C",
+        "quantity": 1.0,
+        "net_price": 4553.0
+      }
+    ],
+    "vat_amount": null,
+    "gl_account": null,
+    "bank_name": null,
+    "account_holder_name": null,
+    "banking_account_number": null,
+    "remit_to_address": null,
+    "bill_to_address": null,
+    "transaction_type": "debit"
+  },
+  "filename": "SAPS4_5100005049_US29_PFNAUS_2026_999884491.pdf",
+  "raw_response": {
+    "invoice_number": "600054",
+    "invoice_date": "01/06/2026",
+    "invoice_amount": "160.40",
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": "7.74",
+    "po_number": [
+      "23548852"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": "23.70",
+    "cost_center": null,
+    "vendor_name": "MILL SUPPLY, INC.",
+    "vendor_address": "19801 Miles Rd, Cleveland, OH 44128-4117",
+    "po_line_items": [
+      {
+        "description": "CENTER MECH. FOR K167A",
+        "quantity": 2.0,
+        "net_price": 43.77
+      },
+      {
+        "description": "CENTER MECH. W/INSIDE RELEASE",
+        "quantity": 1.0,
+        "net_price": 41.42
+      },
+      {
+        "description": "K-168-C",
+        "quantity": 1.0,
+        "net_price": 4553.0
+      }
+    ]
+  }
+}

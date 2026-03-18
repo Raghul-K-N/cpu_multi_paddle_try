@@ -1,0 +1,47 @@
+{
+  "invoice_data": {
+    "invoice_number": "INV-FWS-32602",
+    "invoice_date": "2/3/2026",
+    "invoice_amount": null,
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": null,
+    "po_number": [
+      "4505132920"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "Fleetworthy Solutions Inc.",
+    "vendor_address": "Fleetworthy Solutions Inc., Lockbox MAC Y1372-045, 2005 Market Street, 5th Floor, Philadelphia, PA 19103-7042",
+    "po_line_items": null,
+    "vat_amount": null,
+    "gl_account": null,
+    "bank_name": null,
+    "account_holder_name": null,
+    "banking_account_number": null,
+    "remit_to_address": null,
+    "bill_to_address": null,
+    "transaction_type": "debit"
+  },
+  "filename": "SAPS4_5101354504_US29_PFNAUS_2026_999762570.pdf",
+  "raw_response": {
+    "invoice_number": "INV-FWS-32602",
+    "invoice_date": "2/3/2026",
+    "invoice_amount": "../../../../77700.00",
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": null,
+    "po_number": [
+      "4505132920"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "Fleetworthy Solutions Inc.",
+    "vendor_address": "Fleetworthy Solutions Inc., Lockbox MAC Y1372-045, 2005 Market Street, 5th Floor, Philadelphia, PA 19103-7042",
+    "po_line_items": null
+  }
+}

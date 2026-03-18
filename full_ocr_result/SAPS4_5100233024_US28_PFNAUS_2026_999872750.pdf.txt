@@ -1,0 +1,306 @@
+==================================<Page 1 - START>================================
+Standard Invoice
+Original tax invoice has been submitted electronically. This is a
+human readable representation (copy) of the original tax invoice.
+                                                                Invoice Number                                     980595276026
+                                                                (Supplier Reference No.)
+                                                                                             Thursday 12 Feb 2026 5:44 AM GMT-07:00
+                                                                Invoice Date
+                                                                Amount Due                                         $272.99 USD
+    Contact Information                                                       Shipping Information
+    Supplier
+                                 Customer                                 Ship From                     Ship To
+    Grainger                      Frito-Lay Inc.                                                            US-PL-TOPEKA-KS-FLI
+                                                                         Grainger
+    100 Grainger Pkwy                                                                                    CHARLES.ARD@PEPSICO.
+                                 c/o PEPSICO NASS                          11200 E. 210 HWY
+    Lake Forest                    ACCOUNTS PAYABLES
+                                                                          KANSAS CITY                  4236 SW KIRKLAWN AVE
+    IL                          PO BOX 1800
+                                                                         MO                          TOPEKA
+    Winst                        Winston Salem
+                                                                          64161                        KS
+    United States                  NC
+                                                                         United States                   66609
+                                 27105
+                                                                                                      United States
+                                 United States                                                           Phone: (785) 267-2600
+  Line Items                                                                                                    PO Date : 12 Feb 2026
+                                                        PO No. : M413554331
+  Line No.   PO Line No.                 Supplier Part No. /                                                    Unit Price         Subtotal
+                               Type                              Customer Part No.        Quantity
+                                      Description                                       (UOM)
+  1
+            1                 Material 786F37 / Class 2, Lime, Zipper,                          5 / (EA)           $4.41 USD      $22.05 USD
+                                      Mesh, Non-Contras
+  Line No.
+            PO Line No.          Type    Supplier Part No. /             Customer Part No.        Quantity            Unit Price         Subtotal
+                                      Description                                       (UOM)
+  2        2                 Material                                                                 $9.59 USD      $28.77 USD
+                                      53YK94 / U-Block Vest, Class2                          3 / (EA)
+                                      Yellow/Grn, XL
+  Line No.   PO Line No.         Type   Supplier Part No. I                                                    Unit Price         Subtotal
+                                                                Customer Part No.        Quantity
+                                      Description                                       (UOM)
+                                                                                                                    $198.84 USD
+  3        3                 Material 3LPH3 / Topical Antibiotic,0.5g/                          12 / (EA)          $16.57 USD
+                                      Packet,PK144
+                                                                             Amount Summary
+                                                                             Line item subtotal                          $249.66 USD
+                                                                             Gross amount                            $272.99 USD
+                                                                                                                    $272.99 USD
+                                                                             Net amount
+                                                                                                                     $23.33 USD
+                                                                             Total tax amount
+                                                                             Total withholding tax amount
+                                                                                                                    $272.99 USD
+                                                                             Amount Due
+    Additional Information
+    InvoiceSourceDocument
+   PurchaseOrder
+   InvoiceSubmissionMethod
+   cXML
+   Billing Information                                                         Remittance Information
+   Bill To                                                                 Remit To
+   Frito-Lay Inc.                                                            GRAINGER
+   c/o PEPSICO NASS                                                       DEPT. 811095447
+   ACCOUNTS PAYABLES                                                    KANSAS CITY
+   PO BOX 1800                                                            MO
+   Winston Salem                                                           64141-6267
+   NC                                                                   United States
+                                                                         Address ID: US1_10359
+   27105
+   United States                                                            Tax ID of Supplier
+   Address ID: US28                                                         36-1150280
+                                                                      Reference Documents
+                                                                      Original Supplier Order #: 1575956068
+==================================<Page 1 - END>================================
+==================================<Page 2 - START>================================
+ Appendix
+Line No.    PO Line No. Type
+                                                       Supplier Part No. / Description
+1         1         Material
+                                                       786F37 / Class 2, Lime, Zipper, Mesh, Non-Contras
+Additional Details:
+Supplier Part ID : 786F37
+Supplier Part Auxiliary ID : WWG786F37
+Line No.
+            PO Line No. Type                            Supplier Part No. / Description
+2
+           2         Material                          53YK94 / U-Block Vest, Class2 Yellow/Grn, XL
+Additional Details:
+Supplier Part ID : 53YK94
+Supplier Part Auxiliary ID : WWG53YK94
+Line No.
+            PO Line No. Type                            Supplier Part No. / Description
+3         3
+                       Material                         3LPH3 / Topical Antibiotic,0.5g/Packet,PK144
+Additional Details:
+Supplier Part ID : 3LPH3
+Supplier Part Auxiliary ID : WWG3LPH3
+PDF generated on Friday 13 Feb 2026 6:03 AM GMT-08:00
+==================================<Page 2 - END>================================
+==================================<Page 3 - START>================================
+  Standard Invoice
+  Original tax invoice has been submitted electronically. This is a
+  human readable representation (copy) of the original tax invoice.
+                                                                  Invoice Number                                     980595276026
+                                                                  (Supplier Reference No.)
+                                                                                                Thursday 12 Feb 2026 5:44 AM GMT-07:00
+                                                                  Invoice Date
+                                                                  Amount Due                                         $272.99 USD
+      Contact Information                                                       Shipping Information
+      Supplier
+                                   Customer                                 Ship From                     Ship To
+      Grainger                      Frito-Lay Inc.                                                            US-PL-TOPEKA-KS-FLI
+                                                                            Grainger
+      100 Grainger Pkwy                                                                                    CHARLES.ARD@PEPSICO.
+                                   c/o PEPSICO NASS                          11200 E. 210 HWY
+      Lake Forest                    ACCOUNTS PAYABLES
+                                                                            KANSAS CITY                  4236 SW KIRKLAWN AVE
+      IL                          PO BOX 1800
+                                                                           MO                          TOPEKA
+      Winst                        Winston Salem
+                                                                            64161                        KS
+      United States                  NC
+                                                                            United States                   66609
+                                   27105
+                                                                                                        United States
+                                   United States                                                           Phone: (785) 267-2600
+    Line Items                                                                                                    PO Date : 12 Feb 2026
+                                                          PO No. : M413554331
+    Line No.   PO Line No.                 Supplier Part No. /                                                    Unit Price         Subtotal
+                                 Type                              Customer Part No.        Quantity
+                                        Description                                       (UOM)
+    1
+              1                 Material 786F37 / Class 2, Lime, Zipper,                          5 / (EA)           $4.41 USD      $22.05 USD
+                                        Mesh, Non-Contras
+    Line No.
+              PO Line No.          Type    Supplier Part No. /             Customer Part No.        Quantity            Unit Price         Subtotal
+                                        Description                                       (UOM)
+    2        2                 Material                                                                 $9.59 USD      $28.77 USD
+                                        53YK94 / U-Block Vest, Class2                          3 / (EA)
+                                        Yellow/Grn, XL
+    Line No.   PO Line No.         Type   Supplier Part No. I                                                    Unit Price         Subtotal
+                                                                  Customer Part No.        Quantity
+                                        Description                                       (UOM)
+                                                                                                                      $198.84 USD
+    3        3                 Material 3LPH3 / Topical Antibiotic,0.5g/                          12 / (EA)          $16.57 USD
+                                         Packet,PK144
+                                                                               Amount Summary
+                                                                               Line item subtotal                          $249.66 USD
+                                                                               Gross amount                            $272.99 USD
+                                                                                                                      $272.99 USD
+                                                                               Net amount
+                                                                                                                       $23.33 USD
+                                                                               Total tax amount
+                                                                               Total withholding tax amount
+                                                                                                                      $272.99 USD
+                                                                               Amount Due
+      Additional Information
+      InvoiceSourceDocument
+      PurchaseOrder
+      InvoiceSubmissionMethod
+     cXML
+     Billing Information                                                         Remittance Information
+     Bill To                                                                 Remit To
+     Frito-Lay Inc.                                                            GRAINGER
+     c/o PEPSICO NASS                                                       DEPT. 811095447
+     ACCOUNTS PAYABLES                                                    KANSAS CITY
+     PO BOX 1800                                                            MO
+     Winston Salem                                                           64141-6267
+     NC                                                                   United States
+                                                                           Address ID: US1_10359
+     27105
+     United States                                                            Tax ID of Supplier
+     Address ID: US28                                                         36-1150280
+                                                                        Reference Documents
+                                                                        Original Supplier Order #: 1575956068
+==================================<Page 3 - END>================================
+==================================<Page 4 - START>================================
+ Appendix
+Line No.    PO Line No. Type
+                                                       Supplier Part No. / Description
+1         1         Material
+                                                       786F37 / Class 2, Lime, Zipper, Mesh, Non-Contras
+Additional Details:
+Supplier Part ID : 786F37
+Supplier Part Auxiliary ID : WWG786F37
+Line No.
+            PO Line No. Type                            Supplier Part No. / Description
+2
+           2         Material                          53YK94 / U-Block Vest, Class2 Yellow/Grn, XL
+Additional Details:
+Supplier Part ID : 53YK94
+Supplier Part Auxiliary ID : WWG53YK94
+Line No.
+            PO Line No. Type                            Supplier Part No. / Description
+3         3
+                       Material                         3LPH3 / Topical Antibiotic,0.5g/Packet,PK144
+Additional Details:
+Supplier Part ID : 3LPH3
+Supplier Part Auxiliary ID : WWG3LPH3
+PDF generated on Friday 13 Feb 2026 6:03 AM GMT-08:00
+==================================<Page 4 - END>================================
+==================================<Page 5 - START>================================
+  Standard Invoice
+  Original tax invoice has been submitted electronically. This is a
+  human readable representation (copy) of the original tax invoice.
+                                                                  Invoice Number                                     980595276026
+                                                                  (Supplier Reference No.)
+                                                                                                Thursday 12 Feb 2026 5:44 AM GMT-07:00
+                                                                  Invoice Date
+                                                                  Amount Due                                         $272.99 USD
+      Contact Information                                                       Shipping Information
+      Supplier
+                                   Customer                                 Ship From                     Ship To
+      Grainger                      Frito-Lay Inc.                                                            US-PL-TOPEKA-KS-FLI
+                                                                            Grainger
+      100 Grainger Pkwy                                                                                    CHARLES.ARD@PEPSICO.
+                                   c/o PEPSICO NASS                          11200 E. 210 HWY
+      Lake Forest                    ACCOUNTS PAYABLES
+                                                                            KANSAS CITY                  4236 SW KIRKLAWN AVE
+      IL                          PO BOX 1800
+                                                                           MO                          TOPEKA
+      Winst                        Winston Salem
+                                                                            64161                        KS
+      United States                  NC
+                                                                            United States                   66609
+                                   27105
+                                                                                                        United States
+                                   United States                                                           Phone: (785) 267-2600
+    Line Items                                                                                                    PO Date : 12 Feb 2026
+                                                          PO No. : M413554331
+    Line No.   PO Line No.                 Supplier Part No. /                                                    Unit Price         Subtotal
+                                 Type                              Customer Part No.        Quantity
+                                        Description                                       (UOM)
+    1
+              1                 Material 786F37 / Class 2, Lime, Zipper,                          5 / (EA)           $4.41 USD      $22.05 USD
+                                        Mesh, Non-Contras
+    Line No.
+              PO Line No.          Type    Supplier Part No. /             Customer Part No.        Quantity            Unit Price         Subtotal
+                                        Description                                       (UOM)
+    2        2                 Material                                                                 $9.59 USD      $28.77 USD
+                                        53YK94 / U-Block Vest, Class2                          3 / (EA)
+                                        Yellow/Grn, XL
+    Line No.   PO Line No.         Type   Supplier Part No. I                                                    Unit Price         Subtotal
+                                                                  Customer Part No.        Quantity
+                                        Description                                       (UOM)
+                                                                                                                      $198.84 USD
+    3        3                 Material 3LPH3 / Topical Antibiotic,0.5g/                          12 / (EA)          $16.57 USD
+                                         Packet,PK144
+                                                                               Amount Summary
+                                                                               Line item subtotal                          $249.66 USD
+                                                                               Gross amount                            $272.99 USD
+                                                                                                                      $272.99 USD
+                                                                               Net amount
+                                                                                                                       $23.33 USD
+                                                                               Total tax amount
+                                                                               Total withholding tax amount
+                                                                                                                      $272.99 USD
+                                                                               Amount Due
+      Additional Information
+      InvoiceSourceDocument
+      PurchaseOrder
+      InvoiceSubmissionMethod
+     cXML
+     Billing Information                                                         Remittance Information
+     Bill To                                                                 Remit To
+     Frito-Lay Inc.                                                            GRAINGER
+     c/o PEPSICO NASS                                                       DEPT. 811095447
+     ACCOUNTS PAYABLES                                                    KANSAS CITY
+     PO BOX 1800                                                            MO
+     Winston Salem                                                           64141-6267
+     NC                                                                   United States
+                                                                           Address ID: US1_10359
+     27105
+     United States                                                            Tax ID of Supplier
+     Address ID: US28                                                         36-1150280
+                                                                        Reference Documents
+                                                                        Original Supplier Order #: 1575956068
+==================================<Page 5 - END>================================
+==================================<Page 6 - START>================================
+ Appendix
+Line No.    PO Line No. Type
+                                                       Supplier Part No. / Description
+1         1         Material
+                                                       786F37 / Class 2, Lime, Zipper, Mesh, Non-Contras
+Additional Details:
+Supplier Part ID : 786F37
+Supplier Part Auxiliary ID : WWG786F37
+Line No.
+            PO Line No. Type                            Supplier Part No. / Description
+2
+           2         Material                          53YK94 / U-Block Vest, Class2 Yellow/Grn, XL
+Additional Details:
+Supplier Part ID : 53YK94
+Supplier Part Auxiliary ID : WWG53YK94
+Line No.
+            PO Line No. Type                            Supplier Part No. / Description
+3         3
+                       Material                         3LPH3 / Topical Antibiotic,0.5g/Packet,PK144
+Additional Details:
+Supplier Part ID : 3LPH3
+Supplier Part Auxiliary ID : WWG3LPH3
+PDF generated on Friday 13 Feb 2026 6:03 AM GMT-08:00
+==================================<Page 6 - END>================================

@@ -1,0 +1,1014 @@
+==================================<Page 1 - START>================================
+         Standard Invoice
+         Original tax invoice has been submitted electronically. This is a
+         human readable representation (copy) of the original tax invoice.
+                                                                           Invoice Number                                      AB0101019631
+                                                                           (Supplier Reference No.)
+                                                                           Invoice Date                Wednesday 11 Feb. 2026 11:40 a.m. GMT-06:00
+                                                                           Shipping Date               Wednesday 11 Feb. 2026 11:40 a.m. GMT-06:00
+                                                                           Amount Due                                          $672.98 CAD
+            Contact Information
+            Supplier                                                                 Shipping Information
+                                           Customer                                  Ship From                      Ship To
+            MOTION INDUSTRIES
+                                           FRITO LAY CANADA
+                                                                                     MOTION INDUSTRIES             FRITO LAY CANADA
+            P.O.BOX 9165                  A DIV. OF PEPSI-COLA
+             STATION M                                                              P.O. BOX 9165                  5904 52 AVENUE
+                                           CANADA LTD                                STATION M                     TABER
+            CALGARY
+                                           5904-52 AVENUE                             CALGARY                      AB
+            AB
+                                          TABER                                    AB                           T1G 1W8
+            T2P 5E1
+                                          AB                                       T2P 5E1                        Canada
+            Canada
+                                          T1G 1X3                                   Canada                        Address ID: AB01
+            Address ID: 20-010-9119           Canada
+                                                                                    Address ID: 20-010-9119
+                                          Address ID: AB01
+          Line Items
+                                                                  PO No. : M413528654                                       PO Date : 30 Jan. 2026
+          Line No.    PO Line No.          Type    Supplier Part No. /
+                                                                           Customer Part No.         Quantity             Unit Price         Subtotal
+                                                Description                                        (UOM)
+          1         1
+                                        Material 01951987 / KQ2H03-00A FITTING,                        5 / (EA)            $1.38 CAD       $6.90 CAD
+                                                STR UNIONSHOP RM
+                  Taxes, Allowances and Charges
+                  Category
+                                             Applicable To         Details                 Base Amount          Rate %       Amount
+                   Sales Tax                  Line                                      $6.90 CAD
+                                                                                                           5.00%        $0.34 CAD
+         Line No.    PO Line No.          Type    Supplier Part No. /              Customer Part No.         Quantity
+                                                                                                                    Unit Price          Subtotal
+                                               Description                                         (UOM)
+         3         3                  Material
+                                             01635397 / KQ2H11-34AS 1/8NPT                        5 / (EA)            $2.04 CAD       $10.20 CAD
+                                               X 40976 MALE CONNSHOP RM
+                 Taxes, Allowances and Charges
+                 Category                   Applicable To
+                                                                Details                  Base Amount          Rate %        Amount
+                  Sales Tax                  Line                                       $10.20 CAD
+                                                                                                          5.00%        $0.51 CAD
+        Line No.    PO Line No.          Type    Supplier Part No. /              Customer Part No.         Quantity
+                                                                                                                    Unit Price          Subtotal
+                                              Description                                         (UOM)
+        5         5                  Material 01993008 / KQ2LE06-00A
+                                                                                                10 / (EA)            $5.44 CAD       $54.40 CAD
+                                              FITTING, BULKHEAD CONN
+                                              ELSHOP RM
+                Taxes, Allowances and Charges
+                Category                   Applicable To         Details
+                                                                                       Base Amount          Rate %        Amount
+                 Sales Tax                   Line                                       $54.40 CAD
+                                                                                                           5.00%        $2.72 CAD
+       Line No.    PO Line No.          Type    Supplier Part No. /                                    Quantity
+                                                                          Customer Part No.                            Unit Price         Subtotal
+                                              Description                                          (UOM)
+       6         6                  Material  02040833 / KQ2L03-32A
+                                                                                                10 / (EA)            $1.50 CAD       $15.00 CAD
+                                              FITTINGSHOP RM
+               Taxes, Allowances and Charges
+               Category                    Applicable To
+                                                               Details                  Base Amount          Rate %        Amount
+                Sales Tax                   Line
+                                                                                      $15.00 CAD           5.00%        $0.75 CAD
+     Line No.    PO Line No.           Type    Supplier Part No. /
+                                                                          Customer Part No.         Quantity             Unit Price         Subtotal
+                                             Description
+                                                                                                (UOM)
+     7          7                   Material
+                                           01952022 / KQ2L07-00A FITTING,                         10 / (EA)            $2.05 CAD       $20.50 CAD
+                                             UNION ELBOWSHOP RM
+             Taxes, Allowances and Charges
+             Category                    Applicable To          Details
+                                                                                      Base Amount          Rate %        Amount
+              Sales Tax
+                                          Line                                         $20.50 CAD           5.00%         $1.02 CAD
+   Line No.    PO Line No.
+                                    Type    Supplier Part No. /              Customer Part No.         Quantity             Unit Price         Subtotal
+                                            Description                                           (UOM)
+   9          9                    Material  05787742 /KQ2S07-34AS
+                                                                                                10 / (EA)            $1.66 CAD       $16.60 CAD
+                                            FITTING, HEX HD MALESHOP RM
+           Taxes, Allowances and Charges
+            Category                    Applicable To
+                                                              Details                  Base Amount          Rate %        Amount
+             Sales Tax                    Line
+                                                                                      $16.60 CAD           5.00%         $0.83 CAD
+  Line No.    PO Line No.           Type    Supplier Part No. /
+                                                                         Customer Part No.         Quantity             Unit Price         Subtotal
+                                            Description                                           (UOM)
+ 11         11                   Material  01994688 / KQ2U03-07A FITTING.                         10 / (EA)
+                                                                                                                   $3.57 CAD       $35.70 CAD
+                                            BRANCH YSHOP RM
+          Taxes, Allowances and Charges
+           Category                     Applicable To          Details
+                                                                                      Base Amount          Rate %        Amount
+            Sales Tax                    Line                                         $35.70 CAD           5.00%
+                                                                                                                        $1.79 CAD
+Line No.    PO Line No.           Type    Supplier Part No. /
+                                                                         Customer Part No.         Quantity             Unit Price          Subtotal
+                                           Description
+                                                                                                (UOM)
+12         12                   Material 01150450 / KQ2U07-00A                                 10 / (EA)            $2.66 CAD
+                                                                                                                                  $26.60 CAD
+                                            FITTINGSHOP RM
+          Taxes, Allowances and Charges
+          Category                    Applicable To          Details                  Base Amount          Rate %        Amount
+           Sales Tax                    Line
+                                                                                      $26.60 CAD           5.00%         $1.33 CAD
+Line No.    PO Line No.
+                                  Type    Supplier Part No. /              Customer Part No.         Quantity             Unit Price          Subtotal
+                                           Description                                           (UOM)
+13         13                   MaterialI 01994855 / KQ2U07-11A FITTING,                                            $4.85 CAD
+                                                                                                10 / (EA)                           $48.50 CAD
+                                           BRANCH YSHOP RM
+         Taxes, Allowances and Charges
+          Category                     Applicable To          Details                   Base Amount          Rate %        Amount
+          Sales Tax                    Line                                         $48.50 CAD           5.00%        $2.43 CAD
+==================================<Page 1 - END>================================
+==================================<Page 2 - START>================================
+               PO Line No.            Type    Supplier Part No. /               Customer Part No.                              Unit Price          Subtotal
+                                                                                                   Quantity
+                                             Description
+                                                                                                   (UOM)
+  14          14                   Material
+                                             01994957 / KQ2U09-11A FITTING,                          5 / (EA)             $4.37 CAD       $21.85 CAD
+                                             BRANCH YSHOP RM
+            Taxes, Allowances and Charges
+             Category                     Applicable To          Details
+                                                                                         Base Amount          Rate %        Amount
+             Sales Tax                    Line                                          $21.85 CAD           5.00%         $1.09 CAD
+  Line No.
+               PO Line No.           Type    Supplier Part No. /               Customer Part No.         Quantity             Unit Price          Subtotal
+                                             Description                                            (UOM)
+  15          15                   Material 01992563 / KQ2L07-U01A
+                                                                                                   10 / (EA)            $1.66 CAD       $16.60 CAD
+                                             FITTING, UNIFITSHOP RM
+            Taxes, Allowances and Charges
+            Category                     Applicable To          Details                   Base Amount          Rate %        Amount
+             Sales Tax                    Line                                          $16.60 CAD            5.00%         $0.83 CAD
+  Line No.
+               PO Line No.           Type    Supplier Part No. /               Customer Part No.         Quantity              Unit Price           Subtotal
+                                             Description                                            (UOM)
+  16
+               16                   Material 02570923 / CMF38 SINTERED                             10 / (EA)            $6.34 CAD       $63.40 CAD
+                                             BRZ MUFFLERSHOP RM
+            Taxes, Allowances and Charges
+            Category                     Applicable To          Details                   Base Amount          Rate %        Amount
+             Sales Tax                    Line                                          $63.40 CAD                          $3.17 CAD
+                                                                                                             5.00%
+  Line No.    PO Line No.           Type    Supplier Part No. /               Customer Part No.         Quantity              Unit Price
+                                                                                                                                          Subtotal
+                                             Description                                            UOM)
+  17          17                   Material 07573500 / AS1002F-04A - SPEED                         10 / (EA)           $12.07 CAD      $120.70 CAD
+                                             CONTROLLERSHOP RM
+            Taxes, Allowances and Charges
+            Category                     Applicable To          Details                  Base Amount          Rate %        Amount
+             Sales Tax                    Line                                          $120.70 CAD           5.00%         $6.04 CAD
+  Line No.    PO Line No.           Type    Supplier Part No. /               Customer Part No.         Quantity             Unit Price          Subtotal
+                                             Description
+                                                                                                  (UOM)
+              18                   Material  14448741 / 62104 304 - SS
+  18                                                                                             8 / (EA)             $4.98 CAD       $39.84 CAD
+                                             3/4&quot; - 90 ELBOWSHOP RM
+            Taxes, Allowances and Charges
+                                          Applicable To
+            Category                                          Details                  Base Amount          Rate %        Amount
+             Sales Tax                    Line
+                                                                                        $39.84 CAD            5.00%         $1.99 CAD
+               PO Line No.           Type    Supplier Part No. /
+  Line No.                                                                Customer Part No.         Quantity             Unit Price          Subtotal
+                                             Description
+                                                                                                  (UOM)
+              19                   MaterialI 14448756 / 62184 304 - SS                               3 / (EA)                             $19.83 CAD
+  19                                                                                                                $6.61 CAD
+                                             3/4&quot; - 45 ELBOWSHOP RM
+            Taxes, Allowances and Charges
+            Category                     Applicable To          Details                  Base Amount          Rate %        Amount
+             Sales Tax                    Line                                         $19.83 CAD           5.00%         $0.99 CAD
+              PO Line No.           Type    Supplier Part No. /               Customer Part No.         Quantity             Unit Price          Subtotal
+  Line No.                                   Description
+                                                                                                  (UOM)
+                                     Material  14448762 / 62254 304 - SS                               3 / (EA)             $7.31 CAD
+  20         20                                                                                                                    $21.93 CAD
+                                             3/4&quot; - TEESHOP RM
+           Taxes, Allowances and Charges
+                                          Applicable To          Details                  Base Amount
+            Category                                                                                        Rate %        Amount
+             Sales Tax                    Line                                         $21.93 CAD           5.00%         $1.10 CAD
+  Line No.     PO Line No.            Type    Supplier Part No. /               Customer Part No.         Quantity             Unit Price          Subtotal
+                                             Description                                           (UOM)
+  21         21                    Material  14448769 / 62414B 304 -                                 10 / (EA)            $4.72 CAD       $47.20 CAD
+                                             SS 3/4&quot; MACHINED
+                                             COUPLINGSHOP RM
+           Taxes, Allowances and Charges
+                                                               Details                  Base Amount          Rate %        Amount
+            Category                     Applicable To
+                                          Line                                         $47.20 CAD           5.00%        $2.36 CAD
+            Sales Tax
+                                    Type    Supplier Part No. /              Customer Part No.          Quantity             Unit Price          Subtotal
+  Line No.    PO Line No.
+                                             Description                                           (UOM)
+  22         22                    Material  14448793 / 62508 304 - SS                               3 / (EA)             $3.59 CAD       $10.77 CAD
+                                             3/4&quot: X 3/8&quot; HEX
+                                             BUSHINGSHOP RM
+           Taxes, Allowances and Charges
+                                                               Details                  Base Amount          Rate %        Amount
+            Category                      Applicable To
+                                          Line                                         $10.77 CAD           5.00%         $0.54 CAD
+             Sales Tax
+              PO Line No.            Type    Supplier Part No. /               Customer Part No.         Quantity             Unit Price          Subtotal
+  Line No.                                                                                        (UOM)
+                                             Description
+                                             14448841 / 48064 SCH 40 - SS                            3 / (EA)             $2.89 CAD
+  23         23                    Material                                                                                          $8.67 CAD
+                                             1/2&quot; X 3&quot; NIPPLESHOP
+                                             RM
+           Taxes, Allowances and Charges
+                                          Applicable To          Details                  Base Amount          Rate %        Amount
+           Category
+                                                                                                           5.00%        $0.43 CAD
+            Sales Tax                     Line                                         $8.67 CAD
+                                                                          Customer Part No.         Quantity             Unit Price
+              PO Line No.            Type    Supplier Part No. /                                                                           Subtotal
+ Line No.                                   Description                                           (UOM)
+                                    Material 14448848 / 48080 SCH 40                               4 / (EA)             $2.11 CAD       $8.44 CAD
+              24
+ 24                                        - SS 3/4&quot; X CLOSE
+                                             (1-3/8&quot;)SHOP RM
+           Taxes, Allowances and Charges
+                                                                                      Base Amount          Rate %        Amount
+                                          Applicable To          Details
+           Category
+                                                                                      $8.44 CAD            5.00%        $0.42 CAD
+            Sales Tax                    Line
+                                            Supplier Part No. /              Customer Part No.         Quantity             Unit Price         Subtotal
+              PO Line No.           Type
+ Line No.                                   Description                                           (UOM)
+                                                                                                7 / (EA)            $2.22 CAD      $15.54 CAD
+                                    Material  14448849 / 48081 SCH 40 -
+              25                            SS 3/4&quot; X 1-1/2&quot;
+25
+                                            NIPPLESHOP RM
+          Taxes, Allowances and Charges                                                 Base Amount          Rate %       Amount
+                                                              Details
+                                          Applicable To
+           Category                                                                  $15.54 CAD           5.00%        $0.78 CAD
+                                          Line
+            Sales Tax
+==================================<Page 2 - END>================================
+==================================<Page 3 - START>================================
+     Line No.    PO Line No.          Type    Supplier Part No. /
+                                                                          Customer Part No.        Quantity            Unit Price         Subtotal
+                                             Description
+                                                                                                 (UOM)
+     26        26                  Material 14448866 / 49107 SCH 40 - SS
+                                                                                                 1 / (EA)           $11.76 CAD      $11.76 CAD
+                                              1&quot; X -1/2&quot; NIPPLESHOP
+                                              RM
+              Taxes, Allowances and Charges
+                                           Applicable To         Details
+               Category                                                               Base Amount
+                                                                                                          Rate %       Amount
+                Sales Tax                  Line
+                                                                                       $11.76 CAD          5.00%        $0.59 CAD
+          Tax Summary
+          Category                Details                           Base Amount
+                                                                                              Rate %          Amount
+          SALES TAX                                               $640.93 CAD                5.00%
+                                                                                                              $32.05 CAD
+                                                                                       Amount Summary
+                                                                                       Line item subtotal                           $640.93 CAD
+                                                                                       Gross amount                             $672.98 CAD
+                                                                                       Net amount
+                                                                                                                               $672.98 CAD
+                                                                                       Total tax amount
+                                                                                                                                $32.05 CAD
+                                                                                       Total withholding tax amount
+                                                                                       Amount Due                              $672.98 CAD
+          Additional Information
+           totalNumberOfLineltems
+           22
+                                                                                   Remittance Information
+           Billing Information
+                                                                                   Remit To
+          Bill To
+                                                                                   MOTION INDUSTRIES
+          FRITO LAY CANADA                                                        P.O. BOX 9165
+          A DIV. OF PEPSI-COLA                                                      STATION M
+          CANADA LTD
+                                                                                   CALGARY
+           5904-52 AVENUE
+                                                                                  AB
+          TABER
+                                                                                  T2P 5E1
+          AB
+                                                                                  Canada
+          T1G 1X3
+                                                                                   Address ID: CA1_1091
+          Canada
+                                                                                   Fax: 951-1144
+          Address ID: AB01
+==================================<Page 3 - END>================================
+==================================<Page 4 - START>================================
+         Line No.
+                     PO Line No. Type                            Supplier Part No. / Description
+          1
+                     1
+                                 Material                          01951987 / KQ2H03-00A FITTING, STR UNIONSHOP RM
+          Additional Details:
+          Classification Domain : UNSPSC
+          Classification Code : 31250000
+          Supplier Part ID : 01951987
+         Supplier Part Auxiliary ID : Quote AB01-0000894131
+         Line No.
+                     PO Line No. Type
+                                                                 Supplier Part No. / Description
+          3
+                     3         Material
+                                                                 01635397 / KQ2H11-34AS 1/8NPT X 40976 MALE CONNSHOP RM
+          Additional Details:
+          Classification Domain : UNSPSC
+          Classification Code : 31250000
+          Supplier Part ID : 01635397
+          Supplier Part Auxiliary ID : Quote AB01-0000894131
+          Line No.
+                      PO Line No. Type                            Supplier Part No. / Description
+           5
+                      5         Material                         01993008 / KQ2LE06-00A FITTING, BULKHEAD CONN ELSHOP RM
+          Additional Details:
+           Classification Domain : UNSPSC
+           Classification Code : 31250000
+           Supplier Part ID : 01993008
+           Supplier Part Auxiliary ID : Quote AB01-0000894131
+           Line No.    PO Line No. Type
+                                                                 Supplier Part No. / Description
+           6         6         Material
+                                                                 02040833 / KQ2L03-32A FITTINGSHOP RM
+           Additional Details:
+           Classification Domain : UNSPSC
+           Classification Code : 31250000
+           Supplier Part ID : 02040833
+           Supplier Part Auxiliary ID : Quote AB01-0000894131
+           Line No.
+                      PO Line No. Type                            Supplier Part No. / Description
+           7         7         Material
+                                                                 01952022 / KQ2L07-00A FITTING, UNION ELBOWSHOP RM
+           Additional Details:
+           Classification Domain : UNSPSC
+           Classification Code : 31250000
+           Supplier Part ID : 01952022
+           Supplier Part Auxiliary ID : Quote AB01-0000894131
+           Line No.    PO Line No. Type
+                                                                Supplier Part No. / Description
+           9         9         Material
+                                                                05787742 / KQ2S07-34AS FITTING, HEX HD MALESHOP RM
+           Additional Details:
+           Classification Domain : UNSPSC
+           Classification Code : 31250000
+           Supplier Part ID : 05787742
+           Supplier Part Auxiliary ID : Quote AB01-0000894131
+           Line No.    PO Line No. Type
+                                                                Supplier Part No. / Description
+           11        11        Material
+                                                                01994688 / KQ2U03-07A FITTING, BRANCH YSHOP RM
+           Additional Details:
+           Classification Domain : UNSPSC
+           Classification Code : 31250000
+           Supplier Part ID : 01994688
+           Supplier Part Auxiliary ID : Quote AB01-0000894131
+           Line No.    PO Line No. Type                            Supplier Part No. / Description
+                                Material
+           12        12                                        01150450 / KQ2U07-00A FITTINGSHOP RM
+           Additional Details:
+           Classification Domain : UNSPSC
+           Classification Code : 31250000
+           Supplier Part ID : 01150450
+           Supplier Part Auxiliary ID : Quote AB01-0000894131
+           Line No.    PO Line No. Type                           Supplier Part No. / Description
+           13        13        Material                         01994855 / KQ2U07-11A FITTING, BRANCH YSHOP RM
+           Additional Details:
+           Classification Domain : UNSPSC
+           Classification Code : 31250000
+           Supplier Part ID : 01994855
+           Supplier Part Auxiliary ID : Quote AB01-0000894131
+           Line No.    PO Line No. Type                           Supplier Part No. / Description
+           14        14        Material                         01994957 / KQ2U09-11A FITTING, BRANCH YSHOP RM
+           Additional Details:
+           Classification Domain : UNSPSC
+           Classification Code : 31250000
+           Supplier Part ID : 01994957
+           Supplier Part Auxiliary ID : Quote AB01-0000894131
+           Line No.    PO Line No. Type                           Supplier Part No. / Description
+           15
+                      15        Material                         01992563 / KQ2L07-U01A FITTING, UNIFITSHOP RM
+           Additional Details:
+           Classification Domain : UNSPSC
+           Classification Code : 31250000
+           Supplier Part ID : 01992563
+           Supplier Part Auxiliary ID : Quote AB01-0000894131
+           Line No.
+                     PO Line No. Type                           Supplier Part No. / Description
+           16        16        Material                         02570923 / CMF38 SINTERED BRZ MUFFLERSHOP RM
+           Additional Details:
+           Classification Domain : UNSPSC
+           Classification Code : 27121700
+           Supplier Part ID : 02570923
+           Supplier Part Auxiliary ID : Quote AB01-0000894131
+           Line No.
+                     PO Line No. Type                           Supplier Part No. / Description
+           17        17        Material
+                                                               07573500 / AS1002F-04A - SPEED CONTROLLERSHOP RM
+           Additional Details:
+           Classification Domain : UNSPSC
+           Classification Code : 40141603
+           Supplier Part ID : 07573500
+           Supplier Part Auxiliary ID : Quote AB01-0000894131
+                                                               Supplier Part No. / Description
+          Line No.    PO Line No. Type
+                     18        Material                         14448741 / 62104 304 - SS 3/4&quot; - 90 ELBOWSHOP RM
+          18
+          Additional Details:
+          Classification Domain : UNSPSC
+          Classification Code : 27121700
+          Supplier Part ID : 14448741
+          Supplier Part Auxiliary ID : Quote AB01-0000894131
+==================================<Page 4 - END>================================
+==================================<Page 5 - START>================================
+                                                                Supplier Part No. / Description
+        19        19
+                               Material
+                                                                14448756 / 62184 304 - SS 3/4&quot; - 45 ELBOWSHOP RM
+        Additional Details:
+        Classification Domain : UNSPSC
+        Classification Code : 27121700
+        Supplier Part ID : 14448756
+        Supplier Part Auxiliary ID : Quote AB01-0000894131
+        Line No.    PO Line No. Type
+                                                                Supplier Part No. / Description
+        20        20
+                               Material                          14448762 / 62254 304 - SS 3/4&quot; - TEESHOP RM
+        Additional Details:
+        Classification Domain : UNSPSC
+        Classification Code : 27121700
+        Supplier Part ID : 14448762
+        Supplier Part Auxiliary ID : Quote AB01-0000894131
+         Line No.    PO Line No. Type                            Supplier Part No. / Description
+         21        21         Material                         14448769 / 62414B 304 - SS 3/4&quot; MACHINED COUPLINGSHOP RM
+         Additional Details:
+         Classification Domain : UNSPSC
+         Classification Code : 27121700
+         Supplier Part ID : 14448769
+         Supplier Part Auxiliary ID : Quote AB01-0000894131
+         Line No.    PO Line No. Type                            Supplier Part No. / Description
+         22                   Material                         14448793 / 62508 304 - SS 3/4&quot; X 3/8&quot; HEX BUSHINGSHOP RM
+         Additional Details:
+          Classification Domain : UNSPSC
+         Classification Code : 27121700
+          Supplier Part ID : 14448793
+         Supplier Part Auxiliary ID : Quote AB01-0000894131
+         Line No.    PO Line No. Type                            Supplier Part No. / Description
+         23        23        Material                          14448841 / 48064 SCH 40 - SS 1/2&quot; X 3&quot; NIPPLESHOP RM
+         Additional Details:
+         Classification Domain : UNSPSC
+         Classification Code : 27121700
+         Supplier Part ID : 14448841
+         Supplier Part Auxiliary ID : Quote AB01-0000894131
+         Line No.
+                    PO Line No. Type                            Supplier Part No. / Description
+         24
+                    24        Material                          14448848 / 48080 SCH 40 - SS 3/4&quot; X CLOSE (1-3/8&quot;)SHOP RM
+         Additional Details:
+          Classification Domain : UNSPSC
+          Classification Code : 27121700
+          Supplier Part ID : 14448848
+          Supplier Part Auxiliary ID : Quote AB01-0000894131
+          Line No.
+                    PO Line No. Type                           Supplier Part No. / Description
+          25
+                    25        Material                         14448849 / 48081 SCH 40 - SS 3/4&quot; X 1-1/2&quot; NIPPLESHOP RM
+          Additional Details:
+          Classification Domain : UNSPSC
+          Classification Code : 27121700
+          Supplier Part ID : 14448849
+         Supplier Part Auxiliary ID : Quote AB01-0000894131
+         Line No.    PO Line No. Type
+                                                               Supplier Part No. / Description
+         26        26        Material                         14448866 / 49107 SCH 40 - SS 1&quot; X -1/2&quot; NIPPLESHOP RM
+         Additional Details:
+          Classification Domain : UNSPSC
+          Classification Code : 27121700
+          Supplier Part ID : 14448866
+          Supplier Part Auxiliary ID : Quote AB01-0000894131
+         PDF generated on Wednesday 11 Feb. 2026 9:40 a.m. GMT-08:00
+==================================<Page 5 - END>================================
+==================================<Page 6 - START>================================
+         Standard Invoice
+         Original tax invoice has been submitted electronically. This is a
+         human readable representation (copy) of the original tax invoice.
+                                                                           Invoice Number                                      AB0101019631
+                                                                           (Supplier Reference No.)
+                                                                           Invoice Date                Wednesday 11 Feb. 2026 11:40 a.m. GMT-06:00
+                                                                           Shipping Date               Wednesday 11 Feb. 2026 11:40 a.m. GMT-06:00
+                                                                           Amount Due                                          $672.98 CAD
+            Contact Information
+            Supplier                                                                 Shipping Information
+                                           Customer                                  Ship From                      Ship To
+            MOTION INDUSTRIES
+                                           FRITO LAY CANADA
+                                                                                     MOTION INDUSTRIES             FRITO LAY CANADA
+            P.O.BOX 9165                  A DIV. OF PEPSI-COLA
+             STATION M                                                              P.O. BOX 9165                  5904 52 AVENUE
+                                           CANADA LTD                                STATION M                     TABER
+            CALGARY
+                                           5904-52 AVENUE                             CALGARY                      AB
+            AB
+                                          TABER                                    AB                           T1G 1W8
+            T2P 5E1
+                                          AB                                       T2P 5E1                        Canada
+            Canada
+                                          T1G 1X3                                   Canada                        Address ID: AB01
+            Address ID: 20-010-9119           Canada
+                                                                                    Address ID: 20-010-9119
+                                          Address ID: AB01
+          Line Items
+                                                                  PO No. : M413528654                                       PO Date : 30 Jan. 2026
+          Line No.    PO Line No.          Type    Supplier Part No. /
+                                                                           Customer Part No.         Quantity             Unit Price         Subtotal
+                                                Description                                        (UOM)
+          1         1
+                                        Material 01951987 / KQ2H03-00A FITTING,                        5 / (EA)            $1.38 CAD       $6.90 CAD
+                                                STR UNIONSHOP RM
+                  Taxes, Allowances and Charges
+                  Category
+                                             Applicable To         Details                 Base Amount          Rate %       Amount
+                   Sales Tax                  Line                                      $6.90 CAD
+                                                                                                           5.00%        $0.34 CAD
+         Line No.    PO Line No.          Type    Supplier Part No. /              Customer Part No.         Quantity
+                                                                                                                    Unit Price          Subtotal
+                                               Description                                         (UOM)
+         3         3                  Material
+                                             01635397 / KQ2H11-34AS 1/8NPT                        5 / (EA)            $2.04 CAD       $10.20 CAD
+                                               X 40976 MALE CONNSHOP RM
+                 Taxes, Allowances and Charges
+                 Category                   Applicable To
+                                                                Details                  Base Amount          Rate %        Amount
+                  Sales Tax                  Line                                       $10.20 CAD
+                                                                                                          5.00%        $0.51 CAD
+        Line No.    PO Line No.          Type    Supplier Part No. /              Customer Part No.         Quantity
+                                                                                                                    Unit Price          Subtotal
+                                              Description                                         (UOM)
+        5         5                  Material 01993008 / KQ2LE06-00A
+                                                                                                10 / (EA)            $5.44 CAD       $54.40 CAD
+                                              FITTING, BULKHEAD CONN
+                                              ELSHOP RM
+                Taxes, Allowances and Charges
+                Category                   Applicable To         Details
+                                                                                       Base Amount          Rate %        Amount
+                 Sales Tax                   Line                                       $54.40 CAD
+                                                                                                           5.00%        $2.72 CAD
+       Line No.    PO Line No.          Type    Supplier Part No. /                                    Quantity
+                                                                          Customer Part No.                            Unit Price         Subtotal
+                                              Description                                          (UOM)
+       6         6                  Material  02040833 / KQ2L03-32A
+                                                                                                10 / (EA)            $1.50 CAD       $15.00 CAD
+                                              FITTINGSHOP RM
+               Taxes, Allowances and Charges
+               Category                    Applicable To
+                                                               Details                  Base Amount          Rate %        Amount
+                Sales Tax                   Line
+                                                                                      $15.00 CAD           5.00%        $0.75 CAD
+     Line No.    PO Line No.           Type    Supplier Part No. /
+                                                                          Customer Part No.         Quantity             Unit Price         Subtotal
+                                             Description
+                                                                                                (UOM)
+     7          7                   Material
+                                           01952022 / KQ2L07-00A FITTING,                         10 / (EA)            $2.05 CAD       $20.50 CAD
+                                             UNION ELBOWSHOP RM
+             Taxes, Allowances and Charges
+             Category                    Applicable To          Details
+                                                                                      Base Amount          Rate %        Amount
+              Sales Tax
+                                          Line                                         $20.50 CAD           5.00%         $1.02 CAD
+   Line No.    PO Line No.
+                                    Type    Supplier Part No. /              Customer Part No.         Quantity             Unit Price         Subtotal
+                                            Description                                           (UOM)
+   9          9                    Material  05787742 /KQ2S07-34AS
+                                                                                                10 / (EA)            $1.66 CAD       $16.60 CAD
+                                            FITTING, HEX HD MALESHOP RM
+           Taxes, Allowances and Charges
+            Category                    Applicable To
+                                                              Details                  Base Amount          Rate %        Amount
+             Sales Tax                    Line
+                                                                                      $16.60 CAD           5.00%         $0.83 CAD
+  Line No.    PO Line No.           Type    Supplier Part No. /
+                                                                         Customer Part No.         Quantity             Unit Price         Subtotal
+                                            Description                                           (UOM)
+ 11         11                   Material  01994688 / KQ2U03-07A FITTING.                         10 / (EA)
+                                                                                                                   $3.57 CAD       $35.70 CAD
+                                            BRANCH YSHOP RM
+          Taxes, Allowances and Charges
+           Category                     Applicable To          Details
+                                                                                      Base Amount          Rate %        Amount
+            Sales Tax                    Line                                         $35.70 CAD           5.00%
+                                                                                                                        $1.79 CAD
+Line No.    PO Line No.           Type    Supplier Part No. /
+                                                                         Customer Part No.         Quantity             Unit Price          Subtotal
+                                           Description
+                                                                                                (UOM)
+12         12                   Material 01150450 / KQ2U07-00A                                 10 / (EA)            $2.66 CAD
+                                                                                                                                  $26.60 CAD
+                                            FITTINGSHOP RM
+          Taxes, Allowances and Charges
+          Category                    Applicable To          Details                  Base Amount          Rate %        Amount
+           Sales Tax                    Line
+                                                                                      $26.60 CAD           5.00%         $1.33 CAD
+Line No.    PO Line No.
+                                  Type    Supplier Part No. /              Customer Part No.         Quantity             Unit Price          Subtotal
+                                           Description                                           (UOM)
+13         13                   MaterialI 01994855 / KQ2U07-11A FITTING,                                            $4.85 CAD
+                                                                                                10 / (EA)                           $48.50 CAD
+                                           BRANCH YSHOP RM
+         Taxes, Allowances and Charges
+          Category                     Applicable To          Details                   Base Amount          Rate %        Amount
+          Sales Tax                    Line                                         $48.50 CAD           5.00%        $2.43 CAD
+==================================<Page 6 - END>================================
+==================================<Page 7 - START>================================
+               PO Line No.            Type    Supplier Part No. /               Customer Part No.                              Unit Price          Subtotal
+                                                                                                   Quantity
+                                             Description
+                                                                                                   (UOM)
+  14          14                   Material
+                                             01994957 / KQ2U09-11A FITTING,                          5 / (EA)             $4.37 CAD       $21.85 CAD
+                                             BRANCH YSHOP RM
+            Taxes, Allowances and Charges
+             Category                     Applicable To          Details
+                                                                                         Base Amount          Rate %        Amount
+             Sales Tax                    Line                                          $21.85 CAD           5.00%         $1.09 CAD
+  Line No.
+               PO Line No.           Type    Supplier Part No. /               Customer Part No.         Quantity             Unit Price          Subtotal
+                                             Description                                            (UOM)
+  15          15                   Material 01992563 / KQ2L07-U01A
+                                                                                                   10 / (EA)            $1.66 CAD       $16.60 CAD
+                                             FITTING, UNIFITSHOP RM
+            Taxes, Allowances and Charges
+            Category                     Applicable To          Details                   Base Amount          Rate %        Amount
+             Sales Tax                    Line                                          $16.60 CAD            5.00%         $0.83 CAD
+  Line No.
+               PO Line No.           Type    Supplier Part No. /               Customer Part No.         Quantity              Unit Price           Subtotal
+                                             Description                                            (UOM)
+  16
+               16                   Material 02570923 / CMF38 SINTERED                             10 / (EA)            $6.34 CAD       $63.40 CAD
+                                             BRZ MUFFLERSHOP RM
+            Taxes, Allowances and Charges
+            Category                     Applicable To          Details                   Base Amount          Rate %        Amount
+             Sales Tax                    Line                                          $63.40 CAD                          $3.17 CAD
+                                                                                                             5.00%
+  Line No.    PO Line No.           Type    Supplier Part No. /               Customer Part No.         Quantity              Unit Price
+                                                                                                                                          Subtotal
+                                             Description                                            UOM)
+  17          17                   Material 07573500 / AS1002F-04A - SPEED                         10 / (EA)           $12.07 CAD      $120.70 CAD
+                                             CONTROLLERSHOP RM
+            Taxes, Allowances and Charges
+            Category                     Applicable To          Details                  Base Amount          Rate %        Amount
+             Sales Tax                    Line                                          $120.70 CAD           5.00%         $6.04 CAD
+  Line No.    PO Line No.           Type    Supplier Part No. /               Customer Part No.         Quantity             Unit Price          Subtotal
+                                             Description
+                                                                                                  (UOM)
+              18                   Material  14448741 / 62104 304 - SS
+  18                                                                                             8 / (EA)             $4.98 CAD       $39.84 CAD
+                                             3/4&quot; - 90 ELBOWSHOP RM
+            Taxes, Allowances and Charges
+                                          Applicable To
+            Category                                          Details                  Base Amount          Rate %        Amount
+             Sales Tax                    Line
+                                                                                        $39.84 CAD            5.00%         $1.99 CAD
+               PO Line No.           Type    Supplier Part No. /
+  Line No.                                                                Customer Part No.         Quantity             Unit Price          Subtotal
+                                             Description
+                                                                                                  (UOM)
+              19                   MaterialI 14448756 / 62184 304 - SS                               3 / (EA)                             $19.83 CAD
+  19                                                                                                                $6.61 CAD
+                                             3/4&quot; - 45 ELBOWSHOP RM
+            Taxes, Allowances and Charges
+            Category                     Applicable To          Details                  Base Amount          Rate %        Amount
+             Sales Tax                    Line                                         $19.83 CAD           5.00%         $0.99 CAD
+              PO Line No.           Type    Supplier Part No. /               Customer Part No.         Quantity             Unit Price          Subtotal
+  Line No.                                   Description
+                                                                                                  (UOM)
+                                     Material  14448762 / 62254 304 - SS                               3 / (EA)             $7.31 CAD
+  20         20                                                                                                                    $21.93 CAD
+                                             3/4&quot; - TEESHOP RM
+           Taxes, Allowances and Charges
+                                          Applicable To          Details                  Base Amount
+            Category                                                                                        Rate %        Amount
+             Sales Tax                    Line                                         $21.93 CAD           5.00%         $1.10 CAD
+  Line No.     PO Line No.            Type    Supplier Part No. /               Customer Part No.         Quantity             Unit Price          Subtotal
+                                             Description                                           (UOM)
+  21         21                    Material  14448769 / 62414B 304 -                                 10 / (EA)            $4.72 CAD       $47.20 CAD
+                                             SS 3/4&quot; MACHINED
+                                             COUPLINGSHOP RM
+           Taxes, Allowances and Charges
+                                                               Details                  Base Amount          Rate %        Amount
+            Category                     Applicable To
+                                          Line                                         $47.20 CAD           5.00%        $2.36 CAD
+            Sales Tax
+                                    Type    Supplier Part No. /              Customer Part No.          Quantity             Unit Price          Subtotal
+  Line No.    PO Line No.
+                                             Description                                           (UOM)
+  22         22                    Material  14448793 / 62508 304 - SS                               3 / (EA)             $3.59 CAD       $10.77 CAD
+                                             3/4&quot: X 3/8&quot; HEX
+                                             BUSHINGSHOP RM
+           Taxes, Allowances and Charges
+                                                               Details                  Base Amount          Rate %        Amount
+            Category                      Applicable To
+                                          Line                                         $10.77 CAD           5.00%         $0.54 CAD
+             Sales Tax
+              PO Line No.            Type    Supplier Part No. /               Customer Part No.         Quantity             Unit Price          Subtotal
+  Line No.                                                                                        (UOM)
+                                             Description
+                                             14448841 / 48064 SCH 40 - SS                            3 / (EA)             $2.89 CAD
+  23         23                    Material                                                                                          $8.67 CAD
+                                             1/2&quot; X 3&quot; NIPPLESHOP
+                                             RM
+           Taxes, Allowances and Charges
+                                          Applicable To          Details                  Base Amount          Rate %        Amount
+           Category
+                                                                                                           5.00%        $0.43 CAD
+            Sales Tax                     Line                                         $8.67 CAD
+                                                                          Customer Part No.         Quantity             Unit Price
+              PO Line No.            Type    Supplier Part No. /                                                                           Subtotal
+ Line No.                                   Description                                           (UOM)
+                                    Material 14448848 / 48080 SCH 40                               4 / (EA)             $2.11 CAD       $8.44 CAD
+              24
+ 24                                        - SS 3/4&quot; X CLOSE
+                                             (1-3/8&quot;)SHOP RM
+           Taxes, Allowances and Charges
+                                                                                      Base Amount          Rate %        Amount
+                                          Applicable To          Details
+           Category
+                                                                                      $8.44 CAD            5.00%        $0.42 CAD
+            Sales Tax                    Line
+                                            Supplier Part No. /              Customer Part No.         Quantity             Unit Price         Subtotal
+              PO Line No.           Type
+ Line No.                                   Description                                           (UOM)
+                                                                                                7 / (EA)            $2.22 CAD      $15.54 CAD
+                                    Material  14448849 / 48081 SCH 40 -
+              25                            SS 3/4&quot; X 1-1/2&quot;
+25
+                                            NIPPLESHOP RM
+          Taxes, Allowances and Charges                                                 Base Amount          Rate %       Amount
+                                                              Details
+                                          Applicable To
+           Category                                                                  $15.54 CAD           5.00%        $0.78 CAD
+                                          Line
+            Sales Tax
+==================================<Page 7 - END>================================
+==================================<Page 8 - START>================================
+     Line No.    PO Line No.          Type    Supplier Part No. /
+                                                                          Customer Part No.        Quantity            Unit Price         Subtotal
+                                             Description
+                                                                                                 (UOM)
+     26        26                  Material 14448866 / 49107 SCH 40 - SS
+                                                                                                 1 / (EA)           $11.76 CAD      $11.76 CAD
+                                              1&quot; X -1/2&quot; NIPPLESHOP
+                                              RM
+              Taxes, Allowances and Charges
+                                           Applicable To         Details
+               Category                                                               Base Amount
+                                                                                                          Rate %       Amount
+                Sales Tax                  Line
+                                                                                       $11.76 CAD          5.00%        $0.59 CAD
+          Tax Summary
+          Category                Details                           Base Amount
+                                                                                              Rate %          Amount
+          SALES TAX                                               $640.93 CAD                5.00%
+                                                                                                              $32.05 CAD
+                                                                                       Amount Summary
+                                                                                       Line item subtotal                           $640.93 CAD
+                                                                                       Gross amount                             $672.98 CAD
+                                                                                       Net amount
+                                                                                                                               $672.98 CAD
+                                                                                       Total tax amount
+                                                                                                                                $32.05 CAD
+                                                                                       Total withholding tax amount
+                                                                                       Amount Due                              $672.98 CAD
+          Additional Information
+           totalNumberOfLineltems
+           22
+                                                                                   Remittance Information
+           Billing Information
+                                                                                   Remit To
+          Bill To
+                                                                                   MOTION INDUSTRIES
+          FRITO LAY CANADA                                                        P.O. BOX 9165
+          A DIV. OF PEPSI-COLA                                                      STATION M
+          CANADA LTD
+                                                                                   CALGARY
+           5904-52 AVENUE
+                                                                                  AB
+          TABER
+                                                                                  T2P 5E1
+          AB
+                                                                                  Canada
+          T1G 1X3
+                                                                                   Address ID: CA1_1091
+          Canada
+                                                                                   Fax: 951-1144
+          Address ID: AB01
+==================================<Page 8 - END>================================
+==================================<Page 9 - START>================================
+         Line No.
+                     PO Line No. Type                            Supplier Part No. / Description
+          1
+                     1
+                                 Material                          01951987 / KQ2H03-00A FITTING, STR UNIONSHOP RM
+          Additional Details:
+          Classification Domain : UNSPSC
+          Classification Code : 31250000
+          Supplier Part ID : 01951987
+         Supplier Part Auxiliary ID : Quote AB01-0000894131
+         Line No.
+                     PO Line No. Type
+                                                                 Supplier Part No. / Description
+          3
+                     3         Material
+                                                                 01635397 / KQ2H11-34AS 1/8NPT X 40976 MALE CONNSHOP RM
+          Additional Details:
+          Classification Domain : UNSPSC
+          Classification Code : 31250000
+          Supplier Part ID : 01635397
+          Supplier Part Auxiliary ID : Quote AB01-0000894131
+          Line No.
+                      PO Line No. Type                            Supplier Part No. / Description
+           5
+                      5         Material                         01993008 / KQ2LE06-00A FITTING, BULKHEAD CONN ELSHOP RM
+          Additional Details:
+           Classification Domain : UNSPSC
+           Classification Code : 31250000
+           Supplier Part ID : 01993008
+           Supplier Part Auxiliary ID : Quote AB01-0000894131
+           Line No.    PO Line No. Type
+                                                                 Supplier Part No. / Description
+           6         6         Material
+                                                                 02040833 / KQ2L03-32A FITTINGSHOP RM
+           Additional Details:
+           Classification Domain : UNSPSC
+           Classification Code : 31250000
+           Supplier Part ID : 02040833
+           Supplier Part Auxiliary ID : Quote AB01-0000894131
+           Line No.
+                      PO Line No. Type                            Supplier Part No. / Description
+           7         7         Material
+                                                                 01952022 / KQ2L07-00A FITTING, UNION ELBOWSHOP RM
+           Additional Details:
+           Classification Domain : UNSPSC
+           Classification Code : 31250000
+           Supplier Part ID : 01952022
+           Supplier Part Auxiliary ID : Quote AB01-0000894131
+           Line No.    PO Line No. Type
+                                                                Supplier Part No. / Description
+           9         9         Material
+                                                                05787742 / KQ2S07-34AS FITTING, HEX HD MALESHOP RM
+           Additional Details:
+           Classification Domain : UNSPSC
+           Classification Code : 31250000
+           Supplier Part ID : 05787742
+           Supplier Part Auxiliary ID : Quote AB01-0000894131
+           Line No.    PO Line No. Type
+                                                                Supplier Part No. / Description
+           11        11        Material
+                                                                01994688 / KQ2U03-07A FITTING, BRANCH YSHOP RM
+           Additional Details:
+           Classification Domain : UNSPSC
+           Classification Code : 31250000
+           Supplier Part ID : 01994688
+           Supplier Part Auxiliary ID : Quote AB01-0000894131
+           Line No.    PO Line No. Type                            Supplier Part No. / Description
+                                Material
+           12        12                                        01150450 / KQ2U07-00A FITTINGSHOP RM
+           Additional Details:
+           Classification Domain : UNSPSC
+           Classification Code : 31250000
+           Supplier Part ID : 01150450
+           Supplier Part Auxiliary ID : Quote AB01-0000894131
+           Line No.    PO Line No. Type                           Supplier Part No. / Description
+           13        13        Material                         01994855 / KQ2U07-11A FITTING, BRANCH YSHOP RM
+           Additional Details:
+           Classification Domain : UNSPSC
+           Classification Code : 31250000
+           Supplier Part ID : 01994855
+           Supplier Part Auxiliary ID : Quote AB01-0000894131
+           Line No.    PO Line No. Type                           Supplier Part No. / Description
+           14        14        Material                         01994957 / KQ2U09-11A FITTING, BRANCH YSHOP RM
+           Additional Details:
+           Classification Domain : UNSPSC
+           Classification Code : 31250000
+           Supplier Part ID : 01994957
+           Supplier Part Auxiliary ID : Quote AB01-0000894131
+           Line No.    PO Line No. Type                           Supplier Part No. / Description
+           15
+                      15        Material                         01992563 / KQ2L07-U01A FITTING, UNIFITSHOP RM
+           Additional Details:
+           Classification Domain : UNSPSC
+           Classification Code : 31250000
+           Supplier Part ID : 01992563
+           Supplier Part Auxiliary ID : Quote AB01-0000894131
+           Line No.
+                     PO Line No. Type                           Supplier Part No. / Description
+           16        16        Material                         02570923 / CMF38 SINTERED BRZ MUFFLERSHOP RM
+           Additional Details:
+           Classification Domain : UNSPSC
+           Classification Code : 27121700
+           Supplier Part ID : 02570923
+           Supplier Part Auxiliary ID : Quote AB01-0000894131
+           Line No.
+                     PO Line No. Type                           Supplier Part No. / Description
+           17        17        Material
+                                                               07573500 / AS1002F-04A - SPEED CONTROLLERSHOP RM
+           Additional Details:
+           Classification Domain : UNSPSC
+           Classification Code : 40141603
+           Supplier Part ID : 07573500
+           Supplier Part Auxiliary ID : Quote AB01-0000894131
+                                                               Supplier Part No. / Description
+          Line No.    PO Line No. Type
+                     18        Material                         14448741 / 62104 304 - SS 3/4&quot; - 90 ELBOWSHOP RM
+          18
+          Additional Details:
+          Classification Domain : UNSPSC
+          Classification Code : 27121700
+          Supplier Part ID : 14448741
+          Supplier Part Auxiliary ID : Quote AB01-0000894131
+==================================<Page 9 - END>================================
+==================================<Page 10 - START>================================
+                                                                Supplier Part No. / Description
+        19        19
+                               Material
+                                                                14448756 / 62184 304 - SS 3/4&quot; - 45 ELBOWSHOP RM
+        Additional Details:
+        Classification Domain : UNSPSC
+        Classification Code : 27121700
+        Supplier Part ID : 14448756
+        Supplier Part Auxiliary ID : Quote AB01-0000894131
+        Line No.    PO Line No. Type
+                                                                Supplier Part No. / Description
+        20        20
+                               Material                          14448762 / 62254 304 - SS 3/4&quot; - TEESHOP RM
+        Additional Details:
+        Classification Domain : UNSPSC
+        Classification Code : 27121700
+        Supplier Part ID : 14448762
+        Supplier Part Auxiliary ID : Quote AB01-0000894131
+         Line No.    PO Line No. Type                            Supplier Part No. / Description
+         21        21         Material                         14448769 / 62414B 304 - SS 3/4&quot; MACHINED COUPLINGSHOP RM
+         Additional Details:
+         Classification Domain : UNSPSC
+         Classification Code : 27121700
+         Supplier Part ID : 14448769
+         Supplier Part Auxiliary ID : Quote AB01-0000894131
+         Line No.    PO Line No. Type                            Supplier Part No. / Description
+         22                   Material                         14448793 / 62508 304 - SS 3/4&quot; X 3/8&quot; HEX BUSHINGSHOP RM
+         Additional Details:
+          Classification Domain : UNSPSC
+         Classification Code : 27121700
+          Supplier Part ID : 14448793
+         Supplier Part Auxiliary ID : Quote AB01-0000894131
+         Line No.    PO Line No. Type                            Supplier Part No. / Description
+         23        23        Material                          14448841 / 48064 SCH 40 - SS 1/2&quot; X 3&quot; NIPPLESHOP RM
+         Additional Details:
+         Classification Domain : UNSPSC
+         Classification Code : 27121700
+         Supplier Part ID : 14448841
+         Supplier Part Auxiliary ID : Quote AB01-0000894131
+         Line No.
+                    PO Line No. Type                            Supplier Part No. / Description
+         24
+                    24        Material                          14448848 / 48080 SCH 40 - SS 3/4&quot; X CLOSE (1-3/8&quot;)SHOP RM
+         Additional Details:
+          Classification Domain : UNSPSC
+          Classification Code : 27121700
+          Supplier Part ID : 14448848
+          Supplier Part Auxiliary ID : Quote AB01-0000894131
+          Line No.
+                    PO Line No. Type                           Supplier Part No. / Description
+          25
+                    25        Material                         14448849 / 48081 SCH 40 - SS 3/4&quot; X 1-1/2&quot; NIPPLESHOP RM
+          Additional Details:
+          Classification Domain : UNSPSC
+          Classification Code : 27121700
+          Supplier Part ID : 14448849
+         Supplier Part Auxiliary ID : Quote AB01-0000894131
+         Line No.    PO Line No. Type
+                                                               Supplier Part No. / Description
+         26        26        Material                         14448866 / 49107 SCH 40 - SS 1&quot; X -1/2&quot; NIPPLESHOP RM
+         Additional Details:
+          Classification Domain : UNSPSC
+          Classification Code : 27121700
+          Supplier Part ID : 14448866
+          Supplier Part Auxiliary ID : Quote AB01-0000894131
+         PDF generated on Wednesday 11 Feb. 2026 9:40 a.m. GMT-08:00
+==================================<Page 10 - END>================================

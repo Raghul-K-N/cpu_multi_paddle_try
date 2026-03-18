@@ -1,0 +1,59 @@
+{
+  "invoice_data": {
+    "invoice_number": "0090314637",
+    "invoice_date": "2/4/2026",
+    "invoice_amount": "64.20",
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": "4.20",
+    "po_number": [
+      "M413110375-5"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "Woodstream Corporation",
+    "vendor_address": "69 North Locust St Lititz, PA 17543",
+    "po_line_items": [
+      {
+        "description": "INFRASTRUCTURE FEE",
+        "quantity": 1.0,
+        "net_price": 60.0
+      }
+    ],
+    "vat_amount": null,
+    "gl_account": null,
+    "bank_name": null,
+    "account_holder_name": null,
+    "banking_account_number": null,
+    "remit_to_address": null,
+    "bill_to_address": null,
+    "transaction_type": "debit"
+  },
+  "filename": "SAPS4_5101194529_US29_PFNAUS_2026_999935535.pdf",
+  "raw_response": {
+    "invoice_number": "0090314637",
+    "invoice_date": "2/4/2026",
+    "invoice_amount": "64.20",
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": "4.20",
+    "po_number": [
+      "M413110375-5"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "Woodstream Corporation",
+    "vendor_address": "69 North Locust St Lititz, PA 17543",
+    "po_line_items": [
+      {
+        "description": "INFRASTRUCTURE FEE",
+        "quantity": 1.0,
+        "net_price": 60.0
+      }
+    ]
+  }
+}

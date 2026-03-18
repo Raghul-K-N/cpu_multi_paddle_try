@@ -1,0 +1,59 @@
+{
+  "invoice_data": {
+    "invoice_number": "453538133001S",
+    "invoice_date": "Wednesday 11 Feb 2026 8:45 PM GMT+05:30",
+    "invoice_amount": "195.06",
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": "11.47",
+    "po_number": [
+      "M413432858"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "Odp Business Solutions, LLC",
+    "vendor_address": "6600 N Military Trl, Boca Raton, Florida 33496-2434, United States, Address ID: US28",
+    "po_line_items": [
+      {
+        "description": "8360150 / ODP - Crane Ultra-Premium True HEPA Air Purifier, 500 Sg. Ft. Coverage, 18-3/4\" x 9-1/2\": Item #8360150",
+        "quantity": 1.0,
+        "net_price": 183.59
+      }
+    ],
+    "vat_amount": null,
+    "gl_account": null,
+    "bank_name": null,
+    "account_holder_name": null,
+    "banking_account_number": null,
+    "remit_to_address": null,
+    "bill_to_address": null,
+    "transaction_type": "debit"
+  },
+  "filename": "SAPS4_5101990000_US28_PFNAUS_2026_999706611.pdf",
+  "raw_response": {
+    "invoice_number": "453538133001S",
+    "invoice_date": "Wednesday 11 Feb 2026 8:45 PM GMT+05:30",
+    "invoice_amount": "195.06",
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": "11.47",
+    "po_number": [
+      "M413432858"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "Odp Business Solutions, LLC",
+    "vendor_address": "6600 N Military Trl, Boca Raton, Florida 33496-2434, United States, Address ID: US28",
+    "po_line_items": [
+      {
+        "description": "8360150 / ODP - Crane Ultra-Premium True HEPA Air Purifier, 500 Sg. Ft. Coverage, 18-3/4\" x 9-1/2\": Item #8360150",
+        "quantity": 1.0,
+        "net_price": 183.59
+      }
+    ]
+  }
+}

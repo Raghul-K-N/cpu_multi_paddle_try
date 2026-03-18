@@ -1,0 +1,39 @@
+{
+  "invoice_data": {
+    "invoice_number": "150 6TH AVE SW",
+    "invoice_date": "19-12-2025",
+    "invoice_amount": null,
+    "invoice_currency": null,
+    "tax_amount": null,
+    "po_number": null,
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "Suncor",
+    "vendor_address": "PO BOX 2844, 150 6TH AVE SW, CALGARY AB T2P 3E3, CANADA",
+    "po_line_items": null,
+    "vat_amount": null,
+    "gl_account": null,
+    "bank_name": null,
+    "account_holder_name": null,
+    "banking_account_number": null,
+    "remit_to_address": null,
+    "bill_to_address": null,
+    "transaction_type": "debit"
+  },
+  "filename": "SAPS4_5100072014_CA11_PFNACA_2026_304672211.pdf",
+  "raw_response": {
+    "invoice_number": "150 6TH AVE SW",
+    "invoice_date": "19-12-2025",
+    "invoice_amount": null,
+    "invoice_currency": null,
+    "tax_amount": null,
+    "po_number": null,
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "Suncor",
+    "vendor_address": "PO BOX 2844, 150 6TH AVE SW, CALGARY AB T2P 3E3, CANADA",
+    "po_line_items": null
+  }
+}

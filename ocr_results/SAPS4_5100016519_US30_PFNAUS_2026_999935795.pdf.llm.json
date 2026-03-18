@@ -1,0 +1,47 @@
+{
+  "invoice_data": {
+    "invoice_number": "3070643067",
+    "invoice_date": "02/12/2026",
+    "invoice_amount": null,
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": "5.31",
+    "po_number": [
+      "M413423041"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": "0.00",
+    "cost_center": null,
+    "vendor_name": "vestis",
+    "vendor_address": "PO BOX 731676, DALLAS TX 75373-1676",
+    "po_line_items": null,
+    "vat_amount": null,
+    "gl_account": null,
+    "bank_name": null,
+    "account_holder_name": null,
+    "banking_account_number": null,
+    "remit_to_address": null,
+    "bill_to_address": null,
+    "transaction_type": "debit"
+  },
+  "filename": "SAPS4_5100016519_US30_PFNAUS_2026_999935795.pdf",
+  "raw_response": {
+    "invoice_number": "3070643067",
+    "invoice_date": "02/12/2026",
+    "invoice_amount": "../../../../78.47",
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": "5.31",
+    "po_number": [
+      "M413423041"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": "0.00",
+    "cost_center": null,
+    "vendor_name": "vestis",
+    "vendor_address": "PO BOX 731676, DALLAS TX 75373-1676",
+    "po_line_items": null
+  }
+}

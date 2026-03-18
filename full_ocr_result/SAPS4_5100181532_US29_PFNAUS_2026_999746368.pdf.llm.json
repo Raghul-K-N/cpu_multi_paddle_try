@@ -1,0 +1,59 @@
+{
+  "invoice_data": {
+    "invoice_number": "1003723448",
+    "invoice_date": "Friday 26 Dec 2025 12:00 PM GMT-05:00",
+    "invoice_amount": "1,353.63",
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": "116.03",
+    "po_number": [
+      "M413512104"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "Waste Management National Accounts Inc",
+    "vendor_address": "700 Anderson Hill Rd., 1 Griffin Rd N, Suite 4C, Windsor, CT 06095-1512, United States",
+    "po_line_items": [
+      {
+        "description": "PSI000177 / PSI000177 -4000 HWY 1 N FORREST CITY, AR 72335",
+        "quantity": 1237.6,
+        "net_price": 1.0
+      }
+    ],
+    "vat_amount": null,
+    "gl_account": null,
+    "bank_name": null,
+    "account_holder_name": null,
+    "banking_account_number": null,
+    "remit_to_address": null,
+    "bill_to_address": null,
+    "transaction_type": "debit"
+  },
+  "filename": "SAPS4_5100181532_US29_PFNAUS_2026_999746368.pdf",
+  "raw_response": {
+    "invoice_number": "1003723448",
+    "invoice_date": "Friday 26 Dec 2025 12:00 PM GMT-05:00",
+    "invoice_amount": "1,353.63",
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": "116.03",
+    "po_number": [
+      "M413512104"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "Waste Management National Accounts Inc",
+    "vendor_address": "700 Anderson Hill Rd., 1 Griffin Rd N, Suite 4C, Windsor, CT 06095-1512, United States",
+    "po_line_items": [
+      {
+        "description": "PSI000177 / PSI000177 -4000 HWY 1 N FORREST CITY, AR 72335",
+        "quantity": 1237.6,
+        "net_price": 1.0
+      }
+    ]
+  }
+}

@@ -1,0 +1,47 @@
+{
+  "invoice_data": {
+    "invoice_number": "53773871",
+    "invoice_date": "02-06-26",
+    "invoice_amount": null,
+    "invoice_currency": [
+      "CAD"
+    ],
+    "tax_amount": "38.96",
+    "po_number": [
+      "4505008192"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "Johnson Controls Fire Protection LP",
+    "vendor_address": "139 Manitou Rd SE, CALGARY,AB T2G 4C2",
+    "po_line_items": null,
+    "vat_amount": null,
+    "gl_account": null,
+    "bank_name": null,
+    "account_holder_name": null,
+    "banking_account_number": null,
+    "remit_to_address": null,
+    "bill_to_address": null,
+    "transaction_type": "debit"
+  },
+  "filename": "SAPS4_5100004507_CA02_PBNACA_2026_328638253.pdf",
+  "raw_response": {
+    "invoice_number": "53773871",
+    "invoice_date": "02-06-26",
+    "invoice_amount": "../../../818.18",
+    "invoice_currency": [
+      "CAD"
+    ],
+    "tax_amount": "38.96",
+    "po_number": [
+      "4505008192"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "Johnson Controls Fire Protection LP",
+    "vendor_address": "139 Manitou Rd SE, CALGARY,AB T2G 4C2",
+    "po_line_items": null
+  }
+}

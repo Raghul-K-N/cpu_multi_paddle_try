@@ -1,0 +1,69 @@
+{
+  "invoice_data": {
+    "invoice_number": "9004195331",
+    "invoice_date": "01/30/2026",
+    "invoice_amount": "2,420.46",
+    "invoice_currency": [
+      "CAD"
+    ],
+    "tax_amount": "278.46",
+    "po_number": [
+      "4504420827"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "Schawk Canada Inc.",
+    "vendor_address": "1620 Tech Avenue, Mississauga ON L4W 5P4, Canada",
+    "po_line_items": [
+      {
+        "description": "OT on Separations",
+        "quantity": null,
+        "net_price": null
+      },
+      {
+        "description": "OT on Mech Art",
+        "quantity": null,
+        "net_price": null
+      }
+    ],
+    "vat_amount": null,
+    "gl_account": null,
+    "bank_name": null,
+    "account_holder_name": null,
+    "banking_account_number": null,
+    "remit_to_address": null,
+    "bill_to_address": null,
+    "transaction_type": "debit"
+  },
+  "filename": "SAPS4_5100012004_CA11_PFNACA_2026_304658823.pdf",
+  "raw_response": {
+    "invoice_number": "9004195331",
+    "invoice_date": "01/30/2026",
+    "invoice_amount": "2,420.46",
+    "invoice_currency": [
+      "CAD"
+    ],
+    "tax_amount": "278.46",
+    "po_number": [
+      "4504420827"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "Schawk Canada Inc.",
+    "vendor_address": "1620 Tech Avenue, Mississauga ON L4W 5P4, Canada",
+    "po_line_items": [
+      {
+        "description": "OT on Separations",
+        "quantity": null,
+        "net_price": null
+      },
+      {
+        "description": "OT on Mech Art",
+        "quantity": null,
+        "net_price": null
+      }
+    ]
+  }
+}

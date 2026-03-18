@@ -1,0 +1,109 @@
+{
+  "invoice_data": {
+    "invoice_number": "5860538929",
+    "invoice_date": "02/11/2026",
+    "invoice_amount": "66.76",
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": null,
+    "po_number": [
+      "M413144988"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": "0.00",
+    "cost_center": null,
+    "vendor_name": "VESTIS",
+    "vendor_address": "1190 SPRECKELS RD., MANTECA CA 95336",
+    "po_line_items": [
+      {
+        "description": "CE0102BLAK DUST MOP HANDLE",
+        "quantity": 3.117,
+        "net_price": 9.35
+      },
+      {
+        "description": "DM0001DKGY MAT NYLON/RUBBER 3X10",
+        "quantity": 3.0,
+        "net_price": 3.117
+      },
+      {
+        "description": "DM0001DKGY MAT NYLON/RUBBER 3X4",
+        "quantity": 2.0,
+        "net_price": 1.244
+      },
+      {
+        "description": "DM0001REDD MAT NYLON/RUBBER 10",
+        "quantity": 10.0,
+        "net_price": 1.777
+      },
+      {
+        "description": "DM0002MISC MAT SAFETY SLOGAN 3X5",
+        "quantity": 2.0,
+        "net_price": 27.8
+      },
+      {
+        "description": "DP0002REDD DUST MOP ENVELOPE 36",
+        "quantity": 50.0,
+        "net_price": 0.556
+      }
+    ],
+    "vat_amount": null,
+    "gl_account": null,
+    "bank_name": null,
+    "account_holder_name": null,
+    "banking_account_number": null,
+    "remit_to_address": null,
+    "bill_to_address": null,
+    "transaction_type": "debit"
+  },
+  "filename": "SAPS4_5100008067_US29_PFNAUS_2026_999934841.pdf",
+  "raw_response": {
+    "invoice_number": "5860538929",
+    "invoice_date": "02/11/2026",
+    "invoice_amount": "66.76",
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": null,
+    "po_number": [
+      "M413144988"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": "0.00",
+    "cost_center": null,
+    "vendor_name": "VESTIS",
+    "vendor_address": "1190 SPRECKELS RD., MANTECA CA 95336",
+    "po_line_items": [
+      {
+        "description": "CE0102BLAK DUST MOP HANDLE",
+        "quantity": 3.117,
+        "net_price": 9.35
+      },
+      {
+        "description": "DM0001DKGY MAT NYLON/RUBBER 3X10",
+        "quantity": 3.0,
+        "net_price": 3.117
+      },
+      {
+        "description": "DM0001DKGY MAT NYLON/RUBBER 3X4",
+        "quantity": 2.0,
+        "net_price": 1.244
+      },
+      {
+        "description": "DM0001REDD MAT NYLON/RUBBER 10",
+        "quantity": 10.0,
+        "net_price": 1.777
+      },
+      {
+        "description": "DM0002MISC MAT SAFETY SLOGAN 3X5",
+        "quantity": 2.0,
+        "net_price": 27.8
+      },
+      {
+        "description": "DP0002REDD DUST MOP ENVELOPE 36",
+        "quantity": 50.0,
+        "net_price": 0.556
+      }
+    ]
+  }
+}

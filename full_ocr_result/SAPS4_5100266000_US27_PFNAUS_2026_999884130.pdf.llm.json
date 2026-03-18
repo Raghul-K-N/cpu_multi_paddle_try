@@ -1,0 +1,43 @@
+{
+  "invoice_data": {
+    "invoice_number": "INV10217",
+    "invoice_date": "9 February 2026",
+    "invoice_amount": null,
+    "invoice_currency": null,
+    "tax_amount": null,
+    "po_number": [
+      "4504467116"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "seymourpowell",
+    "vendor_address": "the factory, 265 merton road, london, SW18 5JS, united kingdom",
+    "po_line_items": null,
+    "vat_amount": null,
+    "gl_account": null,
+    "bank_name": null,
+    "account_holder_name": null,
+    "banking_account_number": null,
+    "remit_to_address": null,
+    "bill_to_address": null,
+    "transaction_type": "debit"
+  },
+  "filename": "SAPS4_5100266000_US27_PFNAUS_2026_999884130.pdf",
+  "raw_response": {
+    "invoice_number": "INV10217",
+    "invoice_date": "9 February 2026",
+    "invoice_amount": null,
+    "invoice_currency": null,
+    "tax_amount": null,
+    "po_number": [
+      "4504467116"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "seymourpowell",
+    "vendor_address": "the factory, 265 merton road, london, SW18 5JS, united kingdom",
+    "po_line_items": null
+  }
+}

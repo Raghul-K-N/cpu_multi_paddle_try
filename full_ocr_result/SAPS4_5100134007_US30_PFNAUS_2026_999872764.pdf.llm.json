@@ -1,0 +1,99 @@
+{
+  "invoice_data": {
+    "invoice_number": "PHXN19607",
+    "invoice_date": "02/04/2026",
+    "invoice_amount": "991.67",
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": "6.45",
+    "po_number": [
+      "M413096467"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "Mckinney Trailer Rentals",
+    "vendor_address": "2601 Saturn St. Suite 110, Brea, CA 92821, United States",
+    "po_line_items": [
+      {
+        "description": "Roadside Assistance Fee",
+        "quantity": 1.0,
+        "net_price": 55.0
+      },
+      {
+        "description": "Afterhours service call to 9535 Archibald Ave Rancho Cucamonga, CA 91730",
+        "quantity": 3.0,
+        "net_price": 228.0
+      },
+      {
+        "description": "Inspected mud flaps- found no issues when air is applied and airbags air up",
+        "quantity": 1.0,
+        "net_price": 163.0
+      },
+      {
+        "description": "Fuel Surcharge",
+        "quantity": 1.0,
+        "net_price": 61.42
+      },
+      {
+        "description": "Miscellaneous Shop Supplies",
+        "quantity": 1.0,
+        "net_price": 21.8
+      }
+    ],
+    "vat_amount": null,
+    "gl_account": null,
+    "bank_name": null,
+    "account_holder_name": null,
+    "banking_account_number": null,
+    "remit_to_address": null,
+    "bill_to_address": null,
+    "transaction_type": "debit"
+  },
+  "filename": "SAPS4_5100134007_US30_PFNAUS_2026_999872764.pdf",
+  "raw_response": {
+    "invoice_number": "PHXN19607",
+    "invoice_date": "02/04/2026",
+    "invoice_amount": "991.67",
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": "6.45",
+    "po_number": [
+      "M413096467"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "Mckinney Trailer Rentals",
+    "vendor_address": "2601 Saturn St. Suite 110, Brea, CA 92821, United States",
+    "po_line_items": [
+      {
+        "description": "Roadside Assistance Fee",
+        "quantity": 1.0,
+        "net_price": 55.0
+      },
+      {
+        "description": "Afterhours service call to 9535 Archibald Ave Rancho Cucamonga, CA 91730",
+        "quantity": 3.0,
+        "net_price": 228.0
+      },
+      {
+        "description": "Inspected mud flaps- found no issues when air is applied and airbags air up",
+        "quantity": 1.0,
+        "net_price": 163.0
+      },
+      {
+        "description": "Fuel Surcharge",
+        "quantity": 1.0,
+        "net_price": 61.42
+      },
+      {
+        "description": "Miscellaneous Shop Supplies",
+        "quantity": 1.0,
+        "net_price": 21.8
+      }
+    ]
+  }
+}

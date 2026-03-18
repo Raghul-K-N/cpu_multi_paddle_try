@@ -1,0 +1,79 @@
+{
+  "invoice_data": {
+    "invoice_number": "93305535",
+    "invoice_date": "02/03/2026",
+    "invoice_amount": "491.23",
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": null,
+    "po_number": [
+      "4505020023"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": "43.48",
+    "cost_center": null,
+    "vendor_name": "Heat and Control",
+    "vendor_address": "21121 CABOT BLVD, HAYWARD CA 94545-1132",
+    "po_line_items": [
+      {
+        "description": "X108-7653-00 MAGNETIC VALVE",
+        "quantity": 2.0,
+        "net_price": 91.5
+      },
+      {
+        "description": "X103-8870-18 NOZZLE, AIR",
+        "quantity": 15.0,
+        "net_price": 17.65
+      },
+      {
+        "description": "1010",
+        "quantity": 1.0,
+        "net_price": 43.48
+      }
+    ],
+    "vat_amount": null,
+    "gl_account": null,
+    "bank_name": null,
+    "account_holder_name": null,
+    "banking_account_number": null,
+    "remit_to_address": null,
+    "bill_to_address": null,
+    "transaction_type": "debit"
+  },
+  "filename": "SAPS4_5100410524_US28_PFNAUS_2026_999934960.pdf",
+  "raw_response": {
+    "invoice_number": "93305535",
+    "invoice_date": "02/03/2026",
+    "invoice_amount": "491.23",
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": null,
+    "po_number": [
+      "4505020023"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": "43.48",
+    "cost_center": null,
+    "vendor_name": "Heat and Control",
+    "vendor_address": "21121 CABOT BLVD, HAYWARD CA 94545-1132",
+    "po_line_items": [
+      {
+        "description": "X108-7653-00 MAGNETIC VALVE",
+        "quantity": 2.0,
+        "net_price": 91.5
+      },
+      {
+        "description": "X103-8870-18 NOZZLE, AIR",
+        "quantity": 15.0,
+        "net_price": 17.65
+      },
+      {
+        "description": "1010",
+        "quantity": 1.0,
+        "net_price": 43.48
+      }
+    ]
+  }
+}

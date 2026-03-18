@@ -1,0 +1,125 @@
+{
+  "invoice_data": {
+    "invoice_number": "RY9084",
+    "invoice_date": "27 January 2026",
+    "invoice_amount": "21,733.61",
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": "2,008.14",
+    "po_number": null,
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "RYDER TRUCK RENTAL CANADA",
+    "vendor_address": "P.O. BOX 6416 STN TERMINAL, VANCOUVER,BC,V6B 6R3",
+    "po_line_items": [
+      {
+        "description": "Straight truck 275284",
+        "quantity": null,
+        "net_price": 1787.88
+      },
+      {
+        "description": "Truck 275285",
+        "quantity": null,
+        "net_price": 2366.9
+      },
+      {
+        "description": "Truck 716723",
+        "quantity": null,
+        "net_price": 2348.82
+      },
+      {
+        "description": "Truck 740423",
+        "quantity": null,
+        "net_price": 2614.47
+      },
+      {
+        "description": "Truck 740447",
+        "quantity": null,
+        "net_price": 2608.22
+      },
+      {
+        "description": "Truck 740468",
+        "quantity": null,
+        "net_price": 2310.4
+      },
+      {
+        "description": "Truck 740470",
+        "quantity": null,
+        "net_price": 2570.0
+      },
+      {
+        "description": "Truck 740472",
+        "quantity": null,
+        "net_price": 2570.0
+      }
+    ],
+    "vat_amount": null,
+    "gl_account": null,
+    "bank_name": null,
+    "account_holder_name": null,
+    "banking_account_number": null,
+    "remit_to_address": null,
+    "bill_to_address": null,
+    "transaction_type": "debit"
+  },
+  "filename": "SAPS4_5101582501_CA11_PFNACA_2026_304654800.pdf",
+  "raw_response": {
+    "invoice_number": "RY9084",
+    "invoice_date": "27 January 2026",
+    "invoice_amount": "21,733.61",
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": "2,008.14",
+    "po_number": null,
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "RYDER TRUCK RENTAL CANADA",
+    "vendor_address": "P.O. BOX 6416 STN TERMINAL, VANCOUVER,BC,V6B 6R3",
+    "po_line_items": [
+      {
+        "description": "Straight truck 275284",
+        "quantity": null,
+        "net_price": 1787.88
+      },
+      {
+        "description": "Truck 275285",
+        "quantity": null,
+        "net_price": 2366.9
+      },
+      {
+        "description": "Truck 716723",
+        "quantity": null,
+        "net_price": 2348.82
+      },
+      {
+        "description": "Truck 740423",
+        "quantity": null,
+        "net_price": 2614.47
+      },
+      {
+        "description": "Truck 740447",
+        "quantity": null,
+        "net_price": 2608.22
+      },
+      {
+        "description": "Truck 740468",
+        "quantity": null,
+        "net_price": 2310.4
+      },
+      {
+        "description": "Truck 740470",
+        "quantity": null,
+        "net_price": 2570.0
+      },
+      {
+        "description": "Truck 740472",
+        "quantity": null,
+        "net_price": 2570.0
+      }
+    ]
+  }
+}

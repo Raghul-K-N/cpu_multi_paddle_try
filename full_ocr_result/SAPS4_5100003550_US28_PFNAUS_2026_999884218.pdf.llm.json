@@ -1,0 +1,69 @@
+{
+  "invoice_data": {
+    "invoice_number": "36175338",
+    "invoice_date": "2/3/2026",
+    "invoice_amount": "555.50",
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": "28.98",
+    "po_number": [
+      "4505074931"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": "32.65",
+    "cost_center": null,
+    "vendor_name": "Frito-Lay, Inc.",
+    "vendor_address": "C/O PepsiCo Nass Accounts Payables, P. O. BOX 1800, WISTON SALEM NC 27105, US",
+    "po_line_items": [
+      {
+        "description": "EATON CORPORATION 10250T5 PUSH BUTTON OPERATOR, 30.5 MM, HEAVY DUTY, WATERTIGHT/OILTIGHT, PUSH-PULL, CLASS I DIV 2, STANDARD ACTUATOR, NON-ILLUMINATED, 2 POSITION, MAINTAINED",
+        "quantity": 4.0,
+        "net_price": 117.0
+      },
+      {
+        "description": "PACKAGING AND HANDLING",
+        "quantity": 1.0,
+        "net_price": 15.0
+      }
+    ],
+    "vat_amount": null,
+    "gl_account": null,
+    "bank_name": null,
+    "account_holder_name": null,
+    "banking_account_number": null,
+    "remit_to_address": null,
+    "bill_to_address": null,
+    "transaction_type": "debit"
+  },
+  "filename": "SAPS4_5100003550_US28_PFNAUS_2026_999884218.pdf",
+  "raw_response": {
+    "invoice_number": "36175338",
+    "invoice_date": "2/3/2026",
+    "invoice_amount": "555.50",
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": "28.98",
+    "po_number": [
+      "4505074931"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": "32.65",
+    "cost_center": null,
+    "vendor_name": "Frito-Lay, Inc.",
+    "vendor_address": "C/O PepsiCo Nass Accounts Payables, P. O. BOX 1800, WISTON SALEM NC 27105, US",
+    "po_line_items": [
+      {
+        "description": "EATON CORPORATION 10250T5 PUSH BUTTON OPERATOR, 30.5 MM, HEAVY DUTY, WATERTIGHT/OILTIGHT, PUSH-PULL, CLASS I DIV 2, STANDARD ACTUATOR, NON-ILLUMINATED, 2 POSITION, MAINTAINED",
+        "quantity": 4.0,
+        "net_price": 117.0
+      },
+      {
+        "description": "PACKAGING AND HANDLING",
+        "quantity": 1.0,
+        "net_price": 15.0
+      }
+    ]
+  }
+}

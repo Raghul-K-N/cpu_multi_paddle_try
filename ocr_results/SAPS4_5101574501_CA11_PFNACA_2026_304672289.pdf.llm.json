@@ -1,0 +1,109 @@
+{
+  "invoice_data": {
+    "invoice_number": "4234521096",
+    "invoice_date": "1/31/2026",
+    "invoice_amount": "30,102.07",
+    "invoice_currency": [
+      "CAD"
+    ],
+    "tax_amount": null,
+    "po_number": [
+      "4504134155",
+      "113503-P00407",
+      "C1929974",
+      "C1929975",
+      "C1929977",
+      "C1929978"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "Smurfit Westrock Company of Canada Corp.",
+    "vendor_address": "150 PARK HILL DRIVE, MILTON, ON L9T 5V7",
+    "po_line_items": [
+      {
+        "description": "CPU",
+        "quantity": 3200.0,
+        "net_price": 793.05
+      },
+      {
+        "description": "CPU",
+        "quantity": 4320.0,
+        "net_price": 652.8
+      },
+      {
+        "description": "CPU",
+        "quantity": 3750.0,
+        "net_price": 3786.54
+      },
+      {
+        "description": "CPU",
+        "quantity": 11000.0,
+        "net_price": 803.46
+      },
+      {
+        "description": "GOOD FUN! CORNER SUPPORT (6MM HT REDUCT)",
+        "quantity": 1433.0,
+        "net_price": 54.14
+      }
+    ],
+    "vat_amount": null,
+    "gl_account": null,
+    "bank_name": null,
+    "account_holder_name": null,
+    "banking_account_number": null,
+    "remit_to_address": null,
+    "bill_to_address": null,
+    "transaction_type": "debit"
+  },
+  "filename": "SAPS4_5101574501_CA11_PFNACA_2026_304672289.pdf",
+  "raw_response": {
+    "invoice_number": "4234521096",
+    "invoice_date": "1/31/2026",
+    "invoice_amount": "30,102.07",
+    "invoice_currency": [
+      "CAD"
+    ],
+    "tax_amount": null,
+    "po_number": [
+      "4504134155",
+      "113503-P00407",
+      "C1929974",
+      "C1929975",
+      "C1929977",
+      "C1929978"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "Smurfit Westrock Company of Canada Corp.",
+    "vendor_address": "150 PARK HILL DRIVE, MILTON, ON L9T 5V7",
+    "po_line_items": [
+      {
+        "description": "CPU",
+        "quantity": 3200.0,
+        "net_price": 793.05
+      },
+      {
+        "description": "CPU",
+        "quantity": 4320.0,
+        "net_price": 652.8
+      },
+      {
+        "description": "CPU",
+        "quantity": 3750.0,
+        "net_price": 3786.54
+      },
+      {
+        "description": "CPU",
+        "quantity": 11000.0,
+        "net_price": 803.46
+      },
+      {
+        "description": "GOOD FUN! CORNER SUPPORT (6MM HT REDUCT)",
+        "quantity": 1433.0,
+        "net_price": 54.14
+      }
+    ]
+  }
+}

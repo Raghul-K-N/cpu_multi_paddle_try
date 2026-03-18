@@ -1,0 +1,99 @@
+{
+  "invoice_data": {
+    "invoice_number": "980604968126",
+    "invoice_date": "Thursday 12 Feb 2026 3:28 AM GMT-07:00",
+    "invoice_amount": "4165.50",
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": "0.00",
+    "po_number": [
+      "M413555011"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "GRAINGER",
+    "vendor_address": "100 Grainger Pkwy, Lake Forest, IL, United States\nWinst, Winston Salem, NC, 27105, United States",
+    "po_line_items": [
+      {
+        "description": "Material 3EB46 / Paper Towel Roll,Continuous,Wt,89460,PK6",
+        "quantity": 20.0,
+        "net_price": 57.27
+      },
+      {
+        "description": "Material 4TH42 / Toilet Paper Roll,1000,White,19375,PK36",
+        "quantity": 20.0,
+        "net_price": 54.87
+      },
+      {
+        "description": "Material 31DK60 / Recycled Trash Bags, Blk, PK100",
+        "quantity": 25.0,
+        "net_price": 33.09
+      },
+      {
+        "description": "Material 53JZ89 / Hand Soap,CLR,1,200 mL42818,PK2",
+        "quantity": 15.0,
+        "net_price": 45.23
+      },
+      {
+        "description": "Material 41TJ45 / Lint Roller Refill,White, PK12.",
+        "quantity": 15.0,
+        "net_price": 27.8
+      }
+    ],
+    "vat_amount": null,
+    "gl_account": null,
+    "bank_name": null,
+    "account_holder_name": null,
+    "banking_account_number": null,
+    "remit_to_address": null,
+    "bill_to_address": null,
+    "transaction_type": "debit"
+  },
+  "filename": "SAPS4_5100604012_US28_PFNAUS_2026_999746342.pdf",
+  "raw_response": {
+    "invoice_number": "980604968126",
+    "invoice_date": "Thursday 12 Feb 2026 3:28 AM GMT-07:00",
+    "invoice_amount": "4165.50",
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": "0.00",
+    "po_number": [
+      "M413555011"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "GRAINGER",
+    "vendor_address": "100 Grainger Pkwy, Lake Forest, IL, United States\nWinst, Winston Salem, NC, 27105, United States",
+    "po_line_items": [
+      {
+        "description": "Material 3EB46 / Paper Towel Roll,Continuous,Wt,89460,PK6",
+        "quantity": 20.0,
+        "net_price": 57.27
+      },
+      {
+        "description": "Material 4TH42 / Toilet Paper Roll,1000,White,19375,PK36",
+        "quantity": 20.0,
+        "net_price": 54.87
+      },
+      {
+        "description": "Material 31DK60 / Recycled Trash Bags, Blk, PK100",
+        "quantity": 25.0,
+        "net_price": 33.09
+      },
+      {
+        "description": "Material 53JZ89 / Hand Soap,CLR,1,200 mL42818,PK2",
+        "quantity": 15.0,
+        "net_price": 45.23
+      },
+      {
+        "description": "Material 41TJ45 / Lint Roller Refill,White, PK12.",
+        "quantity": 15.0,
+        "net_price": 27.8
+      }
+    ]
+  }
+}

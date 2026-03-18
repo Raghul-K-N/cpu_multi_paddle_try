@@ -1,0 +1,59 @@
+{
+  "invoice_data": {
+    "invoice_number": "4280540280",
+    "invoice_date": "02/10/2026",
+    "invoice_amount": "0.54",
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": "0.04",
+    "po_number": [
+      "M412977392"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": "0.00",
+    "cost_center": null,
+    "vendor_name": "VESTIS",
+    "vendor_address": "25259 NETWORK PLACE, CHICAGO IL 60673-1252",
+    "po_line_items": [
+      {
+        "description": "GS0098LTBL SHIRT DRESS LS OXFORD",
+        "quantity": 3.0,
+        "net_price": 0.165
+      }
+    ],
+    "vat_amount": null,
+    "gl_account": null,
+    "bank_name": null,
+    "account_holder_name": null,
+    "banking_account_number": null,
+    "remit_to_address": null,
+    "bill_to_address": null,
+    "transaction_type": "debit"
+  },
+  "filename": "SAPS4_5100029572_US29_PFNAUS_2026_999935138.pdf",
+  "raw_response": {
+    "invoice_number": "4280540280",
+    "invoice_date": "02/10/2026",
+    "invoice_amount": "0.54",
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": "0.04",
+    "po_number": [
+      "M412977392"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": "0.00",
+    "cost_center": null,
+    "vendor_name": "VESTIS",
+    "vendor_address": "25259 NETWORK PLACE, CHICAGO IL 60673-1252",
+    "po_line_items": [
+      {
+        "description": "GS0098LTBL SHIRT DRESS LS OXFORD",
+        "quantity": 3.0,
+        "net_price": 0.165
+      }
+    ]
+  }
+}

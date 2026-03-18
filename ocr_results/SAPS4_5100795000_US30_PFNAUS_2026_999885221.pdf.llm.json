@@ -1,0 +1,59 @@
+{
+  "invoice_data": {
+    "invoice_number": "245794P",
+    "invoice_date": "09AUG 24",
+    "invoice_amount": "-62.50",
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": "0.00",
+    "po_number": [
+      "23167695"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "NEXTRAN TRUCK CENTERS",
+    "vendor_address": "900 GREAT MIDWEST DR, K.C., MO. 64161, (816) 455-7262",
+    "po_line_items": [
+      {
+        "description": "CORE RETU RTN CODE:STDNo Deduction",
+        "quantity": null,
+        "net_price": -62.5
+      }
+    ],
+    "vat_amount": null,
+    "gl_account": null,
+    "bank_name": null,
+    "account_holder_name": null,
+    "banking_account_number": null,
+    "remit_to_address": null,
+    "bill_to_address": null,
+    "transaction_type": "credit"
+  },
+  "filename": "SAPS4_5100795000_US30_PFNAUS_2026_999885221.pdf",
+  "raw_response": {
+    "invoice_number": "245794P",
+    "invoice_date": "09AUG 24",
+    "invoice_amount": "-62.50",
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": "0.00",
+    "po_number": [
+      "23167695"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "NEXTRAN TRUCK CENTERS",
+    "vendor_address": "900 GREAT MIDWEST DR, K.C., MO. 64161, (816) 455-7262",
+    "po_line_items": [
+      {
+        "description": "CORE RETU RTN CODE:STDNo Deduction",
+        "quantity": null,
+        "net_price": -62.5
+      }
+    ]
+  }
+}

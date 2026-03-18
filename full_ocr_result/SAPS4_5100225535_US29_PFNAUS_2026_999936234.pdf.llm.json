@@ -1,0 +1,129 @@
+{
+  "invoice_data": {
+    "invoice_number": "6160433243",
+    "invoice_date": "02/12/2026",
+    "invoice_amount": "25.78",
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": "1.34",
+    "po_number": [
+      "M413107001"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": "0.00",
+    "cost_center": null,
+    "vendor_name": "VESTIS",
+    "vendor_address": "25259 NETWORK PLACE, CHICAGO IL 60673-1252",
+    "po_line_items": [
+      {
+        "description": "GP0002NAVY PANT WORK TWILL 65/35",
+        "quantity": 11.0,
+        "net_price": 0.135
+      },
+      {
+        "description": "SHIRT EVIS LS FLEXFIT PEPSI",
+        "quantity": 11.0,
+        "net_price": 0.232
+      },
+      {
+        "description": "BAG STAND TALL",
+        "quantity": 0.0,
+        "net_price": 0.0
+      },
+      {
+        "description": "CRT CABINT DARMAN",
+        "quantity": 0.0,
+        "net_price": 0.0
+      },
+      {
+        "description": "CONT ROLL TOWEL",
+        "quantity": 5.0,
+        "net_price": 0.794
+      },
+      {
+        "description": "FIRST AID SERVICE",
+        "quantity": 1.0,
+        "net_price": 10.76
+      },
+      {
+        "description": "SHOP TOWEL PLAIN 18X18",
+        "quantity": 270.0,
+        "net_price": 0.021
+      },
+      {
+        "description": "LAUNDRY BAG ERGO CLIPS",
+        "quantity": 0.0,
+        "net_price": 0.0
+      }
+    ],
+    "vat_amount": null,
+    "gl_account": null,
+    "bank_name": null,
+    "account_holder_name": null,
+    "banking_account_number": null,
+    "remit_to_address": null,
+    "bill_to_address": null,
+    "transaction_type": "debit"
+  },
+  "filename": "SAPS4_5100225535_US29_PFNAUS_2026_999936234.pdf",
+  "raw_response": {
+    "invoice_number": "6160433243",
+    "invoice_date": "02/12/2026",
+    "invoice_amount": "25.78",
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": "1.34",
+    "po_number": [
+      "M413107001"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": "0.00",
+    "cost_center": null,
+    "vendor_name": "VESTIS",
+    "vendor_address": "25259 NETWORK PLACE, CHICAGO IL 60673-1252",
+    "po_line_items": [
+      {
+        "description": "GP0002NAVY PANT WORK TWILL 65/35",
+        "quantity": 11.0,
+        "net_price": 0.135
+      },
+      {
+        "description": "SHIRT EVIS LS FLEXFIT PEPSI",
+        "quantity": 11.0,
+        "net_price": 0.232
+      },
+      {
+        "description": "BAG STAND TALL",
+        "quantity": 0.0,
+        "net_price": 0.0
+      },
+      {
+        "description": "CRT CABINT DARMAN",
+        "quantity": 0.0,
+        "net_price": 0.0
+      },
+      {
+        "description": "CONT ROLL TOWEL",
+        "quantity": 5.0,
+        "net_price": 0.794
+      },
+      {
+        "description": "FIRST AID SERVICE",
+        "quantity": 1.0,
+        "net_price": 10.76
+      },
+      {
+        "description": "SHOP TOWEL PLAIN 18X18",
+        "quantity": 270.0,
+        "net_price": 0.021
+      },
+      {
+        "description": "LAUNDRY BAG ERGO CLIPS",
+        "quantity": 0.0,
+        "net_price": 0.0
+      }
+    ]
+  }
+}

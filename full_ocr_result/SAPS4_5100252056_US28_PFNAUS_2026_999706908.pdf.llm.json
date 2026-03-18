@@ -1,0 +1,71 @@
+{
+  "invoice_data": {
+    "invoice_number": "13529700A",
+    "invoice_date": "07/21/25",
+    "invoice_amount": "52,636.57",
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": "4,123.60",
+    "po_number": [
+      "M413032948",
+      "FRI200"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": "392.97",
+    "cost_center": null,
+    "vendor_name": "Fluid Engineering, Inc.",
+    "vendor_address": "PO Box 162541 | Atlanta, GA 30321-2541",
+    "po_line_items": [
+      {
+        "description": "APT 52-16 (O) LOC 001 PUMP, SULZER, 53 MAT'L, OPEN DUPLEX IMPELLER, 18.7\" TRIM, 125# ANSI FLANGES, DYNAMIC Serial Numbers: 100336716 SEAL, LARGE EXPELLER Tracking#:",
+        "quantity": 1.0,
+        "net_price": 48120.0
+      },
+      {
+        "description": "SURCHARGE LOC 001 MATERIALS SURCHARGE Tracking#:",
+        "quantity": 1.0,
+        "net_price": 0.0
+      }
+    ],
+    "vat_amount": null,
+    "gl_account": null,
+    "bank_name": null,
+    "account_holder_name": null,
+    "banking_account_number": null,
+    "remit_to_address": null,
+    "bill_to_address": null,
+    "transaction_type": "debit"
+  },
+  "filename": "SAPS4_5100252056_US28_PFNAUS_2026_999706908.pdf",
+  "raw_response": {
+    "invoice_number": "13529700A",
+    "invoice_date": "07/21/25",
+    "invoice_amount": "52,636.57",
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": "4,123.60",
+    "po_number": [
+      "M413032948",
+      "FRI200"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": "392.97",
+    "cost_center": null,
+    "vendor_name": "Fluid Engineering, Inc.",
+    "vendor_address": "PO Box 162541 | Atlanta, GA 30321-2541",
+    "po_line_items": [
+      {
+        "description": "APT 52-16 (O) LOC 001 PUMP, SULZER, 53 MAT'L, OPEN DUPLEX IMPELLER, 18.7\" TRIM, 125# ANSI FLANGES, DYNAMIC Serial Numbers: 100336716 SEAL, LARGE EXPELLER Tracking#:",
+        "quantity": 1.0,
+        "net_price": 48120.0
+      },
+      {
+        "description": "SURCHARGE LOC 001 MATERIALS SURCHARGE Tracking#:",
+        "quantity": 1.0,
+        "net_price": 0.0
+      }
+    ]
+  }
+}

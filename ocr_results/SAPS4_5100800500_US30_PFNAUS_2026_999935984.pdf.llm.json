@@ -1,0 +1,59 @@
+{
+  "invoice_data": {
+    "invoice_number": "XA111202501",
+    "invoice_date": "11/4/2025",
+    "invoice_amount": "-142.91",
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": "9.91",
+    "po_number": [
+      "23492486"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": "142.91",
+    "cost_center": null,
+    "vendor_name": "Mountain West Truck Center - West Valley City (P731)(P)",
+    "vendor_address": "7114 W SR201 North Frontage Rd, West Valley City, UT 84128",
+    "po_line_items": [
+      {
+        "description": "FLYWHEEL, REMAN",
+        "quantity": 1.0,
+        "net_price": 133.0
+      }
+    ],
+    "vat_amount": null,
+    "gl_account": null,
+    "bank_name": null,
+    "account_holder_name": null,
+    "banking_account_number": null,
+    "remit_to_address": null,
+    "bill_to_address": null,
+    "transaction_type": "credit"
+  },
+  "filename": "SAPS4_5100800500_US30_PFNAUS_2026_999935984.pdf",
+  "raw_response": {
+    "invoice_number": "XA111202501",
+    "invoice_date": "11/4/2025",
+    "invoice_amount": "-142.91",
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": "9.91",
+    "po_number": [
+      "23492486"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": "142.91",
+    "cost_center": null,
+    "vendor_name": "Mountain West Truck Center - West Valley City (P731)(P)",
+    "vendor_address": "7114 W SR201 North Frontage Rd, West Valley City, UT 84128",
+    "po_line_items": [
+      {
+        "description": "FLYWHEEL, REMAN",
+        "quantity": 1.0,
+        "net_price": 133.0
+      }
+    ]
+  }
+}

@@ -1,0 +1,240 @@
+==================================<Page 1 - START>================================
+Standard Invoice
+                                                                                                                   GRAINGER
+Original tax invoice has been submitted electronically. This is a
+human readable representation (copy) of the original tax invoice.
+                                                                Invoice Number                                     980604968126
+                                                                (Supplier Reference No.)
+                                                                                              Thursday 12 Feb 2026 3:28 AM GMT-07:00
+                                                                Invoice Date
+                                                                Amount Due                                        $4,165.50 USD
+    Contact Information                                                        Shipping Information
+    Supplier
+                                 Customer                                  Ship From                     Ship To
+    Grainger                      Frito-Lay Inc.                                                            US-PL-JONESBORO-AR-FLI
+                                                                          Grainger
+    100 Grainger Pkwy               c/o PEPSICO NASS                          4300 OLD AIRWAYS BLVD.         SHANNON.L.BRACK@PEPS
+    Lake Forest                    ACCOUNTS PAYABLES                       SOUTHAVEN                   2810 QUALITY WAY
+    IL
+                                 PO BOX 1800                              MS                          JONESBORO
+    Winst                        Winston Salem                              38671                        AR
+    United States                   NC                                      United States                   72401
+                                 27105                                                                 United States
+                                 United States                                                            Phone: (800) 352-4477
+  Line Items                                              PO No. : M413555011                                      PO Date : 12 Feb 2026
+  Line No.   PO Line No.          Type    Supplier Part No. /             Customer Part No         Quantity            Unit Price         Subtotal
+                                       Description                                       (UOM)
+   1                                                                                                  $57.27 USD    $1,145.40 USD
+             1                 Material 3EB46 / Paper Towel                                20 / (EA)
+                                       Roll,Continuous,Wt,89460,PK6
+  Line No.   PO Line No.                                                                                   Unit Price         Subtotal
+                               Type    Supplier Part No. /             Customer Part No        Quantity
+                                       Description                                       (UOM)
+  2        2                 Material 4TH42 / Toilet Paper                                 20 / (EA)          $54.87 USD    $1,097.40 USD
+                                       Roll,1000,White,19375.PK36
+  Line No.    PO Line No.          Type   Supplier Part No. /             Customer Part No.        Quantity            Unit Price         Subtotal
+                                       Description                                       (UOM)
+                                                                                                      $33.09 USD     $827.25 USD
+  3        4                 Material 31DK60 / Recycled Trash Bags,                         25 / (EA)
+                                       Blk, PK100
+                                                                                                        Unit Price         Subtotal
+  Line No.    PO Line No.         Type    Supplier Part No. /             Customer Part No.        Quantity
+                                      Description                                       (UOM)
+                                                                                                                     $678.45 USD
+                               Material 53JZ89 / Hand Soap,CLR,1,200                         15 / (EA)          $45.23 USD
+  4        5
+                                      mL42818,PK2
+                               Type    Supplier Part No. /             Customer Part No.        Quantity            Unit Price         Subtotal
+  Line No.    PO Line No.
+                                      Description                                       (UOM)
+                                                                                                      $27.80 USD     $417.00 USD
+  5        3                 Material 41TJ45 / Lint Roller Refill,White,                         15 / (EA)
+                                      PK12.
+                                                                             Amount Summary
+                                                                              Line item subtotal                         $4,165.50 USD
+                                                                                                                   $4,165.50 USD
+                                                                              Gross amount
+                                                                                                                   $4,165.50 USD
+                                                                              Net amount
+                                                                             Total tax amount                            $0.00 USD
+                                                                             Total withholding tax amount
+                                                                                                                   $4,165.50 USD
+                                                                             Amount Due
+    Additional Information
+    InvoiceSourceDocument
+    PurchaseOrder
+    InvoiceSubmissionMethod
+   cXML
+                                                                         Remittance Information
+    Billing Information
+                                                                         Remit To
+   Bill To
+                                                                         GRAINGER
+   Frito-Lay Inc.
+                                                                         DEPT. 853331767
+   c/o PEPSICO NASS
+   ACCOUNTS PAYABLES                                                    KANSAS CITY
+                                                                         MO
+   PO BOX 1800
+   Winston Salem                                                          64141-6267
+   NC                                                                   United States
+   27105                                                                 Address ID: US1_10359
+   United States
+                                                                         Tax ID of Supplier
+   Address ID: US28
+                                                                         36-1150280
+                                                                     Reference Documents
+                                                                      Original Supplier Order #: 1575661795
+==================================<Page 1 - END>================================
+==================================<Page 2 - START>================================
+Appendix
+Line No.
+             PO Line No. Type                           Supplier Part No. / Description
+ 1          1         Material
+                                                        3EB46 / Paper Towel Roll,Continuous,Wt,89460,PK6
+ Additional Details:
+ Supplier Part ID : 3EB46
+ Supplier Part Auxiliary ID : WWG3EB46
+Line No.    PO Line No. Type                            Supplier Part No. / Description
+ 2         2         Material
+                                                       4TH42 / Toilet Paper Roll,1000,White,19375,PK36
+ Additional Details:
+ Supplier Part ID : 4TH42
+ Supplier Part Auxiliary ID : WWG4TH42
+ Line No.    PO Line No. Type                           Supplier Part No. / Description
+ 3          4          Material                         31DK60 / Recycled Trash Bags, Blk, PK100
+Additional Details:
+ Supplier Part ID : 31DK60
+ Supplier Part Auxiliary ID : WWG31DK60
+Line No.    PO Line No. Type                           Supplier Part No. / Description
+ 4         5         Material                         53JZ89 / Hand Soap,CLR,1,200 mL42818,PK2
+ Additional Details:
+ Supplier Part ID : 53JZ89
+ Supplier Part Auxiliary ID : WWG53JZ89
+Line No.    PO Line No. Type                           Supplier Part No. / Description
+ 5         3         Material                         41TJ45 / Lint Roller Refill,White, PK12.
+Additional Details:
+ Supplier Part ID : 41TJ45
+ Supplier Part Auxiliary ID : WWG41TJ45
+PDF generated on Friday 13 Feb 2026 3:43 AM GMT-08:00
+==================================<Page 2 - END>================================
+==================================<Page 3 - START>================================
+  Standard Invoice
+                                                                                                                     GRAINGER
+  Original tax invoice has been submitted electronically. This is a
+  human readable representation (copy) of the original tax invoice.
+                                                                  Invoice Number                                     980604968126
+                                                                  (Supplier Reference No.)
+                                                                                                Thursday 12 Feb 2026 3:28 AM GMT-07:00
+                                                                  Invoice Date
+                                                                  Amount Due                                        $4,165.50 USD
+      Contact Information                                                        Shipping Information
+      Supplier
+                                   Customer                                  Ship From                     Ship To
+      Grainger                      Frito-Lay Inc.                                                            US-PL-JONESBORO-AR-FLI
+                                                                            Grainger
+      100 Grainger Pkwy               c/o PEPSICO NASS                          4300 OLD AIRWAYS BLVD.         SHANNON.L.BRACK@PEPS
+      Lake Forest                    ACCOUNTS PAYABLES                       SOUTHAVEN                   2810 QUALITY WAY
+      IL
+                                   PO BOX 1800                              MS                          JONESBORO
+      Winst                        Winston Salem                              38671                        AR
+      United States                   NC                                      United States                   72401
+                                   27105                                                                 United States
+                                   United States                                                            Phone: (800) 352-4477
+    Line Items                                              PO No. : M413555011                                      PO Date : 12 Feb 2026
+    Line No.   PO Line No.          Type    Supplier Part No. /             Customer Part No         Quantity            Unit Price         Subtotal
+                                        Description                                       (UOM)
+    1                                                                                                  $57.27 USD    $1,145.40 USD
+              1                 Material 3EB46 / Paper Towel                                20 / (EA)
+                                        Roll,Continuous,Wt,89460,PK6
+    Line No.   PO Line No.                                                                                   Unit Price         Subtotal
+                                 Type    Supplier Part No. /             Customer Part No        Quantity
+                                        Description                                       (UOM)
+    2        2                 Material 4TH42 / Toilet Paper                                 20 / (EA)          $54.87 USD    $1,097.40 USD
+                                        Roll,1000,White,19375.PK36
+    Line No.    PO Line No.          Type   Supplier Part No. /             Customer Part No.        Quantity            Unit Price         Subtotal
+                                        Description                                       (UOM)
+                                                                                                        $33.09 USD     $827.25 USD
+    3        4                 Material 31DK60 / Recycled Trash Bags,                         25 / (EA)
+                                        Blk, PK100
+                                                                                                          Unit Price         Subtotal
+    Line No.    PO Line No.         Type    Supplier Part No. /             Customer Part No.        Quantity
+                                        Description                                       (UOM)
+                                                                                                                       $678.45 USD
+                                 Material 53JZ89 / Hand Soap,CLR,1,200                         15 / (EA)          $45.23 USD
+    4        5
+                                        mL42818,PK2
+                                Type    Supplier Part No. /             Customer Part No.        Quantity            Unit Price         Subtotal
+    Line No.    PO Line No.
+                                        Description                                       (UOM)
+                                                                                                        $27.80 USD     $417.00 USD
+    5        3                 Material 41TJ45 / Lint Roller Refill,White,                         15 / (EA)
+                                        PK12.
+                                                                               Amount Summary
+                                                                               Line item subtotal                         $4,165.50 USD
+                                                                                                                     $4,165.50 USD
+                                                                               Gross amount
+                                                                                                                     $4,165.50 USD
+                                                                               Net amount
+                                                                               Total tax amount                            $0.00 USD
+                                                                               Total withholding tax amount
+                                                                                                                     $4,165.50 USD
+                                                                               Amount Due
+      Additional Information
+      InvoiceSourceDocument
+      PurchaseOrder
+     InvoiceSubmissionMethod
+     cXML
+                                                                           Remittance Information
+     Billing Information
+                                                                           Remit To
+     Bill To
+                                                                           GRAINGER
+     Frito-Lay Inc.
+                                                                           DEPT. 853331767
+     c/o PEPSICO NASS
+     ACCOUNTS PAYABLES                                                    KANSAS CITY
+                                                                           MO
+     PO BOX 1800
+     Winston Salem                                                          64141-6267
+     NC                                                                   United States
+     27105                                                                 Address ID: US1_10359
+     United States
+                                                                           Tax ID of Supplier
+     Address ID: US28
+                                                                           36-1150280
+                                                                       Reference Documents
+                                                                        Original Supplier Order #: 1575661795
+==================================<Page 3 - END>================================
+==================================<Page 4 - START>================================
+Appendix
+Line No.
+             PO Line No. Type                           Supplier Part No. / Description
+ 1          1         Material
+                                                        3EB46 / Paper Towel Roll,Continuous,Wt,89460,PK6
+ Additional Details:
+ Supplier Part ID : 3EB46
+ Supplier Part Auxiliary ID : WWG3EB46
+Line No.    PO Line No. Type                            Supplier Part No. / Description
+ 2         2         Material
+                                                       4TH42 / Toilet Paper Roll,1000,White,19375,PK36
+ Additional Details:
+ Supplier Part ID : 4TH42
+ Supplier Part Auxiliary ID : WWG4TH42
+ Line No.    PO Line No. Type                           Supplier Part No. / Description
+ 3          4          Material                         31DK60 / Recycled Trash Bags, Blk, PK100
+Additional Details:
+ Supplier Part ID : 31DK60
+ Supplier Part Auxiliary ID : WWG31DK60
+Line No.    PO Line No. Type                           Supplier Part No. / Description
+ 4         5         Material                         53JZ89 / Hand Soap,CLR,1,200 mL42818,PK2
+ Additional Details:
+ Supplier Part ID : 53JZ89
+ Supplier Part Auxiliary ID : WWG53JZ89
+Line No.    PO Line No. Type                           Supplier Part No. / Description
+ 5         3         Material                         41TJ45 / Lint Roller Refill,White, PK12.
+Additional Details:
+ Supplier Part ID : 41TJ45
+ Supplier Part Auxiliary ID : WWG41TJ45
+PDF generated on Friday 13 Feb 2026 3:43 AM GMT-08:00
+==================================<Page 4 - END>================================

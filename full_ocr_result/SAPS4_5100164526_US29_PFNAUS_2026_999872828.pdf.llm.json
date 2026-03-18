@@ -1,0 +1,59 @@
+{
+  "invoice_data": {
+    "invoice_number": "1003723322A",
+    "invoice_date": "Friday 26 Dec 2025 12:00 PM GMT+05:30",
+    "invoice_amount": "1807.58",
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": "137.76",
+    "po_number": [
+      "M413510437"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "Waste Management National Accounts Inc",
+    "vendor_address": "8100 SOUTH FREEWAY. STE 200, FORT WORTH TX, 76134, United States",
+    "po_line_items": [
+      {
+        "description": "Material PSI000219 / PSI000219 - FLNA",
+        "quantity": 1669.82,
+        "net_price": 1.0
+      }
+    ],
+    "vat_amount": null,
+    "gl_account": null,
+    "bank_name": null,
+    "account_holder_name": null,
+    "banking_account_number": null,
+    "remit_to_address": null,
+    "bill_to_address": null,
+    "transaction_type": "debit"
+  },
+  "filename": "SAPS4_5100164526_US29_PFNAUS_2026_999872828.pdf",
+  "raw_response": {
+    "invoice_number": "1003723322A",
+    "invoice_date": "Friday 26 Dec 2025 12:00 PM GMT+05:30",
+    "invoice_amount": "1807.58",
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": "137.76",
+    "po_number": [
+      "M413510437"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "Waste Management National Accounts Inc",
+    "vendor_address": "8100 SOUTH FREEWAY. STE 200, FORT WORTH TX, 76134, United States",
+    "po_line_items": [
+      {
+        "description": "Material PSI000219 / PSI000219 - FLNA",
+        "quantity": 1669.82,
+        "net_price": 1.0
+      }
+    ]
+  }
+}

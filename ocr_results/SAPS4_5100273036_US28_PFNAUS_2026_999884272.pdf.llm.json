@@ -1,0 +1,89 @@
+{
+  "invoice_data": {
+    "invoice_number": "194274634-070",
+    "invoice_date": "02/10/26",
+    "invoice_amount": "441.57",
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": "33.58",
+    "po_number": [
+      "M412780863"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "UNITED RENTALS (NORTH AMERICA),INC.",
+    "vendor_address": "PO BOX 100711, ATLANTA GA 30384-0711",
+    "po_line_items": [
+      {
+        "description": "SCISSOR LIFT 19' ELECTRIC",
+        "quantity": 1.0,
+        "net_price": 399.0
+      },
+      {
+        "description": "REFUELING SERVICE CHARGE SMALL EQUIPMEN [FUEL SMALL EQ/MCI]",
+        "quantity": 1.0,
+        "net_price": 1.01
+      },
+      {
+        "description": "TX UNIT PROPERTY TAX [DRSURTX/MCI]",
+        "quantity": 1.0,
+        "net_price": 1.011
+      },
+      {
+        "description": "ENVIRONMENTAL SERVICE CHARGE [ENV/MCI]",
+        "quantity": 1.0,
+        "net_price": 7.98
+      }
+    ],
+    "vat_amount": null,
+    "gl_account": null,
+    "bank_name": null,
+    "account_holder_name": null,
+    "banking_account_number": null,
+    "remit_to_address": null,
+    "bill_to_address": null,
+    "transaction_type": "debit"
+  },
+  "filename": "SAPS4_5100273036_US28_PFNAUS_2026_999884272.pdf",
+  "raw_response": {
+    "invoice_number": "194274634-070",
+    "invoice_date": "02/10/26",
+    "invoice_amount": "441.57",
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": "33.58",
+    "po_number": [
+      "M412780863"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "UNITED RENTALS (NORTH AMERICA),INC.",
+    "vendor_address": "PO BOX 100711, ATLANTA GA 30384-0711",
+    "po_line_items": [
+      {
+        "description": "SCISSOR LIFT 19' ELECTRIC",
+        "quantity": 1.0,
+        "net_price": 399.0
+      },
+      {
+        "description": "REFUELING SERVICE CHARGE SMALL EQUIPMEN [FUEL SMALL EQ/MCI]",
+        "quantity": 1.0,
+        "net_price": 1.01
+      },
+      {
+        "description": "TX UNIT PROPERTY TAX [DRSURTX/MCI]",
+        "quantity": 1.0,
+        "net_price": 1.011
+      },
+      {
+        "description": "ENVIRONMENTAL SERVICE CHARGE [ENV/MCI]",
+        "quantity": 1.0,
+        "net_price": 7.98
+      }
+    ]
+  }
+}

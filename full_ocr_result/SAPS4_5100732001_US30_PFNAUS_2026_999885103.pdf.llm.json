@@ -1,0 +1,67 @@
+{
+  "invoice_data": {
+    "invoice_number": "3389866",
+    "invoice_date": "1/30/2026",
+    "invoice_amount": "46719.05",
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": null,
+    "po_number": [
+      "5016197596",
+      "5016197597",
+      "5016197598",
+      "5016197599",
+      "5016198011",
+      "5016198014",
+      "5016198016",
+      "5016198019",
+      "5016198211",
+      "5016198216",
+      "5016198217"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "TACENERGY, LLC",
+    "vendor_address": "TACenergy, 701 SOUTH ROBISON RD., P.O. BOX 1481, TEXARKANA, TX  75504",
+    "po_line_items": null,
+    "vat_amount": null,
+    "gl_account": null,
+    "bank_name": null,
+    "account_holder_name": null,
+    "banking_account_number": null,
+    "remit_to_address": null,
+    "bill_to_address": null,
+    "transaction_type": "debit"
+  },
+  "filename": "SAPS4_5100732001_US30_PFNAUS_2026_999885103.pdf",
+  "raw_response": {
+    "invoice_number": "3389866",
+    "invoice_date": "1/30/2026",
+    "invoice_amount": "46719.05",
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": null,
+    "po_number": [
+      "5016197596",
+      "5016197597",
+      "5016197598",
+      "5016197599",
+      "5016198011",
+      "5016198014",
+      "5016198016",
+      "5016198019",
+      "5016198211",
+      "5016198216",
+      "5016198217"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "TACENERGY, LLC",
+    "vendor_address": "TACenergy, 701 SOUTH ROBISON RD., P.O. BOX 1481, TEXARKANA, TX  75504",
+    "po_line_items": null
+  }
+}

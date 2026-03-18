@@ -1,0 +1,63 @@
+{
+  "invoice_data": {
+    "invoice_number": "4466200",
+    "invoice_date": "3-Feb-26",
+    "invoice_amount": null,
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": null,
+    "po_number": [
+      "M413436634"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": [
+      "10610000"
+    ],
+    "vendor_name": "LYO",
+    "vendor_address": "P.O. Box 608, County Industrial Park, Grande Prairie, AB T8V 3A8",
+    "po_line_items": [
+      {
+        "description": "Single axle sand truck @ 1 ton",
+        "quantity": 1.0,
+        "net_price": 200.0
+      }
+    ],
+    "vat_amount": null,
+    "gl_account": null,
+    "bank_name": null,
+    "account_holder_name": null,
+    "banking_account_number": null,
+    "remit_to_address": null,
+    "bill_to_address": null,
+    "transaction_type": "debit"
+  },
+  "filename": "SAPS4_5101436500_CA02_PBNACA_2026_328615361.pdf",
+  "raw_response": {
+    "invoice_number": "4466200",
+    "invoice_date": "3-Feb-26",
+    "invoice_amount": null,
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": null,
+    "po_number": [
+      "M413436634"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": [
+      "10610000"
+    ],
+    "vendor_name": "LYO",
+    "vendor_address": "P.O. Box 608, County Industrial Park, Grande Prairie, AB T8V 3A8",
+    "po_line_items": [
+      {
+        "description": "Single axle sand truck @ 1 ton",
+        "quantity": 1.0,
+        "net_price": 200.0
+      }
+    ]
+  }
+}

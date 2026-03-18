@@ -1,0 +1,79 @@
+{
+  "invoice_data": {
+    "invoice_number": "868566944",
+    "invoice_date": "02/12/2026",
+    "invoice_amount": "108.82",
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": "6.65",
+    "po_number": [
+      "4505188999"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "GRAINGER",
+    "vendor_address": "1721 6TH ST. SW, CANTON, OH 44706-1203",
+    "po_line_items": [
+      {
+        "description": "HAND KNOB,THROUGH HOLE, Grainger PartNbr: 5REK5 Customer UOM: E MANUFACTURER # GNH8-HEX4P7----",
+        "quantity": 50.0,
+        "net_price": 1.24
+      },
+      {
+        "description": "LKNT,A2,SSTL,M12-1.75,19X12MM,25PK Grainger Part Nbr: 22RW66 Customer UOM: MANUFACTURER #M51730.120.0001",
+        "quantity": 2.0,
+        "net_price": 5.84
+      },
+      {
+        "description": "INSTANT ADHESIVE,0.70 FL OZ,BOTTLE Grainger Part Nbr: 2VFH2 Customer UOM: E MANUFACTURER # 135466",
+        "quantity": 1.0,
+        "net_price": 28.49
+      }
+    ],
+    "vat_amount": null,
+    "gl_account": null,
+    "bank_name": null,
+    "account_holder_name": null,
+    "banking_account_number": null,
+    "remit_to_address": null,
+    "bill_to_address": null,
+    "transaction_type": "debit"
+  },
+  "filename": "SAPS4_5100197551_US28_PFNAUS_2026_999934629.pdf",
+  "raw_response": {
+    "invoice_number": "868566944",
+    "invoice_date": "02/12/2026",
+    "invoice_amount": "108.82",
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": "6.65",
+    "po_number": [
+      "4505188999"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "GRAINGER",
+    "vendor_address": "1721 6TH ST. SW, CANTON, OH 44706-1203",
+    "po_line_items": [
+      {
+        "description": "HAND KNOB,THROUGH HOLE, Grainger PartNbr: 5REK5 Customer UOM: E MANUFACTURER # GNH8-HEX4P7----",
+        "quantity": 50.0,
+        "net_price": 1.24
+      },
+      {
+        "description": "LKNT,A2,SSTL,M12-1.75,19X12MM,25PK Grainger Part Nbr: 22RW66 Customer UOM: MANUFACTURER #M51730.120.0001",
+        "quantity": 2.0,
+        "net_price": 5.84
+      },
+      {
+        "description": "INSTANT ADHESIVE,0.70 FL OZ,BOTTLE Grainger Part Nbr: 2VFH2 Customer UOM: E MANUFACTURER # 135466",
+        "quantity": 1.0,
+        "net_price": 28.49
+      }
+    ]
+  }
+}

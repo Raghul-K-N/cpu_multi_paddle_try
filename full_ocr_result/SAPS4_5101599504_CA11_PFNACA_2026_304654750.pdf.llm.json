@@ -1,0 +1,89 @@
+{
+  "invoice_data": {
+    "invoice_number": "72381866",
+    "invoice_date": "Monday 9 Feb. 2026 6:06 a.m. GMT-07:00",
+    "invoice_amount": "516.19",
+    "invoice_currency": [
+      "CAD"
+    ],
+    "tax_amount": "63.39",
+    "po_number": [
+      "M413545406"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "PEPSICO FOODS CANADA O/",
+    "vendor_address": "126152586RT0001, 5550 EXPLORER DR 8TH FLOOR, MISSISSAUGA, ON L4W 0C3, Canada, Address ID: CA1_ARIBA PAYABLES",
+    "po_line_items": [
+      {
+        "description": "TOILET TISSUE,2 PLY,400 SHEETS",
+        "quantity": 3.0,
+        "net_price": 39.13
+      },
+      {
+        "description": "TOWEL,PAPER 100 RECYCLED NAT",
+        "quantity": 3.0,
+        "net_price": 35.16
+      },
+      {
+        "description": "CP60 LOTION HAND SOAP,3.78L",
+        "quantity": 6.0,
+        "net_price": 17.49
+      },
+      {
+        "description": "BROTHER TN830XL BLACK TONER",
+        "quantity": 1.0,
+        "net_price": 124.99
+      }
+    ],
+    "vat_amount": null,
+    "gl_account": null,
+    "bank_name": null,
+    "account_holder_name": null,
+    "banking_account_number": null,
+    "remit_to_address": null,
+    "bill_to_address": null,
+    "transaction_type": "debit"
+  },
+  "filename": "SAPS4_5101599504_CA11_PFNACA_2026_304654750.pdf",
+  "raw_response": {
+    "invoice_number": "72381866",
+    "invoice_date": "Monday 9 Feb. 2026 6:06 a.m. GMT-07:00",
+    "invoice_amount": "516.19",
+    "invoice_currency": [
+      "CAD"
+    ],
+    "tax_amount": "63.39",
+    "po_number": [
+      "M413545406"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "PEPSICO FOODS CANADA O/",
+    "vendor_address": "126152586RT0001, 5550 EXPLORER DR 8TH FLOOR, MISSISSAUGA, ON L4W 0C3, Canada, Address ID: CA1_ARIBA PAYABLES",
+    "po_line_items": [
+      {
+        "description": "TOILET TISSUE,2 PLY,400 SHEETS",
+        "quantity": 3.0,
+        "net_price": 39.13
+      },
+      {
+        "description": "TOWEL,PAPER 100 RECYCLED NAT",
+        "quantity": 3.0,
+        "net_price": 35.16
+      },
+      {
+        "description": "CP60 LOTION HAND SOAP,3.78L",
+        "quantity": 6.0,
+        "net_price": 17.49
+      },
+      {
+        "description": "BROTHER TN830XL BLACK TONER",
+        "quantity": 1.0,
+        "net_price": 124.99
+      }
+    ]
+  }
+}

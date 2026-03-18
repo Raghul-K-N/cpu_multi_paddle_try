@@ -1,0 +1,59 @@
+{
+  "invoice_data": {
+    "invoice_number": "43702",
+    "invoice_date": "2/9/2026",
+    "invoice_amount": null,
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": null,
+    "po_number": [
+      "4505042505"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "South Georgia Machine & Fabrication",
+    "vendor_address": "69 East Jefferson Street, Hazlehurst, GA 31539",
+    "po_line_items": [
+      {
+        "description": "6PLATE, BACKING, TEFLON SLIP PAD FOR FORMER ASSEMBLY, 800299162, 50015576, SGM849",
+        "quantity": null,
+        "net_price": 20.79
+      }
+    ],
+    "vat_amount": null,
+    "gl_account": null,
+    "bank_name": null,
+    "account_holder_name": null,
+    "banking_account_number": null,
+    "remit_to_address": null,
+    "bill_to_address": null,
+    "transaction_type": "debit"
+  },
+  "filename": "SAPS4_5101975501_US28_PFNAUS_2026_999762550.pdf",
+  "raw_response": {
+    "invoice_number": "43702",
+    "invoice_date": "2/9/2026",
+    "invoice_amount": null,
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": null,
+    "po_number": [
+      "4505042505"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "South Georgia Machine & Fabrication",
+    "vendor_address": "69 East Jefferson Street, Hazlehurst, GA 31539",
+    "po_line_items": [
+      {
+        "description": "6PLATE, BACKING, TEFLON SLIP PAD FOR FORMER ASSEMBLY, 800299162, 50015576, SGM849",
+        "quantity": null,
+        "net_price": 20.79
+      }
+    ]
+  }
+}

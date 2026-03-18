@@ -1,0 +1,414 @@
+==================================<Page 1 - START>================================
+  OpenText Workflow History
+  Vendor
+   SPITZ LAW FIRM LLC
+   3 SUMMIT PARK DR STE 200
+   INDEPENDENCE OH  44131
+   USA
+   Invoice
+   Reference        SPITZ2FEB2026
+                                                               Document Date
+                                                                                 03.02.2026
+   DP Document No.  39327206
+                                                               Net Amount       USD          4,739.90
+   Comp. Code       US28 Frito-Lay, Inc.                     Tax Amount
+                                                                                USD               0.00
+   Posting Date     13.02.2026                               Gross Amount
+                                                                                USD          4,739.90
+   SAP Document No. 1900069002 2026
+                                           Pre-Process History
+    ACTIVITY                                             USER
+                                                                      END TIME         DOCUMENT STATUS
+    Update status                                        VRBLAOT_U  05.02.2026
+                                                                                        Validation
+                                                          SR         17:53:46          Complete
+                                       Document Process History
+   ACTIVITY
+                      PROCESS TYPE/BLOCK REASON          USER        END TIME         DOCUMENT STATUS
+   BC Inbound                                            VRBLAOT_U  05.02.2026        Document
+                                                          SR          17:25:46          Registered
+   Workflow Start   Invalid Requestor ID (NPO)         Record to  05.02.2026       Created
+                                                          Report      17:53:46
+                                                          Batch
+                                                          Account
+                                                          Owner:
+  Apply Business   Invalid Requestor ID (NPO)          KARTHIK M  12.02.2026        Created
+  Rules
+                                                                      23:27:09
+  Comment :
+ Changed By:
+                KARTHIK M (09368931)
+ Changed On:   02/12/2026 23:27:07
+*******************************************************************
+Hi,
+Please approve to process.
+Business Rules    Approval Required (NPO)             SAP_WFRT    12.02.2026        Indexed
+Check in BG
+                                                                      23:27:15
+  Invoice submitted for Approval
+                                                                      12.02.2026 23:27:15
+  Financial Information Entered                       KIVA        13.02.2026 02:51:50
+                                                         JORDAN
+  Data Entered and Invoice Approved
+                                                         KIVA        13.02.2026 02:51:53
+                                                         JORDAN
+  Invoice Approved                                      AIDA        13.02.2026 04:28:55
+                                                         BABALOLA
+==================================<Page 1 - END>================================
+==================================<Page 2 - START>================================
+OpenText Workflow History
+Invoice
+Vendor            SPITZ LAW FIRM LLC INDEPENDENCE
+                    SPITZ2FEB2026                       Gross Amount
+Reference                                                                USD        4,739.90
+                              Document Process History - Continuation
+                     PROCESS TYPE/BLOCK REASON          USER                           DOCUMENTSTATUS
+  ACTIVITY                                                           END TIME
+                    Approval Required (NPO)             SAP_WFRT   13.02.2026        Approval
+  Approval
+  Workflow                                                            04:28:59          Complete
+ Business Rules   Process Non-Po Invoice (NPO)        SAP_WFRT    13.02.2026        Approval
+ Check in BG                                                                           Complete
+                                                                      04:29:00
+ Create Doc. BG   Process Non-PO Invoice (NPo)        SAP_WFRT    13.02.2026        Sent for Doc
+                                                                      04:29:02          Creation
+                                                                                         Document
+Post Non-PO      Process Non-PO Invoice (NPO)        KARTHIK M  13.02.2026
+ Invoice                                                             11:32:54          Created
+SAP Document                                           SAP_WFRT    13.02.2026        Posted
+ Check                                                               11:32:59
+==================================<Page 2 - END>================================
+==================================<Page 3 - START>================================
+       PEPSICO
+  1.You must fill in all of the fields below and the form must be accompanied with supporting documentation.
+  2. Save submission as 1 single PDF file prior to submitting to nassapinvoicesubmission@pepsico.com
+  3. The form can be used for the following invoice/payment type activity: Taxes/Legal Settlements/Business
+              SAP Payment Request
+                                              To be filled by Requestor
+             Substitute Invoice Form
+  Vendor Type                                S4
+  Vendor Name:                               SPITZ LAW FIRM LLC
+  Vendor Number:
+                                             2003263996
+ Company Code:
+                                             US28
+ Remit To Address :                            3 Summit Park Dr Suite 200
+                                             Independence OH 44131
+ (Must match the address in the AP system)
+Special Handling needed:                      Yes
+Attn:                                      KIVA JORDAN
+Address:
+                                             7701 LEGACY DR PLANO TX 75024
+Overnight delivery required:
+(if yes provide account # or CC below)            No
+FedEx or UPS, & Provide Number:
+FedEx or UPS account #
+Cost Center (If No FedEx/UPs Number):
+Trnsaction type:
+Choose only 1 option - Invoice or Credit Memo from  Invoice
+the dropdown
+Invoice Date:                               2/3/2026
+Invoice #:
+Limited to 16 characters                       SPITZ2FEB2026
+Purchase Order #
+Not required if non-PO
+Payment GROsS Amount:                      $4739.90
+Tax Amount
+                                            $0.00
+(if applicable)
+Payment NET Amount:                        $4739.90
+Currency (USD or CAD)                        USD
+Header Text:                                NON-PO SPITZ LAW FIRM
+                                            KIVA JORDAN
+Requestor Name:
+Requestor email                             KIVA.JORDAN@PEPSISCO.COM
+1st Level Approver Name                      KIVA JORDAN
+1st Level Approver Email id/GPID                KIVA.JORDAN@PEPSISCO.COM
+Date Requested:                            2/3/2026
+GL Coding (6 digits)                          219577
+Cost Center (if applicable)
+Profit Center (if applicable)                    4FUSL00000
+WBS Element (if applicable)
+For Assistance On This Form submission please contact:
+Raise service now ticket(Snow)                 PepsiCo - Sign In
+==================================<Page 3 - END>================================
+==================================<Page 4 - START>================================
+                          SETTLEMENT AGREEMENT AND GENERAL RELEASE
+                  This Settlement Agreement and General Release (“Agreement”) is made and entered into
+          between William Jack Tupper (“Tupper’) and Frito-Lay North America, Inc., PepsiCo, Inc., its
+          present and former parents, subsidiaries, allied, affiliated and associated companies, their officers,
+          agents, servants, and employees (collectively “the Company")
+                  WHEREAS, Tupper filed against the Company a lawsuit pending in The Court of Common
+          Pleas, Trumbull County Ohio, entitled William Jack Tupper v. Rolling Frito-Lay Sales, LP, Case
+         No. 2025 CV 02991 (the “Lawsuit’”);
+                 WHEREAS, the Company contests all of Tupper's claims and denies any wrongdoing
+          whatsoever; and
+                 WHEREAS, the Parties desire to compromise and resolve any and all disputes Tupper has
+          with the Company.
+                 NOW, THEREFORE, Tupper and the Company agree as follows:
+                 1.     Dismissal of Lawsuit.
+                         a.     Within seven (7) calendar days after receiving the Settlement Payment,
+          Tupper, either himself or through Plaintiff's counsel, shall take all actions necessary to draft,
+          prepare, and submit to the Court any documentation required to effectuate a voluntary
+          dismissal of the Lawsuit with prejudice.
+                        b.     Tupper agrees that Tupper will take any steps necessary to ensure that the
+         Lawsuit is dismissed with prejudice.
+                2.
+                        Further Assurance. Tupper warrants and represents that Tupper has filed no other
+         claims, charges or lawsuits against the Company other than the Lawsuit. If Tupper has, Tupper
+        40+
+==================================<Page 4 - END>================================
+==================================<Page 5 - START>================================
+          agrees that Tupper shall take all steps necessary to make sure that any and all claims are dismissed
+          with prejudice.
+                  3.    Settlement Payment. In consideration of the promises, releases and covenants
+          made herein, the Company willpay Tupper the gross sum of Ten Thousand, Five Hundred Dollars
+           ($10,500) (the “Settlement Payment”). The Settlement Payment will be disbursed as follows: (i)
+          Two Thousand Eight Hundred Eighty Dollars and Five Cents ($2,880.05), payable to Tupper, less
+          applicable taxes and withholdings, in settlement of Tupper's claims for lost wages, for which
+          Tupper will receive a Form W-2 at the appropriate time; (ii) Two Thousand Eight Hundred Eighty
+          Dollars and Five Cents ($2,880.05), payable to Tupper, in settlement of Tupper's non-wage claims,
+           for which Tupper will receive a Form 1099 at the appropriate time, and (ii) Four Thousand Seven
+           Hundred Thirty-Nine Dollars and Ninety Cents ($4,739.90), payable to Plaintiff's Counsel, “Spitz,
+           The Employee's Law Firm," for Plaintiff's attorneys' fees and costs in connection with the Action,
+           for which Plaintiff's Counsel will receive a Form 1099 at the appropriate time.
+                  The Settlement Payment will be made to Plaintiff within forty-five (45) days of the
+           Company’s receipt of: (i) this Agreement, and (ii) the Settlement Payment Processing Packet,
+           attached hereto as Exhibit A, properly completed, signed, and dated by Tupper and Plaintiff's
+          Counsel. Tupper acknowledges that neither the Company nor its agents made any representations
+           about the taxability of the Settlement Payment and further agrees to indemnify the Company from
+          any liability to any taxing authority based on Tupper's tax filings and the taxing authorities'
+          treatment of those filings. Tupper understands that if Tupper fails to execute and return this
+          Agreement, this Agreement will not become effective and Tupper will not be entitled to the
+          Settlement Payment.
+==================================<Page 5 - END>================================
+==================================<Page 6 - START>================================
+                4.     General Release.
+                                Tupper, on behalf of him and his heirs, legatees and personal
+                        a.
+        representatives, releases and waives all claims, suits, or actions of any kind against the Company,
+         any of its employee benefit plans and insurers, and any of its current and former directors, officers,
+         employees, trustees and agents (in their personal and official capacities) (together the “Released
+         Parties”) which Tupper has, had, or may have through the date Tupper signs this Agreement,
+         whether known or unknown to Tupper, including but not limited to all claims under Title VII of
+         the Civil Rights Act of 1964, Civil Rights Act of 1991, Civil Rights Act of 1866, 42 U.S.C. § 1981,
+         the Americans with Disabilities Act, the Family and Medical Leave Act, the Age Discrimination
+          in Employment Act, and under any other federal, state and local statute, ordinance, regulation, and
+          order, under the common law, and under any collective bargaining agreement or Released Party
+          policy, practice or procedure.
+                         b.    Notwithstanding the foregoing, Tupper does not waive (i) rights under this
+          Agreement; (ii) vested benefits under any retirement plan in which Tupper is a participant and in
+          accordance with the terms of the plan; and (iii) claims that cannot be waived as a matter of law.
+                 5.     Waiver of Damages and Relief from Third-Party Claims.Tupper waives the
+          right to recover any damages or other personal relief based on any claim, cause of action, demand
+          or lawsuit brought on Tupper's behalf by any third party or govemment agency against any
+          Released Party, including as a member of any class or collective action, and hereby expressly
+          agrees to provide any such damages or relief directly to the Company. Notwithstanding the
+           foregoing, nothing in this Section 5 is intended to bar Tupper from, without notice to the Company,
+          engaging in any of the activities described in Section 7(a) below.
+                  6.    Confidentiality and Non-Disparagement.
+==================================<Page 6 - END>================================
+==================================<Page 7 - START>================================
+                                 Tupper agrees that Tupper will maintain the fact of settlement and the terms
+                         a.
+          of this Agreement in a private and confidential manner, and will never disclose them to any person
+          or entity except (i) to the extent necessary to carry out the terms of this Agreement; (ii) as legally
+          required after notice by Tupper to the Company of such legally required disclosure; or (ii) as
+          permitted by Section 7(a) below regarding communications with government agencies; provided
+          that in all circumstances Tupper may disclose this Agreement to Tupper’s spouse, tax advisor and
+          legal counsel, provided that such recipients of this information are informed of and agree to be
+          bound by this confidentiality provision prior to disclosure. Upon inquiry of any kind about this
+          matter by any entity or individual not a party to this Agreement (including by any current or former
+          Company employee), Tupper shall state only that this matter has been resolved and shall give no
+          other indication(s), verbal or otherwise, regarding the outcome or the general or specific terms of
+           this Agreement.
+                         b. Tupper will not make any adverse or disparaging comments about the
+           Company, its products or services, or its officers and employees in their official or individual
+           capacities that may tend to impugn or injure their reputation, goodwill, or relationships with their
+          past, present and future employees and with the business community generally. Nothing in this
+          section is intended to bar Tupper from, without notice to the Company, engaging in any of the
+          activities described in Section 7(a) below. The non-disparagement obligation in this Agreement
+          does not prevent Tupper from exercising the right to (a) communicate with a law enforcement
+          officer acting within the line and scope of the officer's law enforcement duties that a violation of
+          the law has occurred or is occurring; (b) communicate with a government regulator acting within
+          the line and scope of the regulator's regulatory duties that a violation of the law has occurred or is
+          occurring; (c) respond to a lawfully served judicial, grand jury, or other lawful subpoena; (d) testify
+==================================<Page 7 - END>================================
+==================================<Page 8 - START>================================
+          in a judicial or administrative proceeding in response to a lawfully served subpoena or an order of
+          a court of competent jurisdiction; (e) confer with the obligated party's attorney for the purpose of
+          obtaining legal advice or representation; (f) respond to lawful discovery in a judicial or
+          administrative action; provided the disparaging statement is either ordered by a court of competent
+          jurisdiction or made in compliance with a protective order entered by the same court; (g) prosecute
+          or defend a civil action between or among parties to a covered contract; provided the party making
+          the disparaging statement attempts to and, if permitted by law, does file the disparaging statement
+           and any related pleading under seal or in compliance with a protective order entered by a court of
+           competent jurisdiction in the civil action; or (h) exercise federally protected statutory rights,
+           including, but not limited to, the exercise of rights under the National Labor Relations Act or the
+           Civil Rights Act of 1964, as amended.
+                          Reservation of Rights.
+                  7.
+                          a.     Tupper agrees not to file or pursue any claims against any of the Released
+           Parties about anything that has occurred up to and including the date Tupper signs this Agreement.
+           Notwithstanding the foregoing, nothing in this Agreement or in any other confidentiality provision
+          to which Tupper may be subject as a result of employment with the Company shall prohibit Tupper
+          from, without notice to the Company, communicating with government agencies, providing
+          information to government agencies, participating in government agency investigations, filing a
+          complaint with government agencies, or testifying in government agency proceedings concerning
+          any possible legal violations or from receiving any monetary award for information provided to a
+          government agency. The Released Parties nonetheless assert and do not waive the attorney-client
+          privilege over any information appropriately protected by the privilege.
+==================================<Page 8 - END>================================
+==================================<Page 9 - START>================================
+                         b.     Tupper is advised that pursuant to the Defend Trade Secrets Act an
+         individual shall not be held criminally or civilly liable under any federal or state trade secret law
+         for the disclosure of a trade secret that (A) is made (i) in confidence to a federal, state, or local
+         government official, either directly or indirectly, or to an attorney; and (ii) solely for the purpose
+         of reporting or investigating a suspected violation of law; or (B) is made in a complaint or other
+          document filed in a lawsuit or other proceeding, if such filing is made under seal. Further, Tupper
+          understands that in the event that disclosure of any Released Party's trade secrets was not done in
+          good faith pursuant to the above, Tupper will be subject to substantial damages, including punitive
+          damages and attorneys' fees.
+                         Release of Attorney Lien. Tupper represents that any attorney Tupper has retained
+                 8.
+          in any matter relating to any Released Party will release all liens or other claims for attorney's fees
+          against any Released Party in connection with his or her representation of Tupper. Tupper
+          confirms that Tupper is not aware of any such lien but agrees that if one exists, Tupper, and not
+          any Released Party, is solely responsible for its payment.
+                 9.     Exclusive Payment. Other than as set forth in Section 3 above, Tupper agrees that
+          Tupper is not entitled to and shall not receive any compensation, benefits, fees, costs, overtime
+          pay, vacation pay, sick pay, holiday pay, incentive pay, bonus, commissions, back pay,
+          compensatory, liquidated or punitive damages, or other payments, from any Released Party.
+          Tupper agrees that prior to executing this Agreement Tupper was properly paid for all hours
+          worked while employed by the Company.
+                 10.   No Reemployment or Application. Tupper waives any right to reemployment
+          with the Company, as broadly defined herein, and agrees not to seek or apply for employment with
+          the Company. Tupper acknowledges and agrees that they have no right to reinstatement, rehire, or
+==================================<Page 9 - END>================================
+==================================<Page 10 - START>================================
+          employment by the Company or Releasees, in any capacity, including permanent, temporary, or
+          casual employment, whether directly by the Company or indirectly by any organization or agency
+          furnishing labor to the Company. Tupper further agrees not to apply for employment with the
+          Company or the Releasees after execution of this Agreement. Tupper acknowledges that any such
+          attempt to seek employment or reemployment would be a breach of this Agreement, and the
+          Company and the other Releasees may disregard any such application or attempt. If any entity
+          employing Tupper after their employment with the Company is acquired by PepsiCo, Inc. or any
+          of the Releasees, such acquisition and/or Tupper's continued employment thereafter will not
+          constitute a violation of this provision. If Tupper applies for employment with the Company,
+          Tupper agrees that this Agreement is sufficient and appropriate legal, non-discriminatory and non-
+          retaliatory justification for denying employment or terminating employment, if inadvertently
+          hired.
+                  11.  Severability. In the event any portion of this Agreement is adjudged invalid or
+          unenforceable (other than the general release in Section 4), the remaining portions of the
+          Agreement shall remain in full force and effect.
+                  12.   Nonadmission.By entering into this Agreement, the Company does not admit any
+          liability or wrongdoing whatsoever; it is expressly understood and agreed that this Agreement is
+          not intended and shall not be deemed to constitute an admission that the Company was liable or
+          engaged in any wrongdoing whatsoever. The Company expressly denies any wrongdoing.
+                 13.   Further Assurance. The Parties shall execute such other documents and take such
+          further action as may be necessary to carry out the intent of this Agreement.
+                 14.   Entire Agreement. This Agreement supersedes any and all prior agreements,
+          contracts and understandings and constitutes the entire agreement between the Parties pertaining
+==================================<Page 10 - END>================================
+==================================<Page 11 - START>================================
+        to the subject matter hereof. Tupper represents and acknowledges in executing this Agreement
+        that Tupper has not relied upon any representation or statement not set forth in this Agreement
+        No other promises or agreements shall be binding unless in writing, signed by the Parties hereto,
+        and expressly stated to represent an amendment to this Agreement.
+                15.    Governing Law. This Agreement shall be governed by the laws of the State of
+        Alabama.
+                16.   Counterparts. This Agreement may be executed in counterparts and each
+         counterpart, when executed, shall have the efficacy of a second original. Photographic, scanned
+         or facsimile copies of any such signed counterparts may be used in lieu of the original for any
+         purpose.
+                17.   Knowing and Voluntary.Tupper acknowledges and certifies that:
+                        a.     Tupper enters into this Agreement knowingly and voluntarily;
+                        b.     Tupper has read and understands this Agreement in its entirety;
+                        c.     Tupper's execution of this Agreement has not been forced or coerced by
+         any employee or agent of the Company;
+                        d.    Tupper has had the opportunity to take up to twenty-one (21) days to
+         consider this Agreement before executing it and returning it to the Company;
+                        e.     Tupper has been advised, and is hereby advised, to consult legal counsel
+         about this Agreement before executing it;
+                        f.     Tupper is entitled to the consideration set forth in Section 3 of this
+         Agreement only by virtue of Tupper's execution of this Agreement, and said consideration thus
+         constitutes additional consideration to which Tupper is not otherwise entitled and is given for the
+         promises Tupper makes herein;
+==================================<Page 11 - END>================================
+==================================<Page 12 - START>================================
+                          g.     Tupper has the right to revoke this Agreement within seven (7) days of
+          signing it, by delivering written notice of that revocation to the attention of Dorthy Lukens,
+          Employment Law Director, at Dorthy.lukens@pepsico.com; and
+                         h.    Tupper understands that if Tupper fails to execute and return this Agreement
+          and Exhibit A to the Company, or if Tupper revokes this Agreement within seven (7) days of
+          signing it, Tupper will not be entitled to the consideration set forth in Section 3.
+                 IN WITNESS WHEREOF, William Jack Tupper and the Company have signed and
+         executed this Settlement Agreement on the dates indicated below and agree to be bound by its
+         terms.
+           WILLIAM JACK TUPPER, PLAINTIFF      FRITO-LAY, INC/PEPSICO, INC. (THE
+                                                              COMPANY)
+                                                              Dorthy Lukens
+          William Jack Tupper                            Dorthy Lukens
+                                                              Employment Law Director
+         Dated:Jan 20, 2026
+                                                                      January 26, 2026
+                                                             Dated:
+==================================<Page 12 - END>================================
+==================================<Page 13 - START>================================
+         From:           Sabrina Sarabria
+                          Lukens, Dorthy {PEP}
+         To:
+          Cc:             Chris Wido
+          Subject:         RE: [External] Settlement Documents - William Jack Tupper (Rolling Frito-Lay Sales, LP)
+          Date:           Monday, January 26, 2026 12:28:15 PM
+          Attachments:     image001.png
+                          image311109.png
+                          image020492.png
+          WARNING: Email originated outside of PepsiCo.
+          Mr. Tupper's phone number is (239) 289-8157 and his email address is
+          jaketupper5050@gmail.com
+         As for the firm's contact information, as the Case Manager assigned to Mr. Tupper's case, my
+         email address is sabrina@spitzlawfirm.com and the firm's main phone number is (216) 291-4744.
+         Thanks.
+         All the best,
+        Sabrina
+                                          SPITZ
+         Sabrina Sarabria
+        Case Manager
+        She/her
+         3 Summit Park Dr.
+         Suite 200
+         Independence, OH 44131
+         Direct: (216) 364-1370
+         Main: (216) 291-4744
+         Fax: (216) 291-5744
+         Locations • Website • Awards
+         Attention: Privileged and/or confidential information may be contained in this message and may be subject to legal privilege. Access to this e-mail by
+         anyone other than the intended is unauthorized. If you are not the intended recipient, you may not use, copy, distribute or deliver this message (or
+         any part of its contents) to anyone or take any action in reliance on it. If you are not the intended recipient, you should destroy this message, and
+         notify SPITZ immediately by e-mail and/or lelephone.
+         From: Lukens, Dorthy{PEP} <Dorthy.Lukens@pepsico.com>
+         Sent: Monday, January 26, 2026 10:54 AM
+         To: Chris Wido <Chris.Wido@spitzlawfirm.com>
+         Subject: RE: [External] Settlement Documents - William Jack Tupper (Rolling Frito-Lay Sales, LP)
+         Will you please provide the contact information for Mr. Tupper and the firm (email and phone) so I
+         can submit the payment request.
+         Dorthy Beemon-Lukens
+          Employment Law Director
+          CORP Legal Global HR
+==================================<Page 13 - END>================================
+==================================<Page 14 - START>================================
+         From: SPA - PepsiCo Nass AP Invoice Submission <nassapInvoiceSubmission@pepsico.com>
+         Sent: Tue, 3 Feb 2026 16:40:23 (UTC)
+         To: svcimagingspaboxprod@pepsico.com
+         Subject: FW: NON-PO SPITZ LAW FIRM LLC
+         Original Number of Attachments : 1
+        Original Attachment Names: NON-PO SPITZ LAW FIRM LLC.pdf
+        Number of forwarded PDF's: 1
+        Number of forwarded Non PDF files: 0
+        From: Jordan, Kiva{PEP}<Kiva.Jordan@pepsico.com>
+        Sent: Tuesday, February3, 2026 4:39:32 PM
+        To: SPA - PepsiCo Nass AP Invoice Submission <nassaplnvoiceSubmission@pepsico. com>
+        Subject: NON-PO SPITZ LAW FIRM LLC
+        Please process as check with special handling.
+==================================<Page 14 - END>================================

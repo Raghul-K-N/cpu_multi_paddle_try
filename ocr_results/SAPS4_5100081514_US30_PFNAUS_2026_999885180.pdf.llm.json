@@ -1,0 +1,81 @@
+{
+  "invoice_data": {
+    "invoice_number": "6585655400",
+    "invoice_date": "12/17/2025",
+    "invoice_amount": "286.40",
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": "18.74",
+    "po_number": [
+      "E057856",
+      "PO 23576241"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "BRIDGESTONE RIDGESTONE AMERICAS TIRE OPERATIONS, LLC",
+    "vendor_address": "00 4TH AVENUE SOUTH, SUITE 100, P.O. BOX 140990, NASHVILLE, TENNESSEE 37201, PHONE: (888) 709-8023, FAX: (855) 389-3463",
+    "po_line_items": [
+      {
+        "description": "FEE, MILEAGE",
+        "quantity": 14.0,
+        "net_price": 0.61
+      },
+      {
+        "description": "MUD FLAP",
+        "quantity": 1.0,
+        "net_price": 17.99
+      },
+      {
+        "description": "EMERGENCY REG HR SVC CALL",
+        "quantity": 1.5,
+        "net_price": 160.75
+      }
+    ],
+    "vat_amount": null,
+    "gl_account": null,
+    "bank_name": null,
+    "account_holder_name": null,
+    "banking_account_number": null,
+    "remit_to_address": null,
+    "bill_to_address": null,
+    "transaction_type": "debit"
+  },
+  "filename": "SAPS4_5100081514_US30_PFNAUS_2026_999885180.pdf",
+  "raw_response": {
+    "invoice_number": "6585655400",
+    "invoice_date": "12/17/2025",
+    "invoice_amount": "286.40",
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": "18.74",
+    "po_number": [
+      "E057856",
+      "PO 23576241"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "BRIDGESTONE RIDGESTONE AMERICAS TIRE OPERATIONS, LLC",
+    "vendor_address": "00 4TH AVENUE SOUTH, SUITE 100, P.O. BOX 140990, NASHVILLE, TENNESSEE 37201, PHONE: (888) 709-8023, FAX: (855) 389-3463",
+    "po_line_items": [
+      {
+        "description": "FEE, MILEAGE",
+        "quantity": 14.0,
+        "net_price": 0.61
+      },
+      {
+        "description": "MUD FLAP",
+        "quantity": 1.0,
+        "net_price": 17.99
+      },
+      {
+        "description": "EMERGENCY REG HR SVC CALL",
+        "quantity": 1.5,
+        "net_price": 160.75
+      }
+    ]
+  }
+}

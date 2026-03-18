@@ -1,0 +1,71 @@
+{
+  "invoice_data": {
+    "invoice_number": "6098470",
+    "invoice_date": "Tuesday 10 Feb 2026 12:00 PM GMT-08:00",
+    "invoice_amount": "31.72",
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": null,
+    "po_number": [
+      "M413403413",
+      "M413014913"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "Sprague Pest Solutions",
+    "vendor_address": "PO Box 35129 -REMITTANCE, 2725 Pacific Ave, Seattle, WA 98124-5129, United States",
+    "po_line_items": [
+      {
+        "description": "PEST CONTROLS MODESTO BPO 2026 / PEST CONTROLS MODESTO BPO 2026",
+        "quantity": 31.72,
+        "net_price": 1.0
+      },
+      {
+        "description": "SERVICE OF ONE QUARTER OF ALL DEVICES",
+        "quantity": 15.25,
+        "net_price": 2.08
+      }
+    ],
+    "vat_amount": null,
+    "gl_account": null,
+    "bank_name": null,
+    "account_holder_name": null,
+    "banking_account_number": null,
+    "remit_to_address": null,
+    "bill_to_address": null,
+    "transaction_type": "debit"
+  },
+  "filename": "SAPS4_5100313517_US28_PFNAUS_2026_999930794.pdf",
+  "raw_response": {
+    "invoice_number": "6098470",
+    "invoice_date": "Tuesday 10 Feb 2026 12:00 PM GMT-08:00",
+    "invoice_amount": "31.72",
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": null,
+    "po_number": [
+      "M413403413",
+      "M413014913"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "Sprague Pest Solutions",
+    "vendor_address": "PO Box 35129 -REMITTANCE, 2725 Pacific Ave, Seattle, WA 98124-5129, United States",
+    "po_line_items": [
+      {
+        "description": "PEST CONTROLS MODESTO BPO 2026 / PEST CONTROLS MODESTO BPO 2026",
+        "quantity": 31.72,
+        "net_price": 1.0
+      },
+      {
+        "description": "SERVICE OF ONE QUARTER OF ALL DEVICES",
+        "quantity": 15.25,
+        "net_price": 2.08
+      }
+    ]
+  }
+}

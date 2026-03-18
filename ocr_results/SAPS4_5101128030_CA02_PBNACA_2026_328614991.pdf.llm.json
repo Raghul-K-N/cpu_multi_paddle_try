@@ -1,0 +1,89 @@
+{
+  "invoice_data": {
+    "invoice_number": "79614413",
+    "invoice_date": "26-NOV-25",
+    "invoice_amount": "956.22",
+    "invoice_currency": [
+      "CAD"
+    ],
+    "tax_amount": "124.73",
+    "po_number": [
+      "M413536788"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "Air Liquide Canada Inc.",
+    "vendor_address": "280 JOHN ST, MONCTON NB E1C 9W3",
+    "po_line_items": [
+      {
+        "description": "ALIGAL 1, 44, (6.32M3 / 223.19SCF), CGA-580",
+        "quantity": 8.0,
+        "net_price": 504.8
+      },
+      {
+        "description": "EMPTY CYLINDER ALIGAL #1, SIZE 44 (6.32 M3), CGA-580",
+        "quantity": 11.0,
+        "net_price": 0.0
+      },
+      {
+        "description": "EMPTY CYLINDER ARGON, SIZE 16 (2.75 M3), CGA-580",
+        "quantity": 1.0,
+        "net_price": 0.0
+      },
+      {
+        "description": "CHARGE, FUEL SURCHARGE",
+        "quantity": 1.0,
+        "net_price": 21.74
+      }
+    ],
+    "vat_amount": null,
+    "gl_account": null,
+    "bank_name": null,
+    "account_holder_name": null,
+    "banking_account_number": null,
+    "remit_to_address": null,
+    "bill_to_address": null,
+    "transaction_type": "debit"
+  },
+  "filename": "SAPS4_5101128030_CA02_PBNACA_2026_328614991.pdf",
+  "raw_response": {
+    "invoice_number": "79614413",
+    "invoice_date": "26-NOV-25",
+    "invoice_amount": "956.22",
+    "invoice_currency": [
+      "CAD"
+    ],
+    "tax_amount": "124.73",
+    "po_number": [
+      "M413536788"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "Air Liquide Canada Inc.",
+    "vendor_address": "280 JOHN ST, MONCTON NB E1C 9W3",
+    "po_line_items": [
+      {
+        "description": "ALIGAL 1, 44, (6.32M3 / 223.19SCF), CGA-580",
+        "quantity": 8.0,
+        "net_price": 504.8
+      },
+      {
+        "description": "EMPTY CYLINDER ALIGAL #1, SIZE 44 (6.32 M3), CGA-580",
+        "quantity": 11.0,
+        "net_price": 0.0
+      },
+      {
+        "description": "EMPTY CYLINDER ARGON, SIZE 16 (2.75 M3), CGA-580",
+        "quantity": 1.0,
+        "net_price": 0.0
+      },
+      {
+        "description": "CHARGE, FUEL SURCHARGE",
+        "quantity": 1.0,
+        "net_price": 21.74
+      }
+    ]
+  }
+}

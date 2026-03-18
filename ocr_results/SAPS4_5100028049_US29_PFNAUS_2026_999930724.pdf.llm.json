@@ -1,0 +1,59 @@
+{
+  "invoice_data": {
+    "invoice_number": "PSI-001142464",
+    "invoice_date": "01/30/26",
+    "invoice_amount": "535.84",
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": "40.84",
+    "po_number": [
+      "M412307592"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "SHOPPA'S MATERIAL HANDLING LTD",
+    "vendor_address": "118 East Slaton Rd, LUBBOCK, TX 79404, USA",
+    "po_line_items": [
+      {
+        "description": "Battery 36 Volt",
+        "quantity": 1.0,
+        "net_price": 495.0
+      }
+    ],
+    "vat_amount": null,
+    "gl_account": null,
+    "bank_name": null,
+    "account_holder_name": null,
+    "banking_account_number": null,
+    "remit_to_address": null,
+    "bill_to_address": null,
+    "transaction_type": "debit"
+  },
+  "filename": "SAPS4_5100028049_US29_PFNAUS_2026_999930724.pdf",
+  "raw_response": {
+    "invoice_number": "PSI-001142464",
+    "invoice_date": "01/30/26",
+    "invoice_amount": "535.84",
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": "40.84",
+    "po_number": [
+      "M412307592"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "SHOPPA'S MATERIAL HANDLING LTD",
+    "vendor_address": "118 East Slaton Rd, LUBBOCK, TX 79404, USA",
+    "po_line_items": [
+      {
+        "description": "Battery 36 Volt",
+        "quantity": 1.0,
+        "net_price": 495.0
+      }
+    ]
+  }
+}

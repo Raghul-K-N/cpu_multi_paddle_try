@@ -1,0 +1,59 @@
+{
+  "invoice_data": {
+    "invoice_number": "9806379419",
+    "invoice_date": "Thursday 12 Feb. 2026 7:00 a.m. GMT-05:00",
+    "invoice_amount": "544.43",
+    "invoice_currency": [
+      "CAD"
+    ],
+    "tax_amount": "62.63",
+    "po_number": [
+      "M413384172"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "ACKLANDS-GRAINGER INC.",
+    "vendor_address": "PO BOX 2970, WINNIPEG, MB R3C 4B5, CA ON N3H 4V8, Canada",
+    "po_line_items": [
+      {
+        "description": "RMC71602/29362 / FL0OR SQUEEGEE.24 IN W.STRAIGHT",
+        "quantity": 5.0,
+        "net_price": 96.36
+      }
+    ],
+    "vat_amount": null,
+    "gl_account": null,
+    "bank_name": null,
+    "account_holder_name": null,
+    "banking_account_number": null,
+    "remit_to_address": null,
+    "bill_to_address": null,
+    "transaction_type": "debit"
+  },
+  "filename": "SAPS4_5100107003_CA11_PFNACA_2026_304667491.pdf",
+  "raw_response": {
+    "invoice_number": "9806379419",
+    "invoice_date": "Thursday 12 Feb. 2026 7:00 a.m. GMT-05:00",
+    "invoice_amount": "544.43",
+    "invoice_currency": [
+      "CAD"
+    ],
+    "tax_amount": "62.63",
+    "po_number": [
+      "M413384172"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "ACKLANDS-GRAINGER INC.",
+    "vendor_address": "PO BOX 2970, WINNIPEG, MB R3C 4B5, CA ON N3H 4V8, Canada",
+    "po_line_items": [
+      {
+        "description": "RMC71602/29362 / FL0OR SQUEEGEE.24 IN W.STRAIGHT",
+        "quantity": 5.0,
+        "net_price": 96.36
+      }
+    ]
+  }
+}

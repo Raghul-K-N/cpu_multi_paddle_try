@@ -1,0 +1,99 @@
+{
+  "invoice_data": {
+    "invoice_number": "2025039211",
+    "invoice_date": "02/03/2026",
+    "invoice_amount": "2230.99",
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": null,
+    "po_number": [
+      "4503263200"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "Heat and Control",
+    "vendor_address": "21121 CABOT BLVD, HAYWARD CA 94545-1132",
+    "po_line_items": [
+      {
+        "description": "XP-5535-2",
+        "quantity": 1.0,
+        "net_price": 364.15
+      },
+      {
+        "description": "XP-5576-2",
+        "quantity": 1.0,
+        "net_price": 1435.9
+      },
+      {
+        "description": "X95-0072-07",
+        "quantity": 4.0,
+        "net_price": 14.1
+      },
+      {
+        "description": "X95-0034-14",
+        "quantity": 1.0,
+        "net_price": 106.9
+      },
+      {
+        "description": "1010",
+        "quantity": 1.0,
+        "net_price": 267.64
+      }
+    ],
+    "vat_amount": null,
+    "gl_account": null,
+    "bank_name": null,
+    "account_holder_name": null,
+    "banking_account_number": null,
+    "remit_to_address": null,
+    "bill_to_address": null,
+    "transaction_type": "debit"
+  },
+  "filename": "SAPS4_5100463533_US28_PFNAUS_2026_999935021.pdf",
+  "raw_response": {
+    "invoice_number": "2025039211",
+    "invoice_date": "02/03/2026",
+    "invoice_amount": "2230.99",
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": null,
+    "po_number": [
+      "4503263200"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "Heat and Control",
+    "vendor_address": "21121 CABOT BLVD, HAYWARD CA 94545-1132",
+    "po_line_items": [
+      {
+        "description": "XP-5535-2",
+        "quantity": 1.0,
+        "net_price": 364.15
+      },
+      {
+        "description": "XP-5576-2",
+        "quantity": 1.0,
+        "net_price": 1435.9
+      },
+      {
+        "description": "X95-0072-07",
+        "quantity": 4.0,
+        "net_price": 14.1
+      },
+      {
+        "description": "X95-0034-14",
+        "quantity": 1.0,
+        "net_price": 106.9
+      },
+      {
+        "description": "1010",
+        "quantity": 1.0,
+        "net_price": 267.64
+      }
+    ]
+  }
+}

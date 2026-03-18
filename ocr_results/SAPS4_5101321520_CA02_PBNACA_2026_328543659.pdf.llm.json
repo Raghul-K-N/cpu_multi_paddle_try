@@ -1,0 +1,69 @@
+{
+  "invoice_data": {
+    "invoice_number": "72391153",
+    "invoice_date": "Monday 9 Feb. 2026 6:09 a.m. GMT-07:00",
+    "invoice_amount": "18.13",
+    "invoice_currency": [
+      "CAD"
+    ],
+    "tax_amount": "2.08",
+    "po_number": [
+      "M413546747"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "STAPLES CANADA ULC",
+    "vendor_address": "550 PENDANT DR, MISSISSAUGA, ON L5T 2W6, Canada, 5550 EXPLORER DR 8TH FLOOR, MISSISSAUGA, ON L4W 0C3, Canada",
+    "po_line_items": [
+      {
+        "description": "Material STP18148 / RUBBERBANDS #19 1/4LB",
+        "quantity": 1.0,
+        "net_price": 6.79
+      },
+      {
+        "description": "Material BICGSM609BLU / PEN.BALLPNT RNDSTICK MED BLU",
+        "quantity": 1.0,
+        "net_price": 9.26
+      }
+    ],
+    "vat_amount": null,
+    "gl_account": null,
+    "bank_name": null,
+    "account_holder_name": null,
+    "banking_account_number": null,
+    "remit_to_address": null,
+    "bill_to_address": null,
+    "transaction_type": "debit"
+  },
+  "filename": "SAPS4_5101321520_CA02_PBNACA_2026_328543659.pdf",
+  "raw_response": {
+    "invoice_number": "72391153",
+    "invoice_date": "Monday 9 Feb. 2026 6:09 a.m. GMT-07:00",
+    "invoice_amount": "18.13",
+    "invoice_currency": [
+      "CAD"
+    ],
+    "tax_amount": "2.08",
+    "po_number": [
+      "M413546747"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "STAPLES CANADA ULC",
+    "vendor_address": "550 PENDANT DR, MISSISSAUGA, ON L5T 2W6, Canada, 5550 EXPLORER DR 8TH FLOOR, MISSISSAUGA, ON L4W 0C3, Canada",
+    "po_line_items": [
+      {
+        "description": "Material STP18148 / RUBBERBANDS #19 1/4LB",
+        "quantity": 1.0,
+        "net_price": 6.79
+      },
+      {
+        "description": "Material BICGSM609BLU / PEN.BALLPNT RNDSTICK MED BLU",
+        "quantity": 1.0,
+        "net_price": 9.26
+      }
+    ]
+  }
+}

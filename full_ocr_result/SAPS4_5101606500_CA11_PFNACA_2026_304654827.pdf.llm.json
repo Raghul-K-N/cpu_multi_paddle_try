@@ -1,0 +1,69 @@
+{
+  "invoice_data": {
+    "invoice_number": "GR# 5016017563",
+    "invoice_date": "02/02/2026",
+    "invoice_amount": null,
+    "invoice_currency": [
+      "CAD"
+    ],
+    "tax_amount": "../../../3.79",
+    "po_number": [
+      "R17036"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "Raphael Albuquerque",
+    "vendor_address": "Centre dn Véhjcule Chartrand ine, Éhartrandinc. 1325 Monlée Masson Laval (Qnébee) Canada H7C 0G7 Tél : 450-661-7140 Fax : 450-661-2962 info@chartrandine.com www.chartrandine.com",
+    "po_line_items": [
+      {
+        "description": "Revérification pour conformité",
+        "quantity": 1.0,
+        "net_price": 69.0
+      },
+      {
+        "description": "Vignette de conformité",
+        "quantity": 1.0,
+        "net_price": 6.75
+      }
+    ],
+    "vat_amount": null,
+    "gl_account": null,
+    "bank_name": null,
+    "account_holder_name": null,
+    "banking_account_number": null,
+    "remit_to_address": null,
+    "bill_to_address": null,
+    "transaction_type": "debit"
+  },
+  "filename": "SAPS4_5101606500_CA11_PFNACA_2026_304654827.pdf",
+  "raw_response": {
+    "invoice_number": "GR# 5016017563",
+    "invoice_date": "02/02/2026",
+    "invoice_amount": "../../../87.10",
+    "invoice_currency": [
+      "CAD"
+    ],
+    "tax_amount": "../../../3.79",
+    "po_number": [
+      "R17036"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "Raphael Albuquerque",
+    "vendor_address": "Centre dn Véhjcule Chartrand ine, Éhartrandinc. 1325 Monlée Masson Laval (Qnébee) Canada H7C 0G7 Tél : 450-661-7140 Fax : 450-661-2962 info@chartrandine.com www.chartrandine.com",
+    "po_line_items": [
+      {
+        "description": "Revérification pour conformité",
+        "quantity": 1.0,
+        "net_price": 69.0
+      },
+      {
+        "description": "Vignette de conformité",
+        "quantity": 1.0,
+        "net_price": 6.75
+      }
+    ]
+  }
+}

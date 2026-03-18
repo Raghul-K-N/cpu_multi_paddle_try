@@ -1,0 +1,81 @@
+{
+  "invoice_data": {
+    "invoice_number": "5404966027",
+    "invoice_date": "28-JAN-26",
+    "invoice_amount": "2190.75",
+    "invoice_currency": [
+      "CAD"
+    ],
+    "tax_amount": "285.75",
+    "po_number": [
+      "4504482080",
+      "A5A1H7"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "U-Haul",
+    "vendor_address": "U-Haul PO BOX 52128, Phoenix AZ 85072-2128",
+    "po_line_items": [
+      {
+        "description": "1 ko'TRUCK (TT3285F) ODOM OUT: 170233 ODOM IN: 170233",
+        "quantity": 38.0,
+        "net_price": 1900.0
+      },
+      {
+        "description": "50.00",
+        "quantity": 1.0,
+        "net_price": 5.0
+      },
+      {
+        "description": "ENVIRONMENTAL FEE",
+        "quantity": 1.0,
+        "net_price": 285.75
+      }
+    ],
+    "vat_amount": null,
+    "gl_account": null,
+    "bank_name": null,
+    "account_holder_name": null,
+    "banking_account_number": null,
+    "remit_to_address": null,
+    "bill_to_address": null,
+    "transaction_type": "debit"
+  },
+  "filename": "SAPS4_5101606501_CA11_PFNACA_2026_304654831.pdf",
+  "raw_response": {
+    "invoice_number": "5404966027",
+    "invoice_date": "28-JAN-26",
+    "invoice_amount": "2190.75",
+    "invoice_currency": [
+      "CAD"
+    ],
+    "tax_amount": "285.75",
+    "po_number": [
+      "4504482080",
+      "A5A1H7"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "U-Haul",
+    "vendor_address": "U-Haul PO BOX 52128, Phoenix AZ 85072-2128",
+    "po_line_items": [
+      {
+        "description": "1 ko'TRUCK (TT3285F) ODOM OUT: 170233 ODOM IN: 170233",
+        "quantity": 38.0,
+        "net_price": 1900.0
+      },
+      {
+        "description": "50.00",
+        "quantity": 1.0,
+        "net_price": 5.0
+      },
+      {
+        "description": "ENVIRONMENTAL FEE",
+        "quantity": 1.0,
+        "net_price": 285.75
+      }
+    ]
+  }
+}

@@ -1,0 +1,756 @@
+==================================<Page 1 - START>================================
+  OpenText Workflow History
+  Vendor
+   MIRIAM MEDINA SALDANA
+   1305 CEDAR BRUSH TRL
+   ARLINGTON TX 76014
+   USA
+   Invoice
+    Reference
+                      SALDANA2FEB26
+                                                               Document Date    02.02.2026
+   DP Document No.  39237902
+                                                               Net Amount
+                                                                                USD        14,000.00
+   Comp. Code
+                     US28 Frito-Lay, Inc.                     Tax Amount
+                                                                                USD               0.00
+   Posting Date     13.02.2026
+                                                               Gross Amount
+                                                                                USD        14,000.00
+   SAP Document No. 1900724001 2026
+                                           Pre-Process History
+    ACTIVITY
+                                                          USER       END TIME         DOCUMENT STATUS
+    Update status                                        VRBLAOT_U  03.02.2026       Validation
+                                                          SR         16:54:27         Complete
+                                      Document Process History
+    ACTIVITY         PROCESS TYPE/BLOCK REASON
+                                                         USER        END TIME         DOCUMENT STATUS
+    BC Inbound                                                       03.02.2026
+                                                         VRBLAOT_U                    Document
+                                                         SR          16:52:11         Registered
+    Workflow Start   Please Index (NPO)
+                                                         Record to  03.02.2026       Created
+                                                         Report     16:54:27
+                                                         Batch
+                                                         Account
+                                                         Owner:
+   Apply Business   Invalid Requestor ID (NPO)
+                                                         NAVINKUMA  11.02.2026        Created
+   Rules
+                                                         RR         16:20:01
+   Comment:
+   Changed By:
+                 NAVINKUMAR R (09336939)
+   Changed On:
+                 02/11/2026 16:20:00
+  Hi
+  Please approve the non po
+  Apply Business   Invalid Requestor ID (NPO)
+                                                         NAVINKUMA  11.02.2026        Created
+ Rules
+                                                         RR
+                                                                     16:20:42
+ Comment:
+Changed By:   NAVINKUMAR R (09336939)
+Changed On:   02/11/2026 16:20:38
+********************************************************************
+Hi
+Please approve the non po
+==================================<Page 1 - END>================================
+==================================<Page 2 - START>================================
+OpenText Workflow History
+Invoice
+Vendor            MIRIAM MEDINA SALDANA ARLINGTON
+Reference         SALDANA2FEB26
+                                                         Gross Amount     USD      14,000.00
+                              Document Process History - Continuation
+  ACTIVITY          PROCESS TYPE/BLOCK REASON          USER        END TIME          DOCUMENT STATUS
+  Business Rules   Approval Required (NPO)             SAP_WFRT   11.02.2026        Indexed
+  Check in BG                                                        16:20:47
+    Invoice submitted for Approval                                   11.02.2026 16:20:48
+    Financial Information Entered                       KIVA        11.02.2026 16:43:58
+                                                          JORDAN
+    Data Entered and Invoice Approved                   KIVA        11.02.2026 16:44:01
+                                                          JORDAN
+                                                          AIDA        12.02.2026 19:17:44
+    Invoice Approved
+                                                          BABALOLA
+    Comment:
+    Approved
+                                                                                         Approval
+  Approval          Approval Required (NPO)             SAP_WFRT   12.02.2026
+                                                                       19:17:51         Complete
+  Workflow
+                     Process Non-PO Invoice (NPO)       SAP_WFRT   12.02.2026       Approval
+  Business Rules
+                                                                                          Complete
+  Check in BG                                                        19:17:52
+                                                                       12.02.2026        Sent for Doc
+  Create Doc. BG   Process Non-Po Invoice (NPO)       SAP_WFRT
+                                                                       19:17:53          Creation
+                                                                                          Document
+  Post Non-PO      Process Non-PO Invoice (NPo)       KARTHIK M  13.02.2026
+                                                                       11:46:30          Created
+  Invoice
+                                                                       13.02.2026       Posted
+  SAP Document                                           SAP_WFRT
+  Check                                                              11:46:35
+==================================<Page 2 - END>================================
+==================================<Page 3 - START>================================
+       PEPSICO
+  1.You must fill in all of the fields below and the form must be accompanied with supporting documentation.
+  2.Save submission as 1 single PDF file prior to submitting to nassapinvoicesubmission@pepsico.com
+  3. The form can be used for the following invoice/payment type activity: Taxes/Legal Settlements/Business
+              SAP Payment Request
+                                                                To be filled by Requestor
+             Substitute Invoice Form
+  Vendor Type
+                                             S4
+  Vendor Name:                               MIRIAM MEDINA SALDANA
+  Vendor Number:                             2005200334
+ Company Code:
+                                             US28
+ Remit To Address :                           1305 CEDAR BRUSH TRAIL
+                                             ARLINGTON , TX 76014
+ (Must match the address in the AP system)
+ Special Handling needed:                      No
+Attn:
+Address:
+Overnight delivery required:
+(if yes provide account # or CC below)
+FedEx or UPS, & Provide Number:
+FedEx or UPS account #
+Cost Center (If No FedEx/UPs Number):
+Trnsaction type:
+Choose only 1 option - Invoice or Credit Memo from  Invoice
+the dropdown
+Invoice Date:                               2/2/2026
+Invoice #:
+                                            SALDANA2FEB26
+Limited to 16 characters
+Purchase Order #
+Not required if non-PO
+Payment GROsS Amount:                      $14,000.00
+Tax Amount
+                                            $0.00
+(if applicable)
+Payment NET Amount:                        $14,000.00
+Currency (USD or CAD)                        USD
+Header Text:                                NON-PO MIRIAM MEDINA SALDANA
+                                            KIVA JORDAN
+Requestor Name:
+                                            KIVA.JORDAN@PEPSISCO.COM
+Requestor email
+1st Level Approver Name                      KIVA JORDAN
+1st Level Approver Email id/GPID                KIVA.JORDAN@PEPSISCO.COM
+Date Requested:                            2/2/2026
+GL Coding (6 digits)                          219577
+Cost Center (if applicable)
+                                           4FUSL00000
+Profit Center (if applicable)
+WBS Element (if applicable)
+For Assistance On This Form submission please contact:
+Raise service now ticket(Snow)                 PepsiCo - Sign In
+==================================<Page 3 - END>================================
+==================================<Page 4 - START>================================
+                             SETTLEMENT AGREEMENT AND GENERAL RELEASE
+                This Settlement Agreement and General Release (“Agreement") is made and entered into
+         between MIRIAM SALDANA, her heirs, beneficiaries, executors, administrators, successors.
+          and assigns (collectively, “Charging Party"), and Frito Lay, Ine., as well as its present and former
+          parents; subsidiaries; allied, affiliated, and associated companies; officers: agents; servants; and
+          employees (collectively. “the Company").
+                 WHEREAS. Charging Party has alleged various claims and causes of action against the
+         Company related to her employment and the end of her employment, as more particularly set forth
+         in the Charge No. 31C-2025-00184; FEPA 1A25165 cross-filed with the U.S. Equal Employment
+         Opportunity Commission and the Texas Workforce Commission, Civil Rights Division (the
+         "Charge“):
+                 WHEREAS. Charging Party alleges in the Charge that she was subject to harassment
+          based on sex, national origin, and retaliation in violation of Title VII of the Civil Rights Act of
+          1964 and Chapter 21 of the Texas Labor Code;
+                WHEREAS. the Texas Workforce Commission, Civil Rights Division, dismissed the
+          Charge and issued Charging Party her Notice of Right to Sue on October 24, 2025;
+                WHEREAS, the Company denies any and all such claims and further denies that it has
+         engaged in any wrongdoing or has any liability whatsoever;
+                WHEREAS, the Company denies that it or any of its agents violated any law or duty to
+         Charging Party regarding their employment or the separation thereof;
+                WHEREAS. bona fide disputes and controversies exist between the Parties, both as to
+         liability and the amount thereof, if any, and by reason of such disputes and controversies, the
+         Parties hereto desire to compromise and settle all claims and causes of action of any kind
+         whatsoever that Charging Party has or may have against the Company and other parties herein
+         released:
+                WHEREAS. the Parties intend that the full terms and conditions of such compromise and
+         settlement be as set forth in this Agreement; and
+                NOW, THEREFORE. in consideration of the mutual promises, releases, covenants, and
+          agreements contained herein, including those set forth above, the Parties agree as follow:
+                        Settlement Payment. The Company will pay Charging Party Thirty Thousand
+                1.
+         Dollars ($30,000.00) (the “Settlement Payment“). The Settlement Payment will be allocated and
+         paid as follows:
+                        (a)    The Company will pay “Miriam Saldana,"“ via ACH, the gross amount of
+                                Six Thousand Dollars and Zero Cents ($6,000.00). which will be
+                                characterized as wages. As to this portion of the Settlement Payment, the
+                                Company will make appropriate withholdings and will report it on an IRS
+==================================<Page 4 - END>================================
+==================================<Page 5 - START>================================
+                               Form W-2.
+                               The Company will pay “Miriam Saldana,“ via ACH, the gross amount of
+                       (b)
+                               Fourteen Thousand Dollars and Zero Cents ($14,000.00) for alleged
+                               penalties and non-wage relief, and the Company will issue an IRS Form
+                               1099 to Charging Party for said amount.
+                               The Company will pay Charging Partys Counsel, Matthew R. Scott of
+                       (c)
+                               Scott Gilmore Thompson, via ACH, the gross amount of Ten Thousand
+                               Dollars and Zero Cents ($10,000.00) for attorneys' fees and costs in
+                               connection with the Charge. The Company will issue an IRS Form 1099
+                               reflecting this payment in accordance with IRS rules and regulations.
+                               The Settlement Payment will be paid within forty-five (45) calendar days
+                       (d)
+                               after the Company's receipt of (1) this Agreement signed by Charging
+                               Party, and (2) all documents sent to Charging Party and Charging Partys
+                               Counsel for the processing of the Settlement Payment, including
+                               applicable ACH and W-9 forms.
+                       (e)    The Settlement Payment will represent full and complete payment on the
+                               claims raised by Charging Party in the Charge, including any and all
+                               claims for attorneys fees and costs.
+                       Valuable Consideration.The Company warrants that the monies described in
+               2.
+       this Section 1 are not required to be paid by any policy or procedure of the Company, and the
+       Company is making these payments to Charging Party solely by virtue of this Agreement.
+       Charging Party acknowledges and agrees that the payment provided in Section 1 of this
+       Agreement is additional valuable consideration to which Charging Party would not otherwise be
+       entitled absent their execution of this Agreement and the promises set forth herein.Charging
+        Party further acknowledges that absent this Agreement and the promises contained herein.
+        Charging Party would not be provided with the Settlement Payment.
+               3.     General Release and Waiver of Claims.
+                       (a)In consideration of and in return for the promises and covenants
+        undertaken herein by the Company, and for other good and valuable consideration, Charging
+        Party does hereby acknowledge full and complete satisfaetion of and, subject to the exceptions
+        outlined in section 3(f). does hereby release, acquit, absolve, waive, discharge, settle,
+        compromise, and forever hold blameless the Company and its parents. subsidiaries, affiliates.
+        related companies and business concerns. past and present, including PepsiCo. Inc.; Pepsi-Cola
+        Company: Bottling Group. Ll.C; PepsiCo Sales, Ine.:; Pepsi-Cola Sales & Distribution, Inc.; New
+        Bern Transport Corporation; Greyhawk Leasing. LLC: SVC Manufacturing. Ine.: CB
+        Manufacturing Company, Ine.; PepsiCo Beverage Sales, LLC: Frito-Lay, Ine.; Rolling Frito-Lay
+        Sales, LP; FL-Transportation. Ine.: Tropicana Manufacturing Company: and Quaker Oats
+        Company, as well as each of their and the Companys partners, trustees, directors, officers.
+        members, shareholders, agents, attorneys, servants, employees, and employee welfare benefit
+        plans (including all fiduciaries, administrators, and insurers of such employee welfare benefit
+                                                         2
+==================================<Page 5 - END>================================
+==================================<Page 6 - START>================================
+         plans), past and present (collectively, the “Releasees"), from any and all claims. demands. liens.
+         agreements, contracts, covenants, lawsuits, actions, causes of action, grievances, matters, wages.
+         overtime payments, siek payments, vacation payments, severance payments, obligations.
+         commissions, debts, protit sharing claims, expenses, damages, controversies, judgments, orders.
+         and liabilities of whatever kind or nature under local, state, or federal law, equity, or otherwise,
+          foreseen or unforeseen, known or unknown, that Charging Party now has or may have against the
+         Releasees, or any of them, from matters that occurred prior to the date of execution of this
+         Agreement (collectively, the “Claims”), ineluding specifically, but not exclusively, and without
+         limiting the generality of the foregoing. any and all Claims: (1) arising out of Charging Partys
+         employment with the Company and cessation of employment; (2) arising from the offer and
+         acceptance of this Agreement (excluding any alleged breach of this Agreement by one or more
+          of the Releasees); and (3) arising out of or in any way connected with any claim, loss, damage.
+         or injury whatsoever, known or unknown, suspected or unsuspected, resulting from any aet.
+          omission, or deed done or suffered to be done by or on the part of the Releasees, or any of them,
+          committed or omitted at any time on, before, up to, and including the date that Charging Party
+         executes this Agreement, including any and all claims alleged in the Charge. except Charging
+          Partys workers compensation claim (Claim No. 4A24093XF680001). ChargingParty
+          understands that the provisions of this Section mean that, except as may otherwise be
+          provided bylaw notwithstanding the provisions of this Agreement to the contrary,
+          Charging Party cannot bring a lawsuit against the Releasees except for any claim(s) related
+          to the alleged breach of this Agreement by one or more of the Releasees, for matters which
+          occurred prior to the execution of this Agreement.
+                               The Claims RELEASED, WAIVED, SETTLED, COMPROMISED,
+                         (b)
+          AND DISCHARGED by Charging Party include, but are not limited to. all Claims arising out
+          of or related to Charging Partys employment and/or termination of employment, as well as any
+          claims arising under Title VII of the Civil Rights Act of 1964. as amended. 42 U.S.C. § 2000€,
+          et seq. (“Title VII“): the Civil Rights Act of 1866, 42 U.S.C. § 1981: the Americans with
+          Disabilities Act of 1990. 42 U.S.C. § 12101, et seq., as amended by the Americans with
+          Disabilities Amendments Aet of 2008 (collectively, the “ADA“); the Age Discrimination in
+          Employment Aet of 1967, 29 U.S.C. § 621. et seq. (“ADEA“); the Family and Medical Leave
+          Act, 29 U.S.C. § 2601, et seq. (“FMLA“): the Pregnancy Workers Fairness Act (*PWFA“); the
+          Families First Coronavirus Response Act, 29 C.F.R. § 826, et seq. (“FFCRA“); the Fair Labor
+          Standards Act, 29 U.S.C. § 201, e7 seq. (“FLSA“); the Equal Pay Act of 1963 (*EPA"); the
+          Employee Retirement Income Security Act of 1974. 29 U.S.C. § 1001, et seq. (“ERISA“); the
+          Worker Adjustment and Retraining Notification Act (“WARN“): the Occupational Safety and
+          Health Act (“OSHA“); 18 U.S.C. § 1591; and the Texas Law Against Diserimination. Charging
+          Party also releases, waives. settles, compromises, and discharges any and all claims arising under
+          any other federal, state, or local constitution, statute, law, regulation, rule, ordinance, order, or
+          publie poliey; claims for defamation, slander, or libel; elaims arising under contract, ineluding a
+          collective bargaining agreement; elaims allegingbreach of an actual or implied contract of
+          employment between Charging Party and the Company; claims for retaliation based on the filing
+          of à worker’s compensation claim; claims for malicious prosecution; claims of unjust, wrongful.
+          retaliatory or tortious transfer, demotion, or discharge (including any claim of fraud, negligence,
+          retaliation for whistleblowing. refusal to participate in any aetivities, or intentional infliction of
+          emotional distress); other tort claims; claims arising under a policy. practice, or procedure of the
+          Releasees. or any of them: claims arising under common law; or any other claim, whether
+                                                          3
+==================================<Page 6 - END>================================
+==================================<Page 7 - START>================================
+         cognizable in law or inequity, based upon any conduct up to and including the date of this
+         Agreement, except that execution of this Agreement does not release Charging Party’s worker’s
+          compensation claim (Claim No. 4A24093XF680001).
+                               This general release and waiver also includes all equitable and legal relief,
+                         (e)
+         attorneys' fees, and costs. This Agreement is intended to be a resolution of any possible claims.
+         and the Parties agree that neither party is a “prevailing party.“ Charging Party specifically intends
+         and agrees that this Agreement fully contemplates all claims for attorneys fees and costs. and
+         hereby releases. waives, settles, compromises, and discharges any such claims
+                         (d)  Charging Party covenants and agrees not to bring, file, charge, claim,
+          submit, sue, or cause—or assist a third party in bringing, filing, charging, claiming. submitting.
+          suing, or causing—any action, cause of action, lawsuit, claim, charge, complaint, arbitration
+         request, or proceeding to any agency, court. organization, or judicial forum, including all federal,
+         state, and local forums, concerning or in any way related to any of the Claims released by them
+         pursuant to Section 3. Charging Party further agrees that this Agreement is, will constitute, and
+         may be pleaded as a bar to any such Claim. By signing this Agreement and accepting the benefits
+         provided, Charging Party covenants and agrees that, except for any Claims expressly excluded
+          from this Agreement, she will not hereafter pursue any individual claims. whether brought by
+         Charging Party, an administrative agency, or any other person on Charging Party's behalf, or
+          which include Charging Party in any elass against the Company or the Releasees for or on account
+          of anything, whether known or unknown. foreseen or unforeseen, that has occurred up to the
+          effective date of this Agreement and that relates directly or indireetly to their employment or
+          termination of employment with the Company or with any one or more of the Releasees. Charging
+          Party further agrees that if any person or entity should bring such an action, lawsuit, elaim, charge,
+          complaint. arbitration request, or proceeding on their behalf, she hereby waives and forfeits any
+          right to recovery under said claim and will exercise every good faith effort to have such claim
+          dismissed.
+                         (e)By signing this Agreement, Charging Party specifically waives, releases,
+          and discharges their rights, if any, to any monetary recovery or other relief (including any
+          backpay, front pay, reinstatement, or other legal or equitable relief) that may arise from and/or
+          relate to any charge, complaint, lawsuit, or other proceeding brought by Charging Party or on
+          Charging Partys behalf by any third party, except for any right that Charging Party may have to
+          receive a payment or award from a government agency (and not the Company) for information
+          provided to the government agency or where otherwise prohibited. Charging Party understands
+          that the provisions of this Agreement mean that she cannot bring a lawsuit in any forum (whether
+          it be foreign, federal. state, or local) against the Company or the other Releasees for any reason
+          for Claims that she may have as of the date of this Agreement, except as specifically provided for
+         herein. This Agreement does not prohibit Charging Party from seeking and obtaining a
+          whistleblower award from the SEC pursuant to Rule 21F of the Securities Exchange Act.
+                                NOTHING IN ANY SECTION OF THIS AGREEMENT,
+                         (f)
+          INCLUDING THIS SECTION, SHALL CONSTITUTE A WAIVER, RELEASE, OR
+          COMPROMISE OF CHARGING PARTY'S PENDING CLAIM FOR WORKERS'
+          COMPENSATION BENEFITS. THE COMPANY EXPRESSLY ACKNOWLEDGES
+                                                           4
+==================================<Page 7 - END>================================
+==================================<Page 8 - START>================================
+         OR IMPACT ON CHARGING PARTY'S PENDING CLAIM FOR WORKERS'
+         COMPENSATION BENEFITS.
+                 4.     No Waiver of Future Claims or Interference with Rights
+                                This general release and waiver does not apply to any rights or Claims that
+                         (a)
+          may arise after the date that this Agreement is executed by Charging Party or to rights or Claims
+         that may not be waived or released as a matter of law. including, but not limited to. Claims for
+          earned and vested pension benefits.
+                         (b)    Regardless of whether or not Charging Party signs this Agreement, nothing
+          in any Company agreement, policy, or practice, including this Agreement: (i) limits or affects
+         Charging Partys right to challenge the validity of this Agreement under the ADEA: (ii) prohibits
+         Charging Party from enforeing the terms of this Agreement: (iii) prevents Charging Party from
+          communicatingwith, filing a charge or complaint with, providingdocuments or
+          information voluntarily or in response to a subpoena or other information request to; or
+          participatingin aninvestigation or proccedingconducted bytheEqualEmployment
+          OpportunityCommission(“EEOC"), National LaborRelationsBoard (“NLRB”), the
+          Securities andExchangeCommission(“SEC”),theOccupational Safetyand Health
+          Administration (“OsHA"), the Texas Workforce Commission, law enforcement, or any
+          other federal, state, or local agency charged with the enforcement of any laws: (iv) prevents
+         Charging Party from testifying. providing evidence. responding to a subpoena or discovery
+         request in court litigation or arbitration, to the extent that she is permitted to do so by law: (v)
+         requires Charging Party to disclose to the Company any such filing, communication, or
+          participation; or (vi) prevents a non-management, non-supervisory employee from engaging in
+         protected concerted activity under Section 7 of the National Labor Relations Act or under similar
+          state laws, such as joining. assisting, or forming a union, bargaining, picketing, striking. or
+          participating in other activity for mutual aid or protection, or refusing to do so (this includes using
+          or disclosing information aequired through lawful means regarding wages, hours, benefits, or
+          other terms and conditions of employment, except where the information was entrusted to the
+          employee in confidence by the Company as part of the employee’s job duties).
+                         (c)    Nothing in this Agreement limits or affects Charging Partys right to
+          disclose or discuss sexual harassment or sexual assault disputes.
+                         (d)    NotwithstandingChargingPartys confidentiality and_ non-disclosure
+          obligations in this Agreement and otherwise. Charging Party understands that, as provided by the
+         Federal Defend Trade Seerets Act, Charging Party will not be held criminally or civilly liable
+          under any federal or state trade secret law for the disclosure of a trade secret made: (1) in
+         confidence to a federal, state, or local government official, either directly or indirectly, or to an
+         attorney, and solely for the purpose of reporting or investigating a suspected violation of law; or
+         (2) in a complaint or other document filed in a lawsuit or other proceeding. if such filing is made
+          under seal.
+                 5.     WithdrawalandDismissal. Inexchangefortheconsideration providedin
+          Section 1 above. Charging Party agrees that she will dismiss any pending Charges with prejudice
+          by filing a Stipulation to Dismiss with Prejudice.Charging Party agrees to file any applicable
+          Stipulation to Dismiss with Prejudice within five (5) business days after receiving the Settlement
+         Payment.
+                                                          5
+==================================<Page 8 - END>================================
+==================================<Page 9 - START>================================
+                         Pending Claims. Charging Party represents and warrants that she does not have
+                 6.
+         any other elaims, charges, complaints, or lawsuits against the Company or the other Releasees
+         and that no claims are pending before any court, agency, or other person/entity. 1f Charging Party
+         has any claims, charges, complaints, or lawsuits against the Company or the Releasees. Charging
+         Party agrees that Charging Party will take all steps necessary to make sure that any and all claims
+          are dismissed with prejudice.
+                 7.     Representations and Warranties Regarding the FMLA and FLSA. Charging
+          Party represents and warrants that she is not aware of any circumstances that might entitle
+         Charging Party to a leave of absence under the Family and Medical Leave Act (“FMLA“) or any
+         fact that might justify a claim against the Company for violation of the FMLA. Charging Party
+         further represents and warrants that she has received and been properly paid any and all wages
+         and commissions for all hours worked for the Company and all overtime compensation to which
+         Charging Party may have been entitled under the Fair Labor Standards Aet (“FLSA"), and that
+         she is not currently aware of any facts or circumstanees constituting a violation by the Company
+         and/or Releasees of the FMLA or FLSA. Charging Party specifically warrants that she has
+          discussed this issue and all underlying facts with her attorneys and, in consultation with her
+          attorneys, makes these representations. Charging Party acknowledges that the Company is
+          relying on the accuracy of this representation as a material term of this Agreement.
+                 8.     Tax Liability and Indemnification. Charging Party acknowledges and agrees
+          that: (1) the Company has made no representations regarding the tax consequences of the
+          settlement proceeds paid pursuant to this Agreement: and (2) Charging Party is ultimately
+          responsible for determining the taxability of the Settlement Amount referred to in Section 1
+          above, and for paying her portion of the taxes (federal, state, or otherwise), if any, that any taxing
+          authority determines is owed with respect to such payment. Charging Party agrees that should the
+          Company incur tax liability or penalties for failing to withhold taxes from the Settlement Payment
+          (whether it be federal. state or local), Charging Party will defend and indemnify the Company
+         against any tax liability for tax loss ineurred by Company, including, but not limited to penalties
+          and/or interest that may aecrue toward it as a liability if any portion of the Settlement Payment
+          be claimed as taxable by any governmental entity.
+                 9.     Non-Assignment. Charging Party expressly promises the Company and the other
+          Releasees that she has not assigned or transferred, or purported to assign or transfer, and will not
+          assign or otherwise transfer: (a) any claims, or portions of claims, against the Company or the
+         other Releasees: (b) any rights that Charging Party has or may have had to assert claims on their
+          behalf or on behalf of others against the Company or the other Releasees; and (c) any right that
+          Charging Party has or may have to the Settlement Payment. Charging Party promises that any
+         monies, benefits, or other consideration that Charging Party receives from the Company are not
+          subjeet to any liens. garnishments, mortgages, or other charges, and no one else has any elaim to
+         any portion of the Settlement Payment (except for their attorney, as set forth in Section 1 above).
+                 10.    Confidentiality. Charging Party agrees that the financial terms and/or the
+          substance or contents of discussions involved in reaching this Agreement. including the
+          Settlement Amount and payments in Section 1. are strietly confidential and will not be
+          publicized on media or the internet. Charging Party further agrees not to disclose this information
+          to anyone, save and except for their certified public accountant(s), tax advisor(s), mental health
+                                                          6
+==================================<Page 9 - END>================================
+==================================<Page 10 - START>================================
+        professional(s), financial planner(s), spouse/partner, and present legal counsel. Upon inquiry of
+        any kind about this matter by any entity or individual not a party to this Agreement (including by
+        any current or former Company employee). Charging Party will state only that this matter has
+        been resolved and will give no other indicationts). verbal or otherwise, regarding the outcome or
+        the general or specifie terms of this Agreement.
+                Charging Party understands that Section 7 of the National Labor Relations Act guarantees
+        employees the right to self-organization, to form. join, or assist labor organizations, to bargain
+         collectively through representatives of their own choosing, and to engage in other concerted
+         activities for collective bargaining or other mutual aid or protection, as well as the right to refrain
+         from any or all such activities. Charging Party understands that nothing contained in this
+         Agreement limits Charging Party's rights under the National Labor Relations Act.
+                11.   Non-Disparagement.
+                                Charging Party agrees that she will not make any disparaging statement(s)
+                        (a)
+         about the Company: the Releasees; Charging Partys employment with the Company: the
+         cessation of Charging Party's employment with the Company; the Companys brands, products,
+         or services; the Companys employees, management members, or business leaders; or any other
+         dealings of any kind between Charging Party and the Company, to past. present. or prospective
+         employees, clients, customers. partners. vendors, or suppliers of the Releasees or to other
+         members of the public. including representatives of the media, that are: (1) knowingly false; (2)
+         made with reckless disregard for the truth: and/or (3) made in a manner reasonably calculated to
+         harm the Companys reputation.
+                        (b)    The Company agrees to advise all currently employed individuals who
+         supervised or worked with Charging Party to not make false, derogatory. disparaging. or
+         defamatory remarks about Charging Party, his employment with the Company. or the cessation
+         of his employment with the Company.
+                                Nothing in this Agreement will prohibit any party from providing
+                        (c)
+         testimony in a deposition, hearing, or trial in any case brought against the other party, even if
+         such testimony is deemed to be derogatory or disparaging. provided that the party does so in
+         response to a subpoena or court order.
+                         (d)    This Section will also not apply to communications between Charging
+         Party and their spouse/partner, accountants, tax advisors. and attorneys; anydisclosure or
+         statement relating to any proceeding to enforce the terms of this Agreement; communications
+         with a government ageney: truthful statements about criminal conduct; or communications
+         expressly authorized by law or lawful processes.
+                 12.    Neutral Reference. Charging Party agrees to direct any and all potential
+          employers seeking references solely to the Companys telephone reference line, for which the
+         current telephone number is 1-800-996-7566 (code no. 73774). Pursuant to the Companys
+          standard policy, the telephone reference line will, upon request, confirm Charging Party’s dates
+          of employment, finai hourly rate of pay (if authorized by Charging Party in writing), and job title,
+          but will not reveal the circumstances of their separation from employment. Charging Party agrees
+          that Charging Party will not otherwise seek any reference from the Company, or any employee
+                                                          7
+==================================<Page 10 - END>================================
+==================================<Page 11 - START>================================
+         or representative of the Company, and agrees that the Company is not required to provide any
+         reference.
+                        No Right to Reinstatement or Rehire. Charging Party acknowledges and agrees
+                 13.
+         that Charging Party has no right to reinstatement, rehire, or employment by the Company or
+         Releasees. in any capacity. ineluding permanent, temporary, or casual employment. whether
+         directly by the Company or indirectly by any organization or agency furnishing labor to the
+         Company. Charging Party further agrees not to apply for employment with the Company or the
+         Releasees after execution of this Agreement. Charging Party acknowledges that any such attempt
+         to seek employment or reemployment would be a breach of this Agreement, and the Company
+         and the other Releasees may disregard any such application or attempt. If any entity employing
+         Charging Party after their employment with the Company is acquired by PepsiCo, Ine. or any of
+         the Releasees, such acquisition and/or Charging Party's continued employment thereafter will
+         not constitute a violation of this provision.
+                 14.    No Admission of Liability.This Agreement is being entered into solely for the
+         purpose of settling disputed claims and will not be construed as: (a) an admission by the Company
+         or the other Releasees of any (i) liability or wrongdoing to Charging Party. (ii) breach of any
+         agreement, or (iii) violation of a statute, law, ordinance. or regulation; or (b) a waiver of any
+         defenses as to those matters within the scope of this Agreement. The Company and the other
+         Releasees specifically deny any liability or wrongdoing. The terms of this Agreement are
+         contractual and not merely recital, and any amount paid in settlement is merely to compromise
+         doubtful and disputed claims. to avoid litigation. and to buy peace.
+                         Capacity of the Parties. The Parties represent to each other that they have the full
+                 15.
+         power. capacity. and authority to enter into this Agreement. The Parties also represent and
+         warrant that no portion of any claim, right, demand, action. or lawsuit that the Parties have or
+          might have had arising out of the acts, events, transactions, and occurrences referred to herein
+         have been assigned. transferred, or conveyed to any person not a party to this Agreement by way
+         of subrogation, operation of law, or otherwise, and that no releases or settlement agreements are
+         necessary or need to be obtained from any other person or entity to release and discharge
+          completely any of the Parties claims released in this Agreement.
+                 16.    Binding Nature. This Agreement and all the terms and provisions contained
+         herein will bind the heirs, personal representatives, successors, and assigns of each Party and will
+          inure to the benefit of the Parties and their respective heirs, representatives, successors, and
+         assigns.
+                 17.    Entire Agreement. The Parties understand and agree that this Agreement
+         contains the entire agreement and understanding between the Parties and supersedes any and all
+          prior agreements, arrangements. or understandings between the Parties relating to the subject
+          matter of this Agreement. No oral understandings. statements, promises, or inducements contrary
+         to the terms of the Agreement exist. This Agreement cannot be changed or terminated orally. Any
+          modifications to this Agreement must be in writing and signed by all Parties.
+                 18.Governing Law, Interpretation, and Construction. The Parties understand and
+         agree that this Agreement. except as otherwise governed by federal law. will be governed by.
+                                                          8
+==================================<Page 11 - END>================================
+==================================<Page 12 - START>================================
+         construed. and enforced in accordance with and subject to the laws of the State of Texas, without
+         regard for any conflict of law principles. The Parties acknowledge that this Agreement is a
+         collaborative effort by the attorneys for the Parties and that, as such, no provision of this
+         Agreement will be more strietly construed against one party as the drafter of the provision.
+                 19.  Counterparts: The Parties understand and agree that this Agreement may be
+         executed in several identical counterparts, each of which will be deemed an original for all
+         purposes. Each Party agrees that facsimile or electronic signatures will have the same effect as
+         original signatures.
+                 20.    Amendment and Severability. This Agreement may not be amended, modified,
+         altered, or changed except by written agreement signed by all Parties. If any one or more
+         provisions (or portion thereof) of this Agreement are held to be invalid. unlawful, or
+         unenforceable for any reason, the invalid. unlawful, or unenforceable provision (or portion
+         thereof) will be severed from the remainder of this Agreement (or provision), and the remainder
+         will remain in effect and be construed as broadly as possible, as if such invalid, unlawful, or
+         unenforceable provision (or portion thereof) had never been contained in this Agreement (unless
+         the provision is either the one requiring payment or the release of claims, in which case the
+         agreement is null and void). However, if the release of all claims described in Section 3 of this
+          Agrcement (and its sub-paragraphs) is in any respeet determined to be invalid or unenforceable
+          by a court of competent jurisdiction, and Charging Party thereafter files an administrative claim
+         or legal action related to any claims released in Section 3, then. at the Company's option,
+          Charging Party will be required (and promises and agrees) to repay to the Company, on demand.
+          all amounts paid by the Company pursuant to Section 1 above, and the Parties will revert to the
+         position held by each prior to the signing of this Agreement.
+                 21.   Additional Releases and Covenants Required by Section 111 of the Medicare,
+         Medicaid, and SCHIP Extension Act of 2007, As Amended. Charging Party represents and
+         warrants that Charging Party is not a Medicare beneficiary as of the date of this Agreement.
+         Because the Charging Party is not a Medicare recipient as of the date of this Agreement, no
+         conditional payments have been made by Medicare. Charging Party also represents and warrants
+         that no Medicaid payments have been made to or on behalf of Charging Party and that no liens,
+         claims, demands, subrogated interests, or causes of action of any nature or character exist or have
+         been asserted arising from or related to any matters released under this Agreement. Charging
+         Party further agrees that Charging Party. and not the Company or any of the Releasees, will be
+         responsible for satisfying all such liens. including workers compensation liens, hospital liens.
+         claims, demands, subrogated interests, or causes of action that may exist or ħave been asserted or
+         that may in the future exist or be asserted. Charging Party further agrees to indemnify, defend,
+         and hold the Company and the Releasees harmless from any claims or demands by Medicare,
+         Medicaid,workers compensation, or any other entity for any payments made as a result of the
+         events arising from or relating to the matters released under this Agreement.
+                 22.   Assumption of Risk of Mistake. The Parties hereby expressly assume the risk of
+         any mistake of fact or that the true facts might be other or different from facts now known or
+          believed to exist, and it is the express intent of the parties to forever settle, adjust and compromise
+          the disputes raised by the Charge without regard to who may or may not have been correct in
+          their respective understandings of the facts or the law relating thereto.
+                                                          9
+==================================<Page 12 - END>================================
+==================================<Page 13 - START>================================
+                       Time To Consider Agreement. Charging Party understands that Charging Party
+                23.
+        has been given twenty-one (21) days to consider and sign this Agreement (the “Consideration
+        Period“). and Charging Party acknowledges and agrees that this consideration period is
+        reasonable and adequate. If Charging Party elects to execute this Agreement prior to the
+        expiration of seven (7) days from receipt of this Agreement. Charging Party warrants that
+        Charging Party has done so knowingly and voluntarily.
+                Revocution. Charging Party will have seven (7) days from the date that she signs this
+        Agreement to revoke it. This Agreement will not become effective or enforceable until this seven
+        (7) day revocation period has expired. provided that the Parties also meet all of the conditions in
+        this Agreement. Charging Party may revoke this Agreement only by giving the Company a formal,
+        written notice of her revocation of this Agreement to the Company's counsel, Jeremy I. Edelson
+         of Laner Muehin, Ltd., at jedelson « lanerlaw.com by the close of business on the seventh (7th)
+         day following Charging Party's execution of this Agreement. If Charging Party has not
+         communicated her acceptance of this offer to the Company before the expiration of the
+         consideration period as set forth in this Section, this offer automatically expires at that time, and
+         the Company is not required to take any further action to rescind or otherwise withdraw the terms
+         of this Agreement.
+                 24.    Unemployment Benefits.The Parties agree and acknowledge that the Company will not
+         request that Employee be denied unemployment benefits; although the Company cannot control whether
+         the Texas Workforce Commission will grant Employee“s request, if any, for unemployment benefits. and
+         otherwise cannot guarantee that Employee will receive unemployment benefits. Company. however. shall
+         not contest a claim at the Texas Workforce Commission regarding Charging Party's application for
+         unemployment benefits. If there is a hearing on any such application or the appeal of any such application.
+         Company agrees not to appear.
+                        Right to Counsel. Each party warrants and represents that it has had the
+                 25.
+         opportunity to consult with its attorneys regarding the effect of this Agreement, and that it has
+         executed this Agreement fully aware of its content, purpose, and effect, based upon its sole
+         judgment, belief, and knowledge. and that it is not relying on representations or statements made
+         by another party to this Agreement or by anyone representing another party to this Agreement.
+         Each party acknowledges that neither another party, nor any agent or attorney of another party.
+         has made any promise, representation, or warranty whatsoever, express or impfied, not contained
+         herein concerning the subject matters hereof to induce it to execute this Agreement, and
+         acknowledges that it has not executed this Agreement in reliance upon any such promise.
+         representation, or warranty. Each party acknowledges and agrees that it has been represented by
+         independent counsel of its own choice throughout all negotiations that have preceded the
+         execution of this Agreement, and that it has entered into and executed this Agreement with the
+         consent of said independent counsel. This Agreement is executed voluntarily by each party.
+          without any duress or undue influence.
+                 Charging Party acknowledges that at the time that she was presented with this Agreement
+          for her consideration, she was represented by counsel and had the opportunity to consult with
+         counsel concerning this Agreement, its meaning and effect, and the claims that she is releasing.
+          prior to executing this Agreement.
+                         Signatures, Execution, and Copies: The parties agree that separate copies of
+                 26.
+                                                          10
+==================================<Page 13 - END>================================
+==================================<Page 14 - START>================================
+         this document will constitute original documents that may be signed separately but which
+         together will constitute the one single Agreement.The parties agree that this Agreement will not
+         be binding on any party. however, until signed by all parties or their representatives. This
+         Agreement may be signed by hand or electronically, and a faxed, photocopied, or scanned image
+         of this Agreement (including any signatures or markings thereon) will be deemed as valid and
+         admissible as an original. The parties further agree that each party's executed copy of this
+         Agreement may be transmitted to the other party by email and will be deemed an original signed
+         copy.
+                        Effective Date:This Agreement will be effective once all Parties have signed and
+                 27.
+         executed the Agreement.
+                        Attorneys' Fees:Ifany of the Parties should bring any action, suit, charge, complaint,
+                 28.
+         or proceeding against any of the other parties hereto to enforce this Agreement. the validity hereof.
+         any of the teims or provisions hereof, or any of the matters released hereby, or should any of the
+         parties assert this Agreement as an affirmative defense in an action brought by the other party, the
+         prevailing party in such action, suit, or proceeding (as determined by a court of competent jurisdiction)
+          will be entitled to recover from the other such party reasonable attorneys fees to be fixed by the court
+          and costs incurred in connection therewith, including attorneys fees and costs relating to any and all
+         appeals or petitions taken with respect to any such action, suit, charge, complaint, or proceeding.
+                         Cooperation: The parties agree to execute any and all other documents and
+                 29.
+          instruments in writing that may be reasonably necessary or proper to effectuate and carry out the
+          purposes ofthis Agreement.
+                 30.   Knowing and Voluntary Acknowledgment: Charging Party declares that
+          Charging Party has completely read this Agreement and acknowledges that it is written in a
+          manner calculated for Charging Party to understand. Charging Party states that Charging Party
+          fully understands its terms and contents, ineluding the rights and obligations hereunder, and
+          frecly, voluntarily, and without coercion enters into this Agreement. Further, Charging Party
+          agrees and acknowledges that Charging Party had the full opportunity to investigate all matters
+          pertaining to her Claims and that the general waiver and release of all rights or claims that
+          Charging Party may have under any local, state, or federal law is knowing and voluntary.
+                   PLEASE READ CAREFULLY. THIS AGREEMENT CONTAINS A GENERAL
+                               RELEASE OF ALL KNOWN AND UNKNOWN CLAIMS.
+==================================<Page 14 - END>================================
+==================================<Page 15 - START>================================
+       VOLUNTARILY.
+        Dated:1/20
+                                                             MIRIAM SALDANA
+       Dated:               , 2025                      FRITO LAY, INC,
+                                                             By:    Connor Saenz
+                                                             Print Name:     Connor Saenz
+                                                             Title:  Legal Director, Employment Law
+==================================<Page 15 - END>================================
+==================================<Page 16 - START>================================
+                                                                                                   OMB No. 1545-0074
+       W-4                   Employee's Withholding Certificate
+    Form
+                     Complete Form W-4 so that your employer can withhold the correct federal income tax from your pay.
+                                                                                                    2025
+                                             Give Form W-4 to your employer.
+    Department of the Treasury
+    inemal Revanue Service
+                                       Your withholding is subject to review by the iRS.
+                First gay and middle inital                                                         ) Social security number
+   Step 1:
+                    Miriim M                                                     63462 7664
+   Enter
+               Address                                                                        Does your name match the
+   Personal
+                      1305 Cedar Brnsh Trail                  name on your social security
+   information                                                                               card? if not, to ensure you get
+                City or town, stater and Z1P code                                                         credit for your earnings.
+                                                                                              contact SSA at 800-772-1213
+                                                                                              or go to www.ssa.gov.
+               cSingle or Marieding separately
+                     Married filing jointly or Qualitying surviving spouse
+                   Head of household (Check oniy if you're unmaried and pay more than half the costs of keeping up a home for yourselt and a qualiyng individual!.)
+  TIP: Consider using the estimator at www. irs.gov/W4App to determine the most accurate withhołding for the rest of the year if: you
+  are corpleting this form after the beginning of the year: expect to work only part of the year; or have changes during the year in your
+  marital status, number of jobs for you (and/or your spouse if married filing jointly), dependents. other income (not from jobs).
+  deductions, or credits. Have your most recent pay stub(s) from this year available when using the estimator. At the beginning of next
+  year, use the estimator again to recheck your withholding.
+  Complete Steps 24 OnLY if they apply to you; otherwise, skip to Step 5. See page 2 for more information on each step. who can
+  claim exemption from withholding, and when to use the estimator at www,irs.gov/W4App.
+  Step 2:          Complete this step if you (1) hoid more than one job at a time, or (2) are married filing jointly and your spouse
+                    also works. The correct amount of withholding depends on income earned from aß of these jobs.
+  Multiple Jobs
+  or Spouse       Do only one of the following.
+ Works           (a) Use the estimator at www.irs.gov/W4App for the most accurate withholding for this step (and Steps 3—4). If
+                       you or your spouse have self-employment income, use this option: or
+                    {b) Use the Multiple Jobs Worksheet on page 3 and enter the result in Step 4(c) below: or
+                    (c) If there are only two jobs total, you may check this box. Do the same on Form W-4 for the other job. This
+                       option is generally more accurate than (b) if pay at the lower paying job is more than half of the pay at the
+                       higher paying job. Otherwise. (b) is more accurate
+ Complete Steps 34(b) on Form W-4 for only ONE of these jobs. Leave those steps blank for the other jobs. (Your withhoiding wil
+be most accurate if you complete Steps 34(b} on the Form W-4 for the highest paying job.)
+Step 3:          If your total income will be $200,000 or less ($400,000 or less if married filing jointly):
+Claim               Multiply the number of qualifying children under age 17 by $2.000$
+Dependent
+                      Multiply the number of other dependerits by $500            . $
+and Other
+Credits
+                   Add the amounts above for qualifying children and other dependents. You may add to
+                   this the amount of any other credits. Enter the total here                              3  $
+Step 4
+                   (a) Other income (not from jobs). If you want tax withheld for other income you
+(optional):          expect this year that won't have withholding. enter the amount of other incore here.
+                      This may include interest, dividends, and retirement income                      4(a)$
+Other
+Adjustments
+                   (b) Deductions. If you expect to claim deductions other than the standard deduction and
+                      want to reduce your withholding, use the Deductions Worksheet on page 3 and enter
+                      the result here                                                            4(b) $
+                   (c) Extra withholding. Enter any additionai tax you want withheld each pay period .    4(c)$
+Step 5:     Under penalties of perjury, I declare that this certificate. to the best of my knowtedge and belief, is true, correct, and complete.
+Sign
+Here
+                                                                                            1/20/26
+               Employee's signature {(This form is not valid unless you sign it.)
+                                                                                          Date
+Employers  Employer's name and address
+                                                                            First date of
+Only                                                                                       Employer identification
+                                                                            employment
+                                                                                            number (EIN)
+For Privacy Act and Paperwork Reduction Act Notice, see page 3.
+                                                                       Cat. No. 10220Q
+                                                                                                      Form W-4 (2025)
+==================================<Page 16 - END>================================
+==================================<Page 17 - START>================================
+          From: SPA - PepsiCo Nass AP Invoice Submission <nassapInvoiceSubmission@pepsico.com>
+           Sent: Mon, 2 Feb 2026 17:40:07 (UTC)
+           To: svcimagingspaboxprod@pepsico.com
+           Subject: FW: NON-PO MIRIAM SALDANA
+          Original Number of Attachments : 1
+          Original Attachment Names: NON-PO MIRIAM SALDANA.pdf
+          Number of forwarded PDF's: 1
+          Number of forwarded Non PDF files: 0
+          From: Jordan, Kiva{PEP}<Kiva.Jordan@pepsico.com>
+          Sent: Monday, February 2, 2026 5:38:26 PM
+          To: SPA - PepsiCo Nass AP Invoice Submission <nassaplnvoiceSubmission@pepsico.com>
+          Subject: NON-PO MIRIAM SALDANA
+          Please process as ACH.
+==================================<Page 17 - END>================================

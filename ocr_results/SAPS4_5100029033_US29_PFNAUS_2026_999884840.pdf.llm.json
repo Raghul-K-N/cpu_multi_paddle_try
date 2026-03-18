@@ -1,0 +1,79 @@
+{
+  "invoice_data": {
+    "invoice_number": "6585370332",
+    "invoice_date": "12/11/2025",
+    "invoice_amount": "644.73",
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": "42.18",
+    "po_number": [
+      "23530829"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "BRIDGESTONE",
+    "vendor_address": "00 4TH AVENUE SOUTH, SUITE 100, P.O. BOX 140990, NASHVILLE, TENNESSEE 37201, DALLAS, TX 75373-0026, USA",
+    "po_line_items": [
+      {
+        "description": "TRANS CV2 205/75R16C TLBLPS113RE",
+        "quantity": 3.0,
+        "net_price": 154.4
+      },
+      {
+        "description": "FEE, TIRE DISPOSAL, LT",
+        "quantity": 3.0,
+        "net_price": 3.5
+      },
+      {
+        "description": "MOUNT/DISMOUNT VEH, LT",
+        "quantity": 3.0,
+        "net_price": 20.0
+      }
+    ],
+    "vat_amount": null,
+    "gl_account": null,
+    "bank_name": null,
+    "account_holder_name": null,
+    "banking_account_number": null,
+    "remit_to_address": null,
+    "bill_to_address": null,
+    "transaction_type": "debit"
+  },
+  "filename": "SAPS4_5100029033_US29_PFNAUS_2026_999884840.pdf",
+  "raw_response": {
+    "invoice_number": "6585370332",
+    "invoice_date": "12/11/2025",
+    "invoice_amount": "644.73",
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": "42.18",
+    "po_number": [
+      "23530829"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "BRIDGESTONE",
+    "vendor_address": "00 4TH AVENUE SOUTH, SUITE 100, P.O. BOX 140990, NASHVILLE, TENNESSEE 37201, DALLAS, TX 75373-0026, USA",
+    "po_line_items": [
+      {
+        "description": "TRANS CV2 205/75R16C TLBLPS113RE",
+        "quantity": 3.0,
+        "net_price": 154.4
+      },
+      {
+        "description": "FEE, TIRE DISPOSAL, LT",
+        "quantity": 3.0,
+        "net_price": 3.5
+      },
+      {
+        "description": "MOUNT/DISMOUNT VEH, LT",
+        "quantity": 3.0,
+        "net_price": 20.0
+      }
+    ]
+  }
+}

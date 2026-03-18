@@ -1,0 +1,89 @@
+{
+  "invoice_data": {
+    "invoice_number": "M00506594",
+    "invoice_date": "1/29/2026",
+    "invoice_amount": "6131.64",
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": "387.28",
+    "po_number": [
+      "M413122949"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "MILESTONE EQUIPMENT COMPANY LLC",
+    "vendor_address": "PO Box 205589, Dallas, TX 75320-5589, United States",
+    "po_line_items": [
+      {
+        "description": "service call- update fhwa in orlando",
+        "quantity": null,
+        "net_price": 336.0
+      },
+      {
+        "description": "Road service 1601 POW MIA Pkway Replaced 3 door hinges",
+        "quantity": null,
+        "net_price": 526.71
+      },
+      {
+        "description": "service call air leak-fix PSI system",
+        "quantity": null,
+        "net_price": 332.04
+      },
+      {
+        "description": "Service call to fix ABS, tire inflation system and perform PM",
+        "quantity": null,
+        "net_price": 4549.61
+      }
+    ],
+    "vat_amount": null,
+    "gl_account": null,
+    "bank_name": null,
+    "account_holder_name": null,
+    "banking_account_number": null,
+    "remit_to_address": null,
+    "bill_to_address": null,
+    "transaction_type": "debit"
+  },
+  "filename": "SAPS4_5100161509_US30_PFNAUS_2026_999872800.pdf",
+  "raw_response": {
+    "invoice_number": "M00506594",
+    "invoice_date": "1/29/2026",
+    "invoice_amount": "6131.64",
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": "387.28",
+    "po_number": [
+      "M413122949"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "MILESTONE EQUIPMENT COMPANY LLC",
+    "vendor_address": "PO Box 205589, Dallas, TX 75320-5589, United States",
+    "po_line_items": [
+      {
+        "description": "service call- update fhwa in orlando",
+        "quantity": null,
+        "net_price": 336.0
+      },
+      {
+        "description": "Road service 1601 POW MIA Pkway Replaced 3 door hinges",
+        "quantity": null,
+        "net_price": 526.71
+      },
+      {
+        "description": "service call air leak-fix PSI system",
+        "quantity": null,
+        "net_price": 332.04
+      },
+      {
+        "description": "Service call to fix ABS, tire inflation system and perform PM",
+        "quantity": null,
+        "net_price": 4549.61
+      }
+    ]
+  }
+}

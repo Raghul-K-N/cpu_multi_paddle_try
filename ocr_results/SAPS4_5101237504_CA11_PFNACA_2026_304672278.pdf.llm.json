@@ -1,0 +1,101 @@
+{
+  "invoice_data": {
+    "invoice_number": "70391",
+    "invoice_date": "Jan 30, 2026",
+    "invoice_amount": "338.30",
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": "16.12",
+    "po_number": [
+      "M413547870",
+      "RC8959576"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "DOGWOOD MAINTENANCE LTD.",
+    "vendor_address": "Unit #9, 9531 - 192nd Street, Surrey, British Columbia V4N 3R7, 604-530-9134",
+    "po_line_items": [
+      {
+        "description": "Labour",
+        "quantity": 2.0,
+        "net_price": 108.0
+      },
+      {
+        "description": "repair kit (bolts/screws/lubricant)",
+        "quantity": 1.0,
+        "net_price": 52.9
+      },
+      {
+        "description": "Temporary Fuel Charge",
+        "quantity": 1.0,
+        "net_price": 9.95
+      },
+      {
+        "description": "Shop Supplies",
+        "quantity": 278.85,
+        "net_price": 0.06
+      },
+      {
+        "description": "VEC",
+        "quantity": 295.58,
+        "net_price": 0.09
+      }
+    ],
+    "vat_amount": null,
+    "gl_account": null,
+    "bank_name": null,
+    "account_holder_name": null,
+    "banking_account_number": null,
+    "remit_to_address": null,
+    "bill_to_address": null,
+    "transaction_type": "debit"
+  },
+  "filename": "SAPS4_5101237504_CA11_PFNACA_2026_304672278.pdf",
+  "raw_response": {
+    "invoice_number": "70391",
+    "invoice_date": "Jan 30, 2026",
+    "invoice_amount": "338.30",
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": "16.12",
+    "po_number": [
+      "M413547870",
+      "RC8959576"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "DOGWOOD MAINTENANCE LTD.",
+    "vendor_address": "Unit #9, 9531 - 192nd Street, Surrey, British Columbia V4N 3R7, 604-530-9134",
+    "po_line_items": [
+      {
+        "description": "Labour",
+        "quantity": 2.0,
+        "net_price": 108.0
+      },
+      {
+        "description": "repair kit (bolts/screws/lubricant)",
+        "quantity": 1.0,
+        "net_price": 52.9
+      },
+      {
+        "description": "Temporary Fuel Charge",
+        "quantity": 1.0,
+        "net_price": 9.95
+      },
+      {
+        "description": "Shop Supplies",
+        "quantity": 278.85,
+        "net_price": 0.06
+      },
+      {
+        "description": "VEC",
+        "quantity": 295.58,
+        "net_price": 0.09
+      }
+    ]
+  }
+}

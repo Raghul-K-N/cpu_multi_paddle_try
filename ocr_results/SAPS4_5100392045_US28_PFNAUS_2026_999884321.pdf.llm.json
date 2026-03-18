@@ -1,0 +1,59 @@
+{
+  "invoice_data": {
+    "invoice_number": "107034",
+    "invoice_date": "2/3/2026",
+    "invoice_amount": "654.58",
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": null,
+    "po_number": [
+      "4505055400"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": "44.58",
+    "cost_center": null,
+    "vendor_name": "HORN MANUFACTURING",
+    "vendor_address": "P.O. Box 560687, HORN, Dallas, TX 75247 US",
+    "po_line_items": [
+      {
+        "description": "10 1/4 TRACKING BELT ACHPC004 PART",
+        "quantity": 1.0,
+        "net_price": 610.0
+      }
+    ],
+    "vat_amount": null,
+    "gl_account": null,
+    "bank_name": null,
+    "account_holder_name": null,
+    "banking_account_number": null,
+    "remit_to_address": null,
+    "bill_to_address": null,
+    "transaction_type": "debit"
+  },
+  "filename": "SAPS4_5100392045_US28_PFNAUS_2026_999884321.pdf",
+  "raw_response": {
+    "invoice_number": "107034",
+    "invoice_date": "2/3/2026",
+    "invoice_amount": "654.58",
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": null,
+    "po_number": [
+      "4505055400"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": "44.58",
+    "cost_center": null,
+    "vendor_name": "HORN MANUFACTURING",
+    "vendor_address": "P.O. Box 560687, HORN, Dallas, TX 75247 US",
+    "po_line_items": [
+      {
+        "description": "10 1/4 TRACKING BELT ACHPC004 PART",
+        "quantity": 1.0,
+        "net_price": 610.0
+      }
+    ]
+  }
+}

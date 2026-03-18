@@ -1,0 +1,119 @@
+{
+  "invoice_data": {
+    "invoice_number": "9110125660",
+    "invoice_date": "30/10/2025",
+    "invoice_amount": "145.32",
+    "invoice_currency": [
+      "CAD"
+    ],
+    "tax_amount": "18.93",
+    "po_number": [
+      "M413419352"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "Québec Linge",
+    "vendor_address": "75 Norfinch Drive, Toronto, Ontario, M3N 1W8",
+    "po_line_items": [
+      {
+        "description": "HXR-1BLKXL 1/4-Zip",
+        "quantity": 1.0,
+        "net_price": 44.99
+      },
+      {
+        "description": "COEMBR Pers - Custom Embroidery Appli",
+        "quantity": 1.0,
+        "net_price": 0.0
+      },
+      {
+        "description": "COEMBR Pers - Custom Embroidery Appli",
+        "quantity": 1.0,
+        "net_price": 0.0
+      },
+      {
+        "description": "KSB-1BKDXL XL Softshell",
+        "quantity": 1.0,
+        "net_price": 59.99
+      },
+      {
+        "description": "COEMBR - Pers - Custom Embroidery Appli",
+        "quantity": 1.0,
+        "net_price": 0.0
+      },
+      {
+        "description": "CEMBR Pers - Custom Embroidery Appli",
+        "quantity": 1.0,
+        "net_price": 0.0
+      },
+      {
+        "description": "GPC621BLAK38 38X30 Pant-Aus-Cargo",
+        "quantity": 1.0,
+        "net_price": 21.41
+      }
+    ],
+    "vat_amount": null,
+    "gl_account": null,
+    "bank_name": null,
+    "account_holder_name": null,
+    "banking_account_number": null,
+    "remit_to_address": null,
+    "bill_to_address": null,
+    "transaction_type": "debit"
+  },
+  "filename": "SAPS4_5100083014_CA11_PFNACA_2026_304672222.pdf",
+  "raw_response": {
+    "invoice_number": "9110125660",
+    "invoice_date": "30/10/2025",
+    "invoice_amount": "145.32",
+    "invoice_currency": [
+      "CAD"
+    ],
+    "tax_amount": "18.93",
+    "po_number": [
+      "M413419352"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "Québec Linge",
+    "vendor_address": "75 Norfinch Drive, Toronto, Ontario, M3N 1W8",
+    "po_line_items": [
+      {
+        "description": "HXR-1BLKXL 1/4-Zip",
+        "quantity": 1.0,
+        "net_price": 44.99
+      },
+      {
+        "description": "COEMBR Pers - Custom Embroidery Appli",
+        "quantity": 1.0,
+        "net_price": 0.0
+      },
+      {
+        "description": "COEMBR Pers - Custom Embroidery Appli",
+        "quantity": 1.0,
+        "net_price": 0.0
+      },
+      {
+        "description": "KSB-1BKDXL XL Softshell",
+        "quantity": 1.0,
+        "net_price": 59.99
+      },
+      {
+        "description": "COEMBR - Pers - Custom Embroidery Appli",
+        "quantity": 1.0,
+        "net_price": 0.0
+      },
+      {
+        "description": "CEMBR Pers - Custom Embroidery Appli",
+        "quantity": 1.0,
+        "net_price": 0.0
+      },
+      {
+        "description": "GPC621BLAK38 38X30 Pant-Aus-Cargo",
+        "quantity": 1.0,
+        "net_price": 21.41
+      }
+    ]
+  }
+}

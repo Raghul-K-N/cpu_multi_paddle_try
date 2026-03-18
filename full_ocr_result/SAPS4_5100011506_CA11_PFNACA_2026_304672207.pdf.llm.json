@@ -1,0 +1,69 @@
+{
+  "invoice_data": {
+    "invoice_number": "9004005577",
+    "invoice_date": "11/26/2025",
+    "invoice_amount": "7198.10",
+    "invoice_currency": [
+      "CAD"
+    ],
+    "tax_amount": "828.10",
+    "po_number": [
+      "4504338023"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "Protopak Innovations",
+    "vendor_address": "53 Queen's Plate Dr, Etobicoke ON M9W 6P1, Canada",
+    "po_line_items": [
+      {
+        "description": "File Processing & Printing of Tostitos X NFL CC Bags & Jars; Bags 4 files x 12 pcs. ea $3600.00 Jars 3 files x 6 pcs. ea $1620.00 Artwork Charges $600.00 Delivery & Product $550.00",
+        "quantity": null,
+        "net_price": null
+      },
+      {
+        "description": "25-4343 TOSTITOS X NFL BEAUTY BAGS & JAR",
+        "quantity": 1.0,
+        "net_price": 6370.0
+      }
+    ],
+    "vat_amount": null,
+    "gl_account": null,
+    "bank_name": null,
+    "account_holder_name": null,
+    "banking_account_number": null,
+    "remit_to_address": null,
+    "bill_to_address": null,
+    "transaction_type": "debit"
+  },
+  "filename": "SAPS4_5100011506_CA11_PFNACA_2026_304672207.pdf",
+  "raw_response": {
+    "invoice_number": "9004005577",
+    "invoice_date": "11/26/2025",
+    "invoice_amount": "7198.10",
+    "invoice_currency": [
+      "CAD"
+    ],
+    "tax_amount": "828.10",
+    "po_number": [
+      "4504338023"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "Protopak Innovations",
+    "vendor_address": "53 Queen's Plate Dr, Etobicoke ON M9W 6P1, Canada",
+    "po_line_items": [
+      {
+        "description": "File Processing & Printing of Tostitos X NFL CC Bags & Jars; Bags 4 files x 12 pcs. ea $3600.00 Jars 3 files x 6 pcs. ea $1620.00 Artwork Charges $600.00 Delivery & Product $550.00",
+        "quantity": null,
+        "net_price": null
+      },
+      {
+        "description": "25-4343 TOSTITOS X NFL BEAUTY BAGS & JAR",
+        "quantity": 1.0,
+        "net_price": 6370.0
+      }
+    ]
+  }
+}

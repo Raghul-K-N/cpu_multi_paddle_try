@@ -1,0 +1,244 @@
+==================================<Page 1 - START>================================
+    OpenText Workflow History
+    Vendor
+    YOUNG BROTHERS LIMITED
+    YOUNG BROTHERS LTD
+    1331 N NIMITZ HWY
+    HONOLULU HI
+                  96817-4934
+    USA
+     Invoice
+     Reference
+                       4884355
+                                                                Document Date    26.06.2025
+     DP Document No.  39225623
+                                                                Net Amount
+                                                                                  USD          1,806.56
+    Comp. Code
+                       US29 Rolling Frito-Lay Sales            Tax Amount       USD
+                                                                                                     0.00
+    Posting Date     13.02.2026
+                                                                Gross Amount     USD
+                                                                                               1,806.56
+    SAP Document No. 1900131038 2026
+                                            Pre-Process History
+     ACTIVITY
+                                                           USER       END TIME         DOCUMENT STATUS
+     Update status
+                                                           VRBLAOT_U  03.02.2026       Validation
+                                                           SR         11:55:16
+                                                                                         Complete
+                                        Document Process History
+     ACTIVITY         PROCESS TYPE/BLOCK REASON
+                                                           USER       END TIME         DOCUMENT STATUS
+    BC Inbound
+                                                           VRBLAOT_U  03.02.2026       Document
+                                                           SR          11:54:41         Registered
+    Workflow Start   Invalid Requestor ID (NPO)
+                                                           Record to  03.02.2026        Created
+                                                                       11:55:16
+                                                           Report
+                                                           Batch
+                                                           Account
+                                                           Owner:
+    Apply Business   Invoice Older than Allowed (NPO)                11.02.2026
+                                                           NAVINKUMA                     Created
+   Rules
+                                                          RR         19:19:36
+   Comment:
+   Changed By:   NAVINKUMAR R (09336939)
+  Changed On:
+                  02/11/2026 19:19:34
+  Please approve the non po invoice
+  Bypassed Rule    Invoice Older than Allowed (NPo)   NAVINKUMA   11.02.2026
+                                                                                          Created
+ -Invoice Older
+                                                          RR         19:19:51
+ than Allowe
+Comment:
+*********************************************************************
+Changed By:09336939
+Changed On:   02/11/2026 19:19:51
+**********************************************************************
+Apply Business
+                    Invoice Older than Allowed (NPo)    NAVINKUMA   11.02.2026        Created
+Rules                                                    RR
+                                                                        19:20:07
+==================================<Page 1 - END>================================
+==================================<Page 2 - START>================================
+  OpenText Workflow History
+  Invoice
+  Vendor
+                     YOUNG BROTHERS LIMITED HONOLULU
+  Reference         4884355                             Gross Amount     USD       1,806.56
+                               Document Process History - Continuation
+   ACTIVITY
+                      PROCESS TYPE/BLOCK REASON          USER        END TIME          DOCUMENT STATUS
+   Comment:
+   ************************************************************************
+   Changed By:   NAVINKUMAR R (09336939)
+   Changed On:   02/11/2026 19:20:05
+   ******************************************************************
+   Please approve the non po invoice
+   Business Rules   Approval Required (NPo)             SAP_WFRT   11.02.2026        Indexed
+   Check in BG                                                        19:20:12
+      Invoice submitted for Approval
+                                                                        11.02.2026 19:20:13
+      Financial Information Entered                       YESSICA    12.02.2026 15:30:18
+                                                           GUTIERREZ
+      Data Entered and Invoice Approved                   YESSICA    12.02.2026 15:30:23
+                                                            GUTIERREZ
+      Comment:
+      please approve
+       Invoice Approved                                    JUAN       12.02.2026 18:58:42
+                                                           SANCHEZ
+    Approval         Approval Required (NPo)            SAP_WFRT   12.02.2026       Approval
+                                                                        18:58:50          Complete
+    Workflow
+                                                                        12.02.2026        Approval
+    Business Rules   Process Non-PO Invoice (NPO)       SAP_WFRT
+    Check in BG                                                       18:58:53          Complete
+                                                                                          Sent for Doc
+    Create Doc. BG   Process Non-Po Invoice (NPO)       SAP_WFRT   12.02.2026
+                                                                        18:58:53          Creation
+    Post Non-PO      Process Non-Po Invoice (NPO)       KARTHIK M  13.02.2026        Document
+                                                                                          Created
+    Invoice                                                           11:47:48
+                                                                        13.02.2026        Posted
+    SAP Document                                          SAP_WFRT
+    Check                                                              11:47:57
+==================================<Page 2 - END>================================
+==================================<Page 3 - START>================================
+       PEPSICO
+  Instructions:When there is not an "Ojficial" Invoice to request payment, complete the information on this form.
+ 1.You must fill in all of the fields below and the form must be accompanied with supporting documentation.
+ Save submission as 1 single PD file prior to submitting to nassapinvoicesubmission@pepsico.com
+            SAP Payment Request
+       Substitute Invoice Form                      To be filled by Requestor
+ Vendor Type
+                                            S4
+ Vendor Name:
+                                            YOUNG BROTHERS LIMITED
+ Vendor Number:
+                                            2000014185
+ Company Code:
+                                            US29
+Remit To Address :                               YOUNG BROTHERS LIMITED
+(Must match the address in the AP system)                 1331 N NIMITZ HWY
+                                            HONOLULU, HI 96817
+Special Handling needed:
+                                            No
+Attn:
+Address:
+Overnight delivery required:
+(if yes provide account # or CC below)
+FedEx or UPS, & Provide Number:
+FedEx or UPS account #
+Cost Center (If No FedEx/UPS Number):
+Trnsaction type:
+                                            Invoice
+Choose only 1 option - Invoice or Credit Memo from the dropdown
+Invoice Date:                                  26/06/2025
+Invoice #:
+                                           4884355
+Limited to 16 characters
+Purchase Order #
+Not required if non-PO
+Payment GROSS Amount:                          $1,806.56
+Tax Amount
+(if applicable)
+Payment NET Amount:                            $1,806.56
+Currency (USD or CAD)                            USD
+Header Text:                                  4884355
+Requestor Name:                               Yessica Gutierrez
+Requestor email                               yessica.gutierrez@pepsico.com
+1st Level Approver Name                          Juan Carlos Sanchez
+1st Level Approver Email id/GPID                      80232444
+Date Requested:                               22/01/2026
+GL Coding (6 digits)                              674010
+Cost Center (if applicable)                          2039450600
+Profit Center (if applicable)
+WBs Element (if applicable)
+For Assistance On This Form submission please contact:
+Raise service now ticket(Snow)                       PepsiCo - Sign In
+==================================<Page 3 - END>================================
+==================================<Page 4 - START>================================
+                            Honolulu Pier 40: 808.543.9311                                          FREIGHT BILL
+   YUUNG
+                            Hilo: 808.935.8903 Kahului: 808.877.6511
+                            Kaunakakai: 808.553.5431 Kawaihae: 808.882.7244
+                                                                                          Freight Bill : 04884355
+   BROTHERS   Nawiliwili: 808.245.4051 Lanai: 808.565.6626
+Your Neighbor Island Partner                                                   Local Freight Tariff No. 5-A / Molokai
+           Bill To:
+                                                                                    Account: 103650
+                                                                                    Bill Date: 1/28/2026
+           Frito Lay Inc
+                                                                                    Vessel: Kalohi
+           27717 Áliso Creek Rd
+                                                                                    Sail Date: 1/27/2026
+           Aliso Viejo, CA 92656
+                                                                                    Load Port: Honolulu
+                                                                                    Dest Port: Molokai
+                                                                                    Shipper Ref: 41803352
+                                                                                    P.O. Number:
+       SHIPPER: Frito Lay Inc, 94-120 Malakeke PI, Waipahu, HI 96797 (808) 484-0477
+   CONSIGNEE: Kaimomi Distributors Co, PO Box 8, Kaunakakai, HI 96748 (808) 553-5833
+QtyDescription                                     Code     UOM                          Rate       Charges
+                                                                             Measure
+9    General Cargo: Loose cargo, pallets less than    GCLS    W/M         13.40        110.23     $1,477.08
+      40 cf, or protruding beyond limits of pallet
+      Fuel Surcharge                                 XFUE     Each          1.00        0.0674        $99.56
+      Desc: pallets of assorted chips (OH) Total Weight: 1.00 Total Cube: 536
+Remarks
+                                                                                                            $1,576.64
+gs                                                                                            Freight
+cf (01-27-2026 12:11PM by 12474)                                                        Insurance        $13.00
+                                                                                                               $53.49
+                                                                                            Excise Tax
+                                                                                           County Tax         $7.01
+                                                                                             Sub Total     $1,650.14
+                                                                                             Wharfage       $148.74
+                                                                              Facilities Security Charge         $7.68
+                                                                                                  Total     $1,806.56
+                                                    ( detach along line )
+                                          Please Return This Portion With Your Remittance
+                                                                                          Freight Bill : 04884355
+   YOUNG
+                                                                                                   Account: 103650
+    BROTHERS
+Your Neighbor Island Partner
+                                                                                     Payment due within 30 days of receipt
+Payer:                                          Remit To:
+                                                                                           Total Due : $1,806.56
+Frito Lay Inc                                   Young Brothers
+27717 Aliso Creek Rd                           PO Box 848896
+Aliso Viejo, CA 92656
+                                                 Los Angeles, CA. 90084-8896
+                                                          Page 1 of 1
+==================================<Page 4 - END>================================
+==================================<Page 5 - START>================================
+          From: SPA - PepsiCo Nass AP Invoice Submission <nassapInvoiceSubmission@pepsico.com>
+           Sent: Thu, 29 Jan 2026 15:15:16 (UTC)
+           To: svcimagingspaboxprod@pepsico.com
+           Subject: FW: 4884355 Inv Kahului, HI - Young Brothers
+           Original Number of Attachments : 1
+           Original Attachment Names: 4884355.pdf
+           Number of forwarded PDF's: 1
+           Number of forwarded Non PDF files: 0
+           From: SPA - FLNA West Service Operations <FLNAWestSOPS@pepsico.com>
+           Sent: Thursday, January 29, 2026 3:13:45 PM
+           To: SPA - PepsiCo Nass AP Invoice Submission <nassaplnvoiceSubmission@pepsico.com>
+           Subject: 4884355 Inv Kahului, HI - Young Brothers
+           @SPA - PepsiCo Nass AP Invoice Submission
+           Please help us to process this attached invoice.
+          Thank you.
+                                                 Yessica Gutiérrez
+                                                 S&T - R2P - MCC - Indirect Purchasing
+           pepsico
+                                                R2P IP Analyst | PFNA West Service Operations
+                                                Bosque de Duraznos 67, Bosque de las Lomas,
+             Fritolay
+                                                CP 11700, CDMX, Mexico.
+                Good fun!                       Email: FLNAWestSOPS@pepsico.com
+==================================<Page 5 - END>================================

@@ -1,0 +1,59 @@
+{
+  "invoice_data": {
+    "invoice_number": "4857910",
+    "invoice_date": "Friday 6 Feb. 2026 12:00 p.m. GMT-05:00",
+    "invoice_amount": "101.14",
+    "invoice_currency": [
+      "CAD"
+    ],
+    "tax_amount": "11.64",
+    "po_number": [
+      "M413493128"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": "0.00",
+    "cost_center": null,
+    "vendor_name": "Westburne Canada",
+    "vendor_address": "1180 Courtneypark Dr East, 2nd Floor, Mississauga, ON L5T 1P2, Canada, Canada Address ID: CA11",
+    "po_line_items": [
+      {
+        "description": "BUSKLM4 / KLM-4 BUSS FAST-ACTING 600V",
+        "quantity": 10.0,
+        "net_price": 89.5
+      }
+    ],
+    "vat_amount": null,
+    "gl_account": null,
+    "bank_name": null,
+    "account_holder_name": null,
+    "banking_account_number": null,
+    "remit_to_address": null,
+    "bill_to_address": null,
+    "transaction_type": "debit"
+  },
+  "filename": "SAPS4_5101596501_CA11_PFNACA_2026_304654737.pdf",
+  "raw_response": {
+    "invoice_number": "4857910",
+    "invoice_date": "Friday 6 Feb. 2026 12:00 p.m. GMT-05:00",
+    "invoice_amount": "101.14",
+    "invoice_currency": [
+      "CAD"
+    ],
+    "tax_amount": "11.64",
+    "po_number": [
+      "M413493128"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": "0.00",
+    "cost_center": null,
+    "vendor_name": "Westburne Canada",
+    "vendor_address": "1180 Courtneypark Dr East, 2nd Floor, Mississauga, ON L5T 1P2, Canada, Canada Address ID: CA11",
+    "po_line_items": [
+      {
+        "description": "BUSKLM4 / KLM-4 BUSS FAST-ACTING 600V",
+        "quantity": 10.0,
+        "net_price": 89.5
+      }
+    ]
+  }
+}

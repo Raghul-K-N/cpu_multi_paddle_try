@@ -1,0 +1,69 @@
+{
+  "invoice_data": {
+    "invoice_number": "79745388",
+    "invoice_date": "31-Dec-2025",
+    "invoice_amount": "605.40",
+    "invoice_currency": [
+      "CAD"
+    ],
+    "tax_amount": "78.96",
+    "po_number": [
+      "M413536983"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "Air Liquide Canada Inc.",
+    "vendor_address": "280 JOHN ST, MONCTON, NB E1C 9W3",
+    "po_line_items": [
+      {
+        "description": "A0464326 ARGON, AR, 16, (2.75M3 / 97.12SCF), CGA-580",
+        "quantity": 4.0,
+        "net_price": null
+      },
+      {
+        "description": "A0464199 ALIGAL 1, 44, (6.32M3 / 223.19SCF), CGA-580",
+        "quantity": 8.0,
+        "net_price": null
+      }
+    ],
+    "vat_amount": null,
+    "gl_account": null,
+    "bank_name": null,
+    "account_holder_name": null,
+    "banking_account_number": null,
+    "remit_to_address": null,
+    "bill_to_address": null,
+    "transaction_type": "debit"
+  },
+  "filename": "SAPS4_5101354510_CA02_PBNACA_2026_328615079.pdf",
+  "raw_response": {
+    "invoice_number": "79745388",
+    "invoice_date": "31-Dec-2025",
+    "invoice_amount": "605.40",
+    "invoice_currency": [
+      "CAD"
+    ],
+    "tax_amount": "78.96",
+    "po_number": [
+      "M413536983"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "Air Liquide Canada Inc.",
+    "vendor_address": "280 JOHN ST, MONCTON, NB E1C 9W3",
+    "po_line_items": [
+      {
+        "description": "A0464326 ARGON, AR, 16, (2.75M3 / 97.12SCF), CGA-580",
+        "quantity": 4.0,
+        "net_price": null
+      },
+      {
+        "description": "A0464199 ALIGAL 1, 44, (6.32M3 / 223.19SCF), CGA-580",
+        "quantity": 8.0,
+        "net_price": null
+      }
+    ]
+  }
+}

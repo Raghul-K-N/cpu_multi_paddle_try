@@ -1,0 +1,47 @@
+{
+  "invoice_data": {
+    "invoice_number": "244271P",
+    "invoice_date": "02AUG 24",
+    "invoice_amount": "-180.00",
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": null,
+    "po_number": [
+      "23114585"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "NEXTRAN",
+    "vendor_address": "3900 GREAT MIDWEST DR., K.C., MO. 64161, 4001 N.E. RANDOLPH RD., K.C., MO. 64161, 6608 Kaw Drive, KANSAS CITY, MO 64161, KANSAS CITY, KS 66111",
+    "po_line_items": null,
+    "vat_amount": null,
+    "gl_account": null,
+    "bank_name": null,
+    "account_holder_name": null,
+    "banking_account_number": null,
+    "remit_to_address": null,
+    "bill_to_address": null,
+    "transaction_type": "credit"
+  },
+  "filename": "SAPS4_5100811000_US30_PFNAUS_2026_999936227.pdf",
+  "raw_response": {
+    "invoice_number": "244271P",
+    "invoice_date": "02AUG 24",
+    "invoice_amount": "-180.00",
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": null,
+    "po_number": [
+      "23114585"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "NEXTRAN",
+    "vendor_address": "3900 GREAT MIDWEST DR., K.C., MO. 64161, 4001 N.E. RANDOLPH RD., K.C., MO. 64161, 6608 Kaw Drive, KANSAS CITY, MO 64161, KANSAS CITY, KS 66111",
+    "po_line_items": null
+  }
+}

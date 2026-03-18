@@ -1,0 +1,45 @@
+{
+  "invoice_data": {
+    "invoice_number": "80665",
+    "invoice_date": "Feb 02, 2026",
+    "invoice_amount": null,
+    "invoice_currency": null,
+    "tax_amount": null,
+    "po_number": [
+      "082355",
+      "888120"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "Dawn Gordon Trucking and Warehousing Inc",
+    "vendor_address": "7740 18 St Se, PO BOX 49088, Calgary, Alberta T2C 3W5, Canada",
+    "po_line_items": null,
+    "vat_amount": null,
+    "gl_account": null,
+    "bank_name": null,
+    "account_holder_name": null,
+    "banking_account_number": null,
+    "remit_to_address": null,
+    "bill_to_address": null,
+    "transaction_type": "debit"
+  },
+  "filename": "SAPS4_5101599002_CA11_PFNACA_2026_304654821.pdf",
+  "raw_response": {
+    "invoice_number": "80665",
+    "invoice_date": "Feb 02, 2026",
+    "invoice_amount": null,
+    "invoice_currency": null,
+    "tax_amount": null,
+    "po_number": [
+      "082355",
+      "888120"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "Dawn Gordon Trucking and Warehousing Inc",
+    "vendor_address": "7740 18 St Se, PO BOX 49088, Calgary, Alberta T2C 3W5, Canada",
+    "po_line_items": null
+  }
+}

@@ -1,0 +1,59 @@
+{
+  "invoice_data": {
+    "invoice_number": "344386P",
+    "invoice_date": "2/5/2026",
+    "invoice_amount": "589.43",
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": "38.61",
+    "po_number": [
+      "23571195"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "Nextran Truck Center - Kansas City (MO)",
+    "vendor_address": "4001 Randolph Rd, Kansas City, MO 64161, 316-455-7262",
+    "po_line_items": [
+      {
+        "description": "FILTER; FUEL,W/",
+        "quantity": 2.0,
+        "net_price": 550.82
+      }
+    ],
+    "vat_amount": null,
+    "gl_account": null,
+    "bank_name": null,
+    "account_holder_name": null,
+    "banking_account_number": null,
+    "remit_to_address": null,
+    "bill_to_address": null,
+    "transaction_type": "debit"
+  },
+  "filename": "SAPS4_5100214059_US29_PFNAUS_2026_999936095.pdf",
+  "raw_response": {
+    "invoice_number": "344386P",
+    "invoice_date": "2/5/2026",
+    "invoice_amount": "589.43",
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": "38.61",
+    "po_number": [
+      "23571195"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "Nextran Truck Center - Kansas City (MO)",
+    "vendor_address": "4001 Randolph Rd, Kansas City, MO 64161, 316-455-7262",
+    "po_line_items": [
+      {
+        "description": "FILTER; FUEL,W/",
+        "quantity": 2.0,
+        "net_price": 550.82
+      }
+    ]
+  }
+}

@@ -1,0 +1,135 @@
+{
+  "invoice_data": {
+    "invoice_number": "497075",
+    "invoice_date": "02/02/2026",
+    "invoice_amount": null,
+    "invoice_currency": null,
+    "tax_amount": "107.32",
+    "po_number": [
+      "M413473717"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "VAIL'S FABRIC SERVICES LTD.",
+    "vendor_address": "90 KING STREET, MONCTON NB E1C 4M6",
+    "po_line_items": [
+      {
+        "description": "Pants",
+        "quantity": 5.0,
+        "net_price": 8.5
+      },
+      {
+        "description": "Pants",
+        "quantity": 10.0,
+        "net_price": 17.0
+      },
+      {
+        "description": "Pants",
+        "quantity": 2.0,
+        "net_price": 2.92
+      },
+      {
+        "description": "Pants",
+        "quantity": 4.0,
+        "net_price": 6.8
+      },
+      {
+        "description": "Pants",
+        "quantity": 5.0,
+        "net_price": 8.5
+      },
+      {
+        "description": "Pants",
+        "quantity": 10.0,
+        "net_price": 14.6
+      },
+      {
+        "description": "Pants",
+        "quantity": 5.0,
+        "net_price": 8.5
+      },
+      {
+        "description": "Pants",
+        "quantity": 10.0,
+        "net_price": 14.6
+      },
+      {
+        "description": "Pants",
+        "quantity": 4.0,
+        "net_price": 14.0
+      }
+    ],
+    "vat_amount": null,
+    "gl_account": null,
+    "bank_name": null,
+    "account_holder_name": null,
+    "banking_account_number": null,
+    "remit_to_address": null,
+    "bill_to_address": null,
+    "transaction_type": "debit"
+  },
+  "filename": "SAPS4_5100919002_CA02_PBNACA_2026_328615227.pdf",
+  "raw_response": {
+    "invoice_number": "497075",
+    "invoice_date": "02/02/2026",
+    "invoice_amount": null,
+    "invoice_currency": null,
+    "tax_amount": "107.32",
+    "po_number": [
+      "M413473717"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "VAIL'S FABRIC SERVICES LTD.",
+    "vendor_address": "90 KING STREET, MONCTON NB E1C 4M6",
+    "po_line_items": [
+      {
+        "description": "Pants",
+        "quantity": 5.0,
+        "net_price": 8.5
+      },
+      {
+        "description": "Pants",
+        "quantity": 10.0,
+        "net_price": 17.0
+      },
+      {
+        "description": "Pants",
+        "quantity": 2.0,
+        "net_price": 2.92
+      },
+      {
+        "description": "Pants",
+        "quantity": 4.0,
+        "net_price": 6.8
+      },
+      {
+        "description": "Pants",
+        "quantity": 5.0,
+        "net_price": 8.5
+      },
+      {
+        "description": "Pants",
+        "quantity": 10.0,
+        "net_price": 14.6
+      },
+      {
+        "description": "Pants",
+        "quantity": 5.0,
+        "net_price": 8.5
+      },
+      {
+        "description": "Pants",
+        "quantity": 10.0,
+        "net_price": 14.6
+      },
+      {
+        "description": "Pants",
+        "quantity": 4.0,
+        "net_price": 14.0
+      }
+    ]
+  }
+}

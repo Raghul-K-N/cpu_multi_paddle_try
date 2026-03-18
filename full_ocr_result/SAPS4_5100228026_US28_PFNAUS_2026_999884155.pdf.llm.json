@@ -1,0 +1,59 @@
+{
+  "invoice_data": {
+    "invoice_number": "0037081",
+    "invoice_date": "1/30/2026",
+    "invoice_amount": "925.00",
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": null,
+    "po_number": [
+      "4505021176"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "STEVENSON COMPANY, INC.",
+    "vendor_address": "P.O. Box 8310, Topeka KS 66608",
+    "po_line_items": [
+      {
+        "description": "Modify Extruded Cheese Sprayer",
+        "quantity": null,
+        "net_price": 925.0
+      }
+    ],
+    "vat_amount": null,
+    "gl_account": null,
+    "bank_name": null,
+    "account_holder_name": null,
+    "banking_account_number": null,
+    "remit_to_address": null,
+    "bill_to_address": null,
+    "transaction_type": "debit"
+  },
+  "filename": "SAPS4_5100228026_US28_PFNAUS_2026_999884155.pdf",
+  "raw_response": {
+    "invoice_number": "0037081",
+    "invoice_date": "1/30/2026",
+    "invoice_amount": "925.00",
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": null,
+    "po_number": [
+      "4505021176"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "STEVENSON COMPANY, INC.",
+    "vendor_address": "P.O. Box 8310, Topeka KS 66608",
+    "po_line_items": [
+      {
+        "description": "Modify Extruded Cheese Sprayer",
+        "quantity": null,
+        "net_price": 925.0
+      }
+    ]
+  }
+}

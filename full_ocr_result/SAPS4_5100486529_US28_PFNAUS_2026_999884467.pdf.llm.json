@@ -1,0 +1,57 @@
+{
+  "invoice_data": {
+    "invoice_number": "TX28-00813496",
+    "invoice_date": "02/12/26",
+    "invoice_amount": null,
+    "invoice_currency": null,
+    "tax_amount": null,
+    "po_number": [
+      "4505171190",
+      "630000"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "REMIT MOTION INDUSTRIES, INC.",
+    "vendor_address": "MiMOTION BRANCH ADDRESS DOCK 19 200 W TRINITY BLVD GRAND PRAIRIE, TX 75050 PHONE: 2143512211 FAX 2143587294",
+    "po_line_items": [
+      {
+        "description": "IDCSWDM3538 SPCL F/L MOTOR ELECTRIC MOTORS",
+        "quantity": 1.0,
+        "net_price": 640.31
+      }
+    ],
+    "vat_amount": null,
+    "gl_account": null,
+    "bank_name": null,
+    "account_holder_name": null,
+    "banking_account_number": null,
+    "remit_to_address": null,
+    "bill_to_address": null,
+    "transaction_type": "debit"
+  },
+  "filename": "SAPS4_5100486529_US28_PFNAUS_2026_999884467.pdf",
+  "raw_response": {
+    "invoice_number": "TX28-00813496",
+    "invoice_date": "02/12/26",
+    "invoice_amount": null,
+    "invoice_currency": null,
+    "tax_amount": null,
+    "po_number": [
+      "4505171190",
+      "630000"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "REMIT MOTION INDUSTRIES, INC.",
+    "vendor_address": "MiMOTION BRANCH ADDRESS DOCK 19 200 W TRINITY BLVD GRAND PRAIRIE, TX 75050 PHONE: 2143512211 FAX 2143587294",
+    "po_line_items": [
+      {
+        "description": "IDCSWDM3538 SPCL F/L MOTOR ELECTRIC MOTORS",
+        "quantity": 1.0,
+        "net_price": 640.31
+      }
+    ]
+  }
+}

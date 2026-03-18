@@ -1,0 +1,59 @@
+{
+  "invoice_data": {
+    "invoice_number": "459031704001",
+    "invoice_date": "Wednesday 11 Feb 2026 12:00 PM GMT-05:00",
+    "invoice_amount": "11.30",
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": "0.97",
+    "po_number": [
+      "M413548603"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "ODP BUSINESS SOLUTIONS, LLC",
+    "vendor_address": "6600 North Military Trail, Boca Raton, FL 33496, United States, US-PL-TOPEKA-KS-FLI",
+    "po_line_items": [
+      {
+        "description": "TAPE,MOUNTING,XL.38LB.CLR",
+        "quantity": 1.0,
+        "net_price": 10.33
+      }
+    ],
+    "vat_amount": null,
+    "gl_account": null,
+    "bank_name": null,
+    "account_holder_name": null,
+    "banking_account_number": null,
+    "remit_to_address": null,
+    "bill_to_address": null,
+    "transaction_type": "debit"
+  },
+  "filename": "SAPS4_5101977001_US28_PFNAUS_2026_999930936.pdf",
+  "raw_response": {
+    "invoice_number": "459031704001",
+    "invoice_date": "Wednesday 11 Feb 2026 12:00 PM GMT-05:00",
+    "invoice_amount": "11.30",
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": "0.97",
+    "po_number": [
+      "M413548603"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "ODP BUSINESS SOLUTIONS, LLC",
+    "vendor_address": "6600 North Military Trail, Boca Raton, FL 33496, United States, US-PL-TOPEKA-KS-FLI",
+    "po_line_items": [
+      {
+        "description": "TAPE,MOUNTING,XL.38LB.CLR",
+        "quantity": 1.0,
+        "net_price": 10.33
+      }
+    ]
+  }
+}

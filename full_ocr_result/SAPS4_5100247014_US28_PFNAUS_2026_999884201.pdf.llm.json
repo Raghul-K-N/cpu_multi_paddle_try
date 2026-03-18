@@ -1,0 +1,79 @@
+{
+  "invoice_data": {
+    "invoice_number": "957144",
+    "invoice_date": "2/04/26",
+    "invoice_amount": "222.65",
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": null,
+    "po_number": [
+      "4504470739"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": "27.00",
+    "cost_center": null,
+    "vendor_name": "Douglas Machine Inc.",
+    "vendor_address": "1705 34th Ave W Alexandria, Minnesota 56308 USA",
+    "po_line_items": [
+      {
+        "description": "WIRE RJ45 J424PVCSTJT04.0M",
+        "quantity": 2.0,
+        "net_price": 66.14
+      },
+      {
+        "description": "CYL CDG1BN20-125Z SMC DOUBLE",
+        "quantity": 2.0,
+        "net_price": 53.18
+      },
+      {
+        "description": "WIRE LUMBERG 0985 607 500/1M",
+        "quantity": 1.0,
+        "net_price": 23.15
+      }
+    ],
+    "vat_amount": null,
+    "gl_account": null,
+    "bank_name": null,
+    "account_holder_name": null,
+    "banking_account_number": null,
+    "remit_to_address": null,
+    "bill_to_address": null,
+    "transaction_type": "debit"
+  },
+  "filename": "SAPS4_5100247014_US28_PFNAUS_2026_999884201.pdf",
+  "raw_response": {
+    "invoice_number": "957144",
+    "invoice_date": "2/04/26",
+    "invoice_amount": "222.65",
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": null,
+    "po_number": [
+      "4504470739"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": "27.00",
+    "cost_center": null,
+    "vendor_name": "Douglas Machine Inc.",
+    "vendor_address": "1705 34th Ave W Alexandria, Minnesota 56308 USA",
+    "po_line_items": [
+      {
+        "description": "WIRE RJ45 J424PVCSTJT04.0M",
+        "quantity": 2.0,
+        "net_price": 66.14
+      },
+      {
+        "description": "CYL CDG1BN20-125Z SMC DOUBLE",
+        "quantity": 2.0,
+        "net_price": 53.18
+      },
+      {
+        "description": "WIRE LUMBERG 0985 607 500/1M",
+        "quantity": 1.0,
+        "net_price": 23.15
+      }
+    ]
+  }
+}

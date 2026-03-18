@@ -1,0 +1,99 @@
+{
+  "invoice_data": {
+    "invoice_number": "850272669",
+    "invoice_date": "Thursday 12 Feb 2026 12:00 PM GMT+05:30",
+    "invoice_amount": "423.50",
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": "0.00",
+    "po_number": [
+      "M413506342"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "METTLER-TOLEDO, LLC",
+    "vendor_address": "1900 Polaris Pkwy, Columbus, OH 43240-4035, United States",
+    "po_line_items": [
+      {
+        "description": "Material Not Available / WgtCal UC,E2 Accr Ind 2g",
+        "quantity": 1.0,
+        "net_price": 84.7
+      },
+      {
+        "description": "Material Not Available / WgtCal UC,E2 Accr Ind 5g",
+        "quantity": 1.0,
+        "net_price": 84.7
+      },
+      {
+        "description": "Material Not Available / WgtCal UC,E2 Accr Ind 10g",
+        "quantity": 1.0,
+        "net_price": 84.7
+      },
+      {
+        "description": "Material Not Available / WgtCal UC,E2 Accr Ind 50g",
+        "quantity": 1.0,
+        "net_price": 84.7
+      },
+      {
+        "description": "Material Not Available / WgtCal UC,E2 Accr Ind 100g",
+        "quantity": 1.0,
+        "net_price": 84.7
+      }
+    ],
+    "vat_amount": null,
+    "gl_account": null,
+    "bank_name": null,
+    "account_holder_name": null,
+    "banking_account_number": null,
+    "remit_to_address": null,
+    "bill_to_address": null,
+    "transaction_type": "debit"
+  },
+  "filename": "SAPS4_5100232526_US28_PFNAUS_2026_999746169.pdf",
+  "raw_response": {
+    "invoice_number": "850272669",
+    "invoice_date": "Thursday 12 Feb 2026 12:00 PM GMT+05:30",
+    "invoice_amount": "423.50",
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": "0.00",
+    "po_number": [
+      "M413506342"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "METTLER-TOLEDO, LLC",
+    "vendor_address": "1900 Polaris Pkwy, Columbus, OH 43240-4035, United States",
+    "po_line_items": [
+      {
+        "description": "Material Not Available / WgtCal UC,E2 Accr Ind 2g",
+        "quantity": 1.0,
+        "net_price": 84.7
+      },
+      {
+        "description": "Material Not Available / WgtCal UC,E2 Accr Ind 5g",
+        "quantity": 1.0,
+        "net_price": 84.7
+      },
+      {
+        "description": "Material Not Available / WgtCal UC,E2 Accr Ind 10g",
+        "quantity": 1.0,
+        "net_price": 84.7
+      },
+      {
+        "description": "Material Not Available / WgtCal UC,E2 Accr Ind 50g",
+        "quantity": 1.0,
+        "net_price": 84.7
+      },
+      {
+        "description": "Material Not Available / WgtCal UC,E2 Accr Ind 100g",
+        "quantity": 1.0,
+        "net_price": 84.7
+      }
+    ]
+  }
+}

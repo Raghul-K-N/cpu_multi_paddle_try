@@ -1,0 +1,320 @@
+==================================<Page 1 - START>================================
+Standard Invoice
+                                                                                                                     odp
+Original tax invoice has been submitted electronically. This is a
+human readable representation (copy) of the original tax invoice.
+                                                                 Invoice Number                                      459337766001
+                                                                 (Supplier Reference No.)
+                                                                 Invoice Date                   Thursday 12 Feb 2026 12:00 PM GMT-05:00
+                                                                                                                    $347.62 USD
+                                                                 Amount Due
+    Contact Information
+                                                                           Shipping Information
+    Supplier
+                                  Customer
+                                                                          Ship From                     Ship To
+     ODP BUSINESS SOLUTIONS,       ROLLING FRITO-LAY SALES
+                                                                           ODP BUSINESS SOLUTIONS.       PASCAGOULA MS BINS
+     LLC
+                                  10820 HWY 63                              LLC
+                                                                                                        10820 HWY 63
+     6600 North Military Trail            MOSS POINT
+                                                                                                        MOSS POINT
+     Boca Raton                    MS                                                                   MS
+     FL                          39562
+                                                                                                        39562
+     33496                        United States                                                            United States
+     US
+                                                                                                        Address ID:
+                                                                                                       ADBUYER907381891
+   Line Items                                              PO No. : M413552724                                       PO Date : 11 Feb 2026
+   Line No.    PO Line No.         Type    Supplier Part No. /             Customer Part No.        Quantity            Unit Price         Subtotal
+                                       Description
+                                                                                      (UOM)
+   1        1                 Material 244577/                                         5 / (EA)           $26.75 USD
+                                       INK,CL-246XL,XL,CANON,COLOR
+   Line No.   PO Line No.         Type    Supplier Part No. /             Customer Part No.        Quantity            Unit Price         Subtotal
+                                       Description                                       (UOM)
+   2        2                 Material 244559 / INK,CANON                                5 / (EA)           $23.82 USD
+                                       PG245,XL,BLACK
+   Line No.    PO Line No.         Type   Supplier Part No. /             Customer Part No.        Quantity            Unit Price         Subtotal
+                                       Description                                       (UOM)
+    3        3                 Material 249164 / NOTES.POST-                              1 / (PK)           $16.12 USD
+                                       IT(R),3X3.CAPET,18P
+                                Type   Supplier Part No. /
+   Line No.    PO Line No.                                           Customer Part No.        Quantity            Unit Price         Subtotal
+                                       Description
+                                                                                      (UOM)
+    4        4                 Material 258381 / MARKER,                                  2 / (DZN)           $7.48 USD
+                                       PERM,FINE,SHARPIE,BLACK
+                                       Supplier Part No. /
+    Line No.    PO Line No.         Type                              Customer Part No.        Quantity            Unit Price          Subtotal
+                                       Description
+    5        6                Material 420935 / PAPER,ASTRO,LTR,SLR                       2 / (RM)           $7.78 USD
+                                       YEL
+    Line No.    PO Line No.         Type   Supplier Part No. /             Customer Part No.        Quantity            Unit Price         Subtotal
+                                       Description
+                                                                                      (UOM)
+    6        7                 Material 6831388 / MESH WALL FILE
+                                                                                      3 / (EA)            $3.06 USD
+                                       LETTER BLACK
+    Line No.    PO Line No.         Type   Supplier Part No. /             Customer Part No.        Quantity            Unit Price
+                                                                                                                         Subtotal
+                                       Description                                       (UOM)
+   7        8                Material 801826 /
+                                                                                      1 / (PK)           $12.87 USD
+                                       POUCHES,THERMAL,LAMINAT,LETTER
+   Line No.   PO Line No.         Type   Supplier Part No. /             Customer Part No.
+                                       Description                                       Quantity            Unit Price         Subtotal
+                                                                                      (UOM)
+   8        10                Material 681223 /
+                                                                                      1 / (PK)            $3.34 USD
+                                       BADGE,CARDREEL,BLK,12PK
+      Tax Summary
+      Category              Details
+                                                          Base Amount               Rate %          Amount
+       Sales Tax
+                                                                                   7.00%           $22.74 USD
+                                                                             Amount Summary
+                                                                             Line item subtotal
+                                                                                                                    $324.88 USD
+                                                                             Gross amount
+                                                                                                                    $347.62 USD
+                                                                             Net amount
+                                                                                                                    $347.62 USD
+                                                                             Total tax amount
+                                                                                                                     $22.74 USD
+                                                                             Total withholding tax amount
+                                                                             Amount Due                              $347.62 USD
+     Additional Information
+     invoice due date
+     20260513
+     Billing Information
+                                                                         Remittance Information
+    Bill To
+                                                                        Remit To
+    PEPSICO INC ARIBA
+    700 ANDERSON HILL RD                                                  ODP BUSINESS SOLUTIONS,
+                                                                        LLC
+     PURCHASE
+    NY                                                                 PO BOX 633204
+    105771444                                                            CINCINNATI
+    United States                                                          OH
+    Address ID: 47140624                                                    45263-3204
+                                                                        United States
+ Payment Terms
+                                                                    Reference Documents
+  Net payment Terms (Days) :
+  90                                                                Original Supplier Order #: 459337766001
+==================================<Page 1 - END>================================
+==================================<Page 2 - START>================================
+  Appendix
+  Line No.    PO Line No. Type
+                                                        Supplier Part No. / Description
+  1
+              1         Material
+                                                        244577 / INK,CL-246XL,XL,CANON,COLOR
+  Additional Details:
+  Supplier Part ID : 244577
+  UNSPSC : 44103105
+  Line No.    PO Line No. Type                           Supplier Part No. / Description
+  2
+              2         Material                         244559 / INK,CANON PG245,XL,BLACK
+  Additional Details:
+  Supplier Part ID : 244559
+  UNSPSC : 44103105
+  Line No.    PO Line No. Type                           Supplier Part No. / Description
+  3         3         Material                         249164 / NOTES,POST-IT(R),3X3,CAPET,18P
+  Additional Details:
+  Supplier Part ID : 249164
+  UNSPSC : 14111530
+  Line No.    PO Line No. Type                           Supplier Part No. / Description
+  4          4          Material                         258381 / MARKER, PERM,FINE,SHARPIE,BLACK
+  Additional Details:
+  Supplier Part ID : 258381
+  UNSPSC : 44121708
+  Line No.    PO Line No. Type                            Supplier Part No. / Description
+  5          6          Material                         420935 / PAPER,ASTRO,LTR,SLR YEL
+ Additional Details:
+ Supplier Part ID : 420935
+  UNSPSC : 14111507
+ Line No.    PO Line No. Type                            Supplier Part No. / Description
+ 6         7         Material                          6831388 / MESH WALL FILE LETTER BLACK
+Additional Details:
+ Supplier Part ID : 6831388
+ UNSPSC : 44111510
+Line No.    PO Line No. Type                            Supplier Part No. / Description
+7         8         Material                          801826 / POUCHES,THERMAL,LAMINAT,LETTER
+Additional Details:
+Supplier Part ID : 801826
+UNSPSC : 44102002
+Line No.    PO Line No. Type
+                                                       Supplier Part No. / Description
+8
+            10        Material
+                                                       681223 / BADGE,CARDREEL,BLK,12PK
+Additional Details:
+ Supplier Part ID : 681223
+UNSPSC : 55121804
+PDF generated on Friday 13 Feb 2026 12:35 PM GMT-08:00
+==================================<Page 2 - END>================================
+==================================<Page 3 - START>================================
+Standard Invoice
+                                                                                                                     odp
+Original tax invoice has been submitted electronically. This is a
+human readable representation (copy) of the original tax invoice.
+                                                                 Invoice Number                                      459337766001
+                                                                 (Supplier Reference No.)
+                                                                 Invoice Date                   Thursday 12 Feb 2026 12:00 PM GMT-05:00
+                                                                                                                    $347.62 USD
+                                                                 Amount Due
+     Contact Information
+                                                                           Shipping Information
+     Supplier
+                                  Customer
+                                                                           Ship From                     Ship To
+     ODP BUSINESS SOLUTIONS,       ROLLING FRITO-LAY SALES
+                                                                           ODP BUSINESS SOLUTIONS.       PASCAGOULA MS BINS
+     LLC
+                                  10820 HWY 63                              LLC
+                                                                                                        10820 HWY 63
+     6600 North Military Trail            MOSS POINT
+                                                                                                        MOSS POINT
+     Boca Raton                    MS                                                                   MS
+     FL                          39562
+                                                                                                        39562
+     33496                        United States                                                            United States
+     US
+                                                                                                        Address ID:
+                                                                                                        ADBUYER907381891
+   Line Items                                              PO No. : M413552724                                       PO Date : 11 Feb 2026
+   Line No.    PO Line No.         Type    Supplier Part No. /             Customer Part No.        Quantity            Unit Price         Subtotal
+                                        Description
+                                                                                       (UOM)
+    1        1                 Material 244577/                                         5 / (EA)           $26.75 USD
+                                        INK,CL-246XL,XL,CANON,COLOR
+    Line No.   PO Line No.         Type    Supplier Part No. /             Customer Part No.        Quantity            Unit Price         Subtotal
+                                        Description                                       (UOM)
+    2        2                 Material 244559 / INK,CANON                                5 / (EA)           $23.82 USD
+                                       PG245,XL,BLACK
+    Line No.    PO Line No.         Type   Supplier Part No. /             Customer Part No.        Quantity            Unit Price         Subtotal
+                                       Description                                       (UOM)
+    3        3                 Material 249164 / NOTES.POST-                              1 / (PK)           $16.12 USD
+                                        IT(R),3X3.CAPET,18P
+                                Type   Supplier Part No. /
+    Line No.    PO Line No.                                           Customer Part No.        Quantity            Unit Price         Subtotal
+                                       Description
+                                                                                      (UOM)
+    4        4                 Material 258381 / MARKER,                                  2 / (DZN)           $7.48 USD
+                                       PERM,FINE,SHARPIE,BLACK
+                                       Supplier Part No. /
+    Line No.    PO Line No.         Type                              Customer Part No.        Quantity            Unit Price          Subtotal
+                                       Description
+    5        6                Material 420935 / PAPER,ASTRO,LTR,SLR                       2 / (RM)           $7.78 USD
+                                       YEL
+    Line No.    PO Line No.         Type   Supplier Part No. /             Customer Part No.        Quantity            Unit Price         Subtotal
+                                       Description
+                                                                                      (UOM)
+    6        7                 Material 6831388 / MESH WALL FILE
+                                                                                      3 / (EA)            $3.06 USD
+                                       LETTER BLACK
+    Line No.    PO Line No.         Type   Supplier Part No. /             Customer Part No.        Quantity            Unit Price
+                                                                                                                         Subtotal
+                                       Description                                       (UOM)
+    7        8                Material 801826 /
+                                                                                      1 / (PK)           $12.87 USD
+                                       POUCHES,THERMAL,LAMINAT,LETTER
+    Line No.   PO Line No.         Type   Supplier Part No. /             Customer Part No.
+                                       Description                                       Quantity            Unit Price         Subtotal
+                                                                                      (UOM)
+    8        10                Material 681223 /
+                                                                                      1 / (PK)            $3.34 USD
+                                       BADGE,CARDREEL,BLK,12PK
+       Tax Summary
+       Category              Details
+                                                           Base Amount               Rate %          Amount
+       Sales Tax
+                                                                                    7.00%           $22.74 USD
+                                                                             Amount Summary
+                                                                              Line item subtotal
+                                                                                                                     $324.88 USD
+                                                                              Gross amount
+                                                                                                                     $347.62 USD
+                                                                             Net amount
+                                                                                                                     $347.62 USD
+                                                                             Total tax amount
+                                                                                                                      $22.74 USD
+                                                                             Total withholding tax amount
+                                                                             Amount Due                              $347.62 USD
+     Additional Information
+     invoice due date
+     20260513
+     Billing Information
+                                                                         Remittance Information
+     Bill To
+                                                                         Remit To
+     PEPSICO INC ARIBA
+     700 ANDERSON HILL RD                                                  ODP BUSINESS SOLUTIONS,
+                                                                         LLC
+     PURCHASE
+     NY                                                                 PO BOX 633204
+     105771444                                                            CINCINNATI
+     United States                                                          OH
+     Address ID: 47140624                                                    45263-3204
+                                                                        United States
+  Payment Terms
+                                                                     Reference Documents
+  Net payment Terms (Days) :
+  90                                                                Original Supplier Order #: 459337766001
+==================================<Page 3 - END>================================
+==================================<Page 4 - START>================================
+  Appendix
+  Line No.    PO Line No. Type
+                                                        Supplier Part No. / Description
+  1
+              1         Material
+                                                        244577 / INK,CL-246XL,XL,CANON,COLOR
+  Additional Details:
+  Supplier Part ID : 244577
+  UNSPSC : 44103105
+  Line No.    PO Line No. Type                           Supplier Part No. / Description
+  2
+              2         Material                         244559 / INK,CANON PG245,XL,BLACK
+  Additional Details:
+  Supplier Part ID : 244559
+  UNSPSC : 44103105
+  Line No.    PO Line No. Type                           Supplier Part No. / Description
+  3         3         Material                         249164 / NOTES,POST-IT(R),3X3,CAPET,18P
+  Additional Details:
+  Supplier Part ID : 249164
+  UNSPSC : 14111530
+  Line No.    PO Line No. Type                           Supplier Part No. / Description
+  4          4          Material                         258381 / MARKER, PERM,FINE,SHARPIE,BLACK
+  Additional Details:
+  Supplier Part ID : 258381
+  UNSPSC : 44121708
+  Line No.    PO Line No. Type                            Supplier Part No. / Description
+  5          6          Material                         420935 / PAPER,ASTRO,LTR,SLR YEL
+ Additional Details:
+ Supplier Part ID : 420935
+  UNSPSC : 14111507
+ Line No.    PO Line No. Type                            Supplier Part No. / Description
+ 6         7         Material                          6831388 / MESH WALL FILE LETTER BLACK
+Additional Details:
+ Supplier Part ID : 6831388
+ UNSPSC : 44111510
+Line No.    PO Line No. Type                            Supplier Part No. / Description
+7         8         Material                          801826 / POUCHES,THERMAL,LAMINAT,LETTER
+Additional Details:
+Supplier Part ID : 801826
+UNSPSC : 44102002
+Line No.    PO Line No. Type
+                                                       Supplier Part No. / Description
+8
+            10        Material
+                                                       681223 / BADGE,CARDREEL,BLK,12PK
+Additional Details:
+ Supplier Part ID : 681223
+UNSPSC : 55121804
+PDF generated on Friday 13 Feb 2026 12:35 PM GMT-08:00
+==================================<Page 4 - END>================================

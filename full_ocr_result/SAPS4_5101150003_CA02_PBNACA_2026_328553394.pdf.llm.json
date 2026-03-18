@@ -1,0 +1,59 @@
+{
+  "invoice_data": {
+    "invoice_number": "72395817",
+    "invoice_date": "Tuesday 10 Feb. 2026 5:44 a.m. GMT-07:00",
+    "invoice_amount": "96.56",
+    "invoice_currency": [
+      "CAD"
+    ],
+    "tax_amount": "12.58",
+    "po_number": [
+      "M413545098"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "PEPSICO FOODS CANADA O/",
+    "vendor_address": "126152586RT0001, 5550 EXPLORER DR 8TH FLOOR, MISSISSAUGA, ON L4W 0C3, Canada, Address ID: CA1_ARIBA PAYABLES, H4R 1T8, CA",
+    "po_line_items": [
+      {
+        "description": "KMWK33025WW / KENSINGTON 33025",
+        "quantity": 2.0,
+        "net_price": 83.98
+      }
+    ],
+    "vat_amount": null,
+    "gl_account": null,
+    "bank_name": null,
+    "account_holder_name": null,
+    "banking_account_number": null,
+    "remit_to_address": null,
+    "bill_to_address": null,
+    "transaction_type": "debit"
+  },
+  "filename": "SAPS4_5101150003_CA02_PBNACA_2026_328553394.pdf",
+  "raw_response": {
+    "invoice_number": "72395817",
+    "invoice_date": "Tuesday 10 Feb. 2026 5:44 a.m. GMT-07:00",
+    "invoice_amount": "96.56",
+    "invoice_currency": [
+      "CAD"
+    ],
+    "tax_amount": "12.58",
+    "po_number": [
+      "M413545098"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "PEPSICO FOODS CANADA O/",
+    "vendor_address": "126152586RT0001, 5550 EXPLORER DR 8TH FLOOR, MISSISSAUGA, ON L4W 0C3, Canada, Address ID: CA1_ARIBA PAYABLES, H4R 1T8, CA",
+    "po_line_items": [
+      {
+        "description": "KMWK33025WW / KENSINGTON 33025",
+        "quantity": 2.0,
+        "net_price": 83.98
+      }
+    ]
+  }
+}

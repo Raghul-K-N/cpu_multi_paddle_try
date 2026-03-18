@@ -1,0 +1,262 @@
+==================================<Page 1 - START>================================
+Standard Invoice
+                                                                                                                    GRAINGR
+Original tax invoice has been submitted electronically. This is a
+human readable representation (copy) of the original tax invoice.
+                                                                                                                   980213352126
+                                                                 Invoice Number
+                                                                 (Supplier Reference No.)
+                                                                                               Tuesday 10 Feb 2026 5:17 AM GMT-07:00
+                                                                 Invoice Date
+                                                                                                                    $463.69 USD
+                                                                 Amount Due
+    Contact Information
+                                                                          Shipping Information
+    Supplier                      Customer
+                                                                          Ship From                     Ship To
+    Grainger
+                                 Frito-Lay Inc.                                                             US-PL-WILLIAMSPORT-PA-
+                                                                          Grainger
+    100 Grainger Pkwy               c/o PEPSICO NASS                          8701 MINOR LANE               FLI
+    Lake Forest                    ACCOUNTS PAYABLES                                                    ANGELA.WITMER@PEPSIC
+                                                                          LOUISVILLE
+    IL                          PO BOX 1800                               KY                           220 N REACH RD
+    Winst                        Winston Salem                              40219                         WILLIAMSPORT
+    United States                   NC                                                                   PA
+                                                                          United States
+                                 27105                                                                 17701
+                                 United States                                                            United States
+                                                                                                       Phone: (570) 323-6175
+  Line Items                                              PO No. : M413547345                                        PO Date : 9 Feb 2026
+  Line No.
+             PO Line No.          Type    Supplier Part No. /             Customer Part No.         Quantity            Unit Price         Subtotal
+                                       Description                                       (UOM)
+   1
+             1                 Material 55KA30 / Insulated Winter                             3 / (EA)           $10.85 USD      $32.55 USD
+                                       Gloves,L,HPPE Back,PR
+   Line No.    PO Line No.          Type    Supplier Part No. /
+                                                                 Customer Part No.        Quantity            Unit Price         Subtotal
+                                       Description
+                                                                                      (UOM)
+   2        2                 Material 55KA31 / Insulated Winter                             3 / (EA)           $10.85 USD       $32.55 USD
+                                       Gloves,XL,HPPE Back,PR
+   Line No.    PO Line No.          Type    Supplier Part No. /             Customer Part No.        Quantity            Unit Price         Subtotal
+                                       Description                                       (UOM)
+   3                           Material 30FX93 / Dishwasher
+             4                                                                        1 / (EA)          $114.65 USD      $114.65 USD
+                                       Detergent,Box,75oz,Powder,PK7
+   Line No.    PO Line No.         Type   Supplier Part No. /             Customer Part No.        Quantity            Unit Price         Subtotal
+                                       Description                                       (UOM)
+   4        5                 Material  800WL7 / Hand Soap,Clear,1                           1 / (EA)           $99.75 USD      $99.75 USD
+                                       gal,Fragrance Free
+   Line No.    PO Line No.         Type    Supplier Part No. /             Customer Part No.        Quantity            Unit Price         Subtotal
+                                      Description
+                                                                                      (UOM)
+   5                          Material 21F224 / Disposable Transfer                           4 / (EA)           $20.83 USD
+             6                                                                                                        $83.32 USD
+                                       Pipet,2mL,PK500
+   Line No.    PO Line No.         Type   Supplier Part No. /             Customer Part No.        Quantity            Unit Price         Subtotal
+                                      Description                                       (UOM)
+  6        7                 Material  52JY33 / Pipette Tip,0.1 to                             2 / (EA)           $37.31 USD      $74.62 USD
+                                      1250uL,Bulk,PK1000
+                                                                             Amount Summary
+                                                                              Line item subtotal
+                                                                                                                     $437.44 USD
+                                                                             Gross amount
+                                                                                                                     $463.69 USD
+                                                                             Net amount                               $463.69 USD
+                                                                             Total tax amount                            $26.25 USD
+                                                                             Total withholding tax amount
+                                                                             Amount Due                              $463.69 USD
+    Additional Information
+    InvoiceSourceDocument
+   PurchaseOrder
+   InvoiceSubmissionMethod
+   cXML
+   Billing Information                                                         Remittance Information
+   Bill To                                                                 Remit To
+   Frito-Lay Inc.                                                            GRAINGER
+   c/o PEPSICO NASS                                                       DEPT. 873498117
+   ACCOUNTS PAYABLES                                                    PALATINE
+   PO BOX 1800
+                                                                         IL
+  Winston Salem                                                           60038-0001
+  NC
+                                                                         United States
+  27105                                                                 Address ID: US1_10359
+  United States
+                                                                         Tax ID of Supplier
+  Address ID: US28
+                                                                         36-1150280
+                                                                     Reference Documents
+                                                                      Original Supplier Order #: 1575593395
+==================================<Page 1 - END>================================
+==================================<Page 2 - START>================================
+  Appendix
+  Line No.    PO Line No. Type
+                                                        Supplier Part No. / Description
+  1
+             1         Material
+                                                        55KA30 / Insulated Winter Gloves,L,HPPE Back,PR
+  Additional Details:
+  Supplier Part ID : 55KA30
+  Supplier Part Auxiliary ID : WWG55KA30
+  Line No.    PO Line No. Type                           Supplier Part No. / Description
+  2
+             2         Material                         55KA31 / Insulated Winter Gloves,XL,HPPE Back,PR
+ Additional Details:
+ Supplier Part ID : 55KA31
+  Supplier Part Auxiliary ID : WWG55KA31
+  Line No.    PO Line No. Type                           Supplier Part No. / Description
+  3          4          Material                         30FX93 / Dishwasher Detergent,Box,75oz,Powder,PK7
+ Additional Details:
+  Supplier Part ID : 30FX93
+ Supplier Part Auxiliary ID : WWG30FX93
+ Line No.    PO Line No. Type                           Supplier Part No. / Description
+ 4         5         Material                         800WL7 / Hand Soap,Clear,1 gal,Fragrance Free
+ Additional Details:
+ Supplier Part ID : 800WL7
+ Supplier Part Auxiliary ID : WWG800WL7
+Line No.    PO Line No. Type                            Supplier Part No. / Description
+ 5         6         Material                         21F224 / Disposable Transfer Pipet,2mL,PK500
+Additional Details:
+Supplier Part ID : 21F224
+Supplier Part Auxiliary ID : WWG21F224
+Line No.    PO Line No. Type                            Supplier Part No. / Description
+6         7         Material                          52JY33 / Pipette Tip,0.1 to 1250uL,Bulk,PK1000
+Additional Details:
+Supplier Part ID : 52JY33
+Supplier Part Auxiliary ID : WWG52JY33
+PDF generated on Wednesday 11 Feb 2026 4:17 AM GMT-08:00
+==================================<Page 2 - END>================================
+==================================<Page 3 - START>================================
+  Standard Invoice
+                                                                                                                      GRAINGR
+ Original tax invoice has been submitted electronically. This is a
+ human readable representation (copy) of the original tax invoice.
+                                                                                                                    980213352126
+                                                                  Invoice Number
+                                                                  (Supplier Reference No.)
+                                                                                                Tuesday 10 Feb 2026 5:17 AM GMT-07:00
+                                                                  Invoice Date
+                                                                                                                     $463.69 USD
+                                                                  Amount Due
+      Contact Information
+                                                                            Shipping Information
+     Supplier                      Customer
+                                                                            Ship From                     Ship To
+     Grainger
+                                   Frito-Lay Inc.                                                             US-PL-WILLIAMSPORT-PA-
+                                                                            Grainger
+      100 Grainger Pkwy               c/o PEPSICO NASS                          8701 MINOR LANE               FLI
+      Lake Forest                    ACCOUNTS PAYABLES                                                    ANGELA.WITMER@PEPSIC
+                                                                            LOUISVILLE
+      IL                          PO BOX 1800                               KY                           220 N REACH RD
+      Winst                        Winston Salem                              40219                         WILLIAMSPORT
+      United States                   NC                                                                   PA
+                                                                            United States
+                                   27105                                                                 17701
+                                   United States                                                            United States
+                                                                                                        Phone: (570) 323-6175
+   Line Items                                              PO No. : M413547345                                        PO Date : 9 Feb 2026
+    Line No.
+              PO Line No.          Type    Supplier Part No. /             Customer Part No.         Quantity            Unit Price         Subtotal
+                                        Description                                       (UOM)
+    1
+              1                 Material 55KA30 / Insulated Winter                             3 / (EA)           $10.85 USD      $32.55 USD
+                                        Gloves,L,HPPE Back,PR
+    Line No.    PO Line No.          Type    Supplier Part No. /
+                                                                  Customer Part No.        Quantity            Unit Price         Subtotal
+                                        Description
+                                                                                        (UOM)
+    2        2                 Material 55KA31 / Insulated Winter                             3 / (EA)           $10.85 USD       $32.55 USD
+                                        Gloves,XL,HPPE Back,PR
+    Line No.    PO Line No.          Type    Supplier Part No. /             Customer Part No.        Quantity            Unit Price         Subtotal
+                                        Description                                       (UOM)
+    3                           Material 30FX93 / Dishwasher
+              4                                                                        1 / (EA)          $114.65 USD      $114.65 USD
+                                        Detergent,Box,75oz,Powder,PK7
+    Line No.    PO Line No.         Type   Supplier Part No. /             Customer Part No.        Quantity            Unit Price         Subtotal
+                                        Description                                       (UOM)
+    4        5                 Material  800WL7 / Hand Soap,Clear,1                           1 / (EA)           $99.75 USD      $99.75 USD
+                                        gal,Fragrance Free
+    Line No.    PO Line No.         Type    Supplier Part No. /             Customer Part No.        Quantity            Unit Price         Subtotal
+                                        Description
+                                                                                       (UOM)
+    5                          Material 21F224 / Disposable Transfer                           4 / (EA)           $20.83 USD
+              6                                                                                                        $83.32 USD
+                                        Pipet,2mL,PK500
+    Line No.    PO Line No.         Type   Supplier Part No. /             Customer Part No.        Quantity            Unit Price         Subtotal
+                                        Description                                       (UOM)
+    6        7                 Material  52JY33 / Pipette Tip,0.1 to                             2 / (EA)           $37.31 USD      $74.62 USD
+                                        1250uL,Bulk,PK1000
+                                                                               Amount Summary
+                                                                               Line item subtotal
+                                                                                                                      $437.44 USD
+                                                                               Gross amount
+                                                                                                                      $463.69 USD
+                                                                               Net amount                               $463.69 USD
+                                                                               Total tax amount                            $26.25 USD
+                                                                               Total withholding tax amount
+                                                                              Amount Due                              $463.69 USD
+     Additional Information
+     InvoiceSourceDocument
+     PurchaseOrder
+     InvoiceSubmissionMethod
+    cXML
+    Billing Information                                                         Remittance Information
+    Bill To                                                                 Remit To
+    Frito-Lay Inc.                                                            GRAINGER
+    c/o PEPSICO NASS                                                       DEPT. 873498117
+    ACCOUNTS PAYABLES                                                    PALATINE
+    PO BOX 1800
+                                                                          IL
+    Winston Salem                                                           60038-0001
+    NC
+                                                                          United States
+    27105                                                                 Address ID: US1_10359
+    United States
+                                                                          Tax ID of Supplier
+    Address ID: US28
+                                                                          36-1150280
+                                                                      Reference Documents
+                                                                       Original Supplier Order #: 1575593395
+==================================<Page 3 - END>================================
+==================================<Page 4 - START>================================
+  Appendix
+  Line No.    PO Line No. Type
+                                                        Supplier Part No. / Description
+  1
+             1         Material
+                                                        55KA30 / Insulated Winter Gloves,L,HPPE Back,PR
+  Additional Details:
+  Supplier Part ID : 55KA30
+  Supplier Part Auxiliary ID : WWG55KA30
+  Line No.    PO Line No. Type                           Supplier Part No. / Description
+  2
+             2         Material                         55KA31 / Insulated Winter Gloves,XL,HPPE Back,PR
+ Additional Details:
+ Supplier Part ID : 55KA31
+  Supplier Part Auxiliary ID : WWG55KA31
+  Line No.    PO Line No. Type                           Supplier Part No. / Description
+  3          4          Material                         30FX93 / Dishwasher Detergent,Box,75oz,Powder,PK7
+ Additional Details:
+  Supplier Part ID : 30FX93
+ Supplier Part Auxiliary ID : WWG30FX93
+ Line No.    PO Line No. Type                           Supplier Part No. / Description
+ 4         5         Material                         800WL7 / Hand Soap,Clear,1 gal,Fragrance Free
+ Additional Details:
+ Supplier Part ID : 800WL7
+ Supplier Part Auxiliary ID : WWG800WL7
+Line No.    PO Line No. Type                            Supplier Part No. / Description
+ 5         6         Material                         21F224 / Disposable Transfer Pipet,2mL,PK500
+Additional Details:
+Supplier Part ID : 21F224
+Supplier Part Auxiliary ID : WWG21F224
+Line No.    PO Line No. Type                            Supplier Part No. / Description
+6         7         Material                          52JY33 / Pipette Tip,0.1 to 1250uL,Bulk,PK1000
+Additional Details:
+Supplier Part ID : 52JY33
+Supplier Part Auxiliary ID : WWG52JY33
+PDF generated on Wednesday 11 Feb 2026 4:17 AM GMT-08:00
+==================================<Page 4 - END>================================

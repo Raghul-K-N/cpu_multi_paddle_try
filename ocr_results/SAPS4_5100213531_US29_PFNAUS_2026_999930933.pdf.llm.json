@@ -1,0 +1,99 @@
+{
+  "invoice_data": {
+    "invoice_number": "8817",
+    "invoice_date": "Friday 13 Feb 2026 5:07 PM GMT-05:00",
+    "invoice_amount": "140226.48",
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": null,
+    "po_number": [
+      "M413537920"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "DL DANIEL CONSTRUCTION INC",
+    "vendor_address": "352 OAKRIDGE DR, P.O.Box 372, MAYSVILLE, GA 30558, United States",
+    "po_line_items": [
+      {
+        "description": "MATERIALS-Concrete docks and 28\" dock packages",
+        "quantity": 50468.28,
+        "net_price": 1.0
+      },
+      {
+        "description": "Labor",
+        "quantity": 71668.0,
+        "net_price": 1.0
+      },
+      {
+        "description": "Equipment Rental",
+        "quantity": 6300.0,
+        "net_price": 1.0
+      },
+      {
+        "description": "Shipping",
+        "quantity": 3540.2,
+        "net_price": 1.0
+      },
+      {
+        "description": "MOBILIZATION",
+        "quantity": 8250.0,
+        "net_price": 1.0
+      }
+    ],
+    "vat_amount": null,
+    "gl_account": null,
+    "bank_name": null,
+    "account_holder_name": null,
+    "banking_account_number": null,
+    "remit_to_address": null,
+    "bill_to_address": null,
+    "transaction_type": "debit"
+  },
+  "filename": "SAPS4_5100213531_US29_PFNAUS_2026_999930933.pdf",
+  "raw_response": {
+    "invoice_number": "8817",
+    "invoice_date": "Friday 13 Feb 2026 5:07 PM GMT-05:00",
+    "invoice_amount": "140226.48",
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": null,
+    "po_number": [
+      "M413537920"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "DL DANIEL CONSTRUCTION INC",
+    "vendor_address": "352 OAKRIDGE DR, P.O.Box 372, MAYSVILLE, GA 30558, United States",
+    "po_line_items": [
+      {
+        "description": "MATERIALS-Concrete docks and 28\" dock packages",
+        "quantity": 50468.28,
+        "net_price": 1.0
+      },
+      {
+        "description": "Labor",
+        "quantity": 71668.0,
+        "net_price": 1.0
+      },
+      {
+        "description": "Equipment Rental",
+        "quantity": 6300.0,
+        "net_price": 1.0
+      },
+      {
+        "description": "Shipping",
+        "quantity": 3540.2,
+        "net_price": 1.0
+      },
+      {
+        "description": "MOBILIZATION",
+        "quantity": 8250.0,
+        "net_price": 1.0
+      }
+    ]
+  }
+}

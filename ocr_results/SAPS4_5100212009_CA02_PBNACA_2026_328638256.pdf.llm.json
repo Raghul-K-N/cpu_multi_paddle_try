@@ -1,0 +1,81 @@
+{
+  "invoice_data": {
+    "invoice_number": "321975056",
+    "invoice_date": "01/19/2026",
+    "invoice_amount": "3431.78",
+    "invoice_currency": [
+      "CAD"
+    ],
+    "tax_amount": "394.81",
+    "po_number": [
+      "4504811437",
+      "4352715"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "KRONES INC.",
+    "vendor_address": "9600 South 58th Street, P.O. Box 321801, Franklin,WI 53132-6241",
+    "po_line_items": [
+      {
+        "description": "Teflon bellows seal valve",
+        "quantity": 5.0,
+        "net_price": 944.55
+      },
+      {
+        "description": "VALVE DIAPHRAGM BLOCK ASY VAR IV",
+        "quantity": 4.0,
+        "net_price": 1392.92
+      },
+      {
+        "description": "MEMBRANE/DIAPHRAGM",
+        "quantity": 50.0,
+        "net_price": 699.5
+      }
+    ],
+    "vat_amount": null,
+    "gl_account": null,
+    "bank_name": null,
+    "account_holder_name": null,
+    "banking_account_number": null,
+    "remit_to_address": null,
+    "bill_to_address": null,
+    "transaction_type": "debit"
+  },
+  "filename": "SAPS4_5100212009_CA02_PBNACA_2026_328638256.pdf",
+  "raw_response": {
+    "invoice_number": "321975056",
+    "invoice_date": "01/19/2026",
+    "invoice_amount": "3431.78",
+    "invoice_currency": [
+      "CAD"
+    ],
+    "tax_amount": "394.81",
+    "po_number": [
+      "4504811437",
+      "4352715"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "KRONES INC.",
+    "vendor_address": "9600 South 58th Street, P.O. Box 321801, Franklin,WI 53132-6241",
+    "po_line_items": [
+      {
+        "description": "Teflon bellows seal valve",
+        "quantity": 5.0,
+        "net_price": 944.55
+      },
+      {
+        "description": "VALVE DIAPHRAGM BLOCK ASY VAR IV",
+        "quantity": 4.0,
+        "net_price": 1392.92
+      },
+      {
+        "description": "MEMBRANE/DIAPHRAGM",
+        "quantity": 50.0,
+        "net_price": 699.5
+      }
+    ]
+  }
+}

@@ -1,0 +1,67 @@
+{
+  "invoice_data": {
+    "invoice_number": "18481",
+    "invoice_date": "01/21/2026",
+    "invoice_amount": "908.76",
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": null,
+    "po_number": [
+      "4505086494"
+    ],
+    "gl_account_number": [
+      "645280"
+    ],
+    "freight_and_handling_charges": null,
+    "cost_center": [
+      "2358302423"
+    ],
+    "vendor_name": "Pinnacle Exhibits, Inc.",
+    "vendor_address": "7090 NE Westmark Drive, Hillsboro, OR 97124",
+    "po_line_items": [
+      {
+        "description": "Booth storage for January 2026 March 2026 757 Cubic ft. consisting of: - (7) Pallets.",
+        "quantity": 3.0,
+        "net_price": 302.92
+      }
+    ],
+    "vat_amount": null,
+    "gl_account": null,
+    "bank_name": null,
+    "account_holder_name": null,
+    "banking_account_number": null,
+    "remit_to_address": null,
+    "bill_to_address": null,
+    "transaction_type": "debit"
+  },
+  "filename": "SAPS4_5101319001_US29_PFNAUS_2026_999885254.pdf",
+  "raw_response": {
+    "invoice_number": "18481",
+    "invoice_date": "01/21/2026",
+    "invoice_amount": "908.76",
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": null,
+    "po_number": [
+      "4505086494"
+    ],
+    "gl_account_number": [
+      "645280"
+    ],
+    "freight_and_handling_charges": null,
+    "cost_center": [
+      "2358302423"
+    ],
+    "vendor_name": "Pinnacle Exhibits, Inc.",
+    "vendor_address": "7090 NE Westmark Drive, Hillsboro, OR 97124",
+    "po_line_items": [
+      {
+        "description": "Booth storage for January 2026 March 2026 757 Cubic ft. consisting of: - (7) Pallets.",
+        "quantity": 3.0,
+        "net_price": 302.92
+      }
+    ]
+  }
+}

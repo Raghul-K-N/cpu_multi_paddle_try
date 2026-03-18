@@ -1,0 +1,47 @@
+{
+  "invoice_data": {
+    "invoice_number": "110019313",
+    "invoice_date": "10/02/2026",
+    "invoice_amount": "231.70",
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": null,
+    "po_number": [
+      "23572422"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": "4",
+    "cost_center": null,
+    "vendor_name": "POWER STOP, LLC",
+    "vendor_address": "6112 W 73RD STREET, BEDFORD PARK IL 60638",
+    "po_line_items": null,
+    "vat_amount": null,
+    "gl_account": null,
+    "bank_name": null,
+    "account_holder_name": null,
+    "banking_account_number": null,
+    "remit_to_address": null,
+    "bill_to_address": null,
+    "transaction_type": "debit"
+  },
+  "filename": "SAPS4_5100053034_US29_PFNAUS_2026_999884707.pdf",
+  "raw_response": {
+    "invoice_number": "110019313",
+    "invoice_date": "10/02/2026",
+    "invoice_amount": "231.70",
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": null,
+    "po_number": [
+      "23572422"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": "4",
+    "cost_center": null,
+    "vendor_name": "POWER STOP, LLC",
+    "vendor_address": "6112 W 73RD STREET, BEDFORD PARK IL 60638",
+    "po_line_items": null
+  }
+}

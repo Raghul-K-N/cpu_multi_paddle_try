@@ -1,0 +1,59 @@
+{
+  "invoice_data": {
+    "invoice_number": "142317427",
+    "invoice_date": "2/10/2026",
+    "invoice_amount": "1,022.13",
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": "73.52",
+    "po_number": [
+      "M413257883"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "Crown Equipment Corporation",
+    "vendor_address": "4303 N Jerome Rd, Maumee, OH 43537, Tel 419-729-0716, Fax 419-729-1813",
+    "po_line_items": [
+      {
+        "description": "Not Available / MRO Repair and Maint - General Servicing and Repair BPO. Maumee 2025",
+        "quantity": 1.0,
+        "net_price": 948.61
+      }
+    ],
+    "vat_amount": null,
+    "gl_account": null,
+    "bank_name": null,
+    "account_holder_name": null,
+    "banking_account_number": null,
+    "remit_to_address": null,
+    "bill_to_address": null,
+    "transaction_type": "debit"
+  },
+  "filename": "SAPS4_5100380001_US29_PFNAUS_2026_999872659.pdf",
+  "raw_response": {
+    "invoice_number": "142317427",
+    "invoice_date": "2/10/2026",
+    "invoice_amount": "1,022.13",
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": "73.52",
+    "po_number": [
+      "M413257883"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "Crown Equipment Corporation",
+    "vendor_address": "4303 N Jerome Rd, Maumee, OH 43537, Tel 419-729-0716, Fax 419-729-1813",
+    "po_line_items": [
+      {
+        "description": "Not Available / MRO Repair and Maint - General Servicing and Repair BPO. Maumee 2025",
+        "quantity": 1.0,
+        "net_price": 948.61
+      }
+    ]
+  }
+}

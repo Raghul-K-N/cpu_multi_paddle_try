@@ -1,0 +1,47 @@
+{
+  "invoice_data": {
+    "invoice_number": "6302144017",
+    "invoice_date": "02/03/2026",
+    "invoice_amount": "166.81",
+    "invoice_currency": [
+      "CAD"
+    ],
+    "tax_amount": "7.94",
+    "po_number": [
+      "M412759942"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "Canadian Linen and Uniform Service Corp.",
+    "vendor_address": "1818 Third Av S, Lethbridge, AB T1J 0L5",
+    "po_line_items": null,
+    "vat_amount": null,
+    "gl_account": null,
+    "bank_name": null,
+    "account_holder_name": null,
+    "banking_account_number": null,
+    "remit_to_address": null,
+    "bill_to_address": null,
+    "transaction_type": "debit"
+  },
+  "filename": "SAPS4_5100005507_CA11_PFNACA_2026_304654778.pdf",
+  "raw_response": {
+    "invoice_number": "6302144017",
+    "invoice_date": "02/03/2026",
+    "invoice_amount": "166.81",
+    "invoice_currency": [
+      "CAD"
+    ],
+    "tax_amount": "7.94",
+    "po_number": [
+      "M412759942"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "Canadian Linen and Uniform Service Corp.",
+    "vendor_address": "1818 Third Av S, Lethbridge, AB T1J 0L5",
+    "po_line_items": null
+  }
+}

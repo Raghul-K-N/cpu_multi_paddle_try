@@ -1,0 +1,537 @@
+==================================<Page 1 - START>================================
+Standard Invoice
+                                                                                                                  MILESTONE
+Original tax invoice has been submitted electronically. This is a
+human readable representation (copy) of the original tax invoice.
+                                                                                                                   M00509488
+                                                                Invoice Number
+                                                                (Supplier Reference No.)
+                                                                                              Monday 9 Feb 2026 12:00 PM GMT-06:00
+                                                                Invoice Date
+                                                                                                                $5,531.40 USD
+                                                                Amount Due
+    Contact Information
+    Supplier                      Customer
+     MILESTONE EQUIPMENT         Frito-Lay, Inc.
+     COMPANY LLC
+                                 c/o PEPSICO NASS
+     PO Box 205589
+                                  ACCOUNTS PAYABLES
+     Dallas                        PO BOX 1800
+     TX                          Winston Salem
+     75320-5589                   NC
+     United States                  27105
+                                  United States
+                                  Address ID: US28
+                                                                                                             PO Date : 22 Sep 2025
+  Line Items                                              PO No. : M413269588
+   Line No.                                                       Customer Part No.        Quantity           Unit Price        Subtotal
+             PO Line No.          Type   Supplier Part No. /
+                                       Description
+   1        1                 Material  Not Available / MILESTONE BPO                        5,040 / (EA)        $1.00 USD    $5,040.00 USD
+                                       2025 LEASE 2102100200
+          Taxes, Allowances and Charges
+           Category                  Applicable To         Details                Base Amount         Rate %       Amount
+            Sales Tax                 Line               Tax Description : A/P Sales   $5,040.00 USD        9.75%       $491.40 USD
+                                                      Tax
+                                                                                                 Line Item Total : $5,531.40 USD
+      Tax Summary
+      Category              Details                          Base Amount               Rate %          Amount
+                                                                                   9.75%          $491.40 USD
+      Sales Tax              Tax Description : A/P Sales Tax         $5,040.00 USD
+                                                                             Amount Summary
+                                                                                                                  $5,040.00 USD
+                                                                             Line item subtotal
+                                                                                                                     $0.00 USD
+                                                                             Shipping charges
+                                                                                                                  $5,531.40 USD
+                                                                             Gross amount
+                                                                             Net amount                             $5,531.40 USD
+                                                                             Total tax amount                           $491.40 USD
+                                                                             Total withholding tax amount
+                                                                             Amount Due                             $5,531.40 USD
+    Additional Information
+    ServiceDescription
+    01/2026 Trailer rent
+    Billing Information
+                                                                         Remittance Information
+    Bill From                      Bill To
+                                                                         Remit To
+    MILESTONE EQUIPMENT         Frito-Lay, Inc.                               MILESTONE TRAILER
+    COMPANY LLC                 c/o PEPSICO NASS                          LEASING LLC
+    PO Box 205589                 ACCOUNTS PAYABLES                       PO Box 205589
+    Dallas                       PO BOX 1800                              DALLAS
+    TX
+                                Winston Salem                              TX
+    75320-5589                    NC                                      75320-5589
+    United States                   27105                                    United States
+                                United States                               Address ID: PBNAREMIT
+                                Address ID: US28
+Payment Terms
+Net payment Terms (Days) :
+60
+==================================<Page 1 - END>================================
+==================================<Page 2 - START>================================
+  Appendix
+ Line No.                                                Supplier Part No. / Description
+             PO Line No. Type
+  1          1
+                        Material
+ Additional Details:
+                                                                      Ship From
+                                                                                                          Ship To
+ Classification Domain : custom
+ Classification Code : SCH777024                                          MILESTONE EQUIPMENT COMPANY LLC US-PL-PULASKI-TN-FLI
+                                                                      PO Box 205589
+ Supplier Part ID : Not Available                                                                               Sebastian.GONZALEZ2@pepsico.com
+                                                                      Dallas
+                                                                      TX                                US-PL-PULASKI-TN-FLI
+                                                                                                         298 INDUSTRIAL BLVD
+                                                                      75320-5589
+                                                                                                          PULASKI
+                                                                      United States
+                                                                                                          TN
+                                                                                                          38478-5220
+                                                                                                         United States
+PDF generated on Friday 13 Feb 2026 1:35 PM GMT-08:00
+==================================<Page 2 - END>================================
+==================================<Page 3 - START>================================
+                  MILESTONE
+                                                                                Invoice Number:      M00509488
+                                                                                Invoice Date:
+                                                                                                          1/31/2026
+                                                                                Due Date                  3/2/2026
+                                                                                Customer No.:                 35002
+                                                                               Page:                            1
+       Bill-To: F L TRANSPORTATION INC
+              7701 LEGACY DRIVE                                      Remit To: MILESTONE EQUIPMENT COMPANY
+                                                                               PO BOX 205589
+              PLANO, TX 75024
+                                                                               DALLAS, TX 75320-5589
+                                                                               BANK: WELLS FARGO
+                                                                               ABA:121000248 ACCT:4685318446
+               CONTRACT NO
+      UNIT
+               MASTER LEASE               RENTAL BILLING PERIOD
+     BRANCH
+                AGREEMENT
+                                 PO           DESCRIPTION       QTY  UOM
+                                                                                 RATE   SUBTOTALTOTAL INCL, TAX
+      599375
+               RC247296       M413269588
+       012
+               M073025K                   01/01/26
+                                                 01/31/26            1    MO     112.00      112.00           122.92
+      774020
+               RC250220       M413269588
+       012
+               M073025K
+                                          01/01/26 01/31/26            1    MO     112.00      112.00           122.92
+      778644
+              RC249586       M413269588
+       012    M073025K
+                                          01/01/26 01/31/26            1    MO     112.00      112.00           122.92
+     856971   RC247591       M413269588
+      012    M073025K
+                                          01/01/26 01/31/26            1    MO     112.00      112.00           122.92
+    919430   RC249587       M413269588
+     012    M073025K                    01/01/26 01/31/26
+                                                                    1    MO     112.00      112.00           122.92
+   A11390   RC247297       M413269588
+     012    M073025K                    01/01/26
+                                                01/31/26            1    MO     112.00      112.00           122.92
+  A6013822  RC248346       M413269588
+    012     M073025K                     01/01/26 01/31/26
+                                                                    1    MO     112.00      112.00           122.92
+  H91834   RC247592       M413269588
+    012     M073025K                     01/01/26
+                                                01/31/26            1    MO     112.00      112.00           122.92
+  H91925   RC247593        M413269588
+            M073025K
+   012                                  01/01/26 01/31/26            1     MO     112.00      112.00           122.92
+            RC247594       M413269588
+U255086
+   012     M073025K                     01/01/26 01/31/26            1    MO     112.00      112.00           122.92
+ U40002   RC249588       M413269588
+            M073025K
+   012                                  01/01/26 01/31/26             1     MO     112.00     112.00           122.92
+U615908   RC247298        M413269588
+   012     M073025K                     01/01/26 01/31/26             1     MO     112.00      112.00            122.92
+U679064   RC247299        M413269588
+   012     M073025K                     01/01/26 01/31/26             1    MO     112.00     112.00           122.92
+U679107   RC247895        M413269588
+   012     M073025K                     01/01/26 01/31/26             1     MO     112.00      112.00            122.92
+U679189   RC248347        M413269588
+   012     M073025K                     01/01/26 01/31/26             1    MO     112.00     112.00
+                                                                                                              122.92
+U679230   RC248348        M413269588
+           M073025K                     01/01/26 01/31/26             1    MO     112.00      112.00
+   012                                                                                                       122.92
+           RC249590        M413269588
+U682143
+           M073025K                     01/01/26 01/31/26            1    MO     112.00
+   012                                                                                      112.00            122.92
+           RC249591
+U683781                  M413269588
+                                                01/31/26            1
+  012     M073025K                     01/01/26                          MO     112.00      112.00            122.92
+U683784   RC248342        M413269588
+  012     M073025K                     01/01/26 01/31/26            1    MO     112.00      112.00            122.92
+U683799   RC248349        M413269588
+  012     M073025K                     01/01/26 01/31/26            1     MO     112.00      112.00
+                                                                                                              122.92
+U683803   RC249592        M413269588
+  012     M073025K                     01/01/26 01/31/26            1    MO     112.00      112.00
+                                                                                                              122.92
+==================================<Page 3 - END>================================
+==================================<Page 4 - START>================================
+                  MILESTONE
+                                                                                Invoice Number:      M00509488
+                                                                                Invoice Date:
+                                                                                                          1/31/2026
+                                                                                Due Date                  3/2/2026
+                                                                                Customer No.:                 35002
+                                                                               Page:                            2
+        Bill-To: F L TRANSPORTATION INC
+               7701 LEGACY DRIVE                                      Remit To: MILESTONE EQUIPMENT COMPANY
+               PLANO, TX 75024                                                 PO BOX 205589
+                                                                               DALLAS, TX 75320-5589
+                                                                               BANK: WELLS FARGO
+                                                                               ABA:121000248 ACCT:4685318446
+                CONTRACT NO
+       UNIT
+                MASTER LEASE               RENTAL BILLING PERIOD
+     BRANCH
+                 AGREEMENT
+                                  PO           DESCRIPTION       QTY  UOM
+                                                                                 RATE   SUBTOTALTOTAL INCL, TAX
+      U683856
+               RC248114       M413269588
+        012
+               M073025K                   01/01/26 01/31/26
+                                                                    1    MO    112.00      112.00           122.92
+      U683867
+               RC248350      M413269588
+        012    M073025K                   01/01/26
+                                                 01/31/26            1    MO     112.00      112.00           122.92
+      U683892  RC247889       M413269588
+        012    M073025K
+                                          01/01/26 01/31/26            1    MO     112.00      112.00           122.92
+      U683913  RC249593
+                             M413269588
+       012    M073025K
+                                          01/01/26 01/31/26            1    MO     112.00      112.00           122.92
+     U683988  RC247890       M413269588
+       012    M073025K                    01/01/26 01/31/26
+                                                                    1    MO     112.00      112.00           122.92
+    U684224  RC248171       M413269588
+      012    M073025K                    01/01/26
+                                                 01/31/26            1     MO     112.00      112.00           122.92
+    U684249  RC247595       M413269588
+      012    M073025K                    01/01/26 01/31/26
+                                                                    1    MO     112.00     112.00           122.92
+    U684336  RC248351        M413269588
+     012    M073025K                    01/01/26
+                                                 01/31/26            1    MO     112.00     112.00           122.92
+   U688628   RC247300       M413269588
+     012    M073025K
+                                          01/01/26 01/31/26            1    MO     112.00      112.00           122.92
+             RC247301       M413269588
+  U774160
+    012     M073025K
+                                         01/01/26 01/31/26            1    MO     112.00      112.00           122.92
+  U825375   RC247302        M413269588
+    012     M073025K
+                                         01/01/26 01/31/26             1     MO     112.00      112.00           122.92
+            RC248344
+  U825411                  M413269588
+            M073025K
+    012                                 01/01/26 01/31/26             1    MO     112.00      112.00           122.92
+ U825579   RC248352       M413269588
+   012     M073025K                    01/01/26 01/31/26             1    MO     112.00      112.00           122.92
+U825623   RC247590       M413269588
+   012     M073025K                    01/01/26 01/31/26             1     MO     112.00      112.00           122.92
+U825933   RC249594        M413269588
+   012     M073025K                     01/01/26 01/31/26             1    MO     112.00     112.00
+                                                                                                              122.92
+U871655   RC247907       M413269588
+   012     M073025K                     01/01/26 01/31/26             1    MO     112.00      112.00
+                                                                                                              122.92
+U876521   RC247891        M413269588
+            M073025K                     01/01/26 01/31/26            1    MO     112.00
+   012                                                                                      112.00            122.92
+            RC249595       M413269588
+U967990
+           M073025K                     01/01/26 01/31/26            1
+   012                                                                   MO     112.00      112.00            122.92
+U968167   RC247303        M413269588
+   012     M073025K                     01/01/26 01/31/26            1    MO     112.00      112.00            122.92
+U968183   RC247596        M413269588
+  012     M073025K                     01/01/26 01/31/26            1     MO     112.00      112.00
+                                                                                                              122.92
+U968207   RC247401        M413269588
+  012     M073025K                     01/01/26 01/31/26            1    MO     112.00      112.00
+                                                                                                              122.92
+==================================<Page 4 - END>================================
+==================================<Page 5 - START>================================
+                   MILESTONE                            Invoice Number:      M00509488
+                                                                                Invoice Date:               1/31/2026
+                                                                                Due Date                  3/2/2026
+                                                                                Customer No.:
+                                                                                                             35002
+                                                                               Page:                            3
+        Bill-To: F L TRANSPORTATION INC
+               7701 LEGACY DRIVE                                     Remit To: MILESTONE EQUIPMENT COMPANY
+               PLANO, TX 75024                                                 PO BOX 205589
+                                                                                DALLAS, TX 75320-5589
+                                                                               BANK: WELLS FARGO
+                                                                               ABA:121000248 ACCT:4685318446
+                CONTRACT NO
+        UNIT
+                MASTER LEASE
+                                            RENTAL BILLING PERIOD
+      BRANCH
+                  AGREEMENT      PO          DESCRIPTION
+                                                                   QTY  UOM  RATE   SUBTOTALTOTAL INCL. TAX
+       U969854  RC247597      M413269588
+         012    M073025K
+                                           01/01/26 01/31/26            1    MO    112.00                     122.92
+                                                                                             112.00
+        U970796
+                RC247304      M413269588
+         012
+                M073025K                   01/01/26 01/31/26            1                                      122.92
+                                                                           MO     112.00     112.00
+       U972260
+                RC247305      M413269588
+         012    M073025K                   01/01/26 01/31/26            1                      112.00           122.92
+                                                                           MO    112.00
+                                                                                           Subtotal:      5,040.00
+                                                                                                            491.40
+                                                                                                Tax:
+                                                                                              Total:      5,531.40
+                                              ** Thank you for your Business! **
+                          For Inquiries Please Contact us at 1-866-706-1144 or customer.service@milecorp.com
+                                      You have 30 days to dispute charges on this invoice.
+                  For online payments, please visit our website www.milecorp.com and click on the 'Make a Payment' button.
+==================================<Page 5 - END>================================
+==================================<Page 6 - START>================================
+                  MILESTONE
+                                                                                Invoice Number:      M00509488
+                                                                                Invoice Date:
+                                                                                                          1/31/2026
+                                                                                Due Date                  3/2/2026
+                                                                                Customer No.:                 35002
+                                                                               Page:                            1
+       Bill-To: F L TRANSPORTATION INC
+              7701 LEGACY DRIVE                                      Remit To: MILESTONE EQUIPMENT COMPANY
+                                                                               PO BOX 205589
+              PLANO, TX 75024
+                                                                               DALLAS, TX 75320-5589
+                                                                               BANK: WELLS FARGO
+                                                                               ABA:121000248 ACCT:4685318446
+               CONTRACT NO
+      UNIT
+               MASTER LEASE               RENTAL BILLING PERIOD
+     BRANCH
+                AGREEMENT
+                                 PO           DESCRIPTION       QTY  UOM
+                                                                                 RATE   SUBTOTALTOTAL INCL, TAX
+      599375
+               RC247296       M413269588
+       012
+               M073025K                   01/01/26
+                                                 01/31/26            1    MO     112.00      112.00           122.92
+      774020
+               RC250220       M413269588
+       012
+               M073025K
+                                          01/01/26 01/31/26            1    MO     112.00      112.00           122.92
+      778644
+              RC249586       M413269588
+       012    M073025K
+                                          01/01/26 01/31/26            1    MO     112.00      112.00           122.92
+     856971   RC247591       M413269588
+      012    M073025K
+                                          01/01/26 01/31/26            1    MO     112.00      112.00           122.92
+    919430   RC249587       M413269588
+     012    M073025K                    01/01/26 01/31/26
+                                                                    1    MO     112.00      112.00           122.92
+   A11390   RC247297       M413269588
+     012    M073025K                    01/01/26
+                                                01/31/26            1    MO     112.00      112.00           122.92
+  A6013822  RC248346       M413269588
+    012     M073025K                     01/01/26 01/31/26
+                                                                    1    MO     112.00      112.00           122.92
+  H91834   RC247592       M413269588
+    012     M073025K                     01/01/26
+                                                01/31/26            1    MO     112.00      112.00           122.92
+  H91925   RC247593        M413269588
+            M073025K
+   012                                  01/01/26 01/31/26            1     MO     112.00      112.00           122.92
+            RC247594       M413269588
+U255086
+   012     M073025K                     01/01/26 01/31/26            1    MO     112.00      112.00           122.92
+ U40002   RC249588       M413269588
+            M073025K
+   012                                  01/01/26 01/31/26             1     MO     112.00     112.00           122.92
+U615908   RC247298        M413269588
+   012     M073025K                     01/01/26 01/31/26             1     MO     112.00      112.00            122.92
+U679064   RC247299        M413269588
+   012     M073025K                     01/01/26 01/31/26             1    MO     112.00     112.00           122.92
+U679107   RC247895        M413269588
+   012     M073025K                     01/01/26 01/31/26             1     MO     112.00      112.00            122.92
+U679189   RC248347        M413269588
+   012     M073025K                     01/01/26 01/31/26             1    MO     112.00     112.00
+                                                                                                              122.92
+U679230   RC248348        M413269588
+           M073025K                     01/01/26 01/31/26             1    MO     112.00      112.00
+   012                                                                                                       122.92
+           RC249590        M413269588
+U682143
+           M073025K                     01/01/26 01/31/26            1    MO     112.00
+   012                                                                                      112.00            122.92
+           RC249591
+U683781                  M413269588
+                                                01/31/26            1
+  012     M073025K                     01/01/26                          MO     112.00      112.00            122.92
+U683784   RC248342        M413269588
+  012     M073025K                     01/01/26 01/31/26            1    MO     112.00      112.00            122.92
+U683799   RC248349        M413269588
+  012     M073025K                     01/01/26 01/31/26            1     MO     112.00      112.00
+                                                                                                              122.92
+U683803   RC249592        M413269588
+  012     M073025K                     01/01/26 01/31/26            1    MO     112.00      112.00
+                                                                                                              122.92
+==================================<Page 6 - END>================================
+==================================<Page 7 - START>================================
+                  MILESTONE
+                                                                                Invoice Number:      M00509488
+                                                                                Invoice Date:
+                                                                                                          1/31/2026
+                                                                                Due Date                  3/2/2026
+                                                                                Customer No.:                 35002
+                                                                               Page:                            2
+        Bill-To: F L TRANSPORTATION INC
+               7701 LEGACY DRIVE                                      Remit To: MILESTONE EQUIPMENT COMPANY
+               PLANO, TX 75024                                                 PO BOX 205589
+                                                                               DALLAS, TX 75320-5589
+                                                                               BANK: WELLS FARGO
+                                                                               ABA:121000248 ACCT:4685318446
+                CONTRACT NO
+       UNIT
+                MASTER LEASE               RENTAL BILLING PERIOD
+     BRANCH
+                 AGREEMENT
+                                  PO           DESCRIPTION       QTY  UOM
+                                                                                 RATE   SUBTOTALTOTAL INCL, TAX
+      U683856
+               RC248114       M413269588
+        012
+               M073025K                   01/01/26 01/31/26
+                                                                    1    MO    112.00      112.00           122.92
+      U683867
+               RC248350      M413269588
+        012    M073025K                   01/01/26
+                                                 01/31/26            1    MO     112.00      112.00           122.92
+      U683892  RC247889       M413269588
+        012    M073025K
+                                          01/01/26 01/31/26            1    MO     112.00      112.00           122.92
+      U683913  RC249593
+                             M413269588
+       012    M073025K
+                                          01/01/26 01/31/26            1    MO     112.00      112.00           122.92
+     U683988  RC247890       M413269588
+       012    M073025K                    01/01/26 01/31/26
+                                                                    1    MO     112.00      112.00           122.92
+    U684224  RC248171       M413269588
+      012    M073025K                    01/01/26
+                                                 01/31/26            1     MO     112.00      112.00           122.92
+    U684249  RC247595       M413269588
+      012    M073025K                    01/01/26 01/31/26
+                                                                    1    MO     112.00     112.00           122.92
+    U684336  RC248351        M413269588
+     012    M073025K                    01/01/26
+                                                 01/31/26            1    MO     112.00     112.00           122.92
+   U688628   RC247300       M413269588
+     012    M073025K
+                                          01/01/26 01/31/26            1    MO     112.00      112.00           122.92
+             RC247301       M413269588
+  U774160
+    012     M073025K
+                                         01/01/26 01/31/26            1    MO     112.00      112.00           122.92
+  U825375   RC247302        M413269588
+    012     M073025K
+                                         01/01/26 01/31/26             1     MO     112.00      112.00           122.92
+            RC248344
+  U825411                  M413269588
+            M073025K
+    012                                 01/01/26 01/31/26             1    MO     112.00      112.00           122.92
+ U825579   RC248352       M413269588
+   012     M073025K                    01/01/26 01/31/26             1    MO     112.00      112.00           122.92
+U825623   RC247590       M413269588
+   012     M073025K                    01/01/26 01/31/26             1     MO     112.00      112.00           122.92
+U825933   RC249594        M413269588
+   012     M073025K                     01/01/26 01/31/26             1    MO     112.00     112.00
+                                                                                                              122.92
+U871655   RC247907       M413269588
+   012     M073025K                     01/01/26 01/31/26             1    MO     112.00      112.00
+                                                                                                              122.92
+U876521   RC247891        M413269588
+            M073025K                     01/01/26 01/31/26            1    MO     112.00
+   012                                                                                      112.00            122.92
+            RC249595       M413269588
+U967990
+           M073025K                     01/01/26 01/31/26            1
+   012                                                                   MO     112.00      112.00            122.92
+U968167   RC247303        M413269588
+   012     M073025K                     01/01/26 01/31/26            1    MO     112.00      112.00            122.92
+U968183   RC247596        M413269588
+  012     M073025K                     01/01/26 01/31/26            1     MO     112.00      112.00
+                                                                                                              122.92
+U968207   RC247401        M413269588
+  012     M073025K                     01/01/26 01/31/26            1    MO     112.00      112.00
+                                                                                                              122.92
+==================================<Page 7 - END>================================
+==================================<Page 8 - START>================================
+                   MILESTONE                            Invoice Number:      M00509488
+                                                                                Invoice Date:               1/31/2026
+                                                                                Due Date                  3/2/2026
+                                                                                Customer No.:
+                                                                                                             35002
+                                                                               Page:                            3
+        Bill-To: F L TRANSPORTATION INC
+               7701 LEGACY DRIVE                                     Remit To: MILESTONE EQUIPMENT COMPANY
+               PLANO, TX 75024                                                 PO BOX 205589
+                                                                                DALLAS, TX 75320-5589
+                                                                               BANK: WELLS FARGO
+                                                                               ABA:121000248 ACCT:4685318446
+                CONTRACT NO
+        UNIT
+                MASTER LEASE
+                                            RENTAL BILLING PERIOD
+      BRANCH
+                  AGREEMENT      PO          DESCRIPTION
+                                                                   QTY  UOM  RATE   SUBTOTALTOTAL INCL. TAX
+       U969854  RC247597      M413269588
+         012    M073025K
+                                           01/01/26 01/31/26            1    MO    112.00                     122.92
+                                                                                             112.00
+        U970796
+                RC247304      M413269588
+         012
+                M073025K                   01/01/26 01/31/26            1                                      122.92
+                                                                           MO     112.00     112.00
+       U972260
+                RC247305      M413269588
+         012    M073025K                   01/01/26 01/31/26            1                      112.00           122.92
+                                                                           MO    112.00
+                                                                                           Subtotal:      5,040.00
+                                                                                                            491.40
+                                                                                                Tax:
+                                                                                              Total:      5,531.40
+                                              ** Thank you for your Business! **
+                          For Inquiries Please Contact us at 1-866-706-1144 or customer.service@milecorp.com
+                                      You have 30 days to dispute charges on this invoice.
+                  For online payments, please visit our website www.milecorp.com and click on the 'Make a Payment' button.
+==================================<Page 8 - END>================================

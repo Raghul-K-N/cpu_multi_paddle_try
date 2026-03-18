@@ -1,0 +1,85 @@
+{
+  "invoice_data": {
+    "invoice_number": "4257504677",
+    "invoice_date": "01/27/2026",
+    "invoice_amount": "215.45",
+    "invoice_currency": [
+      "CAD"
+    ],
+    "tax_amount": "26.46",
+    "po_number": null,
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "CINTAS CANADA LIMITED",
+    "vendor_address": "TORONTO, ON M5W 0J2",
+    "po_line_items": [
+      {
+        "description": "MF TWL 14X18 HVYWT-",
+        "quantity": 800.0,
+        "net_price": 0.18
+      },
+      {
+        "description": "3X10 GRAY MAT",
+        "quantity": 4.0,
+        "net_price": 4.776
+      },
+      {
+        "description": "4X6 GRAY MAT",
+        "quantity": 4.0,
+        "net_price": 3.82
+      },
+      {
+        "description": "LOGO MAT ADVANTAGE",
+        "quantity": 1.0,
+        "net_price": 0.0
+      }
+    ],
+    "vat_amount": null,
+    "gl_account": null,
+    "bank_name": null,
+    "account_holder_name": null,
+    "banking_account_number": null,
+    "remit_to_address": null,
+    "bill_to_address": null,
+    "transaction_type": "debit"
+  },
+  "filename": "SAPS4_5100259003_CA11_PFNACA_2026_304658852.pdf",
+  "raw_response": {
+    "invoice_number": "4257504677",
+    "invoice_date": "01/27/2026",
+    "invoice_amount": "215.45",
+    "invoice_currency": [
+      "CAD"
+    ],
+    "tax_amount": "26.46",
+    "po_number": null,
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "CINTAS CANADA LIMITED",
+    "vendor_address": "TORONTO, ON M5W 0J2",
+    "po_line_items": [
+      {
+        "description": "MF TWL 14X18 HVYWT-",
+        "quantity": 800.0,
+        "net_price": 0.18
+      },
+      {
+        "description": "3X10 GRAY MAT",
+        "quantity": 4.0,
+        "net_price": 4.776
+      },
+      {
+        "description": "4X6 GRAY MAT",
+        "quantity": 4.0,
+        "net_price": 3.82
+      },
+      {
+        "description": "LOGO MAT ADVANTAGE",
+        "quantity": 1.0,
+        "net_price": 0.0
+      }
+    ]
+  }
+}

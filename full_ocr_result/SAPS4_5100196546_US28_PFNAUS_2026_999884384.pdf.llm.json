@@ -1,0 +1,79 @@
+{
+  "invoice_data": {
+    "invoice_number": "59690055",
+    "invoice_date": "2/11/26",
+    "invoice_amount": "56.09",
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": "4.54",
+    "po_number": [
+      "4505169507"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": "12.89",
+    "cost_center": null,
+    "vendor_name": "McMaster-Carr",
+    "vendor_address": "562-692-5911, 562-695-2323 (fax), la.sales@mcmaster.com",
+    "po_line_items": [
+      {
+        "description": "Wire Rope Compression Sleeve - for Lifting for Stainless Steel and Steel Rope, 18-8 Stainless Steel, for 3/32\" Rope Diameter, Packs of 10",
+        "quantity": 1.0,
+        "net_price": 13.95
+      },
+      {
+        "description": "Routing Eyebolt with Nut - Not for Lifting, 304 Stainless Steel with Bent-Closed Eye, 1/4\"-20 Thread, 1\" Shank, Packs of 5",
+        "quantity": 1.0,
+        "net_price": 11.38
+      },
+      {
+        "description": "Open-End S-Hook-Not for Lifting, 18-8 Stainless Steel, 100 Ibs. Capacity, 3/16\" Thick, 7/16\" Hook Opening, Packs of 10",
+        "quantity": 1.0,
+        "net_price": 13.33
+      }
+    ],
+    "vat_amount": null,
+    "gl_account": null,
+    "bank_name": null,
+    "account_holder_name": null,
+    "banking_account_number": null,
+    "remit_to_address": null,
+    "bill_to_address": null,
+    "transaction_type": "debit"
+  },
+  "filename": "SAPS4_5100196546_US28_PFNAUS_2026_999884384.pdf",
+  "raw_response": {
+    "invoice_number": "59690055",
+    "invoice_date": "2/11/26",
+    "invoice_amount": "56.09",
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": "4.54",
+    "po_number": [
+      "4505169507"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": "12.89",
+    "cost_center": null,
+    "vendor_name": "McMaster-Carr",
+    "vendor_address": "562-692-5911, 562-695-2323 (fax), la.sales@mcmaster.com",
+    "po_line_items": [
+      {
+        "description": "Wire Rope Compression Sleeve - for Lifting for Stainless Steel and Steel Rope, 18-8 Stainless Steel, for 3/32\" Rope Diameter, Packs of 10",
+        "quantity": 1.0,
+        "net_price": 13.95
+      },
+      {
+        "description": "Routing Eyebolt with Nut - Not for Lifting, 304 Stainless Steel with Bent-Closed Eye, 1/4\"-20 Thread, 1\" Shank, Packs of 5",
+        "quantity": 1.0,
+        "net_price": 11.38
+      },
+      {
+        "description": "Open-End S-Hook-Not for Lifting, 18-8 Stainless Steel, 100 Ibs. Capacity, 3/16\" Thick, 7/16\" Hook Opening, Packs of 10",
+        "quantity": 1.0,
+        "net_price": 13.33
+      }
+    ]
+  }
+}

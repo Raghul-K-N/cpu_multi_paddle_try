@@ -1,0 +1,47 @@
+{
+  "invoice_data": {
+    "invoice_number": "116898272",
+    "invoice_date": "1/13/2026",
+    "invoice_amount": null,
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": null,
+    "po_number": [
+      "M413299064"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "CNOWN lift trucks",
+    "vendor_address": "4000 Scientific Dr, Arliington, TX 76014, PO Box 641173, Cincinnati, OH 45264-1173",
+    "po_line_items": null,
+    "vat_amount": null,
+    "gl_account": null,
+    "bank_name": null,
+    "account_holder_name": null,
+    "banking_account_number": null,
+    "remit_to_address": null,
+    "bill_to_address": null,
+    "transaction_type": "debit"
+  },
+  "filename": "SAPS4_5100365001_US29_PFNAUS_2026_999931209.pdf",
+  "raw_response": {
+    "invoice_number": "116898272",
+    "invoice_date": "1/13/2026",
+    "invoice_amount": null,
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": null,
+    "po_number": [
+      "M413299064"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "CNOWN lift trucks",
+    "vendor_address": "4000 Scientific Dr, Arliington, TX 76014, PO Box 641173, Cincinnati, OH 45264-1173",
+    "po_line_items": null
+  }
+}

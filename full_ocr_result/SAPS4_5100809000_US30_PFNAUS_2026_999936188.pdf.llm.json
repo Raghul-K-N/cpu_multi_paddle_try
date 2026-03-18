@@ -1,0 +1,79 @@
+{
+  "invoice_data": {
+    "invoice_number": "560618P",
+    "invoice_date": "11/21/2025",
+    "invoice_amount": "-575.00",
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": "0.00",
+    "po_number": [
+      "23519006"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "Dario Diesel Service (5125D)",
+    "vendor_address": "182 Southwest Cutoff, Worcester, MA 01604",
+    "po_line_items": [
+      {
+        "description": "CORE RETURN",
+        "quantity": 1.0,
+        "net_price": -75.0
+      },
+      {
+        "description": "CORE RETURN",
+        "quantity": 1.0,
+        "net_price": -100.0
+      },
+      {
+        "description": "CORE RETURN",
+        "quantity": 1.0,
+        "net_price": -400.0
+      }
+    ],
+    "vat_amount": null,
+    "gl_account": null,
+    "bank_name": null,
+    "account_holder_name": null,
+    "banking_account_number": null,
+    "remit_to_address": null,
+    "bill_to_address": null,
+    "transaction_type": "credit"
+  },
+  "filename": "SAPS4_5100809000_US30_PFNAUS_2026_999936188.pdf",
+  "raw_response": {
+    "invoice_number": "560618P",
+    "invoice_date": "11/21/2025",
+    "invoice_amount": "-575.00",
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": "0.00",
+    "po_number": [
+      "23519006"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "Dario Diesel Service (5125D)",
+    "vendor_address": "182 Southwest Cutoff, Worcester, MA 01604",
+    "po_line_items": [
+      {
+        "description": "CORE RETURN",
+        "quantity": 1.0,
+        "net_price": -75.0
+      },
+      {
+        "description": "CORE RETURN",
+        "quantity": 1.0,
+        "net_price": -100.0
+      },
+      {
+        "description": "CORE RETURN",
+        "quantity": 1.0,
+        "net_price": -400.0
+      }
+    ]
+  }
+}

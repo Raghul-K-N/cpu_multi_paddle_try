@@ -1,0 +1,346 @@
+==================================<Page 1 - START>================================
+  OpenText Workflow History
+  Vendor
+  BLANEY MCMURTRY LLP
+  BLANEY MCMURTRY LLP
+  2 QUEEN ST E
+  STE 1500
+  TORONTO ON M5C 3G5
+  CANADA
+  Invoice
+  Reference
+                     840254                                  Document Date
+                                                                                30.11.2025
+  DP Document No.  37810781
+                                                              Net Amount       CAD
+                                                                                             6,200.25
+  Comp. Code       CA02 Pepsi Bottling Grp Canada
+                                                              Tax Amount       CAD             789.97
+  Posting Date     13.02.2026
+                                                              Gross Amount     CAD          6,990.22
+  SAP Document No. 1900112000 2026
+                                          Pre-Process History
+   ACTIVITY
+                                                         USER       END TIME         DOCUMENT STATUS
+   Update status
+                                                         VRBLAOT_U  16.12.2025       Validation
+                                                         SR         19:29:36          Complete
+                                      Document Process History
+  ACTIVITY         PROCESS TYPE/BLOCK REASON          USER        END TIME         DOCUMENT STATUS
+  BC Inbound                                            VRBLAOT_U  16.12.2025        Document
+                                                                     18:23:48
+                                                         SR                            Registered
+  Workflow Start   Invalid Requestor ID (NPO)         Record to  16.12.2025        Created
+                                                         Report      19:29:36
+                                                         Batch
+                                                         Account
+                                                         Owner:
+ Apply Business
+                    Invalid Requestor ID (NPO)         NAVINKUMA  19.12.2025        Created
+ Rules                                                              19:56:48
+                                                         R R
+ Comment:
+Changed By:   NAVINKUMAR R (09336939)
+Changed On:   12/19/2025 19:56:46
+****************************************************************
+Please approve the non po invoice
+Business Rules    Approval Required (NPo)             SAP_WFRT    19.12.2025        Indexed
+Check in BG                                                         19:56:51
+  Invoice submitted for Approval                                   19.12.2025 19:56:52
+                                                                     10.02.2026 20:01:56
+  Financial Information Entered                       HARJOT
+                                                         GILL
+  Data Entered and Invoice Approved                   HARJOT      10.02.2026 20:02:04
+                                                         GILL
+  Comment:
+  Sale of owen sound
+  Invoice Rejected                                     YUANXI      11.02.2026 21:59:03
+                                                         ZHANG
+==================================<Page 1 - END>================================
+==================================<Page 2 - START>================================
+OpenText Workflow History
+Invoice
+Vendor            BLANEY MCMURTRY LLP TORONTO
+Reference         840254                              Gross Amount     CAD       6,990.22
+                              Document Process History - Continuation
+  ACTIVITY          PROCESS TYPE/BLOCK REASON          USER        END TIME          DOCUMENT STATUS
+    Comment:
+   Missing GL Information, Requestor will resubmit.
+   Financial Information Entered                       HARJOT      12.02.2026 21:31:25
+                                                          GILL
+                                                         HARJOT      12.02.2026 21:31:30
+   Data Entered and Invoice Approved
+                                                          GILL
+   Comment:
+   Owen sound
+   Invoice Approved                                     YUANXI      12.02.2026 21:54:31
+                                                          ZHANG
+                                                          SAP_WFRT    12.02.2026       Approval
+ Approval          Approval Required (NPo)
+                                                                      21:54:37          Complete
+ Workflow
+                                                                                         Approval
+ Business Rules   Process Non-PO Invoice (NPO)        SAP_WFRT    12.02.2026
+                                                                      21:54:39          Complete
+ Check in BG
+                                                          SAP_WFRT   12.02.2026        Sent for Doc
+ Create Doc. BG   Process Non-PO Invoice (NPO)
+                                                                                         Creation
+                                                                      21:54:39
+                                                                                         Sent for Doc
+ Post Non-PO      Process Non-PO Invoice (NPO)        BOOBALAN   13.02.2026
+                                                                      12:06:24          Creation
+ Invoice                                                BALAJI
+ Post Non-PO                                            BOOBALAN   13.02.2026        Document
+                    Process Non-Po Invoice (NPO)
+                                                                                         Created
+ Invoice                                                BALAJI     12:06:48
+                                                                                         Posted
+ SAP Document                                           SAP_WFRT   13.02.2026
+ Check                                                              12:06:55
+==================================<Page 2 - END>================================
+==================================<Page 3 - START>================================
+          PEPSICO
+                 Instructions: When there is not an "Official" Invoice to request payment, complete the information on this form.
+1. Fillin the Description field below with the payment type - for example: Donation / Taxes / Other
+2. You must fill in all of the fields below and the form must be accompanied with supporting documentation
+Save submission as 1 single PDF file prior to attaching to SharePoint request
+4. The form can be used for the following invoice/payment type activity:
+ 5. Submit PDF form to --> NAssAPInvoiceSubmission@PepsiCo.com
+                                            Non-PO Invoice
+                                       SAP Payment Request
+                                      Substitute Invoice Form
+Vendor Name:                      Blaney McMurty LLP
+Vendor Number:
+                                           2000020762
+Company Code:
+                                          CA02
+Remit To Address :                2 Queen St E
+(Must match the address in the AP system)  Toronto, Ontario, M5C 3G5
+                                          Canada
+Trnsaction type:                    Invoice
+                                          *choose only 1 option - Invoice or Credit Memo from the dropdown
+Invoice Date:                        11/30/2025
+Invoice #:                            840254
+                                          *Limited to 16 characters
+Purchase Order #
+(not required if non-PO)
+                                          (not required if non-PO)
+Payment GROSS Amount:      $6,990.22
+Tax Amount (if applicable):                 $789.97
+Payment NET Amount:           $6,200.25
+Currency
+                                         CA
+Header Text:                        Payment of Blaney's Invoice
+Requestor Name:                  Harjot Gill
+Requestor email
+                                          harjot.gill@pepsico.com
+Date Requested:                   12/12/2025
+For Assistance On This Form submission please contact:
+NASSAPSpecialRequest@pepsico.com
+==================================<Page 3 - END>================================
+==================================<Page 4 - START>================================
+                 Blaney
+                                                                 Blaney McMurtry LLP | Lawyers  416-593-1221
+                                                                 2 Queen Street East Suite 1500
+             McMurtryP                                                      Blaney.com
+                                                                 Toronto, Ontario M5C 3G5
+       PepsiCo Canada ULC                                                Invoice Date:November 30, 2025
+       2095 Matheson Boulevard East                                   Invoice Number:              840254
+       Mississauga, ON L4W 0G2                                        Matter Number:        100686-0072
+                                                                             HST Number:        R119444149
+        Attention:   Clare Smith
+                      Sr. VP General Counsel
+                                                     INVOICE
+        Matter: Sale of 925 7th Street East, Owen Sound, Ontario
+        To our professional services up to and including November 30, 2025.
+                                                                                                       Amount
+                                                                                   Tax Rate
+                                                                                                         (CAD)
+                                                                                                       6,000.00
+        Professional Fees                                                          13.00%
+        Costs (Taxable)
+                                                                                     13.00%             36.00
+        Bank Charges - Wires
+                                                                                     13.00%             28.80
+        Cyberbahn Agent Service Fee
+        Registration Fees                                                           13.00%             11.90
+        Costs (Non-Taxable)
+                                                                                                           52.00
+        Filing Fees* - Non-Taxable
+        Registration Fees* - Non-Taxable                                                                  71.55
+                                                                                     Subtotal          6,200.25
+                                                                              Tax @ 13.00%            789.97
+                                                                            Amount payable         $6,990.22
+        BLANEY McMURTRY LLP
+        Brett J. Tkatch
+       E. & O.E
+                                                 Invoice due on receipt
+==================================<Page 4 - END>================================
+==================================<Page 5 - START>================================
+     Matter Number: 100686-0072                                       Invoice Date:     November 30, 2025
+     Matter:          Sale of 925 7th Street East, Owen Sound, OntarioInvoice Number:               840254
+      Date                                                                                                  Hours
+                       Initials           Description
+      2025-11-03                                                                                              0.90
+                       JMW             Review correspondence from client's broker regarding
+                                           request for extension of due diligence; draft amending
+                                           agreement; draft correspondence to purchaser's
+                                           broker regarding same
+       2025-11-04                      Preparing draft reply to requisitions, draft Transfer and              1.20
+                        AS
+                                           messaging to Purchaser's lawyer, Statement of
+                                           Adjustments, Acknowledgment & Direction and draft
+                                           Application General to delete expired lease;
+                                                                                                                 0.40
+       2025-11-04   JMW             Review correspondence from client's broker and
+                                           executed amending agreement; review
+                                           correspondence from client's broker regarding further
+                                           deposit payable by purchaser
+                                                                                                                  0.30
+       2025-11-17   AS                E-mail to Purchaser's lawyer forwarding reply to
+                                           requisitions and our form of documents; Revising
+                                           Acknowledgment and Direction for Transfer and
+                                           Application to delete Notice of Lease separately; E-
+                                           mail to Purchaser's lawyer forwarding fully signed
+                                           Waiver and Amendment;
+                                                                                                                   3.20
+        2025-11-17    JMW             Review and revise requisition letter; draft closing
+                                           documents; draft correspondence to client regarding
+                                           same as well as other matters to be attended to for
+                                           closing; draft correspondence to client's broker
+                                           regarding commission statement
+        2025-11-20   JMW             Review various correspondence from client's broker;                  0.30
+                                           draft replies to same
+        2025-11-21   AS                Revising Purchasers' documents with new entity
+                                                                                                                  0.10
+                                           number and respective HST numbers;
+                        AS
+       2025-11-21                       Review of Vendor's Corporate Profile Report and e-                  0.10
+                                           mailing incorporation number to Purchasers' lawyer;
+       2025-11-21   JMW             Review various correspondence from solicitor for                     0.30
+                                           borrower; revise revisions to closing documents; draft
+                                           correspondence to clerk regarding same
+       2025-11-24    JMW             Draft correspondence to client; review reply to same                 0.20
+       2025-11-25    JMW             Prepare execution versions of closing documents;                    0.70
+                                          draft correspondence to client to send execution
+                                           copies of documents and provide summary of
+                                          transaction terms; review executed documents
+       2025-11-26                       Obtain and review HST search results and corporate
+                       JMW                                                                                   1.00
+                                          searches in respect of purchasers; review executed
+                                          documents received from solicitor for purchasers;
+                                          instruct clerk to register Application (General) to delete
+                                          Notice of Lease; draft various correspondence to
+                                          solicitor for purchasers; review various
+                                          correspondence from solicitor for purchasers; review
+                                          correspondence from client's broker; review outgoing
+                                          wire transfer forms; draft correspondence to client and
+                                          client's broker to report on closing; draft Statement of
+                                                 ces provided by Lawco Limited. Details are available upon reguest
+==================================<Page 5 - END>================================
+==================================<Page 6 - START>================================
+     Matter Number: 100686-0072                                       Invoice Date:     November 30, 2025
+     Matter:
+                        Sale of 925 7th Street East, Owen Sound, Ontario Invoice Number:              840254
+      Date          Initials           Description                                                      Hours
+                                          Trust Funds;
+       2025-11-26
+                       JK               Obtained Certificates of Status on Andpet Realty                    0.40
+                                          Limited and on 1000639458 Ontario Inc.;
+       2025-11-26   AS               Attending to closing day matters; Registering                       0.40
+                                          Application General to delete NOL R289927;
+                                          Communications with Purchasers' lawyer's office; E-
+                                          mail to Purchasers' lawyer forwarding Vendor's closing
+                                          package;
+                                                                                                              1.00
+        2025-11-28   JMW             Draft final report to client
+                                                                                                            10.50
+        Total
+        Timekeeper Summary
+        Name                              Title                        Hours          Rate          Amount
+                                                                                         650.00         5,200.00
+        Warren, Jeffrey M.                 Partner                       8.00
+                                            Clerk                         0.40        320.00           128.00
+        Kroupis, John
+                                                                                                            672.00
+        Santos, Ana                       Clerk                          2.10        320.00
+                                                                           10.50                        $6,000.00
+        Total
+        Disbursement Summary
+       Description                                                                                       Amount
+       Bank Charges - Wires                                                                                 36.00
+       Cyberbahn Agent Service Fee                                                                         28.80
+       Filing Fees* - Non-Taxable                                                                             52.00
+      Registration Fees                                                                                       11.90
+      Registration Fees* - Non-Taxable                                                                       71.55
+      Total
+                                                                                                              $200.25
+      *HST is not charged
+==================================<Page 6 - END>================================
+==================================<Page 7 - START>================================
+              Blaney
+                                                               Blaney McMurtry LLP | Lawyers     )416-593-1221
+                                                               2 Queen Street East Suite 1500
+         McMurtryP
+                                                               Toronto, Ontario M5C 3G5         )Blaney.com
+  PepsiCo Canada ULC                                                  Invoice Date:  November 30, 2025
+  2095 Matheson Boulevard East                                      Invoice Number:               840254
+  Mississauga, ON L4W 0G2
+                                                                         Matter Number:         100686-0072
+                                                                           HST Number:         R119444149
+ Attention:    Clare Smith
+                Sr. VP General Counsel
+                                             REMITTANCE COPY
+                            Sale of 925 7th Street East, Owen Sound, Ontario
+                                                                                                  Balance Due
+Invoice Date               Invoice Number
+Current Invoice
+                                                                                                      $6,990.22
+2025-11-30                 840254
+                                                                                                      $6,990.22
+Balance Due
+                                                                To pay by Wire (CAD):
+Please Remit to:    To pay by Visa, Mastercard, Amex, or
+                      Interac e-Transfer please Click here to pay   TD Canada Trust, Bank No. 004, Transit No. 10252,
+                                                                General Account No. 0680-5215022
+                      To ensure that your payment is applied       Swift Code: TDOMCATTTOR
+                      correctly, please send us an email, including
+                                                                For USD Payments:
+                      the invoice number(s) being paid and the file
+                                                                Bank No: 004; Transit No: 10252
+                      number, to: clientservices@blaney.com
+                                                                Beneficiary Acct Name: Blaney McMurtry LLP
+                                                                2 Queen Street East Suite 1500 Torontó ON Canada
+                                                                USD General Acct: 0680-7309161
+                                                                Swift Code: BOFAUS3NXXX
+                                                                ABA Routing No: 026009593
+                                                                US Intermediary Bank: Bank of America New York, NY
+                                                                (Please Reference Invoice Number)
+==================================<Page 7 - END>================================
+==================================<Page 8 - START>================================
+           From: SPA - PepsiCo Nass AP Invoice Submission <nassapInvoiceSubmission@pepsico.com>
+           Sent: Fri, 12 Dec 2025 21:18:00 (UTC)
+           To: svcimagingspaboxprod@pepsico.com
+            Subject: FW: Non-PO Invoice
+           Original Number of Attachments : 6
+           Original Attachment Names: 840256- Non PO.pdf,840255 - Non PO.pdf,840254 - Non
+           PO.pdf,838151 - Non PO.pdf,838150 - Non PO.pdf,833558 - Non PO.pdf
+           Number of forwarded PDF's: 6
+           Number of forwarded Non PDF files: 0
+           From: Gill, Harjot {PEP} <Harjot.Gill@pepsico.com>
+           Sent: Friday, December 12, 2025 9:16:13 PM
+           To: SPA - PepsiCo NASS AP Special Request <nassapspecialrequest@pepsico.com>; SPA - PepsiCo Nass
+           AP Invoice Submission <nassaplnvoiceSubmission@pepsico.com>
+           Subject: Non-PO Invoice
+           Hello -
+           Please process attached invoices.
+           Kind regards,
+          Harjot Gill, CPA
+           Senior Analyst| PepsiCo Beverages Canada
+          2095 Matheson Boulevard East, Mississauga ON L4W 0G2
+          Email: harjot.gill@pepsico.com
+==================================<Page 8 - END>================================
+==================================<Page 9 - START>================================
+     PEPSI
+==================================<Page 9 - END>================================

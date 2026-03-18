@@ -1,0 +1,79 @@
+{
+  "invoice_data": {
+    "invoice_number": "131466857",
+    "invoice_date": "01/12/26",
+    "invoice_amount": null,
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": null,
+    "po_number": [
+      "23552518"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "FleetPride",
+    "vendor_address": "P.O. BOX 847118, 131466857, HEAVY DUTY PARTS & SERVICE, DALLAS TX 75284-7118",
+    "po_line_items": [
+      {
+        "description": "AIR FILTER-RADIAL SEAL PRIMARY",
+        "quantity": 3.0,
+        "net_price": 62.31
+      },
+      {
+        "description": "LUBE FILTER",
+        "quantity": 7.0,
+        "net_price": 8.49
+      },
+      {
+        "description": "OIL FILTER CELLULOSE CARTRG PLASTIC",
+        "quantity": 5.0,
+        "net_price": 24.42
+      }
+    ],
+    "vat_amount": null,
+    "gl_account": null,
+    "bank_name": null,
+    "account_holder_name": null,
+    "banking_account_number": null,
+    "remit_to_address": null,
+    "bill_to_address": null,
+    "transaction_type": "debit"
+  },
+  "filename": "SAPS4_5100283061_US29_PFNAUS_2026_999936440.pdf",
+  "raw_response": {
+    "invoice_number": "131466857",
+    "invoice_date": "01/12/26",
+    "invoice_amount": null,
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": null,
+    "po_number": [
+      "23552518"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "FleetPride",
+    "vendor_address": "P.O. BOX 847118, 131466857, HEAVY DUTY PARTS & SERVICE, DALLAS TX 75284-7118",
+    "po_line_items": [
+      {
+        "description": "AIR FILTER-RADIAL SEAL PRIMARY",
+        "quantity": 3.0,
+        "net_price": 62.31
+      },
+      {
+        "description": "LUBE FILTER",
+        "quantity": 7.0,
+        "net_price": 8.49
+      },
+      {
+        "description": "OIL FILTER CELLULOSE CARTRG PLASTIC",
+        "quantity": 5.0,
+        "net_price": 24.42
+      }
+    ]
+  }
+}

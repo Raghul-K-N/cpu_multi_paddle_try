@@ -1,0 +1,43 @@
+{
+  "invoice_data": {
+    "invoice_number": "INV-8377",
+    "invoice_date": "12/1/2025",
+    "invoice_amount": null,
+    "invoice_currency": null,
+    "tax_amount": null,
+    "po_number": [
+      "4503420365"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "PepsiCo Foods Canada",
+    "vendor_address": "2059 Matheson Bvld.E. Mississauga, Ontario L4W 0G2, Canada",
+    "po_line_items": null,
+    "vat_amount": null,
+    "gl_account": null,
+    "bank_name": null,
+    "account_holder_name": null,
+    "banking_account_number": null,
+    "remit_to_address": null,
+    "bill_to_address": null,
+    "transaction_type": "debit"
+  },
+  "filename": "SAPS4_5101607500_CA11_PFNACA_2026_304654828.pdf",
+  "raw_response": {
+    "invoice_number": "INV-8377",
+    "invoice_date": "12/1/2025",
+    "invoice_amount": null,
+    "invoice_currency": null,
+    "tax_amount": null,
+    "po_number": [
+      "4503420365"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "PepsiCo Foods Canada",
+    "vendor_address": "2059 Matheson Bvld.E. Mississauga, Ontario L4W 0G2, Canada",
+    "po_line_items": null
+  }
+}

@@ -1,0 +1,59 @@
+{
+  "invoice_data": {
+    "invoice_number": "9802222456",
+    "invoice_date": "Tuesday 10 Feb. 2026 7:10 a.m. GMT-05:00",
+    "invoice_amount": "46.45",
+    "invoice_currency": [
+      "CAD"
+    ],
+    "tax_amount": "6.05",
+    "po_number": [
+      "M413548290"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "ACKLANDS-GRAINGER INC.",
+    "vendor_address": "PO BOX 2970, WINNIPEG, MB R3C 4B5, Canada J9P 6Y2",
+    "po_line_items": [
+      {
+        "description": "ANL97-631-8 / 15G/7G DBL LINED-PVC PALM COAT. SZ 8",
+        "quantity": 4.0,
+        "net_price": 10.1
+      }
+    ],
+    "vat_amount": null,
+    "gl_account": null,
+    "bank_name": null,
+    "account_holder_name": null,
+    "banking_account_number": null,
+    "remit_to_address": null,
+    "bill_to_address": null,
+    "transaction_type": "debit"
+  },
+  "filename": "SAPS4_5101153022_CA02_PBNACA_2026_328553401.pdf",
+  "raw_response": {
+    "invoice_number": "9802222456",
+    "invoice_date": "Tuesday 10 Feb. 2026 7:10 a.m. GMT-05:00",
+    "invoice_amount": "46.45",
+    "invoice_currency": [
+      "CAD"
+    ],
+    "tax_amount": "6.05",
+    "po_number": [
+      "M413548290"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "ACKLANDS-GRAINGER INC.",
+    "vendor_address": "PO BOX 2970, WINNIPEG, MB R3C 4B5, Canada J9P 6Y2",
+    "po_line_items": [
+      {
+        "description": "ANL97-631-8 / 15G/7G DBL LINED-PVC PALM COAT. SZ 8",
+        "quantity": 4.0,
+        "net_price": 10.1
+      }
+    ]
+  }
+}

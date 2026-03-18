@@ -1,0 +1,71 @@
+{
+  "invoice_data": {
+    "invoice_number": "6098466",
+    "invoice_date": "Monday 9 Feb 2026 12:00 PM GMT-08:00",
+    "invoice_amount": "37.15",
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": null,
+    "po_number": [
+      "M413403413",
+      "M413014913"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "SPRAGUE",
+    "vendor_address": "Sacramento Branch, 3031 Beacon Blvd, 2725 Pacific Ave, West Sacramento, CA 95691-3462, United States; Address ID: Sacramento; Address ID: US28",
+    "po_line_items": [
+      {
+        "description": "PEST CONTROLS MODESTO BPO 2026 / PEST CONTROLS MODESTO",
+        "quantity": 37.15,
+        "net_price": 1.0
+      },
+      {
+        "description": "ILT MAINTENANCE WITH BULBS - ZAP",
+        "quantity": 5.0,
+        "net_price": 7.43
+      }
+    ],
+    "vat_amount": null,
+    "gl_account": null,
+    "bank_name": null,
+    "account_holder_name": null,
+    "banking_account_number": null,
+    "remit_to_address": null,
+    "bill_to_address": null,
+    "transaction_type": "debit"
+  },
+  "filename": "SAPS4_5100414020_US28_PFNAUS_2026_999930826.pdf",
+  "raw_response": {
+    "invoice_number": "6098466",
+    "invoice_date": "Monday 9 Feb 2026 12:00 PM GMT-08:00",
+    "invoice_amount": "37.15",
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": null,
+    "po_number": [
+      "M413403413",
+      "M413014913"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "SPRAGUE",
+    "vendor_address": "Sacramento Branch, 3031 Beacon Blvd, 2725 Pacific Ave, West Sacramento, CA 95691-3462, United States; Address ID: Sacramento; Address ID: US28",
+    "po_line_items": [
+      {
+        "description": "PEST CONTROLS MODESTO BPO 2026 / PEST CONTROLS MODESTO",
+        "quantity": 37.15,
+        "net_price": 1.0
+      },
+      {
+        "description": "ILT MAINTENANCE WITH BULBS - ZAP",
+        "quantity": 5.0,
+        "net_price": 7.43
+      }
+    ]
+  }
+}

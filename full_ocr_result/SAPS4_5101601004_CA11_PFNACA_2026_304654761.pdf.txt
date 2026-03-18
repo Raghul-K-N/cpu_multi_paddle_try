@@ -1,0 +1,218 @@
+==================================<Page 1 - START>================================
+Standard Invoice
+                                                                                                                     staples()
+Original tax invoice has been submitted electronically. This is a
+human readable representation (copy) of the original tax invoice.
+                                                                                                                       72384350
+                                                                 Invoice Number
+                                                                 (Supplier Reference No.)
+                                                                 Invoice Date                     Monday 9 Feb. 2026 6:07 a.m. GMT-07:00
+                                                                 Amount Due                                         $624.93 CAD
+    Contact Information
+                                                                           Shipping Information
+    Supplier                       Customer
+                                                                           Ship From                      Ship To
+    Supplier VAT/Tax ID              PEPSICO FOODS CANADA O/                                                FRITO-LAY CDA/PEPSICO
+                                                                           Staples Canada ULC
+    126152586RT0001               A FRITO LAY CANADA                                                      BEVERAGE
+                                                                           9 TANTRAMAR CRES
+                                                                                                        LAURA.PARKER@PEPSICO.COM
+                                 5550 EXPLORER DR 8TH                      AMHERST
+                                 FLOOR                                                                 59 MINAS WAREHOUSE RD
+                                                                          NS
+                                 MISSISSAUGA                                                           CA-PL-KENTVILLE-NS-FLC
+                                                                          B4H 4J6
+                                 ON                                                                    KENTVILLE
+                                                                          Canada
+                                 L4W 0C3                                                               NS
+                                 Canada                                                                B4N 3W9
+                                 Address ID:                                                              CA
+                                 CA1_ARIBA PAYABLES                                                    Address ID: shipTo
+  Line Items                                              PO No. : M413545504                                       PO Date : 9 Feb. 2026
+  Line No.    PO Line No.          Type   Supplier Part No. /             Customer Part No.        Quantity            Unit Price         Subtotal
+                                      Description                                        (UOM)
+  1
+            1                  Material STP14336 /                                       2 / (CT)           $63.24 CAD     $126.48 CAD
+                                       PAPER,SF1,20LB,8.5X11,92BR,WHI
+                                                                                                    Line Item Total : $126.48 CAD
+  Line No.    PO Line No.          Type
+                                      Supplier Part No. /             Customer Part No.        Quantity            Unit Price         Subtotal
+                                      Description
+                                                                                      (UOM)
+  2        2                 MaterialSTP380107 /                                      2 / (PK)           $17.57 CAD      $35.14 CAD
+                                      TAPE,SEALING,48MMX100M,CLEAR
+                                                                                                    Line Item Total : $35.14 CAD
+  Line No.    PO Line No.          Type    Supplier Part No. /              Customer Part No.         Quantity            Unit Price         Subtotal
+                                      Description                                        (UOM)
+  3        3                 Material CCDH085 / TOWEL,PAPER 100                                          $35.16 CAD
+                                                                                      6 / (CT)                         $210.96 CAD
+                                       RECYCLED NAT
+                                                                                                   Line Item Total : $210.96 CAD
+  Line No.    PO Line No.          Type    Supplier Part No. /             Customer Part No.         Quantity            Unit Price         Subtotal
+                                      Description                                        (UOM)
+  4        4                 Material  STP53280CA / WRAP:STRETCH                         10 / (EA)          $17.56 CAD      $175.60 CAD
+                                      14&quot:X1500"
+                                                                                                    Line Item Total : $175.60 CAD
+     Tax Summary
+                           Details
+     Category                                              Base Amount               Rate %          Amount
+     HST                  Tax Description :                   $548.18 CAD                                $76.75 CAD
+                                                                                    14.0%
+                           126152586RT0001
+                           Tax Location : CA
+                                                                             Amount Summary
+                                                                              Line item subtotal                           $548.18 CAD
+                                                                                                                     $624.93 CAD
+                                                                             Gross amount
+                                                                             Net amount                               $624.93 CAD
+                                                                             Total tax amount                            $76.75 CAD
+                                                                             Total withholding tax amount
+                                                                             Amount Due                              $624.93 CAD
+    Additional Information
+                                                                         Remittance Information
+                                                                         Remit To
+                                                                         Staples Canada ULC
+                                                                         c/o T04446C
+                                                                         PO Box 4446C, STN A
+                                                                         Toronto
+                                                                         ON
+                                                                         M5W 4A2
+                                                                         CA
+                                                                         Address ID: CA1_32220
+==================================<Page 1 - END>================================
+==================================<Page 2 - START>================================
+  Appendix
+  Line No.    PO Line No. Type                           Supplier Part No. / Description
+  1         1         Material
+                                                       STP14336 / PAPER,SFI,20LB,8.5X11,92BR,WHI
+  Additional Details:
+  Supplier Part ID : STP14336
+  Line No.
+             PO Line No. Type                           Supplier Part No. / Description
+  2         2
+                       Material                         STP380107 / TAPE,SEALING,48MMX100M,CLEAR
+  Additional Details:
+  Supplier Part ID : STP380107
+ Line No.    PO Line No. Type
+                                                      Supplier Part No. / Description
+ 3         3         Material
+                                                      CCDH085 / TOWEL,PAPER 100 RECYCLED NAT
+ Additional Details:
+ Supplier Part ID : CCDH085
+Line No.    PO Line No. Type
+                                                      Supplier Part No. / Description
+ 4         4         Material
+                                                      STP53280CA /WRAP:STRETCH 14&quot;X1500*
+Additional Details:
+ Supplier Part ID : STP53280CA
+PDF generated on Tuesday 10 Feb. 2026 3:11 a.m. GMT-08:00
+==================================<Page 2 - END>================================
+==================================<Page 3 - START>================================
+   Standard Invoice
+                                                                                                                       staples()
+  Original tax invoice has been submitted electronically. This is a
+  human readable representation (copy) of the original tax invoice.
+                                                                                                                         72384350
+                                                                    Invoice Number
+                                                                    (Supplier Reference No.)
+                                                                    Invoice Date                     Monday 9 Feb. 2026 6:07 a.m. GMT-07:00
+                                                                   Amount Due                                         $624.93 CAD
+      Contact Information
+                                                                             Shipping Information
+      Supplier                       Customer
+                                                                             Ship From                      Ship To
+       Supplier VAT/Tax ID              PEPSICO FOODS CANADA O/                                                FRITO-LAY CDA/PEPSICO
+                                                                             Staples Canada ULC
+       126152586RT0001               A FRITO LAY CANADA                                                      BEVERAGE
+                                                                             9 TANTRAMAR CRES
+                                                                                                          LAURA.PARKER@PEPSICO.COM
+                                    5550 EXPLORER DR 8TH                      AMHERST
+                                    FLOOR                                                                 59 MINAS WAREHOUSE RD
+                                                                             NS
+                                    MISSISSAUGA                                                           CA-PL-KENTVILLE-NS-FLC
+                                                                             B4H 4J6
+                                    ON                                                                    KENTVILLE
+                                                                             Canada
+                                    L4W 0C3                                                               NS
+                                    Canada                                                                B4N 3W9
+                                    Address ID:                                                              CA
+                                    CA1_ARIBA PAYABLES                                                    Address ID: shipTo
+    Line Items                                              PO No. : M413545504                                       PO Date : 9 Feb. 2026
+    Line No.    PO Line No.          Type   Supplier Part No. /             Customer Part No.        Quantity            Unit Price         Subtotal
+                                         Description                                        (UOM)
+     1
+               1                  Material STP14336 /                                       2 / (CT)           $63.24 CAD     $126.48 CAD
+                                         PAPER,SF1,20LB,8.5X11,92BR,WHI
+                                                                                                      Line Item Total : $126.48 CAD
+    Line No.    PO Line No.          Type
+                                         Supplier Part No. /             Customer Part No.        Quantity            Unit Price         Subtotal
+                                         Description
+                                                                                         (UOM)
+     2        2                 MaterialSTP380107 /                                      2 / (PK)           $17.57 CAD      $35.14 CAD
+                                         TAPE,SEALING,48MMX100M,CLEAR
+                                                                                                       Line Item Total : $35.14 CAD
+     Line No.    PO Line No.          Type    Supplier Part No. /              Customer Part No.         Quantity            Unit Price         Subtotal
+                                         Description                                        (UOM)
+     3        3                 Material CCDH085 / TOWEL,PAPER 100                                          $35.16 CAD
+                                                                                         6 / (CT)                         $210.96 CAD
+                                         RECYCLED NAT
+                                                                                                      Line Item Total : $210.96 CAD
+     Line No.    PO Line No.          Type    Supplier Part No. /             Customer Part No.         Quantity            Unit Price         Subtotal
+                                         Description                                        (UOM)
+     4        4                 Material  STP53280CA / WRAP:STRETCH                         10 / (EA)          $17.56 CAD      $175.60 CAD
+                                         14&quot:X1500"
+                                                                                                      Line Item Total : $175.60 CAD
+        Tax Summary
+                              Details
+        Category                                              Base Amount               Rate %          Amount
+        HST                  Tax Description :                   $548.18 CAD                                $76.75 CAD
+                                                                                      14.0%
+                              126152586RT0001
+                              Tax Location : CA
+                                                                                Amount Summary
+                                                                                Line item subtotal                           $548.18 CAD
+                                                                                                                       $624.93 CAD
+                                                                                Gross amount
+                                                                                Net amount                               $624.93 CAD
+                                                                                Total tax amount                            $76.75 CAD
+                                                                                Total withholding tax amount
+                                                                                Amount Due                              $624.93 CAD
+      Additional Information
+                                                                            Remittance Information
+                                                                            Remit To
+                                                                            Staples Canada ULC
+                                                                           c/o T04446C
+                                                                           PO Box 4446C, STN A
+                                                                           Toronto
+                                                                            ON
+                                                                           M5W 4A2
+                                                                           CA
+                                                                           Address ID: CA1_32220
+==================================<Page 3 - END>================================
+==================================<Page 4 - START>================================
+  Appendix
+  Line No.    PO Line No. Type                           Supplier Part No. / Description
+  1         1         Material
+                                                       STP14336 / PAPER,SFI,20LB,8.5X11,92BR,WHI
+  Additional Details:
+  Supplier Part ID : STP14336
+  Line No.
+             PO Line No. Type                           Supplier Part No. / Description
+  2         2
+                       Material                         STP380107 / TAPE,SEALING,48MMX100M,CLEAR
+  Additional Details:
+  Supplier Part ID : STP380107
+ Line No.    PO Line No. Type
+                                                      Supplier Part No. / Description
+ 3         3         Material
+                                                      CCDH085 / TOWEL,PAPER 100 RECYCLED NAT
+ Additional Details:
+ Supplier Part ID : CCDH085
+Line No.    PO Line No. Type
+                                                      Supplier Part No. / Description
+ 4         4         Material
+                                                      STP53280CA /WRAP:STRETCH 14&quot;X1500*
+Additional Details:
+ Supplier Part ID : STP53280CA
+PDF generated on Tuesday 10 Feb. 2026 3:11 a.m. GMT-08:00
+==================================<Page 4 - END>================================

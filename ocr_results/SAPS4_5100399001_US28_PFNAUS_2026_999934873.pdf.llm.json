@@ -1,0 +1,59 @@
+{
+  "invoice_data": {
+    "invoice_number": "2741",
+    "invoice_date": "01/31/2026",
+    "invoice_amount": "12959.75",
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": null,
+    "po_number": [
+      "4502751666"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "Hendrix Precision Maintenance Services LLC",
+    "vendor_address": "PO Box 5662, Decatur, AL 35601",
+    "po_line_items": [
+      {
+        "description": "PE- 250626 Balance AIR sweep",
+        "quantity": 1.0,
+        "net_price": 12959.75
+      }
+    ],
+    "vat_amount": null,
+    "gl_account": null,
+    "bank_name": null,
+    "account_holder_name": null,
+    "banking_account_number": null,
+    "remit_to_address": null,
+    "bill_to_address": null,
+    "transaction_type": "debit"
+  },
+  "filename": "SAPS4_5100399001_US28_PFNAUS_2026_999934873.pdf",
+  "raw_response": {
+    "invoice_number": "2741",
+    "invoice_date": "01/31/2026",
+    "invoice_amount": "12959.75",
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": null,
+    "po_number": [
+      "4502751666"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "Hendrix Precision Maintenance Services LLC",
+    "vendor_address": "PO Box 5662, Decatur, AL 35601",
+    "po_line_items": [
+      {
+        "description": "PE- 250626 Balance AIR sweep",
+        "quantity": 1.0,
+        "net_price": 12959.75
+      }
+    ]
+  }
+}

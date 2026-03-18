@@ -1,0 +1,71 @@
+{
+  "invoice_data": {
+    "invoice_number": "80668",
+    "invoice_date": "Feb 02, 2026",
+    "invoice_amount": "194.04",
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": null,
+    "po_number": [
+      "082305",
+      "4504799473"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "Dawn Gordon Trucking and Warehousing Inc",
+    "vendor_address": "7740 18 St se, PO BOX 49088, Calgary, Alberta T2C 3W5, Canada",
+    "po_line_items": [
+      {
+        "description": "PO# 4504799473",
+        "quantity": 3.0,
+        "net_price": 57.75
+      },
+      {
+        "description": "FSC",
+        "quantity": 0.12,
+        "net_price": 20.79
+      }
+    ],
+    "vat_amount": null,
+    "gl_account": null,
+    "bank_name": null,
+    "account_holder_name": null,
+    "banking_account_number": null,
+    "remit_to_address": null,
+    "bill_to_address": null,
+    "transaction_type": "debit"
+  },
+  "filename": "SAPS4_5100429009_CA11_PFNACA_2026_304672274.pdf",
+  "raw_response": {
+    "invoice_number": "80668",
+    "invoice_date": "Feb 02, 2026",
+    "invoice_amount": "194.04",
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": null,
+    "po_number": [
+      "082305",
+      "4504799473"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "Dawn Gordon Trucking and Warehousing Inc",
+    "vendor_address": "7740 18 St se, PO BOX 49088, Calgary, Alberta T2C 3W5, Canada",
+    "po_line_items": [
+      {
+        "description": "PO# 4504799473",
+        "quantity": 3.0,
+        "net_price": 57.75
+      },
+      {
+        "description": "FSC",
+        "quantity": 0.12,
+        "net_price": 20.79
+      }
+    ]
+  }
+}

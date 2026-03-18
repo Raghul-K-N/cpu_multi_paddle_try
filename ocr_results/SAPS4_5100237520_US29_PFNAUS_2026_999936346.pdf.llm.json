@@ -1,0 +1,65 @@
+{
+  "invoice_data": {
+    "invoice_number": "MR045527",
+    "invoice_date": "02/09/26",
+    "invoice_amount": null,
+    "invoice_currency": null,
+    "tax_amount": null,
+    "po_number": [
+      "23570934"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "RADIATOR WORKS",
+    "vendor_address": "36555 ECORSE RD, ROMULUS, MI 48174",
+    "po_line_items": [
+      {
+        "description": "FTK010677 FUEL TANK;REAR;97-10 ECONOLINE 37 GALLON",
+        "quantity": 1.0,
+        "net_price": 1135.0
+      },
+      {
+        "description": "FST019992 FUEL TANK STRAP UPR;97-02 ECON FITS FTK010677 37 GAL TANK",
+        "quantity": 2.0,
+        "net_price": 140.0
+      }
+    ],
+    "vat_amount": null,
+    "gl_account": null,
+    "bank_name": null,
+    "account_holder_name": null,
+    "banking_account_number": null,
+    "remit_to_address": null,
+    "bill_to_address": null,
+    "transaction_type": "debit"
+  },
+  "filename": "SAPS4_5100237520_US29_PFNAUS_2026_999936346.pdf",
+  "raw_response": {
+    "invoice_number": "MR045527",
+    "invoice_date": "02/09/26",
+    "invoice_amount": null,
+    "invoice_currency": null,
+    "tax_amount": null,
+    "po_number": [
+      "23570934"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "RADIATOR WORKS",
+    "vendor_address": "36555 ECORSE RD, ROMULUS, MI 48174",
+    "po_line_items": [
+      {
+        "description": "FTK010677 FUEL TANK;REAR;97-10 ECONOLINE 37 GALLON",
+        "quantity": 1.0,
+        "net_price": 1135.0
+      },
+      {
+        "description": "FST019992 FUEL TANK STRAP UPR;97-02 ECON FITS FTK010677 37 GAL TANK",
+        "quantity": 2.0,
+        "net_price": 140.0
+      }
+    ]
+  }
+}

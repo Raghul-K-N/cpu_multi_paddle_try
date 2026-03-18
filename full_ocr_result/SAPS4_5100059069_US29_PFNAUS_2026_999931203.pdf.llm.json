@@ -1,0 +1,129 @@
+{
+  "invoice_data": {
+    "invoice_number": "9007719",
+    "invoice_date": "February 28, 2025",
+    "invoice_amount": null,
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": "66.46",
+    "po_number": [
+      "M412785665"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "Plunkett's / Varment Guard",
+    "vendor_address": "40 52nd Way Northeast, Fridley, MN 55421, 763.571.7100",
+    "po_line_items": [
+      {
+        "description": "Interior Insect Control",
+        "quantity": null,
+        "net_price": 108.0
+      },
+      {
+        "description": "Interior Rodent Traps",
+        "quantity": null,
+        "net_price": 18.72
+      },
+      {
+        "description": "Exterior Rodent Bait Stations",
+        "quantity": null,
+        "net_price": 69.0
+      },
+      {
+        "description": "Exterior Rodent Traps",
+        "quantity": null,
+        "net_price": 27.0
+      },
+      {
+        "description": "Exterior Rodent Traps",
+        "quantity": null,
+        "net_price": 27.0
+      },
+      {
+        "description": "Interior Rodent Traps",
+        "quantity": null,
+        "net_price": 205.2
+      },
+      {
+        "description": "Pheromone Tent Traps",
+        "quantity": null,
+        "net_price": 60.0
+      },
+      {
+        "description": "German Cockroach Control",
+        "quantity": null,
+        "net_price": 27.0
+      }
+    ],
+    "vat_amount": null,
+    "gl_account": null,
+    "bank_name": null,
+    "account_holder_name": null,
+    "banking_account_number": null,
+    "remit_to_address": null,
+    "bill_to_address": null,
+    "transaction_type": "debit"
+  },
+  "filename": "SAPS4_5100059069_US29_PFNAUS_2026_999931203.pdf",
+  "raw_response": {
+    "invoice_number": "9007719",
+    "invoice_date": "February 28, 2025",
+    "invoice_amount": "../../../../794.86",
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": "66.46",
+    "po_number": [
+      "M412785665"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "Plunkett's / Varment Guard",
+    "vendor_address": "40 52nd Way Northeast, Fridley, MN 55421, 763.571.7100",
+    "po_line_items": [
+      {
+        "description": "Interior Insect Control",
+        "quantity": null,
+        "net_price": 108.0
+      },
+      {
+        "description": "Interior Rodent Traps",
+        "quantity": null,
+        "net_price": 18.72
+      },
+      {
+        "description": "Exterior Rodent Bait Stations",
+        "quantity": null,
+        "net_price": 69.0
+      },
+      {
+        "description": "Exterior Rodent Traps",
+        "quantity": null,
+        "net_price": 27.0
+      },
+      {
+        "description": "Exterior Rodent Traps",
+        "quantity": null,
+        "net_price": 27.0
+      },
+      {
+        "description": "Interior Rodent Traps",
+        "quantity": null,
+        "net_price": 205.2
+      },
+      {
+        "description": "Pheromone Tent Traps",
+        "quantity": null,
+        "net_price": 60.0
+      },
+      {
+        "description": "German Cockroach Control",
+        "quantity": null,
+        "net_price": 27.0
+      }
+    ]
+  }
+}

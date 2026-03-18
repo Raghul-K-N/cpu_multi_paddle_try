@@ -1,0 +1,47 @@
+{
+  "invoice_data": {
+    "invoice_number": "903648218",
+    "invoice_date": "06FEB2026",
+    "invoice_amount": null,
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": null,
+    "po_number": [
+      "M413380376"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "VEOLIA WTS SERVICES USA, INC.",
+    "vendor_address": "1217 CORPORATE DRIVE WEST, ARLINGTON TX 76006 UNITED STATES, P. O. BOX 742132, LOS ANGELES, CA 903648218",
+    "po_line_items": null,
+    "vat_amount": null,
+    "gl_account": null,
+    "bank_name": null,
+    "account_holder_name": null,
+    "banking_account_number": null,
+    "remit_to_address": null,
+    "bill_to_address": null,
+    "transaction_type": "debit"
+  },
+  "filename": "SAPS4_5100489011_US28_PFNAUS_2026_999884465.pdf",
+  "raw_response": {
+    "invoice_number": "903648218",
+    "invoice_date": "06FEB2026",
+    "invoice_amount": null,
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": null,
+    "po_number": [
+      "M413380376"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "VEOLIA WTS SERVICES USA, INC.",
+    "vendor_address": "1217 CORPORATE DRIVE WEST, ARLINGTON TX 76006 UNITED STATES, P. O. BOX 742132, LOS ANGELES, CA 903648218",
+    "po_line_items": null
+  }
+}

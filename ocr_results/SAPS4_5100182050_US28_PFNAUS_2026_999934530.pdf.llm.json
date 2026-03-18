@@ -1,0 +1,59 @@
+{
+  "invoice_data": {
+    "invoice_number": "59772080",
+    "invoice_date": "2/12/26",
+    "invoice_amount": null,
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": null,
+    "po_number": [
+      "4505184027"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": "10.22",
+    "cost_center": null,
+    "vendor_name": "McMaster-Carr",
+    "vendor_address": "330-995-5500, 330-995-9600 (fax), cle.sales@mcmaster.com",
+    "po_line_items": [
+      {
+        "description": "5000 rpm Buna-N Rubber Spider for 4-1/2\" OD Flexible Shaft Coupling Iron Hub Each",
+        "quantity": 1.0,
+        "net_price": 67.8
+      }
+    ],
+    "vat_amount": null,
+    "gl_account": null,
+    "bank_name": null,
+    "account_holder_name": null,
+    "banking_account_number": null,
+    "remit_to_address": null,
+    "bill_to_address": null,
+    "transaction_type": "debit"
+  },
+  "filename": "SAPS4_5100182050_US28_PFNAUS_2026_999934530.pdf",
+  "raw_response": {
+    "invoice_number": "59772080",
+    "invoice_date": "2/12/26",
+    "invoice_amount": "../../../../78.02",
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": null,
+    "po_number": [
+      "4505184027"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": "10.22",
+    "cost_center": null,
+    "vendor_name": "McMaster-Carr",
+    "vendor_address": "330-995-5500, 330-995-9600 (fax), cle.sales@mcmaster.com",
+    "po_line_items": [
+      {
+        "description": "5000 rpm Buna-N Rubber Spider for 4-1/2\" OD Flexible Shaft Coupling Iron Hub Each",
+        "quantity": 1.0,
+        "net_price": 67.8
+      }
+    ]
+  }
+}

@@ -1,0 +1,47 @@
+{
+  "invoice_data": {
+    "invoice_number": "4630",
+    "invoice_date": "20/01/2026",
+    "invoice_amount": null,
+    "invoice_currency": [
+      "CAD"
+    ],
+    "tax_amount": null,
+    "po_number": [
+      "M413346263"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "ARC Industries Inc.",
+    "vendor_address": "3641 Route 126, Indian Mountain NB E1G 2Y7, 5063863604, arcindustriesnb@gmail.com",
+    "po_line_items": null,
+    "vat_amount": null,
+    "gl_account": null,
+    "bank_name": null,
+    "account_holder_name": null,
+    "banking_account_number": null,
+    "remit_to_address": null,
+    "bill_to_address": null,
+    "transaction_type": "debit"
+  },
+  "filename": "SAPS4_5101108020_CA02_PBNACA_2026_328615369.pdf",
+  "raw_response": {
+    "invoice_number": "4630",
+    "invoice_date": "20/01/2026",
+    "invoice_amount": null,
+    "invoice_currency": [
+      "CAD"
+    ],
+    "tax_amount": null,
+    "po_number": [
+      "M413346263"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "ARC Industries Inc.",
+    "vendor_address": "3641 Route 126, Indian Mountain NB E1G 2Y7, 5063863604, arcindustriesnb@gmail.com",
+    "po_line_items": null
+  }
+}

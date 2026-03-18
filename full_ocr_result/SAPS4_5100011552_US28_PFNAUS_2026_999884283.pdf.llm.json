@@ -1,0 +1,99 @@
+{
+  "invoice_data": {
+    "invoice_number": "93305537",
+    "invoice_date": "02/03/2026",
+    "invoice_amount": "5860.32",
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": null,
+    "po_number": [
+      "4504782886"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "Heat and Control",
+    "vendor_address": "21121 CABOT BLVD, HAYWARD CA 94545-1132",
+    "po_line_items": [
+      {
+        "description": "FUNNEL, FLUIDIZING,POD,HDPE,PORE#1215536",
+        "quantity": 12.0,
+        "net_price": 2424.0
+      },
+      {
+        "description": "GASKET, U-SHAPED,120MM,JACB#10127951",
+        "quantity": 30.0,
+        "net_price": 210.0
+      },
+      {
+        "description": "FILTER BAG, CYL,10OZ,9\",TEFLON/FELT,AFFC",
+        "quantity": 12.0,
+        "net_price": 384.0
+      },
+      {
+        "description": "BELLOWS, ROUND,5\"IDX10\"LG,A-A",
+        "quantity": 7.0,
+        "net_price": 2415.0
+      },
+      {
+        "description": "FREIGHT",
+        "quantity": 1.0,
+        "net_price": 427.32
+      }
+    ],
+    "vat_amount": null,
+    "gl_account": null,
+    "bank_name": null,
+    "account_holder_name": null,
+    "banking_account_number": null,
+    "remit_to_address": null,
+    "bill_to_address": null,
+    "transaction_type": "debit"
+  },
+  "filename": "SAPS4_5100011552_US28_PFNAUS_2026_999884283.pdf",
+  "raw_response": {
+    "invoice_number": "93305537",
+    "invoice_date": "02/03/2026",
+    "invoice_amount": "5860.32",
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": null,
+    "po_number": [
+      "4504782886"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "Heat and Control",
+    "vendor_address": "21121 CABOT BLVD, HAYWARD CA 94545-1132",
+    "po_line_items": [
+      {
+        "description": "FUNNEL, FLUIDIZING,POD,HDPE,PORE#1215536",
+        "quantity": 12.0,
+        "net_price": 2424.0
+      },
+      {
+        "description": "GASKET, U-SHAPED,120MM,JACB#10127951",
+        "quantity": 30.0,
+        "net_price": 210.0
+      },
+      {
+        "description": "FILTER BAG, CYL,10OZ,9\",TEFLON/FELT,AFFC",
+        "quantity": 12.0,
+        "net_price": 384.0
+      },
+      {
+        "description": "BELLOWS, ROUND,5\"IDX10\"LG,A-A",
+        "quantity": 7.0,
+        "net_price": 2415.0
+      },
+      {
+        "description": "FREIGHT",
+        "quantity": 1.0,
+        "net_price": 427.32
+      }
+    ]
+  }
+}

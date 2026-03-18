@@ -1,0 +1,51 @@
+{
+  "invoice_data": {
+    "invoice_number": "30119612",
+    "invoice_date": null,
+    "invoice_amount": "59.54",
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": null,
+    "po_number": [
+      "4504781814"
+    ],
+    "gl_account_number": [
+      "614450"
+    ],
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "EVEREST WATER",
+    "vendor_address": "1401 S PADRE ISLAND DR, CORPUS CHRISTI   TX  78416",
+    "po_line_items": null,
+    "vat_amount": null,
+    "gl_account": null,
+    "bank_name": null,
+    "account_holder_name": null,
+    "banking_account_number": null,
+    "remit_to_address": null,
+    "bill_to_address": null,
+    "transaction_type": "debit"
+  },
+  "filename": "SAPS4_5101263503_US29_PFNAUS_2026_999885248.pdf",
+  "raw_response": {
+    "invoice_number": "30119612",
+    "invoice_date": null,
+    "invoice_amount": "59.54",
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": null,
+    "po_number": [
+      "4504781814"
+    ],
+    "gl_account_number": [
+      "614450"
+    ],
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "EVEREST WATER",
+    "vendor_address": "1401 S PADRE ISLAND DR, CORPUS CHRISTI   TX  78416",
+    "po_line_items": null
+  }
+}

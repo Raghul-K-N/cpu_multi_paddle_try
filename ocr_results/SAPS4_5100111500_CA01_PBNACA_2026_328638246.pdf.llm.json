@@ -1,0 +1,69 @@
+{
+  "invoice_data": {
+    "invoice_number": "9003878895",
+    "invoice_date": "10/17/2025",
+    "invoice_amount": "909.65",
+    "invoice_currency": [
+      "CAD"
+    ],
+    "tax_amount": "104.65",
+    "po_number": [
+      "4504333365"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": "85.00",
+    "cost_center": null,
+    "vendor_name": "SGK",
+    "vendor_address": "53 Queen's Plate Dr, Etobicoke ON M9W 6P1, Canada",
+    "po_line_items": [
+      {
+        "description": "File Processing & Printing of Pure Leaf 24PK Cases; 2 files, print, trim, mount, die cut x 1 pcs. ea",
+        "quantity": 1.0,
+        "net_price": 720.0
+      },
+      {
+        "description": "25-4433 PURE LEAF 24PK CASES",
+        "quantity": 1.0,
+        "net_price": 805.0
+      }
+    ],
+    "vat_amount": null,
+    "gl_account": null,
+    "bank_name": null,
+    "account_holder_name": null,
+    "banking_account_number": null,
+    "remit_to_address": null,
+    "bill_to_address": null,
+    "transaction_type": "debit"
+  },
+  "filename": "SAPS4_5100111500_CA01_PBNACA_2026_328638246.pdf",
+  "raw_response": {
+    "invoice_number": "9003878895",
+    "invoice_date": "10/17/2025",
+    "invoice_amount": "909.65",
+    "invoice_currency": [
+      "CAD"
+    ],
+    "tax_amount": "104.65",
+    "po_number": [
+      "4504333365"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": "85.00",
+    "cost_center": null,
+    "vendor_name": "SGK",
+    "vendor_address": "53 Queen's Plate Dr, Etobicoke ON M9W 6P1, Canada",
+    "po_line_items": [
+      {
+        "description": "File Processing & Printing of Pure Leaf 24PK Cases; 2 files, print, trim, mount, die cut x 1 pcs. ea",
+        "quantity": 1.0,
+        "net_price": 720.0
+      },
+      {
+        "description": "25-4433 PURE LEAF 24PK CASES",
+        "quantity": 1.0,
+        "net_price": 805.0
+      }
+    ]
+  }
+}

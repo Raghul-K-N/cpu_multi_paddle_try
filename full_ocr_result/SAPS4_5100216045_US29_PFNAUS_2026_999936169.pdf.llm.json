@@ -1,0 +1,101 @@
+{
+  "invoice_data": {
+    "invoice_number": "INC064749",
+    "invoice_date": "02/11/2026",
+    "invoice_amount": null,
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": null,
+    "po_number": [
+      "M413508016",
+      "SOC157185"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "Camcode",
+    "vendor_address": "18531 South Miles Road, Cleveland, OH 44128, USA",
+    "po_line_items": [
+      {
+        "description": "NASPAY 12x3 PP w/color/lexlam olam",
+        "quantity": 60.0,
+        "net_price": 11.28
+      },
+      {
+        "description": "NASPAY 4 in x 3 ft x .06 Clear Vinyl 2 Holes",
+        "quantity": 60.0,
+        "net_price": 6.97
+      },
+      {
+        "description": "NASPAY 3x2 Prem Poly Lexlam (1 LVL BLACK)",
+        "quantity": 120.0,
+        "net_price": 3.77
+      },
+      {
+        "description": "14x6 RRF PDC /15x7 Corr Backer 2 Hooks",
+        "quantity": 101.0,
+        "net_price": 13.5
+      },
+      {
+        "description": "8x4x3mm White FPVC DP1S 4 Hls (STATIC)",
+        "quantity": 60.0,
+        "net_price": 45.0
+      }
+    ],
+    "vat_amount": null,
+    "gl_account": null,
+    "bank_name": null,
+    "account_holder_name": null,
+    "banking_account_number": null,
+    "remit_to_address": null,
+    "bill_to_address": null,
+    "transaction_type": "debit"
+  },
+  "filename": "SAPS4_5100216045_US29_PFNAUS_2026_999936169.pdf",
+  "raw_response": {
+    "invoice_number": "INC064749",
+    "invoice_date": "02/11/2026",
+    "invoice_amount": null,
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": null,
+    "po_number": [
+      "M413508016",
+      "SOC157185"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "Camcode",
+    "vendor_address": "18531 South Miles Road, Cleveland, OH 44128, USA",
+    "po_line_items": [
+      {
+        "description": "NASPAY 12x3 PP w/color/lexlam olam",
+        "quantity": 60.0,
+        "net_price": 11.28
+      },
+      {
+        "description": "NASPAY 4 in x 3 ft x .06 Clear Vinyl 2 Holes",
+        "quantity": 60.0,
+        "net_price": 6.97
+      },
+      {
+        "description": "NASPAY 3x2 Prem Poly Lexlam (1 LVL BLACK)",
+        "quantity": 120.0,
+        "net_price": 3.77
+      },
+      {
+        "description": "14x6 RRF PDC /15x7 Corr Backer 2 Hooks",
+        "quantity": 101.0,
+        "net_price": 13.5
+      },
+      {
+        "description": "8x4x3mm White FPVC DP1S 4 Hls (STATIC)",
+        "quantity": 60.0,
+        "net_price": 45.0
+      }
+    ]
+  }
+}

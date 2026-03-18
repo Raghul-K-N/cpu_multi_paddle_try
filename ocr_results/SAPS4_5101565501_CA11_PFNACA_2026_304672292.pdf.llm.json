@@ -1,0 +1,119 @@
+{
+  "invoice_data": {
+    "invoice_number": "01013430",
+    "invoice_date": "2026/01/29",
+    "invoice_amount": "292.48",
+    "invoice_currency": [
+      "CAD"
+    ],
+    "tax_amount": "38.10",
+    "po_number": [
+      "M413540272"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": "15.00",
+    "cost_center": null,
+    "vendor_name": "Protection Incendie Viking Inc",
+    "vendor_address": "1935 Lionel Bertrand Blvd., Boisbriand, QC J7H 1N8",
+    "po_line_items": [
+      {
+        "description": "INSPECTION",
+        "quantity": 1.0,
+        "net_price": 0.0
+      },
+      {
+        "description": "EXT./INSP. ANNUELLE",
+        "quantity": 10.0,
+        "net_price": 1.7
+      },
+      {
+        "description": "EXT./INSP. ANNUELLE",
+        "quantity": 2.0,
+        "net_price": 0.0
+      },
+      {
+        "description": "EXTINCTEUR 10Ib ABC c/a SUPPORT MURAL",
+        "quantity": 1.0,
+        "net_price": 99.88
+      },
+      {
+        "description": "FRAIS CAMION",
+        "quantity": 1.0,
+        "net_price": 15.0
+      },
+      {
+        "description": "Frais environnemental",
+        "quantity": 1.0,
+        "net_price": 5.0
+      },
+      {
+        "description": "SERVICE MAIN D'OEUVRE - 2025/12/11",
+        "quantity": 1.25,
+        "net_price": 94.0
+      }
+    ],
+    "vat_amount": null,
+    "gl_account": null,
+    "bank_name": null,
+    "account_holder_name": null,
+    "banking_account_number": null,
+    "remit_to_address": null,
+    "bill_to_address": null,
+    "transaction_type": "debit"
+  },
+  "filename": "SAPS4_5101565501_CA11_PFNACA_2026_304672292.pdf",
+  "raw_response": {
+    "invoice_number": "01013430",
+    "invoice_date": "2026/01/29",
+    "invoice_amount": "292.48",
+    "invoice_currency": [
+      "CAD"
+    ],
+    "tax_amount": "38.10",
+    "po_number": [
+      "M413540272"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": "15.00",
+    "cost_center": null,
+    "vendor_name": "Protection Incendie Viking Inc",
+    "vendor_address": "1935 Lionel Bertrand Blvd., Boisbriand, QC J7H 1N8",
+    "po_line_items": [
+      {
+        "description": "INSPECTION",
+        "quantity": 1.0,
+        "net_price": 0.0
+      },
+      {
+        "description": "EXT./INSP. ANNUELLE",
+        "quantity": 10.0,
+        "net_price": 1.7
+      },
+      {
+        "description": "EXT./INSP. ANNUELLE",
+        "quantity": 2.0,
+        "net_price": 0.0
+      },
+      {
+        "description": "EXTINCTEUR 10Ib ABC c/a SUPPORT MURAL",
+        "quantity": 1.0,
+        "net_price": 99.88
+      },
+      {
+        "description": "FRAIS CAMION",
+        "quantity": 1.0,
+        "net_price": 15.0
+      },
+      {
+        "description": "Frais environnemental",
+        "quantity": 1.0,
+        "net_price": 5.0
+      },
+      {
+        "description": "SERVICE MAIN D'OEUVRE - 2025/12/11",
+        "quantity": 1.25,
+        "net_price": 94.0
+      }
+    ]
+  }
+}

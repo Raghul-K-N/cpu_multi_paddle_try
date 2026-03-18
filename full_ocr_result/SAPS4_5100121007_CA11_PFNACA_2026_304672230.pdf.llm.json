@@ -1,0 +1,57 @@
+{
+  "invoice_data": {
+    "invoice_number": "51-01994197",
+    "invoice_date": "05-Feb-2026",
+    "invoice_amount": null,
+    "invoice_currency": null,
+    "tax_amount": null,
+    "po_number": [
+      "4505115285",
+      "00942362-000"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "rubberline Products Limited",
+    "vendor_address": "81 Bleams Road, Kitchener, On, N2C 2G2",
+    "po_line_items": [
+      {
+        "description": "UPPER CASE HUGGER BELT                       $21.580                   $496.34",
+        "quantity": 30.0,
+        "net_price": 21.58
+      }
+    ],
+    "vat_amount": null,
+    "gl_account": null,
+    "bank_name": null,
+    "account_holder_name": null,
+    "banking_account_number": null,
+    "remit_to_address": null,
+    "bill_to_address": null,
+    "transaction_type": "debit"
+  },
+  "filename": "SAPS4_5100121007_CA11_PFNACA_2026_304672230.pdf",
+  "raw_response": {
+    "invoice_number": "51-01994197",
+    "invoice_date": "05-Feb-2026",
+    "invoice_amount": null,
+    "invoice_currency": null,
+    "tax_amount": null,
+    "po_number": [
+      "4505115285",
+      "00942362-000"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "rubberline Products Limited",
+    "vendor_address": "81 Bleams Road, Kitchener, On, N2C 2G2",
+    "po_line_items": [
+      {
+        "description": "UPPER CASE HUGGER BELT                       $21.580                   $496.34",
+        "quantity": 30.0,
+        "net_price": 21.58
+      }
+    ]
+  }
+}

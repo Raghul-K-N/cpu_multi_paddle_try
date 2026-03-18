@@ -1,0 +1,53 @@
+{
+  "invoice_data": {
+    "invoice_number": "219862",
+    "invoice_date": "02.02.2026",
+    "invoice_amount": "2,750.00",
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": "0.00",
+    "po_number": null,
+    "gl_account_number": [
+      "645280",
+      "2358300400"
+    ],
+    "freight_and_handling_charges": null,
+    "cost_center": [
+      "2358300400"
+    ],
+    "vendor_name": "OVERSEAS SERVICE CORP",
+    "vendor_address": "1100 NORTHPOINT PKWY, STE 200, WEST PALM BEACH FL 33407, USA",
+    "po_line_items": null,
+    "vat_amount": null,
+    "gl_account": null,
+    "bank_name": null,
+    "account_holder_name": null,
+    "banking_account_number": null,
+    "remit_to_address": null,
+    "bill_to_address": null,
+    "transaction_type": "debit"
+  },
+  "filename": "SAPS4_1900151521_US29_PFNAUS_2026_999749375.pdf",
+  "raw_response": {
+    "invoice_number": "219862",
+    "invoice_date": "02.02.2026",
+    "invoice_amount": "2,750.00",
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": "0.00",
+    "po_number": null,
+    "gl_account_number": [
+      "645280",
+      "2358300400"
+    ],
+    "freight_and_handling_charges": null,
+    "cost_center": [
+      "2358300400"
+    ],
+    "vendor_name": "OVERSEAS SERVICE CORP",
+    "vendor_address": "1100 NORTHPOINT PKWY, STE 200, WEST PALM BEACH FL 33407, USA",
+    "po_line_items": null
+  }
+}

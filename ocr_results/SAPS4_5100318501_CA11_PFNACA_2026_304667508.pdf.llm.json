@@ -1,0 +1,109 @@
+{
+  "invoice_data": {
+    "invoice_number": "9806732831",
+    "invoice_date": "Thursday 12 Feb. 2026 7:00 a.m. GMT-05:00",
+    "invoice_amount": "167.02",
+    "invoice_currency": [
+      "CAD"
+    ],
+    "tax_amount": "7.95",
+    "po_number": [
+      "M413554235"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "ACKLANDS-GRAINGER INC.",
+    "vendor_address": "PO BOX 2970, WINNIPEG, MB R3C 4B5, CA\n2200 31ST STREET, LETHBRIDGE, AB T1H 5K8, Canada\n11708 - 167 STREET NW, EDMONTON, AB T5M 3Z2, Canada",
+    "po_line_items": [
+      {
+        "description": "NUT,1/4\"-20 THREAD SIZE.PK50",
+        "quantity": 1.0,
+        "net_price": 18.57
+      },
+      {
+        "description": "NUT,5/16\"-18 THREAD SIZE,PK25",
+        "quantity": 1.0,
+        "net_price": 13.55
+      },
+      {
+        "description": "NUT.3/8\"-16 THREAD SIZE,PK25",
+        "quantity": 1.0,
+        "net_price": 18.89
+      },
+      {
+        "description": "NUT.M6X1.0 THREAD SIZE.PK50",
+        "quantity": 1.0,
+        "net_price": 16.86
+      },
+      {
+        "description": "RIVET NUT HAND TOOL,MANUAL",
+        "quantity": 1.0,
+        "net_price": 45.97
+      },
+      {
+        "description": "RIVET NUT HAND TOOL,MANUAL",
+        "quantity": 1.0,
+        "net_price": 45.23
+      }
+    ],
+    "vat_amount": null,
+    "gl_account": null,
+    "bank_name": null,
+    "account_holder_name": null,
+    "banking_account_number": null,
+    "remit_to_address": null,
+    "bill_to_address": null,
+    "transaction_type": "debit"
+  },
+  "filename": "SAPS4_5100318501_CA11_PFNACA_2026_304667508.pdf",
+  "raw_response": {
+    "invoice_number": "9806732831",
+    "invoice_date": "Thursday 12 Feb. 2026 7:00 a.m. GMT-05:00",
+    "invoice_amount": "167.02",
+    "invoice_currency": [
+      "CAD"
+    ],
+    "tax_amount": "7.95",
+    "po_number": [
+      "M413554235"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "ACKLANDS-GRAINGER INC.",
+    "vendor_address": "PO BOX 2970, WINNIPEG, MB R3C 4B5, CA\n2200 31ST STREET, LETHBRIDGE, AB T1H 5K8, Canada\n11708 - 167 STREET NW, EDMONTON, AB T5M 3Z2, Canada",
+    "po_line_items": [
+      {
+        "description": "NUT,1/4\"-20 THREAD SIZE.PK50",
+        "quantity": 1.0,
+        "net_price": 18.57
+      },
+      {
+        "description": "NUT,5/16\"-18 THREAD SIZE,PK25",
+        "quantity": 1.0,
+        "net_price": 13.55
+      },
+      {
+        "description": "NUT.3/8\"-16 THREAD SIZE,PK25",
+        "quantity": 1.0,
+        "net_price": 18.89
+      },
+      {
+        "description": "NUT.M6X1.0 THREAD SIZE.PK50",
+        "quantity": 1.0,
+        "net_price": 16.86
+      },
+      {
+        "description": "RIVET NUT HAND TOOL,MANUAL",
+        "quantity": 1.0,
+        "net_price": 45.97
+      },
+      {
+        "description": "RIVET NUT HAND TOOL,MANUAL",
+        "quantity": 1.0,
+        "net_price": 45.23
+      }
+    ]
+  }
+}

@@ -1,0 +1,59 @@
+{
+  "invoice_data": {
+    "invoice_number": "107245763",
+    "invoice_date": "02/11/2026",
+    "invoice_amount": "39610.82",
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": null,
+    "po_number": [
+      "51272023"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": "6915.40",
+    "cost_center": null,
+    "vendor_name": "Bunge Canada",
+    "vendor_address": "2190 South Service Road West, Oakville, ON L6L 5N1, CANADA",
+    "po_line_items": [
+      {
+        "description": "BG D58000-000 CANOLA OIL",
+        "quantity": 61090.0,
+        "net_price": 0.5352
+      }
+    ],
+    "vat_amount": null,
+    "gl_account": null,
+    "bank_name": null,
+    "account_holder_name": null,
+    "banking_account_number": null,
+    "remit_to_address": null,
+    "bill_to_address": null,
+    "transaction_type": "debit"
+  },
+  "filename": "SAPS4_5101263506_CA11_PFNACA_2026_304672275.pdf",
+  "raw_response": {
+    "invoice_number": "107245763",
+    "invoice_date": "02/11/2026",
+    "invoice_amount": "39610.82",
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": null,
+    "po_number": [
+      "51272023"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": "6915.40",
+    "cost_center": null,
+    "vendor_name": "Bunge Canada",
+    "vendor_address": "2190 South Service Road West, Oakville, ON L6L 5N1, CANADA",
+    "po_line_items": [
+      {
+        "description": "BG D58000-000 CANOLA OIL",
+        "quantity": 61090.0,
+        "net_price": 0.5352
+      }
+    ]
+  }
+}

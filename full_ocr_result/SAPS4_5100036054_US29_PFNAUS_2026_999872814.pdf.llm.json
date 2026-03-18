@@ -1,0 +1,119 @@
+{
+  "invoice_data": {
+    "invoice_number": "138437623",
+    "invoice_date": "2/5/2026",
+    "invoice_amount": null,
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": "71.68",
+    "po_number": [
+      "M412488288"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": "14.00",
+    "cost_center": null,
+    "vendor_name": "Crown Equipment Corporation",
+    "vendor_address": "5 Charlotte Ave, Hicksville, NY 11801, Tel 516-822-5100, Fax 516-822-0205, PO Box 641173, Cincinnati, OH 45264-1173",
+    "po_line_items": [
+      {
+        "description": "Nut Metric",
+        "quantity": 1.0,
+        "net_price": 0.32
+      },
+      {
+        "description": "Screw M5",
+        "quantity": 1.0,
+        "net_price": 0.9
+      },
+      {
+        "description": "Screw M6",
+        "quantity": 2.0,
+        "net_price": 6.34
+      },
+      {
+        "description": "Sensor-Proximity",
+        "quantity": 1.0,
+        "net_price": 135.37
+      },
+      {
+        "description": "Wear Block - 3D",
+        "quantity": 2.0,
+        "net_price": 245.66
+      },
+      {
+        "description": "Labor",
+        "quantity": 1.0,
+        "net_price": 416.5
+      },
+      {
+        "description": "Shipping & Handling",
+        "quantity": 1.0,
+        "net_price": 14.0
+      }
+    ],
+    "vat_amount": null,
+    "gl_account": null,
+    "bank_name": null,
+    "account_holder_name": null,
+    "banking_account_number": null,
+    "remit_to_address": null,
+    "bill_to_address": null,
+    "transaction_type": "debit"
+  },
+  "filename": "SAPS4_5100036054_US29_PFNAUS_2026_999872814.pdf",
+  "raw_response": {
+    "invoice_number": "138437623",
+    "invoice_date": "2/5/2026",
+    "invoice_amount": "../../../890.77",
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": "71.68",
+    "po_number": [
+      "M412488288"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": "14.00",
+    "cost_center": null,
+    "vendor_name": "Crown Equipment Corporation",
+    "vendor_address": "5 Charlotte Ave, Hicksville, NY 11801, Tel 516-822-5100, Fax 516-822-0205, PO Box 641173, Cincinnati, OH 45264-1173",
+    "po_line_items": [
+      {
+        "description": "Nut Metric",
+        "quantity": 1.0,
+        "net_price": 0.32
+      },
+      {
+        "description": "Screw M5",
+        "quantity": 1.0,
+        "net_price": 0.9
+      },
+      {
+        "description": "Screw M6",
+        "quantity": 2.0,
+        "net_price": 6.34
+      },
+      {
+        "description": "Sensor-Proximity",
+        "quantity": 1.0,
+        "net_price": 135.37
+      },
+      {
+        "description": "Wear Block - 3D",
+        "quantity": 2.0,
+        "net_price": 245.66
+      },
+      {
+        "description": "Labor",
+        "quantity": 1.0,
+        "net_price": 416.5
+      },
+      {
+        "description": "Shipping & Handling",
+        "quantity": 1.0,
+        "net_price": 14.0
+      }
+    ]
+  }
+}

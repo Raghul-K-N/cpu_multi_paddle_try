@@ -1,0 +1,59 @@
+{
+  "invoice_data": {
+    "invoice_number": "004118",
+    "invoice_date": "February 2, 2026",
+    "invoice_amount": "1509.60",
+    "invoice_currency": [
+      "CAD"
+    ],
+    "tax_amount": "149.60",
+    "po_number": [
+      "M4/3537527"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "KIM CLEANING SERVICE",
+    "vendor_address": "12151 Wascana Heights, Regina, S.K., S4V 3B4",
+    "po_line_items": [
+      {
+        "description": "Weekly Office Cleaning Svc",
+        "quantity": 1.0,
+        "net_price": 1509.6
+      }
+    ],
+    "vat_amount": null,
+    "gl_account": null,
+    "bank_name": null,
+    "account_holder_name": null,
+    "banking_account_number": null,
+    "remit_to_address": null,
+    "bill_to_address": null,
+    "transaction_type": "debit"
+  },
+  "filename": "SAPS4_5100951005_CA02_PBNACA_2026_328615281.pdf",
+  "raw_response": {
+    "invoice_number": "004118",
+    "invoice_date": "February 2, 2026",
+    "invoice_amount": "1509.60",
+    "invoice_currency": [
+      "CAD"
+    ],
+    "tax_amount": "149.60",
+    "po_number": [
+      "M4/3537527"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "KIM CLEANING SERVICE",
+    "vendor_address": "12151 Wascana Heights, Regina, S.K., S4V 3B4",
+    "po_line_items": [
+      {
+        "description": "Weekly Office Cleaning Svc",
+        "quantity": 1.0,
+        "net_price": 1509.6
+      }
+    ]
+  }
+}

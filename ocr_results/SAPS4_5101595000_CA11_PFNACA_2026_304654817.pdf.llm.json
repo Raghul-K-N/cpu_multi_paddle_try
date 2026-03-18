@@ -1,0 +1,69 @@
+{
+  "invoice_data": {
+    "invoice_number": "12183",
+    "invoice_date": "10/23/2025",
+    "invoice_amount": "544.66",
+    "invoice_currency": [
+      "CAD"
+    ],
+    "tax_amount": "62.66",
+    "po_number": [
+      "4503715393"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": "105.00",
+    "cost_center": null,
+    "vendor_name": "Great Lakes Combustion Inc.",
+    "vendor_address": "1365 Artisans Court, Burlington, ON L7L 5Y2, CLC",
+    "po_line_items": [
+      {
+        "description": "I-6 - Spark Rod",
+        "quantity": 2.0,
+        "net_price": 377.0
+      },
+      {
+        "description": "SHIPPING - SHIPPING",
+        "quantity": 1.0,
+        "net_price": 105.0
+      }
+    ],
+    "vat_amount": null,
+    "gl_account": null,
+    "bank_name": null,
+    "account_holder_name": null,
+    "banking_account_number": null,
+    "remit_to_address": null,
+    "bill_to_address": null,
+    "transaction_type": "debit"
+  },
+  "filename": "SAPS4_5101595000_CA11_PFNACA_2026_304654817.pdf",
+  "raw_response": {
+    "invoice_number": "12183",
+    "invoice_date": "10/23/2025",
+    "invoice_amount": "544.66",
+    "invoice_currency": [
+      "CAD"
+    ],
+    "tax_amount": "62.66",
+    "po_number": [
+      "4503715393"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": "105.00",
+    "cost_center": null,
+    "vendor_name": "Great Lakes Combustion Inc.",
+    "vendor_address": "1365 Artisans Court, Burlington, ON L7L 5Y2, CLC",
+    "po_line_items": [
+      {
+        "description": "I-6 - Spark Rod",
+        "quantity": 2.0,
+        "net_price": 377.0
+      },
+      {
+        "description": "SHIPPING - SHIPPING",
+        "quantity": 1.0,
+        "net_price": 105.0
+      }
+    ]
+  }
+}

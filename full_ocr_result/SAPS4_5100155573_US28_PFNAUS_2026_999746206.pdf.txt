@@ -1,0 +1,236 @@
+==================================<Page 1 - START>================================
+Standard Invoice
+                                                                                                                    GRAINGR
+Original tax invoice has been submitted electronically. This is a
+human readable representation (copy) of the original tax invoice.
+                                                                                                                  980600851326
+                                                                 Invoice Number
+                                                                 (Supplier Reference No.)
+                                                                 Invoice Date                    Thursday 12 Feb 2026 3:28 AM GMT-07:00
+                                                                 Amount Due                                         $524.45 USD
+    Contact Information                                                        Shipping Information
+    Supplier
+                                 Customer                                 Ship From                     Ship To
+    Grainger                      Frito-Lay Inc.
+                                                                          Grainger                      US-PL-KILLINGLY-CT-FLI
+    100 Grainger Pkwy               c/o PEPSICO NASS                          400 BORDENTOWN-HEDDING      ANTHONY.POSIADALA@PE
+    Lake Forest                    ACCOUNTS PAYABLES                       RD                          1886 UPPERMAPLE ST
+    IL
+                                  PO BOX 1800                              BORDENTOWN                 DAYVILLE
+    Winst
+                                  Winston Salem                              NJ                          CT
+    United States                   NC                                      08505                        06241
+                                 27105                                    United States                   United States
+                                  United States                                                            Phone: (860) 412-1000
+  Line Items                                              PO No. : M413555100                                      PO Date : 12 Feb 2026
+  Line No.   PO Line No.          Type    Supplier Part No. /             Customer Part No.        Quantity            Unit Price         Subtotal
+                                       Description                                       (UOM)
+  1                                                                                                                 $56.90 USD
+             1                 Material 33KL05 / Dispensing Spout, Oasis,                       5 / (EA)           $11.38 USD
+                                       Blue, White
+  Line No.                                                                                                               Subtotal
+             PO Line No.          Type    Supplier Part No. /             Customer Part No.        Quantity            Unit Price
+                                       Description                                       (UOM)
+  2        2                 Material  33KL07 / Dispensing Spout, Oasis,                                        $17.36 USD      $86.80 USD
+                                                                                      5 / (EA)
+                                       Red, White
+  Line No.   PO Line No.         Type    Supplier Part No. /             Customer Part No.        Quantity            Unit Price         Subtotal
+                                       Description                                       (UOM)
+                                                                                                                     $205.76 USD
+  3        3                 MaterialI 33KF35 / Manual 2-Way Ball                           4 / (EA)          $51.44 USD
+                                       Valve,Press,Bronze
+                                                                                                        Unit Price         Subtotal
+  Line No.   PO Line No.         Type    Supplier Part No. /             Customer Part No.        Quantity
+                                       Description                                       (UOM)
+                               Material  33KF34 / Manual 2-Way Ball                                            $35.92 USD     $143.68 USD
+  4         4                                                                        4 / (EA)
+                                       Valve,Press,Bronze
+                                                                             Amount Summary
+                                                                                                                    $493.14 USD
+                                                                              Line item subtotal
+                                                                                                                    $524.45 USD
+                                                                              Gross amount
+                                                                              Net amount                              $524.45 USD
+                                                                                                                     $31.31 USD
+                                                                              Total tax amount
+                                                                              Total withholding tax amount
+                                                                                                                    $524.45 USD
+                                                                              Amount Due
+    Additional Information
+    InvoiceSourceDocument
+    PurchaseOrder
+    InvoiceSubmissionMethod
+    cXML
+                                                                          Remittance Information
+   Billing Information
+                                                                         Remit To
+   Bill To
+                                                                          GRAINGER
+   Frito-Lay Inc.
+                                                                          DEPT.808856983
+   c/o PEPSICO NASS
+                                                                         PALATINE
+   ACCOUNTS PAYABLES
+                                                                         IL
+   PO BOX 1800
+                                                                         60038-0001
+   Winston Salem
+                                                                         United States
+   NC
+                                                                         Address ID: US1_10359
+   27105
+   United States                                                            Tax ID of Supplier
+   Address ID: US28                                                         36-1150280
+                                                                      Reference Documents
+                                                                      Original Supplier Order #: 1575993573
+==================================<Page 1 - END>================================
+==================================<Page 2 - START>================================
+Appendix
+Line No.
+           PO Line No. Type                            Supplier Part No. / Description
+1
+            1          Material                          33KL05 / Dispensing Spout, Oasis, Blue, White
+Additional Details:
+Supplier Part ID : 33KL05
+Supplier Part Auxiliary ID : WWG33KL05
+Line No.
+            PO Line No. Type                            Supplier Part No. / Description
+2         2
+                      Material                          33KL07 / Dispensing Spout, Oasis, Red, White
+Additional Details:
+Supplier Part ID : 33KL07
+Supplier Part Auxiliary ID : WWG33KL07
+Line No.    PO Line No. Type
+                                                      Supplier Part No. / Description
+3         3         Material
+                                                      33KF35 / Manual 2-Way Ball Valve,Press,Bronze
+Additional Details:
+Supplier Part ID : 33KF35
+Supplier Part Auxiliary ID : WWG33KF35
+Line No.
+           PO Line No. Type                            Supplier Part No. / Description
+4         4         Material
+                                                      33KF34 / Manual 2-Way Ball Valve,Press,Bronze
+Additional Details:
+Supplier Part ID : 33KF34
+Supplier Part Auxiliary ID : WWG33KF34
+PDF generated on Friday 13 Feb 2026 3:43 AM GMT-08:00
+==================================<Page 2 - END>================================
+==================================<Page 3 - START>================================
+  Standard Invoice
+                                                                                                                     GRAINGR
+  Original tax invoice has been submitted electronically. This is a
+  human readable representation (copy) of the original tax invoice.
+                                                                                                                    980600851326
+                                                                  Invoice Number
+                                                                  (Supplier Reference No.)
+                                                                  Invoice Date                    Thursday 12 Feb 2026 3:28 AM GMT-07:00
+                                                                  Amount Due                                         $524.45 USD
+      Contact Information                                                        Shipping Information
+      Supplier
+                                   Customer                                 Ship From                     Ship To
+      Grainger                      Frito-Lay Inc.
+                                                                            Grainger                      US-PL-KILLINGLY-CT-FLI
+      100 Grainger Pkwy               c/o PEPSICO NASS                          400 BORDENTOWN-HEDDING      ANTHONY.POSIADALA@PE
+      Lake Forest                    ACCOUNTS PAYABLES                       RD                          1886 UPPERMAPLE ST
+      IL
+                                   PO BOX 1800                              BORDENTOWN                 DAYVILLE
+      Winst
+                                   Winston Salem                              NJ                          CT
+      United States                   NC                                      08505                        06241
+                                   27105                                    United States                   United States
+                                   United States                                                            Phone: (860) 412-1000
+    Line Items                                              PO No. : M413555100                                      PO Date : 12 Feb 2026
+    Line No.   PO Line No.          Type    Supplier Part No. /             Customer Part No.        Quantity            Unit Price         Subtotal
+                                         Description                                       (UOM)
+    1                                                                                                                 $56.90 USD
+              1                 Material 33KL05 / Dispensing Spout, Oasis,                       5 / (EA)           $11.38 USD
+                                         Blue, White
+    Line No.                                                                                                               Subtotal
+              PO Line No.          Type    Supplier Part No. /             Customer Part No.        Quantity            Unit Price
+                                        Description                                       (UOM)
+    2        2                 Material  33KL07 / Dispensing Spout, Oasis,                                        $17.36 USD      $86.80 USD
+                                                                                        5 / (EA)
+                                         Red, White
+    Line No.   PO Line No.         Type    Supplier Part No. /             Customer Part No.        Quantity            Unit Price         Subtotal
+                                         Description                                       (UOM)
+                                                                                                                      $205.76 USD
+    3        3                 MaterialI 33KF35 / Manual 2-Way Ball                           4 / (EA)          $51.44 USD
+                                        Valve,Press,Bronze
+                                                                                                          Unit Price         Subtotal
+    Line No.   PO Line No.         Type    Supplier Part No. /             Customer Part No.        Quantity
+                                        Description                                       (UOM)
+                                 Material  33KF34 / Manual 2-Way Ball                                            $35.92 USD     $143.68 USD
+    4         4                                                                        4 / (EA)
+                                        Valve,Press,Bronze
+                                                                               Amount Summary
+                                                                                                                      $493.14 USD
+                                                                               Line item subtotal
+                                                                                                                      $524.45 USD
+                                                                               Gross amount
+                                                                               Net amount                              $524.45 USD
+                                                                                                                       $31.31 USD
+                                                                               Total tax amount
+                                                                               Total withholding tax amount
+                                                                                                                      $524.45 USD
+                                                                               Amount Due
+      Additional Information
+      InvoiceSourceDocument
+      PurchaseOrder
+      InvoiceSubmissionMethod
+     cXML
+                                                                           Remittance Information
+     Billing Information
+                                                                           Remit To
+     Bill To
+                                                                           GRAINGER
+     Frito-Lay Inc.
+                                                                           DEPT.808856983
+     c/o PEPSICO NASS
+                                                                           PALATINE
+     ACCOUNTS PAYABLES
+                                                                           IL
+     PO BOX 1800
+                                                                           60038-0001
+     Winston Salem
+                                                                           United States
+     NC
+                                                                           Address ID: US1_10359
+     27105
+     United States                                                            Tax ID of Supplier
+     Address ID: US28                                                         36-1150280
+                                                                       Reference Documents
+                                                                        Original Supplier Order #: 1575993573
+==================================<Page 3 - END>================================
+==================================<Page 4 - START>================================
+Appendix
+Line No.
+           PO Line No. Type                            Supplier Part No. / Description
+1
+            1          Material                          33KL05 / Dispensing Spout, Oasis, Blue, White
+Additional Details:
+Supplier Part ID : 33KL05
+Supplier Part Auxiliary ID : WWG33KL05
+Line No.
+            PO Line No. Type                            Supplier Part No. / Description
+2         2
+                      Material                          33KL07 / Dispensing Spout, Oasis, Red, White
+Additional Details:
+Supplier Part ID : 33KL07
+Supplier Part Auxiliary ID : WWG33KL07
+Line No.    PO Line No. Type
+                                                      Supplier Part No. / Description
+3         3         Material
+                                                      33KF35 / Manual 2-Way Ball Valve,Press,Bronze
+Additional Details:
+Supplier Part ID : 33KF35
+Supplier Part Auxiliary ID : WWG33KF35
+Line No.
+           PO Line No. Type                            Supplier Part No. / Description
+4         4         Material
+                                                      33KF34 / Manual 2-Way Ball Valve,Press,Bronze
+Additional Details:
+Supplier Part ID : 33KF34
+Supplier Part Auxiliary ID : WWG33KF34
+PDF generated on Friday 13 Feb 2026 3:43 AM GMT-08:00
+==================================<Page 4 - END>================================

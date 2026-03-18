@@ -1,0 +1,79 @@
+{
+  "invoice_data": {
+    "invoice_number": "93305524",
+    "invoice_date": "02/03/2026",
+    "invoice_amount": "791.94",
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": null,
+    "po_number": [
+      "4505028009"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "Heat and control",
+    "vendor_address": "21121 CABOT BLVD, HAYWARD CA 94545-1132",
+    "po_line_items": [
+      {
+        "description": "X56-6033-04 BEARING,RADIAL,DEEP GROOVE*** SO Item: 10 PO Item: 10",
+        "quantity": 58.0,
+        "net_price": 4.5
+      },
+      {
+        "description": "X110-5235-00 BRUSH, SEPARATE SO Item: 20 PO Item: 20",
+        "quantity": 2.0,
+        "net_price": 250.15
+      },
+      {
+        "description": "1010 FREIGHT",
+        "quantity": 1.0,
+        "net_price": 30.64
+      }
+    ],
+    "vat_amount": null,
+    "gl_account": null,
+    "bank_name": null,
+    "account_holder_name": null,
+    "banking_account_number": null,
+    "remit_to_address": null,
+    "bill_to_address": null,
+    "transaction_type": "debit"
+  },
+  "filename": "SAPS4_5100334040_US28_PFNAUS_2026_999884197.pdf",
+  "raw_response": {
+    "invoice_number": "93305524",
+    "invoice_date": "02/03/2026",
+    "invoice_amount": "791.94",
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": null,
+    "po_number": [
+      "4505028009"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "Heat and control",
+    "vendor_address": "21121 CABOT BLVD, HAYWARD CA 94545-1132",
+    "po_line_items": [
+      {
+        "description": "X56-6033-04 BEARING,RADIAL,DEEP GROOVE*** SO Item: 10 PO Item: 10",
+        "quantity": 58.0,
+        "net_price": 4.5
+      },
+      {
+        "description": "X110-5235-00 BRUSH, SEPARATE SO Item: 20 PO Item: 20",
+        "quantity": 2.0,
+        "net_price": 250.15
+      },
+      {
+        "description": "1010 FREIGHT",
+        "quantity": 1.0,
+        "net_price": 30.64
+      }
+    ]
+  }
+}

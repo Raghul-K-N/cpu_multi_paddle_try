@@ -1,0 +1,59 @@
+{
+  "invoice_data": {
+    "invoice_number": "8814",
+    "invoice_date": "Friday 13 Feb 2026 11:33 AM GMT-05:00",
+    "invoice_amount": "9374.56",
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": null,
+    "po_number": [
+      "M413480012"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "DL DANIEL CONSTRUCTION INC",
+    "vendor_address": "352 OAKRIDGE DR, P.O.Box 372, MAYSVILLE, GA 30558, United States, Address ID: US29",
+    "po_line_items": [
+      {
+        "description": "Plants & Building Maintenance-Services (PGT)",
+        "quantity": 9374.56,
+        "net_price": 1.0
+      }
+    ],
+    "vat_amount": null,
+    "gl_account": null,
+    "bank_name": null,
+    "account_holder_name": null,
+    "banking_account_number": null,
+    "remit_to_address": null,
+    "bill_to_address": null,
+    "transaction_type": "debit"
+  },
+  "filename": "SAPS4_5100200538_US29_PFNAUS_2026_999872904.pdf",
+  "raw_response": {
+    "invoice_number": "8814",
+    "invoice_date": "Friday 13 Feb 2026 11:33 AM GMT-05:00",
+    "invoice_amount": "9374.56",
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": null,
+    "po_number": [
+      "M413480012"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "DL DANIEL CONSTRUCTION INC",
+    "vendor_address": "352 OAKRIDGE DR, P.O.Box 372, MAYSVILLE, GA 30558, United States, Address ID: US29",
+    "po_line_items": [
+      {
+        "description": "Plants & Building Maintenance-Services (PGT)",
+        "quantity": 9374.56,
+        "net_price": 1.0
+      }
+    ]
+  }
+}

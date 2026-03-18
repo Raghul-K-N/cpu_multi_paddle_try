@@ -1,0 +1,47 @@
+{
+  "invoice_data": {
+    "invoice_number": "Al1E43Z",
+    "invoice_date": "02/12/26",
+    "invoice_amount": "413.00",
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": "31.48",
+    "po_number": [
+      "M413523648"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "CDW Direct",
+    "vendor_address": "PO Box 75723, Chicago, IL 60675-5723",
+    "po_line_items": null,
+    "vat_amount": null,
+    "gl_account": null,
+    "bank_name": null,
+    "account_holder_name": null,
+    "banking_account_number": null,
+    "remit_to_address": null,
+    "bill_to_address": null,
+    "transaction_type": "debit"
+  },
+  "filename": "SAPS4_5100037563_US29_PFNAUS_2026_999935201.pdf",
+  "raw_response": {
+    "invoice_number": "Al1E43Z",
+    "invoice_date": "02/12/26",
+    "invoice_amount": "413.00",
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": "31.48",
+    "po_number": [
+      "M413523648"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "CDW Direct",
+    "vendor_address": "PO Box 75723, Chicago, IL 60675-5723",
+    "po_line_items": null
+  }
+}

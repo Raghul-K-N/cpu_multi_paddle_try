@@ -1,0 +1,59 @@
+{
+  "invoice_data": {
+    "invoice_number": "980448162126",
+    "invoice_date": "Wednesday 11 Feb 2026 5:35 AM GMT-07:00",
+    "invoice_amount": "102.95",
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": null,
+    "po_number": [
+      "M413552216"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "GRAINER",
+    "vendor_address": "100 Grainger Pkwy, Lake Forest, IL, United States",
+    "po_line_items": [
+      {
+        "description": "6DHF0 / Household Step Stool,11-7/8 In. W.330 lb",
+        "quantity": 1.0,
+        "net_price": 94.12
+      }
+    ],
+    "vat_amount": null,
+    "gl_account": null,
+    "bank_name": null,
+    "account_holder_name": null,
+    "banking_account_number": null,
+    "remit_to_address": null,
+    "bill_to_address": null,
+    "transaction_type": "debit"
+  },
+  "filename": "SAPS4_5100168503_US29_PFNAUS_2026_999930901.pdf",
+  "raw_response": {
+    "invoice_number": "980448162126",
+    "invoice_date": "Wednesday 11 Feb 2026 5:35 AM GMT-07:00",
+    "invoice_amount": "102.95",
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": null,
+    "po_number": [
+      "M413552216"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "GRAINER",
+    "vendor_address": "100 Grainger Pkwy, Lake Forest, IL, United States",
+    "po_line_items": [
+      {
+        "description": "6DHF0 / Household Step Stool,11-7/8 In. W.330 lb",
+        "quantity": 1.0,
+        "net_price": 94.12
+      }
+    ]
+  }
+}

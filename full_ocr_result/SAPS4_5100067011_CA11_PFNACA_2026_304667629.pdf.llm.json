@@ -1,0 +1,47 @@
+{
+  "invoice_data": {
+    "invoice_number": "A1420959",
+    "invoice_date": "12/21/2025",
+    "invoice_amount": null,
+    "invoice_currency": [
+      "CAD"
+    ],
+    "tax_amount": null,
+    "po_number": [
+      "4504116684"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "ENNER INTERNATIONAL INC.",
+    "vendor_address": "20 PTH 12 North, Steinbach, MB R5G 1B7, 800-665-0410",
+    "po_line_items": null,
+    "vat_amount": null,
+    "gl_account": null,
+    "bank_name": null,
+    "account_holder_name": null,
+    "banking_account_number": null,
+    "remit_to_address": null,
+    "bill_to_address": null,
+    "transaction_type": "debit"
+  },
+  "filename": "SAPS4_5100067011_CA11_PFNACA_2026_304667629.pdf",
+  "raw_response": {
+    "invoice_number": "A1420959",
+    "invoice_date": "12/21/2025",
+    "invoice_amount": null,
+    "invoice_currency": [
+      "CAD"
+    ],
+    "tax_amount": null,
+    "po_number": [
+      "4504116684"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "ENNER INTERNATIONAL INC.",
+    "vendor_address": "20 PTH 12 North, Steinbach, MB R5G 1B7, 800-665-0410",
+    "po_line_items": null
+  }
+}

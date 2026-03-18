@@ -1,0 +1,69 @@
+{
+  "invoice_data": {
+    "invoice_number": "116902500",
+    "invoice_date": "Monday 9 Feb 2026 3:23 AM GMT-05:00",
+    "invoice_amount": "2,143.36",
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": "163.36",
+    "po_number": [
+      "M411485744"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "Crown Equipment Corporation",
+    "vendor_address": "44 S Washington St, New Bremen, OH 45869, United States; PO BOX 1800, Winston Salem, NC 27105, United States; Address ID: US28",
+    "po_line_items": [
+      {
+        "description": "Material Not Available / DSC Crown Equipment Rental blanket PO",
+        "quantity": 1.0,
+        "net_price": 1980.0
+      },
+      {
+        "description": "18-125TA-13",
+        "quantity": 4.0,
+        "net_price": 495.0
+      }
+    ],
+    "vat_amount": null,
+    "gl_account": null,
+    "bank_name": null,
+    "account_holder_name": null,
+    "banking_account_number": null,
+    "remit_to_address": null,
+    "bill_to_address": null,
+    "transaction_type": "debit"
+  },
+  "filename": "SAPS4_5100285033_US28_PFNAUS_2026_999930777.pdf",
+  "raw_response": {
+    "invoice_number": "116902500",
+    "invoice_date": "Monday 9 Feb 2026 3:23 AM GMT-05:00",
+    "invoice_amount": "2,143.36",
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": "163.36",
+    "po_number": [
+      "M411485744"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "Crown Equipment Corporation",
+    "vendor_address": "44 S Washington St, New Bremen, OH 45869, United States; PO BOX 1800, Winston Salem, NC 27105, United States; Address ID: US28",
+    "po_line_items": [
+      {
+        "description": "Material Not Available / DSC Crown Equipment Rental blanket PO",
+        "quantity": 1.0,
+        "net_price": 1980.0
+      },
+      {
+        "description": "18-125TA-13",
+        "quantity": 4.0,
+        "net_price": 495.0
+      }
+    ]
+  }
+}

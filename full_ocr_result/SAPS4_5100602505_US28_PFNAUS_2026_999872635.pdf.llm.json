@@ -1,0 +1,79 @@
+{
+  "invoice_data": {
+    "invoice_number": "I2542204",
+    "invoice_date": "Thursday 12 Feb 2026 11:13 PM GMT+00:00",
+    "invoice_amount": null,
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": null,
+    "po_number": [
+      "M413385099"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "HANTOVER",
+    "vendor_address": "HANTOVER - KANSAS CITY - 8600 NE UNDERGROUND DRIVE PILLAR 219 KANSAS CITY MO 64161 United States",
+    "po_line_items": [
+      {
+        "description": "52876 / GLOVE NITRILE DISPOSABLE 6 MIL MED GREEN VISIBLE POWDER FREE TEXTURED 100/BX 1",
+        "quantity": 38.0,
+        "net_price": 332.5
+      },
+      {
+        "description": "52877 / GLOVE NITRILE DISPOSABLE 6 MIL LRG GREEN VISIBLE POWDER FREE TEXTURED 100/BX 1",
+        "quantity": 25.0,
+        "net_price": 218.75
+      },
+      {
+        "description": "52879 / GLOVE NITRILE DISPOSABLE 6 MIL 2XL GREEN VISIBLE POWDER FREE TEXTURED 90/BX 10BX",
+        "quantity": 60.0,
+        "net_price": 525.0
+      }
+    ],
+    "vat_amount": null,
+    "gl_account": null,
+    "bank_name": null,
+    "account_holder_name": null,
+    "banking_account_number": null,
+    "remit_to_address": null,
+    "bill_to_address": null,
+    "transaction_type": "debit"
+  },
+  "filename": "SAPS4_5100602505_US28_PFNAUS_2026_999872635.pdf",
+  "raw_response": {
+    "invoice_number": "I2542204",
+    "invoice_date": "Thursday 12 Feb 2026 11:13 PM GMT+00:00",
+    "invoice_amount": null,
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": null,
+    "po_number": [
+      "M413385099"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "HANTOVER",
+    "vendor_address": "HANTOVER - KANSAS CITY - 8600 NE UNDERGROUND DRIVE PILLAR 219 KANSAS CITY MO 64161 United States",
+    "po_line_items": [
+      {
+        "description": "52876 / GLOVE NITRILE DISPOSABLE 6 MIL MED GREEN VISIBLE POWDER FREE TEXTURED 100/BX 1",
+        "quantity": 38.0,
+        "net_price": 332.5
+      },
+      {
+        "description": "52877 / GLOVE NITRILE DISPOSABLE 6 MIL LRG GREEN VISIBLE POWDER FREE TEXTURED 100/BX 1",
+        "quantity": 25.0,
+        "net_price": 218.75
+      },
+      {
+        "description": "52879 / GLOVE NITRILE DISPOSABLE 6 MIL 2XL GREEN VISIBLE POWDER FREE TEXTURED 90/BX 10BX",
+        "quantity": 60.0,
+        "net_price": 525.0
+      }
+    ]
+  }
+}

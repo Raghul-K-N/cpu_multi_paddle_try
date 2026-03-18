@@ -1,0 +1,59 @@
+{
+  "invoice_data": {
+    "invoice_number": "300262163",
+    "invoice_date": "Tuesday 10 Feb 2026 12:00 PM GMT-05:00",
+    "invoice_amount": "12762.31",
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": null,
+    "po_number": [
+      "M413538977"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": "1271.11",
+    "cost_center": null,
+    "vendor_name": "Dystar LP",
+    "vendor_address": "9844-A Southern Pine Blvd, Charlotte, NC 28273, United States",
+    "po_line_items": [
+      {
+        "description": "Not Available / FOAM BLAST 06241 DEFOAMER DRUM",
+        "quantity": 8.0,
+        "net_price": 11491.2
+      }
+    ],
+    "vat_amount": null,
+    "gl_account": null,
+    "bank_name": null,
+    "account_holder_name": null,
+    "banking_account_number": null,
+    "remit_to_address": null,
+    "bill_to_address": null,
+    "transaction_type": "debit"
+  },
+  "filename": "SAPS4_5100196026_US28_PFNAUS_2026_999930751.pdf",
+  "raw_response": {
+    "invoice_number": "300262163",
+    "invoice_date": "Tuesday 10 Feb 2026 12:00 PM GMT-05:00",
+    "invoice_amount": "12762.31",
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": null,
+    "po_number": [
+      "M413538977"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": "1271.11",
+    "cost_center": null,
+    "vendor_name": "Dystar LP",
+    "vendor_address": "9844-A Southern Pine Blvd, Charlotte, NC 28273, United States",
+    "po_line_items": [
+      {
+        "description": "Not Available / FOAM BLAST 06241 DEFOAMER DRUM",
+        "quantity": 8.0,
+        "net_price": 11491.2
+      }
+    ]
+  }
+}

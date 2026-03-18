@@ -1,0 +1,99 @@
+{
+  "invoice_data": {
+    "invoice_number": "72399088",
+    "invoice_date": "Tuesday 10 Feb. 2026 5:44 a.m. GMT-07:00",
+    "invoice_amount": "150.56",
+    "invoice_currency": [
+      "CAD"
+    ],
+    "tax_amount": "19.61",
+    "po_number": [
+      "M413548569"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "PEPSICO FOODS CANADA O/",
+    "vendor_address": "126152586RT0001, 5550 EXPLORER DR 8TH FLOOR, MISSISSAUGA, ON L4W 0C3, Canada, Address ID: CA1_ARIBA_PAYABLES",
+    "po_line_items": [
+      {
+        "description": "STP344997 / TROMBONES ANTIDERAPANTS, 1000",
+        "quantity": 1.0,
+        "net_price": 16.49
+      },
+      {
+        "description": "PENBL77BP4M / ENERGEL RETRACT MOY VAR 4/PQT",
+        "quantity": 1.0,
+        "net_price": 10.99
+      },
+      {
+        "description": "HEWF6U64AN / CARTOUCHE HP63XL.HY.NOIR",
+        "quantity": 1.0,
+        "net_price": 89.99
+      },
+      {
+        "description": "TRUTR56252 / OTR STYLO PRISE VAR 5/PQT",
+        "quantity": 1.0,
+        "net_price": 5.99
+      },
+      {
+        "description": "STP13425CA / STAPLES AGRAEES STANDARDS",
+        "quantity": 1.0,
+        "net_price": 7.49
+      }
+    ],
+    "vat_amount": null,
+    "gl_account": null,
+    "bank_name": null,
+    "account_holder_name": null,
+    "banking_account_number": null,
+    "remit_to_address": null,
+    "bill_to_address": null,
+    "transaction_type": "debit"
+  },
+  "filename": "SAPS4_5101586501_CA11_PFNACA_2026_304654718.pdf",
+  "raw_response": {
+    "invoice_number": "72399088",
+    "invoice_date": "Tuesday 10 Feb. 2026 5:44 a.m. GMT-07:00",
+    "invoice_amount": "150.56",
+    "invoice_currency": [
+      "CAD"
+    ],
+    "tax_amount": "19.61",
+    "po_number": [
+      "M413548569"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "PEPSICO FOODS CANADA O/",
+    "vendor_address": "126152586RT0001, 5550 EXPLORER DR 8TH FLOOR, MISSISSAUGA, ON L4W 0C3, Canada, Address ID: CA1_ARIBA_PAYABLES",
+    "po_line_items": [
+      {
+        "description": "STP344997 / TROMBONES ANTIDERAPANTS, 1000",
+        "quantity": 1.0,
+        "net_price": 16.49
+      },
+      {
+        "description": "PENBL77BP4M / ENERGEL RETRACT MOY VAR 4/PQT",
+        "quantity": 1.0,
+        "net_price": 10.99
+      },
+      {
+        "description": "HEWF6U64AN / CARTOUCHE HP63XL.HY.NOIR",
+        "quantity": 1.0,
+        "net_price": 89.99
+      },
+      {
+        "description": "TRUTR56252 / OTR STYLO PRISE VAR 5/PQT",
+        "quantity": 1.0,
+        "net_price": 5.99
+      },
+      {
+        "description": "STP13425CA / STAPLES AGRAEES STANDARDS",
+        "quantity": 1.0,
+        "net_price": 7.49
+      }
+    ]
+  }
+}

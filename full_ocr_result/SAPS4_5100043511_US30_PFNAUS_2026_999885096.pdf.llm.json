@@ -1,0 +1,109 @@
+{
+  "invoice_data": {
+    "invoice_number": "128919977",
+    "invoice_date": "09/22/25",
+    "invoice_amount": "524.06",
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": "29.67",
+    "po_number": [
+      "23481360"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": "0.00",
+    "cost_center": null,
+    "vendor_name": "FleetPride",
+    "vendor_address": "DUNMORE PA 651KEYSTONEINDUSTRIAL PARK (570) 344-1975",
+    "po_line_items": [
+      {
+        "description": "7-WAY/2-HOLE BULLET TERM STD QCSZ SOCKET (EA)",
+        "quantity": 15.0,
+        "net_price": 16.24
+      },
+      {
+        "description": "RUBBER CHEVRON MUD FLAP (EA)",
+        "quantity": 9.0,
+        "net_price": 4.46
+      },
+      {
+        "description": "AUTO.SLACK ADJ.(6\",1-1/2SPL,28T) (EA)",
+        "quantity": 4.0,
+        "net_price": 21.27
+      },
+      {
+        "description": "CRANK HANDLE - VERTICAL 11\" (EA)",
+        "quantity": 3.0,
+        "net_price": 7.09
+      },
+      {
+        "description": "CLEVIS - 1/2\"PIN,5/8-18 UNF-28 (EA)",
+        "quantity": 8.0,
+        "net_price": 1.16
+      },
+      {
+        "description": "KIT-TLR REP-MNR (EA)",
+        "quantity": 2.0,
+        "net_price": 29.67
+      }
+    ],
+    "vat_amount": null,
+    "gl_account": null,
+    "bank_name": null,
+    "account_holder_name": null,
+    "banking_account_number": null,
+    "remit_to_address": null,
+    "bill_to_address": null,
+    "transaction_type": "debit"
+  },
+  "filename": "SAPS4_5100043511_US30_PFNAUS_2026_999885096.pdf",
+  "raw_response": {
+    "invoice_number": "128919977",
+    "invoice_date": "09/22/25",
+    "invoice_amount": "524.06",
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": "29.67",
+    "po_number": [
+      "23481360"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": "0.00",
+    "cost_center": null,
+    "vendor_name": "FleetPride",
+    "vendor_address": "DUNMORE PA 651KEYSTONEINDUSTRIAL PARK (570) 344-1975",
+    "po_line_items": [
+      {
+        "description": "7-WAY/2-HOLE BULLET TERM STD QCSZ SOCKET (EA)",
+        "quantity": 15.0,
+        "net_price": 16.24
+      },
+      {
+        "description": "RUBBER CHEVRON MUD FLAP (EA)",
+        "quantity": 9.0,
+        "net_price": 4.46
+      },
+      {
+        "description": "AUTO.SLACK ADJ.(6\",1-1/2SPL,28T) (EA)",
+        "quantity": 4.0,
+        "net_price": 21.27
+      },
+      {
+        "description": "CRANK HANDLE - VERTICAL 11\" (EA)",
+        "quantity": 3.0,
+        "net_price": 7.09
+      },
+      {
+        "description": "CLEVIS - 1/2\"PIN,5/8-18 UNF-28 (EA)",
+        "quantity": 8.0,
+        "net_price": 1.16
+      },
+      {
+        "description": "KIT-TLR REP-MNR (EA)",
+        "quantity": 2.0,
+        "net_price": 29.67
+      }
+    ]
+  }
+}

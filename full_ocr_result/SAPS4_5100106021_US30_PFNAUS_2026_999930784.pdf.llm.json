@@ -1,0 +1,69 @@
+{
+  "invoice_data": {
+    "invoice_number": "459707868001",
+    "invoice_date": "Friday 13 Feb 2026 12:00 PM GMT-05:00",
+    "invoice_amount": "310.13",
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": "26.52",
+    "po_number": [
+      "M413555037"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "ODP BUSINESS SOLUTIONS, LLC",
+    "vendor_address": "ODP BUSINESS SOLUTIONS, LLC, 6600 North Military Trail, Boca Raton, FL 33496, United States, 666091205",
+    "po_line_items": [
+      {
+        "description": "WIP.DISINETING.CLOROX 12EA CA",
+        "quantity": 1.0,
+        "net_price": 41.45
+      },
+      {
+        "description": "PAPER,X-9,8.5X11.20LB,10CA",
+        "quantity": 6.0,
+        "net_price": 40.36
+      }
+    ],
+    "vat_amount": null,
+    "gl_account": null,
+    "bank_name": null,
+    "account_holder_name": null,
+    "banking_account_number": null,
+    "remit_to_address": null,
+    "bill_to_address": null,
+    "transaction_type": "debit"
+  },
+  "filename": "SAPS4_5100106021_US30_PFNAUS_2026_999930784.pdf",
+  "raw_response": {
+    "invoice_number": "459707868001",
+    "invoice_date": "Friday 13 Feb 2026 12:00 PM GMT-05:00",
+    "invoice_amount": "310.13",
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": "26.52",
+    "po_number": [
+      "M413555037"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "ODP BUSINESS SOLUTIONS, LLC",
+    "vendor_address": "ODP BUSINESS SOLUTIONS, LLC, 6600 North Military Trail, Boca Raton, FL 33496, United States, 666091205",
+    "po_line_items": [
+      {
+        "description": "WIP.DISINETING.CLOROX 12EA CA",
+        "quantity": 1.0,
+        "net_price": 41.45
+      },
+      {
+        "description": "PAPER,X-9,8.5X11.20LB,10CA",
+        "quantity": 6.0,
+        "net_price": 40.36
+      }
+    ]
+  }
+}

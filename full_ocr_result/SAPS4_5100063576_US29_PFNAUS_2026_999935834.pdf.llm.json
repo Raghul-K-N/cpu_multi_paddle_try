@@ -1,0 +1,47 @@
+{
+  "invoice_data": {
+    "invoice_number": "6150679287",
+    "invoice_date": "02/12/2026",
+    "invoice_amount": "18.06",
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": "1.18",
+    "po_number": [
+      "M412870543"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": "0.00",
+    "cost_center": null,
+    "vendor_name": "VESTIS",
+    "vendor_address": "25259 NETWORK PLACE, CHICAGO IL 60673-1252",
+    "po_line_items": null,
+    "vat_amount": null,
+    "gl_account": null,
+    "bank_name": null,
+    "account_holder_name": null,
+    "banking_account_number": null,
+    "remit_to_address": null,
+    "bill_to_address": null,
+    "transaction_type": "debit"
+  },
+  "filename": "SAPS4_5100063576_US29_PFNAUS_2026_999935834.pdf",
+  "raw_response": {
+    "invoice_number": "6150679287",
+    "invoice_date": "02/12/2026",
+    "invoice_amount": "18.06",
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": "1.18",
+    "po_number": [
+      "M412870543"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": "0.00",
+    "cost_center": null,
+    "vendor_name": "VESTIS",
+    "vendor_address": "25259 NETWORK PLACE, CHICAGO IL 60673-1252",
+    "po_line_items": null
+  }
+}

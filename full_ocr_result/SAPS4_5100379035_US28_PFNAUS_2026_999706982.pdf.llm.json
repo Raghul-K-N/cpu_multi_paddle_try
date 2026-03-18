@@ -1,0 +1,61 @@
+{
+  "invoice_data": {
+    "invoice_number": "2113289",
+    "invoice_date": "8/12/2025",
+    "invoice_amount": null,
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": "474.80",
+    "po_number": [
+      "M413158030",
+      "PR5670975"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": "264.51",
+    "cost_center": null,
+    "vendor_name": "PEPSiCO Ignitors",
+    "vendor_address": "15 Commerce Rd, Stamford, CT 06902 USA, 43 Western Boulevard, Glastonbury, CT 06033 USA, 117 Prospect Street, Stamford, CT 06901 USA",
+    "po_line_items": [
+      {
+        "description": "Po1 Summer 2-in-1 Tumbler and Can Cooler",
+        "quantity": 670.0,
+        "net_price": 9.38
+      }
+    ],
+    "vat_amount": null,
+    "gl_account": null,
+    "bank_name": null,
+    "account_holder_name": null,
+    "banking_account_number": null,
+    "remit_to_address": null,
+    "bill_to_address": null,
+    "transaction_type": "debit"
+  },
+  "filename": "SAPS4_5100379035_US28_PFNAUS_2026_999706982.pdf",
+  "raw_response": {
+    "invoice_number": "2113289",
+    "invoice_date": "8/12/2025",
+    "invoice_amount": "../../../../7023.91",
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": "474.80",
+    "po_number": [
+      "M413158030",
+      "PR5670975"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": "264.51",
+    "cost_center": null,
+    "vendor_name": "PEPSiCO Ignitors",
+    "vendor_address": "15 Commerce Rd, Stamford, CT 06902 USA, 43 Western Boulevard, Glastonbury, CT 06033 USA, 117 Prospect Street, Stamford, CT 06901 USA",
+    "po_line_items": [
+      {
+        "description": "Po1 Summer 2-in-1 Tumbler and Can Cooler",
+        "quantity": 670.0,
+        "net_price": 9.38
+      }
+    ]
+  }
+}

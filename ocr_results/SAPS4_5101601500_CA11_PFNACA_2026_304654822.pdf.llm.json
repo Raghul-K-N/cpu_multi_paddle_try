@@ -1,0 +1,77 @@
+{
+  "invoice_data": {
+    "invoice_number": "4553716",
+    "invoice_date": "02/02/2026",
+    "invoice_amount": "7461.39",
+    "invoice_currency": [
+      "CAD"
+    ],
+    "tax_amount": null,
+    "po_number": [
+      "4501225469"
+    ],
+    "gl_account_number": [
+      "614005"
+    ],
+    "freight_and_handling_charges": null,
+    "cost_center": [
+      "2509650400"
+    ],
+    "vendor_name": "BGRS LIMITED",
+    "vendor_address": "P.O. BOX 11000 STATION A, TORONTO,, ON M5W 2G5 CANADA",
+    "po_line_items": [
+      {
+        "description": "TENANCY MANAGEMENT LEASE PMT. - TENANCY MANAGEMENT JAN AND FEB RENT",
+        "quantity": null,
+        "net_price": 7460.0
+      },
+      {
+        "description": "BANK FEE RECOVERY - CITIBANK FEES 2025-11",
+        "quantity": null,
+        "net_price": 1.39
+      }
+    ],
+    "vat_amount": null,
+    "gl_account": null,
+    "bank_name": null,
+    "account_holder_name": null,
+    "banking_account_number": null,
+    "remit_to_address": null,
+    "bill_to_address": null,
+    "transaction_type": "debit"
+  },
+  "filename": "SAPS4_5101601500_CA11_PFNACA_2026_304654822.pdf",
+  "raw_response": {
+    "invoice_number": "4553716",
+    "invoice_date": "02/02/2026",
+    "invoice_amount": "7461.39",
+    "invoice_currency": [
+      "CAD"
+    ],
+    "tax_amount": null,
+    "po_number": [
+      "4501225469"
+    ],
+    "gl_account_number": [
+      "614005"
+    ],
+    "freight_and_handling_charges": null,
+    "cost_center": [
+      "2509650400"
+    ],
+    "vendor_name": "BGRS LIMITED",
+    "vendor_address": "P.O. BOX 11000 STATION A, TORONTO,, ON M5W 2G5 CANADA",
+    "po_line_items": [
+      {
+        "description": "TENANCY MANAGEMENT LEASE PMT. - TENANCY MANAGEMENT JAN AND FEB RENT",
+        "quantity": null,
+        "net_price": 7460.0
+      },
+      {
+        "description": "BANK FEE RECOVERY - CITIBANK FEES 2025-11",
+        "quantity": null,
+        "net_price": 1.39
+      }
+    ]
+  }
+}

@@ -1,0 +1,79 @@
+{
+  "invoice_data": {
+    "invoice_number": "284167721",
+    "invoice_date": "02/12/2026",
+    "invoice_amount": "9695.49",
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": "718.18",
+    "po_number": [
+      "M413543859"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": "167.97",
+    "cost_center": null,
+    "vendor_name": "Alfa Laval Inc.",
+    "vendor_address": "5400 Int. Trade Drive, Richmond, VA 23231, United States, P.O. BOX 200081, Pittsburgh, PA 15251-0081, Warrington, PA 18976, United States",
+    "po_line_items": [
+      {
+        "description": "BELT, U, KP85 200, 8065 1DLL",
+        "quantity": 1.0,
+        "net_price": 3833.48
+      },
+      {
+        "description": "BLADE SCRAPER KP3/AB3 URETHNE 92,25 x 2,5 x",
+        "quantity": 1.0,
+        "net_price": 1002.66
+      },
+      {
+        "description": "BELT, L, KP85 200, 8065 1DLL",
+        "quantity": 1.0,
+        "net_price": 3973.2
+      }
+    ],
+    "vat_amount": null,
+    "gl_account": null,
+    "bank_name": null,
+    "account_holder_name": null,
+    "banking_account_number": null,
+    "remit_to_address": null,
+    "bill_to_address": null,
+    "transaction_type": "debit"
+  },
+  "filename": "SAPS4_5100471049_US28_PFNAUS_2026_999935058.pdf",
+  "raw_response": {
+    "invoice_number": "284167721",
+    "invoice_date": "02/12/2026",
+    "invoice_amount": "9695.49",
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": "718.18",
+    "po_number": [
+      "M413543859"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": "167.97",
+    "cost_center": null,
+    "vendor_name": "Alfa Laval Inc.",
+    "vendor_address": "5400 Int. Trade Drive, Richmond, VA 23231, United States, P.O. BOX 200081, Pittsburgh, PA 15251-0081, Warrington, PA 18976, United States",
+    "po_line_items": [
+      {
+        "description": "BELT, U, KP85 200, 8065 1DLL",
+        "quantity": 1.0,
+        "net_price": 3833.48
+      },
+      {
+        "description": "BLADE SCRAPER KP3/AB3 URETHNE 92,25 x 2,5 x",
+        "quantity": 1.0,
+        "net_price": 1002.66
+      },
+      {
+        "description": "BELT, L, KP85 200, 8065 1DLL",
+        "quantity": 1.0,
+        "net_price": 3973.2
+      }
+    ]
+  }
+}

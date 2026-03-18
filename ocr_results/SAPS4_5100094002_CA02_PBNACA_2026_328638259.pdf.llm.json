@@ -1,0 +1,99 @@
+{
+  "invoice_data": {
+    "invoice_number": "INR04479",
+    "invoice_date": "January 8, 2026",
+    "invoice_amount": null,
+    "invoice_currency": [
+      "CAD"
+    ],
+    "tax_amount": null,
+    "po_number": [
+      "4505040688"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "Ozone International LLC",
+    "vendor_address": "179 Madrone Lane N, Suite 206, Bainbridge Island, WA 98110, DELTA, BC, V3M 6E7",
+    "po_line_items": [
+      {
+        "description": "Equipment Lease",
+        "quantity": 1.0,
+        "net_price": 1907.25
+      },
+      {
+        "description": "Equipment Lease - Service",
+        "quantity": 1.0,
+        "net_price": 635.75
+      },
+      {
+        "description": "Modem Rental",
+        "quantity": 1.0,
+        "net_price": 99.0
+      },
+      {
+        "description": "Equipment Rental - Service",
+        "quantity": 1.0,
+        "net_price": 398.63
+      },
+      {
+        "description": "Equipment Rental - Service",
+        "quantity": 1.0,
+        "net_price": 132.87
+      }
+    ],
+    "vat_amount": null,
+    "gl_account": null,
+    "bank_name": null,
+    "account_holder_name": null,
+    "banking_account_number": null,
+    "remit_to_address": null,
+    "bill_to_address": null,
+    "transaction_type": "debit"
+  },
+  "filename": "SAPS4_5100094002_CA02_PBNACA_2026_328638259.pdf",
+  "raw_response": {
+    "invoice_number": "INR04479",
+    "invoice_date": "January 8, 2026",
+    "invoice_amount": null,
+    "invoice_currency": [
+      "CAD"
+    ],
+    "tax_amount": null,
+    "po_number": [
+      "4505040688"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "Ozone International LLC",
+    "vendor_address": "179 Madrone Lane N, Suite 206, Bainbridge Island, WA 98110, DELTA, BC, V3M 6E7",
+    "po_line_items": [
+      {
+        "description": "Equipment Lease",
+        "quantity": 1.0,
+        "net_price": 1907.25
+      },
+      {
+        "description": "Equipment Lease - Service",
+        "quantity": 1.0,
+        "net_price": 635.75
+      },
+      {
+        "description": "Modem Rental",
+        "quantity": 1.0,
+        "net_price": 99.0
+      },
+      {
+        "description": "Equipment Rental - Service",
+        "quantity": 1.0,
+        "net_price": 398.63
+      },
+      {
+        "description": "Equipment Rental - Service",
+        "quantity": 1.0,
+        "net_price": 132.87
+      }
+    ]
+  }
+}

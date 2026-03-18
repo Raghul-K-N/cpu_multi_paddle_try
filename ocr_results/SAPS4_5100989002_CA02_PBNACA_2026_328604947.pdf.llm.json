@@ -1,0 +1,47 @@
+{
+  "invoice_data": {
+    "invoice_number": "13843",
+    "invoice_date": "2026-01-15",
+    "invoice_amount": null,
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": null,
+    "po_number": [
+      "M413486142"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "Pivot Packaging Systems Ltd.",
+    "vendor_address": "595 Cityview Blvd., Unit 18, Vaughan, Ontario, L4H 3M7",
+    "po_line_items": null,
+    "vat_amount": null,
+    "gl_account": null,
+    "bank_name": null,
+    "account_holder_name": null,
+    "banking_account_number": null,
+    "remit_to_address": null,
+    "bill_to_address": null,
+    "transaction_type": "debit"
+  },
+  "filename": "SAPS4_5100989002_CA02_PBNACA_2026_328604947.pdf",
+  "raw_response": {
+    "invoice_number": "13843",
+    "invoice_date": "2026-01-15",
+    "invoice_amount": null,
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": null,
+    "po_number": [
+      "M413486142"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "Pivot Packaging Systems Ltd.",
+    "vendor_address": "595 Cityview Blvd., Unit 18, Vaughan, Ontario, L4H 3M7",
+    "po_line_items": null
+  }
+}

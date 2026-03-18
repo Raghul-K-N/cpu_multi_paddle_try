@@ -1,0 +1,59 @@
+{
+  "invoice_data": {
+    "invoice_number": "6704878Y",
+    "invoice_date": "Thursday 12 Feb 2026 12:00 AM GMT-08:00",
+    "invoice_amount": "485.49",
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": null,
+    "po_number": [
+      "M413553828"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "FISHER SCIENTIFIC COMPANY LLC",
+    "vendor_address": "FISHER SCIENTIFIC, BOX 371743, PITTSBURGH, PA 152517743, United States, Address ID: 004321519, Phone: 3748677",
+    "po_line_items": [
+      {
+        "description": "Material O1211 / PARAFFIN OIL LT NF/FCC",
+        "quantity": 3.0,
+        "net_price": 161.83
+      }
+    ],
+    "vat_amount": null,
+    "gl_account": null,
+    "bank_name": null,
+    "account_holder_name": null,
+    "banking_account_number": null,
+    "remit_to_address": null,
+    "bill_to_address": null,
+    "transaction_type": "debit"
+  },
+  "filename": "SAPS4_5100230041_US28_PFNAUS_2026_999746311.pdf",
+  "raw_response": {
+    "invoice_number": "6704878Y",
+    "invoice_date": "Thursday 12 Feb 2026 12:00 AM GMT-08:00",
+    "invoice_amount": "485.49",
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": null,
+    "po_number": [
+      "M413553828"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "FISHER SCIENTIFIC COMPANY LLC",
+    "vendor_address": "FISHER SCIENTIFIC, BOX 371743, PITTSBURGH, PA 152517743, United States, Address ID: 004321519, Phone: 3748677",
+    "po_line_items": [
+      {
+        "description": "Material O1211 / PARAFFIN OIL LT NF/FCC",
+        "quantity": 3.0,
+        "net_price": 161.83
+      }
+    ]
+  }
+}

@@ -1,0 +1,79 @@
+{
+  "invoice_data": {
+    "invoice_number": "PHXN19616",
+    "invoice_date": "02/06/2026",
+    "invoice_amount": "458.37",
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": "3.95",
+    "po_number": [
+      "M413096467"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "Mckinney Trailer Rentals",
+    "vendor_address": "2601 Saturn St. Suite 110, Brea, CA 92821, United States",
+    "po_line_items": [
+      {
+        "description": "Roadside Assistance Fee",
+        "quantity": 1.0,
+        "net_price": 55.0
+      },
+      {
+        "description": "After hours service call to 562 N 40th St Phoenix, AZ for trailer PM",
+        "quantity": 2.0,
+        "net_price": 178.0
+      },
+      {
+        "description": "Miscellaneous/shop Supplies Fee",
+        "quantity": 1.0,
+        "net_price": 43.42
+      }
+    ],
+    "vat_amount": null,
+    "gl_account": null,
+    "bank_name": null,
+    "account_holder_name": null,
+    "banking_account_number": null,
+    "remit_to_address": null,
+    "bill_to_address": null,
+    "transaction_type": "debit"
+  },
+  "filename": "SAPS4_5100086017_US30_PFNAUS_2026_999872744.pdf",
+  "raw_response": {
+    "invoice_number": "PHXN19616",
+    "invoice_date": "02/06/2026",
+    "invoice_amount": "458.37",
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": "3.95",
+    "po_number": [
+      "M413096467"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "Mckinney Trailer Rentals",
+    "vendor_address": "2601 Saturn St. Suite 110, Brea, CA 92821, United States",
+    "po_line_items": [
+      {
+        "description": "Roadside Assistance Fee",
+        "quantity": 1.0,
+        "net_price": 55.0
+      },
+      {
+        "description": "After hours service call to 562 N 40th St Phoenix, AZ for trailer PM",
+        "quantity": 2.0,
+        "net_price": 178.0
+      },
+      {
+        "description": "Miscellaneous/shop Supplies Fee",
+        "quantity": 1.0,
+        "net_price": 43.42
+      }
+    ]
+  }
+}

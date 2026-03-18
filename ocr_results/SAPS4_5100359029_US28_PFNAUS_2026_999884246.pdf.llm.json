@@ -1,0 +1,69 @@
+{
+  "invoice_data": {
+    "invoice_number": "630987A",
+    "invoice_date": "02/11/2026",
+    "invoice_amount": "81.00",
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": null,
+    "po_number": [
+      "4504325946"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "FGL Environmental",
+    "vendor_address": "853 Corporation St, Santa Paula, CA 93060",
+    "po_line_items": [
+      {
+        "description": "Inorganic Analysis Wet Chemistry-TSS, BOD",
+        "quantity": 1.0,
+        "net_price": 73.0
+      },
+      {
+        "description": "Misc. Analysis Materials/Disposal",
+        "quantity": 1.0,
+        "net_price": 8.0
+      }
+    ],
+    "vat_amount": null,
+    "gl_account": null,
+    "bank_name": null,
+    "account_holder_name": null,
+    "banking_account_number": null,
+    "remit_to_address": null,
+    "bill_to_address": null,
+    "transaction_type": "debit"
+  },
+  "filename": "SAPS4_5100359029_US28_PFNAUS_2026_999884246.pdf",
+  "raw_response": {
+    "invoice_number": "630987A",
+    "invoice_date": "02/11/2026",
+    "invoice_amount": "81.00",
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": null,
+    "po_number": [
+      "4504325946"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "FGL Environmental",
+    "vendor_address": "853 Corporation St, Santa Paula, CA 93060",
+    "po_line_items": [
+      {
+        "description": "Inorganic Analysis Wet Chemistry-TSS, BOD",
+        "quantity": 1.0,
+        "net_price": 73.0
+      },
+      {
+        "description": "Misc. Analysis Materials/Disposal",
+        "quantity": 1.0,
+        "net_price": 8.0
+      }
+    ]
+  }
+}

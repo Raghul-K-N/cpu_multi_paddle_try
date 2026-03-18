@@ -1,0 +1,47 @@
+{
+  "invoice_data": {
+    "invoice_number": "18P118421",
+    "invoice_date": "12/1/2025",
+    "invoice_amount": "-45.57",
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": "3.95",
+    "po_number": [
+      "23523368"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "Nextran Truck Center - Madison",
+    "vendor_address": "13880 Alabama Hwy 20, Madison, AL 35726",
+    "po_line_items": null,
+    "vat_amount": null,
+    "gl_account": null,
+    "bank_name": null,
+    "account_holder_name": null,
+    "banking_account_number": null,
+    "remit_to_address": null,
+    "bill_to_address": null,
+    "transaction_type": "credit"
+  },
+  "filename": "SAPS4_5100797001_US30_PFNAUS_2026_999935862.pdf",
+  "raw_response": {
+    "invoice_number": "18P118421",
+    "invoice_date": "12/1/2025",
+    "invoice_amount": "-45.57",
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": "3.95",
+    "po_number": [
+      "23523368"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "Nextran Truck Center - Madison",
+    "vendor_address": "13880 Alabama Hwy 20, Madison, AL 35726",
+    "po_line_items": null
+  }
+}

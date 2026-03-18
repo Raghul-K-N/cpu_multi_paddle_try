@@ -1,0 +1,79 @@
+{
+  "invoice_data": {
+    "invoice_number": "470751",
+    "invoice_date": "06/05/2025",
+    "invoice_amount": "901.84",
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": "65.84",
+    "po_number": [
+      "470751"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "Modesto Steel",
+    "vendor_address": "P.O. BOX 5036 • 1424 N. EMERALD AVE. MODESTO, CA 95352",
+    "po_line_items": [
+      {
+        "description": "SHEET-AL 5052 080",
+        "quantity": 1.0,
+        "net_price": 4.4
+      },
+      {
+        "description": "SHEET-AL 5052 . 100",
+        "quantity": 1.0,
+        "net_price": 246.4
+      },
+      {
+        "description": "***QUOTATION ONLY VALID FOR SAME DATE ISSUED***",
+        "quantity": 1.0,
+        "net_price": 0.0
+      }
+    ],
+    "vat_amount": null,
+    "gl_account": null,
+    "bank_name": null,
+    "account_holder_name": null,
+    "banking_account_number": null,
+    "remit_to_address": null,
+    "bill_to_address": null,
+    "transaction_type": "debit"
+  },
+  "filename": "SAPS4_5100381540_US28_PFNAUS_2026_999706983.pdf",
+  "raw_response": {
+    "invoice_number": "470751",
+    "invoice_date": "06/05/2025",
+    "invoice_amount": "901.84",
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": "65.84",
+    "po_number": [
+      "470751"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "Modesto Steel",
+    "vendor_address": "P.O. BOX 5036 • 1424 N. EMERALD AVE. MODESTO, CA 95352",
+    "po_line_items": [
+      {
+        "description": "SHEET-AL 5052 080",
+        "quantity": 1.0,
+        "net_price": 4.4
+      },
+      {
+        "description": "SHEET-AL 5052 . 100",
+        "quantity": 1.0,
+        "net_price": 246.4
+      },
+      {
+        "description": "***QUOTATION ONLY VALID FOR SAME DATE ISSUED***",
+        "quantity": 1.0,
+        "net_price": 0.0
+      }
+    ]
+  }
+}

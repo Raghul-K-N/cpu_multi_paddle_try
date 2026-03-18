@@ -1,0 +1,89 @@
+{
+  "invoice_data": {
+    "invoice_number": "19812345",
+    "invoice_date": "2/12/2026",
+    "invoice_amount": "2,106.90",
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": null,
+    "po_number": [
+      "M413509398"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "Crystal Clean, LLC",
+    "vendor_address": "2000 Center Drive, Suite East C300, Hoffman Estates IL 60192, United States",
+    "po_line_items": [
+      {
+        "description": "1101 VAC LIQUID PICKUP",
+        "quantity": 1830.0,
+        "net_price": 1537.2
+      },
+      {
+        "description": "1110 ENERGY SURCHARGE - VAC",
+        "quantity": 1.0,
+        "net_price": 271.0
+      },
+      {
+        "description": "1103 VAC TRUCK STOP FEE (3 HR)",
+        "quantity": 1.0,
+        "net_price": 0.0
+      },
+      {
+        "description": "1102 VAC SOLIDS PICKUP",
+        "quantity": 102.0,
+        "net_price": 206.04
+      }
+    ],
+    "vat_amount": null,
+    "gl_account": null,
+    "bank_name": null,
+    "account_holder_name": null,
+    "banking_account_number": null,
+    "remit_to_address": null,
+    "bill_to_address": null,
+    "transaction_type": "debit"
+  },
+  "filename": "SAPS4_5100063575_US29_PFNAUS_2026_999930773.pdf",
+  "raw_response": {
+    "invoice_number": "19812345",
+    "invoice_date": "2/12/2026",
+    "invoice_amount": "2,106.90",
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": null,
+    "po_number": [
+      "M413509398"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "Crystal Clean, LLC",
+    "vendor_address": "2000 Center Drive, Suite East C300, Hoffman Estates IL 60192, United States",
+    "po_line_items": [
+      {
+        "description": "1101 VAC LIQUID PICKUP",
+        "quantity": 1830.0,
+        "net_price": 1537.2
+      },
+      {
+        "description": "1110 ENERGY SURCHARGE - VAC",
+        "quantity": 1.0,
+        "net_price": 271.0
+      },
+      {
+        "description": "1103 VAC TRUCK STOP FEE (3 HR)",
+        "quantity": 1.0,
+        "net_price": 0.0
+      },
+      {
+        "description": "1102 VAC SOLIDS PICKUP",
+        "quantity": 102.0,
+        "net_price": 206.04
+      }
+    ]
+  }
+}

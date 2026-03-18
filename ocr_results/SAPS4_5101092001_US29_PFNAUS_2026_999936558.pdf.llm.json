@@ -1,0 +1,43 @@
+{
+  "invoice_data": {
+    "invoice_number": "146983-87",
+    "invoice_date": "FEB 01, 2026",
+    "invoice_amount": "114.49",
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": "7.49",
+    "po_number": null,
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "TWC Services, Inc.",
+    "vendor_address": "PO Box 14496, WC, Des Moines, IA 50306-3496",
+    "po_line_items": null,
+    "vat_amount": null,
+    "gl_account": null,
+    "bank_name": null,
+    "account_holder_name": null,
+    "banking_account_number": null,
+    "remit_to_address": null,
+    "bill_to_address": null,
+    "transaction_type": "debit"
+  },
+  "filename": "SAPS4_5101092001_US29_PFNAUS_2026_999936558.pdf",
+  "raw_response": {
+    "invoice_number": "146983-87",
+    "invoice_date": "FEB 01, 2026",
+    "invoice_amount": "114.49",
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": "7.49",
+    "po_number": null,
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "TWC Services, Inc.",
+    "vendor_address": "PO Box 14496, WC, Des Moines, IA 50306-3496",
+    "po_line_items": null
+  }
+}

@@ -1,0 +1,67 @@
+{
+  "invoice_data": {
+    "invoice_number": "ON11-00875705",
+    "invoice_date": "01/20/26",
+    "invoice_amount": null,
+    "invoice_currency": null,
+    "tax_amount": null,
+    "po_number": [
+      "4504925208",
+      "DEL JEFF DIGGLE"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "REMIT MOTION INDUSTRIES, (CANADA) INC",
+    "vendor_address": "BRANCH ADDRESS, POSTAL STATION A, TORONTO, ON M5W 3W5",
+    "po_line_items": [
+      {
+        "description": "25 SERIES PRESSURE VALVE HST 10398 7889 RT0001",
+        "quantity": 1.0,
+        "net_price": 3941.49
+      },
+      {
+        "description": "Z66000 02478",
+        "quantity": 1.0,
+        "net_price": 525.39
+      }
+    ],
+    "vat_amount": null,
+    "gl_account": null,
+    "bank_name": null,
+    "account_holder_name": null,
+    "banking_account_number": null,
+    "remit_to_address": null,
+    "bill_to_address": null,
+    "transaction_type": "debit"
+  },
+  "filename": "SAPS4_5100017504_CA02_PBNACA_2026_328586824.pdf",
+  "raw_response": {
+    "invoice_number": "ON11-00875705",
+    "invoice_date": "01/20/26",
+    "invoice_amount": null,
+    "invoice_currency": null,
+    "tax_amount": null,
+    "po_number": [
+      "4504925208",
+      "DEL JEFF DIGGLE"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "REMIT MOTION INDUSTRIES, (CANADA) INC",
+    "vendor_address": "BRANCH ADDRESS, POSTAL STATION A, TORONTO, ON M5W 3W5",
+    "po_line_items": [
+      {
+        "description": "25 SERIES PRESSURE VALVE HST 10398 7889 RT0001",
+        "quantity": 1.0,
+        "net_price": 3941.49
+      },
+      {
+        "description": "Z66000 02478",
+        "quantity": 1.0,
+        "net_price": 525.39
+      }
+    ]
+  }
+}

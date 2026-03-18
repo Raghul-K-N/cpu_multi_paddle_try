@@ -1,0 +1,79 @@
+{
+  "invoice_data": {
+    "invoice_number": "159435292893",
+    "invoice_date": "08-JAN-26",
+    "invoice_amount": "216.37",
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": "45.01",
+    "po_number": [
+      "4504696638"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "CLOSURE SYSTEMS INTERNATIONAL",
+    "vendor_address": "PACKAGING MACHINERY, INC.\n1602 EAST ELMORE STREET\nCRAWFORDSVILLE, IN 47933\nP.O. Box 95988\nChicago, IL 60694-5988",
+    "po_line_items": [
+      {
+        "description": "PIN, CAP STOP GATE",
+        "quantity": 1.0,
+        "net_price": 152.25
+      },
+      {
+        "description": "NUT, HEX HEAVY, #1024, 188 SS",
+        "quantity": 1.0,
+        "net_price": 1.06
+      },
+      {
+        "description": "BELTING, URETHANE, 1/4 IN.",
+        "quantity": 3.61,
+        "net_price": 18.05
+      }
+    ],
+    "vat_amount": null,
+    "gl_account": null,
+    "bank_name": null,
+    "account_holder_name": null,
+    "banking_account_number": null,
+    "remit_to_address": null,
+    "bill_to_address": null,
+    "transaction_type": "debit"
+  },
+  "filename": "SAPS4_5101202001_CA02_PBNACA_2026_328615019.pdf",
+  "raw_response": {
+    "invoice_number": "159435292893",
+    "invoice_date": "08-JAN-26",
+    "invoice_amount": "216.37",
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": "45.01",
+    "po_number": [
+      "4504696638"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "CLOSURE SYSTEMS INTERNATIONAL",
+    "vendor_address": "PACKAGING MACHINERY, INC.\n1602 EAST ELMORE STREET\nCRAWFORDSVILLE, IN 47933\nP.O. Box 95988\nChicago, IL 60694-5988",
+    "po_line_items": [
+      {
+        "description": "PIN, CAP STOP GATE",
+        "quantity": 1.0,
+        "net_price": 152.25
+      },
+      {
+        "description": "NUT, HEX HEAVY, #1024, 188 SS",
+        "quantity": 1.0,
+        "net_price": 1.06
+      },
+      {
+        "description": "BELTING, URETHANE, 1/4 IN.",
+        "quantity": 3.61,
+        "net_price": 18.05
+      }
+    ]
+  }
+}

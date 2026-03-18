@@ -1,0 +1,59 @@
+{
+  "invoice_data": {
+    "invoice_number": "506372774",
+    "invoice_date": "01/31/2026",
+    "invoice_amount": "352.55",
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": "40.56",
+    "po_number": [
+      "M413540147"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "KONICA MINOLTA BUSINESS SOLUTIONS (Canada) Ltd.",
+    "vendor_address": "KONICA MINOLTA BUSINESS SOLUTIONS (Canada) Ltd.\nPO BOX # 4563 TORONTO STATION \"A\"\nTORONTO ON M5W 0H1",
+    "po_line_items": [
+      {
+        "description": "BIZHUB C360I COLOR A3 MFP/36 PPM",
+        "quantity": 1.0,
+        "net_price": 311.99
+      }
+    ],
+    "vat_amount": null,
+    "gl_account": null,
+    "bank_name": null,
+    "account_holder_name": null,
+    "banking_account_number": null,
+    "remit_to_address": null,
+    "bill_to_address": null,
+    "transaction_type": "debit"
+  },
+  "filename": "SAPS4_5100149511_CA02_PBNACA_2026_328615045.pdf",
+  "raw_response": {
+    "invoice_number": "506372774",
+    "invoice_date": "01/31/2026",
+    "invoice_amount": "352.55",
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": "40.56",
+    "po_number": [
+      "M413540147"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "KONICA MINOLTA BUSINESS SOLUTIONS (Canada) Ltd.",
+    "vendor_address": "KONICA MINOLTA BUSINESS SOLUTIONS (Canada) Ltd.\nPO BOX # 4563 TORONTO STATION \"A\"\nTORONTO ON M5W 0H1",
+    "po_line_items": [
+      {
+        "description": "BIZHUB C360I COLOR A3 MFP/36 PPM",
+        "quantity": 1.0,
+        "net_price": 311.99
+      }
+    ]
+  }
+}

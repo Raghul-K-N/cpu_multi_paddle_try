@@ -1,0 +1,59 @@
+{
+  "invoice_data": {
+    "invoice_number": "129896622",
+    "invoice_date": "10/29/25",
+    "invoice_amount": null,
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": "1.53",
+    "po_number": [
+      "23504725"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": "8.00",
+    "cost_center": null,
+    "vendor_name": "FleetPride",
+    "vendor_address": "P.O. BOX 847118, 129896622, DALLAS TX 75284-7118",
+    "po_line_items": [
+      {
+        "description": "4\"ROUND LENS SKYLIGHT CLR",
+        "quantity": 1.0,
+        "net_price": 11.4
+      }
+    ],
+    "vat_amount": null,
+    "gl_account": null,
+    "bank_name": null,
+    "account_holder_name": null,
+    "banking_account_number": null,
+    "remit_to_address": null,
+    "bill_to_address": null,
+    "transaction_type": "debit"
+  },
+  "filename": "SAPS4_5100122014_US30_PFNAUS_2026_999885269.pdf",
+  "raw_response": {
+    "invoice_number": "129896622",
+    "invoice_date": "10/29/25",
+    "invoice_amount": null,
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": "1.53",
+    "po_number": [
+      "23504725"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": "8.00",
+    "cost_center": null,
+    "vendor_name": "FleetPride",
+    "vendor_address": "P.O. BOX 847118, 129896622, DALLAS TX 75284-7118",
+    "po_line_items": [
+      {
+        "description": "4\"ROUND LENS SKYLIGHT CLR",
+        "quantity": 1.0,
+        "net_price": 11.4
+      }
+    ]
+  }
+}

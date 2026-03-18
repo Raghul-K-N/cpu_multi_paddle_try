@@ -1,0 +1,59 @@
+{
+  "invoice_data": {
+    "invoice_number": "506373215",
+    "invoice_date": "01/31/2026",
+    "invoice_amount": "241.00",
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": "25.82",
+    "po_number": [
+      "M413445126"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "KONICA MINOLTA BUSINESS SOLUTIONS (Canada) Ltd.",
+    "vendor_address": "747 CHESTER ROAD, DELTA BC V3M 6E7, CANADA",
+    "po_line_items": [
+      {
+        "description": "BIZHUB 454E",
+        "quantity": 1.0,
+        "net_price": 215.18
+      }
+    ],
+    "vat_amount": null,
+    "gl_account": null,
+    "bank_name": null,
+    "account_holder_name": null,
+    "banking_account_number": null,
+    "remit_to_address": null,
+    "bill_to_address": null,
+    "transaction_type": "debit"
+  },
+  "filename": "SAPS4_5101201023_CA02_PBNACA_2026_328615007.pdf",
+  "raw_response": {
+    "invoice_number": "506373215",
+    "invoice_date": "01/31/2026",
+    "invoice_amount": "241.00",
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": "25.82",
+    "po_number": [
+      "M413445126"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "KONICA MINOLTA BUSINESS SOLUTIONS (Canada) Ltd.",
+    "vendor_address": "747 CHESTER ROAD, DELTA BC V3M 6E7, CANADA",
+    "po_line_items": [
+      {
+        "description": "BIZHUB 454E",
+        "quantity": 1.0,
+        "net_price": 215.18
+      }
+    ]
+  }
+}

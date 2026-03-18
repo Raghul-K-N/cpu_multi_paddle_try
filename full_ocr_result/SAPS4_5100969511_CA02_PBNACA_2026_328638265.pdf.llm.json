@@ -1,0 +1,69 @@
+{
+  "invoice_data": {
+    "invoice_number": "515255012",
+    "invoice_date": "2026/01/31",
+    "invoice_amount": "24.67",
+    "invoice_currency": [
+      "CAD"
+    ],
+    "tax_amount": "2.84",
+    "po_number": [
+      "M412713724"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "lIPurolator",
+    "vendor_address": "PBC GRANDE PRAIRIE, 9915 38 AVE, COUNTY OF GRANDE PRAIRIE NO. 1 AB T8W 5A8",
+    "po_line_items": [
+      {
+        "description": "Purolator Express Pack",
+        "quantity": 1.0,
+        "net_price": 17.12
+      },
+      {
+        "description": "Fuel Surcharge",
+        "quantity": null,
+        "net_price": 4.71
+      }
+    ],
+    "vat_amount": null,
+    "gl_account": null,
+    "bank_name": null,
+    "account_holder_name": null,
+    "banking_account_number": null,
+    "remit_to_address": null,
+    "bill_to_address": null,
+    "transaction_type": "debit"
+  },
+  "filename": "SAPS4_5100969511_CA02_PBNACA_2026_328638265.pdf",
+  "raw_response": {
+    "invoice_number": "515255012",
+    "invoice_date": "2026/01/31",
+    "invoice_amount": "24.67",
+    "invoice_currency": [
+      "CAD"
+    ],
+    "tax_amount": "2.84",
+    "po_number": [
+      "M412713724"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "lIPurolator",
+    "vendor_address": "PBC GRANDE PRAIRIE, 9915 38 AVE, COUNTY OF GRANDE PRAIRIE NO. 1 AB T8W 5A8",
+    "po_line_items": [
+      {
+        "description": "Purolator Express Pack",
+        "quantity": 1.0,
+        "net_price": 17.12
+      },
+      {
+        "description": "Fuel Surcharge",
+        "quantity": null,
+        "net_price": 4.71
+      }
+    ]
+  }
+}

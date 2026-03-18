@@ -1,0 +1,69 @@
+{
+  "invoice_data": {
+    "invoice_number": "36206538",
+    "invoice_date": "2/12/2026",
+    "invoice_amount": "262.47",
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": "10.09",
+    "po_number": [
+      "4505122544"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": "24.10",
+    "cost_center": null,
+    "vendor_name": "FRITO-LAY, INC. (Orlando)",
+    "vendor_address": "PO BOX 1800, WINSTON SALEM NC 27105, US",
+    "po_line_items": [
+      {
+        "description": "PHOENIX CONTACT ELR H3-IES-SC-24DC/500AC- HYBRID MOTOR STARTER, STARTING 3 AC MOTORS UP TO 500 V AC AND 2.4 A OUTPUT CURRENT, 24 V DC CONTROL VOLTAGE, ADJUSTABLE OVERLOAD SHUTDOWN AND EMERGENCY STOP FUNCTION TO SIL 3/PL E, SCREW CONNECTIC (2900567)",
+        "quantity": 1.0,
+        "net_price": 213.0
+      },
+      {
+        "description": "PACKAGING AND HANDLING",
+        "quantity": 1.0,
+        "net_price": 15.0
+      }
+    ],
+    "vat_amount": null,
+    "gl_account": null,
+    "bank_name": null,
+    "account_holder_name": null,
+    "banking_account_number": null,
+    "remit_to_address": null,
+    "bill_to_address": null,
+    "transaction_type": "debit"
+  },
+  "filename": "SAPS4_5100294536_US28_PFNAUS_2026_999935156.pdf",
+  "raw_response": {
+    "invoice_number": "36206538",
+    "invoice_date": "2/12/2026",
+    "invoice_amount": "262.47",
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": "10.09",
+    "po_number": [
+      "4505122544"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": "24.10",
+    "cost_center": null,
+    "vendor_name": "FRITO-LAY, INC. (Orlando)",
+    "vendor_address": "PO BOX 1800, WINSTON SALEM NC 27105, US",
+    "po_line_items": [
+      {
+        "description": "PHOENIX CONTACT ELR H3-IES-SC-24DC/500AC- HYBRID MOTOR STARTER, STARTING 3 AC MOTORS UP TO 500 V AC AND 2.4 A OUTPUT CURRENT, 24 V DC CONTROL VOLTAGE, ADJUSTABLE OVERLOAD SHUTDOWN AND EMERGENCY STOP FUNCTION TO SIL 3/PL E, SCREW CONNECTIC (2900567)",
+        "quantity": 1.0,
+        "net_price": 213.0
+      },
+      {
+        "description": "PACKAGING AND HANDLING",
+        "quantity": 1.0,
+        "net_price": 15.0
+      }
+    ]
+  }
+}

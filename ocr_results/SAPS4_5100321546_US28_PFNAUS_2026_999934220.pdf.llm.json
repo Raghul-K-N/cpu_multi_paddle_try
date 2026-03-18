@@ -1,0 +1,75 @@
+{
+  "invoice_data": {
+    "invoice_number": "CA18-00839403",
+    "invoice_date": "02/04/26",
+    "invoice_amount": null,
+    "invoice_currency": null,
+    "tax_amount": null,
+    "po_number": [
+      "4504574856"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "REMIT MOTION INDUSTRIES, INC.",
+    "vendor_address": "1313 CHICAGO AVE, STE100, RIVERSIDE, CA 92507, PHONE: 9093579898, FAX 9093579897",
+    "po_line_items": [
+      {
+        "description": "T4-3006 PREM VINYL TAPE BLUE 4\"X140'",
+        "quantity": 2.0,
+        "net_price": 898.68
+      },
+      {
+        "description": "7861511 PREM RIBBON WHITE 8.66\"X492\"",
+        "quantity": 2.0,
+        "net_price": 1117.22
+      },
+      {
+        "description": "7861510 PREM RIBBON BLACK 8.66\"X492\"",
+        "quantity": 2.0,
+        "net_price": 1023.92
+      }
+    ],
+    "vat_amount": null,
+    "gl_account": null,
+    "bank_name": null,
+    "account_holder_name": null,
+    "banking_account_number": null,
+    "remit_to_address": null,
+    "bill_to_address": null,
+    "transaction_type": "debit"
+  },
+  "filename": "SAPS4_5100321546_US28_PFNAUS_2026_999934220.pdf",
+  "raw_response": {
+    "invoice_number": "CA18-00839403",
+    "invoice_date": "02/04/26",
+    "invoice_amount": null,
+    "invoice_currency": null,
+    "tax_amount": null,
+    "po_number": [
+      "4504574856"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "REMIT MOTION INDUSTRIES, INC.",
+    "vendor_address": "1313 CHICAGO AVE, STE100, RIVERSIDE, CA 92507, PHONE: 9093579898, FAX 9093579897",
+    "po_line_items": [
+      {
+        "description": "T4-3006 PREM VINYL TAPE BLUE 4\"X140'",
+        "quantity": 2.0,
+        "net_price": 898.68
+      },
+      {
+        "description": "7861511 PREM RIBBON WHITE 8.66\"X492\"",
+        "quantity": 2.0,
+        "net_price": 1117.22
+      },
+      {
+        "description": "7861510 PREM RIBBON BLACK 8.66\"X492\"",
+        "quantity": 2.0,
+        "net_price": 1023.92
+      }
+    ]
+  }
+}

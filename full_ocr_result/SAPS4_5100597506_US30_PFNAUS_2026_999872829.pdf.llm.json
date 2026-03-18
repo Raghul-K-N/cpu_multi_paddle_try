@@ -1,0 +1,79 @@
+{
+  "invoice_data": {
+    "invoice_number": "DALN63108",
+    "invoice_date": "02/04/2026",
+    "invoice_amount": "211.17",
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": "0.93",
+    "po_number": [
+      "M413096458"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "Mckinney Trailer Rentals",
+    "vendor_address": "2601 Saturn St. Suite 110, Brea, CA 92821, United States",
+    "po_line_items": [
+      {
+        "description": "Service Call on 1/29/26 to 1450 W Maricopa-Casa Grande Hwy, Casa Grande, AZ for air leak Checked for air leaks; Replaced spring brake priority valve due to bottom seal leaking air. Tested and confirmed operation. No further problems found at this time.",
+        "quantity": 2.0,
+        "net_price": 100.0
+      },
+      {
+        "description": "Fuel Surcharge",
+        "quantity": 1.0,
+        "net_price": 10.24
+      },
+      {
+        "description": "Parts",
+        "quantity": 1.0,
+        "net_price": 1.0
+      }
+    ],
+    "vat_amount": null,
+    "gl_account": null,
+    "bank_name": null,
+    "account_holder_name": null,
+    "banking_account_number": null,
+    "remit_to_address": null,
+    "bill_to_address": null,
+    "transaction_type": "debit"
+  },
+  "filename": "SAPS4_5100597506_US30_PFNAUS_2026_999872829.pdf",
+  "raw_response": {
+    "invoice_number": "DALN63108",
+    "invoice_date": "02/04/2026",
+    "invoice_amount": "211.17",
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": "0.93",
+    "po_number": [
+      "M413096458"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "Mckinney Trailer Rentals",
+    "vendor_address": "2601 Saturn St. Suite 110, Brea, CA 92821, United States",
+    "po_line_items": [
+      {
+        "description": "Service Call on 1/29/26 to 1450 W Maricopa-Casa Grande Hwy, Casa Grande, AZ for air leak Checked for air leaks; Replaced spring brake priority valve due to bottom seal leaking air. Tested and confirmed operation. No further problems found at this time.",
+        "quantity": 2.0,
+        "net_price": 100.0
+      },
+      {
+        "description": "Fuel Surcharge",
+        "quantity": 1.0,
+        "net_price": 10.24
+      },
+      {
+        "description": "Parts",
+        "quantity": 1.0,
+        "net_price": 1.0
+      }
+    ]
+  }
+}

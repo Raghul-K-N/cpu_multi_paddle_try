@@ -1,0 +1,59 @@
+{
+  "invoice_data": {
+    "invoice_number": "178264464",
+    "invoice_date": "2/5/2026",
+    "invoice_amount": "101.41",
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": "6.41",
+    "po_number": [
+      "M412782600"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "Crown Equipment Corporation",
+    "vendor_address": "4852 Gray Ln, Suite 12, Stow, OH 44224, Tel 440-232-7772, Fax 440-232-7752, crown.com",
+    "po_line_items": [
+      {
+        "description": "Material Not Available / MRO Repair and Maint - Mansfield BPO 2025",
+        "quantity": 95.0,
+        "net_price": 1.0
+      }
+    ],
+    "vat_amount": null,
+    "gl_account": null,
+    "bank_name": null,
+    "account_holder_name": null,
+    "banking_account_number": null,
+    "remit_to_address": null,
+    "bill_to_address": null,
+    "transaction_type": "debit"
+  },
+  "filename": "SAPS4_5101512500_US29_PFNAUS_2026_999930717.pdf",
+  "raw_response": {
+    "invoice_number": "178264464",
+    "invoice_date": "2/5/2026",
+    "invoice_amount": "101.41",
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": "6.41",
+    "po_number": [
+      "M412782600"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "Crown Equipment Corporation",
+    "vendor_address": "4852 Gray Ln, Suite 12, Stow, OH 44224, Tel 440-232-7772, Fax 440-232-7752, crown.com",
+    "po_line_items": [
+      {
+        "description": "Material Not Available / MRO Repair and Maint - Mansfield BPO 2025",
+        "quantity": 95.0,
+        "net_price": 1.0
+      }
+    ]
+  }
+}

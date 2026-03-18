@@ -1,0 +1,109 @@
+{
+  "invoice_data": {
+    "invoice_number": "6585584579",
+    "invoice_date": "12/16/2025",
+    "invoice_amount": "1,105.41",
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": "62.40",
+    "po_number": [
+      "23533951"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "BRIDGESTONE RIDGESTONE AMERICAS TIRE OPERATIONS, LLC",
+    "vendor_address": "00 4TH AVENUE SOUTH, SUITE 100, P.O. BOX 140990, NASHVILLE, TENNESSEE 37201, CHICAGO, IL 60673-7418, USA",
+    "po_line_items": [
+      {
+        "description": "R238 245/70R17.5 TLBLSTJK18",
+        "quantity": 1.0,
+        "net_price": 903.12
+      },
+      {
+        "description": "MOUNT TIRE, LT",
+        "quantity": 3.0,
+        "net_price": 7.0
+      },
+      {
+        "description": "DISMOUNT TIRE, LT",
+        "quantity": 3.0,
+        "net_price": 7.0
+      },
+      {
+        "description": "VALVE CAP, FLOW THRU",
+        "quantity": 3.0,
+        "net_price": 1.35
+      },
+      {
+        "description": "VALVE STEM, STEEL, TL MED",
+        "quantity": 1.0,
+        "net_price": 5.95
+      },
+      {
+        "description": "VALVE STEM, STEEL, ALUM WHL",
+        "quantity": 2.0,
+        "net_price": 7.0
+      }
+    ],
+    "vat_amount": null,
+    "gl_account": null,
+    "bank_name": null,
+    "account_holder_name": null,
+    "banking_account_number": null,
+    "remit_to_address": null,
+    "bill_to_address": null,
+    "transaction_type": "debit"
+  },
+  "filename": "SAPS4_5100003517_US30_PFNAUS_2026_999935739.pdf",
+  "raw_response": {
+    "invoice_number": "6585584579",
+    "invoice_date": "12/16/2025",
+    "invoice_amount": "1,105.41",
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": "62.40",
+    "po_number": [
+      "23533951"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "BRIDGESTONE RIDGESTONE AMERICAS TIRE OPERATIONS, LLC",
+    "vendor_address": "00 4TH AVENUE SOUTH, SUITE 100, P.O. BOX 140990, NASHVILLE, TENNESSEE 37201, CHICAGO, IL 60673-7418, USA",
+    "po_line_items": [
+      {
+        "description": "R238 245/70R17.5 TLBLSTJK18",
+        "quantity": 1.0,
+        "net_price": 903.12
+      },
+      {
+        "description": "MOUNT TIRE, LT",
+        "quantity": 3.0,
+        "net_price": 7.0
+      },
+      {
+        "description": "DISMOUNT TIRE, LT",
+        "quantity": 3.0,
+        "net_price": 7.0
+      },
+      {
+        "description": "VALVE CAP, FLOW THRU",
+        "quantity": 3.0,
+        "net_price": 1.35
+      },
+      {
+        "description": "VALVE STEM, STEEL, TL MED",
+        "quantity": 1.0,
+        "net_price": 5.95
+      },
+      {
+        "description": "VALVE STEM, STEEL, ALUM WHL",
+        "quantity": 2.0,
+        "net_price": 7.0
+      }
+    ]
+  }
+}

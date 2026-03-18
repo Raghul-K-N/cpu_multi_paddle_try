@@ -1,0 +1,308 @@
+==================================<Page 1 - START>================================
+Standard Invoice
+                                                                                                                    odp
+Original tax invoice has been submitted electronically. This is a
+human readable representation (copy) of the original tax invoice.
+                                                                 Invoice Number                                      459541234001
+                                                                 (Supplier Reference No.)
+                                                                                             Thursday 12 Feb 2026 12:00 PM GMT-05:00
+                                                                 Invoice Date
+                                                                 Amount Due                                          $75.18 USD
+     Contact Information                                                        Shipping Information
+    Supplier
+                                  Customer                                  Ship From                     Ship To
+     ODP BUSINESS SOLUTIONS,
+                                  ROLLING FRITO-LAY SALES                    ODP BUSINESS SOLUTIONS,       US-DC-MEMPHIS-TN-RFLS
+     LLC
+                                  5310 AIRWAYS BLVD                         LLC                          5310 AIRWAYS BLVD
+     6600 North Military Trail            MEMPHIS                                                              MEMPHIS
+     Boca Raton                    TN                                                                   TN
+     FL                          381169402                                                             381169402
+     33496                       United States                                                            United States
+     US                                                                                               Address ID: 2513
+                                                                                                              PO Date : 12 Feb 2026
+   Line Items                                             PO No. : M413554341
+                                                                                      Quantity            Unit Price         Subtotal
+   Line No.    PO Line No.         Type   Supplier Part No. /             Customer Part No.
+                                                                                      (UOM)
+                                       Description
+                               Material 708646/                                         1 / (EA)           $26.08 USD
+   1        1
+                                       WEBCAM.HD.C270.LOGITECH
+                                                                                                                         Subtotal
+                                       Supplier Part No. /             Customer Part No.        Quantity            Unit Price
+   Line No.    PO Line No.          Type
+                                       Description                                       (UOM)
+                                                                                      1 / (BX)            $4.00 USD
+   2        2                Material 892898 / HIGHLIGHTER.BRITE
+                                       LINERAST.24
+                               Type   Supplier Part No. /             Customer Part No.        Quantity            Unit Price         Subtotal
+    Line No.    PO Line No.
+                                       Description                                       (UOM)
+                                                                                                      $13.99 USD
+                                Material 203349 /                                         1 / (DZN)
+    3        3
+                                       MARKER,SHARPIE,FINE.DZ.BLACK
+                                                                                      Quantity            Unit Price         Subtotal
+    Line No.   PO Line No.         Type   Supplier Part No. /             Customer Part No.
+                                       Description                                       (UOM)
+                                Material  6685227 /                                        1 / (PK)           $6.59 USD
+    4        5
+                                       PEN.SHARPE.SGEL,GRNBRL.BLK.4PK
+                                                                                                        Unit Price         Subtotal
+              PO Line No.         Type   Supplier Part No. /             Customer Part No.        Quantity
+    Line No.                                                                           (UOM)
+                                       Description
+                                Material 887315/                                        1 / (EA)           $8.00 USD
+    5        6
+                                       DISPENSER,TAPE,SEALING
+                                                                                      Quantity            Unit Price         Subtotal
+              PO Line No.         Type   Supplier Part No. /             Customer Part No.
+    Line No.                                                                           (UOM)
+                                       Description
+                                Material 520328 / DISPENSER,DESK,1                          1 / (EA)           $1.66 USD
+    6        7
+                                       CORE,BLACK
+              PO Line No.         Type   Supplier Part No. /             Customer Part No.        Quantity            Unit Price         Subtotal
+    Line No.
+                                       Description                                       (UOM)
+                               Material 8013113/                                        1 / (DZN)          $8.18 USD
+    7        8
+                                       SHARPIE,GEL,0.7MM,12OS,BLACK
+       Tax Summary
+                            Details                         Base Amount               Rate %
+       Category                                                                                     Amount
+       Sales Tax                                                                    9.75%           $6.68 USD
+                                                                             Amount Summary
+                                                                             Line item subtotal
+                                                                                                                     $68.50 USD
+                                                                             Gross amount
+                                                                                                                     $75.18 USD
+                                                                             Net amount                               $75.18 USD
+                                                                             Total tax amount
+                                                                                                                      $6.68 USD
+                                                                             Total withholding tax amount
+                                                                             Amount Due                               $75.18 USD
+      Additional Information
+      invoice due date
+     20260513
+     Billing Information                                                        Remittance Information
+     Bill To
+                                                                         Remit To
+     PEPSICO INC ARIBA                                                     ODP BUSINESS SOLUTIONS.
+     700 ANDERSON HILL RD                                                  LLC
+     PURCHASE
+                                                                         PO BOX 633204
+     NY
+                                                                         CINCINNATI
+     105771444
+                                                                         OH
+     United States
+                                                                         45263-3204
+     Address ID: 47140624                                                    United States
+  Payment Terms
+                                                                     Reference Documents
+  Net payment Terms (Days) :
+                                                                      Original Supplier Order #: 459541234001
+  90
+==================================<Page 1 - END>================================
+==================================<Page 2 - START>================================
+  Appendix
+  Line No.    PO Line No. Type
+                                                        Supplier Part No. / Description
+   1
+              1         Material
+                                                        708646 / WEBCAM,HD,C270,LOGITECH
+  Additional Details:
+  Supplier Part ID : 708646
+  UNSPSC : 45121520
+  Line No.
+             PO Line No. Type                           Supplier Part No. / Description
+  2
+             2         Material                         892898 / HIGHLIGHTER,BRITE LINERAST,24
+  Additional Details:
+  Supplier Part ID : 892898
+  UNSPSC : 44121716
+  Line No.    PO Line No. Type                           Supplier Part No. / Description
+  3         3         Material                         203349 / MARKER,SHARPIE,FINE,DZ,BLACK
+  Additional Details:
+  Supplier Part ID : 203349
+  UNSPSC : 44121708
+  Line No.    PO Line No. Type                           Supplier Part No. / Description
+  4         5         Material                         6685227 / PEN,SHARPE,SGEL,GRNBRL,BLK,4PK
+  Additional Details:
+  Supplier Part ID : 6685227
+  UNSPSC : 44121701
+  Line No.    PO Line No. Type                            Supplier Part No. / Description
+  5         6         Material                         887315 / DISPENSER,TAPE,SEALING
+ Additional Details:
+ Supplier Part ID : 887315
+  UNSPSC : 24102202
+ Line No.    PO Line No. Type                            Supplier Part No. / Description
+                       Material
+ 6         7                                         520328 / DISPENSER,DESK,1 CORE,BLACK
+ Additional Details:
+ Supplier Part ID : 520328
+ UNSPSC : 44121605
+Line No.    PO Line No. Type                            Supplier Part No. / Description
+ 7
+            8         Material                         8013113 / SHARPIE,GEL,0.7MM,12OS,BLACK
+Additional Details:
+ Supplier Part ID : 8013113
+UNSPSC : 44121701
+PDF generated on Friday 13 Feb 2026 12:35 PM GMT-08:00
+==================================<Page 2 - END>================================
+==================================<Page 3 - START>================================
+Standard Invoice
+                                                                                                                     odp
+Original tax invoice has been submitted electronically. This is a
+human readable representation (copy) of the original tax invoice.
+                                                                 Invoice Number                                      459541234001
+                                                                 (Supplier Reference No.)
+                                                                                              Thursday 12 Feb 2026 12:00 PM GMT-05:00
+                                                                 Invoice Date
+                                                                 Amount Due                                          $75.18 USD
+     Contact Information                                                        Shipping Information
+     Supplier
+                                  Customer                                  Ship From                     Ship To
+     ODP BUSINESS SOLUTIONS,
+                                  ROLLING FRITO-LAY SALES                    ODP BUSINESS SOLUTIONS,       US-DC-MEMPHIS-TN-RFLS
+     LLC
+                                  5310 AIRWAYS BLVD                         LLC                          5310 AIRWAYS BLVD
+      6600 North Military Trail            MEMPHIS                                                              MEMPHIS
+      Boca Raton                    TN                                                                   TN
+      FL                          381169402                                                             381169402
+      33496                       United States                                                            United States
+      US                                                                                               Address ID: 2513
+                                                                                                               PO Date : 12 Feb 2026
+    Line Items                                             PO No. : M413554341
+                                                                                       Quantity            Unit Price         Subtotal
+    Line No.    PO Line No.         Type   Supplier Part No. /             Customer Part No.
+                                                                                       (UOM)
+                                        Description
+                                Material 708646/                                         1 / (EA)           $26.08 USD
+    1        1
+                                        WEBCAM.HD.C270.LOGITECH
+                                                                                                                         Subtotal
+                                        Supplier Part No. /             Customer Part No.        Quantity            Unit Price
+    Line No.    PO Line No.          Type
+                                        Description                                       (UOM)
+                                                                                       1 / (BX)            $4.00 USD
+    2        2                Material 892898 / HIGHLIGHTER.BRITE
+                                        LINERAST.24
+                                Type   Supplier Part No. /             Customer Part No.        Quantity            Unit Price         Subtotal
+    Line No.    PO Line No.
+                                        Description                                       (UOM)
+                                                                                                       $13.99 USD
+                                Material 203349 /                                         1 / (DZN)
+    3        3
+                                        MARKER,SHARPIE,FINE.DZ.BLACK
+                                                                                      Quantity            Unit Price         Subtotal
+    Line No.   PO Line No.         Type   Supplier Part No. /             Customer Part No.
+                                        Description                                       (UOM)
+                                Material  6685227 /                                        1 / (PK)           $6.59 USD
+    4        5
+                                        PEN.SHARPE.SGEL,GRNBRL.BLK.4PK
+                                                                                                        Unit Price         Subtotal
+              PO Line No.         Type   Supplier Part No. /             Customer Part No.        Quantity
+    Line No.                                                                           (UOM)
+                                        Description
+                                Material 887315/                                        1 / (EA)           $8.00 USD
+    5        6
+                                        DISPENSER,TAPE,SEALING
+                                                                                      Quantity            Unit Price         Subtotal
+              PO Line No.         Type   Supplier Part No. /             Customer Part No.
+    Line No.                                                                           (UOM)
+                                       Description
+                                Material 520328 / DISPENSER,DESK,1                          1 / (EA)           $1.66 USD
+    6        7
+                                       CORE,BLACK
+              PO Line No.         Type   Supplier Part No. /             Customer Part No.        Quantity            Unit Price         Subtotal
+    Line No.
+                                        Description                                       (UOM)
+                                Material 8013113/                                        1 / (DZN)          $8.18 USD
+    7        8
+                                        SHARPIE,GEL,0.7MM,12OS,BLACK
+        Tax Summary
+                            Details                         Base Amount               Rate %
+        Category                                                                                     Amount
+        Sales Tax                                                                    9.75%           $6.68 USD
+                                                                              Amount Summary
+                                                                              Line item subtotal
+                                                                                                                      $68.50 USD
+                                                                              Gross amount
+                                                                                                                      $75.18 USD
+                                                                              Net amount                               $75.18 USD
+                                                                              Total tax amount
+                                                                                                                      $6.68 USD
+                                                                              Total withholding tax amount
+                                                                              Amount Due                               $75.18 USD
+      Additional Information
+      invoice due date
+      20260513
+      Billing Information                                                        Remittance Information
+      Bill To
+                                                                          Remit To
+      PEPSICO INC ARIBA                                                     ODP BUSINESS SOLUTIONS.
+      700 ANDERSON HILL RD                                                  LLC
+      PURCHASE
+                                                                          PO BOX 633204
+      NY
+                                                                          CINCINNATI
+      105771444
+                                                                         OH
+      United States
+                                                                         45263-3204
+      Address ID: 47140624                                                    United States
+   Payment Terms
+                                                                      Reference Documents
+   Net payment Terms (Days) :
+                                                                      Original Supplier Order #: 459541234001
+   90
+==================================<Page 3 - END>================================
+==================================<Page 4 - START>================================
+  Appendix
+  Line No.    PO Line No. Type
+                                                        Supplier Part No. / Description
+   1
+              1         Material
+                                                        708646 / WEBCAM,HD,C270,LOGITECH
+  Additional Details:
+  Supplier Part ID : 708646
+  UNSPSC : 45121520
+  Line No.
+             PO Line No. Type                           Supplier Part No. / Description
+  2
+             2         Material                         892898 / HIGHLIGHTER,BRITE LINERAST,24
+  Additional Details:
+  Supplier Part ID : 892898
+  UNSPSC : 44121716
+  Line No.    PO Line No. Type                           Supplier Part No. / Description
+  3         3         Material                         203349 / MARKER,SHARPIE,FINE,DZ,BLACK
+  Additional Details:
+  Supplier Part ID : 203349
+  UNSPSC : 44121708
+  Line No.    PO Line No. Type                           Supplier Part No. / Description
+  4         5         Material                         6685227 / PEN,SHARPE,SGEL,GRNBRL,BLK,4PK
+  Additional Details:
+  Supplier Part ID : 6685227
+  UNSPSC : 44121701
+  Line No.    PO Line No. Type                            Supplier Part No. / Description
+  5         6         Material                         887315 / DISPENSER,TAPE,SEALING
+ Additional Details:
+ Supplier Part ID : 887315
+  UNSPSC : 24102202
+ Line No.    PO Line No. Type                            Supplier Part No. / Description
+                       Material
+ 6         7                                         520328 / DISPENSER,DESK,1 CORE,BLACK
+ Additional Details:
+ Supplier Part ID : 520328
+ UNSPSC : 44121605
+Line No.    PO Line No. Type                            Supplier Part No. / Description
+ 7
+            8         Material                         8013113 / SHARPIE,GEL,0.7MM,12OS,BLACK
+Additional Details:
+ Supplier Part ID : 8013113
+UNSPSC : 44121701
+PDF generated on Friday 13 Feb 2026 12:35 PM GMT-08:00
+==================================<Page 4 - END>================================

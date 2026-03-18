@@ -1,0 +1,191 @@
+==================================<Page 1 - START>================================
+     OpenText Workflow History
+     Vendor
+     JILL ANNETTE SNEAD
+     1400 LONESOME WHISTLE RD
+      RYE     81069-8886
+     USA
+      Invoice
+      Reference        1232026
+                                                                 Document Date    23.01.2026
+     DP Document No.
+                        39233776                                 Net Amount
+                                                                                   USD          1,181.25
+     Comp. Code
+                        US29 Rolling Frito-Lay Sales             Tax Amount
+                                                                                   USD               0.00
+     Posting Date     13.02.2026
+                                                                 Gross Amount     USD
+                                                                                                1,181.25
+     SAP Document No. 1900016005 2026
+                                             Pre-Process History
+      ACTIVITY
+                                                            USER       END TIME          DOCUMENT STATUS
+      Update status
+                                                            VRBLAOT_U  03.02.2026        Validation
+                                                            SR
+                                                                        14:56:18          Complete
+                                         Document Process History
+     ACTIVITY
+                       PROCESS TYPE/BLOCK REASON          USER        END TIME          DOCUMENT STATUS
+    BC Inbound
+                                                            VRBLAOT_U  03.02.2026        Document
+                                                            SR          14:53:59          Registered
+    Workflow Start   Invalid Requestor ID (NPO)         Record to  03.02.2026        Created
+                                                            Report      14:56:18
+                                                            Batch
+                                                            Account
+                                                            Owner:
+   Apply Business
+                      Invalid Requestor ID (NPO)          NAVINKUMA  11.02.2026        Created
+   Rules
+                                                            RR         17:58:17
+  Comment:
+  Changed By:   NAVINKUMAR R (09336939)
+  Changed On:   02/11/2026 17:58:15
+ *********************************************************************
+Please approve and mandatory details to process
+Business Rules    Approval Required (NPo)             SAP_WFRT    11.02.2026
+                                                                                            Indexed
+Check in BG                                                          17:58:22
+   Invoice submitted for Approval                                    11.02.2026 17:58:22
+   Financial Information Entered
+                                                            ZACH        12.02.2026 15:14:33
+                                                            EBERHART
+  Data Entered and Invoice Approved                    ZACH        12.02.2026 15:15:09
+                                                            EBERHART
+  Invoice Approved
+                                                            DONALD      12.02.2026 15:23:38
+                                                            PEDEN
+Approval          Approval Required (NPO)             SAP_WFRT    12.02.2026        Approval
+Workflow                                                              15:23:43          Complete
+==================================<Page 1 - END>================================
+==================================<Page 2 - START>================================
+  OpenText Workflow History
+  Invoice
+  Vendor
+                     JILL ANNETTE SNEAD RYE
+                     1232026                             Gross Amount
+  Reference                                                                USD        1,181.25
+                               Document Process History - Continuation
+   ACTIVITY          PROCESS TYPE/BLOCK REASON          USER        END TIME          DOCUMENT STATUS
+                      Process Non-PO Invoice (NPO)        SAP_WFRT   12.02.2026        Approval
+   Business Rules
+   Check in BG                                                         15:23:46          Complete
+   Create Doc. BG   Process Non-PO Invoice (NPo)        SAP_WFRT    12.02.2026        Sent for Doc
+                                                                        15:23:47          Creation
+   Post Non-PO      Process Non-PO Invoice (NPO)        BOOBALAN    13.02.2026        Document
+   Invoice                                                BALAJI      13:03:38          Created
+                                                            SAP_WFRT    13.02.2026        Posted
+  SAP Document
+  Check                                                               13:03:45
+==================================<Page 2 - END>================================
+==================================<Page 3 - START>================================
+        PEPSICO
+  Instructions:When there is not an "Ojficial" Invoice to request payment, complete the information on this form.
+  1You must fill in all of the fields below and the form must be accompanied with supporting documentation.
+  2.Save submission as 1 single PDF file prior to submitting to nassapinvoicesubmission@pepsico.com
+ The form can be used for the following invoice/payment type activity: Taxes/Legal Settlements/Business Licenses/Fines/Donation/sponsorship.
+             SAP Payment Request
+                                                                      To be filled by Requestor
+        Substitute Invoice Form
+Vendor Type                                       S4
+Vendor Name:                                      JILL SNEAD
+Vendor Number:                                    2003176291
+Company Code:                                     US29
+Remit To Address :                                   JILL SNEAD
+(Must match the address in the AP system)
+                                                  1400 LONESOME WHISTLE ROAD
+                                                  RYE, CO 81069
+Special Handling needed:
+Attn:
+Address:
+Overnight delivery required:
+(if yes provide account # or CC below)
+FedEx or UPS, & Provide Number:
+FedEx or UPS account #
+Cost Center (If No FedEx/UPs Number):
+Trnsaction type:
+                                                 Invoice
+Choose only 1 option - Invoice or Credit Memo from the dropdown
+Invoice Date:                                      1/23/2026
+Invoice #:
+                                                 1232026
+Limited to 16 characters
+Purchase Order #
+Not required if non-PO
+                                                 $1,181.25
+Payment GROsS Amount:
+Tax Amount
+(if applicable)
+Payment NET Amount:                                $1,181.25
+Currency (USD or CAD)                                USD
+Header Text:                                       CONTRACTOR WORK JAN 12 - JAN 23, 2026
+                                                 ZACH EBERHART
+Requestor Name:
+Requestor email                                    zach.eberhart@pepsico.com/80064132
+                                                 DEAN PEDEN
+1st Level Approver Name
+                                                 Dean.Peden@pepsico.com/03190154
+1st Level Approver Email id/GPID
+                                                 2/2/2026
+Date Requested:
+                                                 645280
+GL Coding (6 digits)
+                                                 2358300400
+Cost Center (if applicable)
+Profit Center (if applicable)
+WBS Element (if applicable)
+For Assistance On This Form submission please contact:
+                                                 PepsiCo - Sign In
+Raise service now ticket(Snow)
+==================================<Page 3 - END>================================
+==================================<Page 4 - START>================================
+                         INVOICE #01232026
+TO:       FRITO-LAY                              Date: 1/23/26
+            DEAN PEDEN
+           7701 LEGACY DRIVE
+            PLANO, TX 75024
+REMIT TO:
+           FL VENDOR V# 2003176291
+            JILL SNEAD
+            1400 Lonesome Whistle Road
+            Rye, CO 81069
+            jillasnead77@gmail.com
+                                                            Cost
+   1/23/26  CONTRACTOR WORK JAN 12 - JAN 23                $1,181.25
+                                                     Total  $1,181.25
+                 THANK YOU FOR YOUR BUSINESS!
+==================================<Page 4 - END>================================
+==================================<Page 5 - START>================================
+           From: SPA - PepsiCo Nass AP Invoice Submission <nassapInvoiceSubmission@pepsico.com>
+           Sent: Mon, 2 Feb 2026 20:47:31 (UTC)
+           To: svcimagingspaboxprod@pepsico.com
+           Subject: FW: Snead Invoice 1232026
+           Original Number of Attachments : 1
+           Original Attachment Names: FL SNEAD INVOICE 01232026.pdf
+           Number of forwarded PDF's: 1
+           Number of forwarded Non PDF files: 0
+           From: Snead, Jill - Contractor {FLNA} <Jill.Snead.Contractor@pepsico.com>
+            Sent: Monday, February 2, 2026 8:46:12 PM
+            To: SPA - PepsiCo Nass AP Invoice Submission <nassaplnvoiceSubmission@pepsico.com>
+            Cc: Peden, Dean {PEP} <Dean.Peden@pepsico.com>; Eberhart, Zach {PEP}
+            <Zach.Eberhart@pepsico.com>
+            Subject: Snead Invoice 1232026
+            Please process.
+            Payment NET Amount: $1,181.25
+            Currency (USD or CAD) USD
+            Header Text: CONTRACTOR WORK JAN 12 - JAN 23, 2026
+            Requestor Name: ZACH EBERHART
+            Requestor email zach.eberhart@pepsico.com/80064132
+            1st Level Approver Name DEAN PEDEN
+            1st Level Approver Email id/GPID Dean.Peden@pepsico.com/03190154
+            Date Requested: 2/2/2026
+            GL Coding (6 digits) 645280
+            Cost Center (If applicable) 2358300400
+           Kind regards,
+           Jill
+           Jill Snead-Williams
+           Frito-Lay Contractor
+           214-695-1166
+==================================<Page 5 - END>================================

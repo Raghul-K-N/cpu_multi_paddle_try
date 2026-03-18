@@ -1,0 +1,69 @@
+{
+  "invoice_data": {
+    "invoice_number": "I1021803",
+    "invoice_date": "09/19/25",
+    "invoice_amount": "161.88",
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": "9.29",
+    "po_number": [
+      "W02204"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "HANTOVER, INC.",
+    "vendor_address": "11880 College Blvd Ste 550, Overland Park, KS 66210",
+    "po_line_items": [
+      {
+        "description": "GLOVE VITRILE BLUE X-LARGE",
+        "quantity": 120.0,
+        "net_price": 118.8
+      },
+      {
+        "description": "GLOVE VITRILE BLUE LARGE",
+        "quantity": 30.0,
+        "net_price": 29.7
+      }
+    ],
+    "vat_amount": null,
+    "gl_account": null,
+    "bank_name": null,
+    "account_holder_name": null,
+    "banking_account_number": null,
+    "remit_to_address": null,
+    "bill_to_address": null,
+    "transaction_type": "debit"
+  },
+  "filename": "SAPS4_5100126013_US28_PFNAUS_2026_999875665.pdf",
+  "raw_response": {
+    "invoice_number": "I1021803",
+    "invoice_date": "09/19/25",
+    "invoice_amount": "161.88",
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": "9.29",
+    "po_number": [
+      "W02204"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "HANTOVER, INC.",
+    "vendor_address": "11880 College Blvd Ste 550, Overland Park, KS 66210",
+    "po_line_items": [
+      {
+        "description": "GLOVE VITRILE BLUE X-LARGE",
+        "quantity": 120.0,
+        "net_price": 118.8
+      },
+      {
+        "description": "GLOVE VITRILE BLUE LARGE",
+        "quantity": 30.0,
+        "net_price": 29.7
+      }
+    ]
+  }
+}

@@ -1,0 +1,59 @@
+{
+  "invoice_data": {
+    "invoice_number": "129068061",
+    "invoice_date": "09/26/25",
+    "invoice_amount": "38.66",
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": "2.36",
+    "po_number": [
+      "23481937"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": "0.00",
+    "cost_center": null,
+    "vendor_name": "FleetPride",
+    "vendor_address": "FLEETPRIDE, PO BOX 847118, DALLAS TX 75284-7118",
+    "po_line_items": [
+      {
+        "description": "H7 BASIC HALOGEN BULB (PK)",
+        "quantity": 11.0,
+        "net_price": 3.3
+      }
+    ],
+    "vat_amount": null,
+    "gl_account": null,
+    "bank_name": null,
+    "account_holder_name": null,
+    "banking_account_number": null,
+    "remit_to_address": null,
+    "bill_to_address": null,
+    "transaction_type": "debit"
+  },
+  "filename": "SAPS4_5100100551_US29_PFNAUS_2026_999884860.pdf",
+  "raw_response": {
+    "invoice_number": "129068061",
+    "invoice_date": "09/26/25",
+    "invoice_amount": "38.66",
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": "2.36",
+    "po_number": [
+      "23481937"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": "0.00",
+    "cost_center": null,
+    "vendor_name": "FleetPride",
+    "vendor_address": "FLEETPRIDE, PO BOX 847118, DALLAS TX 75284-7118",
+    "po_line_items": [
+      {
+        "description": "H7 BASIC HALOGEN BULB (PK)",
+        "quantity": 11.0,
+        "net_price": 3.3
+      }
+    ]
+  }
+}

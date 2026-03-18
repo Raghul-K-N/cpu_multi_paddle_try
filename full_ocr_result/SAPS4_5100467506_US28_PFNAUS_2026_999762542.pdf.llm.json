@@ -1,0 +1,69 @@
+{
+  "invoice_data": {
+    "invoice_number": "2806306",
+    "invoice_date": "February 3, 2026",
+    "invoice_amount": null,
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": null,
+    "po_number": [
+      "S014696063.001"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "supplyFORCE",
+    "vendor_address": "700 American Avenue, St 300, KING OF PRUSSIA PA 19406-1434, 866-776-8289 Fax 484-322-7100, EIN # 23-3017555, GST # 86567 2521, QST # 1212529181, PO Box 788581, PHILADELPHIA PA 19178",
+    "po_line_items": [
+      {
+        "description": "HG+100F-MF1-7-6H1-1K00 PERMOT VPL-B1303F GEARBX;7:1,5500RPM,HOLW",
+        "quantity": 1.0,
+        "net_price": 3199.37
+      },
+      {
+        "description": "FREIGHT",
+        "quantity": 1.0,
+        "net_price": 31.53
+      }
+    ],
+    "vat_amount": null,
+    "gl_account": null,
+    "bank_name": null,
+    "account_holder_name": null,
+    "banking_account_number": null,
+    "remit_to_address": null,
+    "bill_to_address": null,
+    "transaction_type": "debit"
+  },
+  "filename": "SAPS4_5100467506_US28_PFNAUS_2026_999762542.pdf",
+  "raw_response": {
+    "invoice_number": "2806306",
+    "invoice_date": "February 3, 2026",
+    "invoice_amount": null,
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": null,
+    "po_number": [
+      "S014696063.001"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "supplyFORCE",
+    "vendor_address": "700 American Avenue, St 300, KING OF PRUSSIA PA 19406-1434, 866-776-8289 Fax 484-322-7100, EIN # 23-3017555, GST # 86567 2521, QST # 1212529181, PO Box 788581, PHILADELPHIA PA 19178",
+    "po_line_items": [
+      {
+        "description": "HG+100F-MF1-7-6H1-1K00 PERMOT VPL-B1303F GEARBX;7:1,5500RPM,HOLW",
+        "quantity": 1.0,
+        "net_price": 3199.37
+      },
+      {
+        "description": "FREIGHT",
+        "quantity": 1.0,
+        "net_price": 31.53
+      }
+    ]
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "invoice_data": {
+    "invoice_number": "BOI1-004853",
+    "invoice_date": "2/3/2026",
+    "invoice_amount": null,
+    "invoice_currency": null,
+    "tax_amount": null,
+    "po_number": [
+      "M413509285"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "Vestis First Aid & Safety Lockbox",
+    "vendor_address": "P.O. Box 734514, Dallas, TX 75373-4514",
+    "po_line_items": null,
+    "vat_amount": null,
+    "gl_account": null,
+    "bank_name": null,
+    "account_holder_name": null,
+    "banking_account_number": null,
+    "remit_to_address": null,
+    "bill_to_address": null,
+    "transaction_type": "debit"
+  },
+  "filename": "SAPS4_5100330001_US29_PFNAUS_2026_999885129.pdf",
+  "raw_response": {
+    "invoice_number": "BOI1-004853",
+    "invoice_date": "2/3/2026",
+    "invoice_amount": null,
+    "invoice_currency": null,
+    "tax_amount": null,
+    "po_number": [
+      "M413509285"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "Vestis First Aid & Safety Lockbox",
+    "vendor_address": "P.O. Box 734514, Dallas, TX 75373-4514",
+    "po_line_items": null
+  }
+}

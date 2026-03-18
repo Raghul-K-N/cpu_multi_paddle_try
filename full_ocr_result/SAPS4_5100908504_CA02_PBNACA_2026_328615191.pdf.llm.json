@@ -1,0 +1,59 @@
+{
+  "invoice_data": {
+    "invoice_number": "6621539695",
+    "invoice_date": "02/03/2026",
+    "invoice_amount": null,
+    "invoice_currency": [
+      "CAD"
+    ],
+    "tax_amount": null,
+    "po_number": [
+      "M413525011"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "ECOLAB",
+    "vendor_address": "Ecolab GST/HST 88866 3390 RC0005",
+    "po_line_items": [
+      {
+        "description": "MIP LIQUID 123-1 1150L",
+        "quantity": 1.0,
+        "net_price": 1556.43
+      }
+    ],
+    "vat_amount": null,
+    "gl_account": null,
+    "bank_name": null,
+    "account_holder_name": null,
+    "banking_account_number": null,
+    "remit_to_address": null,
+    "bill_to_address": null,
+    "transaction_type": "debit"
+  },
+  "filename": "SAPS4_5100908504_CA02_PBNACA_2026_328615191.pdf",
+  "raw_response": {
+    "invoice_number": "6621539695",
+    "invoice_date": "02/03/2026",
+    "invoice_amount": null,
+    "invoice_currency": [
+      "CAD"
+    ],
+    "tax_amount": null,
+    "po_number": [
+      "M413525011"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "ECOLAB",
+    "vendor_address": "Ecolab GST/HST 88866 3390 RC0005",
+    "po_line_items": [
+      {
+        "description": "MIP LIQUID 123-1 1150L",
+        "quantity": 1.0,
+        "net_price": 1556.43
+      }
+    ]
+  }
+}

@@ -1,0 +1,59 @@
+{
+  "invoice_data": {
+    "invoice_number": "4652",
+    "invoice_date": "Monday 9 Feb 2026 12:00 PM GMT-06:00",
+    "invoice_amount": "4,575.00",
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": null,
+    "po_number": [
+      "M413557855"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "MMP SERVICES INC",
+    "vendor_address": "2739 BULL RUN ST, ROSENBERG, TX 77471, United States, Address ID: US28",
+    "po_line_items": [
+      {
+        "description": "Material Not Available / Estimate #5259 - Labor #1 and #2 for unloading",
+        "quantity": 4575.0,
+        "net_price": 1.0
+      }
+    ],
+    "vat_amount": null,
+    "gl_account": null,
+    "bank_name": null,
+    "account_holder_name": null,
+    "banking_account_number": null,
+    "remit_to_address": null,
+    "bill_to_address": null,
+    "transaction_type": "debit"
+  },
+  "filename": "SAPS4_5100321043_US28_PFNAUS_2026_999930861.pdf",
+  "raw_response": {
+    "invoice_number": "4652",
+    "invoice_date": "Monday 9 Feb 2026 12:00 PM GMT-06:00",
+    "invoice_amount": "4,575.00",
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": null,
+    "po_number": [
+      "M413557855"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "MMP SERVICES INC",
+    "vendor_address": "2739 BULL RUN ST, ROSENBERG, TX 77471, United States, Address ID: US28",
+    "po_line_items": [
+      {
+        "description": "Material Not Available / Estimate #5259 - Labor #1 and #2 for unloading",
+        "quantity": 4575.0,
+        "net_price": 1.0
+      }
+    ]
+  }
+}

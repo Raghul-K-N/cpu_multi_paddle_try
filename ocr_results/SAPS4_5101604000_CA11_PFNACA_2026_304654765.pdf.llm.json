@@ -1,0 +1,59 @@
+{
+  "invoice_data": {
+    "invoice_number": "9799838132",
+    "invoice_date": "Monday 9 Feb. 2026 7:00 a.m. GMT-05:00",
+    "invoice_amount": "251.28",
+    "invoice_currency": [
+      "CAD"
+    ],
+    "tax_amount": "11.97",
+    "po_number": [
+      "M413542535"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "ACKLANDS-GRAINGER INC.",
+    "vendor_address": "PO BOX 2970, WINNIPEG, MB R3C 4B5, CA, T1H 5K8, Canada, LETHBRIDGE, AB, T5M 3Z2, Canada",
+    "po_line_items": [
+      {
+        "description": "Material GNE190E52454 / DRILL RED SHANK.HSS.STEAM OXIDE.27/32\"",
+        "quantity": 3.0,
+        "net_price": 79.77
+      }
+    ],
+    "vat_amount": null,
+    "gl_account": null,
+    "bank_name": null,
+    "account_holder_name": null,
+    "banking_account_number": null,
+    "remit_to_address": null,
+    "bill_to_address": null,
+    "transaction_type": "debit"
+  },
+  "filename": "SAPS4_5101604000_CA11_PFNACA_2026_304654765.pdf",
+  "raw_response": {
+    "invoice_number": "9799838132",
+    "invoice_date": "Monday 9 Feb. 2026 7:00 a.m. GMT-05:00",
+    "invoice_amount": "251.28",
+    "invoice_currency": [
+      "CAD"
+    ],
+    "tax_amount": "11.97",
+    "po_number": [
+      "M413542535"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "ACKLANDS-GRAINGER INC.",
+    "vendor_address": "PO BOX 2970, WINNIPEG, MB R3C 4B5, CA, T1H 5K8, Canada, LETHBRIDGE, AB, T5M 3Z2, Canada",
+    "po_line_items": [
+      {
+        "description": "Material GNE190E52454 / DRILL RED SHANK.HSS.STEAM OXIDE.27/32\"",
+        "quantity": 3.0,
+        "net_price": 79.77
+      }
+    ]
+  }
+}

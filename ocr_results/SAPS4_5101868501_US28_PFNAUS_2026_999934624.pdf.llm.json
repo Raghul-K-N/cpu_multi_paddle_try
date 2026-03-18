@@ -1,0 +1,55 @@
+{
+  "invoice_data": {
+    "invoice_number": "NC07-01217332",
+    "invoice_date": "02/04/26",
+    "invoice_amount": null,
+    "invoice_currency": null,
+    "tax_amount": null,
+    "po_number": [
+      "4505011499"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "REMIT MOTION INDUSTRIES, INC.",
+    "vendor_address": "BRANCH ADDRESS, CHARLOTTE-SO, 9929 JOHN PRICE ROAD, CHARLOTTE, NC 28273, PHONE: 7045884100",
+    "po_line_items": [
+      {
+        "description": "MR50-S3 CONTROLLER BOARD",
+        "quantity": 2.0,
+        "net_price": 504.62
+      }
+    ],
+    "vat_amount": null,
+    "gl_account": null,
+    "bank_name": null,
+    "account_holder_name": null,
+    "banking_account_number": null,
+    "remit_to_address": null,
+    "bill_to_address": null,
+    "transaction_type": "debit"
+  },
+  "filename": "SAPS4_5101868501_US28_PFNAUS_2026_999934624.pdf",
+  "raw_response": {
+    "invoice_number": "NC07-01217332",
+    "invoice_date": "02/04/26",
+    "invoice_amount": null,
+    "invoice_currency": null,
+    "tax_amount": null,
+    "po_number": [
+      "4505011499"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "REMIT MOTION INDUSTRIES, INC.",
+    "vendor_address": "BRANCH ADDRESS, CHARLOTTE-SO, 9929 JOHN PRICE ROAD, CHARLOTTE, NC 28273, PHONE: 7045884100",
+    "po_line_items": [
+      {
+        "description": "MR50-S3 CONTROLLER BOARD",
+        "quantity": 2.0,
+        "net_price": 504.62
+      }
+    ]
+  }
+}

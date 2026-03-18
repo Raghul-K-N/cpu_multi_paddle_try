@@ -1,0 +1,59 @@
+{
+  "invoice_data": {
+    "invoice_number": "907414700",
+    "invoice_date": "02/01/2026",
+    "invoice_amount": null,
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": "43.19",
+    "po_number": [
+      "M412916720"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": "0.00",
+    "cost_center": null,
+    "vendor_name": "CAPITAL PAYABLES IMAGING TECHNOLOGY",
+    "vendor_address": "PO Box 650586, DALLAS TX 75265",
+    "po_line_items": [
+      {
+        "description": "DI RENTAL",
+        "quantity": 1.0,
+        "net_price": 691.0
+      }
+    ],
+    "vat_amount": null,
+    "gl_account": null,
+    "bank_name": null,
+    "account_holder_name": null,
+    "banking_account_number": null,
+    "remit_to_address": null,
+    "bill_to_address": null,
+    "transaction_type": "debit"
+  },
+  "filename": "SAPS4_5101715002_US28_PFNAUS_2026_999934444.pdf",
+  "raw_response": {
+    "invoice_number": "907414700",
+    "invoice_date": "02/01/2026",
+    "invoice_amount": "../../../../734.19",
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": "43.19",
+    "po_number": [
+      "M412916720"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": "0.00",
+    "cost_center": null,
+    "vendor_name": "CAPITAL PAYABLES IMAGING TECHNOLOGY",
+    "vendor_address": "PO Box 650586, DALLAS TX 75265",
+    "po_line_items": [
+      {
+        "description": "DI RENTAL",
+        "quantity": 1.0,
+        "net_price": 691.0
+      }
+    ]
+  }
+}

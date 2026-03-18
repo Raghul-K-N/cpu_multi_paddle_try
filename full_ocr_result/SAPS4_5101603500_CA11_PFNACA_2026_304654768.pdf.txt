@@ -1,0 +1,738 @@
+==================================<Page 1 - START>================================
+Standard Invoice
+                                                                                                                     GRAINGER
+Original tax invoice has been submitted electronically. This is a
+human readable representation (copy) of the original tax invoice.
+                                                                                                                     9799838140
+                                                                  Invoice Number
+                                                                  (Supplier Reference No.)
+                                                                                                Monday 9 Feb. 2026 7:00 a.m. GMT-05:00
+                                                                  Invoice Date
+                                                                                                                   $4,392.73 CAD
+                                                                  Amount Due
+     Contact Information
+                                                                            Shipping Information
+     Supplier                       Customer
+                                                                            Ship From                     Ship To
+     ACKLANDS-GRAINGER INC.        EDI ONLY PEPSI FOODS ULC                   ACKLANDS-GRAINGER INC.        CA-PL-LETHBRIDGE-AB-FLC
+     PO BOX 2970                   (FLC)                                     11708 - 167 STREET NW          2200 31ST STREET
+     WINNIPEG                     2200 31 ST N                               EDMONTON                    LETHBRIDGE
+     MB                          LETH PLNT DISPENSING                      AB                          AB
+     R3C 4B5                      LETHBRIDGE                               T5M 3Z2                      T1H 5K8
+     CA                          AB                                       Canada                       Canada
+                                  T1H 5K8
+                                   Canada
+                                                                                                                 PO Date : 6 Feb. 2026
+   Line Items                                               PO No. : M413542538
+                                                                                         Quantity            Unit Price         Subtotal
+   Line No.                              Supplier Part No. /              Customer Part No.
+              PO Line No.          Type                                                    (UOM)
+                                        Description
+                                                                                                                        $167.08 CAD
+                                      ALM320RSR / LINT ROLLER                           4 / (CA)           $41.77 CAD
+   10       1                  Material
+                                        REFILL,60 SHEETS,CA12
+                                                                                                      Line Item Total : $167.08 CAD
+                                                                                         Quantity            Unit Price         Subtotal
+   Line No.    PO Line No.          Type    Supplier Part No. /             Customer Part No.
+                                                                                         (UOM)
+                                        Description
+                                                                                                                        $142.00 CAD
+   20                                  ANL92-600-10 / DISPOSABLE                          8 / (BX)           $17.75 CAD
+             2                 Material
+                                         GLOVES.SZ 10.GREEN,BX100
+                                                                                                      Line Item Total : $142.00 CAD
+                                                                   Customer Part No.        Quantity            Unit Price         Subtotal
+   Line No.    PO Line No.          Type    Supplier Part No. /
+                                                                                         (UOM)
+                                        Description
+                                                                                                                         $142.00 CAD
+   30        3                  Material ANL92-600-8 / DISPOSABLE                            8 / (BX)           $17.75 CAD
+                                        GLOVES.SZ 8,GREEN,BX100
+                                                                                                       Line Item Total : $142.00 CAD
+                                                                                         Quantity            Unit Price         Subtotal
+   Line No.    PO Line No.          Type    Supplier Part No. /              Customer Part No.
+                                                                                         (UOM)
+                                        Description
+                                                                                                                         $142.00 CAD
+   40       4                  Material ANL92-600-9 / DISPOSABLE                            8 / (BX)           $17.75 CAD
+                                        GLOVES.SZ 9,GREEN,BX100
+                                                                                                       Line Item Total : $142.00 CAD
+                                                                                          Quantity            Unit Price          Subtotal
+   Line No.    PO Line No.          Type    Supplier Part No. /              Customer Part No.
+                                        Description                                         (UOM)
+                                Material  ANL92-675LGE / GLOVE DISP                           10 / (BX)          $16.04 CAD      $160.40 CAD
+   50        5
+                                        NITRILE LGE 100/BX
+                                                                                                       Line Item Total : $160.40 CAD
+                                                                                          Quantity             Unit Price          Subtotal
+   Line No.    PO Line No.          Type    Supplier Part No. /              Customer Part No.
+                                                                                          (UOM)
+                                        Description
+                                Material ANL92-675MED / GLOVE DISP                           10 / (BX)           $16.04 CAD      $160.40 CAD
+   60        6
+                                        NITRILE MED 100/BX
+                                                                                                        Line Item Total : $160.40 CAD
+   Line No.    PO Line No.          Type    Supplier Part No. /              Customer Part No.         Quantity             Unit Price          Subtotal
+                                        Description                                         (UOM)
+             7                  Material  DEN060100 / SQWINCHER QWIK                         2 / (BG)           $55.97 CAD      $111.94 CAD
+   70
+                                        STIK LITE ORANGE 50/BG
+                                                                                                        Line Item Total : $111.94 CAD
+   Line No.    PO Line No.          Type    Supplier Part No. /              Customer Part No.         Quantity             Unit Price          Subtotal
+                                        Description                                         (UOM)
+  80       8                  Material DEN060101 / SQWINCHER QWIK                         2 / (BG)           $55.97 CAD      $111.94 CAD
+                                        STIK MIXED BERRY 50/BG
+                                                                                                        Line Item Total : $111.94 CAD
+  Line No.    PO Line No.                  Supplier Part No. /                                                        Unit Price
+                                Type                                Customer Part No.         Quantity                              Subtotal
+                                        Description                                          (UOM)
+  90        9                  MaterialDEN060102 / SQWINCHER QWIK                         2 / (BG)           $55.97 CAD      $111.94 CAD
+                                        STIK LITE FRTPUNCH 50/BG
+                                                                                                         Line Item Total : $111.94 CAD
+  Line No.    PO Line No.          Type    Supplier Part No. /              Customer Part No.         Quantity             Unit Price          Subtotal
+                                        Description                                          (UOM)
+  100       10                 Material  DEN060453 / SQWINCHER QWIK                                           $55.97 CAD
+                                                                                           2 / (PK)                           $111.94 CAD
+                                        STIK LITE STBYLEM 50/BG
+                                                                                                         Line Item Total : $111.94 CAD
+  Line No.    PO Line No.          Type    Supplier Part No. /              Customer Part No.         Quantity             Unit Price
+                                                                                                                                Subtotal
+                                        Description                                          (UOM)
+  110       11                  Material  EMS4402WH / BOUFFANT                              20 / (BG)            $6.53 CAD      $130.60 CAD
+                                        CAP.WHITE,SZ 21 IN,BG100
+                                                                                                         Line Item Total : $130.60 CAD
+  Line No.
+            PO Line No.          Type    Supplier Part No. /              Customer Part No.         Quantity             Unit Price          Subtotal
+                                        Description                                          (UOM)
+ 120                                   ICMBT5061 / BARRICADE
+            12                  Material                                                    1 / (RL)            $11.48 CAD       $11.48 CAD
+                                        TAPE.DANGER DO NOT
+                                        ENTER,RED
+                                                                                                          Line Item Total : $11.48 CAD
+Line No.    PO Line No.                                              Customer Part No.
+                                Type    Supplier Part No. /                                    Quantity             Unit Price          Subtotal
+                                        Description                                          (UOM)
+130       13                  Material  IMOASMOLDD/F / INSOLE ANTI-                          7 / (PR)
+                                                                                                             $29.35 CAD      $205.45 CAD
+                                        FATIGUE M9-10.5W11-12.5
+                                                                                                         Line Item Total : $205.45 CAD
+Line No.    PO Line No.          Type    Supplier Part No. /              Customer Part No.         Quantity
+                                                                                                               Unit Price          Subtotal
+                                        Descriptio                                          (UOM)
+140       14                  Material  KMB01500CA / PAPER TOWEL                           1 / (CA)          $109.26 CAD
+                                                                                                                             $109.26 CAD
+                                        SHEETS,10 IN X 13 IN,CA16
+                                                                                                         Line Item Total : $109.26 CAD
+==================================<Page 1 - END>================================
+==================================<Page 2 - START>================================
+   Line No.    PO Line No.          Type    Supplier Part No. /                                     Quantity             Unit Price          Subtotal
+                                                                      Customer Part No.
+                                          Description
+                                                                                            (UOM)
+  150       15                 Material  KMB05925 / WIPERS X70 1/4                            20 / (CA)           $83.88 CAD    $1,677.60 CAD
+                                          FOLD WH/BL STR 300/CS
+                                                                                                         Line Item Total : $1,677.60 CAD
+   Line No.    PO Line No.          Type    Supplier Part No. /              Customer Part No.         Quantity             Unit Price          Subtotal
+                                          Description                                          (UOM)
+   160       16                 Material  KMB21400CA/ FACIAL                                 1 / (CA)            $72.03 CAD       $72.03 CAD
+                                          TISSUE,100,WHITE.PK36
+                                                                                                           Line Item Total : $72.03 CAD
+                                         Supplier Part No. /              Customer Part No.
+   Line No.    PO Line No.          Type                                                      Quantity             Unit Price          Subtotal
+                                          Description
+                                                                                            (UOM)
+                                  MaterialKMB67805 / TOILET                                   2 / (CA)
+   170       17                                                                                             $71.98 CAD      $143.96 CAD
+                                         PAPER,WHITE,1000 FT. L,PK12
+                                                                                                          Line Item Total : $143.96 CAD
+    Line No.                               Supplier Part No. /              Customer Part No.         Quantity             Unit Price
+              PO Line No.          Type                                                                                           Subtotal
+                                         Description                                          (UOM)
+   180       18                 Material MDX4600 / DISPOSABLE                               1 / (BX)            $51.51 CAD       $51.51 CAD
+                                         RESPIRATOR,M/L,N95,PK10
+                                                                                                          Line Item Total : $51.51 CAD
+                                                                     Customer Part No.
+   Line No.    PO Line No.          Type    Supplier Part No. /                                    Quantity             Unit Price          Subtotal
+                                         Description                                          (UOM)
+                                  Material RSN2477-00 / GARBAGE BAG,42                         1 / (CA)           $30.35 CAD
+    190       19                                                                                                             $30.35 CAD
+                                         IN W,CLEAR,48 IN H
+                                                                                                          Line Item Total : $30.35 CAD
+    Line No.    PO Line No.          Type    Supplier Part No. /              Customer Part No.         Quantity             Unit Price          Subtotal
+                                         Description                                          (UOM)
+                                 Material
+   200      20                        RSN2865-90 / GARBAGE BAG,36                         4 / (CA)           $53.58 CAD      $214.32 CAD
+                                         IN W,CLEAR,50 IN H,CA250
+                                                                                                         Line Item Total : $214.32 CAD
+    Line No.    PO Line No.          Type    Supplier Part No. /              Customer Part No.
+                                                                                           Quantity             Unit Price          Subtotal
+                                         Description
+                                                                                           (UOM)
+   210      21                 Material RSN2975-08 / TRASH BAG,35 IN                          1 / (CA)
+                                                                                                            $31.25 CAD      $31.25 CAD
+                                         W,BLUE,50 IN H,CA125
+                                                                                                          Line Item Total : $31.25 CAD
+   Line No.    PO Line No.          Type    Supplier Part No. /
+                                                                    Customer Part No.         Quantity            Unit Price          Subtotal
+                                        Description
+                                                                                           (UOM)
+   220      22                 Material  TGY3739-01 / TRASH BAG.26 IN
+                                                                                          2 / (CA)           $32.19 CAD       $64.38 CAD
+                                        W.BLACK,36 IN H,CA200
+                                                                                                         Line Item Total : $64.38 CAD
+   Line No.
+              PO Line No.          Type    Supplier Part No. /              Customer Part No.         Quantity             Unit Price          Subtotal
+                                        Description                                         (UOM)
+   230      23                 Material TGY3744-01 / TRASH BAG,35 IN
+                                                                                          2 / (CA)           $36.20 CAD       $72.40 CAD
+                                        W,BLACK,50 IN H,CA100
+                                                                                                        Line Item Total : $72.40 CAD
+   Line No.    PO Line No.          Type    Supplier Part No. /              Customer Part No.
+                                                                                          Quantity            Unit Price         Subtotal
+                                        Description                                         (UOM)
+   240
+             24                 MaterialTGY3U594 / TRIGGER SPRAYER                         6 / (EA)            $1.22 CAD       $7.32 CAD
+                                        RED
+                                                                                                         Line Item Total : $7.32 CAD
+      Tax Summary
+      Category               Details                           Base Amount
+                                                                                       Rate %          Amount
+      GST
+                            Tax Description : GOODS AND          $4,183.55 CAD              5%             $209.18 CAD
+                            SERVICES
+      PST                  Tax Description : State/Provincial
+                                                             $4,183.55 CAD               0%             $0.00 CAD
+                            Tax
+                                                                                Amount Summary
+                                                                                Line item subtotal                          $4,183.55 CAD
+                                                                                Gross amount                            $4,392.73 CAD
+                                                                                Net amount                              $4,392.73 CAD
+                                                                                Total tax amount                           $209.18 CAD
+                                                                                Total withholding tax amount
+                                                                               Amount Due                             $4,392.73 CAD
+    Additional Information
+    invioceSourceDocument
+    PurchaseOrder
+    Billing Information                                                          Remittance Information
+    Bill To                                                                  Remit To
+                                                                           ACKLANDS-GRAINGER INC.
+    PEPSI FOODS ULC (FLC)
+                                                                           PO BOX 2970
+    2095 MATHESON BLVD E
+    MISSISSAUGA                                                           WINNIPEG
+    ON                                                                    MB
+                                                                          R3C 4B5
+   L4W 0G2
+                                                                          Canada
+   Canada
+                                                                          Address ID: CA1_2751
+   Address ID:
+   CA1_ARIBA_PAYABLES
+==================================<Page 2 - END>================================
+==================================<Page 3 - START>================================
+  Appenuix
+  Line No.
+              PO Line No. Type                            Supplier Part No. / Description
+  10         1
+                         Material                         ALM320RSR / LINT ROLLER REFILL,60 SHEETS,CA12
+  Additional Details:
+  Supplier Part ID : ALM320RSR
+  Line No.
+              PO Line No. Type                           Supplier Part No. / Description
+  20         2
+                         Material                         ANL92-600-10 / DISPOSABLE GLOVES,SZ 10,GREEN,BX100
+  Additional Details:
+  Supplier Part ID : ANL92-600-10
+  Line No.
+              PO Line No. Type                           Supplier Part No. / Description
+  30
+              3         Material                         ANL92-600-8 / DISPOSABLE GLOVES,SZ 8,GREEN,BX100
+  Additional Details:
+  Supplier Part ID : ANL92-600-8
+  Line No.
+              PO Line No. Type
+                                                         Supplier Part No. / Description
+  40
+              4         Material
+                                                         ANL92-600-9 / DISPOSABLE GLOVES,SZ 9,GREEN,BX100
+  Additional Details:
+  Supplier Part ID : ANL92-600-9
+  Line No.    PO Line No. Type
+                                                         Supplier Part No. / Description
+  50        5         Material
+                                                         ANL92-675LGE / GLOVE DISP NITRILE LGE 100/BX
+  Additional Details:
+  Supplier Part ID : ANL92-675LGE
+  Line No.    PO Line No. Type
+                                                         Supplier Part No. / Description
+  60        6          Material
+                                                         ANL92-675MED / GLOVE DISP NITRILE MED 100/BX
+  Additional Details:
+  Supplier Part ID : ANL92-675MED
+  Line No.    PO Line No. Type
+                                                         Supplier Part No. / Description
+  70        7          Material
+                                                         DEN060100 / SQWINCHER QWIK STIK LITE ORANGE 50/BG
+  Additional Details:
+  Supplier Part ID : DEN060100
+  Line No.    PO Line No. Type
+                                                         Supplier Part No. / Description
+  80        8         Material
+                                                         DEN060101 / SQWINCHER QWIK STIK MIXED BERRY 50/BG
+  Additional Details:
+  Supplier Part ID : DEN060101
+  Line No.    PO Line No. Type
+                                                         Supplier Part No. / Description
+  90        9          Material
+                                                         DEN060102 / SQWINCHER QWIK STIK LITE FRTPUNCH 50/BG
+  Additional Details:
+  Supplier Part ID : DEN060102
+  Line No.    PO Line No. Type
+                                                         Supplier Part No. / Description
+  100       10        Material
+                                                         DEN060453 / SQWINCHER QWIK STIK LITE STBYLEM 50/BG
+  Additional Details:
+  Supplier Part ID : DEN060453
+  Line No.    PO Line No. Type
+                                                         Supplier Part No. / Description
+  110       11        Material
+                                                         EMS4402WH / BOUFFANT CAP,WHITE,SZ 21 IN,BG100
+  Additional Details:
+  Supplier Part ID : EMS4402WH
+  Line No.    PO Line No. Type
+                                                         Supplier Part No. / Description
+  120       12        Material                          ICMBT5061 / BARRICADE TAPE,DANGER DO NOT ENTER,RED
+  Additional Details:
+  Supplier Part ID : ICMBT5061
+  Line No.    PO Line No. Type                            Supplier Part No. / Description
+  130       13        Material                          IMOASMOLDD/F / INSOLE ANTI-FATIGUE M9-10.5W11-12.5
+  Additional Details:
+  Supplier Part ID : IMOASMOLDD/F
+  Line No.    PO Line No. Type                            Supplier Part No. / Description
+  140       14        Material                          KMB01500CA / PAPER TOWEL SHEETS,10 IN X 13 IN,CA16
+  Additional Details:
+  Supplier Part ID : KMB01500CA
+  Line No.    PO Line No. Type                            Supplier Part No. / Description
+  150
+             15        Material                          KMB05925 / WIPERS X70 1/4 FOLD WH/BL STR 300/CS
+  Additional Details:
+  Supplier Part ID : KMB05925
+  Line No.    PO Line No. Type
+                                                        Supplier Part No. / Description
+  160       16        Material                          KMB21400CA / FACIAL TISSUE,100,WHITE,PK36
+  Additional Details:
+  Supplier Part ID : KMB21400CA
+  Line No.    PO Line No. Type                            Supplier Part No. / Description
+  170       17        Material                         KMB67805 / TOILET PAPER,WHITE,1000 FT. L,PK12
+  Additional Details:
+  Supplier Part ID : KMB67805
+                                                        Supplier Part No. / Description
+  Line No.    PO Line No. Type
+  180       18        Material                         MDX4600 / DISPOSABLE RESPIRATOR,M/L,N95,PK10
+  Additional Details:
+  Supplier Part ID : MDX4600
+ Line No.    PO Line No. Type                           Supplier Part No. / Description
+ 190       19        Material                         RSN2477-00 / GARBAGE BAG,42 IN W,CLEAR,48 IN H
+ Additional Details:
+ Supplier Part ID : RSN2477-00
+                                                       Supplier Part No. / Description
+ Line No.    PO Line No. Type
+                        Material                         RSN2865-90 / GARBAGE BAG,36 IN W,CLEAR,50 IN H,CA250
+ 200       20
+Additional Details:
+Supplier Part ID : RSN2865-90
+            PO Line No. Type                           Supplier Part No. / Description
+Line No.
+                       Material                         RSN2975-08 / TRASH BAG,35 IN W,BLUE,50 IN H,CA125
+210        21
+Additional Details:
+Supplier Part ID : RSN2975-08
+==================================<Page 3 - END>================================
+==================================<Page 4 - START>================================
+  Line No.    PO Line No. Type                           Supplier Part No. / Description
+220
+            22        Material                         TGY3739-01 / TRASH BAG,26 IN W,BLACK,36 IN H,CA200
+Additional Details:
+Supplier Part ID : TGY3739-01
+Line No.
+            PO Line No. Type                           Supplier Part No. / Description
+230       23        Material
+                                                       TGY3744-01 / TRASH BAG,35 IN W,BLACK,50 IN H,CA100
+Additional Details:
+Supplier Part ID : TGY3744-01
+Line No.    PO Line No. Type                           Supplier Part No. / Description
+240        24        Material                         TGY3U594 / TRIGGER SPRAYER RED
+Additional Details:
+Supplier Part ID : TGY3U594
+PDF generated on Tuesday 10 Feb. 2026 6:19 a.m. GMT-08:00
+==================================<Page 4 - END>================================
+==================================<Page 5 - START>================================
+    Standard Invoice
+                                                                                                                         GRAINGER
+    Original tax invoice has been submitted electronically. This is a
+    human readable representation (copy) of the original tax invoice.
+                                                                                                                         9799838140
+                                                                      Invoice Number
+                                                                      (Supplier Reference No.)
+                                                                                                    Monday 9 Feb. 2026 7:00 a.m. GMT-05:00
+                                                                      Invoice Date
+                                                                                                                       $4,392.73 CAD
+                                                                      Amount Due
+         Contact Information
+                                                                                Shipping Information
+         Supplier                       Customer
+                                                                                Ship From                     Ship To
+         ACKLANDS-GRAINGER INC.        EDI ONLY PEPSI FOODS ULC                   ACKLANDS-GRAINGER INC.        CA-PL-LETHBRIDGE-AB-FLC
+         PO BOX 2970                   (FLC)                                     11708 - 167 STREET NW          2200 31ST STREET
+         WINNIPEG                     2200 31 ST N                               EDMONTON                    LETHBRIDGE
+         MB                          LETH PLNT DISPENSING                      AB                          AB
+         R3C 4B5                      LETHBRIDGE                               T5M 3Z2                      T1H 5K8
+         CA                          AB                                       Canada                       Canada
+                                      T1H 5K8
+                                       Canada
+                                                                                                                     PO Date : 6 Feb. 2026
+       Line Items                                               PO No. : M413542538
+                                                                                             Quantity            Unit Price         Subtotal
+       Line No.                              Supplier Part No. /              Customer Part No.
+                  PO Line No.          Type                                                    (UOM)
+                                            Description
+                                                                                                                            $167.08 CAD
+                                          ALM320RSR / LINT ROLLER                           4 / (CA)           $41.77 CAD
+       10       1                  Material
+                                            REFILL,60 SHEETS,CA12
+                                                                                                          Line Item Total : $167.08 CAD
+                                                                                             Quantity            Unit Price         Subtotal
+       Line No.    PO Line No.          Type    Supplier Part No. /             Customer Part No.
+                                                                                             (UOM)
+                                            Description
+                                                                                                                            $142.00 CAD
+       20                                  ANL92-600-10 / DISPOSABLE                          8 / (BX)           $17.75 CAD
+                 2                 Material
+                                             GLOVES.SZ 10.GREEN,BX100
+                                                                                                          Line Item Total : $142.00 CAD
+                                                                       Customer Part No.        Quantity            Unit Price         Subtotal
+       Line No.    PO Line No.          Type    Supplier Part No. /
+                                                                                             (UOM)
+                                            Description
+                                                                                                                             $142.00 CAD
+       30        3                  Material ANL92-600-8 / DISPOSABLE                            8 / (BX)           $17.75 CAD
+                                            GLOVES.SZ 8,GREEN,BX100
+                                                                                                           Line Item Total : $142.00 CAD
+                                                                                             Quantity            Unit Price         Subtotal
+       Line No.    PO Line No.          Type    Supplier Part No. /              Customer Part No.
+                                                                                             (UOM)
+                                            Description
+                                                                                                                             $142.00 CAD
+       40       4                  Material ANL92-600-9 / DISPOSABLE                            8 / (BX)           $17.75 CAD
+                                            GLOVES.SZ 9,GREEN,BX100
+                                                                                                           Line Item Total : $142.00 CAD
+                                                                                              Quantity            Unit Price          Subtotal
+       Line No.    PO Line No.          Type    Supplier Part No. /              Customer Part No.
+                                            Description                                         (UOM)
+                                    Material  ANL92-675LGE / GLOVE DISP                           10 / (BX)          $16.04 CAD      $160.40 CAD
+       50        5
+                                            NITRILE LGE 100/BX
+                                                                                                           Line Item Total : $160.40 CAD
+                                                                                              Quantity             Unit Price          Subtotal
+       Line No.    PO Line No.          Type    Supplier Part No. /              Customer Part No.
+                                                                                              (UOM)
+                                            Description
+                                    Material ANL92-675MED / GLOVE DISP                           10 / (BX)           $16.04 CAD      $160.40 CAD
+       60        6
+                                            NITRILE MED 100/BX
+                                                                                                            Line Item Total : $160.40 CAD
+       Line No.    PO Line No.          Type    Supplier Part No. /              Customer Part No.         Quantity             Unit Price          Subtotal
+                                            Description                                         (UOM)
+                 7                  Material  DEN060100 / SQWINCHER QWIK                         2 / (BG)           $55.97 CAD      $111.94 CAD
+       70
+                                            STIK LITE ORANGE 50/BG
+                                                                                                            Line Item Total : $111.94 CAD
+       Line No.    PO Line No.          Type    Supplier Part No. /              Customer Part No.         Quantity             Unit Price          Subtotal
+                                            Description                                         (UOM)
+      80       8                  Material DEN060101 / SQWINCHER QWIK                         2 / (BG)           $55.97 CAD      $111.94 CAD
+                                            STIK MIXED BERRY 50/BG
+                                                                                                            Line Item Total : $111.94 CAD
+      Line No.    PO Line No.                  Supplier Part No. /                                                        Unit Price
+                                    Type                                Customer Part No.         Quantity                              Subtotal
+                                            Description                                          (UOM)
+      90        9                  MaterialDEN060102 / SQWINCHER QWIK                         2 / (BG)           $55.97 CAD      $111.94 CAD
+                                            STIK LITE FRTPUNCH 50/BG
+                                                                                                             Line Item Total : $111.94 CAD
+      Line No.    PO Line No.          Type    Supplier Part No. /              Customer Part No.         Quantity             Unit Price          Subtotal
+                                            Description                                          (UOM)
+      100       10                 Material  DEN060453 / SQWINCHER QWIK                                           $55.97 CAD
+                                                                                               2 / (PK)                           $111.94 CAD
+                                            STIK LITE STBYLEM 50/BG
+                                                                                                             Line Item Total : $111.94 CAD
+      Line No.    PO Line No.          Type    Supplier Part No. /              Customer Part No.         Quantity             Unit Price
+                                                                                                                                    Subtotal
+                                            Description                                          (UOM)
+      110       11                  Material  EMS4402WH / BOUFFANT                              20 / (BG)            $6.53 CAD      $130.60 CAD
+                                            CAP.WHITE,SZ 21 IN,BG100
+                                                                                                             Line Item Total : $130.60 CAD
+      Line No.
+                PO Line No.          Type    Supplier Part No. /              Customer Part No.         Quantity             Unit Price          Subtotal
+                                            Description                                          (UOM)
+     120                                   ICMBT5061 / BARRICADE
+                12                  Material                                                    1 / (RL)            $11.48 CAD       $11.48 CAD
+                                            TAPE.DANGER DO NOT
+                                            ENTER,RED
+                                                                                                              Line Item Total : $11.48 CAD
+     Line No.    PO Line No.                                              Customer Part No.
+                                    Type    Supplier Part No. /                                    Quantity             Unit Price          Subtotal
+                                            Description                                          (UOM)
+     130       13                  Material  IMOASMOLDD/F / INSOLE ANTI-                          7 / (PR)
+                                                                                                                 $29.35 CAD      $205.45 CAD
+                                            FATIGUE M9-10.5W11-12.5
+                                                                                                             Line Item Total : $205.45 CAD
+     Line No.    PO Line No.          Type    Supplier Part No. /              Customer Part No.         Quantity
+                                                                                                                   Unit Price          Subtotal
+                                            Descriptio                                          (UOM)
+    140       14                  Material  KMB01500CA / PAPER TOWEL                           1 / (CA)          $109.26 CAD
+                                                                                                                                 $109.26 CAD
+                                            SHEETS,10 IN X 13 IN,CA16
+                                                                                                             Line Item Total : $109.26 CAD
+==================================<Page 5 - END>================================
+==================================<Page 6 - START>================================
+       Line No.    PO Line No.          Type    Supplier Part No. /                                     Quantity             Unit Price          Subtotal
+                                                                          Customer Part No.
+                                              Description
+                                                                                                (UOM)
+      150       15                 Material  KMB05925 / WIPERS X70 1/4                            20 / (CA)           $83.88 CAD    $1,677.60 CAD
+                                              FOLD WH/BL STR 300/CS
+                                                                                                             Line Item Total : $1,677.60 CAD
+       Line No.    PO Line No.          Type    Supplier Part No. /              Customer Part No.         Quantity             Unit Price          Subtotal
+                                              Description                                          (UOM)
+       160       16                 Material  KMB21400CA/ FACIAL                                 1 / (CA)            $72.03 CAD       $72.03 CAD
+                                              TISSUE,100,WHITE.PK36
+                                                                                                               Line Item Total : $72.03 CAD
+                                             Supplier Part No. /              Customer Part No.
+       Line No.    PO Line No.          Type                                                      Quantity             Unit Price          Subtotal
+                                              Description
+                                                                                                (UOM)
+                                      MaterialKMB67805 / TOILET                                   2 / (CA)
+       170       17                                                                                             $71.98 CAD      $143.96 CAD
+                                             PAPER,WHITE,1000 FT. L,PK12
+                                                                                                              Line Item Total : $143.96 CAD
+        Line No.                               Supplier Part No. /              Customer Part No.         Quantity             Unit Price
+                  PO Line No.          Type                                                                                           Subtotal
+                                             Description                                          (UOM)
+       180       18                 Material MDX4600 / DISPOSABLE                               1 / (BX)            $51.51 CAD       $51.51 CAD
+                                             RESPIRATOR,M/L,N95,PK10
+                                                                                                              Line Item Total : $51.51 CAD
+                                                                         Customer Part No.
+       Line No.    PO Line No.          Type    Supplier Part No. /                                    Quantity             Unit Price          Subtotal
+                                             Description                                          (UOM)
+                                      Material RSN2477-00 / GARBAGE BAG,42                         1 / (CA)           $30.35 CAD
+        190       19                                                                                                             $30.35 CAD
+                                             IN W,CLEAR,48 IN H
+                                                                                                              Line Item Total : $30.35 CAD
+        Line No.    PO Line No.          Type    Supplier Part No. /              Customer Part No.         Quantity             Unit Price          Subtotal
+                                             Description                                          (UOM)
+                                     Material
+       200      20                        RSN2865-90 / GARBAGE BAG,36                         4 / (CA)           $53.58 CAD      $214.32 CAD
+                                             IN W,CLEAR,50 IN H,CA250
+                                                                                                             Line Item Total : $214.32 CAD
+        Line No.    PO Line No.          Type    Supplier Part No. /              Customer Part No.
+                                                                                               Quantity             Unit Price          Subtotal
+                                             Description
+                                                                                               (UOM)
+       210      21                 Material RSN2975-08 / TRASH BAG,35 IN                          1 / (CA)
+                                                                                                                $31.25 CAD      $31.25 CAD
+                                             W,BLUE,50 IN H,CA125
+                                                                                                              Line Item Total : $31.25 CAD
+       Line No.    PO Line No.          Type    Supplier Part No. /
+                                                                        Customer Part No.         Quantity            Unit Price          Subtotal
+                                            Description
+                                                                                               (UOM)
+       220      22                 Material  TGY3739-01 / TRASH BAG.26 IN
+                                                                                              2 / (CA)           $32.19 CAD       $64.38 CAD
+                                            W.BLACK,36 IN H,CA200
+                                                                                                             Line Item Total : $64.38 CAD
+       Line No.
+                  PO Line No.          Type    Supplier Part No. /              Customer Part No.         Quantity             Unit Price          Subtotal
+                                            Description                                         (UOM)
+       230      23                 Material TGY3744-01 / TRASH BAG,35 IN
+                                                                                              2 / (CA)           $36.20 CAD       $72.40 CAD
+                                            W,BLACK,50 IN H,CA100
+                                                                                                            Line Item Total : $72.40 CAD
+       Line No.    PO Line No.          Type    Supplier Part No. /              Customer Part No.
+                                                                                              Quantity            Unit Price         Subtotal
+                                            Description                                         (UOM)
+       240
+                 24                 MaterialTGY3U594 / TRIGGER SPRAYER                         6 / (EA)            $1.22 CAD       $7.32 CAD
+                                            RED
+                                                                                                             Line Item Total : $7.32 CAD
+          Tax Summary
+          Category               Details                           Base Amount
+                                                                                           Rate %          Amount
+          GST
+                                Tax Description : GOODS AND          $4,183.55 CAD              5%             $209.18 CAD
+                                SERVICES
+          PST                  Tax Description : State/Provincial
+                                                                 $4,183.55 CAD               0%             $0.00 CAD
+                                Tax
+                                                                                    Amount Summary
+                                                                                    Line item subtotal                          $4,183.55 CAD
+                                                                                    Gross amount                            $4,392.73 CAD
+                                                                                    Net amount                              $4,392.73 CAD
+                                                                                    Total tax amount                           $209.18 CAD
+                                                                                    Total withholding tax amount
+                                                                                   Amount Due                             $4,392.73 CAD
+        Additional Information
+        invioceSourceDocument
+        PurchaseOrder
+        Billing Information                                                          Remittance Information
+        Bill To                                                                  Remit To
+                                                                               ACKLANDS-GRAINGER INC.
+        PEPSI FOODS ULC (FLC)
+                                                                               PO BOX 2970
+        2095 MATHESON BLVD E
+        MISSISSAUGA                                                           WINNIPEG
+        ON                                                                    MB
+                                                                              R3C 4B5
+       L4W 0G2
+                                                                              Canada
+       Canada
+                                                                              Address ID: CA1_2751
+       Address ID:
+       CA1_ARIBA_PAYABLES
+==================================<Page 6 - END>================================
+==================================<Page 7 - START>================================
+      Appenuix
+      Line No.
+                  PO Line No. Type                            Supplier Part No. / Description
+      10         1
+                             Material                         ALM320RSR / LINT ROLLER REFILL,60 SHEETS,CA12
+      Additional Details:
+      Supplier Part ID : ALM320RSR
+      Line No.
+                  PO Line No. Type                           Supplier Part No. / Description
+      20         2
+                             Material                         ANL92-600-10 / DISPOSABLE GLOVES,SZ 10,GREEN,BX100
+      Additional Details:
+      Supplier Part ID : ANL92-600-10
+      Line No.
+                  PO Line No. Type                           Supplier Part No. / Description
+      30
+                  3         Material                         ANL92-600-8 / DISPOSABLE GLOVES,SZ 8,GREEN,BX100
+      Additional Details:
+      Supplier Part ID : ANL92-600-8
+      Line No.
+                  PO Line No. Type
+                                                             Supplier Part No. / Description
+      40
+                  4         Material
+                                                             ANL92-600-9 / DISPOSABLE GLOVES,SZ 9,GREEN,BX100
+      Additional Details:
+      Supplier Part ID : ANL92-600-9
+      Line No.    PO Line No. Type
+                                                             Supplier Part No. / Description
+      50        5         Material
+                                                             ANL92-675LGE / GLOVE DISP NITRILE LGE 100/BX
+      Additional Details:
+      Supplier Part ID : ANL92-675LGE
+      Line No.    PO Line No. Type
+                                                             Supplier Part No. / Description
+      60        6          Material
+                                                             ANL92-675MED / GLOVE DISP NITRILE MED 100/BX
+      Additional Details:
+      Supplier Part ID : ANL92-675MED
+      Line No.    PO Line No. Type
+                                                             Supplier Part No. / Description
+      70        7          Material
+                                                             DEN060100 / SQWINCHER QWIK STIK LITE ORANGE 50/BG
+      Additional Details:
+      Supplier Part ID : DEN060100
+      Line No.    PO Line No. Type
+                                                             Supplier Part No. / Description
+      80        8         Material
+                                                             DEN060101 / SQWINCHER QWIK STIK MIXED BERRY 50/BG
+      Additional Details:
+      Supplier Part ID : DEN060101
+      Line No.    PO Line No. Type
+                                                             Supplier Part No. / Description
+      90        9          Material
+                                                             DEN060102 / SQWINCHER QWIK STIK LITE FRTPUNCH 50/BG
+      Additional Details:
+      Supplier Part ID : DEN060102
+      Line No.    PO Line No. Type
+                                                             Supplier Part No. / Description
+      100       10        Material
+                                                             DEN060453 / SQWINCHER QWIK STIK LITE STBYLEM 50/BG
+      Additional Details:
+      Supplier Part ID : DEN060453
+      Line No.    PO Line No. Type
+                                                             Supplier Part No. / Description
+      110       11        Material
+                                                             EMS4402WH / BOUFFANT CAP,WHITE,SZ 21 IN,BG100
+      Additional Details:
+      Supplier Part ID : EMS4402WH
+      Line No.    PO Line No. Type
+                                                             Supplier Part No. / Description
+      120       12        Material                          ICMBT5061 / BARRICADE TAPE,DANGER DO NOT ENTER,RED
+      Additional Details:
+      Supplier Part ID : ICMBT5061
+      Line No.    PO Line No. Type                            Supplier Part No. / Description
+      130       13        Material                          IMOASMOLDD/F / INSOLE ANTI-FATIGUE M9-10.5W11-12.5
+      Additional Details:
+      Supplier Part ID : IMOASMOLDD/F
+      Line No.    PO Line No. Type                            Supplier Part No. / Description
+      140       14        Material                          KMB01500CA / PAPER TOWEL SHEETS,10 IN X 13 IN,CA16
+      Additional Details:
+      Supplier Part ID : KMB01500CA
+      Line No.    PO Line No. Type                            Supplier Part No. / Description
+      150
+                 15        Material                          KMB05925 / WIPERS X70 1/4 FOLD WH/BL STR 300/CS
+      Additional Details:
+      Supplier Part ID : KMB05925
+      Line No.    PO Line No. Type
+                                                            Supplier Part No. / Description
+      160       16        Material                          KMB21400CA / FACIAL TISSUE,100,WHITE,PK36
+      Additional Details:
+      Supplier Part ID : KMB21400CA
+      Line No.    PO Line No. Type                            Supplier Part No. / Description
+      170       17        Material                         KMB67805 / TOILET PAPER,WHITE,1000 FT. L,PK12
+      Additional Details:
+      Supplier Part ID : KMB67805
+                                                            Supplier Part No. / Description
+      Line No.    PO Line No. Type
+      180       18        Material                         MDX4600 / DISPOSABLE RESPIRATOR,M/L,N95,PK10
+      Additional Details:
+      Supplier Part ID : MDX4600
+     Line No.    PO Line No. Type                           Supplier Part No. / Description
+     190       19        Material                         RSN2477-00 / GARBAGE BAG,42 IN W,CLEAR,48 IN H
+     Additional Details:
+     Supplier Part ID : RSN2477-00
+                                                           Supplier Part No. / Description
+     Line No.    PO Line No. Type
+                            Material                         RSN2865-90 / GARBAGE BAG,36 IN W,CLEAR,50 IN H,CA250
+     200       20
+     Additional Details:
+     Supplier Part ID : RSN2865-90
+                PO Line No. Type                           Supplier Part No. / Description
+     Line No.
+                           Material                         RSN2975-08 / TRASH BAG,35 IN W,BLUE,50 IN H,CA125
+     210        21
+    Additional Details:
+     Supplier Part ID : RSN2975-08
+==================================<Page 7 - END>================================
+==================================<Page 8 - START>================================
+  Line No.    PO Line No. Type                           Supplier Part No. / Description
+220
+            22        Material                         TGY3739-01 / TRASH BAG,26 IN W,BLACK,36 IN H,CA200
+Additional Details:
+Supplier Part ID : TGY3739-01
+Line No.
+            PO Line No. Type                           Supplier Part No. / Description
+230       23        Material
+                                                       TGY3744-01 / TRASH BAG,35 IN W,BLACK,50 IN H,CA100
+Additional Details:
+Supplier Part ID : TGY3744-01
+Line No.    PO Line No. Type                           Supplier Part No. / Description
+240        24        Material                         TGY3U594 / TRIGGER SPRAYER RED
+Additional Details:
+Supplier Part ID : TGY3U594
+PDF generated on Tuesday 10 Feb. 2026 6:19 a.m. GMT-08:00
+==================================<Page 8 - END>================================

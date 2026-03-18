@@ -1,0 +1,59 @@
+{
+  "invoice_data": {
+    "invoice_number": "260421",
+    "invoice_date": "1/07/26",
+    "invoice_amount": "3467.84",
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": null,
+    "po_number": [
+      "4504615260"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": "167.84",
+    "cost_center": null,
+    "vendor_name": "BW Integrated Systems",
+    "vendor_address": "1305 Lakeview Drive, Romeoville, Illinois 60446, USA",
+    "po_line_items": [
+      {
+        "description": "KIT, 4650 INS 3PT 3STA",
+        "quantity": 2.0,
+        "net_price": 1650.0
+      }
+    ],
+    "vat_amount": null,
+    "gl_account": null,
+    "bank_name": null,
+    "account_holder_name": null,
+    "banking_account_number": null,
+    "remit_to_address": null,
+    "bill_to_address": null,
+    "transaction_type": "debit"
+  },
+  "filename": "SAPS4_5100000502_CA02_PBNACA_2026_328614998.pdf",
+  "raw_response": {
+    "invoice_number": "260421",
+    "invoice_date": "1/07/26",
+    "invoice_amount": "3467.84",
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": null,
+    "po_number": [
+      "4504615260"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": "167.84",
+    "cost_center": null,
+    "vendor_name": "BW Integrated Systems",
+    "vendor_address": "1305 Lakeview Drive, Romeoville, Illinois 60446, USA",
+    "po_line_items": [
+      {
+        "description": "KIT, 4650 INS 3PT 3STA",
+        "quantity": 2.0,
+        "net_price": 1650.0
+      }
+    ]
+  }
+}

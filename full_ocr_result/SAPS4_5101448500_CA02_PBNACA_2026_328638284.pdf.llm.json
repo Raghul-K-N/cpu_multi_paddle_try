@@ -1,0 +1,59 @@
+{
+  "invoice_data": {
+    "invoice_number": "2109849809",
+    "invoice_date": "02/02/2026",
+    "invoice_amount": "3068.63",
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": "146.13",
+    "po_number": [
+      "M413540999"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "MESSER",
+    "vendor_address": "MESSER CANADA INC., 15687 P.O. BOX 15687, STATION A, TORONTO ON M5W 1C1",
+    "po_line_items": [
+      {
+        "description": "BEVERAGE CO2 SZ",
+        "quantity": 200.0,
+        "net_price": 14.04
+      }
+    ],
+    "vat_amount": null,
+    "gl_account": null,
+    "bank_name": null,
+    "account_holder_name": null,
+    "banking_account_number": null,
+    "remit_to_address": null,
+    "bill_to_address": null,
+    "transaction_type": "debit"
+  },
+  "filename": "SAPS4_5101448500_CA02_PBNACA_2026_328638284.pdf",
+  "raw_response": {
+    "invoice_number": "2109849809",
+    "invoice_date": "02/02/2026",
+    "invoice_amount": "3068.63",
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": "146.13",
+    "po_number": [
+      "M413540999"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "MESSER",
+    "vendor_address": "MESSER CANADA INC., 15687 P.O. BOX 15687, STATION A, TORONTO ON M5W 1C1",
+    "po_line_items": [
+      {
+        "description": "BEVERAGE CO2 SZ",
+        "quantity": 200.0,
+        "net_price": 14.04
+      }
+    ]
+  }
+}

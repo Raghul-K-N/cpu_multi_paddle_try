@@ -1,0 +1,109 @@
+{
+  "invoice_data": {
+    "invoice_number": "59101558",
+    "invoice_date": "2/2/26",
+    "invoice_amount": "547.78",
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": "32.22",
+    "po_number": [
+      "4505072878"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": "19.00",
+    "cost_center": null,
+    "vendor_name": "McMaster-Carr",
+    "vendor_address": "PO Box 7690, Chicago IL 60680-7690",
+    "po_line_items": [
+      {
+        "description": "304 Stainless Steel Threaded Pipe Fitting, Low Pressure, Straight Reducer, 3/4 x 3/8 NPT Male Each",
+        "quantity": 8.0,
+        "net_price": 114.88
+      },
+      {
+        "description": "304 Stainless Steel Threaded Pipe Fitting, Low-Pressure, Straight Connector, 3/4 NPT Female Each",
+        "quantity": 8.0,
+        "net_price": 19.8
+      },
+      {
+        "description": "Stainless Steel Hose with Plumbing Fittings for Sink Faucets, Two 3/8\" Compression Female, 20\" Long Each",
+        "quantity": 4.0,
+        "net_price": 4.95
+      },
+      {
+        "description": "Stainless Steel Hose with Plumbing Fittings for Sink Faucet, Compression x Compression, 20\" Long Each",
+        "quantity": 4.0,
+        "net_price": 8.59
+      },
+      {
+        "description": "Compression Fitting for Stainless Steel Tubing, Straight Adapter for 3/8\" Tube OD x 3/8 NPT Male Each",
+        "quantity": 8.0,
+        "net_price": 28.53
+      },
+      {
+        "description": "304 Stainless Steel Threaded Pipe Fitting, Low-Pressure, Straight Connector, 3/8 NPT Female Each",
+        "quantity": 8.0,
+        "net_price": 4.33
+      }
+    ],
+    "vat_amount": null,
+    "gl_account": null,
+    "bank_name": null,
+    "account_holder_name": null,
+    "banking_account_number": null,
+    "remit_to_address": null,
+    "bill_to_address": null,
+    "transaction_type": "debit"
+  },
+  "filename": "SAPS4_5100593001_US28_PFNAUS_2026_999884635.pdf",
+  "raw_response": {
+    "invoice_number": "59101558",
+    "invoice_date": "2/2/26",
+    "invoice_amount": "547.78",
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": "32.22",
+    "po_number": [
+      "4505072878"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": "19.00",
+    "cost_center": null,
+    "vendor_name": "McMaster-Carr",
+    "vendor_address": "PO Box 7690, Chicago IL 60680-7690",
+    "po_line_items": [
+      {
+        "description": "304 Stainless Steel Threaded Pipe Fitting, Low Pressure, Straight Reducer, 3/4 x 3/8 NPT Male Each",
+        "quantity": 8.0,
+        "net_price": 114.88
+      },
+      {
+        "description": "304 Stainless Steel Threaded Pipe Fitting, Low-Pressure, Straight Connector, 3/4 NPT Female Each",
+        "quantity": 8.0,
+        "net_price": 19.8
+      },
+      {
+        "description": "Stainless Steel Hose with Plumbing Fittings for Sink Faucets, Two 3/8\" Compression Female, 20\" Long Each",
+        "quantity": 4.0,
+        "net_price": 4.95
+      },
+      {
+        "description": "Stainless Steel Hose with Plumbing Fittings for Sink Faucet, Compression x Compression, 20\" Long Each",
+        "quantity": 4.0,
+        "net_price": 8.59
+      },
+      {
+        "description": "Compression Fitting for Stainless Steel Tubing, Straight Adapter for 3/8\" Tube OD x 3/8 NPT Male Each",
+        "quantity": 8.0,
+        "net_price": 28.53
+      },
+      {
+        "description": "304 Stainless Steel Threaded Pipe Fitting, Low-Pressure, Straight Connector, 3/8 NPT Female Each",
+        "quantity": 8.0,
+        "net_price": 4.33
+      }
+    ]
+  }
+}

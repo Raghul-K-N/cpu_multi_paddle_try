@@ -1,0 +1,59 @@
+{
+  "invoice_data": {
+    "invoice_number": "253020",
+    "invoice_date": "04-Feb-26",
+    "invoice_amount": null,
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": "70.22",
+    "po_number": [
+      "4503048022"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": "448.98",
+    "cost_center": null,
+    "vendor_name": "Acrison,Inc.",
+    "vendor_address": "20 Empire Blvd., Moonachie, NJ 07074 USA",
+    "po_line_items": [
+      {
+        "description": "ADapter Auger Dr 1015x W/3/8pIn 316",
+        "quantity": 1.0,
+        "net_price": 378.76
+      }
+    ],
+    "vat_amount": null,
+    "gl_account": null,
+    "bank_name": null,
+    "account_holder_name": null,
+    "banking_account_number": null,
+    "remit_to_address": null,
+    "bill_to_address": null,
+    "transaction_type": "debit"
+  },
+  "filename": "SAPS4_5100253510_CA11_PFNACA_2026_304672241.pdf",
+  "raw_response": {
+    "invoice_number": "253020",
+    "invoice_date": "04-Feb-26",
+    "invoice_amount": null,
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": "70.22",
+    "po_number": [
+      "4503048022"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": "448.98",
+    "cost_center": null,
+    "vendor_name": "Acrison,Inc.",
+    "vendor_address": "20 Empire Blvd., Moonachie, NJ 07074 USA",
+    "po_line_items": [
+      {
+        "description": "ADapter Auger Dr 1015x W/3/8pIn 316",
+        "quantity": 1.0,
+        "net_price": 378.76
+      }
+    ]
+  }
+}

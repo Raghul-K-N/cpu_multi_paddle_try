@@ -1,0 +1,119 @@
+{
+  "invoice_data": {
+    "invoice_number": "4732535908",
+    "invoice_date": "02/11/2026",
+    "invoice_amount": "74.88",
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": "6.24",
+    "po_number": [
+      "M413458241"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": "0.00",
+    "cost_center": null,
+    "vendor_name": "VESTIS",
+    "vendor_address": "FRITO LAY MAINTENANCE, 1450 W. MARICOPA HWY., CASA GRANDE AZ 85222",
+    "po_line_items": [
+      {
+        "description": "CE0096SLVN ST SOIL LOCKER",
+        "quantity": 0.0,
+        "net_price": 0.0
+      },
+      {
+        "description": "DM0001DKGY MAT NYLON/RUBBER",
+        "quantity": 24.0,
+        "net_price": 0.826
+      },
+      {
+        "description": "DM0025BLAK SCRAPER MAT",
+        "quantity": 6.0,
+        "net_price": 0.0
+      },
+      {
+        "description": "DM0408BRWNMAT E SERIES",
+        "quantity": 3.0,
+        "net_price": 2.143
+      },
+      {
+        "description": "DO0020REDD FENDER SEAT COVER",
+        "quantity": 15.0,
+        "net_price": 0.429
+      },
+      {
+        "description": "TS0002FWWT SHOP TOWEL PLAIN",
+        "quantity": 0.0,
+        "net_price": 0.0
+      },
+      {
+        "description": "XX0257GREY LNDRY BAG ERGO",
+        "quantity": 0.0,
+        "net_price": 0.0
+      }
+    ],
+    "vat_amount": null,
+    "gl_account": null,
+    "bank_name": null,
+    "account_holder_name": null,
+    "banking_account_number": null,
+    "remit_to_address": null,
+    "bill_to_address": null,
+    "transaction_type": "debit"
+  },
+  "filename": "SAPS4_5100233504_US30_PFNAUS_2026_999884983.pdf",
+  "raw_response": {
+    "invoice_number": "4732535908",
+    "invoice_date": "02/11/2026",
+    "invoice_amount": "74.88",
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": "6.24",
+    "po_number": [
+      "M413458241"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": "0.00",
+    "cost_center": null,
+    "vendor_name": "VESTIS",
+    "vendor_address": "FRITO LAY MAINTENANCE, 1450 W. MARICOPA HWY., CASA GRANDE AZ 85222",
+    "po_line_items": [
+      {
+        "description": "CE0096SLVN ST SOIL LOCKER",
+        "quantity": 0.0,
+        "net_price": 0.0
+      },
+      {
+        "description": "DM0001DKGY MAT NYLON/RUBBER",
+        "quantity": 24.0,
+        "net_price": 0.826
+      },
+      {
+        "description": "DM0025BLAK SCRAPER MAT",
+        "quantity": 6.0,
+        "net_price": 0.0
+      },
+      {
+        "description": "DM0408BRWNMAT E SERIES",
+        "quantity": 3.0,
+        "net_price": 2.143
+      },
+      {
+        "description": "DO0020REDD FENDER SEAT COVER",
+        "quantity": 15.0,
+        "net_price": 0.429
+      },
+      {
+        "description": "TS0002FWWT SHOP TOWEL PLAIN",
+        "quantity": 0.0,
+        "net_price": 0.0
+      },
+      {
+        "description": "XX0257GREY LNDRY BAG ERGO",
+        "quantity": 0.0,
+        "net_price": 0.0
+      }
+    ]
+  }
+}

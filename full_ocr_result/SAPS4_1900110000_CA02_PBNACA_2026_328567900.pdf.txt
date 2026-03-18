@@ -1,0 +1,274 @@
+==================================<Page 1 - START>================================
+  OpenText Workflow History
+  Vendor
+  BLANEY MCMURTRY LLP
+  BLANEY MCMURTRY LLP
+  2 QUEEN ST E
+  STE 1500
+   TORONTO ON
+               M5C 3G5
+   CANADA
+   Invoice
+   Reference        838151
+                                                              Document Date    31.10.2025
+   DP Document No.  37810793
+                                                              Net Amount       CAD         1,235.00
+   Comp. Code       CA02 Pepsi Bottling Grp Canada          Tax Amount
+                                                                                CAD             160.55
+  Posting Date
+                     13.02.2026                               Gross Amount
+                                                                                CAD          1,395.55
+  SAP Document No. 1900110000 2026
+                                          Pre-Process History
+   ACTIVITY                                             USER
+                                                                      END TIME          DOCUMENT STATUS
+   Update status                                        VRBLAOT_U  16.12.2025       Validation
+                                                          SR         19:30:40          Complete
+                                      Document Process History
+   ACTIVITY         PROCESS TYPE/BLOCK REASON          USER        END TIME         DOCUMENT STATUS
+   BC Inbound                                            VRBLAOT_U  16.12.2025       Document
+                                                         SR          18:24:26          Registered
+  Workflow Start   Invalid Requestor ID (NPO)         Record to  16.12.2025        Created
+                                                         Report      19:30:40
+                                                         Batch
+                                                         Account
+                                                         Owner:
+  Apply Business   Invalid Requestor ID (NPO)         KARTHIK M  21.12.2025        Created
+  Rules
+                                                                      11:22:52
+  Comment:
+Changed By:
+                KARTHIK M (09368931)
+Changed On:   12/21/2025 11:22:51
+***********************************************************************
+Hi,
+Please update mandatory details & approve to process.
+Business Rules    Approval Required (NPO)             SAP_WFRT    21.12.2025        Indexed
+Check in BG
+                                                                      11:22:54
+  Invoice submitted for Approval
+                                                                      21.12.2025 11:22:54
+  Financial Information Entered                       HARJOT      10.02.2026 19:55:47
+                                                         GILL
+  Financial Information Entered
+                                                         HARJOT      10.02.2026 19:56:36
+                                                         GILL
+  Financial Information Entered                       HARJOT      10.02.2026 19:58:15
+                                                         GILL
+==================================<Page 1 - END>================================
+==================================<Page 2 - START>================================
+OpenText Workflow History
+Invoice
+Vendor
+                    BLANEY MCMURTRY LLP TORONTO
+Reference
+                    838151                              Gross Amount     CAD        1,395.55
+                              Document Process History - Continuation
+  ACTIVITY          PROCESS TYPE/BLOCK REASON          USER        END TIME          DOCUMENT STATUS
+    Data Entered and Invoice Approved                   HARJOT      10.02.2026 19:58:34
+                                                          GILL
+     Comment:
+    Sault St.Marie, Ontario pro fees
+                                                          YUANXI      11.02.2026 21:59:00
+     Invoice Rejected
+                                                          ZHANG
+     Comment:
+     Missing GL Information, Requestor will resubmit.
+     Financial Information Entered                       HARJOT     12.02.2026 21:30:08
+                                                          GILL
+     Financial Information Entered                       HARJOT     12.02.2026 21:30:17
+                                                          GILL
+                                                          HARJOT     12.02.2026 21:30:27
+     Data Entered and Invoice Approved
+                                                          GILL
+      Comment:
+     Sault.St Marie
+                                                                      12.02.2026 21:54:29
+      Invoice Approved                                    YUANXI
+                                                          ZHANG
+   Approval         Approval Required (NPo)            SAP_WFRT   12.02.2026        Approval
+                                                                      21:54:34          Complete
+   Workflow
+   Business Rules   Process Non-PO Invoice (NPO)       SAP_WFRT   12.02.2026        Approval
+   Check in BG                                                       21:54:36          Complete
+   Create Doc. BG                                                    12.02.2026        Sent for Doc
+                      Process Non-Po Invoice (NPO)       SAP_WFRT
+                                                                      21:54:37          Creation
+   Post Non-PO      Process Non-Po Invoice (NPo)       NAVINKUMA  13.02.2026        Document
+   Invoice                                              RR        10:43:43          Created
+   SAP Document                                          SAP_WFRT   13.02.2026        Posted
+   Check                                                             10:43:51
+==================================<Page 2 - END>================================
+==================================<Page 3 - START>================================
+          PEPSICO
+                 Instructions: When there is not an "Official" Invoice to request payment, complete the information on this form.
+1. Fill in the Description field below with the payment type - for example: Donation / Taxes / Other
+2. You must fll in all of the fields below and the form must be accompanied with supporting documentation
+Save submission as 1 single PDF file prior to attaching to SharePoint request
+4. The form can be used for the following invoice/payment type activity:
+5. Submit PDF form to --> NAssAPInvoiceSubmission@PepsiCo.com
+                                            Non-PO Invoice
+                                       SAP Payment Request
+                                      Substitute Invoice Form
+Vendor Name:                      Blaney McMurty LLP
+Vendor Number:
+                                           2000020762
+Company Code:
+                                          CA02
+Remit To Address :                2 Queen St E
+(Must match the address in the AP system)  Toronto, Ontario, M5C 3G5
+                                          Canada
+Trnsaction type:                    Invoice
+                                          *choose only 1 option - Invoice or Credit Memo from the dropdown
+Invoice Date:                        10/31/2025
+Invoice #:                            838151
+                                          *Limited to 16 characters
+Purchase Order #
+(not required if non-PO)
+                                          (not required if non-PO)
+Payment GROSS Amount:       $1,395.55
+Tax Amount (if applicable):                 $160.55
+Payment NET Amount:           $1,235.00
+Currency
+                                         CA
+Header Text:                        Payment of Blaney's Invoice
+Requestor Name:                  Harjot Gill
+Requestor email
+                                          harjot.gill@pepsico.com
+Date Requested:                   12/12/2025
+For Assistance On This Form submission please contact:
+NASSAPSpecialRequest@pepsico.com
+==================================<Page 3 - END>================================
+==================================<Page 4 - START>================================
+                Blaney
+                                                                                                )416-593-1221
+                                                                 Blaney McMurtry LLP | Lawyers
+                                                                 2 Queen Street Éast Suite 1500
+            McMurtryP                                                       )Blaney.com
+                                                                 Toronto, Ontario M5C 3G5
+                                                                             Invoice Date:    October 31, 2025
+       PepsiCo Canada ULC
+       2095 Matheson Boulevard East                                                                  838151
+                                                                          Invoice Number:
+       Mississauga, ON L4W 0G2                                        Matter Number:        100686-0073
+                                                                             HST Number:         R119444149
+       Attention:   Clare Smith
+                     Sr. VP General Counsel
+                                                    INVOICE
+       Matter: sale to Sahib Singh Jugdey, in trust, 430 Industrial Park Crescent, Sault St. Marie, Ontario
+       To our professional services up to and including October 31, 2025.
+                                                                                                        Amount
+                                                                                   Tax Rate
+                                                                                                          (CAD)
+                                                                                                       1,235.00
+       Professional Fees                                                           13.00%
+                                                                                                        1,235.00
+                                                                                    Subtotal
+                                                                              Tax @ 13.00%            160.55
+                                                                           Amount payable         $1,395.55
+       BLANEY McMURTRY LLP
+       Brett J. Tkatch
+      E. & O.E
+                                                Invoice due on receipt
+==================================<Page 4 - END>================================
+==================================<Page 5 - START>================================
+     Matter Number: 100686-0073
+                                                                             Invoice Date:       October 31, 2025
+     Matter:
+                        sale to Sahib Singh Jugdey, in trust, 430 Industrial Invoice Number:
+                                                                                                             838151
+                        Park Crescent, Sault St. Marie, Ontario
+      Date
+                       Initials           Description                                                      Hours
+      2025-09-02   JMW
+                                         Review executed agreement of purchase and sale;                  0.60
+                                          commence to draft critical dates list
+       2025-09-04   JMW
+                                          Review agreement of purchase and sale and draft list               0.70
+                                          of critical dates; draft correspondence to client's broker
+                                         regarding same
+       2025-09-05   JMW             Review correspondence from client's broker                        0.10
+       2025-09-08
+                      JMW             Review correspondence from client's broker regarding              0.30
+                                         scope of work for Phase Il Environmental Site
+                                         Assessment to be performed by purchaser's
+                                         environmental consultant; draft reply to client's broker
+                                         regarding same
+       2025-09-11   JMW             Review correspondence from client's broker; draft                  0.10
+                                         reply to same
+      2025-09-18   JMW             Review correspondence from client's broker; review                0.10
+                                         correspondence from client
+      Total
+                                                                                                             1.90
+     Timekeeper Summary
+    Name                              Title                         Hours                          Amount
+                                                                                          Rate
+    Warren, Jeffrey M.                  Partner                        1.90        650.00          1,235.00
+    Total
+                                                                           1.90                        $1,235.00
+==================================<Page 5 - END>================================
+==================================<Page 6 - START>================================
+              Blaney
+                                                               Blaney McMurtry LLP | Lawyers     416-593-1221
+                                                              2 Queen Street East Suite 1500
+         McMurtryP                                                         Blaney.com
+                                                              Toronto, Ontario M5C 3G5
+  PepsiCo Canada ULC                                                 Invoice Date:    October 31, 2025
+  2095 Matheson Boulevard East                                     Invoice Number:              838151
+  Mississauga, ON L4W 0G2                                          Matter Number:         100686-0073
+                                                                          HST Number:         R119444149
+  Attention:    Clare Smith
+                Sr. VP General Counsel
+                                             REMITTANCE COPY
+     sale to Sahib Singh Jugdey, in trust, 430 Industrial Park Crescent, Sault St. Marie, Ontario
+Invoice Date                                                                                Balance Due
+                               Invoice Number
+Current Invoice
+                                                                                                     $1,395.55
+2025-10-31                 838151
+                                                                                                     $1,395.55
+Balance Due
+                      To pay by Visa, Mastercard, Amex, or      To pay by Wire (CAD):
+Please Remit to:
+                     Interac e-Transfer please Click here to pay   TD Cánada Trust, Bank No. 004, Transit No. 10252,
+                                                                General Account No. 0680-5215022
+                      To ensure that your payment is applied       Swift Code: TDOMCATTTOR
+                      correctly, please send us an email, including
+                                                               For USD Payments:
+                      the invoice number(s) being paid and the file
+                                                               Bank No: 004; Transit No: 10252
+                      number, to: clientservices@blaney.com
+                                                               Beneficiary Acct Name: Blaney McMurtry LLP
+                                                               2 Queen Street East Suite 1500 Torontó ON Canada
+                                                               USD General Acct: 0680-7309161
+                                                                Swift Code: BOFAUS3NXXX
+                                                                ABA Routing No: 026009593
+                                                                US Intermediary Bank: Bank of America New York, NY
+                                                                (Please Reference Invoice Number)
+==================================<Page 6 - END>================================
+==================================<Page 7 - START>================================
+          From: SPA - PepsiCo Nass AP Invoice Submission <nassapInvoiceSubmission@pepsico.com>
+           Sent: Fri, 12 Dec 2025 21:18:00 (UTC)
+           To: svcimagingspaboxprod@pepsico.com
+           Subject: FW: Non-PO Invoice
+           Original Number of Attachments : 6
+           Original Attachment Names: 840256- Non PO.pdf,840255 - Non PO.pdf,840254 - Non
+           PO.pdf,838151 - Non PO.pdf,838150 - Non PO.pdf,833558 - Non PO.pdf
+          Number of forwarded PDF's: 6
+           Number of forwarded Non PDF files: 0
+          From: Gill, Harjot {PEP} <Harjot.Gill@pepsico.com>
+           Sent: Friday, December 12, 2025 9:16:13 PM
+          To: SPA - PepsiCo NASS AP Special Request <nassapspecialrequest@pepsico.com>; SPA - PepsiCo Nass
+          AP Invoice Submission <nassaplnvoiceSubmission@pepsico.com>
+          Subject: Non-PO Invoice
+          Hello -
+          Please process attached invoices.
+          Kind regards,
+          Harjot Gill, CPA
+          Senior Analyst| PepsiCo Beverages Canada
+          2095 Matheson Boulevard East, Mississauga ON L4W 0G2
+          Email: harjot.gill@pepsico.com
+==================================<Page 7 - END>================================
+==================================<Page 8 - START>================================
+    PEPSI
+==================================<Page 8 - END>================================

@@ -1,0 +1,79 @@
+{
+  "invoice_data": {
+    "invoice_number": "2700865",
+    "invoice_date": "1/17/2026",
+    "invoice_amount": null,
+    "invoice_currency": null,
+    "tax_amount": null,
+    "po_number": [
+      "BulkCases171507",
+      "Full-BatchCase17150737627",
+      "Totes1715064119"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "A Capstone Logistics Company",
+    "vendor_address": "30 Technology Pkwy South, Suite 200, Peachtree Corners, GA 30092, USA",
+    "po_line_items": [
+      {
+        "description": "BulkCases171507",
+        "quantity": 35915.0,
+        "net_price": 39039.6
+      },
+      {
+        "description": "Full-BatchCase17150737627",
+        "quantity": 3870.0,
+        "net_price": 4206.69
+      },
+      {
+        "description": "Totes1715064119",
+        "quantity": 10305.0,
+        "net_price": 11201.54
+      }
+    ],
+    "vat_amount": null,
+    "gl_account": null,
+    "bank_name": null,
+    "account_holder_name": null,
+    "banking_account_number": null,
+    "remit_to_address": null,
+    "bill_to_address": null,
+    "transaction_type": "debit"
+  },
+  "filename": "SAPS4_5100132530_US29_PFNAUS_2026_999936543.pdf",
+  "raw_response": {
+    "invoice_number": "2700865",
+    "invoice_date": "1/17/2026",
+    "invoice_amount": null,
+    "invoice_currency": null,
+    "tax_amount": null,
+    "po_number": [
+      "BulkCases171507",
+      "Full-BatchCase17150737627",
+      "Totes1715064119"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "A Capstone Logistics Company",
+    "vendor_address": "30 Technology Pkwy South, Suite 200, Peachtree Corners, GA 30092, USA",
+    "po_line_items": [
+      {
+        "description": "BulkCases171507",
+        "quantity": 35915.0,
+        "net_price": 39039.6
+      },
+      {
+        "description": "Full-BatchCase17150737627",
+        "quantity": 3870.0,
+        "net_price": 4206.69
+      },
+      {
+        "description": "Totes1715064119",
+        "quantity": 10305.0,
+        "net_price": 11201.54
+      }
+    ]
+  }
+}

@@ -1,0 +1,47 @@
+{
+  "invoice_data": {
+    "invoice_number": "5180556105",
+    "invoice_date": "02/12/2026",
+    "invoice_amount": "32.55",
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": null,
+    "po_number": [
+      "M412782571"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": "0.00",
+    "cost_center": null,
+    "vendor_name": "VESTIS",
+    "vendor_address": "1190 SPRECKLES RD, MANTECA CA 95336",
+    "po_line_items": null,
+    "vat_amount": null,
+    "gl_account": null,
+    "bank_name": null,
+    "account_holder_name": null,
+    "banking_account_number": null,
+    "remit_to_address": null,
+    "bill_to_address": null,
+    "transaction_type": "debit"
+  },
+  "filename": "SAPS4_5100213028_US29_PFNAUS_2026_999936092.pdf",
+  "raw_response": {
+    "invoice_number": "5180556105",
+    "invoice_date": "02/12/2026",
+    "invoice_amount": "32.55",
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": null,
+    "po_number": [
+      "M412782571"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": "0.00",
+    "cost_center": null,
+    "vendor_name": "VESTIS",
+    "vendor_address": "1190 SPRECKLES RD, MANTECA CA 95336",
+    "po_line_items": null
+  }
+}

@@ -1,0 +1,59 @@
+{
+  "invoice_data": {
+    "invoice_number": "MD7301106796",
+    "invoice_date": "Friday 13 Feb 2026 10:24 AM GMT-06:00",
+    "invoice_amount": "217.11",
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": "11.06",
+    "po_number": [
+      "M413528262"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "MOTION INDUSTRIES",
+    "vendor_address": "BOX 504606, ST. LOUIS, MO 631500000, United States, Address ID: 05-186-4486, Address ID: US28",
+    "po_line_items": [
+      {
+        "description": "STRIPPING TOOL",
+        "quantity": 1.0,
+        "net_price": 184.24
+      }
+    ],
+    "vat_amount": null,
+    "gl_account": null,
+    "bank_name": null,
+    "account_holder_name": null,
+    "banking_account_number": null,
+    "remit_to_address": null,
+    "bill_to_address": null,
+    "transaction_type": "debit"
+  },
+  "filename": "SAPS4_5100398065_US28_PFNAUS_2026_999872926.pdf",
+  "raw_response": {
+    "invoice_number": "MD7301106796",
+    "invoice_date": "Friday 13 Feb 2026 10:24 AM GMT-06:00",
+    "invoice_amount": "217.11",
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": "11.06",
+    "po_number": [
+      "M413528262"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "MOTION INDUSTRIES",
+    "vendor_address": "BOX 504606, ST. LOUIS, MO 631500000, United States, Address ID: 05-186-4486, Address ID: US28",
+    "po_line_items": [
+      {
+        "description": "STRIPPING TOOL",
+        "quantity": 1.0,
+        "net_price": 184.24
+      }
+    ]
+  }
+}

@@ -1,0 +1,79 @@
+{
+  "invoice_data": {
+    "invoice_number": "INV555888",
+    "invoice_date": "01/31/2026",
+    "invoice_amount": "5030.76",
+    "invoice_currency": [
+      "CAD"
+    ],
+    "tax_amount": "578.76",
+    "po_number": [
+      "M413495613"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "KAS+Staffing",
+    "vendor_address": "7045 Edwards Blvd, Suite # 401, Mississauga, ON L5S 1X2",
+    "po_line_items": [
+      {
+        "description": "Otaal, Gurkirat",
+        "quantity": 44.0,
+        "net_price": 42.0
+      },
+      {
+        "description": "Sheikh, Shoaib",
+        "quantity": 44.0,
+        "net_price": 42.0
+      },
+      {
+        "description": "Sheikh, Shoaib",
+        "quantity": 12.0,
+        "net_price": 63.0
+      }
+    ],
+    "vat_amount": null,
+    "gl_account": null,
+    "bank_name": null,
+    "account_holder_name": null,
+    "banking_account_number": null,
+    "remit_to_address": null,
+    "bill_to_address": null,
+    "transaction_type": "debit"
+  },
+  "filename": "SAPS4_5101433002_CA11_PFNACA_2026_304658728.pdf",
+  "raw_response": {
+    "invoice_number": "INV555888",
+    "invoice_date": "01/31/2026",
+    "invoice_amount": "5030.76",
+    "invoice_currency": [
+      "CAD"
+    ],
+    "tax_amount": "578.76",
+    "po_number": [
+      "M413495613"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "KAS+Staffing",
+    "vendor_address": "7045 Edwards Blvd, Suite # 401, Mississauga, ON L5S 1X2",
+    "po_line_items": [
+      {
+        "description": "Otaal, Gurkirat",
+        "quantity": 44.0,
+        "net_price": 42.0
+      },
+      {
+        "description": "Sheikh, Shoaib",
+        "quantity": 44.0,
+        "net_price": 42.0
+      },
+      {
+        "description": "Sheikh, Shoaib",
+        "quantity": 12.0,
+        "net_price": 63.0
+      }
+    ]
+  }
+}

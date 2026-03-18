@@ -1,0 +1,55 @@
+{
+  "invoice_data": {
+    "invoice_number": "FC-3-26-001151",
+    "invoice_date": "02/01/2026",
+    "invoice_amount": null,
+    "invoice_currency": null,
+    "tax_amount": null,
+    "po_number": [
+      "M413532511"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "JUDOE INC.",
+    "vendor_address": "Judoe Inc./a Jan-Pro Cleaning Systems of Southwestern Ontario, 361 Consortium Court, _ondon, ON N6E 2S8",
+    "po_line_items": [
+      {
+        "description": "[JP-RS] Regular cleaning service",
+        "quantity": 1.0,
+        "net_price": 1340.0
+      }
+    ],
+    "vat_amount": null,
+    "gl_account": null,
+    "bank_name": null,
+    "account_holder_name": null,
+    "banking_account_number": null,
+    "remit_to_address": null,
+    "bill_to_address": null,
+    "transaction_type": "debit"
+  },
+  "filename": "SAPS4_5100824511_CA02_PBNACA_2026_328615138.pdf",
+  "raw_response": {
+    "invoice_number": "FC-3-26-001151",
+    "invoice_date": "02/01/2026",
+    "invoice_amount": null,
+    "invoice_currency": null,
+    "tax_amount": null,
+    "po_number": [
+      "M413532511"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "JUDOE INC.",
+    "vendor_address": "Judoe Inc./a Jan-Pro Cleaning Systems of Southwestern Ontario, 361 Consortium Court, _ondon, ON N6E 2S8",
+    "po_line_items": [
+      {
+        "description": "[JP-RS] Regular cleaning service",
+        "quantity": 1.0,
+        "net_price": 1340.0
+      }
+    ]
+  }
+}

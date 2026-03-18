@@ -1,0 +1,396 @@
+==================================<Page 1 - START>================================
+Standard Invoice                                                                                                  GRAINGER
+Original tax invoice has been submitted electronically. This is a
+human readable representation (copy) of the original tax invoice.
+                                                                  Invoice Number                                        9669061161
+                                                                  (Supplier Reference No.)
+                                                                 Invoice Date                  Wednesday 8 Oct. 2025 7:10 a.m. GMT-05:00
+                                                                                                                    $313.26 CAD
+                                                                 Amount Due
+    Contact Information
+                                                                           Shipping Information
+    Supplier                      Customer                                                               Ship To
+                                                                           Ship From
+     ACKLANDS-GRAINGER INC.        EDI ONLY PEPSI BOTTLING                     AGI CALEDON DC               CA-PL-SAINT LAURENT-QC-
+     PO BOX 2970                  GRP CANADA                               21 Merchant Road                PBCCAN
+     WINNIPEG                    3700 BOUL THIMENS                         Caledon                       3700 BOUL THIMENS
+     MB                          SAINT-LAURENT                            ON                          SAINT-LAURENT
+                                  QC                                      L7C 3Y7                       QC
+     R3C 4B5
+                                  H4R 1T8                                   Canada                        H4R 1T8
+     CA
+                                  Canada                                                                Canada
+                                                                                                                 PO Date : 8 Oct. 2025
+   Line Items                                              PO No. : M413302311
+                                                                                                                          Subtotal
+   Line No.                      Type   Supplier Part No. /             Customer Part No.         Quantity            Unit Price
+             PO Line No.
+                                       Description                                        (UOM)
+                                                                                        1 / (PK)           $10.50 CAD      $10.50 CAD
+   10        1                 Material GGS3EZC6 / BONNET BOUFF
+                                        POLYPR BLNC 28P 100/PQ
+                                                                                                      Line Item Total : $10.50 CAD
+   Line No.                              Supplier Part No. /             Customer Part No.        Quantity            Unit Price         Subtotal
+             PO Line No.          Type
+                                        Description                                        (UOM)
+   30       3                 Material  OLFSK4 / COUTEAU SECURITE                         6 / (EA)           $11.68 CAD      $70.08 CAD
+                                        AUTORETRACTABLE
+                                                                                                     Line Item Total : $70.08 CAD
+                                                                  Customer Part No.        Quantity            Unit Price         Subtotal
+   Line No.    PO Line No.          Type    Supplier Part No. /
+                                                                                       (UOM)
+                                       Description
+                                                                                       72 / (PR)           $1.23 CAD      $88.56 CAD
+   40       4                 Material SUGS13BKPUQ10 / GANTS
+                                        NYLON NOIRS TAILLE 10
+                                                                                                     Line Item Total : $88.56 CAD
+                                                                                                                          Subtotal
+   Line No.    PO Line No.          Type    Supplier Part No. /             Customer Part No.         Quantity            Unit Price
+                                        Description                                        (UOM)
+                                                                                       12 / (PR)           $1.23 CAD      $14.76 CAD
+   50        5                 Material  SUGS13BKPUQ8 / GANTS NYLON
+                                        NOIR ENDUITS TAILLE 8
+                                                                                                     Line Item Total : $14.76 CAD
+   Line No.                      Type    Supplier Part No. /             Customer Part No.        Quantity            Unit Price         Subtotal
+             PO Line No.
+                                       Description                                        (UOM)
+   60       6                 Material  SUGS13BKPUQ9 / GANTS NYLON                       72 / (PR)           $1.23 CAD      $88.56 CAD
+                                        NOIRE TAILLE 9
+                                                                                                     Line Item Total : $88.56 CAD
+      Tax Summary
+                            Details                                                   Rate %          Amount
+      Category                                              Base Amount
+      GST                  Tax Description : GOODS AND         $272.46 CAD                5%             $13.62 CAD
+                            SERVICES
+                                                                                                     $27.18 CAD
+      PST                  Tax Description : State/Provincial        $272.46 CAD                9.975%
+                            Tax
+                                                                              Amount Summary
+                                                                                                                      $272.46 CAD
+                                                                              Line item subtotal
+                                                                              Gross amount                             $313.26 CAD
+                                                                              Net amount                              $313.26 CAD
+                                                                              Total tax amount                            $40.80 CAD
+                                                                              Total withholding tax amount
+                                                                              Amount Due                              $313.26 CAD
+    Additional Information
+    invioceSourceDocument
+    PurchaseOrder
+                                                                          Remittance Information
+    Billing Information
+                                                                          Remit To
+    Bill To
+                                                                          ACKLANDS-GRAINGER INC.
+    PEPSI BEVERAGES CANADA
+                                                                          PO BOX 2970
+    2095 MATHESON BLVD E
+                                                                          WINNIPEG
+    MISSISSAUGA
+                                                                          MB
+    ON
+                                                                          R3C 4B5
+    L4W 0G2
+                                                                          Canada
+    Canada
+                                                                          Address ID: CA1_2751
+    Address ID:
+    CA1_ARIBA_PAYABLES
+==================================<Page 1 - END>================================
+==================================<Page 2 - START>================================
+  Appendix
+ Line No.
+            POLine No. Type                            Supplier Part No. / Description
+ 10
+            1         Material                         GGS3EZC6 / BONNET BOUFF POLYPR BLNC 28P 100/PQ
+ Additional Details:
+ Supplier Part ID : GGS3EZC6
+ Line No.
+            PO Line No. Type                            Supplier Part No. / Description
+ 30        3
+                       Material                         OLFSK4 / COUTEAU SECURITE AUTORETRACTABLE
+ Additional Details:
+ Supplier Part ID : OLFSK4
+Line No.
+            PO Line No. Type                            Supplier Part No. / Description
+40        4         Material
+                                                       SUGS13BKPUQ10 / GANTS NYLON NOIRS TAILLE 10
+Additional Details:
+Supplier Part ID : SUGS13BKPUQ10
+Line No.
+            PO Line No. Type                           Supplier Part No. / Description
+50        5         Material
+                                                       SUGS13BKPUQ8 / GANTS NYLON NOIR ENDUITS TAILLE 8
+Additional Details:
+Supplier Part ID : SUGS13BKPUQ8
+Line No.    PO Line No. Type
+                                                       Supplier Part No. / Description
+60        6         Material
+                                                       SUGS13BKPUQ9 / GANTS NYLON NOIRE TAILLE 9
+Additional Details:
+Supplier Part ID : SUGS13BKPUQ9
+PDF generated on Thursday 9 Oct. 2025 6:10 a.m. GMT-07:00
+==================================<Page 2 - END>================================
+==================================<Page 3 - START>================================
+ Standard Invoice                                                                                                  GRAINGER
+ Original tax invoice has been submitted electronically. This is a
+ human readable representation (copy) of the original tax invoice.
+                                                                   Invoice Number                                        9669061161
+                                                                   (Supplier Reference No.)
+                                                                  Invoice Date                  Wednesday 8 Oct. 2025 7:10 a.m. GMT-05:00
+                                                                                                                     $313.26 CAD
+                                                                  Amount Due
+      Contact Information
+                                                                            Shipping Information
+      Supplier                      Customer                                                               Ship To
+                                                                            Ship From
+      ACKLANDS-GRAINGER INC.        EDI ONLY PEPSI BOTTLING                     AGI CALEDON DC               CA-PL-SAINT LAURENT-QC-
+      PO BOX 2970                  GRP CANADA                               21 Merchant Road                PBCCAN
+      WINNIPEG                    3700 BOUL THIMENS                         Caledon                       3700 BOUL THIMENS
+      MB                          SAINT-LAURENT                            ON                          SAINT-LAURENT
+                                   QC                                      L7C 3Y7                       QC
+      R3C 4B5
+                                   H4R 1T8                                   Canada                        H4R 1T8
+      CA
+                                   Canada                                                                Canada
+                                                                                                                  PO Date : 8 Oct. 2025
+    Line Items                                              PO No. : M413302311
+                                                                                                                            Subtotal
+    Line No.                      Type   Supplier Part No. /             Customer Part No.         Quantity            Unit Price
+              PO Line No.
+                                        Description                                        (UOM)
+                                                                                         1 / (PK)           $10.50 CAD      $10.50 CAD
+    10        1                 Material GGS3EZC6 / BONNET BOUFF
+                                         POLYPR BLNC 28P 100/PQ
+                                                                                                       Line Item Total : $10.50 CAD
+    Line No.                              Supplier Part No. /             Customer Part No.        Quantity            Unit Price         Subtotal
+              PO Line No.          Type
+                                         Description                                        (UOM)
+    30       3                 Material  OLFSK4 / COUTEAU SECURITE                         6 / (EA)           $11.68 CAD      $70.08 CAD
+                                         AUTORETRACTABLE
+                                                                                                      Line Item Total : $70.08 CAD
+                                                                   Customer Part No.        Quantity            Unit Price         Subtotal
+    Line No.    PO Line No.          Type    Supplier Part No. /
+                                                                                        (UOM)
+                                        Description
+                                                                                        72 / (PR)           $1.23 CAD      $88.56 CAD
+    40       4                 Material SUGS13BKPUQ10 / GANTS
+                                         NYLON NOIRS TAILLE 10
+                                                                                                      Line Item Total : $88.56 CAD
+                                                                                                                           Subtotal
+    Line No.    PO Line No.          Type    Supplier Part No. /             Customer Part No.         Quantity            Unit Price
+                                         Description                                        (UOM)
+                                                                                        12 / (PR)           $1.23 CAD      $14.76 CAD
+    50        5                 Material  SUGS13BKPUQ8 / GANTS NYLON
+                                         NOIR ENDUITS TAILLE 8
+                                                                                                      Line Item Total : $14.76 CAD
+    Line No.                      Type    Supplier Part No. /             Customer Part No.        Quantity            Unit Price         Subtotal
+              PO Line No.
+                                        Description                                        (UOM)
+    60       6                 Material  SUGS13BKPUQ9 / GANTS NYLON                       72 / (PR)           $1.23 CAD      $88.56 CAD
+                                         NOIRE TAILLE 9
+                                                                                                      Line Item Total : $88.56 CAD
+        Tax Summary
+                             Details                                                   Rate %          Amount
+       Category                                              Base Amount
+       GST                  Tax Description : GOODS AND         $272.46 CAD                5%             $13.62 CAD
+                             SERVICES
+                                                                                                      $27.18 CAD
+       PST                  Tax Description : State/Provincial        $272.46 CAD                9.975%
+                             Tax
+                                                                               Amount Summary
+                                                                                                                       $272.46 CAD
+                                                                               Line item subtotal
+                                                                               Gross amount                             $313.26 CAD
+                                                                               Net amount                              $313.26 CAD
+                                                                               Total tax amount                            $40.80 CAD
+                                                                               Total withholding tax amount
+                                                                               Amount Due                              $313.26 CAD
+      Additional Information
+      invioceSourceDocument
+      PurchaseOrder
+                                                                           Remittance Information
+     Billing Information
+                                                                           Remit To
+     Bill To
+                                                                           ACKLANDS-GRAINGER INC.
+     PEPSI BEVERAGES CANADA
+                                                                           PO BOX 2970
+     2095 MATHESON BLVD E
+                                                                           WINNIPEG
+     MISSISSAUGA
+                                                                           MB
+     ON
+                                                                           R3C 4B5
+     L4W 0G2
+                                                                           Canada
+     Canada
+                                                                           Address ID: CA1_2751
+     Address ID:
+     CA1_ARIBA_PAYABLES
+==================================<Page 3 - END>================================
+==================================<Page 4 - START>================================
+  Appendix
+ Line No.
+            POLine No. Type                            Supplier Part No. / Description
+ 10
+            1         Material                         GGS3EZC6 / BONNET BOUFF POLYPR BLNC 28P 100/PQ
+ Additional Details:
+ Supplier Part ID : GGS3EZC6
+ Line No.
+            PO Line No. Type                            Supplier Part No. / Description
+ 30        3
+                       Material                         OLFSK4 / COUTEAU SECURITE AUTORETRACTABLE
+ Additional Details:
+ Supplier Part ID : OLFSK4
+Line No.
+            PO Line No. Type                            Supplier Part No. / Description
+40        4         Material
+                                                       SUGS13BKPUQ10 / GANTS NYLON NOIRS TAILLE 10
+Additional Details:
+Supplier Part ID : SUGS13BKPUQ10
+Line No.
+            PO Line No. Type                           Supplier Part No. / Description
+50        5         Material
+                                                       SUGS13BKPUQ8 / GANTS NYLON NOIR ENDUITS TAILLE 8
+Additional Details:
+Supplier Part ID : SUGS13BKPUQ8
+Line No.    PO Line No. Type
+                                                       Supplier Part No. / Description
+60        6         Material
+                                                       SUGS13BKPUQ9 / GANTS NYLON NOIRE TAILLE 9
+Additional Details:
+Supplier Part ID : SUGS13BKPUQ9
+PDF generated on Thursday 9 Oct. 2025 6:10 a.m. GMT-07:00
+==================================<Page 4 - END>================================
+==================================<Page 5 - START>================================
+ Standard Invoice                                                                                                  GRAINGER
+ Original tax invoice has been submitted electronically. This is a
+ human readable representation (copy) of the original tax invoice.
+                                                                   Invoice Number                                        9669061161
+                                                                   (Supplier Reference No.)
+                                                                  Invoice Date                  Wednesday 8 Oct. 2025 7:10 a.m. GMT-05:00
+                                                                                                                     $313.26 CAD
+                                                                  Amount Due
+      Contact Information
+                                                                            Shipping Information
+      Supplier                      Customer                                                               Ship To
+                                                                            Ship From
+      ACKLANDS-GRAINGER INC.        EDI ONLY PEPSI BOTTLING                     AGI CALEDON DC               CA-PL-SAINT LAURENT-QC-
+      PO BOX 2970                  GRP CANADA                               21 Merchant Road                PBCCAN
+      WINNIPEG                    3700 BOUL THIMENS                         Caledon                       3700 BOUL THIMENS
+      MB                          SAINT-LAURENT                            ON                          SAINT-LAURENT
+                                   QC                                      L7C 3Y7                       QC
+      R3C 4B5
+                                   H4R 1T8                                   Canada                        H4R 1T8
+      CA
+                                   Canada                                                                Canada
+                                                                                                                  PO Date : 8 Oct. 2025
+    Line Items                                              PO No. : M413302311
+                                                                                                                            Subtotal
+    Line No.                      Type   Supplier Part No. /             Customer Part No.         Quantity            Unit Price
+              PO Line No.
+                                        Description                                        (UOM)
+                                                                                         1 / (PK)           $10.50 CAD      $10.50 CAD
+    10        1                 Material GGS3EZC6 / BONNET BOUFF
+                                         POLYPR BLNC 28P 100/PQ
+                                                                                                       Line Item Total : $10.50 CAD
+    Line No.                              Supplier Part No. /             Customer Part No.        Quantity            Unit Price         Subtotal
+              PO Line No.          Type
+                                         Description                                        (UOM)
+    30       3                 Material  OLFSK4 / COUTEAU SECURITE                         6 / (EA)           $11.68 CAD      $70.08 CAD
+                                         AUTORETRACTABLE
+                                                                                                      Line Item Total : $70.08 CAD
+                                                                   Customer Part No.        Quantity            Unit Price         Subtotal
+    Line No.    PO Line No.          Type    Supplier Part No. /
+                                                                                        (UOM)
+                                        Description
+                                                                                        72 / (PR)           $1.23 CAD      $88.56 CAD
+    40       4                 Material SUGS13BKPUQ10 / GANTS
+                                         NYLON NOIRS TAILLE 10
+                                                                                                      Line Item Total : $88.56 CAD
+                                                                                                                           Subtotal
+    Line No.    PO Line No.          Type    Supplier Part No. /             Customer Part No.         Quantity            Unit Price
+                                         Description                                        (UOM)
+                                                                                        12 / (PR)           $1.23 CAD      $14.76 CAD
+    50        5                 Material  SUGS13BKPUQ8 / GANTS NYLON
+                                         NOIR ENDUITS TAILLE 8
+                                                                                                      Line Item Total : $14.76 CAD
+    Line No.                      Type    Supplier Part No. /             Customer Part No.        Quantity            Unit Price         Subtotal
+              PO Line No.
+                                        Description                                        (UOM)
+    60       6                 Material  SUGS13BKPUQ9 / GANTS NYLON                       72 / (PR)           $1.23 CAD      $88.56 CAD
+                                         NOIRE TAILLE 9
+                                                                                                      Line Item Total : $88.56 CAD
+        Tax Summary
+                             Details                                                   Rate %          Amount
+       Category                                              Base Amount
+       GST                  Tax Description : GOODS AND         $272.46 CAD                5%             $13.62 CAD
+                             SERVICES
+                                                                                                      $27.18 CAD
+       PST                  Tax Description : State/Provincial        $272.46 CAD                9.975%
+                             Tax
+                                                                               Amount Summary
+                                                                                                                       $272.46 CAD
+                                                                               Line item subtotal
+                                                                               Gross amount                             $313.26 CAD
+                                                                               Net amount                              $313.26 CAD
+                                                                               Total tax amount                            $40.80 CAD
+                                                                               Total withholding tax amount
+                                                                               Amount Due                              $313.26 CAD
+      Additional Information
+      invioceSourceDocument
+      PurchaseOrder
+                                                                           Remittance Information
+     Billing Information
+                                                                           Remit To
+     Bill To
+                                                                           ACKLANDS-GRAINGER INC.
+     PEPSI BEVERAGES CANADA
+                                                                           PO BOX 2970
+     2095 MATHESON BLVD E
+                                                                           WINNIPEG
+     MISSISSAUGA
+                                                                           MB
+     ON
+                                                                           R3C 4B5
+     L4W 0G2
+                                                                           Canada
+     Canada
+                                                                           Address ID: CA1_2751
+     Address ID:
+     CA1_ARIBA_PAYABLES
+==================================<Page 5 - END>================================
+==================================<Page 6 - START>================================
+  Appendix
+ Line No.
+            POLine No. Type                            Supplier Part No. / Description
+ 10
+            1         Material                         GGS3EZC6 / BONNET BOUFF POLYPR BLNC 28P 100/PQ
+ Additional Details:
+ Supplier Part ID : GGS3EZC6
+ Line No.
+            PO Line No. Type                            Supplier Part No. / Description
+ 30        3
+                       Material                         OLFSK4 / COUTEAU SECURITE AUTORETRACTABLE
+ Additional Details:
+ Supplier Part ID : OLFSK4
+Line No.
+            PO Line No. Type                            Supplier Part No. / Description
+40        4         Material
+                                                       SUGS13BKPUQ10 / GANTS NYLON NOIRS TAILLE 10
+Additional Details:
+Supplier Part ID : SUGS13BKPUQ10
+Line No.
+            PO Line No. Type                           Supplier Part No. / Description
+50        5         Material
+                                                       SUGS13BKPUQ8 / GANTS NYLON NOIR ENDUITS TAILLE 8
+Additional Details:
+Supplier Part ID : SUGS13BKPUQ8
+Line No.    PO Line No. Type
+                                                       Supplier Part No. / Description
+60        6         Material
+                                                       SUGS13BKPUQ9 / GANTS NYLON NOIRE TAILLE 9
+Additional Details:
+Supplier Part ID : SUGS13BKPUQ9
+PDF generated on Thursday 9 Oct. 2025 6:10 a.m. GMT-07:00
+==================================<Page 6 - END>================================

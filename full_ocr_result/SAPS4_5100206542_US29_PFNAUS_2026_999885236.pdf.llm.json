@@ -1,0 +1,79 @@
+{
+  "invoice_data": {
+    "invoice_number": "C128764",
+    "invoice_date": "2/2/2026",
+    "invoice_amount": "199.71",
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": "16.90",
+    "po_number": [
+      "23567439"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": "17.95",
+    "cost_center": null,
+    "vendor_name": "Erie Vehicle Company",
+    "vendor_address": "60 E 51st St., Chicago, IL 60615",
+    "po_line_items": [
+      {
+        "description": "Maxon Torsion Bar, LH",
+        "quantity": 2.0,
+        "net_price": 71.78
+      },
+      {
+        "description": "Maxon Screw, FL HD Soc 3/8-16X3",
+        "quantity": 15.0,
+        "net_price": 1.42
+      },
+      {
+        "description": "FedEx Ground Service 8.75 Lbs.",
+        "quantity": 1.0,
+        "net_price": 17.95
+      }
+    ],
+    "vat_amount": null,
+    "gl_account": null,
+    "bank_name": null,
+    "account_holder_name": null,
+    "banking_account_number": null,
+    "remit_to_address": null,
+    "bill_to_address": null,
+    "transaction_type": "debit"
+  },
+  "filename": "SAPS4_5100206542_US29_PFNAUS_2026_999885236.pdf",
+  "raw_response": {
+    "invoice_number": "C128764",
+    "invoice_date": "2/2/2026",
+    "invoice_amount": "199.71",
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": "16.90",
+    "po_number": [
+      "23567439"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": "17.95",
+    "cost_center": null,
+    "vendor_name": "Erie Vehicle Company",
+    "vendor_address": "60 E 51st St., Chicago, IL 60615",
+    "po_line_items": [
+      {
+        "description": "Maxon Torsion Bar, LH",
+        "quantity": 2.0,
+        "net_price": 71.78
+      },
+      {
+        "description": "Maxon Screw, FL HD Soc 3/8-16X3",
+        "quantity": 15.0,
+        "net_price": 1.42
+      },
+      {
+        "description": "FedEx Ground Service 8.75 Lbs.",
+        "quantity": 1.0,
+        "net_price": 17.95
+      }
+    ]
+  }
+}

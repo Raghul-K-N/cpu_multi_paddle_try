@@ -1,0 +1,59 @@
+{
+  "invoice_data": {
+    "invoice_number": "9806638319",
+    "invoice_date": "Thursday 12 Feb. 2026 7:00 a.m. GMT-05:00",
+    "invoice_amount": "18.13",
+    "invoice_currency": [
+      "CAD"
+    ],
+    "tax_amount": "2.09",
+    "po_number": [
+      "M413555380"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "ACKLANDS-GRAINGER INC.",
+    "vendor_address": "PO BOX 2970, WINNIPEG, MB R3C 4B5, CA\nON N3H 4V8, Canada",
+    "po_line_items": [
+      {
+        "description": "ANL11-816-10 / COATED GLOVES,NITRILE/NYLON,10,BLK/BL,PR",
+        "quantity": 4.0,
+        "net_price": 4.01
+      }
+    ],
+    "vat_amount": null,
+    "gl_account": null,
+    "bank_name": null,
+    "account_holder_name": null,
+    "banking_account_number": null,
+    "remit_to_address": null,
+    "bill_to_address": null,
+    "transaction_type": "debit"
+  },
+  "filename": "SAPS4_5100184508_CA11_PFNACA_2026_304667500.pdf",
+  "raw_response": {
+    "invoice_number": "9806638319",
+    "invoice_date": "Thursday 12 Feb. 2026 7:00 a.m. GMT-05:00",
+    "invoice_amount": "18.13",
+    "invoice_currency": [
+      "CAD"
+    ],
+    "tax_amount": "2.09",
+    "po_number": [
+      "M413555380"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "ACKLANDS-GRAINGER INC.",
+    "vendor_address": "PO BOX 2970, WINNIPEG, MB R3C 4B5, CA\nON N3H 4V8, Canada",
+    "po_line_items": [
+      {
+        "description": "ANL11-816-10 / COATED GLOVES,NITRILE/NYLON,10,BLK/BL,PR",
+        "quantity": 4.0,
+        "net_price": 4.01
+      }
+    ]
+  }
+}

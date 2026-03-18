@@ -1,0 +1,69 @@
+{
+  "invoice_data": {
+    "invoice_number": "91975667",
+    "invoice_date": "17-SEP-2025",
+    "invoice_amount": "1519.99",
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": "121.87",
+    "po_number": [
+      "4503397410"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": "25.00",
+    "cost_center": null,
+    "vendor_name": "Cognex Corporation",
+    "vendor_address": "One Vision Drive, Natick, MA 01760, USA",
+    "po_line_items": [
+      {
+        "description": "DMR-8700DX-B-E Bluetooth Kit w/ Ethernet Base",
+        "quantity": 1.0,
+        "net_price": 1280.3
+      },
+      {
+        "description": "TARIFF-SURCHARGE",
+        "quantity": 1.0,
+        "net_price": 92.82
+      }
+    ],
+    "vat_amount": null,
+    "gl_account": null,
+    "bank_name": null,
+    "account_holder_name": null,
+    "banking_account_number": null,
+    "remit_to_address": null,
+    "bill_to_address": null,
+    "transaction_type": "debit"
+  },
+  "filename": "SAPS4_5100356505_US28_PFNAUS_2026_999931200.pdf",
+  "raw_response": {
+    "invoice_number": "91975667",
+    "invoice_date": "17-SEP-2025",
+    "invoice_amount": "1519.99",
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": "121.87",
+    "po_number": [
+      "4503397410"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": "25.00",
+    "cost_center": null,
+    "vendor_name": "Cognex Corporation",
+    "vendor_address": "One Vision Drive, Natick, MA 01760, USA",
+    "po_line_items": [
+      {
+        "description": "DMR-8700DX-B-E Bluetooth Kit w/ Ethernet Base",
+        "quantity": 1.0,
+        "net_price": 1280.3
+      },
+      {
+        "description": "TARIFF-SURCHARGE",
+        "quantity": 1.0,
+        "net_price": 92.82
+      }
+    ]
+  }
+}

@@ -1,0 +1,99 @@
+{
+  "invoice_data": {
+    "invoice_number": "130486317",
+    "invoice_date": "11/24/25",
+    "invoice_amount": null,
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": null,
+    "po_number": [
+      "23523494"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "FleetPride",
+    "vendor_address": "P.O. BOX 847118, DALLAS TX 75284-7118",
+    "po_line_items": [
+      {
+        "description": "LUBEFILTER",
+        "quantity": 150.0,
+        "net_price": 22.87
+      },
+      {
+        "description": "POLYRIB BELTS",
+        "quantity": 2400.0,
+        "net_price": 18.72
+      },
+      {
+        "description": "TIRE",
+        "quantity": 1.0,
+        "net_price": 23.44
+      },
+      {
+        "description": "HOSE THERMO STR 12.8",
+        "quantity": 1.0,
+        "net_price": 23.44
+      },
+      {
+        "description": "TIRE HOSETHERMO 180 9.3",
+        "quantity": 1.0,
+        "net_price": 7.35
+      }
+    ],
+    "vat_amount": null,
+    "gl_account": null,
+    "bank_name": null,
+    "account_holder_name": null,
+    "banking_account_number": null,
+    "remit_to_address": null,
+    "bill_to_address": null,
+    "transaction_type": "debit"
+  },
+  "filename": "SAPS4_5100015022_US30_PFNAUS_2026_999884967.pdf",
+  "raw_response": {
+    "invoice_number": "130486317",
+    "invoice_date": "11/24/25",
+    "invoice_amount": null,
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": null,
+    "po_number": [
+      "23523494"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "FleetPride",
+    "vendor_address": "P.O. BOX 847118, DALLAS TX 75284-7118",
+    "po_line_items": [
+      {
+        "description": "LUBEFILTER",
+        "quantity": 150.0,
+        "net_price": 22.87
+      },
+      {
+        "description": "POLYRIB BELTS",
+        "quantity": 2400.0,
+        "net_price": 18.72
+      },
+      {
+        "description": "TIRE",
+        "quantity": 1.0,
+        "net_price": 23.44
+      },
+      {
+        "description": "HOSE THERMO STR 12.8",
+        "quantity": 1.0,
+        "net_price": 23.44
+      },
+      {
+        "description": "TIRE HOSETHERMO 180 9.3",
+        "quantity": 1.0,
+        "net_price": 7.35
+      }
+    ]
+  }
+}

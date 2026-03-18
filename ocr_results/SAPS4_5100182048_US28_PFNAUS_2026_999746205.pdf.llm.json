@@ -1,0 +1,99 @@
+{
+  "invoice_data": {
+    "invoice_number": "980661097926",
+    "invoice_date": "Thursday 12 Feb 2026 3:25 AM GMT-07:00",
+    "invoice_amount": null,
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": null,
+    "po_number": [
+      "M413555034"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "Grainger",
+    "vendor_address": "100 Grainger Pkwy, Lake Forest, IL 27105, United States",
+    "po_line_items": [
+      {
+        "description": "Paper Towel Roll,1000,White,26100.PK6",
+        "quantity": 2.0,
+        "net_price": 73.68
+      },
+      {
+        "description": "Scouring Pad.9 in L.Green,PK20",
+        "quantity": 6.0,
+        "net_price": 6.61
+      },
+      {
+        "description": "Hand Soap.CLR,2,000 mLPK4",
+        "quantity": 2.0,
+        "net_price": 67.25
+      },
+      {
+        "description": "PotsPans Cleaner,Bottle,38oz,Liquid,PK8",
+        "quantity": 2.0,
+        "net_price": 61.47
+      },
+      {
+        "description": "Recycled Trash Bags, Blk, PK100",
+        "quantity": 8.0,
+        "net_price": 33.09
+      }
+    ],
+    "vat_amount": null,
+    "gl_account": null,
+    "bank_name": null,
+    "account_holder_name": null,
+    "banking_account_number": null,
+    "remit_to_address": null,
+    "bill_to_address": null,
+    "transaction_type": "debit"
+  },
+  "filename": "SAPS4_5100182048_US28_PFNAUS_2026_999746205.pdf",
+  "raw_response": {
+    "invoice_number": "980661097926",
+    "invoice_date": "Thursday 12 Feb 2026 3:25 AM GMT-07:00",
+    "invoice_amount": "../../../../754.22",
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": null,
+    "po_number": [
+      "M413555034"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "Grainger",
+    "vendor_address": "100 Grainger Pkwy, Lake Forest, IL 27105, United States",
+    "po_line_items": [
+      {
+        "description": "Paper Towel Roll,1000,White,26100.PK6",
+        "quantity": 2.0,
+        "net_price": 73.68
+      },
+      {
+        "description": "Scouring Pad.9 in L.Green,PK20",
+        "quantity": 6.0,
+        "net_price": 6.61
+      },
+      {
+        "description": "Hand Soap.CLR,2,000 mLPK4",
+        "quantity": 2.0,
+        "net_price": 67.25
+      },
+      {
+        "description": "PotsPans Cleaner,Bottle,38oz,Liquid,PK8",
+        "quantity": 2.0,
+        "net_price": 61.47
+      },
+      {
+        "description": "Recycled Trash Bags, Blk, PK100",
+        "quantity": 8.0,
+        "net_price": 33.09
+      }
+    ]
+  }
+}

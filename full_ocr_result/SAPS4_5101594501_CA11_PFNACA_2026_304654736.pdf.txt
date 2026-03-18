@@ -1,0 +1,170 @@
+==================================<Page 1 - START>================================
+Standard Invoice
+                                                                                                                   staples[)
+Original tax invoice has been submitted electronically. This is a
+human readable representation (copy) of the original tax invoice.
+                                                                Invoice Number                                         72390672
+                                                                (Supplier Reference No.)
+                                                                Invoice Date                    Monday 9 Feb. 2026 6:09 a.m. GMT-07:00
+                                                                Amount Due                                        $672.94 CAD
+    Contact Information
+                                                                         Shipping Information
+    Supplier
+                                 Customer
+                                                                         Ship From                     Ship To
+    Supplier VAT/Tax ID              PEPSICO FOODS CANADA O/
+                                                                         Staples Canada ULC
+    126152586RT0001               A FRITO LAY CANADA                                                    FRITO-LAY CDA/PEPSICO
+                                                                         550 PENDANT DR               BEVERAGE
+                                 5550 EXPLORER DR 8TH                      MISSISSAUGA                  TREVOR.CLARKE@PEPSICO.COM
+                                 FLOOR                                  ON                          2095 MATHESON BLVD EAST
+                                 MISSISSAUGA                             L5T 2W6                      CA-OF-MISSISSAUGA-ON-
+                                 ON                                     Canada                       FLC
+                                 L4W 0C3                                                              MISSISSAUGA
+                                 Canada                                                              ON
+                                 Address ID:
+                                                                                                     L4W 0G2
+                                 CA1 ARIBA PAYABLES
+                                                                                                     CA
+                                                                                                     Address ID: shipTo
+  Line Items                                              PO No. : M413546667
+                                                                                                             PO Date : 9 Feb. 2026
+  Line No.
+            PO Line No.          Type    Supplier Part No. /             Customer Part No.        Quantity
+                                                                                                       Unit Price         Subtotal
+                                      Description                                       (UOM)
+  1
+            1                 Material EKPEPPFC16 /                                   4 / (CT)          $90.89 CAD     $363.56 CAD
+                                      BOWL,16OZ,PAPER,500/CT
+                                                                                                  Line Item Total : $363.56 CAD
+  Line No.    PO Line No.         Type   Supplier Part No. /             Customer Part No.
+                                                                                     Quantity            Unit Price         Subtotal
+                                      Description                                       (UOM)
+  2        2                 Material CCDK085 / SELECT KITCHEN                          4 / (CT)          $57.99 CAD     $231.96 CAD
+                                      TWL 85SHT
+                                                                                                  Line Item Total : $231.96 CAD
+     Tax Summary
+     Category              Details                          Base Amount               Rate %          Amount
+     HST                  Tax Description :                   $595.52 CAD               13.0%          $77.42 CAD
+                           126152586RT0001
+                           Tax Location : CA
+                                                                             Amount Summary
+                                                                             Line item subtotal                          $595.52 CAD
+                                                                             Gross amount                            $672.94 CAD
+                                                                                                                   $672.94 CAD
+                                                                             Net amount
+                                                                                                                    $77.42 CAD
+                                                                             Total tax amount
+                                                                             Total withholding tax amount
+                                                                                                                    $672.94 CAD
+                                                                             Amount Due
+   Additional Information
+                                                                         Remittance Information
+                                                                         Remit To
+                                                                         Staples Canada ULC
+                                                                         c/o T04446C
+                                                                         PO Box 4446C, STN A
+                                                                         Toronto
+                                                                         ON
+                                                                         M5W 4A2
+                                                                         CA
+                                                                         Address ID: CA1_32220
+==================================<Page 1 - END>================================
+==================================<Page 2 - START>================================
+ Appenuix
+                                                        Supplier Part No. / Description
+Line No.    PO Line No. Type
+1          1          Material                         EKPEPPFC16 / BOWL,16OZ,PAPER,500/CT
+Additional Details:
+Supplier Part ID : EKPEPPFC16
+Line No.    PO Line No. Type                            Supplier Part No. / Description
+2          2         Material                         CCDK085 / SELECT KITCHEN TWL 85SHT
+Additional Details:
+ Supplier Part ID : CCDK085
+PDF generated on Tuesday 10 Feb. 2026 3:11 a.m. GMT-08:00
+==================================<Page 2 - END>================================
+==================================<Page 3 - START>================================
+       Standard Invoice
+                                                                                                                          staples[)
+       Original tax invoice has been submitted electronically. This is a
+       human readable representation (copy) of the original tax invoice.
+                                                                       Invoice Number                                         72390672
+                                                                       (Supplier Reference No.)
+                                                                       Invoice Date                    Monday 9 Feb. 2026 6:09 a.m. GMT-07:00
+                                                                       Amount Due                                        $672.94 CAD
+           Contact Information
+                                                                                Shipping Information
+            Supplier
+                                        Customer
+                                                                                Ship From                     Ship To
+            Supplier VAT/Tax ID              PEPSICO FOODS CANADA O/
+                                                                                Staples Canada ULC
+            126152586RT0001               A FRITO LAY CANADA                                                    FRITO-LAY CDA/PEPSICO
+                                                                                550 PENDANT DR               BEVERAGE
+                                        5550 EXPLORER DR 8TH                      MISSISSAUGA                  TREVOR.CLARKE@PEPSICO.COM
+                                        FLOOR                                  ON                          2095 MATHESON BLVD EAST
+                                        MISSISSAUGA                             L5T 2W6                      CA-OF-MISSISSAUGA-ON-
+                                        ON                                     Canada                       FLC
+                                        L4W 0C3                                                              MISSISSAUGA
+                                        Canada                                                              ON
+                                        Address ID:
+                                                                                                            L4W 0G2
+                                        CA1 ARIBA PAYABLES
+                                                                                                            CA
+                                                                                                             Address ID: shipTo
+         Line Items                                              PO No. : M413546667
+                                                                                                                    PO Date : 9 Feb. 2026
+         Line No.
+                   PO Line No.          Type    Supplier Part No. /             Customer Part No.        Quantity
+                                                                                                              Unit Price         Subtotal
+                                             Description                                       (UOM)
+         1
+                   1                 Material EKPEPPFC16 /                                   4 / (CT)          $90.89 CAD     $363.56 CAD
+                                             BOWL,16OZ,PAPER,500/CT
+                                                                                                         Line Item Total : $363.56 CAD
+         Line No.    PO Line No.         Type   Supplier Part No. /             Customer Part No.
+                                                                                            Quantity            Unit Price         Subtotal
+                                             Description                                       (UOM)
+         2        2                 Material CCDK085 / SELECT KITCHEN                          4 / (CT)          $57.99 CAD     $231.96 CAD
+                                             TWL 85SHT
+                                                                                                         Line Item Total : $231.96 CAD
+            Tax Summary
+            Category              Details                          Base Amount               Rate %          Amount
+            HST                  Tax Description :                   $595.52 CAD               13.0%          $77.42 CAD
+                                  126152586RT0001
+                                  Tax Location : CA
+                                                                                    Amount Summary
+                                                                                    Line item subtotal                          $595.52 CAD
+                                                                                    Gross amount                            $672.94 CAD
+                                                                                                                           $672.94 CAD
+                                                                                    Net amount
+                                                                                                                            $77.42 CAD
+                                                                                    Total tax amount
+                                                                                    Total withholding tax amount
+                                                                                                                           $672.94 CAD
+                                                                                    Amount Due
+          Additional Information
+                                                                                Remittance Information
+                                                                                Remit To
+                                                                                Staples Canada ULC
+                                                                                c/o T04446C
+                                                                                PO Box 4446C, STN A
+                                                                                Toronto
+                                                                                ON
+                                                                                M5W 4A2
+                                                                                CA
+                                                                                Address ID: CA1_32220
+==================================<Page 3 - END>================================
+==================================<Page 4 - START>================================
+ Appenuix
+                                                        Supplier Part No. / Description
+Line No.    PO Line No. Type
+1          1          Material                         EKPEPPFC16 / BOWL,16OZ,PAPER,500/CT
+Additional Details:
+Supplier Part ID : EKPEPPFC16
+Line No.    PO Line No. Type                            Supplier Part No. / Description
+2          2         Material                         CCDK085 / SELECT KITCHEN TWL 85SHT
+Additional Details:
+ Supplier Part ID : CCDK085
+PDF generated on Tuesday 10 Feb. 2026 3:11 a.m. GMT-08:00
+==================================<Page 4 - END>================================

@@ -1,0 +1,69 @@
+{
+  "invoice_data": {
+    "invoice_number": "1481",
+    "invoice_date": "01/01/2026",
+    "invoice_amount": "3024.50",
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": null,
+    "po_number": [
+      "M413269732"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "Anderson Lawn Care LLC",
+    "vendor_address": "1219 Harvest Cir, Holmen, WI 54636-8301",
+    "po_line_items": [
+      {
+        "description": "Snow removal at 916 Industrial Ave- subcontracted to Kreibich Landscaping",
+        "quantity": 1.0,
+        "net_price": 2630.0
+      },
+      {
+        "description": "Subcontractor Fee",
+        "quantity": 1.0,
+        "net_price": 394.5
+      }
+    ],
+    "vat_amount": null,
+    "gl_account": null,
+    "bank_name": null,
+    "account_holder_name": null,
+    "banking_account_number": null,
+    "remit_to_address": null,
+    "bill_to_address": null,
+    "transaction_type": "debit"
+  },
+  "filename": "SAPS4_5100016527_US29_PFNAUS_2026_999935002.pdf",
+  "raw_response": {
+    "invoice_number": "1481",
+    "invoice_date": "01/01/2026",
+    "invoice_amount": "3024.50",
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": null,
+    "po_number": [
+      "M413269732"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "Anderson Lawn Care LLC",
+    "vendor_address": "1219 Harvest Cir, Holmen, WI 54636-8301",
+    "po_line_items": [
+      {
+        "description": "Snow removal at 916 Industrial Ave- subcontracted to Kreibich Landscaping",
+        "quantity": 1.0,
+        "net_price": 2630.0
+      },
+      {
+        "description": "Subcontractor Fee",
+        "quantity": 1.0,
+        "net_price": 394.5
+      }
+    ]
+  }
+}

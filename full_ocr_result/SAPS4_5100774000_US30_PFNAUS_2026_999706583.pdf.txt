@@ -1,0 +1,392 @@
+==================================<Page 1 - START>================================
+Standard Invoice
+                                                                                                                     odp
+Original tax invoice has been submitted electronically. This is a
+human readable representation (copy) of the original tax invoice.
+                                                                                                                   458200723001
+                                                                 Invoice Number
+                                                                 (Supplier Reference No.)
+                                                                  Invoice Date                 Wednesday 11 Feb 2026 12:00 PM GMT-05:00
+                                                                                                                    $384.70 USD
+                                                                  Amount Due
+     Contact Information
+                                                                           Shipping Information
+     Supplier                      Customer
+                                                                           Ship From                     Ship To
+     ODP BUSINESS SOLUTIONS,       FL TRANSPORTATION, INC.                                                 US-FL-CANTON-OH-FLT
+     LLC                                                                   ODP BUSINESS SOLUTIONS.
+                                  3415 MILLENNIUM BLVD SE                    LLC                          3415 MILLENNIUM BLVD SE
+     6600 North Military Trail            MASSILLON                                                             MASSILLON
+     Boca Raton                    OH                                                                   OH
+     FL                          446469678                                                              446469678
+     33496                        United States                                                            United States
+     US                                                                                               Address ID: 2426
+   Line Items                                              PO No. : M413546922                                       PO Date : 9 Feb 2026
+   Line No.    PO Line No.          Type    Supplier Part No. /             Customer Part No.        Quantity            Unit Price         Subtotal
+                                        Description                                        (UOM)
+                                Material 758581 /                                         2 / (EA)           $80.75 USD
+    1        1
+                                        HEATER.COMPACT.DIGITAL
+                                Type    Supplier Part No. /             Customer Part No.        Quantity            Unit Price         Subtotal
+    Line No.    PO Line No.
+                                        Description                                       (UOM)
+                                                                                                         $7.88 USD
+    2        2                 Material 221720 / CLIP.PPR,#1.PRM                            1 / (PK)
+                                        SMTH,OD,500PK
+                                Type   Supplier Part No. /             Customer Part No.        Quantity            Unit Price         Subtotal
+    Line No.    PO Line No.
+                                        Description                                       (UOM)
+                                Material  308239 /                                         1 / (PK)            $4.55 USD
+    3        3
+                                        CLIP.PAPER,JMB,SMTH,OD,10PK
+                                                                                                         Unit Price         Subtotal
+    Line No.    PO Line No.         Type   Supplier Part No. /             Customer Part No.        Quantity
+                                        Description
+                                                                                       (UOM)
+                                Material 6130043 / CINNABON CLSS CINN                       1 / (EA)           $34.09 USD
+    4        4
+                                        48CT
+                                                                                                                          Subtotal
+              PO Line No.         Type   Supplier Part No. /             Customer Part No.        Quantity            Unit Price
+    Line No.                             Description
+                                                                                       (UOM)
+                                Material 7052214 / SUGAR,CNSTR,EXC                         3 / (PK)            $5.38 USD
+    5        5
+                                        SUITE,20OZ/3PK
+                                                                                                                          Subtotal
+              PO Line No.         Type   Supplier Part No. /             Customer Part No.        Quantity            Unit Price
+    Line No.
+                                        Description                                       (UOM)
+                                Material 396241 /                                         12 / (EA)           $1.60 USD
+    6        6
+                                        BINDER,OD,VIEW,RR,2,WHITE
+              PO Line No.         Type   Supplier Part No. /             Customer Part No.        Quantity            Unit Price         Subtotal
+    Line No.
+                                        Description                                       (UOM)
+                                                                                       1 / (PK)            $8.01 USD
+    7        7                Material 230329 /
+                                        RUBBERBANDS.FILE,BRITES.50PK
+    Line No.    PO Line No.         Type   Supplier Part No. /             Customer Part No.        Quantity            Unit Price         Subtotal
+                                        Description                                       (UOM)
+                                Material 484926 / PURELL ORIG 12OZ                          6 / (EA)            $4.75 USD
+    8        8
+                                        PUMP BTL
+    Line No.    PO Line No.         Type   Supplier Part No. /             Customer Part No.        Quantity            Unit Price         Subtotal
+                                        Description
+              9                 Material 578675 / SANITIZER,PURELL,1OZ                       75 / (EA)           $0.89 USD
+    9
+    Line No.    PO Line No.         Type   Supplier Part No. /             Customer Part No.        Quantity            Unit Price         Subtotal
+                                       Description                                       (UOM)
+                                Material 892898 / HIGHLIGHTER,BRITE                                          $4.00 USD
+    10       10                                                                      1 / (BX)
+                                        LINERAST,24
+    Line No.    PO Line No.         Type   Supplier Part No. /             Customer Part No.        Quantity            Unit Price         Subtotal
+                                       Description                                       (UOM)
+                                Material 906212 /                                                         $14.55 USD
+    11       11                                                                      1 / (CT)
+                                        CREAMER,COFMATE,LIQ,ORIG,180CT
+       Tax Summary
+       Category              Details                         Base Amount               Rate %          Amount
+       Sales Tax                                                                     6.50%          $19.53 USD
+                                                                              Amount Summary
+                                                                              Line item subtotal                          $365.17 USD
+                                                                              Gross amount                            $384.70 USD
+                                                                              Net amount
+                                                                                                                    $384.70 USD
+                                                                              Total tax amount
+                                                                                                                     $19.53 USD
+                                                                              Total withholding tax amount
+                                                                             Amount Due                              $384.70 USD
+     Additional Information
+      invoice due date
+     20260512
+     Billing Information
+                                                                         Remittance Information
+     Bill To                                                               Remit To
+     PEPSICO INC ARIBA
+                                                                         ODP BUSINESS SOLUTIONS,
+     700 ANDERSON HILL RD                                                 LLC
+     PURCHASE                                                           PO BOX 633204
+     NY                                                                 CINCINNATI
+     105771444                                                            OH
+                                                                         45263-3204
+     United States
+==================================<Page 1 - END>================================
+==================================<Page 2 - START>================================
+Payment Terms
+Net payment Terms (Days) :                                                    Reference Documents
+90
+                                                                             Original Supplier Order #: 458200723001
+==================================<Page 2 - END>================================
+==================================<Page 3 - START>================================
+             Appendix
+             Line No.
+                        PO Line No. Type                           Supplier Part No. / Description
+             1
+                        1
+                                   Material                         758581 / HEATER,COMPACT,DIGITAL
+             Additional Details:
+             Supplier Part ID : 758581
+             UNSPSC : 52141802
+             Line No.
+                        PO Line No. Type                           Supplier Part No. / Description
+             2
+                        2         Material                        221720 / CLIP,PPR,#1,PRM SMTH,OD,500PK
+             Additional Details:
+             Supplier Part ID : 221720
+             UNSPSC : 44122104
+             Line No.    PO Line No. Type                           Supplier Part No. / Description
+             3         3         Material
+                                                                  308239 / CLIP,PAPER,JMB,SMTH,OD,10PK
+             Additional Details:
+             Supplier Part ID : 308239
+             UNSPSC : 44122104
+             Line No.
+                        PO Line No. Type                           Supplier Part No. / Description
+             4
+                        4          Material                         6130043 / CINNABON CLSS CINN 48CT
+             Additional Details:
+             Supplier Part ID : 6130043
+             UNSPSC : 50201706
+             Line No.    PO Line No. Type
+                                                                  Supplier Part No. / Description
+             5         5         Material                         7052214 / SUGAR,CNSTR,EXC SUITE,20OZ/3PK
+             Additional Details:
+             Supplier Part ID : 7052214
+             UNSPSC : 50161509
+            Line No.    PO Line No. Type
+                                                                  Supplier Part No. / Description
+            6         6         Material
+                                                                  396241 / BINDER,OD,VIEW,RR,2,WHITE
+            Additional Details:
+            Supplier Part ID : 396241
+            UNSPSC : 44122003
+            Line No.
+                       PO Line No. Type                            Supplier Part No. / Description
+            7
+                       7         Material                         230329 / RUBBERBANDS,FILE,BRITES,50PK
+            Additional Details:
+            Supplier Part ID : 230329
+            UNSPSC : 44122101
+            Line No.
+                       PO Line No. Type                            Supplier Part No. / Description
+            8
+                       8         Material                          484926 / PURELL ORIG 12OZ PUMP BTL
+            Additional Details:
+            Supplier Part ID : 484926
+            UNSPSC : 53131626
+            Line No.    PO Line No. Type                           Supplier Part No. / Description
+            9         9         Material                         578675 / SANITIZER,PURELL,1OZ
+            Additional Details:
+            Supplier Part ID : 578675
+            UNSPSC : 53131626
+            Line No.    PO Line No. Type                            Supplier Part No. / Description
+            10        10        Material                          892898 / HIGHLIGHTER.BRITE LINERAST.24
+            Additional Details:
+            Supplier Part ID : 892898
+            UNSPSC : 44121716
+            Line No.
+                      PO Line No. Type                            Supplier Part No. / Description
+            11
+                      11        Material                          906212 / CREAMER,COFMATE,LIQ.ORIG,180CT
+            Additional Details:
+            Supplier Part ID : 906212
+            UNSPSC : 50201714
+          PDF generated on Wednesday 11 Feb 2026 11:46 AM GMT-08:00
+==================================<Page 3 - END>================================
+==================================<Page 4 - START>================================
+          Standard Invoice
+                                                                                                                               odp
+          Original tax invoice has been submitted electronically. This is a
+          human readable representation (copy) of the original tax invoice.
+                                                                                                                             458200723001
+                                                                           Invoice Number
+                                                                           (Supplier Reference No.)
+                                                                            Invoice Date                 Wednesday 11 Feb 2026 12:00 PM GMT-05:00
+                                                                                                                              $384.70 USD
+                                                                            Amount Due
+               Contact Information
+                                                                                     Shipping Information
+               Supplier                      Customer
+                                                                                     Ship From                     Ship To
+               ODP BUSINESS SOLUTIONS,       FL TRANSPORTATION, INC.                                                 US-FL-CANTON-OH-FLT
+               LLC                                                                   ODP BUSINESS SOLUTIONS.
+                                            3415 MILLENNIUM BLVD SE                    LLC                          3415 MILLENNIUM BLVD SE
+               6600 North Military Trail            MASSILLON                                                             MASSILLON
+               Boca Raton                    OH                                                                   OH
+               FL                          446469678                                                              446469678
+               33496                        United States                                                            United States
+               US                                                                                               Address ID: 2426
+             Line Items                                              PO No. : M413546922                                       PO Date : 9 Feb 2026
+             Line No.    PO Line No.          Type    Supplier Part No. /             Customer Part No.        Quantity            Unit Price         Subtotal
+                                                  Description                                        (UOM)
+                                          Material 758581 /                                         2 / (EA)           $80.75 USD
+              1        1
+                                                  HEATER.COMPACT.DIGITAL
+                                          Type    Supplier Part No. /             Customer Part No.        Quantity            Unit Price         Subtotal
+              Line No.    PO Line No.
+                                                  Description                                       (UOM)
+                                                                                                                   $7.88 USD
+              2        2                 Material 221720 / CLIP.PPR,#1.PRM                            1 / (PK)
+                                                  SMTH,OD,500PK
+                                          Type   Supplier Part No. /             Customer Part No.        Quantity            Unit Price         Subtotal
+              Line No.    PO Line No.
+                                                  Description                                       (UOM)
+                                          Material  308239 /                                         1 / (PK)            $4.55 USD
+              3        3
+                                                  CLIP.PAPER,JMB,SMTH,OD,10PK
+                                                                                                                   Unit Price         Subtotal
+              Line No.    PO Line No.         Type   Supplier Part No. /             Customer Part No.        Quantity
+                                                  Description
+                                                                                                 (UOM)
+                                          Material 6130043 / CINNABON CLSS CINN                       1 / (EA)           $34.09 USD
+              4        4
+                                                  48CT
+                                                                                                                                    Subtotal
+                        PO Line No.         Type   Supplier Part No. /             Customer Part No.        Quantity            Unit Price
+              Line No.                             Description
+                                                                                                 (UOM)
+                                          Material 7052214 / SUGAR,CNSTR,EXC                         3 / (PK)            $5.38 USD
+              5        5
+                                                  SUITE,20OZ/3PK
+                                                                                                                                    Subtotal
+                        PO Line No.         Type   Supplier Part No. /             Customer Part No.        Quantity            Unit Price
+              Line No.
+                                                  Description                                       (UOM)
+                                          Material 396241 /                                         12 / (EA)           $1.60 USD
+              6        6
+                                                  BINDER,OD,VIEW,RR,2,WHITE
+                        PO Line No.         Type   Supplier Part No. /             Customer Part No.        Quantity            Unit Price         Subtotal
+              Line No.
+                                                  Description                                       (UOM)
+                                                                                                 1 / (PK)            $8.01 USD
+              7        7                Material 230329 /
+                                                  RUBBERBANDS.FILE,BRITES.50PK
+              Line No.    PO Line No.         Type   Supplier Part No. /             Customer Part No.        Quantity            Unit Price         Subtotal
+                                                  Description                                       (UOM)
+                                          Material 484926 / PURELL ORIG 12OZ                          6 / (EA)            $4.75 USD
+              8        8
+                                                  PUMP BTL
+              Line No.    PO Line No.         Type   Supplier Part No. /             Customer Part No.        Quantity            Unit Price         Subtotal
+                                                  Description
+                        9                 Material 578675 / SANITIZER,PURELL,1OZ                       75 / (EA)           $0.89 USD
+              9
+              Line No.    PO Line No.         Type   Supplier Part No. /             Customer Part No.        Quantity            Unit Price         Subtotal
+                                                 Description                                       (UOM)
+                                          Material 892898 / HIGHLIGHTER,BRITE                                          $4.00 USD
+              10       10                                                                      1 / (BX)
+                                                  LINERAST,24
+              Line No.    PO Line No.         Type   Supplier Part No. /             Customer Part No.        Quantity            Unit Price         Subtotal
+                                                 Description                                       (UOM)
+                                          Material 906212 /                                                         $14.55 USD
+              11       11                                                                      1 / (CT)
+                                                  CREAMER,COFMATE,LIQ,ORIG,180CT
+                 Tax Summary
+                 Category              Details                         Base Amount               Rate %          Amount
+                 Sales Tax                                                                     6.50%          $19.53 USD
+                                                                                        Amount Summary
+                                                                                        Line item subtotal                          $365.17 USD
+                                                                                        Gross amount                            $384.70 USD
+                                                                                        Net amount
+                                                                                                                              $384.70 USD
+                                                                                        Total tax amount
+                                                                                                                               $19.53 USD
+                                                                                        Total withholding tax amount
+                                                                                       Amount Due                              $384.70 USD
+               Additional Information
+                invoice due date
+               20260512
+               Billing Information
+                                                                                   Remittance Information
+               Bill To                                                               Remit To
+               PEPSICO INC ARIBA
+                                                                                   ODP BUSINESS SOLUTIONS,
+               700 ANDERSON HILL RD                                                 LLC
+               PURCHASE                                                           PO BOX 633204
+               NY                                                                 CINCINNATI
+               105771444                                                            OH
+                                                                                   45263-3204
+               United States
+==================================<Page 4 - END>================================
+==================================<Page 5 - START>================================
+Payment Terms
+Net payment Terms (Days) :                                                    Reference Documents
+90
+                                                                             Original Supplier Order #: 458200723001
+==================================<Page 5 - END>================================
+==================================<Page 6 - START>================================
+             Appendix
+             Line No.
+                        PO Line No. Type                           Supplier Part No. / Description
+             1
+                        1
+                                   Material                         758581 / HEATER,COMPACT,DIGITAL
+             Additional Details:
+             Supplier Part ID : 758581
+             UNSPSC : 52141802
+             Line No.
+                        PO Line No. Type                           Supplier Part No. / Description
+             2
+                        2         Material                        221720 / CLIP,PPR,#1,PRM SMTH,OD,500PK
+             Additional Details:
+             Supplier Part ID : 221720
+             UNSPSC : 44122104
+             Line No.    PO Line No. Type                           Supplier Part No. / Description
+             3         3         Material
+                                                                  308239 / CLIP,PAPER,JMB,SMTH,OD,10PK
+             Additional Details:
+             Supplier Part ID : 308239
+             UNSPSC : 44122104
+             Line No.
+                        PO Line No. Type                           Supplier Part No. / Description
+             4
+                        4          Material                         6130043 / CINNABON CLSS CINN 48CT
+             Additional Details:
+             Supplier Part ID : 6130043
+             UNSPSC : 50201706
+             Line No.    PO Line No. Type
+                                                                  Supplier Part No. / Description
+             5         5         Material                         7052214 / SUGAR,CNSTR,EXC SUITE,20OZ/3PK
+             Additional Details:
+             Supplier Part ID : 7052214
+             UNSPSC : 50161509
+            Line No.    PO Line No. Type
+                                                                  Supplier Part No. / Description
+            6         6         Material
+                                                                  396241 / BINDER,OD,VIEW,RR,2,WHITE
+            Additional Details:
+            Supplier Part ID : 396241
+            UNSPSC : 44122003
+            Line No.
+                       PO Line No. Type                            Supplier Part No. / Description
+            7
+                       7         Material                         230329 / RUBBERBANDS,FILE,BRITES,50PK
+            Additional Details:
+            Supplier Part ID : 230329
+            UNSPSC : 44122101
+            Line No.
+                       PO Line No. Type                            Supplier Part No. / Description
+            8
+                       8         Material                          484926 / PURELL ORIG 12OZ PUMP BTL
+            Additional Details:
+            Supplier Part ID : 484926
+            UNSPSC : 53131626
+            Line No.    PO Line No. Type                           Supplier Part No. / Description
+            9         9         Material                         578675 / SANITIZER,PURELL,1OZ
+            Additional Details:
+            Supplier Part ID : 578675
+            UNSPSC : 53131626
+            Line No.    PO Line No. Type                            Supplier Part No. / Description
+            10        10        Material                          892898 / HIGHLIGHTER.BRITE LINERAST.24
+            Additional Details:
+            Supplier Part ID : 892898
+            UNSPSC : 44121716
+            Line No.
+                      PO Line No. Type                            Supplier Part No. / Description
+            11
+                      11        Material                          906212 / CREAMER,COFMATE,LIQ.ORIG,180CT
+            Additional Details:
+            Supplier Part ID : 906212
+            UNSPSC : 50201714
+          PDF generated on Wednesday 11 Feb 2026 11:46 AM GMT-08:00
+==================================<Page 6 - END>================================

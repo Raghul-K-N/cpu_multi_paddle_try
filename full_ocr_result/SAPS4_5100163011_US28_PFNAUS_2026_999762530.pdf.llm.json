@@ -1,0 +1,75 @@
+{
+  "invoice_data": {
+    "invoice_number": "872176862",
+    "invoice_date": "02/04/2026",
+    "invoice_amount": null,
+    "invoice_currency": null,
+    "tax_amount": "3.36",
+    "po_number": [
+      "M413491616"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "GRAINGER",
+    "vendor_address": "1721 6TH ST. SW, CANTON, OH 44706-1203",
+    "po_line_items": [
+      {
+        "description": "WASH BOTTLE,250 ML,61 MM DIA",
+        "quantity": 5.0,
+        "net_price": 4.9
+      },
+      {
+        "description": "OPNEND WRNC,STRT,9\",STEEL",
+        "quantity": 2.0,
+        "net_price": 7.16
+      },
+      {
+        "description": "OPNEND WRNC,STRT,8\",STEEL",
+        "quantity": 2.0,
+        "net_price": 6.45
+      }
+    ],
+    "vat_amount": null,
+    "gl_account": null,
+    "bank_name": null,
+    "account_holder_name": null,
+    "banking_account_number": null,
+    "remit_to_address": null,
+    "bill_to_address": null,
+    "transaction_type": "debit"
+  },
+  "filename": "SAPS4_5100163011_US28_PFNAUS_2026_999762530.pdf",
+  "raw_response": {
+    "invoice_number": "872176862",
+    "invoice_date": "02/04/2026",
+    "invoice_amount": null,
+    "invoice_currency": null,
+    "tax_amount": "3.36",
+    "po_number": [
+      "M413491616"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "GRAINGER",
+    "vendor_address": "1721 6TH ST. SW, CANTON, OH 44706-1203",
+    "po_line_items": [
+      {
+        "description": "WASH BOTTLE,250 ML,61 MM DIA",
+        "quantity": 5.0,
+        "net_price": 4.9
+      },
+      {
+        "description": "OPNEND WRNC,STRT,9\",STEEL",
+        "quantity": 2.0,
+        "net_price": 7.16
+      },
+      {
+        "description": "OPNEND WRNC,STRT,8\",STEEL",
+        "quantity": 2.0,
+        "net_price": 6.45
+      }
+    ]
+  }
+}

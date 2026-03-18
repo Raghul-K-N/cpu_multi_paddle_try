@@ -1,0 +1,43 @@
+{
+  "invoice_data": {
+    "invoice_number": "300675390",
+    "invoice_date": "1/15/2026",
+    "invoice_amount": null,
+    "invoice_currency": null,
+    "tax_amount": null,
+    "po_number": [
+      "4505154995"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "Essjay Tech Properties, LLC",
+    "vendor_address": "4110 40th Street South, Suite 104, Fargo, ND 58104",
+    "po_line_items": null,
+    "vat_amount": null,
+    "gl_account": null,
+    "bank_name": null,
+    "account_holder_name": null,
+    "banking_account_number": null,
+    "remit_to_address": null,
+    "bill_to_address": null,
+    "transaction_type": "debit"
+  },
+  "filename": "SAPS4_5100327501_US29_PFNAUS_2026_999885126.pdf",
+  "raw_response": {
+    "invoice_number": "300675390",
+    "invoice_date": "1/15/2026",
+    "invoice_amount": null,
+    "invoice_currency": null,
+    "tax_amount": null,
+    "po_number": [
+      "4505154995"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "Essjay Tech Properties, LLC",
+    "vendor_address": "4110 40th Street South, Suite 104, Fargo, ND 58104",
+    "po_line_items": null
+  }
+}

@@ -1,0 +1,59 @@
+{
+  "invoice_data": {
+    "invoice_number": "5863747",
+    "invoice_date": "7/29/2025",
+    "invoice_amount": "1311.75",
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": null,
+    "po_number": [
+      "M412508407"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "Sprague Pest Solutions",
+    "vendor_address": "PO Box 35129, Seattle, WA 98124",
+    "po_line_items": [
+      {
+        "description": "DE-WEBBING",
+        "quantity": 10.6,
+        "net_price": 123.75
+      }
+    ],
+    "vat_amount": null,
+    "gl_account": null,
+    "bank_name": null,
+    "account_holder_name": null,
+    "banking_account_number": null,
+    "remit_to_address": null,
+    "bill_to_address": null,
+    "transaction_type": "debit"
+  },
+  "filename": "SAPS4_5100135526_US29_PFNAUS_2026_999930870.pdf",
+  "raw_response": {
+    "invoice_number": "5863747",
+    "invoice_date": "7/29/2025",
+    "invoice_amount": "1311.75",
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": null,
+    "po_number": [
+      "M412508407"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "Sprague Pest Solutions",
+    "vendor_address": "PO Box 35129, Seattle, WA 98124",
+    "po_line_items": [
+      {
+        "description": "DE-WEBBING",
+        "quantity": 10.6,
+        "net_price": 123.75
+      }
+    ]
+  }
+}

@@ -1,0 +1,59 @@
+{
+  "invoice_data": {
+    "invoice_number": "OR04-00681358",
+    "invoice_date": "02/04/26",
+    "invoice_amount": "645.30",
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": null,
+    "po_number": [
+      "4505051614"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "REMIT MOTION INDUSTRIES, INC.",
+    "vendor_address": "4207 NE 78TH ST., STE 150, VANCOUVER, WA 98665, PHONE: 5032395021, FAX 5032363170",
+    "po_line_items": [
+      {
+        "description": "240XL150YEB T/B,.22E/B,YEL.312/OAG CPNO: 800320660 TIMING & HTD BELTS",
+        "quantity": 15.0,
+        "net_price": 43.02
+      }
+    ],
+    "vat_amount": null,
+    "gl_account": null,
+    "bank_name": null,
+    "account_holder_name": null,
+    "banking_account_number": null,
+    "remit_to_address": null,
+    "bill_to_address": null,
+    "transaction_type": "debit"
+  },
+  "filename": "SAPS4_5100014548_US28_PFNAUS_2026_999884299.pdf",
+  "raw_response": {
+    "invoice_number": "OR04-00681358",
+    "invoice_date": "02/04/26",
+    "invoice_amount": "645.30",
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": null,
+    "po_number": [
+      "4505051614"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "REMIT MOTION INDUSTRIES, INC.",
+    "vendor_address": "4207 NE 78TH ST., STE 150, VANCOUVER, WA 98665, PHONE: 5032395021, FAX 5032363170",
+    "po_line_items": [
+      {
+        "description": "240XL150YEB T/B,.22E/B,YEL.312/OAG CPNO: 800320660 TIMING & HTD BELTS",
+        "quantity": 15.0,
+        "net_price": 43.02
+      }
+    ]
+  }
+}

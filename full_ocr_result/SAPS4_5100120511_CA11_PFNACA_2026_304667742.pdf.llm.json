@@ -1,0 +1,61 @@
+{
+  "invoice_data": {
+    "invoice_number": "9515051107",
+    "invoice_date": "14-01-2026",
+    "invoice_amount": null,
+    "invoice_currency": [
+      "CAD"
+    ],
+    "tax_amount": null,
+    "po_number": [
+      "10968",
+      "4504946423"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "SUNCOR",
+    "vendor_address": "PO BOX 2844, 150 6TH AVE SW, CALGARY AB T2P 3E3, CANADA",
+    "po_line_items": [
+      {
+        "description": "Diesel B ULS SA-A Clear",
+        "quantity": 11991.0,
+        "net_price": 1.1086
+      }
+    ],
+    "vat_amount": null,
+    "gl_account": null,
+    "bank_name": null,
+    "account_holder_name": null,
+    "banking_account_number": null,
+    "remit_to_address": null,
+    "bill_to_address": null,
+    "transaction_type": "debit"
+  },
+  "filename": "SAPS4_5100120511_CA11_PFNACA_2026_304667742.pdf",
+  "raw_response": {
+    "invoice_number": "9515051107",
+    "invoice_date": "14-01-2026",
+    "invoice_amount": null,
+    "invoice_currency": [
+      "CAD"
+    ],
+    "tax_amount": null,
+    "po_number": [
+      "10968",
+      "4504946423"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "SUNCOR",
+    "vendor_address": "PO BOX 2844, 150 6TH AVE SW, CALGARY AB T2P 3E3, CANADA",
+    "po_line_items": [
+      {
+        "description": "Diesel B ULS SA-A Clear",
+        "quantity": 11991.0,
+        "net_price": 1.1086
+      }
+    ]
+  }
+}

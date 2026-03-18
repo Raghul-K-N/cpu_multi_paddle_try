@@ -1,0 +1,95 @@
+{
+  "invoice_data": {
+    "invoice_number": "1498",
+    "invoice_date": "2025-12-13",
+    "invoice_amount": null,
+    "invoice_currency": null,
+    "tax_amount": null,
+    "po_number": [
+      "4504507798"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "Entreprises S. Bibeau Inc",
+    "vendor_address": "1788 rue Marguerite-D'Youville, Trois-Rivières QC G8Z 2L7, +1 5814460693, samuelb@fleetsolution.net",
+    "po_line_items": [
+      {
+        "description": "Travaux exécuté à St-Augustin Faire nettoyage de transmission camion R15020, 220 746 Km",
+        "quantity": 0.0,
+        "net_price": 42.27
+      },
+      {
+        "description": "PTK Entretien Transmission Automatique #620 Changer harness de porte et hose d'urée après avoir vérifier les problématiques camion R17032, 234 065 Km",
+        "quantity": 1.0,
+        "net_price": 100.0
+      },
+      {
+        "description": "Jtilisation d'outil de diagnostique pour camion /érifier trouble camion R10024",
+        "quantity": 1.0,
+        "net_price": 100.0
+      },
+      {
+        "description": "Jtilisation d'outil de diagnostique pour camion. Trouble de communication avec module ABS ´érifier trouble DPF sur camion R16060, 158 399 Km, Faire regen, etc.",
+        "quantity": 1.0,
+        "net_price": 100.0
+      },
+      {
+        "description": "Itilisation d'outil de diagnostique pour camion",
+        "quantity": 1.0,
+        "net_price": 120.0
+      }
+    ],
+    "vat_amount": null,
+    "gl_account": null,
+    "bank_name": null,
+    "account_holder_name": null,
+    "banking_account_number": null,
+    "remit_to_address": null,
+    "bill_to_address": null,
+    "transaction_type": "debit"
+  },
+  "filename": "SAPS4_5101427001_CA11_PFNACA_2026_304658871.pdf",
+  "raw_response": {
+    "invoice_number": "1498",
+    "invoice_date": "2025-12-13",
+    "invoice_amount": null,
+    "invoice_currency": null,
+    "tax_amount": null,
+    "po_number": [
+      "4504507798"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "Entreprises S. Bibeau Inc",
+    "vendor_address": "1788 rue Marguerite-D'Youville, Trois-Rivières QC G8Z 2L7, +1 5814460693, samuelb@fleetsolution.net",
+    "po_line_items": [
+      {
+        "description": "Travaux exécuté à St-Augustin Faire nettoyage de transmission camion R15020, 220 746 Km",
+        "quantity": 0.0,
+        "net_price": 42.27
+      },
+      {
+        "description": "PTK Entretien Transmission Automatique #620 Changer harness de porte et hose d'urée après avoir vérifier les problématiques camion R17032, 234 065 Km",
+        "quantity": 1.0,
+        "net_price": 100.0
+      },
+      {
+        "description": "Jtilisation d'outil de diagnostique pour camion /érifier trouble camion R10024",
+        "quantity": 1.0,
+        "net_price": 100.0
+      },
+      {
+        "description": "Jtilisation d'outil de diagnostique pour camion. Trouble de communication avec module ABS ´érifier trouble DPF sur camion R16060, 158 399 Km, Faire regen, etc.",
+        "quantity": 1.0,
+        "net_price": 100.0
+      },
+      {
+        "description": "Itilisation d'outil de diagnostique pour camion",
+        "quantity": 1.0,
+        "net_price": 120.0
+      }
+    ]
+  }
+}

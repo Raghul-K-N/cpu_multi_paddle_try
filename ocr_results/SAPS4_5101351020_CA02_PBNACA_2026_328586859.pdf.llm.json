@@ -1,0 +1,45 @@
+{
+  "invoice_data": {
+    "invoice_number": "53996",
+    "invoice_date": "16/01/2026",
+    "invoice_amount": null,
+    "invoice_currency": null,
+    "tax_amount": null,
+    "po_number": [
+      "45329",
+      "M413478700"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "ATLANTICEDM",
+    "vendor_address": "1600 ue Jean-Lachaine, Ste-Catherine, Qc. J5C 1C2",
+    "po_line_items": null,
+    "vat_amount": null,
+    "gl_account": null,
+    "bank_name": null,
+    "account_holder_name": null,
+    "banking_account_number": null,
+    "remit_to_address": null,
+    "bill_to_address": null,
+    "transaction_type": "debit"
+  },
+  "filename": "SAPS4_5101351020_CA02_PBNACA_2026_328586859.pdf",
+  "raw_response": {
+    "invoice_number": "53996",
+    "invoice_date": "16/01/2026",
+    "invoice_amount": null,
+    "invoice_currency": null,
+    "tax_amount": null,
+    "po_number": [
+      "45329",
+      "M413478700"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "ATLANTICEDM",
+    "vendor_address": "1600 ue Jean-Lachaine, Ste-Catherine, Qc. J5C 1C2",
+    "po_line_items": null
+  }
+}

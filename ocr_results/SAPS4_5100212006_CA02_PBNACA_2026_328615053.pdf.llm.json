@@ -1,0 +1,69 @@
+{
+  "invoice_data": {
+    "invoice_number": "2026007",
+    "invoice_date": "01/21/2026",
+    "invoice_amount": null,
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": null,
+    "po_number": [
+      "M413519420"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "RD Solutions",
+    "vendor_address": "180 Drinkwater Road, Brampton, ON, L6Y5B7",
+    "po_line_items": [
+      {
+        "description": "Crispy chicken wrap with salad",
+        "quantity": 15.0,
+        "net_price": 225.0
+      },
+      {
+        "description": "Cookies",
+        "quantity": 15.0,
+        "net_price": 255.0
+      }
+    ],
+    "vat_amount": null,
+    "gl_account": null,
+    "bank_name": null,
+    "account_holder_name": null,
+    "banking_account_number": null,
+    "remit_to_address": null,
+    "bill_to_address": null,
+    "transaction_type": "debit"
+  },
+  "filename": "SAPS4_5100212006_CA02_PBNACA_2026_328615053.pdf",
+  "raw_response": {
+    "invoice_number": "2026007",
+    "invoice_date": "01/21/2026",
+    "invoice_amount": null,
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": null,
+    "po_number": [
+      "M413519420"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "RD Solutions",
+    "vendor_address": "180 Drinkwater Road, Brampton, ON, L6Y5B7",
+    "po_line_items": [
+      {
+        "description": "Crispy chicken wrap with salad",
+        "quantity": 15.0,
+        "net_price": 225.0
+      },
+      {
+        "description": "Cookies",
+        "quantity": 15.0,
+        "net_price": 255.0
+      }
+    ]
+  }
+}

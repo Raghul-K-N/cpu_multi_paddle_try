@@ -1,0 +1,375 @@
+==================================<Page 1 - START>================================
+Standard Invoice
+                                                                                                                   GRAINGER
+Original tax invoice has been submitted electronically. This is a
+human readable representation (copy) of the original tax invoice.
+                                                                 Invoice Number                                      980675238326
+                                                                (Supplier Reference No.)
+                                                                Invoice Date                    Thursday 12 Feb 2026 5:29 AM GMT-07:00
+                                                                Amount Due                                         $853.27 USD
+    Contact Information                                                        Shipping Information
+    Supplier
+                                 Customer                                 Ship From                     Ship To
+    Grainger                      Frito-Lay Inc.
+                                                                          Grainger                      US-PL-MODESTO-CA-FLI
+    100 Grainger Pkwy
+                                 c/o PEPSICO NASS                          2710 KEYSTONE PACIFIC          GRAINGER REP/ PRODUC
+    Lake Forest
+                                 ACCOUNTS PAYABLES                       PARKWAY                     600 GARNER RD
+    IL                           PO BOX 1800
+                                                                          PATTERSON                    MODESTO
+    Winst
+                                 Winston Salem                              CA                          CA
+    United States                   NC                                      95363                        95357
+                                 27105                                    United States                    United States
+                                 United States                                                            Phone: (209) 544-5400
+  Line Items                                              PO No. : M413555567                                       PO Date : 12 Feb 2026
+  Line No.   PO Line No.          Type    Supplier Part No. /             Customer Part No         Quantity            Unit Price         Subtotal
+                                       Description                                       (UOM)
+  1        1                                                                                                       $112.70 USD
+                               Material  20JY02 / Floor Squeegee,24 in                          5 / (EA)           $22.54 USD
+                                       W,Straight
+  Line No.   PO Line No.          Type   Supplier Part No. /             Customer Part No.                           Unit Price         Subtotal
+                                                                                      Quantity
+                                      Description
+                                                                                      (UOM)
+  2        2                 Material 49JU34 / Hooded                                   2 / (EA)          $149.06 USD     $298.12 USD
+                                       Coveralls,L,Wht,ProShield 50,PK25
+  Line No.    PO Line No.          Type    Supplier Part No. /             Customer Part No.        Quantity            Unit Price         Subtotal
+                                      Description                                       (UOM)
+                                                                                                                     $174.00 USD
+  3        3                 Material 499H01 / Broom Head,Threaded,11                       10 / (EA)          $17.40 USD
+                                       1/2 Sweep Face
+                                                                                                        Unit Price         Subtotal
+  Line No.    PO Line No.         Type    Supplier Part No. /             Customer Part No.        Quantity
+                                      Description                                       (UOM)
+  4                           Material 61JA46 / Tool Wall Bracket,16 1/2                        3 / (EA)          $28.73 USD      $86.19 USD
+            4
+                                      in L,White
+                               Type   Supplier Part No. /             Customer Part No.        Quantity            Unit Price         Subtotal
+  Line No.    PO Line No.
+                                      Description                                       (UOM)
+                                                                                                                     $112.70 USD
+  5        5                 Material 20JY03 / Floor Squeegee,24 in                          5 / (EA)          $22.54 USD
+                                      W,Straight
+                                                                             Amount Summary
+                                                                             Line item subtotal                          $783.71 USD
+                                                                                                                    $853.27 USD
+                                                                              Gross amount
+                                                                                                                    $853.27 USD
+                                                                              Net amount
+                                                                             Total tax amount                            $69.56 USD
+                                                                             Total withholding tax amount
+                                                                             Amount Due                              $853.27 USD
+    Additional Information
+    InvoiceSourceDocument
+    PurchaseOrder
+    InvoiceSubmissionMethod
+   cXML
+                                                                         Remittance Information
+   Billing Information
+                                                                         Remit To
+   Bill To
+                                                                         GRAINGER
+   Frito-Lay Inc.
+                                                                         DEPT. 820208205
+   c/o PEPSICO NASS
+                                                                         PALATINE
+   ACCOUNTS PAYABLES
+                                                                         IL
+   PO BOX 1800
+                                                                         60038-0001
+   Winston Salem
+   NC                                                                   United States
+                                                                         Address ID: US1_10359
+   27105
+   United States                                                            Tax ID of Supplier
+   Address ID: US28                                                         36-1150280
+                                                                     Reference Documents
+                                                                      Original Supplier Order #: 1576031514
+==================================<Page 1 - END>================================
+==================================<Page 2 - START>================================
+Appendix
+Line No.
+            PO Line No. Type                           Supplier Part No. / Description
+ 1          1         Material
+                                                       20JY02 / Floor Squeegee,24 in W,Straight
+ Additional Details:
+ Supplier Part ID : 20JY02
+ Supplier Part Auxiliary ID : WWG20JY02
+Line No.    PO Line No. Type
+                                                       Supplier Part No. / Description
+2
+            2         Material
+                                                       49JU34 / Hooded Coveralls,L,Wht,ProShield 50,PK25
+Additional Details:
+Supplier Part ID : 49JU34
+ Supplier Part Auxiliary ID : WWG49JU34
+Line No.    PO Line No. Type                           Supplier Part No. / Description
+ 3         3         Material
+                                                       499H01 / Broom Head,Threaded,11 1/2 Sweep Face
+Additional Details:
+ Supplier Part ID : 499H01
+ Supplier Part Auxiliary ID : WWG499H01
+Line No.    PO Line No. Type                           Supplier Part No. / Description
+4         4          Material                         61JA46 / Tool Wall Bracket,16 1/2 in L,White
+Additional Details:
+Supplier Part ID : 61JA46
+ Supplier Part Auxiliary ID : WWG61JA46
+Line No.    PO Line No. Type                           Supplier Part No. / Description
+5         5         Material                         20JY03 / Floor Squeegee,24 in W,Straight
+Additional Details:
+Supplier Part ID : 20JY03
+Supplier Part Auxiliary ID : WWG20JY03
+PDF generated on Friday 13 Feb 2026 5:17 AM GMT-08:00
+==================================<Page 2 - END>================================
+==================================<Page 3 - START>================================
+  Standard Invoice
+                                                                                                                     GRAINGER
+  Original tax invoice has been submitted electronically. This is a
+  human readable representation (copy) of the original tax invoice.
+                                                                  Invoice Number                                      980675238326
+                                                                  (Supplier Reference No.)
+                                                                  Invoice Date                    Thursday 12 Feb 2026 5:29 AM GMT-07:00
+                                                                  Amount Due                                         $853.27 USD
+      Contact Information                                                        Shipping Information
+      Supplier
+                                   Customer                                 Ship From                     Ship To
+      Grainger                      Frito-Lay Inc.
+                                                                            Grainger                      US-PL-MODESTO-CA-FLI
+      100 Grainger Pkwy
+                                   c/o PEPSICO NASS                          2710 KEYSTONE PACIFIC          GRAINGER REP/ PRODUC
+      Lake Forest
+                                   ACCOUNTS PAYABLES                       PARKWAY                     600 GARNER RD
+      IL                           PO BOX 1800
+                                                                            PATTERSON                    MODESTO
+      Winst
+                                   Winston Salem                              CA                          CA
+      United States                   NC                                      95363                        95357
+                                   27105                                    United States                    United States
+                                   United States                                                            Phone: (209) 544-5400
+    Line Items                                              PO No. : M413555567                                       PO Date : 12 Feb 2026
+    Line No.   PO Line No.          Type    Supplier Part No. /             Customer Part No         Quantity            Unit Price         Subtotal
+                                         Description                                       (UOM)
+    1        1                                                                                                       $112.70 USD
+                                 Material  20JY02 / Floor Squeegee,24 in                          5 / (EA)           $22.54 USD
+                                        W,Straight
+    Line No.   PO Line No.          Type   Supplier Part No. /             Customer Part No.                           Unit Price         Subtotal
+                                                                                        Quantity
+                                        Description
+                                                                                        (UOM)
+    2        2                 Material 49JU34 / Hooded                                   2 / (EA)          $149.06 USD     $298.12 USD
+                                        Coveralls,L,Wht,ProShield 50,PK25
+    Line No.    PO Line No.          Type    Supplier Part No. /             Customer Part No.        Quantity            Unit Price         Subtotal
+                                        Description                                       (UOM)
+                                                                                                                       $174.00 USD
+    3        3                 Material 499H01 / Broom Head,Threaded,11                       10 / (EA)          $17.40 USD
+                                        1/2 Sweep Face
+                                                                                                          Unit Price         Subtotal
+    Line No.    PO Line No.         Type    Supplier Part No. /             Customer Part No.        Quantity
+                                        Description                                       (UOM)
+    4                           Material 61JA46 / Tool Wall Bracket,16 1/2                        3 / (EA)          $28.73 USD      $86.19 USD
+              4
+                                        in L,White
+                                Type   Supplier Part No. /             Customer Part No.        Quantity            Unit Price         Subtotal
+    Line No.    PO Line No.
+                                        Description                                       (UOM)
+                                                                                                                       $112.70 USD
+    5        5                 Material 20JY03 / Floor Squeegee,24 in                          5 / (EA)          $22.54 USD
+                                        W,Straight
+                                                                               Amount Summary
+                                                                               Line item subtotal                          $783.71 USD
+                                                                                                                      $853.27 USD
+                                                                               Gross amount
+                                                                                                                      $853.27 USD
+                                                                               Net amount
+                                                                               Total tax amount                            $69.56 USD
+                                                                               Total withholding tax amount
+                                                                               Amount Due                              $853.27 USD
+      Additional Information
+     InvoiceSourceDocument
+     PurchaseOrder
+     InvoiceSubmissionMethod
+     cXML
+                                                                           Remittance Information
+     Billing Information
+                                                                           Remit To
+     Bill To
+                                                                           GRAINGER
+     Frito-Lay Inc.
+                                                                           DEPT. 820208205
+     c/o PEPSICO NASS
+                                                                           PALATINE
+     ACCOUNTS PAYABLES
+                                                                           IL
+     PO BOX 1800
+                                                                           60038-0001
+     Winston Salem
+     NC                                                                   United States
+                                                                           Address ID: US1_10359
+     27105
+     United States                                                            Tax ID of Supplier
+     Address ID: US28                                                         36-1150280
+                                                                       Reference Documents
+                                                                        Original Supplier Order #: 1576031514
+==================================<Page 3 - END>================================
+==================================<Page 4 - START>================================
+Appendix
+Line No.
+            PO Line No. Type                           Supplier Part No. / Description
+ 1          1         Material
+                                                       20JY02 / Floor Squeegee,24 in W,Straight
+ Additional Details:
+ Supplier Part ID : 20JY02
+ Supplier Part Auxiliary ID : WWG20JY02
+Line No.    PO Line No. Type
+                                                       Supplier Part No. / Description
+2
+            2         Material
+                                                       49JU34 / Hooded Coveralls,L,Wht,ProShield 50,PK25
+Additional Details:
+Supplier Part ID : 49JU34
+ Supplier Part Auxiliary ID : WWG49JU34
+Line No.    PO Line No. Type                           Supplier Part No. / Description
+ 3         3         Material
+                                                       499H01 / Broom Head,Threaded,11 1/2 Sweep Face
+Additional Details:
+ Supplier Part ID : 499H01
+ Supplier Part Auxiliary ID : WWG499H01
+Line No.    PO Line No. Type                           Supplier Part No. / Description
+4         4          Material                         61JA46 / Tool Wall Bracket,16 1/2 in L,White
+Additional Details:
+Supplier Part ID : 61JA46
+ Supplier Part Auxiliary ID : WWG61JA46
+Line No.    PO Line No. Type                           Supplier Part No. / Description
+5         5         Material                         20JY03 / Floor Squeegee,24 in W,Straight
+Additional Details:
+Supplier Part ID : 20JY03
+Supplier Part Auxiliary ID : WWG20JY03
+PDF generated on Friday 13 Feb 2026 5:17 AM GMT-08:00
+==================================<Page 4 - END>================================
+==================================<Page 5 - START>================================
+  Standard Invoice
+                                                                                                                     GRAINGER
+  Original tax invoice has been submitted electronically. This is a
+  human readable representation (copy) of the original tax invoice.
+                                                                  Invoice Number                                      980675238326
+                                                                  (Supplier Reference No.)
+                                                                  Invoice Date                    Thursday 12 Feb 2026 5:29 AM GMT-07:00
+                                                                  Amount Due                                         $853.27 USD
+      Contact Information                                                        Shipping Information
+      Supplier
+                                   Customer                                 Ship From                     Ship To
+      Grainger                      Frito-Lay Inc.
+                                                                            Grainger                      US-PL-MODESTO-CA-FLI
+      100 Grainger Pkwy
+                                   c/o PEPSICO NASS                          2710 KEYSTONE PACIFIC          GRAINGER REP/ PRODUC
+      Lake Forest
+                                   ACCOUNTS PAYABLES                       PARKWAY                     600 GARNER RD
+      IL                           PO BOX 1800
+                                                                            PATTERSON                    MODESTO
+      Winst
+                                   Winston Salem                              CA                          CA
+      United States                   NC                                      95363                        95357
+                                   27105                                    United States                    United States
+                                   United States                                                            Phone: (209) 544-5400
+    Line Items                                              PO No. : M413555567                                       PO Date : 12 Feb 2026
+    Line No.   PO Line No.          Type    Supplier Part No. /             Customer Part No         Quantity            Unit Price         Subtotal
+                                         Description                                       (UOM)
+    1        1                                                                                                       $112.70 USD
+                                 Material  20JY02 / Floor Squeegee,24 in                          5 / (EA)           $22.54 USD
+                                        W,Straight
+    Line No.   PO Line No.          Type   Supplier Part No. /             Customer Part No.                           Unit Price         Subtotal
+                                                                                        Quantity
+                                        Description
+                                                                                        (UOM)
+    2        2                 Material 49JU34 / Hooded                                   2 / (EA)          $149.06 USD     $298.12 USD
+                                        Coveralls,L,Wht,ProShield 50,PK25
+    Line No.    PO Line No.          Type    Supplier Part No. /             Customer Part No.        Quantity            Unit Price         Subtotal
+                                        Description                                       (UOM)
+                                                                                                                       $174.00 USD
+    3        3                 Material 499H01 / Broom Head,Threaded,11                       10 / (EA)          $17.40 USD
+                                        1/2 Sweep Face
+                                                                                                          Unit Price         Subtotal
+    Line No.    PO Line No.         Type    Supplier Part No. /             Customer Part No.        Quantity
+                                        Description                                       (UOM)
+    4                           Material 61JA46 / Tool Wall Bracket,16 1/2                        3 / (EA)          $28.73 USD      $86.19 USD
+              4
+                                        in L,White
+                                Type   Supplier Part No. /             Customer Part No.        Quantity            Unit Price         Subtotal
+    Line No.    PO Line No.
+                                        Description                                       (UOM)
+                                                                                                                       $112.70 USD
+    5        5                 Material 20JY03 / Floor Squeegee,24 in                          5 / (EA)          $22.54 USD
+                                        W,Straight
+                                                                               Amount Summary
+                                                                               Line item subtotal                          $783.71 USD
+                                                                                                                      $853.27 USD
+                                                                               Gross amount
+                                                                                                                      $853.27 USD
+                                                                               Net amount
+                                                                               Total tax amount                            $69.56 USD
+                                                                               Total withholding tax amount
+                                                                               Amount Due                              $853.27 USD
+      Additional Information
+     InvoiceSourceDocument
+     PurchaseOrder
+     InvoiceSubmissionMethod
+     cXML
+                                                                           Remittance Information
+     Billing Information
+                                                                           Remit To
+     Bill To
+                                                                           GRAINGER
+     Frito-Lay Inc.
+                                                                           DEPT. 820208205
+     c/o PEPSICO NASS
+                                                                           PALATINE
+     ACCOUNTS PAYABLES
+                                                                           IL
+     PO BOX 1800
+                                                                           60038-0001
+     Winston Salem
+     NC                                                                   United States
+                                                                           Address ID: US1_10359
+     27105
+     United States                                                            Tax ID of Supplier
+     Address ID: US28                                                         36-1150280
+                                                                       Reference Documents
+                                                                        Original Supplier Order #: 1576031514
+==================================<Page 5 - END>================================
+==================================<Page 6 - START>================================
+Appendix
+Line No.
+            PO Line No. Type                           Supplier Part No. / Description
+ 1          1         Material
+                                                       20JY02 / Floor Squeegee,24 in W,Straight
+ Additional Details:
+ Supplier Part ID : 20JY02
+ Supplier Part Auxiliary ID : WWG20JY02
+Line No.    PO Line No. Type
+                                                       Supplier Part No. / Description
+2
+            2         Material
+                                                       49JU34 / Hooded Coveralls,L,Wht,ProShield 50,PK25
+Additional Details:
+Supplier Part ID : 49JU34
+ Supplier Part Auxiliary ID : WWG49JU34
+Line No.    PO Line No. Type                           Supplier Part No. / Description
+ 3         3         Material
+                                                       499H01 / Broom Head,Threaded,11 1/2 Sweep Face
+Additional Details:
+ Supplier Part ID : 499H01
+ Supplier Part Auxiliary ID : WWG499H01
+Line No.    PO Line No. Type                           Supplier Part No. / Description
+4         4          Material                         61JA46 / Tool Wall Bracket,16 1/2 in L,White
+Additional Details:
+Supplier Part ID : 61JA46
+ Supplier Part Auxiliary ID : WWG61JA46
+Line No.    PO Line No. Type                           Supplier Part No. / Description
+5         5         Material                         20JY03 / Floor Squeegee,24 in W,Straight
+Additional Details:
+Supplier Part ID : 20JY03
+Supplier Part Auxiliary ID : WWG20JY03
+PDF generated on Friday 13 Feb 2026 5:17 AM GMT-08:00
+==================================<Page 6 - END>================================

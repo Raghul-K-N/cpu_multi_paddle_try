@@ -1,0 +1,43 @@
+{
+  "invoice_data": {
+    "invoice_number": "GM001831",
+    "invoice_date": "01/20/2026",
+    "invoice_amount": null,
+    "invoice_currency": [
+      "CAD"
+    ],
+    "tax_amount": null,
+    "po_number": null,
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "Gilbert M. Rioux & Fils Ltee",
+    "vendor_address": "855 ROUTE 108, SAINT-ANDRE NB E3Y 4A5",
+    "po_line_items": null,
+    "vat_amount": null,
+    "gl_account": null,
+    "bank_name": null,
+    "account_holder_name": null,
+    "banking_account_number": null,
+    "remit_to_address": null,
+    "bill_to_address": null,
+    "transaction_type": "debit"
+  },
+  "filename": "SAPS4_5101446000_CA02_PBNACA_2026_328638286.pdf",
+  "raw_response": {
+    "invoice_number": "GM001831",
+    "invoice_date": "01/20/2026",
+    "invoice_amount": null,
+    "invoice_currency": [
+      "CAD"
+    ],
+    "tax_amount": null,
+    "po_number": null,
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "Gilbert M. Rioux & Fils Ltee",
+    "vendor_address": "855 ROUTE 108, SAINT-ANDRE NB E3Y 4A5",
+    "po_line_items": null
+  }
+}

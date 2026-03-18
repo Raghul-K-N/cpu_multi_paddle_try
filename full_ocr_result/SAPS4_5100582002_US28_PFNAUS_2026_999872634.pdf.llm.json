@@ -1,0 +1,59 @@
+{
+  "invoice_data": {
+    "invoice_number": "INV521169",
+    "invoice_date": "Thursday 5 Feb 2026 11:47 AM GMT-06:00",
+    "invoice_amount": "451.58",
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": "33.94",
+    "po_number": [
+      "M413206063"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "CFJ Manufacturing",
+    "vendor_address": "5001 N. Freeway Ste. E, Fort Worth, TX 76106, United States",
+    "po_line_items": [
+      {
+        "description": "Not Available / Blanket PO for $35,000 / Invoice INV519183 / MIDDLETOWN 08.01.25 Uniforms / CFJ MANUFACTURING",
+        "quantity": 567.54,
+        "net_price": 1.0
+      }
+    ],
+    "vat_amount": null,
+    "gl_account": null,
+    "bank_name": null,
+    "account_holder_name": null,
+    "banking_account_number": null,
+    "remit_to_address": null,
+    "bill_to_address": null,
+    "transaction_type": "debit"
+  },
+  "filename": "SAPS4_5100582002_US28_PFNAUS_2026_999872634.pdf",
+  "raw_response": {
+    "invoice_number": "INV521169",
+    "invoice_date": "Thursday 5 Feb 2026 11:47 AM GMT-06:00",
+    "invoice_amount": "451.58",
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": "33.94",
+    "po_number": [
+      "M413206063"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "CFJ Manufacturing",
+    "vendor_address": "5001 N. Freeway Ste. E, Fort Worth, TX 76106, United States",
+    "po_line_items": [
+      {
+        "description": "Not Available / Blanket PO for $35,000 / Invoice INV519183 / MIDDLETOWN 08.01.25 Uniforms / CFJ MANUFACTURING",
+        "quantity": 567.54,
+        "net_price": 1.0
+      }
+    ]
+  }
+}

@@ -1,0 +1,47 @@
+{
+  "invoice_data": {
+    "invoice_number": "5510679528",
+    "invoice_date": "02/11/2026",
+    "invoice_amount": "79.02",
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": "6.02",
+    "po_number": [
+      "M413458236"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": "0.00",
+    "cost_center": null,
+    "vendor_name": "VESTIS",
+    "vendor_address": "3548 DUNCANVILLE RD, DALLAS TX 75236",
+    "po_line_items": null,
+    "vat_amount": null,
+    "gl_account": null,
+    "bank_name": null,
+    "account_holder_name": null,
+    "banking_account_number": null,
+    "remit_to_address": null,
+    "bill_to_address": null,
+    "transaction_type": "debit"
+  },
+  "filename": "SAPS4_5100102010_US30_PFNAUS_2026_999936171.pdf",
+  "raw_response": {
+    "invoice_number": "5510679528",
+    "invoice_date": "02/11/2026",
+    "invoice_amount": "79.02",
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": "6.02",
+    "po_number": [
+      "M413458236"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": "0.00",
+    "cost_center": null,
+    "vendor_name": "VESTIS",
+    "vendor_address": "3548 DUNCANVILLE RD, DALLAS TX 75236",
+    "po_line_items": null
+  }
+}

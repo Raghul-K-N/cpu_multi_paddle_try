@@ -1,0 +1,45 @@
+{
+  "invoice_data": {
+    "invoice_number": "U1571697",
+    "invoice_date": "2/3/2026",
+    "invoice_amount": null,
+    "invoice_currency": null,
+    "tax_amount": "12.01",
+    "po_number": [
+      "4500167895",
+      "4501377049"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "PROPANE CENTRAL",
+    "vendor_address": "PO BOX 4361, LISLE, IL 60532",
+    "po_line_items": null,
+    "vat_amount": null,
+    "gl_account": null,
+    "bank_name": null,
+    "account_holder_name": null,
+    "banking_account_number": null,
+    "remit_to_address": null,
+    "bill_to_address": null,
+    "transaction_type": "debit"
+  },
+  "filename": "SAPS4_5100274507_US28_PFNAUS_2026_999762533.pdf",
+  "raw_response": {
+    "invoice_number": "U1571697",
+    "invoice_date": "2/3/2026",
+    "invoice_amount": null,
+    "invoice_currency": null,
+    "tax_amount": "12.01",
+    "po_number": [
+      "4500167895",
+      "4501377049"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "PROPANE CENTRAL",
+    "vendor_address": "PO BOX 4361, LISLE, IL 60532",
+    "po_line_items": null
+  }
+}

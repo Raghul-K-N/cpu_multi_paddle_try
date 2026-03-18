@@ -1,0 +1,79 @@
+{
+  "invoice_data": {
+    "invoice_number": "6585496116",
+    "invoice_date": "12/13/2025",
+    "invoice_amount": "408.72",
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": "9.72",
+    "po_number": [
+      "23575427"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "BRIDGESTONE",
+    "vendor_address": "00 4TH AVENUE SOUTH, SUITE 100, P.O. BOX 140990, NASHVILLE, TENNESSEE 37201",
+    "po_line_items": [
+      {
+        "description": "OTHER BRAND TIRES",
+        "quantity": 1.0,
+        "net_price": 141.0
+      },
+      {
+        "description": "FEE, TIRE DISPOSAL, LT",
+        "quantity": 1.0,
+        "net_price": 3.0
+      },
+      {
+        "description": "EMERGENCY REG HR SVC CALL",
+        "quantity": 3.0,
+        "net_price": 85.0
+      }
+    ],
+    "vat_amount": null,
+    "gl_account": null,
+    "bank_name": null,
+    "account_holder_name": null,
+    "banking_account_number": null,
+    "remit_to_address": null,
+    "bill_to_address": null,
+    "transaction_type": "debit"
+  },
+  "filename": "SAPS4_5100197560_US29_PFNAUS_2026_999885178.pdf",
+  "raw_response": {
+    "invoice_number": "6585496116",
+    "invoice_date": "12/13/2025",
+    "invoice_amount": "408.72",
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": "9.72",
+    "po_number": [
+      "23575427"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "BRIDGESTONE",
+    "vendor_address": "00 4TH AVENUE SOUTH, SUITE 100, P.O. BOX 140990, NASHVILLE, TENNESSEE 37201",
+    "po_line_items": [
+      {
+        "description": "OTHER BRAND TIRES",
+        "quantity": 1.0,
+        "net_price": 141.0
+      },
+      {
+        "description": "FEE, TIRE DISPOSAL, LT",
+        "quantity": 1.0,
+        "net_price": 3.0
+      },
+      {
+        "description": "EMERGENCY REG HR SVC CALL",
+        "quantity": 3.0,
+        "net_price": 85.0
+      }
+    ]
+  }
+}

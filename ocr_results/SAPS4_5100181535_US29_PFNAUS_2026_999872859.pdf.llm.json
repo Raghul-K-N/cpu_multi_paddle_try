@@ -1,0 +1,59 @@
+{
+  "invoice_data": {
+    "invoice_number": "10US008357",
+    "invoice_date": "13-Feb-2026",
+    "invoice_amount": "850233.40",
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": null,
+    "po_number": [
+      "M413548399"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "BCGCONSULTING GROUP",
+    "vendor_address": "THE BOSTON CONSULTING GROUP, 200 PIER 4 BOULEVARD, BOSTON, MA 02210, UNITED STATES",
+    "po_line_items": [
+      {
+        "description": "BPO BCG privileged and confidential_Project Chuck",
+        "quantity": 808500.0,
+        "net_price": 10516183055.0
+      }
+    ],
+    "vat_amount": null,
+    "gl_account": null,
+    "bank_name": null,
+    "account_holder_name": null,
+    "banking_account_number": null,
+    "remit_to_address": null,
+    "bill_to_address": null,
+    "transaction_type": "debit"
+  },
+  "filename": "SAPS4_5100181535_US29_PFNAUS_2026_999872859.pdf",
+  "raw_response": {
+    "invoice_number": "10US008357",
+    "invoice_date": "13-Feb-2026",
+    "invoice_amount": "850233.40",
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": null,
+    "po_number": [
+      "M413548399"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "BCGCONSULTING GROUP",
+    "vendor_address": "THE BOSTON CONSULTING GROUP, 200 PIER 4 BOULEVARD, BOSTON, MA 02210, UNITED STATES",
+    "po_line_items": [
+      {
+        "description": "BPO BCG privileged and confidential_Project Chuck",
+        "quantity": 808500.0,
+        "net_price": 10516183055.0
+      }
+    ]
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "invoice_data": {
+    "invoice_number": "545977",
+    "invoice_date": "02/07/2026",
+    "invoice_amount": null,
+    "invoice_currency": null,
+    "tax_amount": null,
+    "po_number": [
+      "M413401613"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "Centerline Drivers. llc",
+    "vendor_address": "PD B0X 31001-1431, PASAδENA, CA 91110-1431",
+    "po_line_items": null,
+    "vat_amount": null,
+    "gl_account": null,
+    "bank_name": null,
+    "account_holder_name": null,
+    "banking_account_number": null,
+    "remit_to_address": null,
+    "bill_to_address": null,
+    "transaction_type": "debit"
+  },
+  "filename": "SAPS4_5100131507_US30_PFNAUS_2026_999936288.pdf",
+  "raw_response": {
+    "invoice_number": "545977",
+    "invoice_date": "02/07/2026",
+    "invoice_amount": null,
+    "invoice_currency": null,
+    "tax_amount": null,
+    "po_number": [
+      "M413401613"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "Centerline Drivers. llc",
+    "vendor_address": "PD B0X 31001-1431, PASAδENA, CA 91110-1431",
+    "po_line_items": null
+  }
+}

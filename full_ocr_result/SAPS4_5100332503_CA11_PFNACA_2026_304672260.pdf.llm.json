@@ -1,0 +1,61 @@
+{
+  "invoice_data": {
+    "invoice_number": "C133946",
+    "invoice_date": "2026-01-02",
+    "invoice_amount": null,
+    "invoice_currency": [
+      "CAD"
+    ],
+    "tax_amount": null,
+    "po_number": [
+      "M413496883",
+      "M412841041"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "Cranial Expansion Learning Solutions, Inc.",
+    "vendor_address": "675 Cochrane Drive East Tower, 6th Floor, Markham, ON L3R 0B8",
+    "po_line_items": [
+      {
+        "description": "Subscription for 530 users @ $1,590.00/month",
+        "quantity": 530.0,
+        "net_price": 1590.0
+      }
+    ],
+    "vat_amount": null,
+    "gl_account": null,
+    "bank_name": null,
+    "account_holder_name": null,
+    "banking_account_number": null,
+    "remit_to_address": null,
+    "bill_to_address": null,
+    "transaction_type": "debit"
+  },
+  "filename": "SAPS4_5100332503_CA11_PFNACA_2026_304672260.pdf",
+  "raw_response": {
+    "invoice_number": "C133946",
+    "invoice_date": "2026-01-02",
+    "invoice_amount": null,
+    "invoice_currency": [
+      "CAD"
+    ],
+    "tax_amount": null,
+    "po_number": [
+      "M413496883",
+      "M412841041"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "Cranial Expansion Learning Solutions, Inc.",
+    "vendor_address": "675 Cochrane Drive East Tower, 6th Floor, Markham, ON L3R 0B8",
+    "po_line_items": [
+      {
+        "description": "Subscription for 530 users @ $1,590.00/month",
+        "quantity": 530.0,
+        "net_price": 1590.0
+      }
+    ]
+  }
+}

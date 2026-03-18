@@ -1,0 +1,95 @@
+{
+  "invoice_data": {
+    "invoice_number": "M413474695",
+    "invoice_date": "2/10/26",
+    "invoice_amount": "3135.00",
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": "235.00",
+    "po_number": null,
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "Regalado General Contractor LLC",
+    "vendor_address": "PO Box 2120 Union, NJ 07083",
+    "po_line_items": [
+      {
+        "description": "Demo 2 walls",
+        "quantity": null,
+        "net_price": null
+      },
+      {
+        "description": "Relocate wiring",
+        "quantity": null,
+        "net_price": null
+      },
+      {
+        "description": "Remove and relocate boxes",
+        "quantity": null,
+        "net_price": null
+      },
+      {
+        "description": "Install 4 shelving",
+        "quantity": null,
+        "net_price": null
+      },
+      {
+        "description": "Disposal garbage",
+        "quantity": null,
+        "net_price": null
+      }
+    ],
+    "vat_amount": null,
+    "gl_account": null,
+    "bank_name": null,
+    "account_holder_name": null,
+    "banking_account_number": null,
+    "remit_to_address": null,
+    "bill_to_address": null,
+    "transaction_type": "debit"
+  },
+  "filename": "SAPS4_5100025054_US29_PFNAUS_2026_999884771.pdf",
+  "raw_response": {
+    "invoice_number": "M413474695",
+    "invoice_date": "2/10/26",
+    "invoice_amount": "3135.00",
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": "235.00",
+    "po_number": null,
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "Regalado General Contractor LLC",
+    "vendor_address": "PO Box 2120 Union, NJ 07083",
+    "po_line_items": [
+      {
+        "description": "Demo 2 walls",
+        "quantity": null,
+        "net_price": null
+      },
+      {
+        "description": "Relocate wiring",
+        "quantity": null,
+        "net_price": null
+      },
+      {
+        "description": "Remove and relocate boxes",
+        "quantity": null,
+        "net_price": null
+      },
+      {
+        "description": "Install 4 shelving",
+        "quantity": null,
+        "net_price": null
+      },
+      {
+        "description": "Disposal garbage",
+        "quantity": null,
+        "net_price": null
+      }
+    ]
+  }
+}

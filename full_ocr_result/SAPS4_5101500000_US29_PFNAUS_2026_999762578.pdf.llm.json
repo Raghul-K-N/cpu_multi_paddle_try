@@ -1,0 +1,109 @@
+{
+  "invoice_data": {
+    "invoice_number": "6140753958",
+    "invoice_date": "02/04/2026",
+    "invoice_amount": "26.53",
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": "1.94",
+    "po_number": [
+      "M412050755"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": "0.00",
+    "cost_center": null,
+    "vendor_name": "vestis",
+    "vendor_address": "N63 W22358 RICHARD RD, SUSSEX WI 53089",
+    "po_line_items": [
+      {
+        "description": "CE0011WHIT CRT CABINET F-9",
+        "quantity": 0.0,
+        "net_price": 0.0
+      },
+      {
+        "description": "CE0086SLVN HANGING LOCKER 8/CMP",
+        "quantity": 0.0,
+        "net_price": 0.0
+      },
+      {
+        "description": "CE0194BLAK ATM TWL DISPENSER",
+        "quantity": 1.0,
+        "net_price": 0.0
+      },
+      {
+        "description": "TC0001BLUE CONT ROLL TOWEL",
+        "quantity": 10.0,
+        "net_price": 0.794
+      },
+      {
+        "description": "TS0002REDD SHOP TOWEL PLAIN 18X18",
+        "quantity": 700.0,
+        "net_price": 0.021
+      },
+      {
+        "description": "XX0257BLAK LNDRY BAG ERGO",
+        "quantity": 0.0,
+        "net_price": 0.0
+      }
+    ],
+    "vat_amount": null,
+    "gl_account": null,
+    "bank_name": null,
+    "account_holder_name": null,
+    "banking_account_number": null,
+    "remit_to_address": null,
+    "bill_to_address": null,
+    "transaction_type": "debit"
+  },
+  "filename": "SAPS4_5101500000_US29_PFNAUS_2026_999762578.pdf",
+  "raw_response": {
+    "invoice_number": "6140753958",
+    "invoice_date": "02/04/2026",
+    "invoice_amount": "26.53",
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": "1.94",
+    "po_number": [
+      "M412050755"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": "0.00",
+    "cost_center": null,
+    "vendor_name": "vestis",
+    "vendor_address": "N63 W22358 RICHARD RD, SUSSEX WI 53089",
+    "po_line_items": [
+      {
+        "description": "CE0011WHIT CRT CABINET F-9",
+        "quantity": 0.0,
+        "net_price": 0.0
+      },
+      {
+        "description": "CE0086SLVN HANGING LOCKER 8/CMP",
+        "quantity": 0.0,
+        "net_price": 0.0
+      },
+      {
+        "description": "CE0194BLAK ATM TWL DISPENSER",
+        "quantity": 1.0,
+        "net_price": 0.0
+      },
+      {
+        "description": "TC0001BLUE CONT ROLL TOWEL",
+        "quantity": 10.0,
+        "net_price": 0.794
+      },
+      {
+        "description": "TS0002REDD SHOP TOWEL PLAIN 18X18",
+        "quantity": 700.0,
+        "net_price": 0.021
+      },
+      {
+        "description": "XX0257BLAK LNDRY BAG ERGO",
+        "quantity": 0.0,
+        "net_price": 0.0
+      }
+    ]
+  }
+}

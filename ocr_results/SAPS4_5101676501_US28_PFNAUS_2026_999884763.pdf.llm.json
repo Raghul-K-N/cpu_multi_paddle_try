@@ -1,0 +1,59 @@
+{
+  "invoice_data": {
+    "invoice_number": "7789",
+    "invoice_date": "2/3/2026",
+    "invoice_amount": "9850.67",
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": "588.17",
+    "po_number": [
+      "M413490253"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "CONSTRUCTION SERVICES INC.",
+    "vendor_address": "139 Country Club Rd, Killingly, CT 06241",
+    "po_line_items": [
+      {
+        "description": "Payloader with Snow Broom per hour",
+        "quantity": 47.5,
+        "net_price": 195.0
+      }
+    ],
+    "vat_amount": null,
+    "gl_account": null,
+    "bank_name": null,
+    "account_holder_name": null,
+    "banking_account_number": null,
+    "remit_to_address": null,
+    "bill_to_address": null,
+    "transaction_type": "debit"
+  },
+  "filename": "SAPS4_5101676501_US28_PFNAUS_2026_999884763.pdf",
+  "raw_response": {
+    "invoice_number": "7789",
+    "invoice_date": "2/3/2026",
+    "invoice_amount": "9850.67",
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": "588.17",
+    "po_number": [
+      "M413490253"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "CONSTRUCTION SERVICES INC.",
+    "vendor_address": "139 Country Club Rd, Killingly, CT 06241",
+    "po_line_items": [
+      {
+        "description": "Payloader with Snow Broom per hour",
+        "quantity": 47.5,
+        "net_price": 195.0
+      }
+    ]
+  }
+}

@@ -1,0 +1,432 @@
+==================================<Page 1 - START>================================
+Standard Invoice
+                                                                                                                    GRAINR
+Original tax invoice has been submitted electronically. This is a
+human readable representation (copy) of the original tax invoice.
+                                                                                                                  980516999326
+                                                                 Invoice Number
+                                                                 (Supplier Reference No.)
+                                                                Invoice Date                    Thursday 12 Feb 2026 5:29 AM GMT-07:00
+                                                                                                                  $1,432.35 USD
+                                                                 Amount Due
+    Contact Information
+                                                                          Shipping Information
+    Supplier                       Customer                                                               Ship To
+                                                                          Ship From
+    Grainger
+                                  Rolling Frito-Lay Sales                         Grainger                      BRIAN ANDERSON
+    100 Grainger Pkwy               c/o PEPSICO NASS                          701 GRAINGER WAY              NIKKA.SHELL@PEPSICO.
+    Lake Forest                    ACCOUNTS PAYABLES                       MINOOKA                      1189 J.A. BERRY LANE
+    IL                           PO BOX 1800                               IL                           MADISON
+    Winst                        Winston Salem                              60447                        IN
+    United States                   NC                                      United States                    47250
+                                 27105                                                                 United States
+                                  United States                                                            Phone: (540) 380-3020
+  Line Items                                              PO No. : M413554084                                       PO Date : 12 Feb 2026
+  Line No.    PO Line No.         Type    Supplier Part No. /             Customer Part No.        Quantity            Unit Price         Subtotal
+                                       Description                                       (UOM)
+   1                           Material 807EL0 / Knee Pad,L/XL,Pull                           5 / (EA)           $39.64 USD      $198.20 USD
+             1
+                                       On,Black,PR
+   Line No.    PO Line No.          Type   Supplier Part No. /             Customer Part No.        Quantity            Unit Price         Subtotal
+                                       Description                                       (UOM)
+   2        2                 Material  3LHU4 / Knee Pad.UNIV.Hook/                          15 / (EA)          $29.12 USD     $436.80 USD
+                                       Loop,Black,PR
+   Line No.                                                                                               Unit Price
+             PO Line No.         Type   Supplier Part No. /             Customer Part No.        Quantity                            Subtotal
+                                       Description
+                                                                                      (UOM)
+   3        3                 Material 5DYP0 / Knee                                     15 / (EA)          $19.89 USD      $298.35 USD
+                                       Pad,UNIV,Clip,Black,PR1
+   Line No.    PO Line No.         Type   Supplier Part No. /             Customer Part No.        Quantity            Unit Price         Subtotal
+                                       Description                                       (UOM)
+                               Material 784RK4 / LightDuty Multi-Purpose                        20 / (EA)           $3.45 USD      $69.00 USD
+   4        4
+                                       Gloves,Size11,PR
+   Line No.                      Type    Supplier Part No. /             Customer Part No.        Quantity            Unit Price         Subtotal
+             PO Line No.
+                                       Description                                       (UOM)
+   5        5                 Material 784RK3 / LightDuty Multi-Purpose                        20 / (EA)           $3.45 USD      $69.00 USD
+                                       Gloves,Size10,PR
+                                       Supplier Part No. /                                                    Unit Price         Subtotal
+   Line No.   PO Line No.         Type                             Customer Part No        Quantity
+                                      Description
+                                                                                      (UOM)
+   6        6                 Material 784RK2 / LightDuty Multi-Purpose                        20 / (EA)           $3.45 USD      $69.00 USD
+                                       Gloves,Size 9,PR
+  Line No.    PO Line No.         Type   Supplier Part No. /             Customer Part No.        Quantity            Unit Price         Subtotal
+                                      Descriiption
+                                                                                      (UOM)
+  7        7                 Material 807EK9 / Knee Pad,M/L,Pull-
+                                                                                      5 / (EA)           $39.66 USD     $198.30 USD
+                                      On,Black,PR
+                                                                             Amount Summary
+                                                                             Line item subtotal                         $1,338.65 USD
+                                                                             Gross amount                           $1,432.35 USD
+                                                                             Net amount
+                                                                                                                   $1,432.35 USD
+                                                                             Total tax amount
+                                                                                                                     $93.70 USD
+                                                                             Total withholding tax amount
+                                                                             Amount Due                             $1,432.35 USD
+    Additional Information
+    InvoiceSourceDocument
+    PurchaseOrder
+    InvoiceSubmissionMethod
+   cXML
+   Billing Information                                                         Remittance Information
+   Bill To                                                                Remit To
+   Rolling Frito-Lay Sales                                                      GRAINGER
+   c/o PEPSICO NASS                                                       DEPT. 888254293
+                                                                         PALATINE
+   ACCOUNTS PAYABLES
+   PO BOX 1800                                                           IL
+   Winston Salem                                                           60038-0001
+                                                                         United States
+   NC
+   27105                                                                Address ID: US1_10359
+   United States                                                            Tax ID of Supplier
+   Address ID: US29                                                        36-1150280
+                                                                    Reference Documents
+                                                                      Original Supplier Order #: 1575914888
+==================================<Page 1 - END>================================
+==================================<Page 2 - START>================================
+  Appendix
+  Line No.
+             PO Line No. Type
+                                                        Supplier Part No. / Description
+  1
+             1         Material
+                                                        807EL0 / Knee Pad,L/XL,Pull-On,Black,PR
+  Additional Details:
+  Supplier Part ID : 807EL0
+  Supplier Part Auxiliary ID : WWG807EL0
+  Line No.    PO Line No. Type
+                                                       Supplier Part No. / Description
+  2
+             2         Material
+                                                       3LHU4 / Knee Pad,UNIV,Hook/Loop,Black,PR
+  Additional Details:
+  Supplier Part ID : 3LHU4
+  Supplier Part Auxiliary ID : WWG3LHU4
+ Line No.    PO Line No. Type                           Supplier Part No. / Description
+  3         3         Material                         5DYP0 / Knee Pad,UNIV,Clip,Black,PR1
+ Additional Details:
+  Supplier Part ID : 5DYP0
+ Supplier Part Auxiliary ID : WWG5DYP0
+ Line No.    PO Line No. Type                           Supplier Part No. / Description
+                       Material
+ 4         4                                         784RK4 / LightDuty Multi-Purpose Gloves,Size11,PR
+ Additional Details:
+ Supplier Part ID : 784RK4
+ Supplier Part Auxiliary ID : WWG784RK4
+                                                      Supplier Part No. / Description
+ Line No.    PO Line No. Type
+                      Material                         784RK3 / LightDuty Multi-Purpose Gloves,Size10,PR
+ 5         5
+ Additional Details:
+ Supplier Part ID : 784RK3
+ Supplier Part Auxiliary ID : WWG784RK3
+Line No.    PO Line No. Type                            Supplier Part No. / Description
+6         6         Material
+                                                      784RK2 / LightDuty Multi-Purpose Gloves,Size 9,PR
+ Additional Details:
+ Supplier Part ID : 784RK2
+Supplier Part Auxiliary ID : WWG784RK2
+Line No.    PO Line No. Type
+                                                      Supplier Part No. / Description
+7        7         Material
+                                                     807EK9 / Knee Pad,M/L,Pull-On,Black,PR
+Additional Details:
+Supplier Part ID : 807EK9
+Supplier Part Auxiliary ID : WWG807EK9
+PDF generated on Friday 13 Feb 2026 5:13 AM GMT-08:00
+==================================<Page 2 - END>================================
+==================================<Page 3 - START>================================
+Standard Invoice
+                                                                                                                     GRAINR
+Original tax invoice has been submitted electronically. This is a
+human readable representation (copy) of the original tax invoice.
+                                                                                                                   980516999326
+                                                                  Invoice Number
+                                                                  (Supplier Reference No.)
+                                                                 Invoice Date                    Thursday 12 Feb 2026 5:29 AM GMT-07:00
+                                                                                                                  $1,432.35 USD
+                                                                  Amount Due
+     Contact Information
+                                                                           Shipping Information
+     Supplier                       Customer                                                               Ship To
+                                                                           Ship From
+     Grainger
+                                  Rolling Frito-Lay Sales                         Grainger                      BRIAN ANDERSON
+     100 Grainger Pkwy               c/o PEPSICO NASS                          701 GRAINGER WAY              NIKKA.SHELL@PEPSICO.
+     Lake Forest                    ACCOUNTS PAYABLES                       MINOOKA                      1189 J.A. BERRY LANE
+     IL                           PO BOX 1800                               IL                           MADISON
+     Winst                        Winston Salem                              60447                        IN
+     United States                   NC                                      United States                    47250
+                                  27105                                                                 United States
+                                  United States                                                            Phone: (540) 380-3020
+   Line Items                                              PO No. : M413554084                                       PO Date : 12 Feb 2026
+   Line No.    PO Line No.         Type    Supplier Part No. /             Customer Part No.        Quantity            Unit Price         Subtotal
+                                        Description                                       (UOM)
+    1                           Material 807EL0 / Knee Pad,L/XL,Pull                           5 / (EA)           $39.64 USD      $198.20 USD
+              1
+                                        On,Black,PR
+   Line No.    PO Line No.          Type   Supplier Part No. /             Customer Part No.        Quantity            Unit Price         Subtotal
+                                        Description                                       (UOM)
+    2        2                 Material  3LHU4 / Knee Pad.UNIV.Hook/                          15 / (EA)          $29.12 USD     $436.80 USD
+                                        Loop,Black,PR
+    Line No.                                                                                               Unit Price
+              PO Line No.         Type   Supplier Part No. /             Customer Part No.        Quantity                            Subtotal
+                                        Description
+                                                                                       (UOM)
+    3        3                 Material 5DYP0 / Knee                                     15 / (EA)          $19.89 USD      $298.35 USD
+                                        Pad,UNIV,Clip,Black,PR1
+    Line No.    PO Line No.         Type   Supplier Part No. /             Customer Part No.        Quantity            Unit Price         Subtotal
+                                       Description                                       (UOM)
+                                Material 784RK4 / LightDuty Multi-Purpose                        20 / (EA)           $3.45 USD      $69.00 USD
+    4        4
+                                        Gloves,Size11,PR
+    Line No.                      Type    Supplier Part No. /             Customer Part No.        Quantity            Unit Price         Subtotal
+              PO Line No.
+                                        Description                                       (UOM)
+    5        5                 Material 784RK3 / LightDuty Multi-Purpose                        20 / (EA)           $3.45 USD      $69.00 USD
+                                        Gloves,Size10,PR
+                                        Supplier Part No. /                                                    Unit Price         Subtotal
+    Line No.   PO Line No.         Type                             Customer Part No        Quantity
+                                       Description
+                                                                                      (UOM)
+    6        6                 Material 784RK2 / LightDuty Multi-Purpose                        20 / (EA)           $3.45 USD      $69.00 USD
+                                       Gloves,Size 9,PR
+   Line No.    PO Line No.         Type   Supplier Part No. /             Customer Part No.        Quantity            Unit Price         Subtotal
+                                       Descriiption
+                                                                                       (UOM)
+   7        7                 Material 807EK9 / Knee Pad,M/L,Pull-
+                                                                                      5 / (EA)           $39.66 USD     $198.30 USD
+                                       On,Black,PR
+                                                                              Amount Summary
+                                                                              Line item subtotal                         $1,338.65 USD
+                                                                              Gross amount                           $1,432.35 USD
+                                                                              Net amount
+                                                                                                                    $1,432.35 USD
+                                                                              Total tax amount
+                                                                                                                      $93.70 USD
+                                                                              Total withholding tax amount
+                                                                              Amount Due                             $1,432.35 USD
+     Additional Information
+     InvoiceSourceDocument
+    PurchaseOrder
+    InvoiceSubmissionMethod
+    cXML
+    Billing Information                                                         Remittance Information
+    Bill To                                                                Remit To
+    Rolling Frito-Lay Sales                                                      GRAINGER
+    c/o PEPSICO NASS                                                       DEPT. 888254293
+                                                                          PALATINE
+    ACCOUNTS PAYABLES
+    PO BOX 1800                                                           IL
+    Winston Salem                                                           60038-0001
+                                                                          United States
+    NC
+    27105                                                                Address ID: US1_10359
+    United States                                                            Tax ID of Supplier
+    Address ID: US29                                                        36-1150280
+                                                                     Reference Documents
+                                                                      Original Supplier Order #: 1575914888
+==================================<Page 3 - END>================================
+==================================<Page 4 - START>================================
+  Appendix
+  Line No.
+             PO Line No. Type
+                                                        Supplier Part No. / Description
+  1
+             1         Material
+                                                        807EL0 / Knee Pad,L/XL,Pull-On,Black,PR
+  Additional Details:
+  Supplier Part ID : 807EL0
+  Supplier Part Auxiliary ID : WWG807EL0
+  Line No.    PO Line No. Type
+                                                       Supplier Part No. / Description
+  2
+             2         Material
+                                                       3LHU4 / Knee Pad,UNIV,Hook/Loop,Black,PR
+  Additional Details:
+  Supplier Part ID : 3LHU4
+  Supplier Part Auxiliary ID : WWG3LHU4
+ Line No.    PO Line No. Type                           Supplier Part No. / Description
+  3         3         Material                         5DYP0 / Knee Pad,UNIV,Clip,Black,PR1
+ Additional Details:
+  Supplier Part ID : 5DYP0
+ Supplier Part Auxiliary ID : WWG5DYP0
+ Line No.    PO Line No. Type                           Supplier Part No. / Description
+                       Material
+ 4         4                                         784RK4 / LightDuty Multi-Purpose Gloves,Size11,PR
+ Additional Details:
+ Supplier Part ID : 784RK4
+ Supplier Part Auxiliary ID : WWG784RK4
+                                                      Supplier Part No. / Description
+ Line No.    PO Line No. Type
+                      Material                         784RK3 / LightDuty Multi-Purpose Gloves,Size10,PR
+ 5         5
+ Additional Details:
+ Supplier Part ID : 784RK3
+ Supplier Part Auxiliary ID : WWG784RK3
+Line No.    PO Line No. Type                            Supplier Part No. / Description
+6         6         Material
+                                                      784RK2 / LightDuty Multi-Purpose Gloves,Size 9,PR
+ Additional Details:
+ Supplier Part ID : 784RK2
+Supplier Part Auxiliary ID : WWG784RK2
+Line No.    PO Line No. Type
+                                                      Supplier Part No. / Description
+7        7         Material
+                                                     807EK9 / Knee Pad,M/L,Pull-On,Black,PR
+Additional Details:
+Supplier Part ID : 807EK9
+Supplier Part Auxiliary ID : WWG807EK9
+PDF generated on Friday 13 Feb 2026 5:13 AM GMT-08:00
+==================================<Page 4 - END>================================
+==================================<Page 5 - START>================================
+Standard Invoice
+                                                                                                                     GRAINR
+Original tax invoice has been submitted electronically. This is a
+human readable representation (copy) of the original tax invoice.
+                                                                                                                   980516999326
+                                                                  Invoice Number
+                                                                  (Supplier Reference No.)
+                                                                 Invoice Date                    Thursday 12 Feb 2026 5:29 AM GMT-07:00
+                                                                                                                  $1,432.35 USD
+                                                                  Amount Due
+     Contact Information
+                                                                           Shipping Information
+     Supplier                       Customer                                                               Ship To
+                                                                           Ship From
+     Grainger
+                                  Rolling Frito-Lay Sales                         Grainger                      BRIAN ANDERSON
+     100 Grainger Pkwy               c/o PEPSICO NASS                          701 GRAINGER WAY              NIKKA.SHELL@PEPSICO.
+     Lake Forest                    ACCOUNTS PAYABLES                       MINOOKA                      1189 J.A. BERRY LANE
+     IL                           PO BOX 1800                               IL                           MADISON
+     Winst                        Winston Salem                              60447                        IN
+     United States                   NC                                      United States                    47250
+                                  27105                                                                 United States
+                                  United States                                                            Phone: (540) 380-3020
+   Line Items                                              PO No. : M413554084                                       PO Date : 12 Feb 2026
+   Line No.    PO Line No.         Type    Supplier Part No. /             Customer Part No.        Quantity            Unit Price         Subtotal
+                                        Description                                       (UOM)
+    1                           Material 807EL0 / Knee Pad,L/XL,Pull                           5 / (EA)           $39.64 USD      $198.20 USD
+              1
+                                        On,Black,PR
+   Line No.    PO Line No.          Type   Supplier Part No. /             Customer Part No.        Quantity            Unit Price         Subtotal
+                                        Description                                       (UOM)
+    2        2                 Material  3LHU4 / Knee Pad.UNIV.Hook/                          15 / (EA)          $29.12 USD     $436.80 USD
+                                        Loop,Black,PR
+    Line No.                                                                                               Unit Price
+              PO Line No.         Type   Supplier Part No. /             Customer Part No.        Quantity                            Subtotal
+                                        Description
+                                                                                       (UOM)
+    3        3                 Material 5DYP0 / Knee                                     15 / (EA)          $19.89 USD      $298.35 USD
+                                        Pad,UNIV,Clip,Black,PR1
+    Line No.    PO Line No.         Type   Supplier Part No. /             Customer Part No.        Quantity            Unit Price         Subtotal
+                                       Description                                       (UOM)
+                                Material 784RK4 / LightDuty Multi-Purpose                        20 / (EA)           $3.45 USD      $69.00 USD
+    4        4
+                                        Gloves,Size11,PR
+    Line No.                      Type    Supplier Part No. /             Customer Part No.        Quantity            Unit Price         Subtotal
+              PO Line No.
+                                        Description                                       (UOM)
+    5        5                 Material 784RK3 / LightDuty Multi-Purpose                        20 / (EA)           $3.45 USD      $69.00 USD
+                                        Gloves,Size10,PR
+                                        Supplier Part No. /                                                    Unit Price         Subtotal
+    Line No.   PO Line No.         Type                             Customer Part No        Quantity
+                                       Description
+                                                                                      (UOM)
+    6        6                 Material 784RK2 / LightDuty Multi-Purpose                        20 / (EA)           $3.45 USD      $69.00 USD
+                                       Gloves,Size 9,PR
+   Line No.    PO Line No.         Type   Supplier Part No. /             Customer Part No.        Quantity            Unit Price         Subtotal
+                                       Descriiption
+                                                                                       (UOM)
+   7        7                 Material 807EK9 / Knee Pad,M/L,Pull-
+                                                                                      5 / (EA)           $39.66 USD     $198.30 USD
+                                       On,Black,PR
+                                                                              Amount Summary
+                                                                              Line item subtotal                         $1,338.65 USD
+                                                                              Gross amount                           $1,432.35 USD
+                                                                              Net amount
+                                                                                                                    $1,432.35 USD
+                                                                              Total tax amount
+                                                                                                                      $93.70 USD
+                                                                              Total withholding tax amount
+                                                                              Amount Due                             $1,432.35 USD
+     Additional Information
+     InvoiceSourceDocument
+    PurchaseOrder
+    InvoiceSubmissionMethod
+    cXML
+    Billing Information                                                         Remittance Information
+    Bill To                                                                Remit To
+    Rolling Frito-Lay Sales                                                      GRAINGER
+    c/o PEPSICO NASS                                                       DEPT. 888254293
+                                                                          PALATINE
+    ACCOUNTS PAYABLES
+    PO BOX 1800                                                           IL
+    Winston Salem                                                           60038-0001
+                                                                          United States
+    NC
+    27105                                                                Address ID: US1_10359
+    United States                                                            Tax ID of Supplier
+    Address ID: US29                                                        36-1150280
+                                                                     Reference Documents
+                                                                      Original Supplier Order #: 1575914888
+==================================<Page 5 - END>================================
+==================================<Page 6 - START>================================
+  Appendix
+  Line No.
+             PO Line No. Type
+                                                        Supplier Part No. / Description
+  1
+             1         Material
+                                                        807EL0 / Knee Pad,L/XL,Pull-On,Black,PR
+  Additional Details:
+  Supplier Part ID : 807EL0
+  Supplier Part Auxiliary ID : WWG807EL0
+  Line No.    PO Line No. Type
+                                                       Supplier Part No. / Description
+  2
+             2         Material
+                                                       3LHU4 / Knee Pad,UNIV,Hook/Loop,Black,PR
+  Additional Details:
+  Supplier Part ID : 3LHU4
+  Supplier Part Auxiliary ID : WWG3LHU4
+ Line No.    PO Line No. Type                           Supplier Part No. / Description
+  3         3         Material                         5DYP0 / Knee Pad,UNIV,Clip,Black,PR1
+ Additional Details:
+  Supplier Part ID : 5DYP0
+ Supplier Part Auxiliary ID : WWG5DYP0
+ Line No.    PO Line No. Type                           Supplier Part No. / Description
+                       Material
+ 4         4                                         784RK4 / LightDuty Multi-Purpose Gloves,Size11,PR
+ Additional Details:
+ Supplier Part ID : 784RK4
+ Supplier Part Auxiliary ID : WWG784RK4
+                                                      Supplier Part No. / Description
+ Line No.    PO Line No. Type
+                      Material                         784RK3 / LightDuty Multi-Purpose Gloves,Size10,PR
+ 5         5
+ Additional Details:
+ Supplier Part ID : 784RK3
+ Supplier Part Auxiliary ID : WWG784RK3
+Line No.    PO Line No. Type                            Supplier Part No. / Description
+6         6         Material
+                                                      784RK2 / LightDuty Multi-Purpose Gloves,Size 9,PR
+ Additional Details:
+ Supplier Part ID : 784RK2
+Supplier Part Auxiliary ID : WWG784RK2
+Line No.    PO Line No. Type
+                                                      Supplier Part No. / Description
+7        7         Material
+                                                     807EK9 / Knee Pad,M/L,Pull-On,Black,PR
+Additional Details:
+Supplier Part ID : 807EK9
+Supplier Part Auxiliary ID : WWG807EK9
+PDF generated on Friday 13 Feb 2026 5:13 AM GMT-08:00
+==================================<Page 6 - END>================================

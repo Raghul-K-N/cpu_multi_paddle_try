@@ -1,0 +1,129 @@
+{
+  "invoice_data": {
+    "invoice_number": "93305669",
+    "invoice_date": "02/03/2026",
+    "invoice_amount": "2617.86",
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": "194.31",
+    "po_number": [
+      "4505021188"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": "830.75",
+    "cost_center": null,
+    "vendor_name": "Heat and Control",
+    "vendor_address": "21121 CABOT BLVD, HAYWARD CA 94545-1132",
+    "po_line_items": [
+      {
+        "description": "GREASE, NSK GRS AV2: 80g (cartridge)",
+        "quantity": 50.0,
+        "net_price": 8.33
+      },
+      {
+        "description": "BEARING,RADIAL,DEEP GROOVE",
+        "quantity": 30.0,
+        "net_price": 5.25
+      },
+      {
+        "description": "TIMING PULLEY,S5M,AF (KIT)",
+        "quantity": 10.0,
+        "net_price": 5.85
+      },
+      {
+        "description": "ROLLER, DRIVE",
+        "quantity": 5.0,
+        "net_price": 166.15
+      },
+      {
+        "description": "SHAFT, DRIVE",
+        "quantity": 5.0,
+        "net_price": 33.6
+      },
+      {
+        "description": "LEVER,ROVERBAL,REAR 1",
+        "quantity": 5.0,
+        "net_price": 58.5
+      },
+      {
+        "description": "SHAFT, LINK",
+        "quantity": 10.0,
+        "net_price": 43.15
+      },
+      {
+        "description": "FREIGHT",
+        "quantity": 1.0,
+        "net_price": 68.3
+      }
+    ],
+    "vat_amount": null,
+    "gl_account": null,
+    "bank_name": null,
+    "account_holder_name": null,
+    "banking_account_number": null,
+    "remit_to_address": null,
+    "bill_to_address": null,
+    "transaction_type": "debit"
+  },
+  "filename": "SAPS4_5100245066_US28_PFNAUS_2026_999884199.pdf",
+  "raw_response": {
+    "invoice_number": "93305669",
+    "invoice_date": "02/03/2026",
+    "invoice_amount": "2617.86",
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": "194.31",
+    "po_number": [
+      "4505021188"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": "830.75",
+    "cost_center": null,
+    "vendor_name": "Heat and Control",
+    "vendor_address": "21121 CABOT BLVD, HAYWARD CA 94545-1132",
+    "po_line_items": [
+      {
+        "description": "GREASE, NSK GRS AV2: 80g (cartridge)",
+        "quantity": 50.0,
+        "net_price": 8.33
+      },
+      {
+        "description": "BEARING,RADIAL,DEEP GROOVE",
+        "quantity": 30.0,
+        "net_price": 5.25
+      },
+      {
+        "description": "TIMING PULLEY,S5M,AF (KIT)",
+        "quantity": 10.0,
+        "net_price": 5.85
+      },
+      {
+        "description": "ROLLER, DRIVE",
+        "quantity": 5.0,
+        "net_price": 166.15
+      },
+      {
+        "description": "SHAFT, DRIVE",
+        "quantity": 5.0,
+        "net_price": 33.6
+      },
+      {
+        "description": "LEVER,ROVERBAL,REAR 1",
+        "quantity": 5.0,
+        "net_price": 58.5
+      },
+      {
+        "description": "SHAFT, LINK",
+        "quantity": 10.0,
+        "net_price": 43.15
+      },
+      {
+        "description": "FREIGHT",
+        "quantity": 1.0,
+        "net_price": 68.3
+      }
+    ]
+  }
+}

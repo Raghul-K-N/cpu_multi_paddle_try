@@ -1,0 +1,69 @@
+{
+  "invoice_data": {
+    "invoice_number": "59772227",
+    "invoice_date": "2/12/26",
+    "invoice_amount": "999.79",
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": "65.41",
+    "po_number": [
+      "4505188851"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": "18.38",
+    "cost_center": null,
+    "vendor_name": "McMaster-Carr",
+    "vendor_address": "630-600-3600, 630-834-9427 (fax), chi.sales@mcmaster.com, PO Box 7690, Chicago IL 60680-7690",
+    "po_line_items": [
+      {
+        "description": "Faucet Cartridge for T and S Brass Faucets, Model Number 002713-40",
+        "quantity": 10.0,
+        "net_price": 45.8
+      },
+      {
+        "description": "Faucet Cartridge for T and S Brass Faucets, Model Number 002714-40",
+        "quantity": 10.0,
+        "net_price": 45.8
+      }
+    ],
+    "vat_amount": null,
+    "gl_account": null,
+    "bank_name": null,
+    "account_holder_name": null,
+    "banking_account_number": null,
+    "remit_to_address": null,
+    "bill_to_address": null,
+    "transaction_type": "debit"
+  },
+  "filename": "SAPS4_5100234043_US28_PFNAUS_2026_999934939.pdf",
+  "raw_response": {
+    "invoice_number": "59772227",
+    "invoice_date": "2/12/26",
+    "invoice_amount": "999.79",
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": "65.41",
+    "po_number": [
+      "4505188851"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": "18.38",
+    "cost_center": null,
+    "vendor_name": "McMaster-Carr",
+    "vendor_address": "630-600-3600, 630-834-9427 (fax), chi.sales@mcmaster.com, PO Box 7690, Chicago IL 60680-7690",
+    "po_line_items": [
+      {
+        "description": "Faucet Cartridge for T and S Brass Faucets, Model Number 002713-40",
+        "quantity": 10.0,
+        "net_price": 45.8
+      },
+      {
+        "description": "Faucet Cartridge for T and S Brass Faucets, Model Number 002714-40",
+        "quantity": 10.0,
+        "net_price": 45.8
+      }
+    ]
+  }
+}

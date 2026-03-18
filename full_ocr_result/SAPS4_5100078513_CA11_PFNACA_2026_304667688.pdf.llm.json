@@ -1,0 +1,95 @@
+{
+  "invoice_data": {
+    "invoice_number": "0032498419",
+    "invoice_date": "03 février 2026",
+    "invoice_amount": "1,577.36",
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": "205.40",
+    "po_number": null,
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "PENSKE TRUCK LEASING CANADA, INC.",
+    "vendor_address": "P.O. BOX 7476, STATION A, TORONTO, ON M5W 3C1",
+    "po_line_items": [
+      {
+        "description": "WINDHILD WASHER CAP MISSING",
+        "quantity": 0.2,
+        "net_price": 166.0
+      },
+      {
+        "description": "CAP ASSEMBLY-WSHLD",
+        "quantity": 1.0,
+        "net_price": 20.27
+      },
+      {
+        "description": "SEAT CUSHION L3 SOS, ISR 017791 02",
+        "quantity": 1.0,
+        "net_price": 694.44
+      },
+      {
+        "description": "Externe - main d'¿uvre",
+        "quantity": 0.9,
+        "net_price": 166.0
+      },
+      {
+        "description": "BACK GLASSS",
+        "quantity": 1.0,
+        "net_price": 460.0
+      }
+    ],
+    "vat_amount": null,
+    "gl_account": null,
+    "bank_name": null,
+    "account_holder_name": null,
+    "banking_account_number": null,
+    "remit_to_address": null,
+    "bill_to_address": null,
+    "transaction_type": "debit"
+  },
+  "filename": "SAPS4_5100078513_CA11_PFNACA_2026_304667688.pdf",
+  "raw_response": {
+    "invoice_number": "0032498419",
+    "invoice_date": "03 février 2026",
+    "invoice_amount": "1,577.36",
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": "205.40",
+    "po_number": null,
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "PENSKE TRUCK LEASING CANADA, INC.",
+    "vendor_address": "P.O. BOX 7476, STATION A, TORONTO, ON M5W 3C1",
+    "po_line_items": [
+      {
+        "description": "WINDHILD WASHER CAP MISSING",
+        "quantity": 0.2,
+        "net_price": 166.0
+      },
+      {
+        "description": "CAP ASSEMBLY-WSHLD",
+        "quantity": 1.0,
+        "net_price": 20.27
+      },
+      {
+        "description": "SEAT CUSHION L3 SOS, ISR 017791 02",
+        "quantity": 1.0,
+        "net_price": 694.44
+      },
+      {
+        "description": "Externe - main d'¿uvre",
+        "quantity": 0.9,
+        "net_price": 166.0
+      },
+      {
+        "description": "BACK GLASSS",
+        "quantity": 1.0,
+        "net_price": 460.0
+      }
+    ]
+  }
+}

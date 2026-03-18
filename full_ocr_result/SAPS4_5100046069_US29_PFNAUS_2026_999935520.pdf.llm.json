@@ -1,0 +1,39 @@
+{
+  "invoice_data": {
+    "invoice_number": "130108835",
+    "invoice_date": "11/07/25",
+    "invoice_amount": null,
+    "invoice_currency": null,
+    "tax_amount": null,
+    "po_number": null,
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "FleetPride",
+    "vendor_address": "FLEETPRIDE, PO BOX 847118, DALLAS TX 75284-7118",
+    "po_line_items": null,
+    "vat_amount": null,
+    "gl_account": null,
+    "bank_name": null,
+    "account_holder_name": null,
+    "banking_account_number": null,
+    "remit_to_address": null,
+    "bill_to_address": null,
+    "transaction_type": "debit"
+  },
+  "filename": "SAPS4_5100046069_US29_PFNAUS_2026_999935520.pdf",
+  "raw_response": {
+    "invoice_number": "130108835",
+    "invoice_date": "11/07/25",
+    "invoice_amount": null,
+    "invoice_currency": null,
+    "tax_amount": null,
+    "po_number": null,
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "FleetPride",
+    "vendor_address": "FLEETPRIDE, PO BOX 847118, DALLAS TX 75284-7118",
+    "po_line_items": null
+  }
+}

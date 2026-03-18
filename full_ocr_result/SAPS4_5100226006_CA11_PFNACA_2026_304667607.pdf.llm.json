@@ -1,0 +1,59 @@
+{
+  "invoice_data": {
+    "invoice_number": "A7663789",
+    "invoice_date": "2026-02-03",
+    "invoice_amount": "271.60",
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": "31.25",
+    "po_number": [
+      "M413361720"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "Abell Pest Control Inc",
+    "vendor_address": "ABELL 550 PARKSIDE DR UNIT B15, WATERLOO ON N2L 5V4, TEL: (519) 743-8551, FAX: (519) 743-2632, A/R: (800) 822-8821 1463",
+    "po_line_items": [
+      {
+        "description": "Contract Pit Foaming",
+        "quantity": 1.0,
+        "net_price": 240.35
+      }
+    ],
+    "vat_amount": null,
+    "gl_account": null,
+    "bank_name": null,
+    "account_holder_name": null,
+    "banking_account_number": null,
+    "remit_to_address": null,
+    "bill_to_address": null,
+    "transaction_type": "debit"
+  },
+  "filename": "SAPS4_5100226006_CA11_PFNACA_2026_304667607.pdf",
+  "raw_response": {
+    "invoice_number": "A7663789",
+    "invoice_date": "2026-02-03",
+    "invoice_amount": "271.60",
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": "31.25",
+    "po_number": [
+      "M413361720"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "Abell Pest Control Inc",
+    "vendor_address": "ABELL 550 PARKSIDE DR UNIT B15, WATERLOO ON N2L 5V4, TEL: (519) 743-8551, FAX: (519) 743-2632, A/R: (800) 822-8821 1463",
+    "po_line_items": [
+      {
+        "description": "Contract Pit Foaming",
+        "quantity": 1.0,
+        "net_price": 240.35
+      }
+    ]
+  }
+}

@@ -1,0 +1,500 @@
+==================================<Page 1 - START>================================
+Standard Invoice
+Original tax invoice has been submitted electronically. This is a
+human readable representation (copy) of the original tax invoice.
+                                                                  Invoice Number
+                                                                                                                         2811371
+                                                                  (Supplier Reference No.)
+                                                                  Invoice Date
+                                                                                             Wednesday 11 Feb 2026 12:00 PM GMT+00:00
+                                                                  Shipping Date                     Friday 6 Feb 2026 12:00 PM GMT+00:00
+                                                                  Amount Due                                         $407.32 USD
+    Contact Information
+                                                                            Shipping Information
+    Supplier
+                                  Customer
+                                                                            Ship From                      Ship To
+    supplyFORCE.COM. LLC           Frito-Lay, Inc.
+                                                                            supplyFORCE                   Frito-Lay Incorporated NAF
+    700 American Ave Suite 300         c/o PEPSICO NASS                           700 American Ave Suite 300         WILLIAMSPORT- ARIBA
+    King of Prussia                  ACCOUNTS PAYABLES                        King of Prussia                  N Reach Rd
+    PA                           PO BOX 1800                               PA                           WILLIAMSPORT
+    19406                         Winston Salem                               19406                         PA
+    United States                    NC                                       United States                    17701
+                                  27105                                     Address ID: 125681473             United States
+                                  United States                                                             Address ID: 2107
+                                  Address ID: US28
+  Line Items                                                 PO No. : M413542346                                        PO Date : 6 Feb 2026
+  Line No.    PO Line No.                  Supplier Part No. /              Customer Part No.         Quantity            Unit Price         Subtotal
+                                Type
+                                        Description                                        (UOM)
+  00001     1                  Material 5911388 / SCHAEDLER-YESCO    10017742              4 / (EA)            $6.57 USD      $26.28 USD
+                                        S8273652
+  Line No.    PO Line No.          Type    Supplier Part No. /              Customer Part No.        Quantity            Unit Price         Subtotal
+                                        Description                                        (UOM)
+  00002                                                                                                   $28.90 USD      $28.90 USD
+            2                  Material  25359900 / SCHAEDLER-YESCO                        1 / (EA)
+                                        S8273652
+  Line No.    PO Line No.                  Supplier Part No. /             Customer Part No.        Quantity            Unit Price         Subtotal
+                                Type
+                                        Description                                         (UOM)
+  00003     3                  Material  12522173 / SCHAEDLER-YESCO  50031863              3 / (EA)            $1.62 USD       $4.86 USD
+                                        S8273652
+                                                                                                            Unit Price         Subtotal
+  Line No.    PO Line No.          Type    Supplier Part No. /              Customer Part No.        Quantity
+                                        Description                                         (UOM)
+                                        11090426 / SCHAEDLER-YESCO  50008211              3 / (EA)            $5.89 USD      $17.67 USD
+  00004     4                  Material
+                                        S8273652
+                                        Supplier Part No. /              Customer Part No.        Quantity            Unit Price         Subtotal
+  Line No.    PO Line No.          Type
+                                        Description                                         (UOM)
+                                 Material 3212307 / SCHAEDLER-YESCO   50008194              1 / (EA)          $129.38 USD      $129.38 USD
+  90000     6
+                                        S8273652
+                                                                                                            Unit Price         Subtotal
+  Line No.    PO Line No.          Type    Supplier Part No. /              Customer Part No.        Quantity
+                                        Description                                         (UOM)
+                                 Material  52004 / SCHAEDLER-YESCO     379546                3 / (EA)            $6.60 USD      $19.80 USD
+  00007     7
+                                        S8273652
+                                Type    Supplier Part No. /              Customer Part No.         Quantity            Unit Price         Subtotal
+  Line No.    PO Line No.
+                                        Description                                         (UOM)
+                                                                                                           $11.65 USD
+             8                  Material 3852688 / SCHAEDLER-YESCO   50003641               1 / (EA)                           $11.65 USD
+  00008
+                                         S8273652
+                                                                                          Quantity            Unit Price         Subtotal
+  Line No.    PO Line No.          Type    Supplier Part No. /              Customer Part No.
+                                         Description                                         (UOM)
+                                 Material  11613094 / SCHAEDLER-YESCO  10015142               1 / (EA)           $92.50 USD      $92.50 USD
+  60000     9
+                                        S8273652
+                                Type    Supplier Part No. /              Customer Part No.         Quantity             Unit Price         Subtotal
+  Line No.    PO Line No.
+                                        Description                                         (UOM)
+                                                                                                            $7.28 USD       $7.28 USD
+                                 Material  3852733 / SCHAEDLER-YESCO    500017819              1 / (EA)
+  00010     10
+                                        S8273652
+                                                                                          Quantity             Unit Price         Subtotal
+  Line No.    PO Line No.          Type    Supplier Part No. /              Customer Part No.
+                                                                                          (UOM)
+                                        Description
+                                        3852735 / SCHAEDLER-YESCO    500017901              2 / (EA)            $5.08 USD      $10.16 USD
+  00011     11                 Material
+                                        S8273652
+                                                                                                             Unit Price         Subtotal
+                                        Supplier Part No. /             Customer Part No.         Quantity
+  Line No.    PO Line No.          Type                                                     (UOM)
+                                        Description
+                                                                                          1 / (EA)           $18.61 USD      $18.61 USD
+                                Material  499887 / SCHAEDLER-YESCO
+  00012     12
+                                        S8273652
+                                                                                                             Unit Price         Subtotal
+                                                                    Customer Part No.         Quantity
+                                Type    Supplier Part No. /
+  Line No.    PO Line No.                                                                    (UOM)
+                                        Description
+                                                                                          1 / (EA)            $3.63 USD       $3.63 USD
+                                        3760390 / SCHAEDLER-YESCO    50018581
+  00013     13                 Material
+                                        S8273652
+                                                                    Customer Part No.         Quantity            Unit Price         Subtotal
+                                        Supplier Part No. /
+ Line No.    PO Line No.          Type                                                     (UOM)
+                                        Description
+                                                                                                            $2.38 USD       $7.14 USD
+                                                                    500013989              3 / (EA)
+                                Material  486476 / SCHAEDLER-YESCO
+ 00014     14
+                                        S8273652
+                                                                                                            Unit Price         Subtotal
+                                                                    Customer Part No.        Quantity
+                                Type    Supplier Part No. /
+Line No.    PO Line No.
+                                        Description
+                                                                                         1 / (EA)            $6.40 USD       $6.40 USD
+                                      3717561 /SCHAEDLER-YESCO    50014640
+                                Material
+00015     15
+                                        S8273652
+                                                                                                       Amount
+     Tax Summary                                                                       Rate %
+                                                             Base Amount                                $23.06 USD
+                            Details                                                     6%
+    Category                                                 $384.26 USD
+    Sales Tax               Tax Location : PA
+                                                                                 Amount Summary
+                                                                                                                        $384.26 USD
+                                                                                 Line item subtotal
+                                                                                                                        $407.32 USD
+                                                                                 Gross amount
+                                                                                                                        $407 32 USD
+==================================<Page 1 - END>================================
+==================================<Page 2 - START>================================
+                                                                             Amount Summary
+                                                                             Total tax amount                          $23.06 USD
+                                                                             Total withholding tax amount
+                                                                             Amount Due                             $407.32 USD
+  Additional Information
+  totalNumberOfLineltems
+  14
+  Billing Information
+                                                                         Remittance Information
+ Bill To
+                                                                         Remit To
+ Frito-Lay, Inc.
+                                                                         supplyFORCE
+ c/o PEPSICO NASS
+                                                                         PO Box 788581
+ ACCOUNTS PAYABLES
+                                                                         Philadelphia
+ Winston Salem
+                                                                         PA
+ NC                                                                    19178
+ 27105                                                                  United States
+United States                                                             Address ID: 2000013150
+Address ID: US28
+                                                                         Tax ID of Supplier
+                                                                         23-3017555
+                                                                     Reference Documents
+                                                                      Original Supplier Order #: del456
+==================================<Page 2 - END>================================
+==================================<Page 3 - START>================================
+   yıpuadd 
+  Line No.
+              PO Line No. Type                            Supplier Part No. / Description
+  00001
+                         Material                         5911388 / SCHAEDLER-YESCO S8273652
+  Additional Details:
+  Supplier Part ID : 5911388
+  Line No.    PO Line No. Type
+                                                         Supplier Part No. / Description
+  00002
+              2
+                         Material                         25359900 / SCHAEDLER-YESCO S8273652
+  Additional Details:
+  Supplier Part ID : 25359900
+  Line No.
+              PO Line No. Type                           Supplier Part No. / Description
+  00003
+              3         Material                         12522173 / SCHAEDLER-YESCO S8273652
+  Additional Details:
+  Supplier Part ID : 12522173
+  Line No.
+              PO Line No. Type                           Supplier Part No. / Description
+  00004
+              4          Material                         11090426 / SCHAEDLER-YESCO S8273652
+  Additional Details:
+  Supplier Part ID : 11090426
+  Line No.    PO Line No. Type
+                                                         Supplier Part No. / Description
+  90000     6          Material
+                                                         3212307 / SCHAEDLER-YESCO S8273652
+  Additional Details:
+  Supplier Part ID : 3212307
+  Line No.
+             PO Line No. Type                            Supplier Part No. / Description
+  00007
+             7          Material                         52004 / SCHAEDLER-YESCO S8273652
+  Additional Details:
+  Supplier Part ID : 52004
+  Line No.    PO Line No. Type
+                                                         Supplier Part No. / Description
+  00008     8          Material
+                                                         3852688 / SCHAEDLER-YESCO S8273652
+  Additional Details:
+  Supplier Part ID : 3852688
+ Line No.
+             PO Line No. Type                            Supplier Part No. / Description
+  60000
+             9          Material                          11613094 / SCHAEDLER-YESCO S8273652
+  Additional Details:
+  Supplier Part ID : 11613094
+ Line No.    PO Line No. Type                            Supplier Part No. / Description
+  00010     10        Material                          3852733 / SCHAEDLER-YESCO S8273652
+  Additional Details:
+  Supplier Part ID : 3852733
+  Line No.
+             PO Line No. Type                            Supplier Part No. / Description
+  00011
+             11         Material                         3852735 / SCHAEDLER-YESCO S8273652
+  Additional Details:
+  Supplier Part ID : 3852735
+ Line No.    PO Line No. Type                            Supplier Part No. / Description
+  00012     12        Material                          499887 / SCHAEDLER-YESCO S8273652
+  Additional Details:
+  Supplier Part ID : 499887
+ Line No.    PO Line No. Type
+                                                        Supplier Part No. / Description
+ 00013     13         Material
+                                                        3760390 / SCHAEDLER-YESCO S8273652
+ Additional Details:
+ Supplier Part ID : 3760390
+ Line No.
+            PO Line No. Type                            Supplier Part No. / Description
+ 00014     14
+                       Material                          486476 / SCHAEDLER-YESCO S8273652
+ Additional Details:
+ Supplier Part ID : 486476
+Line No.    PO Line No. Type
+                                                        Supplier Part No. / Description
+00015     15        Material
+                                                        3717561 / SCHAEDLER-YESCO S8273652
+Additional Details:
+ Supplier Part ID : 3717561
+PDF generated on Wednesday 11 Feb 2026 7:48 PM GMT-08:00
+==================================<Page 3 - END>================================
+==================================<Page 4 - START>================================
+Standard Invoice
+Original tax invoice has been submitted electronically. This is a
+human readable representation (copy) of the original tax invoice.
+                                                                   Invoice Number
+                                                                                                                         2811371
+                                                                   (Supplier Reference No.)
+                                                                   Invoice Date
+                                                                                              Wednesday 11 Feb 2026 12:00 PM GMT+00:00
+                                                                   Shipping Date                     Friday 6 Feb 2026 12:00 PM GMT+00:00
+                                                                   Amount Due                                         $407.32 USD
+    Contact Information
+                                                                             Shipping Information
+    Supplier
+                                   Customer
+                                                                             Ship From                      Ship To
+    supplyFORCE.COM. LLC           Frito-Lay, Inc.
+                                                                             supplyFORCE                   Frito-Lay Incorporated NAF
+    700 American Ave Suite 300         c/o PEPSICO NASS                           700 American Ave Suite 300         WILLIAMSPORT- ARIBA
+    King of Prussia                  ACCOUNTS PAYABLES                        King of Prussia                  N Reach Rd
+    PA                           PO BOX 1800                               PA                           WILLIAMSPORT
+    19406                         Winston Salem                               19406                         PA
+    United States                    NC                                       United States                    17701
+                                   27105                                     Address ID: 125681473             United States
+                                   United States                                                             Address ID: 2107
+                                   Address ID: US28
+  Line Items                                                 PO No. : M413542346                                        PO Date : 6 Feb 2026
+  Line No.    PO Line No.                  Supplier Part No. /              Customer Part No.         Quantity            Unit Price         Subtotal
+                                Type
+                                        Description                                        (UOM)
+  00001     1                  Material 5911388 / SCHAEDLER-YESCO    10017742              4 / (EA)            $6.57 USD      $26.28 USD
+                                        S8273652
+  Line No.    PO Line No.          Type    Supplier Part No. /              Customer Part No.        Quantity            Unit Price         Subtotal
+                                        Description                                        (UOM)
+  00002                                                                                                   $28.90 USD      $28.90 USD
+            2                  Material  25359900 / SCHAEDLER-YESCO                        1 / (EA)
+                                         S8273652
+  Line No.    PO Line No.                  Supplier Part No. /             Customer Part No.        Quantity            Unit Price         Subtotal
+                                Type
+                                         Description                                         (UOM)
+  00003     3                  Material  12522173 / SCHAEDLER-YESCO  50031863              3 / (EA)            $1.62 USD       $4.86 USD
+                                         S8273652
+                                                                                                            Unit Price         Subtotal
+  Line No.    PO Line No.          Type    Supplier Part No. /              Customer Part No.        Quantity
+                                         Description                                         (UOM)
+                                         11090426 / SCHAEDLER-YESCO  50008211              3 / (EA)            $5.89 USD      $17.67 USD
+  00004     4                  Material
+                                         S8273652
+                                         Supplier Part No. /              Customer Part No.        Quantity            Unit Price         Subtotal
+   Line No.    PO Line No.          Type
+                                        Description                                         (UOM)
+                                 Material 3212307 / SCHAEDLER-YESCO   50008194              1 / (EA)          $129.38 USD      $129.38 USD
+   90000     6
+                                         S8273652
+                                                                                                             Unit Price         Subtotal
+  Line No.    PO Line No.          Type    Supplier Part No. /              Customer Part No.        Quantity
+                                         Description                                         (UOM)
+                                 Material  52004 / SCHAEDLER-YESCO     379546                3 / (EA)            $6.60 USD      $19.80 USD
+   00007     7
+                                         S8273652
+                                 Type    Supplier Part No. /              Customer Part No.         Quantity            Unit Price         Subtotal
+   Line No.    PO Line No.
+                                         Description                                         (UOM)
+                                                                                                           $11.65 USD
+             8                  Material 3852688 / SCHAEDLER-YESCO   50003641               1 / (EA)                           $11.65 USD
+  00008
+                                         S8273652
+                                                                                          Quantity            Unit Price         Subtotal
+   Line No.    PO Line No.          Type    Supplier Part No. /              Customer Part No.
+                                         Description                                         (UOM)
+                                 Material  11613094 / SCHAEDLER-YESCO  10015142               1 / (EA)           $92.50 USD      $92.50 USD
+  60000     9
+                                         S8273652
+                                 Type    Supplier Part No. /              Customer Part No.         Quantity             Unit Price         Subtotal
+  Line No.    PO Line No.
+                                         Description                                         (UOM)
+                                                                                                            $7.28 USD       $7.28 USD
+                                 Material  3852733 / SCHAEDLER-YESCO    500017819              1 / (EA)
+  00010     10
+                                         S8273652
+                                                                                          Quantity             Unit Price         Subtotal
+  Line No.    PO Line No.          Type    Supplier Part No. /              Customer Part No.
+                                                                                          (UOM)
+                                         Description
+                                         3852735 / SCHAEDLER-YESCO    500017901              2 / (EA)            $5.08 USD      $10.16 USD
+  00011     11                 Material
+                                         S8273652
+                                                                                                             Unit Price         Subtotal
+                                         Supplier Part No. /             Customer Part No.         Quantity
+  Line No.    PO Line No.          Type                                                     (UOM)
+                                         Description
+                                                                                          1 / (EA)           $18.61 USD      $18.61 USD
+                                 Material  499887 / SCHAEDLER-YESCO
+  00012     12
+                                         S8273652
+                                                                                                             Unit Price         Subtotal
+                                                                    Customer Part No.         Quantity
+                                Type    Supplier Part No. /
+  Line No.    PO Line No.                                                                    (UOM)
+                                        Description
+                                                                                          1 / (EA)            $3.63 USD       $3.63 USD
+                                        3760390 / SCHAEDLER-YESCO    50018581
+  00013     13                 Material
+                                        S8273652
+                                                                    Customer Part No.         Quantity            Unit Price         Subtotal
+                                        Supplier Part No. /
+  Line No.    PO Line No.          Type                                                     (UOM)
+                                        Description
+                                                                                                            $2.38 USD       $7.14 USD
+                                                                    500013989              3 / (EA)
+                                Material  486476 / SCHAEDLER-YESCO
+ 00014     14
+                                        S8273652
+                                                                                                             Unit Price         Subtotal
+                                                                    Customer Part No.        Quantity
+                                Type    Supplier Part No. /
+ Line No.    PO Line No.
+                                        Description
+                                                                                          1 / (EA)            $6.40 USD       $6.40 USD
+                                      3717561 /SCHAEDLER-YESCO    50014640
+                                Material
+ 00015     15
+                                        S8273652
+                                                                                                       Amount
+     Tax Summary                                                                       Rate %
+                                                             Base Amount                                $23.06 USD
+                            Details                                                     6%
+     Category                                                 $384.26 USD
+    Sales Tax               Tax Location : PA
+                                                                                 Amount Summary
+                                                                                                                        $384.26 USD
+                                                                                 Line item subtotal
+                                                                                                                        $407.32 USD
+                                                                                 Gross amount
+                                                                                                                        $407 32 USD
+==================================<Page 4 - END>================================
+==================================<Page 5 - START>================================
+                                                                             Amount Summary
+                                                                              Total tax amount                          $23.06 USD
+                                                                              Total withholding tax amount
+                                                                             Amount Due                             $407.32 USD
+  Additional Information
+  totalNumberOfLineltems
+  14
+  Billing Information
+                                                                         Remittance Information
+  Bill To
+                                                                         Remit To
+  Frito-Lay, Inc.
+                                                                         supplyFORCE
+  c/o PEPSICO NASS
+                                                                         PO Box 788581
+ ACCOUNTS PAYABLES
+                                                                         Philadelphia
+ Winston Salem
+                                                                         PA
+ NC                                                                    19178
+ 27105                                                                  United States
+ United States                                                             Address ID: 2000013150
+ Address ID: US28
+                                                                         Tax ID of Supplier
+                                                                         23-3017555
+                                                                     Reference Documents
+                                                                      Original Supplier Order #: del456
+==================================<Page 5 - END>================================
+==================================<Page 6 - START>================================
+   yıpuadd 
+  Line No.
+              PO Line No. Type                            Supplier Part No. / Description
+  00001
+                         Material                         5911388 / SCHAEDLER-YESCO S8273652
+  Additional Details:
+  Supplier Part ID : 5911388
+  Line No.    PO Line No. Type
+                                                         Supplier Part No. / Description
+  00002
+              2
+                         Material                         25359900 / SCHAEDLER-YESCO S8273652
+  Additional Details:
+  Supplier Part ID : 25359900
+  Line No.
+              PO Line No. Type                           Supplier Part No. / Description
+  00003
+              3         Material                         12522173 / SCHAEDLER-YESCO S8273652
+  Additional Details:
+  Supplier Part ID : 12522173
+  Line No.
+              PO Line No. Type                           Supplier Part No. / Description
+  00004
+              4          Material                         11090426 / SCHAEDLER-YESCO S8273652
+  Additional Details:
+  Supplier Part ID : 11090426
+  Line No.    PO Line No. Type
+                                                         Supplier Part No. / Description
+  90000     6          Material
+                                                         3212307 / SCHAEDLER-YESCO S8273652
+  Additional Details:
+  Supplier Part ID : 3212307
+  Line No.
+             PO Line No. Type                            Supplier Part No. / Description
+  00007
+             7          Material                         52004 / SCHAEDLER-YESCO S8273652
+  Additional Details:
+  Supplier Part ID : 52004
+  Line No.    PO Line No. Type
+                                                         Supplier Part No. / Description
+  00008     8          Material
+                                                         3852688 / SCHAEDLER-YESCO S8273652
+  Additional Details:
+  Supplier Part ID : 3852688
+ Line No.
+             PO Line No. Type                            Supplier Part No. / Description
+  60000
+             9          Material                          11613094 / SCHAEDLER-YESCO S8273652
+  Additional Details:
+  Supplier Part ID : 11613094
+ Line No.    PO Line No. Type                            Supplier Part No. / Description
+  00010     10        Material                          3852733 / SCHAEDLER-YESCO S8273652
+  Additional Details:
+  Supplier Part ID : 3852733
+  Line No.
+             PO Line No. Type                            Supplier Part No. / Description
+  00011
+             11         Material                         3852735 / SCHAEDLER-YESCO S8273652
+  Additional Details:
+  Supplier Part ID : 3852735
+ Line No.    PO Line No. Type                            Supplier Part No. / Description
+  00012     12        Material                          499887 / SCHAEDLER-YESCO S8273652
+  Additional Details:
+  Supplier Part ID : 499887
+ Line No.    PO Line No. Type
+                                                        Supplier Part No. / Description
+ 00013     13         Material
+                                                        3760390 / SCHAEDLER-YESCO S8273652
+ Additional Details:
+ Supplier Part ID : 3760390
+ Line No.
+            PO Line No. Type                            Supplier Part No. / Description
+ 00014     14
+                       Material                          486476 / SCHAEDLER-YESCO S8273652
+ Additional Details:
+ Supplier Part ID : 486476
+Line No.    PO Line No. Type
+                                                        Supplier Part No. / Description
+00015     15        Material
+                                                        3717561 / SCHAEDLER-YESCO S8273652
+Additional Details:
+ Supplier Part ID : 3717561
+PDF generated on Wednesday 11 Feb 2026 7:48 PM GMT-08:00
+==================================<Page 6 - END>================================

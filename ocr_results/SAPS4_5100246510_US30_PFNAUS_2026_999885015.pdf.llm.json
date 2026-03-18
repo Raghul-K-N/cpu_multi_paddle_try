@@ -1,0 +1,111 @@
+{
+  "invoice_data": {
+    "invoice_number": "6585498242",
+    "invoice_date": "12/13/2025",
+    "invoice_amount": "357.78",
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": "20.25",
+    "po_number": [
+      "759147974",
+      "23575158"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "BRIDGESTONE",
+    "vendor_address": "00 4TH AVENUE SOUTH, SUITE 100, P.O. BOX 140990, NASHVILLE, TENNESSEE 37201, DALLAS, TX 75373-0026",
+    "po_line_items": [
+      {
+        "description": "EMERGENCY REG HR SVC CALL",
+        "quantity": 2.0,
+        "net_price": 105.0
+      },
+      {
+        "description": "DISPATCH & ADMIN F",
+        "quantity": 1.0,
+        "net_price": 37.0
+      },
+      {
+        "description": "BEAD LEAK PREVENTA",
+        "quantity": 1.0,
+        "net_price": 2.5
+      },
+      {
+        "description": "FEE, MILEAGE",
+        "quantity": 28.0,
+        "net_price": 0.61
+      },
+      {
+        "description": "VALVE STEM, STEEL, TL MED",
+        "quantity": 1.0,
+        "net_price": 5.95
+      },
+      {
+        "description": "AIR LINE",
+        "quantity": 1.0,
+        "net_price": 65.0
+      }
+    ],
+    "vat_amount": null,
+    "gl_account": null,
+    "bank_name": null,
+    "account_holder_name": null,
+    "banking_account_number": null,
+    "remit_to_address": null,
+    "bill_to_address": null,
+    "transaction_type": "debit"
+  },
+  "filename": "SAPS4_5100246510_US30_PFNAUS_2026_999885015.pdf",
+  "raw_response": {
+    "invoice_number": "6585498242",
+    "invoice_date": "12/13/2025",
+    "invoice_amount": "357.78",
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": "20.25",
+    "po_number": [
+      "759147974",
+      "23575158"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "BRIDGESTONE",
+    "vendor_address": "00 4TH AVENUE SOUTH, SUITE 100, P.O. BOX 140990, NASHVILLE, TENNESSEE 37201, DALLAS, TX 75373-0026",
+    "po_line_items": [
+      {
+        "description": "EMERGENCY REG HR SVC CALL",
+        "quantity": 2.0,
+        "net_price": 105.0
+      },
+      {
+        "description": "DISPATCH & ADMIN F",
+        "quantity": 1.0,
+        "net_price": 37.0
+      },
+      {
+        "description": "BEAD LEAK PREVENTA",
+        "quantity": 1.0,
+        "net_price": 2.5
+      },
+      {
+        "description": "FEE, MILEAGE",
+        "quantity": 28.0,
+        "net_price": 0.61
+      },
+      {
+        "description": "VALVE STEM, STEEL, TL MED",
+        "quantity": 1.0,
+        "net_price": 5.95
+      },
+      {
+        "description": "AIR LINE",
+        "quantity": 1.0,
+        "net_price": 65.0
+      }
+    ]
+  }
+}

@@ -1,0 +1,59 @@
+{
+  "invoice_data": {
+    "invoice_number": "9131",
+    "invoice_date": "Saturday 7 Feb. 2026 12:00 p.m. GMT-04:00",
+    "invoice_amount": "9120.00",
+    "invoice_currency": [
+      "CAD"
+    ],
+    "tax_amount": "1120.00",
+    "po_number": [
+      "M413551607"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "Trim Landscaping Inc.",
+    "vendor_address": "310 Bluewater Road, Unit 2, Bedford, NS L4W 0G2, Canada, Address ID: CA11",
+    "po_line_items": [
+      {
+        "description": "Not Available / Jan/April snow removals BPO",
+        "quantity": 8000.0,
+        "net_price": 1.0
+      }
+    ],
+    "vat_amount": null,
+    "gl_account": null,
+    "bank_name": null,
+    "account_holder_name": null,
+    "banking_account_number": null,
+    "remit_to_address": null,
+    "bill_to_address": null,
+    "transaction_type": "debit"
+  },
+  "filename": "SAPS4_5100258501_CA11_PFNACA_2026_304654703.pdf",
+  "raw_response": {
+    "invoice_number": "9131",
+    "invoice_date": "Saturday 7 Feb. 2026 12:00 p.m. GMT-04:00",
+    "invoice_amount": "9120.00",
+    "invoice_currency": [
+      "CAD"
+    ],
+    "tax_amount": "1120.00",
+    "po_number": [
+      "M413551607"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "Trim Landscaping Inc.",
+    "vendor_address": "310 Bluewater Road, Unit 2, Bedford, NS L4W 0G2, Canada, Address ID: CA11",
+    "po_line_items": [
+      {
+        "description": "Not Available / Jan/April snow removals BPO",
+        "quantity": 8000.0,
+        "net_price": 1.0
+      }
+    ]
+  }
+}

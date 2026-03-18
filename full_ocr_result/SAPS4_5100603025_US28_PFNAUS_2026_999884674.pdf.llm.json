@@ -1,0 +1,59 @@
+{
+  "invoice_data": {
+    "invoice_number": "868711011",
+    "invoice_date": "02/11/2026",
+    "invoice_amount": "179.16",
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": "11.72",
+    "po_number": [
+      "4505172031"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "GRAINGER",
+    "vendor_address": "1819 W. 16TH ST., INDIANAPOLIS, IN 46202-2032",
+    "po_line_items": [
+      {
+        "description": "CASTER WHEEL,5\"DIA,1,050 LB,RED",
+        "quantity": 8.0,
+        "net_price": 20.93
+      }
+    ],
+    "vat_amount": null,
+    "gl_account": null,
+    "bank_name": null,
+    "account_holder_name": null,
+    "banking_account_number": null,
+    "remit_to_address": null,
+    "bill_to_address": null,
+    "transaction_type": "debit"
+  },
+  "filename": "SAPS4_5100603025_US28_PFNAUS_2026_999884674.pdf",
+  "raw_response": {
+    "invoice_number": "868711011",
+    "invoice_date": "02/11/2026",
+    "invoice_amount": "179.16",
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": "11.72",
+    "po_number": [
+      "4505172031"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "GRAINGER",
+    "vendor_address": "1819 W. 16TH ST., INDIANAPOLIS, IN 46202-2032",
+    "po_line_items": [
+      {
+        "description": "CASTER WHEEL,5\"DIA,1,050 LB,RED",
+        "quantity": 8.0,
+        "net_price": 20.93
+      }
+    ]
+  }
+}

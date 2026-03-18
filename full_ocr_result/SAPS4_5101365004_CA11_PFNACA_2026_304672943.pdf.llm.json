@@ -1,0 +1,89 @@
+{
+  "invoice_data": {
+    "invoice_number": "490692/5",
+    "invoice_date": "10/14/25",
+    "invoice_amount": "1108.07",
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": "144",
+    "po_number": [
+      "M412741216"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "PIECES D'AUTO JARRY LTÉE",
+    "vendor_address": "9121, boul, Ray-son 3505, rue Jarry est, Anjou, Qc., H1J 1K6, Montréal, Qc., H1Z 2G1",
+    "po_line_items": [
+      {
+        "description": "PRODUIT ZIMMERMAN",
+        "quantity": 3.0,
+        "net_price": 89.177
+      },
+      {
+        "description": "PRODUIT ZIMMERMAN",
+        "quantity": 2.0,
+        "net_price": 179.16
+      },
+      {
+        "description": "PRODUIT ZIMMERMAN",
+        "quantity": 1.0,
+        "net_price": 162.31
+      },
+      {
+        "description": "EUROROTOR SABOT DE FREIN",
+        "quantity": 4.0,
+        "net_price": 43.897
+      }
+    ],
+    "vat_amount": null,
+    "gl_account": null,
+    "bank_name": null,
+    "account_holder_name": null,
+    "banking_account_number": null,
+    "remit_to_address": null,
+    "bill_to_address": null,
+    "transaction_type": "debit"
+  },
+  "filename": "SAPS4_5101365004_CA11_PFNACA_2026_304672943.pdf",
+  "raw_response": {
+    "invoice_number": "490692/5",
+    "invoice_date": "10/14/25",
+    "invoice_amount": "1108.07",
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": "144",
+    "po_number": [
+      "M412741216"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "PIECES D'AUTO JARRY LTÉE",
+    "vendor_address": "9121, boul, Ray-son 3505, rue Jarry est, Anjou, Qc., H1J 1K6, Montréal, Qc., H1Z 2G1",
+    "po_line_items": [
+      {
+        "description": "PRODUIT ZIMMERMAN",
+        "quantity": 3.0,
+        "net_price": 89.177
+      },
+      {
+        "description": "PRODUIT ZIMMERMAN",
+        "quantity": 2.0,
+        "net_price": 179.16
+      },
+      {
+        "description": "PRODUIT ZIMMERMAN",
+        "quantity": 1.0,
+        "net_price": 162.31
+      },
+      {
+        "description": "EUROROTOR SABOT DE FREIN",
+        "quantity": 4.0,
+        "net_price": 43.897
+      }
+    ]
+  }
+}

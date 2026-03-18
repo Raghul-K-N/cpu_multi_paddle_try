@@ -1,0 +1,83 @@
+{
+  "invoice_data": {
+    "invoice_number": "M413534196",
+    "invoice_date": "1/28/2026",
+    "invoice_amount": "506.18",
+    "invoice_currency": [
+      "CAD"
+    ],
+    "tax_amount": "58.23",
+    "po_number": [
+      "SO180098",
+      "WO160760",
+      "M410934097"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": "45.00",
+    "cost_center": null,
+    "vendor_name": "Northern Dock Systems Inc.",
+    "vendor_address": "DockSystems 415 Ambassador Drive, Mississauga, ON L5T 2J3, Canada",
+    "po_line_items": [
+      {
+        "description": "Travel Fee -Labour, Fleet & Environmental Recovery",
+        "quantity": 1.0,
+        "net_price": 117.5
+      },
+      {
+        "description": "Fuel Surcharge",
+        "quantity": 1.0,
+        "net_price": 45.0
+      },
+      {
+        "description": "Slide lock - long throw",
+        "quantity": 2.0,
+        "net_price": 54.6
+      }
+    ],
+    "vat_amount": null,
+    "gl_account": null,
+    "bank_name": null,
+    "account_holder_name": null,
+    "banking_account_number": null,
+    "remit_to_address": null,
+    "bill_to_address": null,
+    "transaction_type": "debit"
+  },
+  "filename": "SAPS4_5101417001_CA02_PBNACA_2026_328586868.pdf",
+  "raw_response": {
+    "invoice_number": "M413534196",
+    "invoice_date": "1/28/2026",
+    "invoice_amount": "506.18",
+    "invoice_currency": [
+      "CAD"
+    ],
+    "tax_amount": "58.23",
+    "po_number": [
+      "SO180098",
+      "WO160760",
+      "M410934097"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": "45.00",
+    "cost_center": null,
+    "vendor_name": "Northern Dock Systems Inc.",
+    "vendor_address": "DockSystems 415 Ambassador Drive, Mississauga, ON L5T 2J3, Canada",
+    "po_line_items": [
+      {
+        "description": "Travel Fee -Labour, Fleet & Environmental Recovery",
+        "quantity": 1.0,
+        "net_price": 117.5
+      },
+      {
+        "description": "Fuel Surcharge",
+        "quantity": 1.0,
+        "net_price": 45.0
+      },
+      {
+        "description": "Slide lock - long throw",
+        "quantity": 2.0,
+        "net_price": 54.6
+      }
+    ]
+  }
+}

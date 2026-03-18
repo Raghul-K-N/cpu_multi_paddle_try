@@ -1,0 +1,43 @@
+{
+  "invoice_data": {
+    "invoice_number": "CO16-01111488",
+    "invoice_date": "02/03/26",
+    "invoice_amount": null,
+    "invoice_currency": null,
+    "tax_amount": null,
+    "po_number": [
+      "4505038969"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "REMIT MOTION INDUSTRIES, INC.",
+    "vendor_address": "12358 E EASTER AVE, #150, CENTENNIAL, CO 80112, PH 3033991500, FAX 3033991900, DENVER, CO 80239-3304",
+    "po_line_items": null,
+    "vat_amount": null,
+    "gl_account": null,
+    "bank_name": null,
+    "account_holder_name": null,
+    "banking_account_number": null,
+    "remit_to_address": null,
+    "bill_to_address": null,
+    "transaction_type": "debit"
+  },
+  "filename": "SAPS4_5100363539_US28_PFNAUS_2026_999884260.pdf",
+  "raw_response": {
+    "invoice_number": "CO16-01111488",
+    "invoice_date": "02/03/26",
+    "invoice_amount": null,
+    "invoice_currency": null,
+    "tax_amount": null,
+    "po_number": [
+      "4505038969"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "REMIT MOTION INDUSTRIES, INC.",
+    "vendor_address": "12358 E EASTER AVE, #150, CENTENNIAL, CO 80112, PH 3033991500, FAX 3033991900, DENVER, CO 80239-3304",
+    "po_line_items": null
+  }
+}

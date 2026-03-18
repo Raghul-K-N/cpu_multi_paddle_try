@@ -1,0 +1,250 @@
+==================================<Page 1 - START>================================
+Standard Invoice                                                                                                  GRAINGER
+Original tax invoice has been submitted electronically. This is a
+human readable representation (copy) of the original tax invoice.
+                                                                 Invoice Number                                       9801387284
+                                                                 (Supplier Reference No.)
+                                                                 Invoice Date                    Monday 9 Feb. 2026 7:10 a.m. GMT-05:00
+                                                                 Amount Due                                         $568.23 CAD
+    Contact Information
+                                                                           Shipping Information
+    Supplier                      Customer
+                                                                           Ship From                     Ship To
+     ACKLANDS-GRAINGER INC.        EDI ONLY PEPSI FOODS ULC
+                                                                           AGI CALEDON DC               CA-PL-KENTVILLE-NS-FLC
+     PO BOX 2970                  (FLC)                                     21 Merchant Road                59 MINAS WAREHOUSE RD
+     WINNIPEG                     59 NEW MINAS RD                           Caledon                       KENTVILLE
+     MB                          NEW MINAS                                ON                          NS
+     R3C 4B5                      NS                                      L7C 3Y7                      B4N 3W9
+     CA                          B4N 5A5                                  Canada                       Canada
+                                  Canada
+                                                                                                               PO Date : 9 Feb. 2026
+  Line Items                                              PO No. : M413545124
+   Line No.   PO Line No.         Type   Supplier Part No. /             Customer Part No.        Quantity            Unit Price         Subtotal
+                                       Description                                       (UOM)
+   80       8                 Material BRNT1035 / TIP CONTACT QUIK                        6 / (EA)            $3.14 CAD      $18.84 CAD
+                                       TIP SERIES 1
+                                                                                                     Line Item Total : $18.84 CAD
+   Line No.    PO Line No.          Type    Supplier Part No. /             Customer Part No.        Quantity            Unit Price         Subtotal
+                                       Description                                       (UOM)
+   90                                  ESB5500253000 /                                                   $57.94 CAD     $115.88 CAD
+             9                 Material                                                 2 / (PK)
+                                       ELECTRODE.MILD STEEL.2.5 MM
+                                       DIA
+                                                                                                    Line Item Total : $115.88 CAD
+   Line No.    PO Line No.          Type   Supplier Part No. /             Customer Part No.        Quantity            Unit Price         Subtotal
+                                       Description                                       (UOM)
+   110                                                                                                $23.69 CAD      $47.38 CAD
+             11                Material GGL105015 / MOUNTING                             2 / (EA)
+                                       TAPE.12.5 FT X 43 MIL,CLEAR
+                                                                                                    Line Item Total : $47.38 CAD
+   Line No.    PO Line No.          Type    Supplier Part No. /             Customer Part No.        Quantity            Unit Price         Subtotal
+                                       Description                                       (UOM)
+                                                                                                        $9.89 CAD     $148.35 CAD
+   200      20                Material  KMB49113 /                                       15 / (EA)
+                                       COVERALL.WHITE,SZ L
+                                                                                                   Line Item Total : $148.35 CAD
+   Line No.                              Supplier Part No. /             Customer Part No.        Quantity            Unit Price         Subtotal
+             PO Line No.          Type
+                                       Description                                       (UOM)
+  290      29                Material RMC56865 / HYGIENIC BUCKET.3                       4 / (EA)           $42.00 CAD     $168.00 CAD
+                                       1/4 GAL.WHITE
+                                                                                                    Line Item Total : $168.00 CAD
+      Tax Summary
+                           Details                          Base Amount               Rate %          Amount
+      Category
+      GST                  Tax Description : GOODS AND         $498.45 CAD               14%            $69.78 CAD
+                            SERVICES
+                                                                                                    $0.00 CAD
+      PST                  Tax Description : State/Provincial        $498.45 CAD               0%
+                           Tax
+                                                                              Amount Summary
+                                                                                                                     $498.45 CAD
+                                                                              Line item subtotal
+                                                                              Gross amount                             $568.23 CAD
+                                                                              Net amount                              $568.23 CAD
+                                                                              Total tax amount                            $69.78 CAD
+                                                                              Total withholding tax amount
+                                                                              Amount Due                              $568.23 CAD
+    Additional Information
+    invioceSourceDocument
+    PurchaseOrder
+                                                                         Remittance Information
+   Billing Information
+                                                                         Remit To
+   Bill To
+                                                                         ACKLANDS-GRAINGER INC.
+   PEPSI FOODS ULC (FLC)
+                                                                         PO BOX 2970
+   2095 MATHESON BLVD E
+                                                                         WINNIPEG
+   MISSISSAUGA
+                                                                         MB
+   ON
+                                                                         R3C 4B5
+   L4W 0G2
+                                                                         Canada
+   Canada
+                                                                         Address ID: CA1_2751
+   Address ID:
+   CA1_ARIBA_PAYABLES
+==================================<Page 1 - END>================================
+==================================<Page 2 - START>================================
+  Appendix
+  Line No.
+             PO Line No. Type                            Supplier Part No. / Description
+  80        8
+                       Material                          BRNT1035 / TIP CONTACT QUIK TIP SERIES 1
+  Additional Details:
+  Supplier Part ID : BRNT1035
+  Line No.
+            PO Line No. Type                            Supplier Part No. / Description
+  90        9         Material
+                                                       ESB5500253000 / ELECTRODE,MILD STEEL,2.5 MM DIA
+  Additional Details:
+  Supplier Part ID : ESB5500253000
+ Line No.
+            PO Line No. Type                           Supplier Part No. / Description
+ 110       11        Material
+                                                       GGL105015 / MOUNTING TAPE,12.5 FT X 43 MIL,CLEAR
+ Additional Details:
+ Supplier Part ID : GGL105015
+ Line No.
+            PO Line No. Type                           Supplier Part No. / Description
+ 200      20        Material
+                                                       KMB49113 / COVERALL,WHITE,SZ L
+Additional Details:
+ Supplier Part ID : KMB49113
+Line No.    PO Line No. Type
+                                                       Supplier Part No. / Description
+290       29        Material
+                                                      RMC56865 / HYGIENIC BUCKET,3 1/4 GAL,WHITE
+Additional Details:
+ Supplier Part ID : RMC56865
+PDF generated on Tuesday 10 Feb. 2026 6:29 a.m. GMT-08:00
+==================================<Page 2 - END>================================
+==================================<Page 3 - START>================================
+  Standard Invoice                                                                                                  GRAINGER
+  Original tax invoice has been submitted electronically. This is a
+  human readable representation (copy) of the original tax invoice.
+                                                                  Invoice Number                                       9801387284
+                                                                  (Supplier Reference No.)
+                                                                  Invoice Date                    Monday 9 Feb. 2026 7:10 a.m. GMT-05:00
+                                                                  Amount Due                                         $568.23 CAD
+      Contact Information
+                                                                            Shipping Information
+      Supplier                      Customer
+                                                                            Ship From                     Ship To
+      ACKLANDS-GRAINGER INC.        EDI ONLY PEPSI FOODS ULC
+                                                                            AGI CALEDON DC               CA-PL-KENTVILLE-NS-FLC
+      PO BOX 2970                  (FLC)                                     21 Merchant Road                59 MINAS WAREHOUSE RD
+      WINNIPEG                     59 NEW MINAS RD                           Caledon                       KENTVILLE
+      MB                          NEW MINAS                                ON                          NS
+      R3C 4B5                      NS                                      L7C 3Y7                      B4N 3W9
+      CA                          B4N 5A5                                  Canada                       Canada
+                                   Canada
+                                                                                                                 PO Date : 9 Feb. 2026
+    Line Items                                              PO No. : M413545124
+    Line No.   PO Line No.         Type   Supplier Part No. /             Customer Part No.        Quantity            Unit Price         Subtotal
+                                         Description                                       (UOM)
+    80       8                 Material BRNT1035 / TIP CONTACT QUIK                        6 / (EA)            $3.14 CAD      $18.84 CAD
+                                         TIP SERIES 1
+                                                                                                      Line Item Total : $18.84 CAD
+    Line No.    PO Line No.          Type    Supplier Part No. /             Customer Part No.        Quantity            Unit Price         Subtotal
+                                         Description                                       (UOM)
+    90                                  ESB5500253000 /                                                   $57.94 CAD     $115.88 CAD
+               9                 Material                                                 2 / (PK)
+                                         ELECTRODE.MILD STEEL.2.5 MM
+                                         DIA
+                                                                                                     Line Item Total : $115.88 CAD
+    Line No.    PO Line No.          Type   Supplier Part No. /             Customer Part No.        Quantity            Unit Price         Subtotal
+                                         Description                                       (UOM)
+    110                                                                                                $23.69 CAD      $47.38 CAD
+              11                Material GGL105015 / MOUNTING                             2 / (EA)
+                                         TAPE.12.5 FT X 43 MIL,CLEAR
+                                                                                                      Line Item Total : $47.38 CAD
+    Line No.    PO Line No.          Type    Supplier Part No. /             Customer Part No.        Quantity            Unit Price         Subtotal
+                                        Description                                       (UOM)
+                                                                                                         $9.89 CAD     $148.35 CAD
+    200      20                Material  KMB49113 /                                       15 / (EA)
+                                         COVERALL.WHITE,SZ L
+                                                                                                     Line Item Total : $148.35 CAD
+    Line No.                              Supplier Part No. /             Customer Part No.        Quantity            Unit Price         Subtotal
+              PO Line No.          Type
+                                        Description                                       (UOM)
+    290      29                Material RMC56865 / HYGIENIC BUCKET.3                       4 / (EA)           $42.00 CAD     $168.00 CAD
+                                         1/4 GAL.WHITE
+                                                                                                     Line Item Total : $168.00 CAD
+       Tax Summary
+                             Details                          Base Amount               Rate %          Amount
+       Category
+       GST                  Tax Description : GOODS AND         $498.45 CAD               14%            $69.78 CAD
+                             SERVICES
+                                                                                                      $0.00 CAD
+       PST                  Tax Description : State/Provincial        $498.45 CAD               0%
+                             Tax
+                                                                               Amount Summary
+                                                                                                                       $498.45 CAD
+                                                                               Line item subtotal
+                                                                               Gross amount                             $568.23 CAD
+                                                                               Net amount                              $568.23 CAD
+                                                                               Total tax amount                            $69.78 CAD
+                                                                               Total withholding tax amount
+                                                                               Amount Due                              $568.23 CAD
+     Additional Information
+     invioceSourceDocument
+     PurchaseOrder
+                                                                           Remittance Information
+     Billing Information
+                                                                           Remit To
+     Bill To
+                                                                           ACKLANDS-GRAINGER INC.
+     PEPSI FOODS ULC (FLC)
+                                                                           PO BOX 2970
+     2095 MATHESON BLVD E
+                                                                           WINNIPEG
+     MISSISSAUGA
+                                                                           MB
+     ON
+                                                                           R3C 4B5
+     L4W 0G2
+                                                                           Canada
+     Canada
+                                                                          Address ID: CA1_2751
+    Address ID:
+    CA1_ARIBA_PAYABLES
+==================================<Page 3 - END>================================
+==================================<Page 4 - START>================================
+  Appendix
+  Line No.
+             PO Line No. Type                            Supplier Part No. / Description
+  80        8
+                       Material                          BRNT1035 / TIP CONTACT QUIK TIP SERIES 1
+  Additional Details:
+  Supplier Part ID : BRNT1035
+  Line No.
+            PO Line No. Type                            Supplier Part No. / Description
+  90        9         Material
+                                                       ESB5500253000 / ELECTRODE,MILD STEEL,2.5 MM DIA
+  Additional Details:
+  Supplier Part ID : ESB5500253000
+ Line No.
+            PO Line No. Type                           Supplier Part No. / Description
+ 110       11        Material
+                                                       GGL105015 / MOUNTING TAPE,12.5 FT X 43 MIL,CLEAR
+ Additional Details:
+ Supplier Part ID : GGL105015
+ Line No.
+            PO Line No. Type                           Supplier Part No. / Description
+ 200      20        Material
+                                                       KMB49113 / COVERALL,WHITE,SZ L
+Additional Details:
+ Supplier Part ID : KMB49113
+Line No.    PO Line No. Type
+                                                       Supplier Part No. / Description
+290       29        Material
+                                                      RMC56865 / HYGIENIC BUCKET,3 1/4 GAL,WHITE
+Additional Details:
+ Supplier Part ID : RMC56865
+PDF generated on Tuesday 10 Feb. 2026 6:29 a.m. GMT-08:00
+==================================<Page 4 - END>================================

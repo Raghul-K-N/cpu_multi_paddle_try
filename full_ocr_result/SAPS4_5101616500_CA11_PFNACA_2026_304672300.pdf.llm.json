@@ -1,0 +1,47 @@
+{
+  "invoice_data": {
+    "invoice_number": "0272994",
+    "invoice_date": "2026-01-30",
+    "invoice_amount": "152.58",
+    "invoice_currency": [
+      "CAD"
+    ],
+    "tax_amount": "13.23",
+    "po_number": [
+      "4504510913"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "Transteck Canada Inc.",
+    "vendor_address": "CP-70228, Succursale Québec centre, Québec, (QC) Canada G2J 0A2",
+    "po_line_items": null,
+    "vat_amount": null,
+    "gl_account": null,
+    "bank_name": null,
+    "account_holder_name": null,
+    "banking_account_number": null,
+    "remit_to_address": null,
+    "bill_to_address": null,
+    "transaction_type": "debit"
+  },
+  "filename": "SAPS4_5101616500_CA11_PFNACA_2026_304672300.pdf",
+  "raw_response": {
+    "invoice_number": "0272994",
+    "invoice_date": "2026-01-30",
+    "invoice_amount": "152.58",
+    "invoice_currency": [
+      "CAD"
+    ],
+    "tax_amount": "13.23",
+    "po_number": [
+      "4504510913"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "Transteck Canada Inc.",
+    "vendor_address": "CP-70228, Succursale Québec centre, Québec, (QC) Canada G2J 0A2",
+    "po_line_items": null
+  }
+}

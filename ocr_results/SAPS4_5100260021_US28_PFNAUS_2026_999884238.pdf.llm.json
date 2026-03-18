@@ -1,0 +1,69 @@
+{
+  "invoice_data": {
+    "invoice_number": "800605446",
+    "invoice_date": "02/12/2026",
+    "invoice_amount": "60.14",
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": null,
+    "po_number": [
+      "4505189472"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "GRAINGER",
+    "vendor_address": "3900 EASTON DR, BAKERSFIELD, CA 93309-1083",
+    "po_line_items": [
+      {
+        "description": "CONNECTING LINK,STEEL,COTT,129/64 IN",
+        "quantity": 2.0,
+        "net_price": 39.98
+      },
+      {
+        "description": "CONNECTING LINK,STEEL,1 25/64 IN",
+        "quantity": 2.0,
+        "net_price": 15.58
+      }
+    ],
+    "vat_amount": null,
+    "gl_account": null,
+    "bank_name": null,
+    "account_holder_name": null,
+    "banking_account_number": null,
+    "remit_to_address": null,
+    "bill_to_address": null,
+    "transaction_type": "debit"
+  },
+  "filename": "SAPS4_5100260021_US28_PFNAUS_2026_999884238.pdf",
+  "raw_response": {
+    "invoice_number": "800605446",
+    "invoice_date": "02/12/2026",
+    "invoice_amount": "60.14",
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": null,
+    "po_number": [
+      "4505189472"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "GRAINGER",
+    "vendor_address": "3900 EASTON DR, BAKERSFIELD, CA 93309-1083",
+    "po_line_items": [
+      {
+        "description": "CONNECTING LINK,STEEL,COTT,129/64 IN",
+        "quantity": 2.0,
+        "net_price": 39.98
+      },
+      {
+        "description": "CONNECTING LINK,STEEL,1 25/64 IN",
+        "quantity": 2.0,
+        "net_price": 15.58
+      }
+    ]
+  }
+}

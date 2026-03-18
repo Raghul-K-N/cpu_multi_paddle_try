@@ -1,0 +1,63 @@
+{
+  "invoice_data": {
+    "invoice_number": "INV010063309",
+    "invoice_date": "11.04.2025",
+    "invoice_amount": "19,469.32",
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": "0.00",
+    "po_number": [
+      "26327219/322386-MCN"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": "0.00",
+    "cost_center": [
+      "2000050201"
+    ],
+    "vendor_name": "AARON THOMAS CO INC",
+    "vendor_address": "7421 CHAPMAN AVE, GARDEN GROVE CA 92841-2115, USA",
+    "po_line_items": [
+      {
+        "description": "996878- Canisters cool ranch",
+        "quantity": 100378.0,
+        "net_price": 0.19396
+      }
+    ],
+    "vat_amount": null,
+    "gl_account": null,
+    "bank_name": null,
+    "account_holder_name": null,
+    "banking_account_number": null,
+    "remit_to_address": null,
+    "bill_to_address": null,
+    "transaction_type": "debit"
+  },
+  "filename": "SAPS4_1900064503_US28_PFNAUS_2026_999749363.pdf",
+  "raw_response": {
+    "invoice_number": "INV010063309",
+    "invoice_date": "11.04.2025",
+    "invoice_amount": "19,469.32",
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": "0.00",
+    "po_number": [
+      "26327219/322386-MCN"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": "0.00",
+    "cost_center": [
+      "2000050201"
+    ],
+    "vendor_name": "AARON THOMAS CO INC",
+    "vendor_address": "7421 CHAPMAN AVE, GARDEN GROVE CA 92841-2115, USA",
+    "po_line_items": [
+      {
+        "description": "996878- Canisters cool ranch",
+        "quantity": 100378.0,
+        "net_price": 0.19396
+      }
+    ]
+  }
+}

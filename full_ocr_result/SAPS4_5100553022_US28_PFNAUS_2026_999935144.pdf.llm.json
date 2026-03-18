@@ -1,0 +1,59 @@
+{
+  "invoice_data": {
+    "invoice_number": "43707",
+    "invoice_date": "2/11/2026",
+    "invoice_amount": "356.85",
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": "23.35",
+    "po_number": [
+      "4505019767"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "South Georgia Machine & Fabrication",
+    "vendor_address": "69 East Jefferson Street, Hazlehurst, GA 31539",
+    "po_line_items": [
+      {
+        "description": "2ROLLER, FOLLOWER, 1\" ID X 33 MM DIA X 10-1/4\" LG UHMW ENDS MACHINED FOR BEARINGS, 50428528, 800377355, SGM4860",
+        "quantity": 1.0,
+        "net_price": 333.5
+      }
+    ],
+    "vat_amount": null,
+    "gl_account": null,
+    "bank_name": null,
+    "account_holder_name": null,
+    "banking_account_number": null,
+    "remit_to_address": null,
+    "bill_to_address": null,
+    "transaction_type": "debit"
+  },
+  "filename": "SAPS4_5100553022_US28_PFNAUS_2026_999935144.pdf",
+  "raw_response": {
+    "invoice_number": "43707",
+    "invoice_date": "2/11/2026",
+    "invoice_amount": "356.85",
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": "23.35",
+    "po_number": [
+      "4505019767"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "South Georgia Machine & Fabrication",
+    "vendor_address": "69 East Jefferson Street, Hazlehurst, GA 31539",
+    "po_line_items": [
+      {
+        "description": "2ROLLER, FOLLOWER, 1\" ID X 33 MM DIA X 10-1/4\" LG UHMW ENDS MACHINED FOR BEARINGS, 50428528, 800377355, SGM4860",
+        "quantity": 1.0,
+        "net_price": 333.5
+      }
+    ]
+  }
+}

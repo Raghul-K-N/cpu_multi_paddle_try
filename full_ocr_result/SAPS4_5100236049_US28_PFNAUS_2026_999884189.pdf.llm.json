@@ -1,0 +1,61 @@
+{
+  "invoice_data": {
+    "invoice_number": "2807200",
+    "invoice_date": "February 4, 2026",
+    "invoice_amount": "290.74",
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": null,
+    "po_number": [
+      "4504925162",
+      "26444666-00"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "supplyFORCE",
+    "vendor_address": "700 American Avenue, St 300, KING OF PRUSSIA PA 19406-1434, 866-776-8289 Fax 484-322-7100, EIN # 23-3017555, GST # 86567 2521, QST # 1212529181",
+    "po_line_items": [
+      {
+        "description": "A-B; 440G-LZS21UPRH; Guardmaster 440G SWTCH:SAFTY;AUX,24V,1NO-2NC,8-PIN QD,RED",
+        "quantity": 1.0,
+        "net_price": 290.74
+      }
+    ],
+    "vat_amount": null,
+    "gl_account": null,
+    "bank_name": null,
+    "account_holder_name": null,
+    "banking_account_number": null,
+    "remit_to_address": null,
+    "bill_to_address": null,
+    "transaction_type": "debit"
+  },
+  "filename": "SAPS4_5100236049_US28_PFNAUS_2026_999884189.pdf",
+  "raw_response": {
+    "invoice_number": "2807200",
+    "invoice_date": "February 4, 2026",
+    "invoice_amount": "290.74",
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": null,
+    "po_number": [
+      "4504925162",
+      "26444666-00"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "supplyFORCE",
+    "vendor_address": "700 American Avenue, St 300, KING OF PRUSSIA PA 19406-1434, 866-776-8289 Fax 484-322-7100, EIN # 23-3017555, GST # 86567 2521, QST # 1212529181",
+    "po_line_items": [
+      {
+        "description": "A-B; 440G-LZS21UPRH; Guardmaster 440G SWTCH:SAFTY;AUX,24V,1NO-2NC,8-PIN QD,RED",
+        "quantity": 1.0,
+        "net_price": 290.74
+      }
+    ]
+  }
+}

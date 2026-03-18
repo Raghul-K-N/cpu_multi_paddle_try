@@ -1,0 +1,79 @@
+{
+  "invoice_data": {
+    "invoice_number": "TX28-00812077",
+    "invoice_date": "02/04/26",
+    "invoice_amount": "468.89",
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": null,
+    "po_number": [
+      "4504863996"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "REMIT MOTION INDUSTRIES, INC.",
+    "vendor_address": "MOTION 200 W TRINITY BLVD DOCK 19 GRAND PRAIRIE, TX 75050 PH 2143512211 FAX 2143587294",
+    "po_line_items": [
+      {
+        "description": "16AMP-R300 SOLID END CAPS CPNO: 800354122 IND HOSE ENDS",
+        "quantity": 5.0,
+        "net_price": 9.83
+      },
+      {
+        "description": "PPX35RE3 FILTER ELEMENT 1/2\", 3/4\" CPNO: 900004258 HYD FILTERS",
+        "quantity": 18.0,
+        "net_price": 22.46
+      },
+      {
+        "description": "40BS17 1 3/16 FINISHED BORE CPNO: 800306864 HI-VOLUME ROLLER CH SPKTS",
+        "quantity": 1.0,
+        "net_price": 15.46
+      }
+    ],
+    "vat_amount": null,
+    "gl_account": null,
+    "bank_name": null,
+    "account_holder_name": null,
+    "banking_account_number": null,
+    "remit_to_address": null,
+    "bill_to_address": null,
+    "transaction_type": "debit"
+  },
+  "filename": "SAPS4_5100206051_US28_PFNAUS_2026_999762535.pdf",
+  "raw_response": {
+    "invoice_number": "TX28-00812077",
+    "invoice_date": "02/04/26",
+    "invoice_amount": "468.89",
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": null,
+    "po_number": [
+      "4504863996"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "REMIT MOTION INDUSTRIES, INC.",
+    "vendor_address": "MOTION 200 W TRINITY BLVD DOCK 19 GRAND PRAIRIE, TX 75050 PH 2143512211 FAX 2143587294",
+    "po_line_items": [
+      {
+        "description": "16AMP-R300 SOLID END CAPS CPNO: 800354122 IND HOSE ENDS",
+        "quantity": 5.0,
+        "net_price": 9.83
+      },
+      {
+        "description": "PPX35RE3 FILTER ELEMENT 1/2\", 3/4\" CPNO: 900004258 HYD FILTERS",
+        "quantity": 18.0,
+        "net_price": 22.46
+      },
+      {
+        "description": "40BS17 1 3/16 FINISHED BORE CPNO: 800306864 HI-VOLUME ROLLER CH SPKTS",
+        "quantity": 1.0,
+        "net_price": 15.46
+      }
+    ]
+  }
+}

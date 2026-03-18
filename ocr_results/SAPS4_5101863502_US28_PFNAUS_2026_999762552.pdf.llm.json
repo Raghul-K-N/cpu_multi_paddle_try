@@ -1,0 +1,75 @@
+{
+  "invoice_data": {
+    "invoice_number": "S143783",
+    "invoice_date": "02/03/26",
+    "invoice_amount": null,
+    "invoice_currency": null,
+    "tax_amount": null,
+    "po_number": [
+      "4505048568"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "VacMotion Inc.",
+    "vendor_address": "214 South Meadow Rd., Plymouth, MA 02360",
+    "po_line_items": [
+      {
+        "description": "50mm 2.5 bellows NBR suction cup with 1/4\" FNPT fitting (2020)",
+        "quantity": 160.0,
+        "net_price": 6.2
+      },
+      {
+        "description": "Shipping Tracking: 1ZJE87590306229170",
+        "quantity": 1.0,
+        "net_price": 18.08
+      },
+      {
+        "description": "State and local taxes",
+        "quantity": 1.0,
+        "net_price": 81.84
+      }
+    ],
+    "vat_amount": null,
+    "gl_account": null,
+    "bank_name": null,
+    "account_holder_name": null,
+    "banking_account_number": null,
+    "remit_to_address": null,
+    "bill_to_address": null,
+    "transaction_type": "debit"
+  },
+  "filename": "SAPS4_5101863502_US28_PFNAUS_2026_999762552.pdf",
+  "raw_response": {
+    "invoice_number": "S143783",
+    "invoice_date": "02/03/26",
+    "invoice_amount": null,
+    "invoice_currency": null,
+    "tax_amount": null,
+    "po_number": [
+      "4505048568"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "VacMotion Inc.",
+    "vendor_address": "214 South Meadow Rd., Plymouth, MA 02360",
+    "po_line_items": [
+      {
+        "description": "50mm 2.5 bellows NBR suction cup with 1/4\" FNPT fitting (2020)",
+        "quantity": 160.0,
+        "net_price": 6.2
+      },
+      {
+        "description": "Shipping Tracking: 1ZJE87590306229170",
+        "quantity": 1.0,
+        "net_price": 18.08
+      },
+      {
+        "description": "State and local taxes",
+        "quantity": 1.0,
+        "net_price": 81.84
+      }
+    ]
+  }
+}

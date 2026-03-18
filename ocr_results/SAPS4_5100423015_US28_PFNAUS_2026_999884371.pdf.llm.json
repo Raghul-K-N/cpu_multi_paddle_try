@@ -1,0 +1,43 @@
+{
+  "invoice_data": {
+    "invoice_number": "TX59-01118369",
+    "invoice_date": "02/09/26",
+    "invoice_amount": null,
+    "invoice_currency": null,
+    "tax_amount": null,
+    "po_number": [
+      "4505132372"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "REMIT MOTION INDUSTRIES, INC.",
+    "vendor_address": "4810 N SAM HOUSTON PKWY W, HOUSTON, TX 77086, PHONE: 7139560150, FAX 7133451110",
+    "po_line_items": null,
+    "vat_amount": null,
+    "gl_account": null,
+    "bank_name": null,
+    "account_holder_name": null,
+    "banking_account_number": null,
+    "remit_to_address": null,
+    "bill_to_address": null,
+    "transaction_type": "debit"
+  },
+  "filename": "SAPS4_5100423015_US28_PFNAUS_2026_999884371.pdf",
+  "raw_response": {
+    "invoice_number": "TX59-01118369",
+    "invoice_date": "02/09/26",
+    "invoice_amount": null,
+    "invoice_currency": null,
+    "tax_amount": null,
+    "po_number": [
+      "4505132372"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "REMIT MOTION INDUSTRIES, INC.",
+    "vendor_address": "4810 N SAM HOUSTON PKWY W, HOUSTON, TX 77086, PHONE: 7139560150, FAX 7133451110",
+    "po_line_items": null
+  }
+}

@@ -1,0 +1,99 @@
+{
+  "invoice_data": {
+    "invoice_number": "93300407",
+    "invoice_date": "12/31/2025",
+    "invoice_amount": "3514.98",
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": "404.38",
+    "po_number": [
+      "M413539950"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "HEAT AND CONTROL,INC",
+    "vendor_address": "21121 CABOT BLVD, HAYWARD CA 94545-1132",
+    "po_line_items": [
+      {
+        "description": "1023",
+        "quantity": 8.0,
+        "net_price": 155.0
+      },
+      {
+        "description": "1030",
+        "quantity": 7.5,
+        "net_price": 90.0
+      },
+      {
+        "description": "1237",
+        "quantity": 1.0,
+        "net_price": 858.09
+      },
+      {
+        "description": "1026",
+        "quantity": 25.0,
+        "net_price": 0.7
+      },
+      {
+        "description": "1032",
+        "quantity": 1.0,
+        "net_price": 320.01
+      }
+    ],
+    "vat_amount": null,
+    "gl_account": null,
+    "bank_name": null,
+    "account_holder_name": null,
+    "banking_account_number": null,
+    "remit_to_address": null,
+    "bill_to_address": null,
+    "transaction_type": "debit"
+  },
+  "filename": "SAPS4_5100260509_CA11_PFNACA_2026_304667637.pdf",
+  "raw_response": {
+    "invoice_number": "93300407",
+    "invoice_date": "12/31/2025",
+    "invoice_amount": "3514.98",
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": "404.38",
+    "po_number": [
+      "M413539950"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "HEAT AND CONTROL,INC",
+    "vendor_address": "21121 CABOT BLVD, HAYWARD CA 94545-1132",
+    "po_line_items": [
+      {
+        "description": "1023",
+        "quantity": 8.0,
+        "net_price": 155.0
+      },
+      {
+        "description": "1030",
+        "quantity": 7.5,
+        "net_price": 90.0
+      },
+      {
+        "description": "1237",
+        "quantity": 1.0,
+        "net_price": 858.09
+      },
+      {
+        "description": "1026",
+        "quantity": 25.0,
+        "net_price": 0.7
+      },
+      {
+        "description": "1032",
+        "quantity": 1.0,
+        "net_price": 320.01
+      }
+    ]
+  }
+}

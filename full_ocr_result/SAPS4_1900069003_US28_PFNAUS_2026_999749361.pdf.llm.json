@@ -1,0 +1,87 @@
+{
+  "invoice_data": {
+    "invoice_number": "U934089",
+    "invoice_date": "04.02.2026",
+    "invoice_amount": "85449.37",
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": "0.00",
+    "po_number": [
+      "26327219/326517-BKN"
+    ],
+    "gl_account_number": [
+      "137100"
+    ],
+    "freight_and_handling_charges": null,
+    "cost_center": [
+      "2000050201"
+    ],
+    "vendor_name": "RUDOLPH FOODS CO INC",
+    "vendor_address": "39749 TREASURY CTR, CHICAGO IL 60694-9700, USA",
+    "po_line_items": [
+      {
+        "description": "4 OZ. FLAMIN HOT CHILI LIMON PORK RINDS-997001",
+        "quantity": 512249.0,
+        "net_price": 24951.65
+      },
+      {
+        "description": "4 OZ, FLAMIN HOT LIMON AK/HW-997037",
+        "quantity": 38463.0,
+        "net_price": 2729.72
+      },
+      {
+        "description": "FLAMIN' HOT LIMON SEASONING -30062268",
+        "quantity": 9960.0,
+        "net_price": 57768.0
+      }
+    ],
+    "vat_amount": null,
+    "gl_account": null,
+    "bank_name": null,
+    "account_holder_name": null,
+    "banking_account_number": null,
+    "remit_to_address": null,
+    "bill_to_address": null,
+    "transaction_type": "debit"
+  },
+  "filename": "SAPS4_1900069003_US28_PFNAUS_2026_999749361.pdf",
+  "raw_response": {
+    "invoice_number": "U934089",
+    "invoice_date": "04.02.2026",
+    "invoice_amount": "85449.37",
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": "0.00",
+    "po_number": [
+      "26327219/326517-BKN"
+    ],
+    "gl_account_number": [
+      "137100"
+    ],
+    "freight_and_handling_charges": null,
+    "cost_center": [
+      "2000050201"
+    ],
+    "vendor_name": "RUDOLPH FOODS CO INC",
+    "vendor_address": "39749 TREASURY CTR, CHICAGO IL 60694-9700, USA",
+    "po_line_items": [
+      {
+        "description": "4 OZ. FLAMIN HOT CHILI LIMON PORK RINDS-997001",
+        "quantity": 512249.0,
+        "net_price": 24951.65
+      },
+      {
+        "description": "4 OZ, FLAMIN HOT LIMON AK/HW-997037",
+        "quantity": 38463.0,
+        "net_price": 2729.72
+      },
+      {
+        "description": "FLAMIN' HOT LIMON SEASONING -30062268",
+        "quantity": 9960.0,
+        "net_price": 57768.0
+      }
+    ]
+  }
+}

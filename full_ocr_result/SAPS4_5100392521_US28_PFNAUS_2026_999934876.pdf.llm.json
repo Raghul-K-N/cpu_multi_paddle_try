@@ -1,0 +1,75 @@
+{
+  "invoice_data": {
+    "invoice_number": "m32162",
+    "invoice_date": "Feb 2, 2026",
+    "invoice_amount": null,
+    "invoice_currency": null,
+    "tax_amount": null,
+    "po_number": [
+      "4503945524"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "ASHLAND SCALE CO., INC.",
+    "vendor_address": "2210 ROCKY LANE, ASHLAND, OH 44805, FAX (419) 281-4259, PHONE: (419) 289-2235, EMAiL: billing@ashlandscales.com",
+    "po_line_items": [
+      {
+        "description": "Delivered load cells to customer and left with Jarret in maint. on 1-31-26.",
+        "quantity": 2.0,
+        "net_price": 465.0
+      },
+      {
+        "description": "ST03C-SS-100KGLoad Sensor, S Beam, IP-67, Stainless Steel, 100kg",
+        "quantity": 1.0,
+        "net_price": 19.2
+      },
+      {
+        "description": "FREIGHT-UPS.",
+        "quantity": null,
+        "net_price": 19.2
+      }
+    ],
+    "vat_amount": null,
+    "gl_account": null,
+    "bank_name": null,
+    "account_holder_name": null,
+    "banking_account_number": null,
+    "remit_to_address": null,
+    "bill_to_address": null,
+    "transaction_type": "debit"
+  },
+  "filename": "SAPS4_5100392521_US28_PFNAUS_2026_999934876.pdf",
+  "raw_response": {
+    "invoice_number": "m32162",
+    "invoice_date": "Feb 2, 2026",
+    "invoice_amount": null,
+    "invoice_currency": null,
+    "tax_amount": null,
+    "po_number": [
+      "4503945524"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "ASHLAND SCALE CO., INC.",
+    "vendor_address": "2210 ROCKY LANE, ASHLAND, OH 44805, FAX (419) 281-4259, PHONE: (419) 289-2235, EMAiL: billing@ashlandscales.com",
+    "po_line_items": [
+      {
+        "description": "Delivered load cells to customer and left with Jarret in maint. on 1-31-26.",
+        "quantity": 2.0,
+        "net_price": 465.0
+      },
+      {
+        "description": "ST03C-SS-100KGLoad Sensor, S Beam, IP-67, Stainless Steel, 100kg",
+        "quantity": 1.0,
+        "net_price": 19.2
+      },
+      {
+        "description": "FREIGHT-UPS.",
+        "quantity": null,
+        "net_price": 19.2
+      }
+    ]
+  }
+}

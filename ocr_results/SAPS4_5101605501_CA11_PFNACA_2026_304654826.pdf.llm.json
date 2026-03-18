@@ -1,0 +1,89 @@
+{
+  "invoice_data": {
+    "invoice_number": "T03751",
+    "invoice_date": "2 February 2026",
+    "invoice_amount": "1,506.38",
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": "184.99",
+    "po_number": [
+      "4504771368"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "RYDER TRUCK RENTAL CANADA",
+    "vendor_address": "Ryder Truck Rental Canada, P.O. BOX 9464 STATION A, TORONTO,ON,M5W 4E1, 800-947-9337",
+    "po_line_items": [
+      {
+        "description": "Rental",
+        "quantity": null,
+        "net_price": 1079.75
+      },
+      {
+        "description": "Variable",
+        "quantity": null,
+        "net_price": 241.64
+      },
+      {
+        "description": "Fuel",
+        "quantity": null,
+        "net_price": 0.0
+      },
+      {
+        "description": "Other*",
+        "quantity": null,
+        "net_price": 184.99
+      }
+    ],
+    "vat_amount": null,
+    "gl_account": null,
+    "bank_name": null,
+    "account_holder_name": null,
+    "banking_account_number": null,
+    "remit_to_address": null,
+    "bill_to_address": null,
+    "transaction_type": "debit"
+  },
+  "filename": "SAPS4_5101605501_CA11_PFNACA_2026_304654826.pdf",
+  "raw_response": {
+    "invoice_number": "T03751",
+    "invoice_date": "2 February 2026",
+    "invoice_amount": "1,506.38",
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": "184.99",
+    "po_number": [
+      "4504771368"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "RYDER TRUCK RENTAL CANADA",
+    "vendor_address": "Ryder Truck Rental Canada, P.O. BOX 9464 STATION A, TORONTO,ON,M5W 4E1, 800-947-9337",
+    "po_line_items": [
+      {
+        "description": "Rental",
+        "quantity": null,
+        "net_price": 1079.75
+      },
+      {
+        "description": "Variable",
+        "quantity": null,
+        "net_price": 241.64
+      },
+      {
+        "description": "Fuel",
+        "quantity": null,
+        "net_price": 0.0
+      },
+      {
+        "description": "Other*",
+        "quantity": null,
+        "net_price": 184.99
+      }
+    ]
+  }
+}

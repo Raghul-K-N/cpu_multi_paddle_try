@@ -1,0 +1,99 @@
+{
+  "invoice_data": {
+    "invoice_number": "208505",
+    "invoice_date": "Jan-30-2026",
+    "invoice_amount": null,
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": null,
+    "po_number": [
+      "M413537758"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "TREETOP",
+    "vendor_address": "1272 VERNON DRIVE, VANCOUVER, B.C. V6A 4C9",
+    "po_line_items": [
+      {
+        "description": "Uniforms",
+        "quantity": 4.0,
+        "net_price": 34.0
+      },
+      {
+        "description": "CAMINO PERFORMANCE POLO",
+        "quantity": 6.0,
+        "net_price": 26.0
+      },
+      {
+        "description": "BLACK EVERYDAY PULL OVER HOODIE",
+        "quantity": 2.0,
+        "net_price": 69.0
+      },
+      {
+        "description": "MEN¿S SHERPA FLEECE LINED SHIRT",
+        "quantity": 2.0,
+        "net_price": 37.0
+      },
+      {
+        "description": "DG20 - DEVON & JONES POLO",
+        "quantity": 1.0,
+        "net_price": 88.98
+      }
+    ],
+    "vat_amount": null,
+    "gl_account": null,
+    "bank_name": null,
+    "account_holder_name": null,
+    "banking_account_number": null,
+    "remit_to_address": null,
+    "bill_to_address": null,
+    "transaction_type": "debit"
+  },
+  "filename": "SAPS4_5100907517_CA02_PBNACA_2026_328615190.pdf",
+  "raw_response": {
+    "invoice_number": "208505",
+    "invoice_date": "Jan-30-2026",
+    "invoice_amount": null,
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": null,
+    "po_number": [
+      "M413537758"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "TREETOP",
+    "vendor_address": "1272 VERNON DRIVE, VANCOUVER, B.C. V6A 4C9",
+    "po_line_items": [
+      {
+        "description": "Uniforms",
+        "quantity": 4.0,
+        "net_price": 34.0
+      },
+      {
+        "description": "CAMINO PERFORMANCE POLO",
+        "quantity": 6.0,
+        "net_price": 26.0
+      },
+      {
+        "description": "BLACK EVERYDAY PULL OVER HOODIE",
+        "quantity": 2.0,
+        "net_price": 69.0
+      },
+      {
+        "description": "MEN¿S SHERPA FLEECE LINED SHIRT",
+        "quantity": 2.0,
+        "net_price": 37.0
+      },
+      {
+        "description": "DG20 - DEVON & JONES POLO",
+        "quantity": 1.0,
+        "net_price": 88.98
+      }
+    ]
+  }
+}

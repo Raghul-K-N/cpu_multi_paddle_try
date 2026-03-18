@@ -1,0 +1,89 @@
+{
+  "invoice_data": {
+    "invoice_number": "9801431462",
+    "invoice_date": "Monday 9 Feb. 2026 7:00 a.m. GMT-05:00",
+    "invoice_amount": "34.89",
+    "invoice_currency": [
+      "CAD"
+    ],
+    "tax_amount": "1.66",
+    "po_number": [
+      "M413546522"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "ACKLANDS-GRAINGER INC.",
+    "vendor_address": "PO BOX 2970, WINNIPEG, MB R3C 4B5, CA\n2200 31ST STREET, LETHBRIDGE, AB T1H 5K8, Canada\n3602 MILLAR AVENUE, SASKATOON, SK S7P 0B1, Canada",
+    "po_line_items": [
+      {
+        "description": "DSIFACP4X6 / INSTANT COLD PACK COMPRESS 4 X 6",
+        "quantity": 2.0,
+        "net_price": 1.12
+      },
+      {
+        "description": "FCL150169R / BURN RELIEF GEL,2 1/4 IN H",
+        "quantity": 1.0,
+        "net_price": 4.13
+      },
+      {
+        "description": "FCL500013R / STRIP BANDAGES,BLUE,FABRIC,3 IN",
+        "quantity": 2.0,
+        "net_price": 10.41
+      },
+      {
+        "description": "INN4516 / HEAT PACK,5\"L X 9\"W,PK24",
+        "quantity": 2.0,
+        "net_price": 3.02
+      }
+    ],
+    "vat_amount": null,
+    "gl_account": null,
+    "bank_name": null,
+    "account_holder_name": null,
+    "banking_account_number": null,
+    "remit_to_address": null,
+    "bill_to_address": null,
+    "transaction_type": "debit"
+  },
+  "filename": "SAPS4_5101597502_CA11_PFNACA_2026_304654740.pdf",
+  "raw_response": {
+    "invoice_number": "9801431462",
+    "invoice_date": "Monday 9 Feb. 2026 7:00 a.m. GMT-05:00",
+    "invoice_amount": "34.89",
+    "invoice_currency": [
+      "CAD"
+    ],
+    "tax_amount": "1.66",
+    "po_number": [
+      "M413546522"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "ACKLANDS-GRAINGER INC.",
+    "vendor_address": "PO BOX 2970, WINNIPEG, MB R3C 4B5, CA\n2200 31ST STREET, LETHBRIDGE, AB T1H 5K8, Canada\n3602 MILLAR AVENUE, SASKATOON, SK S7P 0B1, Canada",
+    "po_line_items": [
+      {
+        "description": "DSIFACP4X6 / INSTANT COLD PACK COMPRESS 4 X 6",
+        "quantity": 2.0,
+        "net_price": 1.12
+      },
+      {
+        "description": "FCL150169R / BURN RELIEF GEL,2 1/4 IN H",
+        "quantity": 1.0,
+        "net_price": 4.13
+      },
+      {
+        "description": "FCL500013R / STRIP BANDAGES,BLUE,FABRIC,3 IN",
+        "quantity": 2.0,
+        "net_price": 10.41
+      },
+      {
+        "description": "INN4516 / HEAT PACK,5\"L X 9\"W,PK24",
+        "quantity": 2.0,
+        "net_price": 3.02
+      }
+    ]
+  }
+}

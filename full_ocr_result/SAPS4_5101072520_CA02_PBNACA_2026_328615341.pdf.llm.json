@@ -1,0 +1,59 @@
+{
+  "invoice_data": {
+    "invoice_number": "0232023",
+    "invoice_date": "01/29/2026",
+    "invoice_amount": "64.31",
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": "3.06",
+    "po_number": [
+      "M413171318"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "A-1 Truck & Car Wash",
+    "vendor_address": "355 36 Street North, Lethbridge AB T1H 5R8",
+    "po_line_items": [
+      {
+        "description": "Wash Truck Bay",
+        "quantity": 35.0,
+        "net_price": 1.75
+      }
+    ],
+    "vat_amount": null,
+    "gl_account": null,
+    "bank_name": null,
+    "account_holder_name": null,
+    "banking_account_number": null,
+    "remit_to_address": null,
+    "bill_to_address": null,
+    "transaction_type": "debit"
+  },
+  "filename": "SAPS4_5101072520_CA02_PBNACA_2026_328615341.pdf",
+  "raw_response": {
+    "invoice_number": "0232023",
+    "invoice_date": "01/29/2026",
+    "invoice_amount": "64.31",
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": "3.06",
+    "po_number": [
+      "M413171318"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "A-1 Truck & Car Wash",
+    "vendor_address": "355 36 Street North, Lethbridge AB T1H 5R8",
+    "po_line_items": [
+      {
+        "description": "Wash Truck Bay",
+        "quantity": 35.0,
+        "net_price": 1.75
+      }
+    ]
+  }
+}

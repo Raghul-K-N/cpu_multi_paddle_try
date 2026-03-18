@@ -1,0 +1,109 @@
+{
+  "invoice_data": {
+    "invoice_number": "459648225001",
+    "invoice_date": "Friday 13 Feb 2026 12:00 PM GMT-05:00",
+    "invoice_amount": "241.31",
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": null,
+    "po_number": [
+      "M413554782"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "ODP BUSINESS SOLUTIONS, LLC",
+    "vendor_address": "6600 North Military Trail, Boca Raton, FL 33496, United States, 080162281",
+    "po_line_items": [
+      {
+        "description": "COFFEE,HZLNT,ALTRA,FLAVIA",
+        "quantity": 1.0,
+        "net_price": 64.89
+      },
+      {
+        "description": "COFFEE.MCCAFE.PREMIUM RST,24CT",
+        "quantity": 2.0,
+        "net_price": 16.43
+      },
+      {
+        "description": "CREAMER,COFFEEMATE,50CT,REG",
+        "quantity": 2.0,
+        "net_price": 4.88
+      },
+      {
+        "description": "CREAMER,COFFEEMATE,50CT,FR VAN",
+        "quantity": 2.0,
+        "net_price": 5.7
+      },
+      {
+        "description": "COFFEE,DONUT SHOP K-CUP",
+        "quantity": 1.0,
+        "net_price": 58.76
+      },
+      {
+        "description": "COFFEE,K-CUP,DARK MAGIC",
+        "quantity": 1.0,
+        "net_price": 63.64
+      }
+    ],
+    "vat_amount": null,
+    "gl_account": null,
+    "bank_name": null,
+    "account_holder_name": null,
+    "banking_account_number": null,
+    "remit_to_address": null,
+    "bill_to_address": null,
+    "transaction_type": "debit"
+  },
+  "filename": "SAPS4_5100069047_US29_PFNAUS_2026_999930800.pdf",
+  "raw_response": {
+    "invoice_number": "459648225001",
+    "invoice_date": "Friday 13 Feb 2026 12:00 PM GMT-05:00",
+    "invoice_amount": "241.31",
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": null,
+    "po_number": [
+      "M413554782"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "ODP BUSINESS SOLUTIONS, LLC",
+    "vendor_address": "6600 North Military Trail, Boca Raton, FL 33496, United States, 080162281",
+    "po_line_items": [
+      {
+        "description": "COFFEE,HZLNT,ALTRA,FLAVIA",
+        "quantity": 1.0,
+        "net_price": 64.89
+      },
+      {
+        "description": "COFFEE.MCCAFE.PREMIUM RST,24CT",
+        "quantity": 2.0,
+        "net_price": 16.43
+      },
+      {
+        "description": "CREAMER,COFFEEMATE,50CT,REG",
+        "quantity": 2.0,
+        "net_price": 4.88
+      },
+      {
+        "description": "CREAMER,COFFEEMATE,50CT,FR VAN",
+        "quantity": 2.0,
+        "net_price": 5.7
+      },
+      {
+        "description": "COFFEE,DONUT SHOP K-CUP",
+        "quantity": 1.0,
+        "net_price": 58.76
+      },
+      {
+        "description": "COFFEE,K-CUP,DARK MAGIC",
+        "quantity": 1.0,
+        "net_price": 63.64
+      }
+    ]
+  }
+}

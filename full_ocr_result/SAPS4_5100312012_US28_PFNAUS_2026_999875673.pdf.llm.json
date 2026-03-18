@@ -1,0 +1,59 @@
+{
+  "invoice_data": {
+    "invoice_number": "158127",
+    "invoice_date": "December 5, 2025",
+    "invoice_amount": "9950.00",
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": null,
+    "po_number": [
+      "4504426018"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "Matrix Technologies INCORPORATED",
+    "vendor_address": "1760 Indian Wood Circle, Maumee, OH 43537",
+    "po_line_items": [
+      {
+        "description": "00010 Upper E Line Platform Access",
+        "quantity": null,
+        "net_price": 9950.0
+      }
+    ],
+    "vat_amount": null,
+    "gl_account": null,
+    "bank_name": null,
+    "account_holder_name": null,
+    "banking_account_number": null,
+    "remit_to_address": null,
+    "bill_to_address": null,
+    "transaction_type": "debit"
+  },
+  "filename": "SAPS4_5100312012_US28_PFNAUS_2026_999875673.pdf",
+  "raw_response": {
+    "invoice_number": "158127",
+    "invoice_date": "December 5, 2025",
+    "invoice_amount": "9950.00",
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": null,
+    "po_number": [
+      "4504426018"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "Matrix Technologies INCORPORATED",
+    "vendor_address": "1760 Indian Wood Circle, Maumee, OH 43537",
+    "po_line_items": [
+      {
+        "description": "00010 Upper E Line Platform Access",
+        "quantity": null,
+        "net_price": 9950.0
+      }
+    ]
+  }
+}

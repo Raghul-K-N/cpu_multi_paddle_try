@@ -1,0 +1,59 @@
+{
+  "invoice_data": {
+    "invoice_number": "VA09-00310425",
+    "invoice_date": "02/05/26",
+    "invoice_amount": "401.34",
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": null,
+    "po_number": [
+      "4505087714"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "REMIT MOTION INDUSTRIES, INC.",
+    "vendor_address": "1030 MCCONVILLE RD., #13 LYNCHBURG, VA 24502, PHONE: 4342397111, FAX 4342397125",
+    "po_line_items": [
+      {
+        "description": "MST-23 TAKEUP BRG BALL BEARING TAKE-UP UNIT - SIDE MOUNT, 1-7/16 IN BORE, CAST IRON HOUSING, SET SCREW COLLAR, MEDIUM CPNO: 800294729 OTHER MTD.BRG.UNITS",
+        "quantity": 2.0,
+        "net_price": 200.67
+      }
+    ],
+    "vat_amount": null,
+    "gl_account": null,
+    "bank_name": null,
+    "account_holder_name": null,
+    "banking_account_number": null,
+    "remit_to_address": null,
+    "bill_to_address": null,
+    "transaction_type": "debit"
+  },
+  "filename": "SAPS4_5100001025_US28_PFNAUS_2026_999884204.pdf",
+  "raw_response": {
+    "invoice_number": "VA09-00310425",
+    "invoice_date": "02/05/26",
+    "invoice_amount": "401.34",
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": null,
+    "po_number": [
+      "4505087714"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "REMIT MOTION INDUSTRIES, INC.",
+    "vendor_address": "1030 MCCONVILLE RD., #13 LYNCHBURG, VA 24502, PHONE: 4342397111, FAX 4342397125",
+    "po_line_items": [
+      {
+        "description": "MST-23 TAKEUP BRG BALL BEARING TAKE-UP UNIT - SIDE MOUNT, 1-7/16 IN BORE, CAST IRON HOUSING, SET SCREW COLLAR, MEDIUM CPNO: 800294729 OTHER MTD.BRG.UNITS",
+        "quantity": 2.0,
+        "net_price": 200.67
+      }
+    ]
+  }
+}

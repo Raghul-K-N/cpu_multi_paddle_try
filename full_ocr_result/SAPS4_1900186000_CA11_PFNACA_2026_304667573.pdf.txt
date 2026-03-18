@@ -1,0 +1,180 @@
+==================================<Page 1 - START>================================
+  OpenText Workflow History
+  Vendor
+  W D POTATO LTD
+  RR 2
+  3644 10 SIDERD
+  BEETON ON
+             LOG 1A0
+  CANADA
+  Invoice
+   Reference        IN0235272
+                                                              Document Date
+                                                                                28.12.2025
+   DP Document No.  39413365
+                                                              Net Amount
+                                                                                CAD        52,487.40
+  Comp. Code       CA11 PepsiCo Canada ULC (FLC)
+                                                              Tax Amount       CAD
+                                                                                               6,823.36
+  Posting Date     13.02.2026
+                                                              Gross Amount
+                                                                                CAD        59,310.76
+  SAP Document No. 1900186000 2026
+                                          Pre-Process History
+   ACTIVITY
+                                                         USER       END TIME         DOCUMENT STATUS
+   Update status
+                                                         VRBLAOT_U  09.02.2026       Validation
+                                                         SR         12:56:15
+                                                                                       Complete
+                                      Document Process History
+  ACTIVITY          PROCESS TYPE/BLOCK REASON
+                                                         USER        END TIME         DOCUMENT STATUS
+  BC Inbound                                            VRBLAOT_U   09.02.2026
+                                                                                       Document
+                                                         SR          12:54:38         Registered
+  Workflow Start   Approval Required (NPO)
+                                                        Record to  09.02.2026       Indexed
+                                                         Report      12:56:15
+                                                         Batch
+                                                        Account
+                                                         Owner:
+    Invoice submitted for Approval
+                                                                     09.02.2026 12:56:18
+    Invoice Approved                                    GEORGES    09.02.2026 14:47:01
+                                                        DION
+    Invoice Approved
+                                                        FABRIZZIO  09.02.2026 15:21:24
+                                                        CANTAGALL
+                                                        o
+ Approval         Approval Required (NPO)
+                                                        SAP_WFRT   09.02.2026        Approval
+Workflow                                                          15:21:31          Complete
+Business Rules
+                   Process Non-PO Invoice (NPO)        SAP_WFRT   09.02.2026        Approval
+Check in BG
+                                                                     15:21:33          Complete
+Post Non-PO      Process Non-PO Invoice (NPO)       VIGNESH    13.02.2026
+                                                                                       Document
+Invoice
+                                                        RENGARAJ   17:32:01          Created
+SAP Document
+                                                        SAP_WFRT   13.02.2026        Posted
+Check
+                                                                     17:32:11
+==================================<Page 1 - END>================================
+==================================<Page 2 - START>================================
+         PEPSICO
+ou must fl f the filds below andth form must b accompanied with supportng documentation o separatetbs.
+Fillin the Description field below with the payment type - for example: Donation / Taxes / Legal / etc.
+Print Entire Workbook as ONE single PDF file prior to submission.
+                                       Non-PO Invoice
+                                  SAP Payment Request
+                                 Substitute Invoice Form
+  Vendor Name:                     WD Potato
+  Vendor Number:                   2003151895
+  Company Code:                   CA11
+ Remit To Address :               3630 Sideroad 10, Beeton, Ontario, L0G1A0
+ Transaction type:                 Invoice
+                                        12/28/2025
+Invoice Date:
+Invoice #:                          IN0235272
+Purchase Order #
+Payment GROSS Amount:      $59,310.76
+Tax Amount:                           $6,823.36
+Payment NET Amount:          $52,487.40
+Currency                          CND
+ Header Text:
+Requestor Name:                 Georges Dion
+Requestor email                  georges.dion@pepsico.com
+                                       12/31/2025
+Date Requested:
+Description:                       Potato Freight
+Cost Center (optional - use Tab 2 if multiple):     2003050200
+GL Account (REQUIRED - use Tab 2 if multiple):    674000
+WBS Element (optional - use Tab 2 if multiple):
+==================================<Page 2 - END>================================
+==================================<Page 3 - START>================================
+                                                                                        INVOICE #       IN0235272
+      WD  3644 5IDEROAD 10.
+                                 BEETON, ONTARIO. LOG 1A0                               INVOICE DATE
+                                                                                                      Dec 28, 2025
+                                 TEL: (905) 729-2263
+                                 FAX: (905) 729-4136
+                                                                                                      Dec 28, 2025
+              PEPSICO FOODS CANADA                                 1001 BISHOP STREET
+              1001 BISHOP STREET                                      CAMBRIDGE, ONTARIO
+                                                                      P
+              CAMBRIDGE, ONTARIO                                     N3H 4V8
+         T   N3H 4V8                                              T
+                                             TERMS
+        customer no.                                                     ST #
+                                         NET 30 DAYS                                            FREIGHT TO CAMBRIDGE
+            2001                                                         R 105605836
+  Source                      ITEM DESCRIPTION                   QTY. SHIPPED      PRICE        AMOUNT
+ 9907H         Freight - CDN 4504621476-20-2792942                             797.40          2.23         1,778.20
+ 9907H         Freight - CDN 4504621476-30-2792943                                             2.23         1,863.83
+                                                                            835.80
+  9907H         Freight - CDN 4504621476-40-2792944                             797.20          2.23         1,777.76
+  9907H         Freight - CDN 4504621476-50-2792945                             817.60          2.23         1,823.25
+  9907H         Freight - CDN 4504621476-60-2792946                             836.60          2.23         1,865.62
+                Freight - CDN 4504621476-80-2792948                             866.60          2.23         1,932.52
+  9907H
+                Freight - CDN 4504621476-90-2792949
+  9907H                                                                    810.00           2.23         1,806.30
+  9907H         Freight - CDN 4504621476-100-2792950                            790.60          2.23        1,763.04
+  9907H         Freight - CDN 4504621476-110-2792951                            792.80          2.23        1,767.94
+  9907H         Freight - CDN 4504621476-120-2792952                            781.80           2.23         1,743.41
+                 Freight - CDN 4504621476-130-2792953                            808.80          2.23        1,803.62
+  9907H
+                 Freight - CDN 4504621476-140-2792954                            818.60          2.23        1,825.48
+  9907H
+                                                                                            2.23
+  9907H         Freight - CDN 4504621476-150-2792955                            818.60                       1,825.48
+  9907H         Freight - CDN 4504621476-160-2792956                            814.20          2.23        1,815.67
+  9907H         Freight - CDN 4504621476-170-2792957                            756.60          2.23        1,687.22
+                 Freight - CDN 4504621476-180-2792958                            800.00          2.23        1,784.00
+  9907H
+                                                                            804.60          2.23        1,794.26
+  9907H         Freight - CDN 4504621476-190-2792959
+                                                                            830.40
+  9907H         Freight - CDN 4504621476-200-2792960                                             2.23        1,851.79
+  9907H        Freight - CDN 4504621476-210-2792961                            646.20          2.23        1,441.03
+                Freight - CDN 4504621476-220-2792962                             635.60           2.23        1,417.39
+  9907H
+                Freight - CDN 4504621476-230-2792963                             839.00           2.23        1,870.97
+  9907H
+                                                                            827.00          2.23        1,844.21
+  9907H        Freight - CDN 4504621476-240-2792964
+                                                                            838.20
+  9907H         Freight - CDN 4504621476-250-2792965                                             2.23        1,869.19
+  9907H        Freight - CDN 4504621476-260-2792966                             823.40          2.23        1,836.18
+                Freight - CDN 4504621476-270-2792967                             810.40          2.23        1,807.19
+  9907H
+                Freight - CDN 4504621476-280-2792968                             718.00          2.23        1,601.14
+  9907H
+                                                                            770.60          2.23
+  9907H         Freight - CDN 4504621476-290-2792969                                                         1,718.44
+  9907H         Freight - CDN 4504621476-300-2792970                            763.60          2.23        1,702.83
+ 9907H         Surcharge 168 miles @ .61                                        28.00         102.48        2,869.44
+"The perishable agricultural commodities listed on this invoice are sold subject to the statutory trust authorized by section S(c] of
+the Perishabale Agricultural Commodities Act. 1930 (7 U.s.C. 499e(c)]. The seller of these commodities retains a trust claim over
+these commodities, all inventories of food or other products derived from these commodities, and any receivables or proceeds
+from the sale of these commodities until full payment is received."
+                                                          Sub-total                       HST          TOTAL
+                                                             52,487.40                      6,823.36     59,310.76
+==================================<Page 3 - END>================================
+==================================<Page 4 - START>================================
+         From: "Dion, Georges {PEP}" <Georges.Dion@pepsico.com>
+         Sent: Fri, 6 Feb 2026 22:56:59 (UTC)
+         To: FLCInvoiceSubmission@pepsico.com
+         Subject: Invoices
+         Georges Dion
+         Proc Sr Manager • PFC Div Ops Field buyer
+         PepsiCo
+         georges.dion@pepsico.com418.572.7202
+         pepsico.com
+              pepsico
+                Food Drinks. Smies.
+==================================<Page 4 - END>================================

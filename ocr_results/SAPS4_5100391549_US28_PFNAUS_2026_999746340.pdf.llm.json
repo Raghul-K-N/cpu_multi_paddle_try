@@ -1,0 +1,59 @@
+{
+  "invoice_data": {
+    "invoice_number": "980573898726",
+    "invoice_date": "Thursday 12 Feb 2026 3:31 AM GMT-07:00",
+    "invoice_amount": "165.15",
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": null,
+    "po_number": [
+      "M413554816"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "GRAINGER",
+    "vendor_address": "100 Grainger Pkwy, Lake Forest, IL, United States\nWinst, Winston Salem, NC, 27105, United States",
+    "po_line_items": [
+      {
+        "description": "48FZ16 / Drain Seal,20inLx20inWx3/8in Thick,Yllw",
+        "quantity": 1.0,
+        "net_price": 152.74
+      }
+    ],
+    "vat_amount": null,
+    "gl_account": null,
+    "bank_name": null,
+    "account_holder_name": null,
+    "banking_account_number": null,
+    "remit_to_address": null,
+    "bill_to_address": null,
+    "transaction_type": "debit"
+  },
+  "filename": "SAPS4_5100391549_US28_PFNAUS_2026_999746340.pdf",
+  "raw_response": {
+    "invoice_number": "980573898726",
+    "invoice_date": "Thursday 12 Feb 2026 3:31 AM GMT-07:00",
+    "invoice_amount": "165.15",
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": null,
+    "po_number": [
+      "M413554816"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "GRAINGER",
+    "vendor_address": "100 Grainger Pkwy, Lake Forest, IL, United States\nWinst, Winston Salem, NC, 27105, United States",
+    "po_line_items": [
+      {
+        "description": "48FZ16 / Drain Seal,20inLx20inWx3/8in Thick,Yllw",
+        "quantity": 1.0,
+        "net_price": 152.74
+      }
+    ]
+  }
+}

@@ -1,0 +1,59 @@
+{
+  "invoice_data": {
+    "invoice_number": "800605446",
+    "invoice_date": "01/30/2026",
+    "invoice_amount": "195.98",
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": "14.93",
+    "po_number": [
+      "4505037449"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "GRAINGER",
+    "vendor_address": "8701 MINOR LANE,LOUISVILLE,KY 40219",
+    "po_line_items": [
+      {
+        "description": "HEX BIT SET,3/8\",1/2\" DRIVE,10 PCS.",
+        "quantity": 1.0,
+        "net_price": 181.05
+      }
+    ],
+    "vat_amount": null,
+    "gl_account": null,
+    "bank_name": null,
+    "account_holder_name": null,
+    "banking_account_number": null,
+    "remit_to_address": null,
+    "bill_to_address": null,
+    "transaction_type": "debit"
+  },
+  "filename": "SAPS4_5100014549_US28_PFNAUS_2026_999934342.pdf",
+  "raw_response": {
+    "invoice_number": "800605446",
+    "invoice_date": "01/30/2026",
+    "invoice_amount": "195.98",
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": "14.93",
+    "po_number": [
+      "4505037449"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "GRAINGER",
+    "vendor_address": "8701 MINOR LANE,LOUISVILLE,KY 40219",
+    "po_line_items": [
+      {
+        "description": "HEX BIT SET,3/8\",1/2\" DRIVE,10 PCS.",
+        "quantity": 1.0,
+        "net_price": 181.05
+      }
+    ]
+  }
+}

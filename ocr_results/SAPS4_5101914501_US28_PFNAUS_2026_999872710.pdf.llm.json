@@ -1,0 +1,59 @@
+{
+  "invoice_data": {
+    "invoice_number": "178260824",
+    "invoice_date": "Thursday 12 Feb 2026 10:39 AM GMT-05:00",
+    "invoice_amount": "1,873.86",
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": "114.36",
+    "po_number": [
+      "M413390556"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "Crown Equipment Corporation",
+    "vendor_address": "2 N Franklin, New Bremen, OH 45869, United States; Address ID: US28",
+    "po_line_items": [
+      {
+        "description": "Replacement battery rentals for forklifts",
+        "quantity": 1.0,
+        "net_price": 1759.5
+      }
+    ],
+    "vat_amount": null,
+    "gl_account": null,
+    "bank_name": null,
+    "account_holder_name": null,
+    "banking_account_number": null,
+    "remit_to_address": null,
+    "bill_to_address": null,
+    "transaction_type": "debit"
+  },
+  "filename": "SAPS4_5101914501_US28_PFNAUS_2026_999872710.pdf",
+  "raw_response": {
+    "invoice_number": "178260824",
+    "invoice_date": "Thursday 12 Feb 2026 10:39 AM GMT-05:00",
+    "invoice_amount": "1,873.86",
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": "114.36",
+    "po_number": [
+      "M413390556"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "Crown Equipment Corporation",
+    "vendor_address": "2 N Franklin, New Bremen, OH 45869, United States; Address ID: US28",
+    "po_line_items": [
+      {
+        "description": "Replacement battery rentals for forklifts",
+        "quantity": 1.0,
+        "net_price": 1759.5
+      }
+    ]
+  }
+}

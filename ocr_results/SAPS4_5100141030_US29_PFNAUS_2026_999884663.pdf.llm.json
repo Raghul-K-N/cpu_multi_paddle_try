@@ -1,0 +1,73 @@
+{
+  "invoice_data": {
+    "invoice_number": "INC064757",
+    "invoice_date": "02/11/2026",
+    "invoice_amount": null,
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": null,
+    "po_number": [
+      "M413540541",
+      "SOC157302",
+      "C201564"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "Camcode",
+    "vendor_address": "18531 South Miles Road, Cleveland, OH 44128, USA",
+    "po_line_items": [
+      {
+        "description": "EA PB68935 NASPAY 3x4 PP w/color w/ matte olam",
+        "quantity": 3.0,
+        "net_price": 1.26
+      },
+      {
+        "description": "EA PB53084 Warehouse Installation Services",
+        "quantity": 1.0,
+        "net_price": 9173.34
+      }
+    ],
+    "vat_amount": null,
+    "gl_account": null,
+    "bank_name": null,
+    "account_holder_name": null,
+    "banking_account_number": null,
+    "remit_to_address": null,
+    "bill_to_address": null,
+    "transaction_type": "debit"
+  },
+  "filename": "SAPS4_5100141030_US29_PFNAUS_2026_999884663.pdf",
+  "raw_response": {
+    "invoice_number": "INC064757",
+    "invoice_date": "02/11/2026",
+    "invoice_amount": null,
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": null,
+    "po_number": [
+      "M413540541",
+      "SOC157302",
+      "C201564"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "Camcode",
+    "vendor_address": "18531 South Miles Road, Cleveland, OH 44128, USA",
+    "po_line_items": [
+      {
+        "description": "EA PB68935 NASPAY 3x4 PP w/color w/ matte olam",
+        "quantity": 3.0,
+        "net_price": 1.26
+      },
+      {
+        "description": "EA PB53084 Warehouse Installation Services",
+        "quantity": 1.0,
+        "net_price": 9173.34
+      }
+    ]
+  }
+}

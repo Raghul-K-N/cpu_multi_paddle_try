@@ -1,0 +1,47 @@
+{
+  "invoice_data": {
+    "invoice_number": "18683",
+    "invoice_date": "01/09/2026",
+    "invoice_amount": null,
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": null,
+    "po_number": [
+      "M412740757"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "FROSTY HEAT PUMP PROS",
+    "vendor_address": "1145-C Chamberlin Ave, Prince Rupert, BC V8J 4J5",
+    "po_line_items": null,
+    "vat_amount": null,
+    "gl_account": null,
+    "bank_name": null,
+    "account_holder_name": null,
+    "banking_account_number": null,
+    "remit_to_address": null,
+    "bill_to_address": null,
+    "transaction_type": "debit"
+  },
+  "filename": "SAPS4_5100948504_CA02_PBNACA_2026_328586842.pdf",
+  "raw_response": {
+    "invoice_number": "18683",
+    "invoice_date": "01/09/2026",
+    "invoice_amount": null,
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": null,
+    "po_number": [
+      "M412740757"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "FROSTY HEAT PUMP PROS",
+    "vendor_address": "1145-C Chamberlin Ave, Prince Rupert, BC V8J 4J5",
+    "po_line_items": null
+  }
+}

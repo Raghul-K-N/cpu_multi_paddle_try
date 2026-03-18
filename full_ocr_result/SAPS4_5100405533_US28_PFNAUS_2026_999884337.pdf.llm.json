@@ -1,0 +1,61 @@
+{
+  "invoice_data": {
+    "invoice_number": "000921001",
+    "invoice_date": "29 Jan 2026",
+    "invoice_amount": "3687.88",
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": "192.26",
+    "po_number": [
+      "M413513046",
+      "112827951"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "DIVERSEY INC",
+    "vendor_address": "1300 Altura Road, Suite 125, Fort Mill SC 29708, USA",
+    "po_line_items": [
+      {
+        "description": "STERILEX ULTRA STEP 400 LB (US)",
+        "quantity": 2.0,
+        "net_price": 1747.81
+      }
+    ],
+    "vat_amount": null,
+    "gl_account": null,
+    "bank_name": null,
+    "account_holder_name": null,
+    "banking_account_number": null,
+    "remit_to_address": null,
+    "bill_to_address": null,
+    "transaction_type": "debit"
+  },
+  "filename": "SAPS4_5100405533_US28_PFNAUS_2026_999884337.pdf",
+  "raw_response": {
+    "invoice_number": "000921001",
+    "invoice_date": "29 Jan 2026",
+    "invoice_amount": "3687.88",
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": "192.26",
+    "po_number": [
+      "M413513046",
+      "112827951"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "DIVERSEY INC",
+    "vendor_address": "1300 Altura Road, Suite 125, Fort Mill SC 29708, USA",
+    "po_line_items": [
+      {
+        "description": "STERILEX ULTRA STEP 400 LB (US)",
+        "quantity": 2.0,
+        "net_price": 1747.81
+      }
+    ]
+  }
+}

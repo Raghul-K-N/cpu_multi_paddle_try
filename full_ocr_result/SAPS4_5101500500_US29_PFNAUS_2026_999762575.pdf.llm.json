@@ -1,0 +1,131 @@
+{
+  "invoice_data": {
+    "invoice_number": "FLP-011326",
+    "invoice_date": "01/13/2026",
+    "invoice_amount": null,
+    "invoice_currency": null,
+    "tax_amount": null,
+    "po_number": null,
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "Frito Lay Pocasset",
+    "vendor_address": "841 Mooresfield Road, House E, Saunderstown RI 02874",
+    "po_line_items": [
+      {
+        "description": "Repair all building mounted flood lights",
+        "quantity": 4.0,
+        "net_price": 180.0
+      },
+      {
+        "description": "Photo cells , wire, wire nuts",
+        "quantity": 1.0,
+        "net_price": 160.0
+      },
+      {
+        "description": "Replace men's room exhaust fan",
+        "quantity": 1.5,
+        "net_price": 180.0
+      },
+      {
+        "description": "Exhaust fan",
+        "quantity": 1.0,
+        "net_price": 150.0
+      },
+      {
+        "description": "Adjust front door and install bottom seal",
+        "quantity": 1.0,
+        "net_price": 180.0
+      },
+      {
+        "description": "Bottom sweep",
+        "quantity": 1.0,
+        "net_price": 45.0
+      },
+      {
+        "description": "Boom lift rental",
+        "quantity": 1.0,
+        "net_price": 770.0
+      },
+      {
+        "description": "Temp repair of 2 truck struck building corners",
+        "quantity": 0.5,
+        "net_price": 180.0
+      },
+      {
+        "description": "Traval 160 miles @ .67 per mile plus $25 fuel charge",
+        "quantity": 1.0,
+        "net_price": 132.2
+      }
+    ],
+    "vat_amount": null,
+    "gl_account": null,
+    "bank_name": null,
+    "account_holder_name": null,
+    "banking_account_number": null,
+    "remit_to_address": null,
+    "bill_to_address": null,
+    "transaction_type": "debit"
+  },
+  "filename": "SAPS4_5101500500_US29_PFNAUS_2026_999762575.pdf",
+  "raw_response": {
+    "invoice_number": "FLP-011326",
+    "invoice_date": "01/13/2026",
+    "invoice_amount": null,
+    "invoice_currency": null,
+    "tax_amount": null,
+    "po_number": null,
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "Frito Lay Pocasset",
+    "vendor_address": "841 Mooresfield Road, House E, Saunderstown RI 02874",
+    "po_line_items": [
+      {
+        "description": "Repair all building mounted flood lights",
+        "quantity": 4.0,
+        "net_price": 180.0
+      },
+      {
+        "description": "Photo cells , wire, wire nuts",
+        "quantity": 1.0,
+        "net_price": 160.0
+      },
+      {
+        "description": "Replace men's room exhaust fan",
+        "quantity": 1.5,
+        "net_price": 180.0
+      },
+      {
+        "description": "Exhaust fan",
+        "quantity": 1.0,
+        "net_price": 150.0
+      },
+      {
+        "description": "Adjust front door and install bottom seal",
+        "quantity": 1.0,
+        "net_price": 180.0
+      },
+      {
+        "description": "Bottom sweep",
+        "quantity": 1.0,
+        "net_price": 45.0
+      },
+      {
+        "description": "Boom lift rental",
+        "quantity": 1.0,
+        "net_price": 770.0
+      },
+      {
+        "description": "Temp repair of 2 truck struck building corners",
+        "quantity": 0.5,
+        "net_price": 180.0
+      },
+      {
+        "description": "Traval 160 miles @ .67 per mile plus $25 fuel charge",
+        "quantity": 1.0,
+        "net_price": 132.2
+      }
+    ]
+  }
+}

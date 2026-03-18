@@ -1,0 +1,79 @@
+{
+  "invoice_data": {
+    "invoice_number": "4504367515",
+    "invoice_date": "01-05-26",
+    "invoice_amount": null,
+    "invoice_currency": [
+      "CAD"
+    ],
+    "tax_amount": "36.54",
+    "po_number": [
+      "53676878"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "CO INTEGRATED FIRE AND SECURITY CANADA, INC o/a Johnson Controls",
+    "vendor_address": "8215-16 Ave N, ETHBRIDGE,AB T1H 5E8",
+    "po_line_items": [
+      {
+        "description": "Labor/Main-d'œuvre",
+        "quantity": null,
+        "net_price": 577.2
+      },
+      {
+        "description": "Material/Matériel",
+        "quantity": null,
+        "net_price": 23.63
+      },
+      {
+        "description": "Other/Autre",
+        "quantity": null,
+        "net_price": 130.0
+      }
+    ],
+    "vat_amount": null,
+    "gl_account": null,
+    "bank_name": null,
+    "account_holder_name": null,
+    "banking_account_number": null,
+    "remit_to_address": null,
+    "bill_to_address": null,
+    "transaction_type": "debit"
+  },
+  "filename": "SAPS4_5101594500_CA11_PFNACA_2026_304654816.pdf",
+  "raw_response": {
+    "invoice_number": "4504367515",
+    "invoice_date": "01-05-26",
+    "invoice_amount": "../../../../767.37",
+    "invoice_currency": [
+      "CAD"
+    ],
+    "tax_amount": "36.54",
+    "po_number": [
+      "53676878"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "CO INTEGRATED FIRE AND SECURITY CANADA, INC o/a Johnson Controls",
+    "vendor_address": "8215-16 Ave N, ETHBRIDGE,AB T1H 5E8",
+    "po_line_items": [
+      {
+        "description": "Labor/Main-d'œuvre",
+        "quantity": null,
+        "net_price": 577.2
+      },
+      {
+        "description": "Material/Matériel",
+        "quantity": null,
+        "net_price": 23.63
+      },
+      {
+        "description": "Other/Autre",
+        "quantity": null,
+        "net_price": 130.0
+      }
+    ]
+  }
+}

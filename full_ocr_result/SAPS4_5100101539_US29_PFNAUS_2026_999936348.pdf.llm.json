@@ -1,0 +1,47 @@
+{
+  "invoice_data": {
+    "invoice_number": "196866",
+    "invoice_date": "12/10/2025",
+    "invoice_amount": null,
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": null,
+    "po_number": [
+      "M413153902"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "ROOTER Master Plumbing Contractor #1446",
+    "vendor_address": "5700 S. 107th E. Ave., Tulsa, OK 74146-6733",
+    "po_line_items": null,
+    "vat_amount": null,
+    "gl_account": null,
+    "bank_name": null,
+    "account_holder_name": null,
+    "banking_account_number": null,
+    "remit_to_address": null,
+    "bill_to_address": null,
+    "transaction_type": "debit"
+  },
+  "filename": "SAPS4_5100101539_US29_PFNAUS_2026_999936348.pdf",
+  "raw_response": {
+    "invoice_number": "196866",
+    "invoice_date": "12/10/2025",
+    "invoice_amount": null,
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": null,
+    "po_number": [
+      "M413153902"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "ROOTER Master Plumbing Contractor #1446",
+    "vendor_address": "5700 S. 107th E. Ave., Tulsa, OK 74146-6733",
+    "po_line_items": null
+  }
+}

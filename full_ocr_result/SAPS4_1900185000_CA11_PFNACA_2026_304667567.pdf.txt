@@ -1,0 +1,182 @@
+==================================<Page 1 - START>================================
+  OpenText Workflow History
+  Vendor
+  W D POTATO LTD
+  RR 2
+  3644 10 SIDERD
+  BEETON ONLOG 1A0
+  CANADA
+  Invoice
+   Reference        IN0235110
+                                                              Document Date
+                                                                                27.12.2025
+   DP Document No.  39413375
+                                                              Net Amount
+                                                                                CAD         2,831.10
+  Comp. Code       CA11 PepsiCo Canada ULC (FLC)
+                                                              Tax Amount       CAD
+                                                                                                   0.00
+  Posting Date     13.02.2026
+                                                              Gross Amount
+                                                                                CAD         2,831.10
+  SAP Document No. 1900185000 2026
+                                          Pre-Process History
+   ACTIVITY
+                                                         USER       END TIME         DOCUMENT STATUS
+   Update status
+                                                         VRBLAOT_U  09.02.2026       Validation
+                                                         SR         12:56:50
+                                                                                       Complete
+                                      Document Process History
+  ACTIVITY         PROCESS TYPE/BLOCK REASON
+                                                         USER        END TIME         DOCUMENT STATUS
+  BC Inbound                                            VRBLAOT_U  09.02.2026
+                                                                                       Document
+                                                         SR          12:55:37          Registered
+  Workflow Start   Approval Required (NPo)
+                                                         Record to  09.02.2026        Indexed
+                                                         Report      12:56:50
+                                                         Batch
+                                                         Account
+                                                         Owner:
+    Invoice submitted for Approval
+                                                                     09.02.2026 12:56:51
+    Invoice Approved                                    GEORGES
+                                                                     09.02.2026 14:46:43
+                                                        DION
+    Invoice Approved
+                                                        FABRIZZIO  09.02.2026 15:20:13
+                                                        CANTAGALL
+                                                        o
+ Approval         Approval Required (NPO)
+                                                        SAP_WFRT   09.02.2026        Approval
+Workflow                                                          15:20:18         Complete
+Business Rules
+                   Process Non-PO Invoice (NPO)        SAP_WFRT   09.02.2026        Approval
+Check in BG
+                                                                     15:20:20          Complete
+Post Non-PO      Process Non-PO Invoice (NPO)       VIGNESH    13.02.2026
+                                                                                       Document
+Invoice
+                                                        RENGARAJ   17:10:48          Created
+SAP Document
+                                                        SAP_WFRT   13.02.2026        Posted
+Check
+                                                                     17:10:59
+==================================<Page 1 - END>================================
+==================================<Page 2 - START>================================
+         PEPSICO
+     Instructions: When there is not an "Offical" Invoice to request payment or PO is not required, complete the information on this form.
+1. You must fill in all of the fields below and the form must be accompanied with supporting documentation on separate tab(s).
+ Fill in the Description field below with the payment type - for example: Donation / Taxes / Legal / etc.
+ 3. Print Entire Workbook as ONE single PDF file prior to submission.
+                                         Non-PO Invoice
+                                    SAP Payment Request
+                                  Substitute Invoice Form
+  Vendor Name:                      WD Potato
+  Vendor Number:                    2003151895
+ Company Code:                    CA11
+ Remit To Address :
+                                           3630 Sideroad 10, Beeton, Ontario, L0G1A0
+ Transaction type:                  Invoice
+Invoice Date:                        12/27/2025
+Invoice #:                            IN0235110
+Purchase Order #
+Payment GROSS Amount:       $2,831.10
+Tax Amount:
+Payment NET Amount:           $2,831.10
+Currency                            CND
+Header Text:
+Requestor Name:                  Georges Dion
+Requestor email                    georges.dion@pepsico.com
+Date Requested:                    12/30/2025
+Description:                         Kentville Mangement
+Cost Center (optional - use Tab 2 if multiple):
+                                          2049100201
+GL Account (REQUIRED - use Tab 2 if multiple):    660028
+WBS Element (optional - use Tab 2 if multiple):
+==================================<Page 2 - END>================================
+==================================<Page 3 - START>================================
+                                                                                      INVOICE #        IN0235110
+                                W.D. POTATO LIMITED
+      WD
+                                BEETON, ONTARIO. L0G 1AD                               INVOICE DATE     Dec 27, 2025
+                                TEL: (905) 729-2263
+       POTATO LIMITED   FAX: (905) 729-4136
+                                                                                      SHIP DATE      Dec 27, 2025
+          S
+          0    PEPSICO FOODS CANADA                                 1001 BISHOP STREET
+          I    1001 BISHOP STREET                                      CAMBRIDGE, ONTARIO
+              CAMBRIDGE, ONTARIO
+                                                                          N3H 4V8
+         T   N3H 4V8
+                                                                     T
+        customer No.                      TERMS
+            2001                        NET 30 DAYS                                               MANAGEMENT FEE
+                                                                        R 105605836
+   Source                                                                                          AMOUNT
+                                                                     QTY. SHIPPED     PRICE
+  9910H        MANAGEMENT FEE PD13 WK4                                 5,662.20          0.50        2,831.10
+"The perishable agricultural commodities listed on this invoice are sold subject to the statutory trust authorized by section S(c) of
+the Perishabale Agricultural Commodities Act. 193o (7 U.s.C. 499e(c)). The seller of these commodities retains a trúst claim over
+these commodities, all inventories of food or other products derived from these commodities, and any receivables or proceeds
+from the sale of these commodities until full payment is received."
+                                                         SUB-TOTAL . MISC. CHARGES      HST          TOTAL
+==================================<Page 3 - END>================================
+==================================<Page 4 - START>================================
+Page 1                                                                                      12/30/25
+                              PepsiCo Kentville Management Fee
+                                                                                                08:55:36
+Entity                       Date Range                          Plants
+Nova Scotia
+                              December: 12/21/25 to 12/27/25    * Frito-Lay Kentville
+  Date                     Plant PO                                               Shipped Cwt   Fee   Total Fee
+                                              Grower
+  12/21/25                                                                                                  352.70
+                    4504588083-10-2784752  * Monaghan Farms *                         705.40    0.50  $
+ 12/21/25                                                                                                   354.70
+                    4504588083-20-2784753  * Monaghan Farms *                         709.40    0.50  $
+ 12/22/25                                                                                                   342.20
+                    4504588083-30-2784754  * Monaghan Farms *                         684.40    0.50  $
+12/22/25                                                                                                   359.60
+                    4504588083-40-2784755  * Monaghan Farms *                         719.20    0.50  $
+12/22/25
+                    4504588083-50-2784756  * Monaghan Farms *                         679.00    0.50  $   339.50
+12/22/25
+                    4504588083-60-2784757  * Monaghan Farms *                         731.60    0.50  $   365.80
+12/23/25
+                    4504588083-70-2784758  * Monaghan Farms *                         727.60    0.50  $   363.80
+12/23/25                                                                                                    352.80
+                    4504588083-80-2784759  * Monaghan Farms *                         705.60    0.50  $
+                           Total # Loads          8      Total Shipped Cwt       5,662.20           $ 2,831.10
+Plant
+                                 Fee           Shipped Cwt         Total Fee
+* Frito-Lay Kentville          0.50            5,662.20           2,831.10
+==================================<Page 4 - END>================================
+==================================<Page 5 - START>================================
+  Page  2                    PepsiCo Kentville Management Fee
+                                                                                                  12/30/25
+                                                                                                  09:21:52
+ Entity
+                               Date Range                          Plants
+Nova Scotia
+                               December: 12/14/25 to 12/20/25    * Frito-Lay Kentville
+  Date
+                            Plant PO          Grower                               Shipped Cwt
+                                                                                                    Fee    Total Fee
+ * Frito-Lay Kentville
+                                 0.50           25,069.60          12,534.80
+==================================<Page 5 - END>================================
+==================================<Page 6 - START>================================
+          From: "Dion, Georges {PEP}" <Georges.Dion@pepsico.com>
+          Sent: Fri, 6 Feb 2026 22:56:59 (UTC)
+           To: FLCInvoiceSubmission@pepsico.com
+          Subject: Invoices
+          Georges Dion
+          Proc Sr Manager • PFC Div Ops Field buyer
+          PepsiCo
+          georges.dion@pepsico.com418.572.7202
+          pepsico.com
+                pepsico
+                  Food Drinks. Smies.
+==================================<Page 6 - END>================================

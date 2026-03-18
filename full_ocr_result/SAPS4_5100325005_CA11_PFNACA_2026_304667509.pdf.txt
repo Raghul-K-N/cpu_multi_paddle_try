@@ -1,0 +1,858 @@
+==================================<Page 1 - START>================================
+  Standard Invoice
+                                                                                                                       GRAINGER
+  Original tax invoice has been submitted electronically. This is a
+ human readable representation (copy) of the original tax invoice.
+                                                                                                                       9806379435
+                                                                    Invoice Number
+                                                                    (Supplier Reference No.)
+                                                                                                Thursday 12 Feb. 2026 7:00 a.m. GMT-05:00
+                                                                    Invoice Date
+                                                                                                                     $1,167.74 CAD
+                                                                    Amount Due
+      Contact Information
+                                                                              Shipping Information
+      Supplier                       Customer
+                                                                              Ship From                     Ship To
+      ACKLANDS-GRAINGER INC.
+                                    EDI ONLY PEPSI FOODS ULC                   AGI CALEDON DC               CA-PL-CAMBRIDGE-ON-FLC
+      PO BOX 2970                   (FLC)                                     21 Merchant Road                1001 BISHOP ST N
+      WINNIPEG                     1001 BISHOP ST N                           Caledon                       CAMBRIDGE
+      MB                          DELIVER TO RECEIVING                       ON                          ON
+      R3C 4B5                      DOOR                                    L7C 3Y7                       N3H 4V8
+      CA                          CAMBRIDGE                                Canada                       Canada
+                                    ON
+                                    N3H 4V8
+                                    Canada
+                                                            PO No. : M413555380                                      PO Date : 12 Feb. 2026
+    Line Items
+                                                                                                                             Subtotal
+    Line No.    PO Line No.          Type    Supplier Part No. /              Customer Part No.         Quantity            Unit Price
+                                          Description                                        (UOM)
+                                                                                           5 / (EA)           $37.76 CAD     $188.80 CAD
+    20       2                  Material KLN44200 / SKINNING
+                                          KNIFE.6-1/4 IN
+                                                                                                        Line Item Total : $188.80 CAD
+                                                                                                                              Subtotal
+    Line No.    PO Line No.          Type    Supplier Part No. /              Customer Part No.        Quantity            Unit Price
+                                                                                           (UOM)
+                                          Description
+    30        3                  Material  ANL37-175-11VP / SOLVEX                            5 / (PR)            $2.52 CAD      $12.60 CAD
+                                          37-175 NIT COTFLK 15MIL
+                                          13&quot:VP S11
+                                                                                                         Line Item Total : $12.60 CAD
+    Line No.    PO Line No.          Type    Supplier Part No. /              Customer Part No.         Quantity            Unit Price         Subtotal
+                                          Description                                         (UOM)
+                                                                                           15 / (PR)           $2.52 CAD      $37.80 CAD
+    40        4                  Material  ANL37-175-8VP / SOLVEX 37-175
+                                          NIT COTFLK 15MIL 13&quot;VP S8
+                                                                                                          Line Item Total : $37.80 CAD
+    Line No.    PO Line No.          Type    Supplier Part No. /              Customer Part No.         Quantity            Unit Price         Subtotal
+                                          Description                                         (UOM)
+                                          ANL37-175-10VP / SOLVEX                             10 / (PR)           $2.52 CAD      $25.20 CAD
+    50        5                  Material
+                                          37-175 NIT COTFLK 15MIL
+                                          13&quot;VP S10
+                                                                                                          Line Item Total : $25.20 CAD
+                                                                                           Quantity             Unit Price         Subtotal
+    Line No.    PO Line No.          Type    Supplier Part No. /              Customer Part No.
+                                          Description                                         (UOM)
+    60        6                  Material  ANL37-175-9VP / SOLVEX 37-175                        5 / (PR)            $2.52 CAD      $12.60 CAD
+                                          NIT COTFLK 15MIL 13&quot;VP S9
+                                                                                                          Line Item Total : $12.60 CAD
+                                                                                                               Unit Price
+    Line No.    PO Line No.          Type    Supplier Part No. /              Customer Part No.         Quantity                              Subtotal
+                                          Description                                         (UOM)
+    70       7                  Material ANL11-644-9PP / HYFLEX 11-644                         4 / (PR)            $5.85 CAD      $23.40 CAD
+                                          A2 PU 13G HPPE VEND S9
+                                                                                                          Line Item Total : $23.40 CAD
+              PO Line No.          Type    Supplier Part No. /                                    Quantity             Unit Price          Subtotal
+    Line No.                                                           Customer Part No.
+                                          Description                                         (UOM)
+    80        8                  Material  ANL11738060PR / COATED                             3 / (PR)            $11.04 CAD       $33.12 CAD
+                                          GLVS,NITRILE,6,BLK/GY,PR
+                                                                                                           Line Item Total : $33.12 CAD
+    Line No.    PO Line No.          Type    Supplier Part No. /                                    Quantity             Unit Price
+                                                                      Customer Part No.                                              Subtotal
+                                          Description                                          (UOM)
+   90        9                  Material  ANL11738090PR / COATED                             10 / (PR)           $11.04 CAD      $110.40 CAD
+                                          GLVS,NITRILE,9,BLK/GY,PR
+                                                                                                          Line Item Total : $110.40 CAD
+   Line No.    PO Line No.
+                                 Type    Supplier Part No. /              Customer Part No.         Quantity             Unit Price          Subtotal
+                                         Description
+                                                                                            (UOM)
+   100       10                  Material  ANL11738070PR / COATED                             3 / (PR)            $11.04 CAD       $33.12 CAD
+                                          GLVS,NITRILE,7,BLK/GY,PR
+                                                                                                           Line Item Total : $33.12 CAD
+   Line No.    PO Line No.          Type    Supplier Part No. /              Customer Part No.         Quantity             Unit Price          Subtotal
+                                         Description                                          (UOM)
+   110       11                  Material  ANL11738080PR / COATED                             9 / (PR)
+                                                                                                              $11.04 CAD       $99.36 CAD
+                                          GLVS,NITRILE,8,BLK/GY,PR
+                                                                                                           Line Item Total : $99.36 CAD
+  Line No.    PO Line No.          Type    Supplier Part No. /              Customer Part No.         Quantity             Unit Price          Subtotal
+                                         Description                                          (UOM)
+  120                                   ANL11-644-8PP / HYFLEX 11-644
+             12                  Material                                                    10 / (PR)            $5.85 CAD       $58.50 CAD
+                                         A2 PU 13G HPPE VEND S8
+                                                                                                           Line Item Total : $58.50 CAD
+  Line No.    PO Line No.          Type    Supplier Part No. /              Customer Part No.
+                                                                                            Quantity             Unit Price          Subtotal
+                                         Description                                          (UOM)
+ 130       13                  Material ANL11-644-7PP / HYFLEX 11-644                         4 / (PR)
+                                                                                                               $5.85 CAD       $23.40 CAD
+                                         A2 PU 13G HPPE VEND S7
+                                                                                                           Line Item Total : $23.40 CAD
+Line No.
+            PO Line No.          Type    Supplier Part No. /              Customer Part No.         Quantity
+                                                                                                                Unit Price          Subtotal
+                                         Description                                          (UOM)
+140        14
+                                 Material  MMMSF201SGAFBLU / SAFETY                          10 / (PR)            $8.09 CAD
+                                          GLASSES,BLUE,XYLEX                                                                   $80.90 CAD
+                                                                                                           Line Item Total : $80.90 CAD
+Line No.    PO Line No.           Type    Supplier Part No. /
+                                                                      Customer Part No.         Quantity             Unit Price
+                                         Description                                                                                Subtotal
+                                                                                            (UOM)
+150        15                  Material  ANL11-816-7 / COATED
+                                                                                            4 / (PR)            $4.01 CAD       $16.04 CAD
+                                         GLOVES,NITRILE/NYLON,7,BLK/
+                                         BL,PR
+                                                                                                            Line Item Total : $16.04 CAD
+==================================<Page 1 - END>================================
+==================================<Page 2 - START>================================
+ Line No.    PO Line No.          Type    Supplier Part No. /              Customer Part No.                                              Subtotal
+                                                                                            Quantity             Unit Price
+                                         Description
+                                                                                            (UOM)
+160       16                  Material ANL11-816-8 / COATED                                                                   $32.08 CAD
+                                                                                            8 / (PR)            $4.01 CAD
+                                         GLOVES,NITRILE/NYLON,8,BLK/
+                                         BL,PR
+                                                                                                          Line Item Total : $32.08 CAD
+ Line No.    PO Line No.          Type    Supplier Part No. /
+                                                                     Customer Part No.         Quantity             Unit Price          Subtotal
+                                         Description
+                                                                                            (UOM)
+ 170       17                 Material BESD48A-BE / METAL CUTTING
+                                                                                            9 / (EA)           $25.56 CAD      $230.04 CAD
+                                         SNIPS STRAIGHT
+                                                                                                         Line Item Total : $230.04 CAD
+ Line No.    PO Line No.          Type    Supplier Part No. /              Customer Part No.
+                                                                                           Quantity             Unit Price          Subtotal
+                                         Description
+                                                                                           (UOM)
+                                 Material ANL11-816-9 / COATED
+ 180       18                                                                            4 / (PR)
+                                         GLOVES.NITRILE/NYLON.9.BLK/                                            $4.01 CAD       $16.04 CAD
+                                         BL,PR
+                                                                                                          Line Item Total : $16.04 CAD
+     Tax Summary
+     Category                Details                            Base Amount
+                                                                                        Rate %           Amount
+     GST                   Tax Description : GOODS AND          $1.033.40 CAD               13%
+                                                                                                         $134.34 CAD
+                             SERVICES
+      PST                   Tax Description : State/Provincial        $1.033.40 CAD               0%              $0.00 CAD
+                             Tax
+                                                                                 Amount Summary
+                                                                                 Line item subtotal
+                                                                                                                        $1,033.40 CAD
+                                                                                 Gross amount
+                                                                                                                        $1,167.74 CAD
+                                                                                 Net amount                              $1,167.74 CAD
+                                                                                 Total tax amount                            $134.34 CAD
+                                                                                 Total withholding tax amount
+                                                                                 Amount Due                              $1,167.74 CAD
+    Additional Information
+    invioceSourceDocument
+    PurchaseOrder
+    Billing Information                                                          Remittance Information
+    Bill To                                                                   Remit To
+                                                                            ACKLANDS-GRAINGER INC.
+    PEPSI FOODS ULC (FLC)
+                                                                            PO BOX 2970
+    2095 MATHESON BLVD E
+    MISSISSAUGA                                                            WINNIPEG
+    ON                                                                     MB
+    L4W 0G2                                                                R3C 4B5
+    Canada                                                                  Canada
+    Address ID:                                                               Address ID: CA1_2751
+    CA1_ARIBA_PAYABLES
+==================================<Page 2 - END>================================
+==================================<Page 3 - START>================================
+    Appendix
+    Line No.
+                PO Line No. Type
+                                                           Supplier Part No. / Description
+    20
+               2         Material
+                                                           KLN44200 / SKINNING KNIFE,6-1/4 IN
+    Additional Details:
+    Supplier Part ID : KLN44200
+    Line No.
+                PO Line No. Type                           Supplier Part No. / Description
+    30
+               3
+                           Material                         ANL37-175-11VP / SOLVEX 37-175 NIT COTFLK 15MIL 13&quot;VP S11
+    Additional Details:
+    Supplier Part ID : ANL37-175-11VP
+    Line No.
+                PO Line No. Type
+                                                           Supplier Part No. / Description
+    40
+                4
+                           Material                         ANL37-175-8VP / SOLVEX 37-175 NIT COTFLK 15MIL 13&quOt;VP S8
+    Additional Details:
+    Supplier Part ID : ANL37-175-8VP
+    Line No.
+                PO Line No. Type                           Supplier Part No. / Description
+    50
+                5
+                           Material                         ANL37-175-10VP / SOLVEX 37-175 NIT COTFLK 15MIL 13&quot;VP S10
+    Additional Details:
+    Supplier Part ID : ANL37-175-10VP
+    Line No.
+                PO Line No. Type                            Supplier Part No. / Description
+    60
+                6          Material
+                                                           ANL37-175-9VP / SOLVEX 37-175 NIT COTFLK 15MIL 13&quOt;VP S9
+    Additional Details:
+    Supplier Part ID : ANL37-175-9VP
+    Line No.    PO Line No. Type
+                                                           Supplier Part No. / Description
+    70        7          Material
+                                                           ANL11-644-9PP / HYFLEX 11-644 A2 PU 13G HPPE VEND S9
+    Additional Details:
+     Supplier Part ID : ANL11-644-9PP
+    Line No.
+                PO Line No. Type
+                                                           Supplier Part No. / Description
+    80        8          Material
+                                                           ANL11738060PR / COATED GLVS,NITRILE,6,BLK/GY,PR
+    Additional Details:
+     Supplier Part ID : ANL11738060PR
+    Line No.    PO Line No. Type
+                                                           Supplier Part No. / Description
+     90
+                9          Material                         ANL11738090PR / COATED GLVS,NITRILE,9,BLK/GY,PR
+     Additional Details:
+     Supplier Part ID : ANL11738090PR
+     Line No.    PO Line No. Type                            Supplier Part No. / Description
+     100
+                10        Material                         ANL11738070PR / COATED GLVS,NITRILE,7,BLK/GY,PR
+     Additional Details:
+     Supplier Part ID : ANL11738070PR
+     Line No.    PO Line No. Type
+                                                           Supplier Part No. / Description
+     110       11        Material
+                                                          ANL11738080PR / COATED GLVS,NITRILE,8,BLK/GY,PR
+     Additional Details:
+     Supplier Part ID : ANL11738080PR
+     Line No.    PO Line No. Type                            Supplier Part No. / Description
+     120       12        Material                         ANL11-644-8PP / HYFLEX 11-644 A2 PU 13G HPPE VEND S8
+     Additional Details:
+      Supplier Part ID : ANL11-644-8PP
+     Line No.    PO Line No. Type                            Supplier Part No. / Description
+     130       13        Material                          ANL11-644-7PP / HYFLEX 11-644 A2 PU 13G HPPE VEND S7
+     Additional Details:
+      Supplier Part ID : ANL11-644-7PP
+     Line No.    PO Line No. Type                            Supplier Part No. / Description
+     140      14        Material                         MMMSF201SGAFBLU / SAFETY GLASSES,BLUE,XYLEX
+     Additional Details:
+      Supplier Part ID : MMMSF201SGAFBLU
+     Line No.    PO Line No. Type
+                                                          Supplier Part No. / Description
+     150       15        Material                         ANL11-816-7 / COATED GLOVES,NITRILE/NYLON,7,BLK/BL,PR
+     Additional Details:
+      Supplier Part ID : ANL11-816-7
+     Line No.
+                PO Line No. Type                           Supplier Part No. / Description
+     160      16        Material                         ANL11-816-8 / COATED GLOVES,NITRILE/NYLON,8,BLK/BL,PR
+     Additional Details:
+      Supplier Part ID : ANL11-816-8
+     Line No.   PO Line No. Type                           Supplier Part No. / Description
+     170      17        Material                         BESD48A-BE / METAL CUTTING SNIPS STRAIGHT
+     Additional Details:
+     Supplier Part ID : BESD48A-BE
+     Line No.    PO Line No. Type                           Supplier Part No. / Description
+     180
+               18        Material                         ANL11-816-9 / COATED GLOVES,NITRILE/NYLON,9,BLK/BL,PR
+     Additional Details:
+     Supplier Part ID : ANL11-816-9
+    PDF generated on Friday 13 Feb. 2026 6:17 a.m. GMT-08:00
+==================================<Page 3 - END>================================
+==================================<Page 4 - START>================================
+  Standard Invoice
+                                                                                                                       GRAINGER
+  Original tax invoice has been submitted electronically. This is a
+ human readable representation (copy) of the original tax invoice.
+                                                                                                                       9806379435
+                                                                    Invoice Number
+                                                                    (Supplier Reference No.)
+                                                                                                Thursday 12 Feb. 2026 7:00 a.m. GMT-05:00
+                                                                    Invoice Date
+                                                                                                                     $1,167.74 CAD
+                                                                    Amount Due
+      Contact Information
+                                                                              Shipping Information
+      Supplier                       Customer
+                                                                              Ship From                     Ship To
+      ACKLANDS-GRAINGER INC.
+                                    EDI ONLY PEPSI FOODS ULC                   AGI CALEDON DC               CA-PL-CAMBRIDGE-ON-FLC
+      PO BOX 2970                   (FLC)                                     21 Merchant Road                1001 BISHOP ST N
+      WINNIPEG                     1001 BISHOP ST N                           Caledon                       CAMBRIDGE
+      MB                          DELIVER TO RECEIVING                       ON                          ON
+      R3C 4B5                      DOOR                                    L7C 3Y7                       N3H 4V8
+      CA                          CAMBRIDGE                                Canada                       Canada
+                                    ON
+                                    N3H 4V8
+                                    Canada
+                                                            PO No. : M413555380                                      PO Date : 12 Feb. 2026
+    Line Items
+                                                                                                                             Subtotal
+    Line No.    PO Line No.          Type    Supplier Part No. /              Customer Part No.         Quantity            Unit Price
+                                          Description                                        (UOM)
+                                                                                           5 / (EA)           $37.76 CAD     $188.80 CAD
+    20       2                  Material KLN44200 / SKINNING
+                                          KNIFE.6-1/4 IN
+                                                                                                        Line Item Total : $188.80 CAD
+                                                                                                                              Subtotal
+    Line No.    PO Line No.          Type    Supplier Part No. /              Customer Part No.        Quantity            Unit Price
+                                                                                           (UOM)
+                                          Description
+    30        3                  Material  ANL37-175-11VP / SOLVEX                            5 / (PR)            $2.52 CAD      $12.60 CAD
+                                          37-175 NIT COTFLK 15MIL
+                                          13&quot:VP S11
+                                                                                                         Line Item Total : $12.60 CAD
+    Line No.    PO Line No.          Type    Supplier Part No. /              Customer Part No.         Quantity            Unit Price         Subtotal
+                                          Description                                         (UOM)
+                                                                                           15 / (PR)           $2.52 CAD      $37.80 CAD
+    40        4                  Material  ANL37-175-8VP / SOLVEX 37-175
+                                          NIT COTFLK 15MIL 13&quot;VP S8
+                                                                                                          Line Item Total : $37.80 CAD
+    Line No.    PO Line No.          Type    Supplier Part No. /              Customer Part No.         Quantity            Unit Price         Subtotal
+                                          Description                                         (UOM)
+                                          ANL37-175-10VP / SOLVEX                             10 / (PR)           $2.52 CAD      $25.20 CAD
+    50        5                  Material
+                                          37-175 NIT COTFLK 15MIL
+                                          13&quot;VP S10
+                                                                                                          Line Item Total : $25.20 CAD
+                                                                                           Quantity             Unit Price         Subtotal
+    Line No.    PO Line No.          Type    Supplier Part No. /              Customer Part No.
+                                          Description                                         (UOM)
+    60        6                  Material  ANL37-175-9VP / SOLVEX 37-175                        5 / (PR)            $2.52 CAD      $12.60 CAD
+                                          NIT COTFLK 15MIL 13&quot;VP S9
+                                                                                                          Line Item Total : $12.60 CAD
+                                                                                                               Unit Price
+    Line No.    PO Line No.          Type    Supplier Part No. /              Customer Part No.         Quantity                              Subtotal
+                                          Description                                         (UOM)
+    70       7                  Material ANL11-644-9PP / HYFLEX 11-644                         4 / (PR)            $5.85 CAD      $23.40 CAD
+                                          A2 PU 13G HPPE VEND S9
+                                                                                                          Line Item Total : $23.40 CAD
+              PO Line No.          Type    Supplier Part No. /                                    Quantity             Unit Price          Subtotal
+    Line No.                                                           Customer Part No.
+                                          Description                                         (UOM)
+    80        8                  Material  ANL11738060PR / COATED                             3 / (PR)            $11.04 CAD       $33.12 CAD
+                                          GLVS,NITRILE,6,BLK/GY,PR
+                                                                                                           Line Item Total : $33.12 CAD
+    Line No.    PO Line No.          Type    Supplier Part No. /                                    Quantity             Unit Price
+                                                                      Customer Part No.                                              Subtotal
+                                          Description                                          (UOM)
+   90        9                  Material  ANL11738090PR / COATED                             10 / (PR)           $11.04 CAD      $110.40 CAD
+                                          GLVS,NITRILE,9,BLK/GY,PR
+                                                                                                          Line Item Total : $110.40 CAD
+   Line No.    PO Line No.
+                                 Type    Supplier Part No. /              Customer Part No.         Quantity             Unit Price          Subtotal
+                                         Description
+                                                                                            (UOM)
+   100       10                  Material  ANL11738070PR / COATED                             3 / (PR)            $11.04 CAD       $33.12 CAD
+                                          GLVS,NITRILE,7,BLK/GY,PR
+                                                                                                           Line Item Total : $33.12 CAD
+   Line No.    PO Line No.          Type    Supplier Part No. /              Customer Part No.         Quantity             Unit Price          Subtotal
+                                         Description                                          (UOM)
+   110       11                  Material  ANL11738080PR / COATED                             9 / (PR)
+                                                                                                              $11.04 CAD       $99.36 CAD
+                                          GLVS,NITRILE,8,BLK/GY,PR
+                                                                                                           Line Item Total : $99.36 CAD
+  Line No.    PO Line No.          Type    Supplier Part No. /              Customer Part No.         Quantity             Unit Price          Subtotal
+                                         Description                                          (UOM)
+  120                                   ANL11-644-8PP / HYFLEX 11-644
+             12                  Material                                                    10 / (PR)            $5.85 CAD       $58.50 CAD
+                                         A2 PU 13G HPPE VEND S8
+                                                                                                           Line Item Total : $58.50 CAD
+  Line No.    PO Line No.          Type    Supplier Part No. /              Customer Part No.
+                                                                                            Quantity             Unit Price          Subtotal
+                                         Description                                          (UOM)
+ 130       13                  Material ANL11-644-7PP / HYFLEX 11-644                         4 / (PR)
+                                                                                                               $5.85 CAD       $23.40 CAD
+                                         A2 PU 13G HPPE VEND S7
+                                                                                                           Line Item Total : $23.40 CAD
+Line No.
+            PO Line No.          Type    Supplier Part No. /              Customer Part No.         Quantity
+                                                                                                                Unit Price          Subtotal
+                                         Description                                          (UOM)
+140        14
+                                 Material  MMMSF201SGAFBLU / SAFETY                          10 / (PR)            $8.09 CAD
+                                          GLASSES,BLUE,XYLEX                                                                   $80.90 CAD
+                                                                                                           Line Item Total : $80.90 CAD
+Line No.    PO Line No.           Type    Supplier Part No. /
+                                                                      Customer Part No.         Quantity             Unit Price
+                                         Description                                                                                Subtotal
+                                                                                            (UOM)
+150        15                  Material  ANL11-816-7 / COATED
+                                                                                            4 / (PR)            $4.01 CAD       $16.04 CAD
+                                         GLOVES,NITRILE/NYLON,7,BLK/
+                                         BL,PR
+                                                                                                            Line Item Total : $16.04 CAD
+==================================<Page 4 - END>================================
+==================================<Page 5 - START>================================
+ Line No.    PO Line No.          Type    Supplier Part No. /              Customer Part No.                                              Subtotal
+                                                                                            Quantity             Unit Price
+                                         Description
+                                                                                            (UOM)
+160       16                  Material ANL11-816-8 / COATED                                                                   $32.08 CAD
+                                                                                            8 / (PR)            $4.01 CAD
+                                         GLOVES,NITRILE/NYLON,8,BLK/
+                                         BL,PR
+                                                                                                          Line Item Total : $32.08 CAD
+ Line No.    PO Line No.          Type    Supplier Part No. /
+                                                                     Customer Part No.         Quantity             Unit Price          Subtotal
+                                         Description
+                                                                                            (UOM)
+ 170       17                 Material BESD48A-BE / METAL CUTTING
+                                                                                            9 / (EA)           $25.56 CAD      $230.04 CAD
+                                         SNIPS STRAIGHT
+                                                                                                         Line Item Total : $230.04 CAD
+ Line No.    PO Line No.          Type    Supplier Part No. /              Customer Part No.
+                                                                                           Quantity             Unit Price          Subtotal
+                                         Description
+                                                                                           (UOM)
+                                 Material ANL11-816-9 / COATED
+ 180       18                                                                            4 / (PR)
+                                         GLOVES.NITRILE/NYLON.9.BLK/                                            $4.01 CAD       $16.04 CAD
+                                         BL,PR
+                                                                                                          Line Item Total : $16.04 CAD
+     Tax Summary
+     Category                Details                            Base Amount
+                                                                                        Rate %           Amount
+     GST                   Tax Description : GOODS AND          $1.033.40 CAD               13%
+                                                                                                         $134.34 CAD
+                             SERVICES
+      PST                   Tax Description : State/Provincial        $1.033.40 CAD               0%              $0.00 CAD
+                             Tax
+                                                                                 Amount Summary
+                                                                                 Line item subtotal
+                                                                                                                        $1,033.40 CAD
+                                                                                 Gross amount
+                                                                                                                        $1,167.74 CAD
+                                                                                 Net amount                              $1,167.74 CAD
+                                                                                 Total tax amount                            $134.34 CAD
+                                                                                 Total withholding tax amount
+                                                                                 Amount Due                              $1,167.74 CAD
+    Additional Information
+    invioceSourceDocument
+    PurchaseOrder
+    Billing Information                                                          Remittance Information
+    Bill To                                                                   Remit To
+                                                                            ACKLANDS-GRAINGER INC.
+    PEPSI FOODS ULC (FLC)
+                                                                            PO BOX 2970
+    2095 MATHESON BLVD E
+    MISSISSAUGA                                                            WINNIPEG
+    ON                                                                     MB
+    L4W 0G2                                                                R3C 4B5
+    Canada                                                                  Canada
+    Address ID:                                                               Address ID: CA1_2751
+    CA1_ARIBA_PAYABLES
+==================================<Page 5 - END>================================
+==================================<Page 6 - START>================================
+    Appendix
+    Line No.
+                PO Line No. Type
+                                                           Supplier Part No. / Description
+    20
+               2         Material
+                                                           KLN44200 / SKINNING KNIFE,6-1/4 IN
+    Additional Details:
+    Supplier Part ID : KLN44200
+    Line No.
+                PO Line No. Type                           Supplier Part No. / Description
+    30
+               3
+                           Material                         ANL37-175-11VP / SOLVEX 37-175 NIT COTFLK 15MIL 13&quot;VP S11
+    Additional Details:
+    Supplier Part ID : ANL37-175-11VP
+    Line No.
+                PO Line No. Type
+                                                           Supplier Part No. / Description
+    40
+                4
+                           Material                         ANL37-175-8VP / SOLVEX 37-175 NIT COTFLK 15MIL 13&quOt;VP S8
+    Additional Details:
+    Supplier Part ID : ANL37-175-8VP
+    Line No.
+                PO Line No. Type                           Supplier Part No. / Description
+    50
+                5
+                           Material                         ANL37-175-10VP / SOLVEX 37-175 NIT COTFLK 15MIL 13&quot;VP S10
+    Additional Details:
+    Supplier Part ID : ANL37-175-10VP
+    Line No.
+                PO Line No. Type                            Supplier Part No. / Description
+    60
+                6          Material
+                                                           ANL37-175-9VP / SOLVEX 37-175 NIT COTFLK 15MIL 13&quOt;VP S9
+    Additional Details:
+    Supplier Part ID : ANL37-175-9VP
+    Line No.    PO Line No. Type
+                                                           Supplier Part No. / Description
+    70        7          Material
+                                                           ANL11-644-9PP / HYFLEX 11-644 A2 PU 13G HPPE VEND S9
+    Additional Details:
+     Supplier Part ID : ANL11-644-9PP
+    Line No.
+                PO Line No. Type
+                                                           Supplier Part No. / Description
+    80        8          Material
+                                                           ANL11738060PR / COATED GLVS,NITRILE,6,BLK/GY,PR
+    Additional Details:
+     Supplier Part ID : ANL11738060PR
+    Line No.    PO Line No. Type
+                                                           Supplier Part No. / Description
+     90
+                9          Material                         ANL11738090PR / COATED GLVS,NITRILE,9,BLK/GY,PR
+     Additional Details:
+     Supplier Part ID : ANL11738090PR
+     Line No.    PO Line No. Type                            Supplier Part No. / Description
+     100
+                10        Material                         ANL11738070PR / COATED GLVS,NITRILE,7,BLK/GY,PR
+     Additional Details:
+     Supplier Part ID : ANL11738070PR
+     Line No.    PO Line No. Type
+                                                           Supplier Part No. / Description
+     110       11        Material
+                                                          ANL11738080PR / COATED GLVS,NITRILE,8,BLK/GY,PR
+     Additional Details:
+     Supplier Part ID : ANL11738080PR
+     Line No.    PO Line No. Type                            Supplier Part No. / Description
+     120       12        Material                         ANL11-644-8PP / HYFLEX 11-644 A2 PU 13G HPPE VEND S8
+     Additional Details:
+      Supplier Part ID : ANL11-644-8PP
+     Line No.    PO Line No. Type                            Supplier Part No. / Description
+     130       13        Material                          ANL11-644-7PP / HYFLEX 11-644 A2 PU 13G HPPE VEND S7
+     Additional Details:
+      Supplier Part ID : ANL11-644-7PP
+     Line No.    PO Line No. Type                            Supplier Part No. / Description
+     140      14        Material                         MMMSF201SGAFBLU / SAFETY GLASSES,BLUE,XYLEX
+     Additional Details:
+      Supplier Part ID : MMMSF201SGAFBLU
+     Line No.    PO Line No. Type
+                                                          Supplier Part No. / Description
+     150       15        Material                         ANL11-816-7 / COATED GLOVES,NITRILE/NYLON,7,BLK/BL,PR
+     Additional Details:
+      Supplier Part ID : ANL11-816-7
+     Line No.
+                PO Line No. Type                           Supplier Part No. / Description
+     160      16        Material                         ANL11-816-8 / COATED GLOVES,NITRILE/NYLON,8,BLK/BL,PR
+     Additional Details:
+      Supplier Part ID : ANL11-816-8
+     Line No.   PO Line No. Type                           Supplier Part No. / Description
+     170      17        Material                         BESD48A-BE / METAL CUTTING SNIPS STRAIGHT
+     Additional Details:
+     Supplier Part ID : BESD48A-BE
+     Line No.    PO Line No. Type                           Supplier Part No. / Description
+     180
+               18        Material                         ANL11-816-9 / COATED GLOVES,NITRILE/NYLON,9,BLK/BL,PR
+     Additional Details:
+     Supplier Part ID : ANL11-816-9
+    PDF generated on Friday 13 Feb. 2026 6:17 a.m. GMT-08:00
+==================================<Page 6 - END>================================
+==================================<Page 7 - START>================================
+  Standard Invoice
+                                                                                                                       GRAINGER
+  Original tax invoice has been submitted electronically. This is a
+ human readable representation (copy) of the original tax invoice.
+                                                                                                                       9806379435
+                                                                    Invoice Number
+                                                                    (Supplier Reference No.)
+                                                                                                Thursday 12 Feb. 2026 7:00 a.m. GMT-05:00
+                                                                    Invoice Date
+                                                                                                                     $1,167.74 CAD
+                                                                    Amount Due
+      Contact Information
+                                                                              Shipping Information
+      Supplier                       Customer
+                                                                              Ship From                     Ship To
+      ACKLANDS-GRAINGER INC.
+                                    EDI ONLY PEPSI FOODS ULC                   AGI CALEDON DC               CA-PL-CAMBRIDGE-ON-FLC
+      PO BOX 2970                   (FLC)                                     21 Merchant Road                1001 BISHOP ST N
+      WINNIPEG                     1001 BISHOP ST N                           Caledon                       CAMBRIDGE
+      MB                          DELIVER TO RECEIVING                       ON                          ON
+      R3C 4B5                      DOOR                                    L7C 3Y7                       N3H 4V8
+      CA                          CAMBRIDGE                                Canada                       Canada
+                                    ON
+                                    N3H 4V8
+                                    Canada
+                                                            PO No. : M413555380                                      PO Date : 12 Feb. 2026
+    Line Items
+                                                                                                                             Subtotal
+    Line No.    PO Line No.          Type    Supplier Part No. /              Customer Part No.         Quantity            Unit Price
+                                          Description                                        (UOM)
+                                                                                           5 / (EA)           $37.76 CAD     $188.80 CAD
+    20       2                  Material KLN44200 / SKINNING
+                                          KNIFE.6-1/4 IN
+                                                                                                        Line Item Total : $188.80 CAD
+                                                                                                                              Subtotal
+    Line No.    PO Line No.          Type    Supplier Part No. /              Customer Part No.        Quantity            Unit Price
+                                                                                           (UOM)
+                                          Description
+    30        3                  Material  ANL37-175-11VP / SOLVEX                            5 / (PR)            $2.52 CAD      $12.60 CAD
+                                          37-175 NIT COTFLK 15MIL
+                                          13&quot:VP S11
+                                                                                                         Line Item Total : $12.60 CAD
+    Line No.    PO Line No.          Type    Supplier Part No. /              Customer Part No.         Quantity            Unit Price         Subtotal
+                                          Description                                         (UOM)
+                                                                                           15 / (PR)           $2.52 CAD      $37.80 CAD
+    40        4                  Material  ANL37-175-8VP / SOLVEX 37-175
+                                          NIT COTFLK 15MIL 13&quot;VP S8
+                                                                                                          Line Item Total : $37.80 CAD
+    Line No.    PO Line No.          Type    Supplier Part No. /              Customer Part No.         Quantity            Unit Price         Subtotal
+                                          Description                                         (UOM)
+                                          ANL37-175-10VP / SOLVEX                             10 / (PR)           $2.52 CAD      $25.20 CAD
+    50        5                  Material
+                                          37-175 NIT COTFLK 15MIL
+                                          13&quot;VP S10
+                                                                                                          Line Item Total : $25.20 CAD
+                                                                                           Quantity             Unit Price         Subtotal
+    Line No.    PO Line No.          Type    Supplier Part No. /              Customer Part No.
+                                          Description                                         (UOM)
+    60        6                  Material  ANL37-175-9VP / SOLVEX 37-175                        5 / (PR)            $2.52 CAD      $12.60 CAD
+                                          NIT COTFLK 15MIL 13&quot;VP S9
+                                                                                                          Line Item Total : $12.60 CAD
+                                                                                                               Unit Price
+    Line No.    PO Line No.          Type    Supplier Part No. /              Customer Part No.         Quantity                              Subtotal
+                                          Description                                         (UOM)
+    70       7                  Material ANL11-644-9PP / HYFLEX 11-644                         4 / (PR)            $5.85 CAD      $23.40 CAD
+                                          A2 PU 13G HPPE VEND S9
+                                                                                                          Line Item Total : $23.40 CAD
+              PO Line No.          Type    Supplier Part No. /                                    Quantity             Unit Price          Subtotal
+    Line No.                                                           Customer Part No.
+                                          Description                                         (UOM)
+    80        8                  Material  ANL11738060PR / COATED                             3 / (PR)            $11.04 CAD       $33.12 CAD
+                                          GLVS,NITRILE,6,BLK/GY,PR
+                                                                                                           Line Item Total : $33.12 CAD
+    Line No.    PO Line No.          Type    Supplier Part No. /                                    Quantity             Unit Price
+                                                                      Customer Part No.                                              Subtotal
+                                          Description                                          (UOM)
+   90        9                  Material  ANL11738090PR / COATED                             10 / (PR)           $11.04 CAD      $110.40 CAD
+                                          GLVS,NITRILE,9,BLK/GY,PR
+                                                                                                          Line Item Total : $110.40 CAD
+   Line No.    PO Line No.
+                                 Type    Supplier Part No. /              Customer Part No.         Quantity             Unit Price          Subtotal
+                                         Description
+                                                                                            (UOM)
+   100       10                  Material  ANL11738070PR / COATED                             3 / (PR)            $11.04 CAD       $33.12 CAD
+                                          GLVS,NITRILE,7,BLK/GY,PR
+                                                                                                           Line Item Total : $33.12 CAD
+   Line No.    PO Line No.          Type    Supplier Part No. /              Customer Part No.         Quantity             Unit Price          Subtotal
+                                         Description                                          (UOM)
+   110       11                  Material  ANL11738080PR / COATED                             9 / (PR)
+                                                                                                              $11.04 CAD       $99.36 CAD
+                                          GLVS,NITRILE,8,BLK/GY,PR
+                                                                                                           Line Item Total : $99.36 CAD
+  Line No.    PO Line No.          Type    Supplier Part No. /              Customer Part No.         Quantity             Unit Price          Subtotal
+                                         Description                                          (UOM)
+  120                                   ANL11-644-8PP / HYFLEX 11-644
+             12                  Material                                                    10 / (PR)            $5.85 CAD       $58.50 CAD
+                                         A2 PU 13G HPPE VEND S8
+                                                                                                           Line Item Total : $58.50 CAD
+  Line No.    PO Line No.          Type    Supplier Part No. /              Customer Part No.
+                                                                                            Quantity             Unit Price          Subtotal
+                                         Description                                          (UOM)
+ 130       13                  Material ANL11-644-7PP / HYFLEX 11-644                         4 / (PR)
+                                                                                                               $5.85 CAD       $23.40 CAD
+                                         A2 PU 13G HPPE VEND S7
+                                                                                                           Line Item Total : $23.40 CAD
+Line No.
+            PO Line No.          Type    Supplier Part No. /              Customer Part No.         Quantity
+                                                                                                                Unit Price          Subtotal
+                                         Description                                          (UOM)
+140        14
+                                 Material  MMMSF201SGAFBLU / SAFETY                          10 / (PR)            $8.09 CAD
+                                          GLASSES,BLUE,XYLEX                                                                   $80.90 CAD
+                                                                                                           Line Item Total : $80.90 CAD
+Line No.    PO Line No.           Type    Supplier Part No. /
+                                                                      Customer Part No.         Quantity             Unit Price
+                                         Description                                                                                Subtotal
+                                                                                            (UOM)
+150        15                  Material  ANL11-816-7 / COATED
+                                                                                            4 / (PR)            $4.01 CAD       $16.04 CAD
+                                         GLOVES,NITRILE/NYLON,7,BLK/
+                                         BL,PR
+                                                                                                            Line Item Total : $16.04 CAD
+==================================<Page 7 - END>================================
+==================================<Page 8 - START>================================
+ Line No.    PO Line No.          Type    Supplier Part No. /              Customer Part No.                                              Subtotal
+                                                                                            Quantity             Unit Price
+                                         Description
+                                                                                            (UOM)
+160       16                  Material ANL11-816-8 / COATED                                                                   $32.08 CAD
+                                                                                            8 / (PR)            $4.01 CAD
+                                         GLOVES,NITRILE/NYLON,8,BLK/
+                                         BL,PR
+                                                                                                          Line Item Total : $32.08 CAD
+ Line No.    PO Line No.          Type    Supplier Part No. /
+                                                                     Customer Part No.         Quantity             Unit Price          Subtotal
+                                         Description
+                                                                                            (UOM)
+ 170       17                 Material BESD48A-BE / METAL CUTTING
+                                                                                            9 / (EA)           $25.56 CAD      $230.04 CAD
+                                         SNIPS STRAIGHT
+                                                                                                         Line Item Total : $230.04 CAD
+ Line No.    PO Line No.          Type    Supplier Part No. /              Customer Part No.
+                                                                                           Quantity             Unit Price          Subtotal
+                                         Description
+                                                                                           (UOM)
+                                 Material ANL11-816-9 / COATED
+ 180       18                                                                            4 / (PR)
+                                         GLOVES.NITRILE/NYLON.9.BLK/                                            $4.01 CAD       $16.04 CAD
+                                         BL,PR
+                                                                                                          Line Item Total : $16.04 CAD
+     Tax Summary
+     Category                Details                            Base Amount
+                                                                                        Rate %           Amount
+     GST                   Tax Description : GOODS AND          $1.033.40 CAD               13%
+                                                                                                         $134.34 CAD
+                             SERVICES
+      PST                   Tax Description : State/Provincial        $1.033.40 CAD               0%              $0.00 CAD
+                             Tax
+                                                                                 Amount Summary
+                                                                                 Line item subtotal
+                                                                                                                        $1,033.40 CAD
+                                                                                 Gross amount
+                                                                                                                        $1,167.74 CAD
+                                                                                 Net amount                              $1,167.74 CAD
+                                                                                 Total tax amount                            $134.34 CAD
+                                                                                 Total withholding tax amount
+                                                                                 Amount Due                              $1,167.74 CAD
+    Additional Information
+    invioceSourceDocument
+    PurchaseOrder
+    Billing Information                                                          Remittance Information
+    Bill To                                                                   Remit To
+                                                                            ACKLANDS-GRAINGER INC.
+    PEPSI FOODS ULC (FLC)
+                                                                            PO BOX 2970
+    2095 MATHESON BLVD E
+    MISSISSAUGA                                                            WINNIPEG
+    ON                                                                     MB
+    L4W 0G2                                                                R3C 4B5
+    Canada                                                                  Canada
+    Address ID:                                                               Address ID: CA1_2751
+    CA1_ARIBA_PAYABLES
+==================================<Page 8 - END>================================
+==================================<Page 9 - START>================================
+    Appendix
+    Line No.
+                PO Line No. Type
+                                                           Supplier Part No. / Description
+    20
+               2         Material
+                                                           KLN44200 / SKINNING KNIFE,6-1/4 IN
+    Additional Details:
+    Supplier Part ID : KLN44200
+    Line No.
+                PO Line No. Type                           Supplier Part No. / Description
+    30
+               3
+                           Material                         ANL37-175-11VP / SOLVEX 37-175 NIT COTFLK 15MIL 13&quot;VP S11
+    Additional Details:
+    Supplier Part ID : ANL37-175-11VP
+    Line No.
+                PO Line No. Type
+                                                           Supplier Part No. / Description
+    40
+                4
+                           Material                         ANL37-175-8VP / SOLVEX 37-175 NIT COTFLK 15MIL 13&quOt;VP S8
+    Additional Details:
+    Supplier Part ID : ANL37-175-8VP
+    Line No.
+                PO Line No. Type                           Supplier Part No. / Description
+    50
+                5
+                           Material                         ANL37-175-10VP / SOLVEX 37-175 NIT COTFLK 15MIL 13&quot;VP S10
+    Additional Details:
+    Supplier Part ID : ANL37-175-10VP
+    Line No.
+                PO Line No. Type                            Supplier Part No. / Description
+    60
+                6          Material
+                                                           ANL37-175-9VP / SOLVEX 37-175 NIT COTFLK 15MIL 13&quOt;VP S9
+    Additional Details:
+    Supplier Part ID : ANL37-175-9VP
+    Line No.    PO Line No. Type
+                                                           Supplier Part No. / Description
+    70        7          Material
+                                                           ANL11-644-9PP / HYFLEX 11-644 A2 PU 13G HPPE VEND S9
+    Additional Details:
+     Supplier Part ID : ANL11-644-9PP
+    Line No.
+                PO Line No. Type
+                                                           Supplier Part No. / Description
+    80        8          Material
+                                                           ANL11738060PR / COATED GLVS,NITRILE,6,BLK/GY,PR
+    Additional Details:
+     Supplier Part ID : ANL11738060PR
+    Line No.    PO Line No. Type
+                                                           Supplier Part No. / Description
+     90
+                9          Material                         ANL11738090PR / COATED GLVS,NITRILE,9,BLK/GY,PR
+     Additional Details:
+     Supplier Part ID : ANL11738090PR
+     Line No.    PO Line No. Type                            Supplier Part No. / Description
+     100
+                10        Material                         ANL11738070PR / COATED GLVS,NITRILE,7,BLK/GY,PR
+     Additional Details:
+     Supplier Part ID : ANL11738070PR
+     Line No.    PO Line No. Type
+                                                           Supplier Part No. / Description
+     110       11        Material
+                                                          ANL11738080PR / COATED GLVS,NITRILE,8,BLK/GY,PR
+     Additional Details:
+     Supplier Part ID : ANL11738080PR
+     Line No.    PO Line No. Type                            Supplier Part No. / Description
+     120       12        Material                         ANL11-644-8PP / HYFLEX 11-644 A2 PU 13G HPPE VEND S8
+     Additional Details:
+      Supplier Part ID : ANL11-644-8PP
+     Line No.    PO Line No. Type                            Supplier Part No. / Description
+     130       13        Material                          ANL11-644-7PP / HYFLEX 11-644 A2 PU 13G HPPE VEND S7
+     Additional Details:
+      Supplier Part ID : ANL11-644-7PP
+     Line No.    PO Line No. Type                            Supplier Part No. / Description
+     140      14        Material                         MMMSF201SGAFBLU / SAFETY GLASSES,BLUE,XYLEX
+     Additional Details:
+      Supplier Part ID : MMMSF201SGAFBLU
+     Line No.    PO Line No. Type
+                                                          Supplier Part No. / Description
+     150       15        Material                         ANL11-816-7 / COATED GLOVES,NITRILE/NYLON,7,BLK/BL,PR
+     Additional Details:
+      Supplier Part ID : ANL11-816-7
+     Line No.
+                PO Line No. Type                           Supplier Part No. / Description
+     160      16        Material                         ANL11-816-8 / COATED GLOVES,NITRILE/NYLON,8,BLK/BL,PR
+     Additional Details:
+      Supplier Part ID : ANL11-816-8
+     Line No.   PO Line No. Type                           Supplier Part No. / Description
+     170      17        Material                         BESD48A-BE / METAL CUTTING SNIPS STRAIGHT
+     Additional Details:
+     Supplier Part ID : BESD48A-BE
+     Line No.    PO Line No. Type                           Supplier Part No. / Description
+     180
+               18        Material                         ANL11-816-9 / COATED GLOVES,NITRILE/NYLON,9,BLK/BL,PR
+     Additional Details:
+     Supplier Part ID : ANL11-816-9
+    PDF generated on Friday 13 Feb. 2026 6:17 a.m. GMT-08:00
+==================================<Page 9 - END>================================

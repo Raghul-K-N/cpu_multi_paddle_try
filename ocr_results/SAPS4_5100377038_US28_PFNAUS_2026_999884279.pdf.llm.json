@@ -1,0 +1,59 @@
+{
+  "invoice_data": {
+    "invoice_number": "868703968",
+    "invoice_date": "02/11/2026",
+    "invoice_amount": "75.93",
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": "4.53",
+    "po_number": [
+      "4505148372"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "GRAINGER",
+    "vendor_address": "78 JEFFERSON BLVD, WARWICK, RI 02888-1064",
+    "po_line_items": [
+      {
+        "description": "FLAP DISC, 4 1/2 IN DIA, 5/8 IN ARBOR",
+        "quantity": 10.0,
+        "net_price": 7.14
+      }
+    ],
+    "vat_amount": null,
+    "gl_account": null,
+    "bank_name": null,
+    "account_holder_name": null,
+    "banking_account_number": null,
+    "remit_to_address": null,
+    "bill_to_address": null,
+    "transaction_type": "debit"
+  },
+  "filename": "SAPS4_5100377038_US28_PFNAUS_2026_999884279.pdf",
+  "raw_response": {
+    "invoice_number": "868703968",
+    "invoice_date": "02/11/2026",
+    "invoice_amount": "75.93",
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": "4.53",
+    "po_number": [
+      "4505148372"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "GRAINGER",
+    "vendor_address": "78 JEFFERSON BLVD, WARWICK, RI 02888-1064",
+    "po_line_items": [
+      {
+        "description": "FLAP DISC, 4 1/2 IN DIA, 5/8 IN ARBOR",
+        "quantity": 10.0,
+        "net_price": 7.14
+      }
+    ]
+  }
+}

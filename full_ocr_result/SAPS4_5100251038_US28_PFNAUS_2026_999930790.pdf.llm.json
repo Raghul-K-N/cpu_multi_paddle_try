@@ -1,0 +1,99 @@
+{
+  "invoice_data": {
+    "invoice_number": "459315700001",
+    "invoice_date": "Thursday 12 Feb 2026 12:00 PM GMT-05:00",
+    "invoice_amount": "118.57",
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": "9.29",
+    "po_number": [
+      "M413552635"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "ODP BUSINESS SOLUTIONS, LLC",
+    "vendor_address": "ODP BUSINESS SOLUTIONS, LLC, 6600 North Military Trail, Boca Raton, FL 33496, United States, JONESBORO, AR 724019170",
+    "po_line_items": [
+      {
+        "description": "TAPE.INVISIBLE.3/4X1000.10/PK",
+        "quantity": 5.0,
+        "net_price": 4.32
+      },
+      {
+        "description": "STENO, 70CT., GREGG RULE, WHI",
+        "quantity": 5.0,
+        "net_price": 5.71
+      },
+      {
+        "description": "HIGHLIGHTER,12PK.ASSORTED",
+        "quantity": 2.0,
+        "net_price": 8.69
+      },
+      {
+        "description": "BALL POINT PEN BLACK 50 CT",
+        "quantity": 5.0,
+        "net_price": 5.95
+      },
+      {
+        "description": "HIGHLIGHTER,BRITE LINERAST,24",
+        "quantity": 3.0,
+        "net_price": 4.0
+      }
+    ],
+    "vat_amount": null,
+    "gl_account": null,
+    "bank_name": null,
+    "account_holder_name": null,
+    "banking_account_number": null,
+    "remit_to_address": null,
+    "bill_to_address": null,
+    "transaction_type": "debit"
+  },
+  "filename": "SAPS4_5100251038_US28_PFNAUS_2026_999930790.pdf",
+  "raw_response": {
+    "invoice_number": "459315700001",
+    "invoice_date": "Thursday 12 Feb 2026 12:00 PM GMT-05:00",
+    "invoice_amount": "118.57",
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": "9.29",
+    "po_number": [
+      "M413552635"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "ODP BUSINESS SOLUTIONS, LLC",
+    "vendor_address": "ODP BUSINESS SOLUTIONS, LLC, 6600 North Military Trail, Boca Raton, FL 33496, United States, JONESBORO, AR 724019170",
+    "po_line_items": [
+      {
+        "description": "TAPE.INVISIBLE.3/4X1000.10/PK",
+        "quantity": 5.0,
+        "net_price": 4.32
+      },
+      {
+        "description": "STENO, 70CT., GREGG RULE, WHI",
+        "quantity": 5.0,
+        "net_price": 5.71
+      },
+      {
+        "description": "HIGHLIGHTER,12PK.ASSORTED",
+        "quantity": 2.0,
+        "net_price": 8.69
+      },
+      {
+        "description": "BALL POINT PEN BLACK 50 CT",
+        "quantity": 5.0,
+        "net_price": 5.95
+      },
+      {
+        "description": "HIGHLIGHTER,BRITE LINERAST,24",
+        "quantity": 3.0,
+        "net_price": 4.0
+      }
+    ]
+  }
+}

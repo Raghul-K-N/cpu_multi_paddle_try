@@ -1,0 +1,59 @@
+{
+  "invoice_data": {
+    "invoice_number": "982611D",
+    "invoice_date": "2/5/2026",
+    "invoice_amount": "4,002.77",
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": "136.17",
+    "po_number": [
+      "23570265"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "TEC Equipment - Reno (P746)",
+    "vendor_address": "1955 E Greg St, Sparks, NV 89431",
+    "po_line_items": [
+      {
+        "description": "BREATHER,CRANKCASE",
+        "quantity": 1.0,
+        "net_price": 3574.39
+      }
+    ],
+    "vat_amount": null,
+    "gl_account": null,
+    "bank_name": null,
+    "account_holder_name": null,
+    "banking_account_number": null,
+    "remit_to_address": null,
+    "bill_to_address": null,
+    "transaction_type": "debit"
+  },
+  "filename": "SAPS4_5100079012_US30_PFNAUS_2026_999936052.pdf",
+  "raw_response": {
+    "invoice_number": "982611D",
+    "invoice_date": "2/5/2026",
+    "invoice_amount": "4,002.77",
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": "136.17",
+    "po_number": [
+      "23570265"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "TEC Equipment - Reno (P746)",
+    "vendor_address": "1955 E Greg St, Sparks, NV 89431",
+    "po_line_items": [
+      {
+        "description": "BREATHER,CRANKCASE",
+        "quantity": 1.0,
+        "net_price": 3574.39
+      }
+    ]
+  }
+}

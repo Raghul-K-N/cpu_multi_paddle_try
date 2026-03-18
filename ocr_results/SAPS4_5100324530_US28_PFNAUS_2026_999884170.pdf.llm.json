@@ -1,0 +1,59 @@
+{
+  "invoice_data": {
+    "invoice_number": "2911838578",
+    "invoice_date": "12/19/2025",
+    "invoice_amount": null,
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": null,
+    "po_number": [
+      "4504479443-10"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "Cargill, Incorporated",
+    "vendor_address": "PO Box 843973, 15407 MCGINTY ROAD WEST, WAYZATA MN 55391, USA, USA",
+    "po_line_items": [
+      {
+        "description": "RBD CORN OIL KP BLK",
+        "quantity": 183978.0,
+        "net_price": 122345.37
+      }
+    ],
+    "vat_amount": null,
+    "gl_account": null,
+    "bank_name": null,
+    "account_holder_name": null,
+    "banking_account_number": null,
+    "remit_to_address": null,
+    "bill_to_address": null,
+    "transaction_type": "debit"
+  },
+  "filename": "SAPS4_5100324530_US28_PFNAUS_2026_999884170.pdf",
+  "raw_response": {
+    "invoice_number": "2911838578",
+    "invoice_date": "12/19/2025",
+    "invoice_amount": null,
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": null,
+    "po_number": [
+      "4504479443-10"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "Cargill, Incorporated",
+    "vendor_address": "PO Box 843973, 15407 MCGINTY ROAD WEST, WAYZATA MN 55391, USA, USA",
+    "po_line_items": [
+      {
+        "description": "RBD CORN OIL KP BLK",
+        "quantity": 183978.0,
+        "net_price": 122345.37
+      }
+    ]
+  }
+}

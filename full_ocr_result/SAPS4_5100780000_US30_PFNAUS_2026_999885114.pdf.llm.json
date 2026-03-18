@@ -1,0 +1,59 @@
+{
+  "invoice_data": {
+    "invoice_number": "XA038830701",
+    "invoice_date": "12/31/2025",
+    "invoice_amount": "-378.88",
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": "28.88",
+    "po_number": [
+      "23335368"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": "0.00",
+    "cost_center": null,
+    "vendor_name": "Bruckner's Truck & Equipment - Dallas Irving Blvd",
+    "vendor_address": "3611 Irving Blvd, Dallas, TX 75247",
+    "po_line_items": [
+      {
+        "description": "KIT,TURBOCHARGER",
+        "quantity": 1.0,
+        "net_price": 350.0
+      }
+    ],
+    "vat_amount": null,
+    "gl_account": null,
+    "bank_name": null,
+    "account_holder_name": null,
+    "banking_account_number": null,
+    "remit_to_address": null,
+    "bill_to_address": null,
+    "transaction_type": "credit"
+  },
+  "filename": "SAPS4_5100780000_US30_PFNAUS_2026_999885114.pdf",
+  "raw_response": {
+    "invoice_number": "XA038830701",
+    "invoice_date": "12/31/2025",
+    "invoice_amount": "-378.88",
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": "28.88",
+    "po_number": [
+      "23335368"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": "0.00",
+    "cost_center": null,
+    "vendor_name": "Bruckner's Truck & Equipment - Dallas Irving Blvd",
+    "vendor_address": "3611 Irving Blvd, Dallas, TX 75247",
+    "po_line_items": [
+      {
+        "description": "KIT,TURBOCHARGER",
+        "quantity": 1.0,
+        "net_price": 350.0
+      }
+    ]
+  }
+}

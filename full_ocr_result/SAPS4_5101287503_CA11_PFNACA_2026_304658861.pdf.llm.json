@@ -1,0 +1,139 @@
+{
+  "invoice_data": {
+    "invoice_number": "9004199608",
+    "invoice_date": "01/30/2026",
+    "invoice_amount": "9463.75",
+    "invoice_currency": [
+      "CAD"
+    ],
+    "tax_amount": "1088.75",
+    "po_number": [
+      "4503833424"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "Schawk Canada Inc.",
+    "vendor_address": "1620 Tech Avenue, Mississauga ON L4W 5P4, Canada",
+    "po_line_items": [
+      {
+        "description": "BP323971 Cheetos Cheesy Bacon Puffs Dollarama LTO 2026",
+        "quantity": null,
+        "net_price": null
+      },
+      {
+        "description": "Mechanical Art",
+        "quantity": null,
+        "net_price": null
+      },
+      {
+        "description": "Kam Kit",
+        "quantity": null,
+        "net_price": null
+      },
+      {
+        "description": "Separations",
+        "quantity": null,
+        "net_price": null
+      },
+      {
+        "description": "3D's",
+        "quantity": null,
+        "net_price": null
+      },
+      {
+        "description": "eContent",
+        "quantity": null,
+        "net_price": null
+      },
+      {
+        "description": "Mobile Ready Hero Image",
+        "quantity": null,
+        "net_price": null
+      },
+      {
+        "description": "Claim Tiles",
+        "quantity": null,
+        "net_price": null
+      },
+      {
+        "description": "MRHI Template",
+        "quantity": null,
+        "net_price": null
+      }
+    ],
+    "vat_amount": null,
+    "gl_account": null,
+    "bank_name": null,
+    "account_holder_name": null,
+    "banking_account_number": null,
+    "remit_to_address": null,
+    "bill_to_address": null,
+    "transaction_type": "debit"
+  },
+  "filename": "SAPS4_5101287503_CA11_PFNACA_2026_304658861.pdf",
+  "raw_response": {
+    "invoice_number": "9004199608",
+    "invoice_date": "01/30/2026",
+    "invoice_amount": "9463.75",
+    "invoice_currency": [
+      "CAD"
+    ],
+    "tax_amount": "1088.75",
+    "po_number": [
+      "4503833424"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "Schawk Canada Inc.",
+    "vendor_address": "1620 Tech Avenue, Mississauga ON L4W 5P4, Canada",
+    "po_line_items": [
+      {
+        "description": "BP323971 Cheetos Cheesy Bacon Puffs Dollarama LTO 2026",
+        "quantity": null,
+        "net_price": null
+      },
+      {
+        "description": "Mechanical Art",
+        "quantity": null,
+        "net_price": null
+      },
+      {
+        "description": "Kam Kit",
+        "quantity": null,
+        "net_price": null
+      },
+      {
+        "description": "Separations",
+        "quantity": null,
+        "net_price": null
+      },
+      {
+        "description": "3D's",
+        "quantity": null,
+        "net_price": null
+      },
+      {
+        "description": "eContent",
+        "quantity": null,
+        "net_price": null
+      },
+      {
+        "description": "Mobile Ready Hero Image",
+        "quantity": null,
+        "net_price": null
+      },
+      {
+        "description": "Claim Tiles",
+        "quantity": null,
+        "net_price": null
+      },
+      {
+        "description": "MRHI Template",
+        "quantity": null,
+        "net_price": null
+      }
+    ]
+  }
+}

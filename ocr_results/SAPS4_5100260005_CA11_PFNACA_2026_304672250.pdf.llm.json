@@ -1,0 +1,69 @@
+{
+  "invoice_data": {
+    "invoice_number": "5404976156",
+    "invoice_date": "02-FEB-26",
+    "invoice_amount": "365.40",
+    "invoice_currency": [
+      "CAD"
+    ],
+    "tax_amount": "17.40",
+    "po_number": [
+      "4504480027"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "UHAUL",
+    "vendor_address": "U-Haul, PO BOX 52128, PHOENIX AZ 85072-2128",
+    "po_line_items": [
+      {
+        "description": "1 15'TRUCK (DC1266Y) ODOM OUT: 104565 ODOM IN: 104720",
+        "quantity": 1.0,
+        "net_price": 344.0
+      },
+      {
+        "description": "ENVIRONMENTAL FEE",
+        "quantity": 1.0,
+        "net_price": 4.0
+      }
+    ],
+    "vat_amount": null,
+    "gl_account": null,
+    "bank_name": null,
+    "account_holder_name": null,
+    "banking_account_number": null,
+    "remit_to_address": null,
+    "bill_to_address": null,
+    "transaction_type": "debit"
+  },
+  "filename": "SAPS4_5100260005_CA11_PFNACA_2026_304672250.pdf",
+  "raw_response": {
+    "invoice_number": "5404976156",
+    "invoice_date": "02-FEB-26",
+    "invoice_amount": "365.40",
+    "invoice_currency": [
+      "CAD"
+    ],
+    "tax_amount": "17.40",
+    "po_number": [
+      "4504480027"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "UHAUL",
+    "vendor_address": "U-Haul, PO BOX 52128, PHOENIX AZ 85072-2128",
+    "po_line_items": [
+      {
+        "description": "1 15'TRUCK (DC1266Y) ODOM OUT: 104565 ODOM IN: 104720",
+        "quantity": 1.0,
+        "net_price": 344.0
+      },
+      {
+        "description": "ENVIRONMENTAL FEE",
+        "quantity": 1.0,
+        "net_price": 4.0
+      }
+    ]
+  }
+}

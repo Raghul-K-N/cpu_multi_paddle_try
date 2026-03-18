@@ -1,0 +1,73 @@
+{
+  "invoice_data": {
+    "invoice_number": "IN1274464",
+    "invoice_date": "2/3/2026",
+    "invoice_amount": null,
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": null,
+    "po_number": [
+      "PB1311763",
+      "4504883275",
+      "QP671633"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": "105.80",
+    "cost_center": null,
+    "vendor_name": "Cisco-Eagle Inc",
+    "vendor_address": "Cisco-Eagle, Inc. Dept 1225 10015 E 51st Street Tulsa, OK 74182-1225",
+    "po_line_items": [
+      {
+        "description": "6\" Pulley",
+        "quantity": 2.0,
+        "net_price": 376.85
+      },
+      {
+        "description": "Freight-Out",
+        "quantity": 1.0,
+        "net_price": 105.8
+      }
+    ],
+    "vat_amount": null,
+    "gl_account": null,
+    "bank_name": null,
+    "account_holder_name": null,
+    "banking_account_number": null,
+    "remit_to_address": null,
+    "bill_to_address": null,
+    "transaction_type": "debit"
+  },
+  "filename": "SAPS4_5100187029_US28_PFNAUS_2026_999884377.pdf",
+  "raw_response": {
+    "invoice_number": "IN1274464",
+    "invoice_date": "2/3/2026",
+    "invoice_amount": "../../../859.50",
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": null,
+    "po_number": [
+      "PB1311763",
+      "4504883275",
+      "QP671633"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": "105.80",
+    "cost_center": null,
+    "vendor_name": "Cisco-Eagle Inc",
+    "vendor_address": "Cisco-Eagle, Inc. Dept 1225 10015 E 51st Street Tulsa, OK 74182-1225",
+    "po_line_items": [
+      {
+        "description": "6\" Pulley",
+        "quantity": 2.0,
+        "net_price": 376.85
+      },
+      {
+        "description": "Freight-Out",
+        "quantity": 1.0,
+        "net_price": 105.8
+      }
+    ]
+  }
+}

@@ -1,0 +1,59 @@
+{
+  "invoice_data": {
+    "invoice_number": "6000936250",
+    "invoice_date": "Feb 03, 2026",
+    "invoice_amount": "105.62",
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": null,
+    "po_number": [
+      "4504978336"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": "8.54",
+    "cost_center": null,
+    "vendor_name": "SICK Inc.",
+    "vendor_address": "SICK Inc. · 2700 Lindau Lane · Minneapolis, MN 55425 · USA",
+    "po_line_items": [
+      {
+        "description": "GL6-P6111P13 REF.PHOTOELEC.SWITCH Photoelectric sensors G6 Sensing range max.: 0.03 m ... 6 m Functional principle: Photoelectric retro-reflective sensor Functional principle detail: With minimum distance to reflector (dual lens system) Switching output: PNP Switching mode: Light/dark switching Connection type: Cable with M8 male connector, 4-pin Light source: PinPoint LED Type of light: Visible red light Housing material: ABS/PC Adjustment: None Special features: Special mounting bracket Housing: Rectangular Included with delivery: Special mounting bracket",
+        "quantity": 1.0,
+        "net_price": 72.32
+      }
+    ],
+    "vat_amount": null,
+    "gl_account": null,
+    "bank_name": null,
+    "account_holder_name": null,
+    "banking_account_number": null,
+    "remit_to_address": null,
+    "bill_to_address": null,
+    "transaction_type": "debit"
+  },
+  "filename": "SAPS4_5100540531_US28_PFNAUS_2026_999884567.pdf",
+  "raw_response": {
+    "invoice_number": "6000936250",
+    "invoice_date": "Feb 03, 2026",
+    "invoice_amount": "105.62",
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": null,
+    "po_number": [
+      "4504978336"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": "8.54",
+    "cost_center": null,
+    "vendor_name": "SICK Inc.",
+    "vendor_address": "SICK Inc. · 2700 Lindau Lane · Minneapolis, MN 55425 · USA",
+    "po_line_items": [
+      {
+        "description": "GL6-P6111P13 REF.PHOTOELEC.SWITCH Photoelectric sensors G6 Sensing range max.: 0.03 m ... 6 m Functional principle: Photoelectric retro-reflective sensor Functional principle detail: With minimum distance to reflector (dual lens system) Switching output: PNP Switching mode: Light/dark switching Connection type: Cable with M8 male connector, 4-pin Light source: PinPoint LED Type of light: Visible red light Housing material: ABS/PC Adjustment: None Special features: Special mounting bracket Housing: Rectangular Included with delivery: Special mounting bracket",
+        "quantity": 1.0,
+        "net_price": 72.32
+      }
+    ]
+  }
+}

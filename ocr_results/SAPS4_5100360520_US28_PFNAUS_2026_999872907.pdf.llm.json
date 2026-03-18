@@ -1,0 +1,59 @@
+{
+  "invoice_data": {
+    "invoice_number": "980519419926",
+    "invoice_date": "Thursday 12 Feb 2026 5:29 AM GMT-07:00",
+    "invoice_amount": "33.97",
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": "2.22",
+    "po_number": [
+      "M413552894"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "GRAINGER",
+    "vendor_address": "100 Grainger Pkwy, Lake Forest, IL, United States",
+    "po_line_items": [
+      {
+        "description": "24K913 / HxHdCpScrw,SS.1.5,1/2-13,10PK",
+        "quantity": 5.0,
+        "net_price": 31.75
+      }
+    ],
+    "vat_amount": null,
+    "gl_account": null,
+    "bank_name": null,
+    "account_holder_name": null,
+    "banking_account_number": null,
+    "remit_to_address": null,
+    "bill_to_address": null,
+    "transaction_type": "debit"
+  },
+  "filename": "SAPS4_5100360520_US28_PFNAUS_2026_999872907.pdf",
+  "raw_response": {
+    "invoice_number": "980519419926",
+    "invoice_date": "Thursday 12 Feb 2026 5:29 AM GMT-07:00",
+    "invoice_amount": "33.97",
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": "2.22",
+    "po_number": [
+      "M413552894"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "GRAINGER",
+    "vendor_address": "100 Grainger Pkwy, Lake Forest, IL, United States",
+    "po_line_items": [
+      {
+        "description": "24K913 / HxHdCpScrw,SS.1.5,1/2-13,10PK",
+        "quantity": 5.0,
+        "net_price": 31.75
+      }
+    ]
+  }
+}

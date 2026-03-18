@@ -1,0 +1,59 @@
+{
+  "invoice_data": {
+    "invoice_number": "81935",
+    "invoice_date": "2/1/2026",
+    "invoice_amount": "297.00",
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": null,
+    "po_number": [
+      "M413382642"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "SERVICEMASTER HOME & OFFICE",
+    "vendor_address": "128 E. Grant Street, Alpena, MI 49707",
+    "po_line_items": [
+      {
+        "description": "Janitorial Services Mfg/Warehouse Cleaning",
+        "quantity": null,
+        "net_price": 297.0
+      }
+    ],
+    "vat_amount": null,
+    "gl_account": null,
+    "bank_name": null,
+    "account_holder_name": null,
+    "banking_account_number": null,
+    "remit_to_address": null,
+    "bill_to_address": null,
+    "transaction_type": "debit"
+  },
+  "filename": "SAPS4_5100001581_US29_PFNAUS_2026_999884410.pdf",
+  "raw_response": {
+    "invoice_number": "81935",
+    "invoice_date": "2/1/2026",
+    "invoice_amount": "297.00",
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": null,
+    "po_number": [
+      "M413382642"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "SERVICEMASTER HOME & OFFICE",
+    "vendor_address": "128 E. Grant Street, Alpena, MI 49707",
+    "po_line_items": [
+      {
+        "description": "Janitorial Services Mfg/Warehouse Cleaning",
+        "quantity": null,
+        "net_price": 297.0
+      }
+    ]
+  }
+}

@@ -1,0 +1,109 @@
+{
+  "invoice_data": {
+    "invoice_number": "459515510001",
+    "invoice_date": "Friday 13 Feb 2026 12:00 PM GMT-05:00",
+    "invoice_amount": "371.70",
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": "19.37",
+    "po_number": [
+      "M413554230"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "ODP BUSINESS SOLUTIONS, LLC",
+    "vendor_address": "6600 North Military Trail, Boca Raton, FL 33496, US, 782185336, United States, Address ID: 2447",
+    "po_line_items": [
+      {
+        "description": "CLIP.PAPER,JMB,SMTH,OD,10PK",
+        "quantity": 1.0,
+        "net_price": 4.55
+      },
+      {
+        "description": "SPRAY.DSNFCT.CRISPLINEN 12/CT",
+        "quantity": 1.0,
+        "net_price": 117.64
+      },
+      {
+        "description": "WIPES.CLEANER,LYSOL.6/CT",
+        "quantity": 1.0,
+        "net_price": 57.99
+      },
+      {
+        "description": "CLNR,WIPE,DSINFT,CTRS, 12EA/CA",
+        "quantity": 2.0,
+        "net_price": 40.19
+      },
+      {
+        "description": "BTY 1 12DR SAS WH 82CT LCP US",
+        "quantity": 1.0,
+        "net_price": 35.37
+      },
+      {
+        "description": "CLEANER,MLTSFC,WINDX,BE",
+        "quantity": 1.0,
+        "net_price": 35.37
+      }
+    ],
+    "vat_amount": null,
+    "gl_account": null,
+    "bank_name": null,
+    "account_holder_name": null,
+    "banking_account_number": null,
+    "remit_to_address": null,
+    "bill_to_address": null,
+    "transaction_type": "debit"
+  },
+  "filename": "SAPS4_5100029518_US30_PFNAUS_2026_999930746.pdf",
+  "raw_response": {
+    "invoice_number": "459515510001",
+    "invoice_date": "Friday 13 Feb 2026 12:00 PM GMT-05:00",
+    "invoice_amount": "371.70",
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": "19.37",
+    "po_number": [
+      "M413554230"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "ODP BUSINESS SOLUTIONS, LLC",
+    "vendor_address": "6600 North Military Trail, Boca Raton, FL 33496, US, 782185336, United States, Address ID: 2447",
+    "po_line_items": [
+      {
+        "description": "CLIP.PAPER,JMB,SMTH,OD,10PK",
+        "quantity": 1.0,
+        "net_price": 4.55
+      },
+      {
+        "description": "SPRAY.DSNFCT.CRISPLINEN 12/CT",
+        "quantity": 1.0,
+        "net_price": 117.64
+      },
+      {
+        "description": "WIPES.CLEANER,LYSOL.6/CT",
+        "quantity": 1.0,
+        "net_price": 57.99
+      },
+      {
+        "description": "CLNR,WIPE,DSINFT,CTRS, 12EA/CA",
+        "quantity": 2.0,
+        "net_price": 40.19
+      },
+      {
+        "description": "BTY 1 12DR SAS WH 82CT LCP US",
+        "quantity": 1.0,
+        "net_price": 35.37
+      },
+      {
+        "description": "CLEANER,MLTSFC,WINDX,BE",
+        "quantity": 1.0,
+        "net_price": 35.37
+      }
+    ]
+  }
+}

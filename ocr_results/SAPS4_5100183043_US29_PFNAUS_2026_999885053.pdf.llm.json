@@ -1,0 +1,47 @@
+{
+  "invoice_data": {
+    "invoice_number": "258175777-001",
+    "invoice_date": "01/29/26",
+    "invoice_amount": "1222.40",
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": "13.44",
+    "po_number": [
+      "M413533534"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": "326.00",
+    "cost_center": null,
+    "vendor_name": "UNITED RENTALS (NORTH AMERICA),INC.",
+    "vendor_address": "PO BOX 100711, ATLANTA GA 30384-0711",
+    "po_line_items": null,
+    "vat_amount": null,
+    "gl_account": null,
+    "bank_name": null,
+    "account_holder_name": null,
+    "banking_account_number": null,
+    "remit_to_address": null,
+    "bill_to_address": null,
+    "transaction_type": "debit"
+  },
+  "filename": "SAPS4_5100183043_US29_PFNAUS_2026_999885053.pdf",
+  "raw_response": {
+    "invoice_number": "258175777-001",
+    "invoice_date": "01/29/26",
+    "invoice_amount": "1222.40",
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": "13.44",
+    "po_number": [
+      "M413533534"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": "326.00",
+    "cost_center": null,
+    "vendor_name": "UNITED RENTALS (NORTH AMERICA),INC.",
+    "vendor_address": "PO BOX 100711, ATLANTA GA 30384-0711",
+    "po_line_items": null
+  }
+}

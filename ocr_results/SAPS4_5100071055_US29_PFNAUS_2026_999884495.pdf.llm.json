@@ -1,0 +1,51 @@
+{
+  "invoice_data": {
+    "invoice_number": "SVC/272-606047",
+    "invoice_date": "02-06-2026",
+    "invoice_amount": "227.50",
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": null,
+    "po_number": [
+      "M413539695",
+      "120035",
+      "500263"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "DH Pace Company",
+    "vendor_address": "1935 Victor Place, Suite E, Colorado Springs, CO 80915, 719-572-5548",
+    "po_line_items": null,
+    "vat_amount": null,
+    "gl_account": null,
+    "bank_name": null,
+    "account_holder_name": null,
+    "banking_account_number": null,
+    "remit_to_address": null,
+    "bill_to_address": null,
+    "transaction_type": "debit"
+  },
+  "filename": "SAPS4_5100071055_US29_PFNAUS_2026_999884495.pdf",
+  "raw_response": {
+    "invoice_number": "SVC/272-606047",
+    "invoice_date": "02-06-2026",
+    "invoice_amount": "227.50",
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": null,
+    "po_number": [
+      "M413539695",
+      "120035",
+      "500263"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "DH Pace Company",
+    "vendor_address": "1935 Victor Place, Suite E, Colorado Springs, CO 80915, 719-572-5548",
+    "po_line_items": null
+  }
+}

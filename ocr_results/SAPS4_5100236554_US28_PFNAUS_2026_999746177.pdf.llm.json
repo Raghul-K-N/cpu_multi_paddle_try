@@ -1,0 +1,69 @@
+{
+  "invoice_data": {
+    "invoice_number": "53672894",
+    "invoice_date": "Wednesday 11 Feb 2026 12:00 PM GMT-06:00",
+    "invoice_amount": "2,898.94",
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": "231.79",
+    "po_number": [
+      "M413370252"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": "120.00",
+    "cost_center": null,
+    "vendor_name": "Univar Solutions USA LLC",
+    "vendor_address": "6000 Parkwood PI, Dublin, OH 43016, United States; Address ID: US28",
+    "po_line_items": [
+      {
+        "description": "Material Not Available / Blanket PO 2026",
+        "quantity": 2547.15,
+        "net_price": 1.0
+      },
+      {
+        "description": "SULFURIC ACID 93% 66B MNBULK",
+        "quantity": 425.0,
+        "net_price": 5.9933
+      }
+    ],
+    "vat_amount": null,
+    "gl_account": null,
+    "bank_name": null,
+    "account_holder_name": null,
+    "banking_account_number": null,
+    "remit_to_address": null,
+    "bill_to_address": null,
+    "transaction_type": "debit"
+  },
+  "filename": "SAPS4_5100236554_US28_PFNAUS_2026_999746177.pdf",
+  "raw_response": {
+    "invoice_number": "53672894",
+    "invoice_date": "Wednesday 11 Feb 2026 12:00 PM GMT-06:00",
+    "invoice_amount": "2,898.94",
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": "231.79",
+    "po_number": [
+      "M413370252"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": "120.00",
+    "cost_center": null,
+    "vendor_name": "Univar Solutions USA LLC",
+    "vendor_address": "6000 Parkwood PI, Dublin, OH 43016, United States; Address ID: US28",
+    "po_line_items": [
+      {
+        "description": "Material Not Available / Blanket PO 2026",
+        "quantity": 2547.15,
+        "net_price": 1.0
+      },
+      {
+        "description": "SULFURIC ACID 93% 66B MNBULK",
+        "quantity": 425.0,
+        "net_price": 5.9933
+      }
+    ]
+  }
+}

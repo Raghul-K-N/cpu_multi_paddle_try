@@ -1,0 +1,43 @@
+{
+  "invoice_data": {
+    "invoice_number": "R52081",
+    "invoice_date": "01/30/2026",
+    "invoice_amount": null,
+    "invoice_currency": null,
+    "tax_amount": null,
+    "po_number": [
+      "4504799456"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "Diamond International Trucks Ltd.",
+    "vendor_address": "17020-118 Avenue, Edmonton, AB T5S 1S4",
+    "po_line_items": null,
+    "vat_amount": null,
+    "gl_account": null,
+    "bank_name": null,
+    "account_holder_name": null,
+    "banking_account_number": null,
+    "remit_to_address": null,
+    "bill_to_address": null,
+    "transaction_type": "debit"
+  },
+  "filename": "SAPS4_5101601002_CA11_PFNACA_2026_304654820.pdf",
+  "raw_response": {
+    "invoice_number": "R52081",
+    "invoice_date": "01/30/2026",
+    "invoice_amount": null,
+    "invoice_currency": null,
+    "tax_amount": null,
+    "po_number": [
+      "4504799456"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "Diamond International Trucks Ltd.",
+    "vendor_address": "17020-118 Avenue, Edmonton, AB T5S 1S4",
+    "po_line_items": null
+  }
+}

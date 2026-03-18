@@ -1,0 +1,69 @@
+{
+  "invoice_data": {
+    "invoice_number": "XA038293501",
+    "invoice_date": "12/4/2025",
+    "invoice_amount": "-5453.02",
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": "415.58",
+    "po_number": [
+      "23527824"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "Bruckner's Truck & Equipment",
+    "vendor_address": "Bruckner's Truck & Equipment - Dallas Irving Blvd, 3611 Irving Blvd, Dallas, TX 75247",
+    "po_line_items": [
+      {
+        "description": "TURBO KIT",
+        "quantity": 1.0,
+        "net_price": 840.0
+      },
+      {
+        "description": "TURBO KIT",
+        "quantity": 1.0,
+        "net_price": 415.58
+      }
+    ],
+    "vat_amount": null,
+    "gl_account": null,
+    "bank_name": null,
+    "account_holder_name": null,
+    "banking_account_number": null,
+    "remit_to_address": null,
+    "bill_to_address": null,
+    "transaction_type": "credit"
+  },
+  "filename": "SAPS4_5100775001_US30_PFNAUS_2026_999935758.pdf",
+  "raw_response": {
+    "invoice_number": "XA038293501",
+    "invoice_date": "12/4/2025",
+    "invoice_amount": "-5453.02",
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": "415.58",
+    "po_number": [
+      "23527824"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "Bruckner's Truck & Equipment",
+    "vendor_address": "Bruckner's Truck & Equipment - Dallas Irving Blvd, 3611 Irving Blvd, Dallas, TX 75247",
+    "po_line_items": [
+      {
+        "description": "TURBO KIT",
+        "quantity": 1.0,
+        "net_price": 840.0
+      },
+      {
+        "description": "TURBO KIT",
+        "quantity": 1.0,
+        "net_price": 415.58
+      }
+    ]
+  }
+}

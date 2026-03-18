@@ -1,0 +1,119 @@
+{
+  "invoice_data": {
+    "invoice_number": "741594",
+    "invoice_date": "10/29/25",
+    "invoice_amount": "23480.39",
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": null,
+    "po_number": [
+      "4503712861"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "a bw packaging company",
+    "vendor_address": "10 ASCOT PKWY, CUYAHOGA FALLS, OH 44223, UNITED STATES OF AMERICA",
+    "po_line_items": [
+      {
+        "description": "Specialist Travel Straight Time",
+        "quantity": 16.0,
+        "net_price": 195.0
+      },
+      {
+        "description": "Specialist Travel Overtime",
+        "quantity": 7.25,
+        "net_price": 312.0
+      },
+      {
+        "description": "Spec Travel Sun,Holi,or>12 Hrs",
+        "quantity": 3.0,
+        "net_price": 429.0
+      },
+      {
+        "description": "Specialist Labor Straight Time",
+        "quantity": 8.0,
+        "net_price": 195.0
+      },
+      {
+        "description": "Specialist Labor Overtime",
+        "quantity": 12.25,
+        "net_price": 312.0
+      },
+      {
+        "description": "Spec Lab Sun,Holi,or > 12 Hrs",
+        "quantity": 17.75,
+        "net_price": 429.0
+      },
+      {
+        "description": "TRAVEL EXPENSES",
+        "quantity": 1.0,
+        "net_price": 3814.64
+      }
+    ],
+    "vat_amount": null,
+    "gl_account": null,
+    "bank_name": null,
+    "account_holder_name": null,
+    "banking_account_number": null,
+    "remit_to_address": null,
+    "bill_to_address": null,
+    "transaction_type": "debit"
+  },
+  "filename": "SAPS4_5101082023_CA02_PBNACA_2026_328615342.pdf",
+  "raw_response": {
+    "invoice_number": "741594",
+    "invoice_date": "10/29/25",
+    "invoice_amount": "23480.39",
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": null,
+    "po_number": [
+      "4503712861"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "a bw packaging company",
+    "vendor_address": "10 ASCOT PKWY, CUYAHOGA FALLS, OH 44223, UNITED STATES OF AMERICA",
+    "po_line_items": [
+      {
+        "description": "Specialist Travel Straight Time",
+        "quantity": 16.0,
+        "net_price": 195.0
+      },
+      {
+        "description": "Specialist Travel Overtime",
+        "quantity": 7.25,
+        "net_price": 312.0
+      },
+      {
+        "description": "Spec Travel Sun,Holi,or>12 Hrs",
+        "quantity": 3.0,
+        "net_price": 429.0
+      },
+      {
+        "description": "Specialist Labor Straight Time",
+        "quantity": 8.0,
+        "net_price": 195.0
+      },
+      {
+        "description": "Specialist Labor Overtime",
+        "quantity": 12.25,
+        "net_price": 312.0
+      },
+      {
+        "description": "Spec Lab Sun,Holi,or > 12 Hrs",
+        "quantity": 17.75,
+        "net_price": 429.0
+      },
+      {
+        "description": "TRAVEL EXPENSES",
+        "quantity": 1.0,
+        "net_price": 3814.64
+      }
+    ]
+  }
+}

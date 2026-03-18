@@ -1,0 +1,47 @@
+{
+  "invoice_data": {
+    "invoice_number": "845812",
+    "invoice_date": "January 31, 2026",
+    "invoice_amount": "1762.80",
+    "invoice_currency": [
+      "CAD"
+    ],
+    "tax_amount": "202.80",
+    "po_number": [
+      "M412805745"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "Blaney McMurtry LLP",
+    "vendor_address": "2 Queen Street East Suite 1500, Toronto, Ontario M5C 3G5",
+    "po_line_items": null,
+    "vat_amount": null,
+    "gl_account": null,
+    "bank_name": null,
+    "account_holder_name": null,
+    "banking_account_number": null,
+    "remit_to_address": null,
+    "bill_to_address": null,
+    "transaction_type": "debit"
+  },
+  "filename": "SAPS4_5100919501_CA02_PBNACA_2026_328553517.pdf",
+  "raw_response": {
+    "invoice_number": "845812",
+    "invoice_date": "January 31, 2026",
+    "invoice_amount": "1762.80",
+    "invoice_currency": [
+      "CAD"
+    ],
+    "tax_amount": "202.80",
+    "po_number": [
+      "M412805745"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "Blaney McMurtry LLP",
+    "vendor_address": "2 Queen Street East Suite 1500, Toronto, Ontario M5C 3G5",
+    "po_line_items": null
+  }
+}

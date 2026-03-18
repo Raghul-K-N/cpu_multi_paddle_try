@@ -1,0 +1,99 @@
+{
+  "invoice_data": {
+    "invoice_number": "3010755864",
+    "invoice_date": "02/11/2026",
+    "invoice_amount": "16.09",
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": "0.97",
+    "po_number": [
+      "M412892929"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": "0.00",
+    "cost_center": null,
+    "vendor_name": "VESTIS",
+    "vendor_address": "PO BOX 28050, NEW YORK NY 10087-8050",
+    "po_line_items": [
+      {
+        "description": "SCRAPER MAT",
+        "quantity": 1.0,
+        "net_price": 1.49
+      },
+      {
+        "description": "SCRAPER MAT",
+        "quantity": 1.0,
+        "net_price": 0.74
+      },
+      {
+        "description": "SHOP TOWEL PLAIN",
+        "quantity": 400.0,
+        "net_price": 0.204
+      },
+      {
+        "description": "SHOP TOWEL PLAIN",
+        "quantity": 22.0,
+        "net_price": 0.204
+      },
+      {
+        "description": "LNDRY BAG ERGO",
+        "quantity": 0.0,
+        "net_price": 0.0
+      }
+    ],
+    "vat_amount": null,
+    "gl_account": null,
+    "bank_name": null,
+    "account_holder_name": null,
+    "banking_account_number": null,
+    "remit_to_address": null,
+    "bill_to_address": null,
+    "transaction_type": "debit"
+  },
+  "filename": "SAPS4_5100208046_US29_PFNAUS_2026_999885252.pdf",
+  "raw_response": {
+    "invoice_number": "3010755864",
+    "invoice_date": "02/11/2026",
+    "invoice_amount": "16.09",
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": "0.97",
+    "po_number": [
+      "M412892929"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": "0.00",
+    "cost_center": null,
+    "vendor_name": "VESTIS",
+    "vendor_address": "PO BOX 28050, NEW YORK NY 10087-8050",
+    "po_line_items": [
+      {
+        "description": "SCRAPER MAT",
+        "quantity": 1.0,
+        "net_price": 1.49
+      },
+      {
+        "description": "SCRAPER MAT",
+        "quantity": 1.0,
+        "net_price": 0.74
+      },
+      {
+        "description": "SHOP TOWEL PLAIN",
+        "quantity": 400.0,
+        "net_price": 0.204
+      },
+      {
+        "description": "SHOP TOWEL PLAIN",
+        "quantity": 22.0,
+        "net_price": 0.204
+      },
+      {
+        "description": "LNDRY BAG ERGO",
+        "quantity": 0.0,
+        "net_price": 0.0
+      }
+    ]
+  }
+}

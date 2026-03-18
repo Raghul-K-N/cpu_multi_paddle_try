@@ -1,0 +1,43 @@
+{
+  "invoice_data": {
+    "invoice_number": "DA0065137316",
+    "invoice_date": "12/22/25",
+    "invoice_amount": null,
+    "invoice_currency": null,
+    "tax_amount": null,
+    "po_number": [
+      "23539893"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "MICHELIN NORTH AMERICA, INC.",
+    "vendor_address": "800 HICKORY DR, ABERDEEN MD 21001, PO BOX 100860, ATLANTA GA 30384-0860",
+    "po_line_items": null,
+    "vat_amount": null,
+    "gl_account": null,
+    "bank_name": null,
+    "account_holder_name": null,
+    "banking_account_number": null,
+    "remit_to_address": null,
+    "bill_to_address": null,
+    "transaction_type": "debit"
+  },
+  "filename": "SAPS4_5100118003_US30_PFNAUS_2026_999885243.pdf",
+  "raw_response": {
+    "invoice_number": "DA0065137316",
+    "invoice_date": "12/22/25",
+    "invoice_amount": null,
+    "invoice_currency": null,
+    "tax_amount": null,
+    "po_number": [
+      "23539893"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "MICHELIN NORTH AMERICA, INC.",
+    "vendor_address": "800 HICKORY DR, ABERDEEN MD 21001, PO BOX 100860, ATLANTA GA 30384-0860",
+    "po_line_items": null
+  }
+}

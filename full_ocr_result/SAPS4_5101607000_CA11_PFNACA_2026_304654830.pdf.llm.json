@@ -1,0 +1,59 @@
+{
+  "invoice_data": {
+    "invoice_number": "6310743790",
+    "invoice_date": "02/03/2026",
+    "invoice_amount": "42.00",
+    "invoice_currency": [
+      "CAD"
+    ],
+    "tax_amount": "2.00",
+    "po_number": [
+      "M412759939"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "Canadian Linen and Uniform Service Corp.",
+    "vendor_address": "1818 Third Av S, Lethbridge, AB T1J 0L5",
+    "po_line_items": [
+      {
+        "description": "DELFIX Deliver Charge",
+        "quantity": 1.0,
+        "net_price": 40.0
+      }
+    ],
+    "vat_amount": null,
+    "gl_account": null,
+    "bank_name": null,
+    "account_holder_name": null,
+    "banking_account_number": null,
+    "remit_to_address": null,
+    "bill_to_address": null,
+    "transaction_type": "debit"
+  },
+  "filename": "SAPS4_5101607000_CA11_PFNACA_2026_304654830.pdf",
+  "raw_response": {
+    "invoice_number": "6310743790",
+    "invoice_date": "02/03/2026",
+    "invoice_amount": "42.00",
+    "invoice_currency": [
+      "CAD"
+    ],
+    "tax_amount": "2.00",
+    "po_number": [
+      "M412759939"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "Canadian Linen and Uniform Service Corp.",
+    "vendor_address": "1818 Third Av S, Lethbridge, AB T1J 0L5",
+    "po_line_items": [
+      {
+        "description": "DELFIX Deliver Charge",
+        "quantity": 1.0,
+        "net_price": 40.0
+      }
+    ]
+  }
+}

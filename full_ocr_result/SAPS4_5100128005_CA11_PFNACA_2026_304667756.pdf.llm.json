@@ -1,0 +1,101 @@
+{
+  "invoice_data": {
+    "invoice_number": "5404976161",
+    "invoice_date": "02-FEB-26",
+    "invoice_amount": null,
+    "invoice_currency": [
+      "CAD"
+    ],
+    "tax_amount": null,
+    "po_number": [
+      "4504480027",
+      "4504480028"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "U-Haul",
+    "vendor_address": "PO BOX 52128, Phoenix AZ 85072-2128",
+    "po_line_items": [
+      {
+        "description": "1 20'TRUCK(TT1048A)ODOM OUT: 81792 ODOM IN: 82092",
+        "quantity": 1.0,
+        "net_price": 279.0
+      },
+      {
+        "description": "MILEAGECHARGE ODOM OUT: 81792 ODOM IN: 82092",
+        "quantity": 1.0,
+        "net_price": 59.25
+      },
+      {
+        "description": "ENVIRONMENTAL FEE",
+        "quantity": 1.0,
+        "net_price": 3.0
+      },
+      {
+        "description": "FUEL CHARGES",
+        "quantity": 1.0,
+        "net_price": 31.3
+      },
+      {
+        "description": "",
+        "quantity": 1.0,
+        "net_price": 18.63
+      }
+    ],
+    "vat_amount": null,
+    "gl_account": null,
+    "bank_name": null,
+    "account_holder_name": null,
+    "banking_account_number": null,
+    "remit_to_address": null,
+    "bill_to_address": null,
+    "transaction_type": "debit"
+  },
+  "filename": "SAPS4_5100128005_CA11_PFNACA_2026_304667756.pdf",
+  "raw_response": {
+    "invoice_number": "5404976161",
+    "invoice_date": "02-FEB-26",
+    "invoice_amount": null,
+    "invoice_currency": [
+      "CAD"
+    ],
+    "tax_amount": null,
+    "po_number": [
+      "4504480027",
+      "4504480028"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "U-Haul",
+    "vendor_address": "PO BOX 52128, Phoenix AZ 85072-2128",
+    "po_line_items": [
+      {
+        "description": "1 20'TRUCK(TT1048A)ODOM OUT: 81792 ODOM IN: 82092",
+        "quantity": 1.0,
+        "net_price": 279.0
+      },
+      {
+        "description": "MILEAGECHARGE ODOM OUT: 81792 ODOM IN: 82092",
+        "quantity": 1.0,
+        "net_price": 59.25
+      },
+      {
+        "description": "ENVIRONMENTAL FEE",
+        "quantity": 1.0,
+        "net_price": 3.0
+      },
+      {
+        "description": "FUEL CHARGES",
+        "quantity": 1.0,
+        "net_price": 31.3
+      },
+      {
+        "description": "",
+        "quantity": 1.0,
+        "net_price": 18.63
+      }
+    ]
+  }
+}

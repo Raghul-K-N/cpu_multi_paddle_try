@@ -1,0 +1,59 @@
+{
+  "invoice_data": {
+    "invoice_number": "INV-20-00022128",
+    "invoice_date": "2/11/2026",
+    "invoice_amount": null,
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": "670.20",
+    "po_number": [
+      "4505129695"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": "1,058.69",
+    "cost_center": null,
+    "vendor_name": "SETPOINT INTEGRATED SOLUTIONS",
+    "vendor_address": "19011 Highland Rd, Baton Rouge, LA, 70809, USA",
+    "po_line_items": [
+      {
+        "description": "0062622 : Assembly-CONSOLIDATED-1811HB-0-6X1-22-1.5\"-600#RF-2.5\"-150#RF TAG BOILER #1",
+        "quantity": 1.0,
+        "net_price": 7065.0
+      }
+    ],
+    "vat_amount": null,
+    "gl_account": null,
+    "bank_name": null,
+    "account_holder_name": null,
+    "banking_account_number": null,
+    "remit_to_address": null,
+    "bill_to_address": null,
+    "transaction_type": "debit"
+  },
+  "filename": "SAPS4_5100366543_US28_PFNAUS_2026_999884270.pdf",
+  "raw_response": {
+    "invoice_number": "INV-20-00022128",
+    "invoice_date": "2/11/2026",
+    "invoice_amount": "../../../8793.89",
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": "670.20",
+    "po_number": [
+      "4505129695"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": "1,058.69",
+    "cost_center": null,
+    "vendor_name": "SETPOINT INTEGRATED SOLUTIONS",
+    "vendor_address": "19011 Highland Rd, Baton Rouge, LA, 70809, USA",
+    "po_line_items": [
+      {
+        "description": "0062622 : Assembly-CONSOLIDATED-1811HB-0-6X1-22-1.5\"-600#RF-2.5\"-150#RF TAG BOILER #1",
+        "quantity": 1.0,
+        "net_price": 7065.0
+      }
+    ]
+  }
+}

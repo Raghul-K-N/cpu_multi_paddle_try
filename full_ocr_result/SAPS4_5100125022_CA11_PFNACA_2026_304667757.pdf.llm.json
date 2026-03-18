@@ -1,0 +1,43 @@
+{
+  "invoice_data": {
+    "invoice_number": "065311",
+    "invoice_date": "31/01/2026",
+    "invoice_amount": null,
+    "invoice_currency": null,
+    "tax_amount": null,
+    "po_number": [
+      "M413537154"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "ÉQUIPEMENTS SANITAIRES GG LTÉE",
+    "vendor_address": "375 de la Gare, Saint-Anaclet (Québec) G0K 1H0",
+    "po_line_items": null,
+    "vat_amount": null,
+    "gl_account": null,
+    "bank_name": null,
+    "account_holder_name": null,
+    "banking_account_number": null,
+    "remit_to_address": null,
+    "bill_to_address": null,
+    "transaction_type": "debit"
+  },
+  "filename": "SAPS4_5100125022_CA11_PFNACA_2026_304667757.pdf",
+  "raw_response": {
+    "invoice_number": "065311",
+    "invoice_date": "31/01/2026",
+    "invoice_amount": null,
+    "invoice_currency": null,
+    "tax_amount": null,
+    "po_number": [
+      "M413537154"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "ÉQUIPEMENTS SANITAIRES GG LTÉE",
+    "vendor_address": "375 de la Gare, Saint-Anaclet (Québec) G0K 1H0",
+    "po_line_items": null
+  }
+}

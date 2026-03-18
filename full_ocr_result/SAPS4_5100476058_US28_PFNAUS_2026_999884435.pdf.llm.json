@@ -1,0 +1,47 @@
+{
+  "invoice_data": {
+    "invoice_number": "OR04-00681325",
+    "invoice_date": "02/03/26",
+    "invoice_amount": null,
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": null,
+    "po_number": [
+      "4505054582"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "REMIT MOTION INDUSTRIES, INC.",
+    "vendor_address": "4207 NE 78TH ST., STE 150, VANCOUVER, WA 98665",
+    "po_line_items": null,
+    "vat_amount": null,
+    "gl_account": null,
+    "bank_name": null,
+    "account_holder_name": null,
+    "banking_account_number": null,
+    "remit_to_address": null,
+    "bill_to_address": null,
+    "transaction_type": "debit"
+  },
+  "filename": "SAPS4_5100476058_US28_PFNAUS_2026_999884435.pdf",
+  "raw_response": {
+    "invoice_number": "OR04-00681325",
+    "invoice_date": "02/03/26",
+    "invoice_amount": "../../../35",
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": null,
+    "po_number": [
+      "4505054582"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "REMIT MOTION INDUSTRIES, INC.",
+    "vendor_address": "4207 NE 78TH ST., STE 150, VANCOUVER, WA 98665",
+    "po_line_items": null
+  }
+}

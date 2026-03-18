@@ -1,0 +1,59 @@
+{
+  "invoice_data": {
+    "invoice_number": "0090525-IN",
+    "invoice_date": "1/27/2026",
+    "invoice_amount": "612.00",
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": null,
+    "po_number": [
+      "4504183895"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": "23.00",
+    "cost_center": null,
+    "vendor_name": "R & D Machine",
+    "vendor_address": "P.O. BOX 560486 · DALLAS, TEXAS 75356-0486\n214-638-2451 · FAX 214-638-4818\nwww.amfan.com",
+    "po_line_items": [
+      {
+        "description": "L/H PC EXTENDED SEASONING AUGER QUALITY FAB FEEDER",
+        "quantity": 1.0,
+        "net_price": 589.0
+      }
+    ],
+    "vat_amount": null,
+    "gl_account": null,
+    "bank_name": null,
+    "account_holder_name": null,
+    "banking_account_number": null,
+    "remit_to_address": null,
+    "bill_to_address": null,
+    "transaction_type": "debit"
+  },
+  "filename": "SAPS4_5100234530_US28_PFNAUS_2026_999934940.pdf",
+  "raw_response": {
+    "invoice_number": "0090525-IN",
+    "invoice_date": "1/27/2026",
+    "invoice_amount": "612.00",
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": null,
+    "po_number": [
+      "4504183895"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": "23.00",
+    "cost_center": null,
+    "vendor_name": "R & D Machine",
+    "vendor_address": "P.O. BOX 560486 · DALLAS, TEXAS 75356-0486\n214-638-2451 · FAX 214-638-4818\nwww.amfan.com",
+    "po_line_items": [
+      {
+        "description": "L/H PC EXTENDED SEASONING AUGER QUALITY FAB FEEDER",
+        "quantity": 1.0,
+        "net_price": 589.0
+      }
+    ]
+  }
+}

@@ -1,0 +1,69 @@
+{
+  "invoice_data": {
+    "invoice_number": "141203",
+    "invoice_date": "10/10/2025",
+    "invoice_amount": "2832.35",
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": null,
+    "po_number": [
+      "M412918758"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": "0.00",
+    "cost_center": null,
+    "vendor_name": "Atlas Copco Compressors LLC",
+    "vendor_address": "300 Technology Center Way Ste. 550, Rock Hill, SC 29730, PO BOX 1800, WINSTON SALEM, NC 27105, DEPT CH 19511, Palatine, IL 60055-9511, 2501 Landmeier Rd, Elk Grove Village, IL 60007",
+    "po_line_items": [
+      {
+        "description": "ZR315VSDA2-P-8.6-60",
+        "quantity": 10.0,
+        "net_price": 1341.48
+      },
+      {
+        "description": "ZH500-7--APF",
+        "quantity": 20.0,
+        "net_price": 1490.87
+      }
+    ],
+    "vat_amount": null,
+    "gl_account": null,
+    "bank_name": null,
+    "account_holder_name": null,
+    "banking_account_number": null,
+    "remit_to_address": null,
+    "bill_to_address": null,
+    "transaction_type": "debit"
+  },
+  "filename": "SAPS4_5100211534_US28_PFNAUS_2026_999884403.pdf",
+  "raw_response": {
+    "invoice_number": "141203",
+    "invoice_date": "10/10/2025",
+    "invoice_amount": "2832.35",
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": null,
+    "po_number": [
+      "M412918758"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": "0.00",
+    "cost_center": null,
+    "vendor_name": "Atlas Copco Compressors LLC",
+    "vendor_address": "300 Technology Center Way Ste. 550, Rock Hill, SC 29730, PO BOX 1800, WINSTON SALEM, NC 27105, DEPT CH 19511, Palatine, IL 60055-9511, 2501 Landmeier Rd, Elk Grove Village, IL 60007",
+    "po_line_items": [
+      {
+        "description": "ZR315VSDA2-P-8.6-60",
+        "quantity": 10.0,
+        "net_price": 1341.48
+      },
+      {
+        "description": "ZH500-7--APF",
+        "quantity": 20.0,
+        "net_price": 1490.87
+      }
+    ]
+  }
+}

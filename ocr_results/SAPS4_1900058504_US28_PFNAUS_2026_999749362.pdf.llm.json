@@ -1,0 +1,49 @@
+{
+  "invoice_data": {
+    "invoice_number": "INV62306",
+    "invoice_date": "17.12.2025",
+    "invoice_amount": "88,588.37",
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": "5,492.96",
+    "po_number": null,
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": [
+      "2000699902",
+      "4FUSL00000"
+    ],
+    "vendor_name": "CSC Tax Compliance, Inc",
+    "vendor_address": "13500 EVENING CREEK DR N, SAN DIEGO CA 92128-8104, USA",
+    "po_line_items": null,
+    "vat_amount": null,
+    "gl_account": null,
+    "bank_name": null,
+    "account_holder_name": null,
+    "banking_account_number": null,
+    "remit_to_address": null,
+    "bill_to_address": null,
+    "transaction_type": "debit"
+  },
+  "filename": "SAPS4_1900058504_US28_PFNAUS_2026_999749362.pdf",
+  "raw_response": {
+    "invoice_number": "INV62306",
+    "invoice_date": "17.12.2025",
+    "invoice_amount": "88,588.37",
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": "5,492.96",
+    "po_number": null,
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": [
+      "2000699902",
+      "4FUSL00000"
+    ],
+    "vendor_name": "CSC Tax Compliance, Inc",
+    "vendor_address": "13500 EVENING CREEK DR N, SAN DIEGO CA 92128-8104, USA",
+    "po_line_items": null
+  }
+}

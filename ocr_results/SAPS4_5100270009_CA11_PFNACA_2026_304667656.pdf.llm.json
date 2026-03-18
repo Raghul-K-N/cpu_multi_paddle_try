@@ -1,0 +1,49 @@
+{
+  "invoice_data": {
+    "invoice_number": "4851278",
+    "invoice_date": "Jan 30 26",
+    "invoice_amount": null,
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": null,
+    "po_number": [
+      "5695763-01",
+      "4505010783"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "WESTBURNE ONTARIO",
+    "vendor_address": "WESTBURNE ONTARIO, A A DIVISION OF REXEL CANADA ELECTRICAL INC, M Y PO BOX 1220 STN B MISSISSAUGA ON L4Y 3W5, E CREDIT DEPT 1-888-712-4020 / 905-712-4020",
+    "po_line_items": null,
+    "vat_amount": null,
+    "gl_account": null,
+    "bank_name": null,
+    "account_holder_name": null,
+    "banking_account_number": null,
+    "remit_to_address": null,
+    "bill_to_address": null,
+    "transaction_type": "debit"
+  },
+  "filename": "SAPS4_5100270009_CA11_PFNACA_2026_304667656.pdf",
+  "raw_response": {
+    "invoice_number": "4851278",
+    "invoice_date": "Jan 30 26",
+    "invoice_amount": null,
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": null,
+    "po_number": [
+      "5695763-01",
+      "4505010783"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "WESTBURNE ONTARIO",
+    "vendor_address": "WESTBURNE ONTARIO, A A DIVISION OF REXEL CANADA ELECTRICAL INC, M Y PO BOX 1220 STN B MISSISSAUGA ON L4Y 3W5, E CREDIT DEPT 1-888-712-4020 / 905-712-4020",
+    "po_line_items": null
+  }
+}

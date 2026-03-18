@@ -1,0 +1,59 @@
+{
+  "invoice_data": {
+    "invoice_number": "1126003231",
+    "invoice_date": "2026/02/09",
+    "invoice_amount": "4688.24",
+    "invoice_currency": [
+      "CAD"
+    ],
+    "tax_amount": "209.30",
+    "po_number": [
+      "4503992908"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": "0.00",
+    "cost_center": null,
+    "vendor_name": "Atlas Copco Compressors Canada",
+    "vendor_address": "5060 Levy Saint-Laurent Quebec, Canada H4R 2P1",
+    "po_line_items": [
+      {
+        "description": "DN250 VSD",
+        "quantity": 1.0,
+        "net_price": 4185.93
+      }
+    ],
+    "vat_amount": null,
+    "gl_account": null,
+    "bank_name": null,
+    "account_holder_name": null,
+    "banking_account_number": null,
+    "remit_to_address": null,
+    "bill_to_address": null,
+    "transaction_type": "debit"
+  },
+  "filename": "SAPS4_5101108021_CA02_PBNACA_2026_328614986.pdf",
+  "raw_response": {
+    "invoice_number": "1126003231",
+    "invoice_date": "2026/02/09",
+    "invoice_amount": "4688.24",
+    "invoice_currency": [
+      "CAD"
+    ],
+    "tax_amount": "209.30",
+    "po_number": [
+      "4503992908"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": "0.00",
+    "cost_center": null,
+    "vendor_name": "Atlas Copco Compressors Canada",
+    "vendor_address": "5060 Levy Saint-Laurent Quebec, Canada H4R 2P1",
+    "po_line_items": [
+      {
+        "description": "DN250 VSD",
+        "quantity": 1.0,
+        "net_price": 4185.93
+      }
+    ]
+  }
+}

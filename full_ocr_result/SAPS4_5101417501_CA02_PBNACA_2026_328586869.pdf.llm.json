@@ -1,0 +1,99 @@
+{
+  "invoice_data": {
+    "invoice_number": "79659188",
+    "invoice_date": "30-Nov-2025",
+    "invoice_amount": "536.99",
+    "invoice_currency": [
+      "CAD"
+    ],
+    "tax_amount": "70.05",
+    "po_number": [
+      "M413536814"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "Air Liquide Canada Inc.",
+    "vendor_address": "280 JOHN ST, MONCTON, NB E1C 9W3",
+    "po_line_items": [
+      {
+        "description": "A0464199 ALIGAL 1, 44, (6.32M3 / 223.19SCF), CGA-580",
+        "quantity": 8.0,
+        "net_price": null
+      },
+      {
+        "description": "A0464326 ARGON, AR, 16, (2.75M3 / 97.12SCF), CGA-580",
+        "quantity": 1.0,
+        "net_price": null
+      },
+      {
+        "description": "A0464163 ACETYLENE, C2H2, 23, (~3.6M3 / ~127.13SCF), CGA-410",
+        "quantity": 1.0,
+        "net_price": null
+      },
+      {
+        "description": "A0464884 OXYGEN, O2, 22, (3.45M3 / 121.84SCF), CGA-540",
+        "quantity": 1.0,
+        "net_price": null
+      },
+      {
+        "description": "SMALL A0464326 ARGON, AR, 16, (2.75M3 / 97.12SCF), CGA-580",
+        "quantity": 0.0,
+        "net_price": null
+      }
+    ],
+    "vat_amount": null,
+    "gl_account": null,
+    "bank_name": null,
+    "account_holder_name": null,
+    "banking_account_number": null,
+    "remit_to_address": null,
+    "bill_to_address": null,
+    "transaction_type": "debit"
+  },
+  "filename": "SAPS4_5101417501_CA02_PBNACA_2026_328586869.pdf",
+  "raw_response": {
+    "invoice_number": "79659188",
+    "invoice_date": "30-Nov-2025",
+    "invoice_amount": "536.99",
+    "invoice_currency": [
+      "CAD"
+    ],
+    "tax_amount": "70.05",
+    "po_number": [
+      "M413536814"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "Air Liquide Canada Inc.",
+    "vendor_address": "280 JOHN ST, MONCTON, NB E1C 9W3",
+    "po_line_items": [
+      {
+        "description": "A0464199 ALIGAL 1, 44, (6.32M3 / 223.19SCF), CGA-580",
+        "quantity": 8.0,
+        "net_price": null
+      },
+      {
+        "description": "A0464326 ARGON, AR, 16, (2.75M3 / 97.12SCF), CGA-580",
+        "quantity": 1.0,
+        "net_price": null
+      },
+      {
+        "description": "A0464163 ACETYLENE, C2H2, 23, (~3.6M3 / ~127.13SCF), CGA-410",
+        "quantity": 1.0,
+        "net_price": null
+      },
+      {
+        "description": "A0464884 OXYGEN, O2, 22, (3.45M3 / 121.84SCF), CGA-540",
+        "quantity": 1.0,
+        "net_price": null
+      },
+      {
+        "description": "SMALL A0464326 ARGON, AR, 16, (2.75M3 / 97.12SCF), CGA-580",
+        "quantity": 0.0,
+        "net_price": null
+      }
+    ]
+  }
+}

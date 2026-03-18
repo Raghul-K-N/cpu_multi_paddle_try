@@ -1,0 +1,129 @@
+{
+  "invoice_data": {
+    "invoice_number": "5110847279",
+    "invoice_date": "02/11/2026",
+    "invoice_amount": "25.31",
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": null,
+    "po_number": [
+      "M413353969"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": "0.00",
+    "cost_center": null,
+    "vendor_name": "vestis",
+    "vendor_address": "246 W Rossi, SALINAS CA 93907",
+    "po_line_items": [
+      {
+        "description": "GO0218NAVY JACKET HIP 65/35",
+        "quantity": 2.0,
+        "net_price": 0.15
+      },
+      {
+        "description": "GOS011NVOT COVERALL EVIS 65/35",
+        "quantity": 7.0,
+        "net_price": 0.8
+      },
+      {
+        "description": "GP0002NAVY PANT WORK TWILL 65/35",
+        "quantity": 10.0,
+        "net_price": null
+      },
+      {
+        "description": "GS0019NVOT SHIRT WORK SS 65/35",
+        "quantity": 11.0,
+        "net_price": 1.82
+      },
+      {
+        "description": "GP0002NAVY PANT WORK TWILL 65/35",
+        "quantity": 11.0,
+        "net_price": 1.49
+      },
+      {
+        "description": "SHIRT WORK SS 65/35",
+        "quantity": 11.0,
+        "net_price": 1.82
+      },
+      {
+        "description": "DO0020REDD FENDER SEAT COVER",
+        "quantity": 27.0,
+        "net_price": null
+      },
+      {
+        "description": "TS0002REDD  SHOP TOWEL PLAIN",
+        "quantity": 300.0,
+        "net_price": 6.3
+      }
+    ],
+    "vat_amount": null,
+    "gl_account": null,
+    "bank_name": null,
+    "account_holder_name": null,
+    "banking_account_number": null,
+    "remit_to_address": null,
+    "bill_to_address": null,
+    "transaction_type": "debit"
+  },
+  "filename": "SAPS4_5100285026_US29_PFNAUS_2026_999885087.pdf",
+  "raw_response": {
+    "invoice_number": "5110847279",
+    "invoice_date": "02/11/2026",
+    "invoice_amount": "25.31",
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": null,
+    "po_number": [
+      "M413353969"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": "0.00",
+    "cost_center": null,
+    "vendor_name": "vestis",
+    "vendor_address": "246 W Rossi, SALINAS CA 93907",
+    "po_line_items": [
+      {
+        "description": "GO0218NAVY JACKET HIP 65/35",
+        "quantity": 2.0,
+        "net_price": 0.15
+      },
+      {
+        "description": "GOS011NVOT COVERALL EVIS 65/35",
+        "quantity": 7.0,
+        "net_price": 0.8
+      },
+      {
+        "description": "GP0002NAVY PANT WORK TWILL 65/35",
+        "quantity": 10.0,
+        "net_price": null
+      },
+      {
+        "description": "GS0019NVOT SHIRT WORK SS 65/35",
+        "quantity": 11.0,
+        "net_price": 1.82
+      },
+      {
+        "description": "GP0002NAVY PANT WORK TWILL 65/35",
+        "quantity": 11.0,
+        "net_price": 1.49
+      },
+      {
+        "description": "SHIRT WORK SS 65/35",
+        "quantity": 11.0,
+        "net_price": 1.82
+      },
+      {
+        "description": "DO0020REDD FENDER SEAT COVER",
+        "quantity": 27.0,
+        "net_price": null
+      },
+      {
+        "description": "TS0002REDD  SHOP TOWEL PLAIN",
+        "quantity": 300.0,
+        "net_price": 6.3
+      }
+    ]
+  }
+}

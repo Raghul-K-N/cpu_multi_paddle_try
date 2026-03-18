@@ -1,0 +1,59 @@
+{
+  "invoice_data": {
+    "invoice_number": "107018",
+    "invoice_date": "04 Feb 2026",
+    "invoice_amount": "4,906.08",
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": null,
+    "po_number": [
+      "M413533537"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "Sustain Inc.",
+    "vendor_address": "PO Box 700, Soddy Daisy TN 37384 USA",
+    "po_line_items": [
+      {
+        "description": "Loose 10 ga 100# box wire(Delivered to 3047)",
+        "quantity": 36.0,
+        "net_price": 136.28
+      }
+    ],
+    "vat_amount": null,
+    "gl_account": null,
+    "bank_name": null,
+    "account_holder_name": null,
+    "banking_account_number": null,
+    "remit_to_address": null,
+    "bill_to_address": null,
+    "transaction_type": "debit"
+  },
+  "filename": "SAPS4_5100362522_US28_PFNAUS_2026_999884259.pdf",
+  "raw_response": {
+    "invoice_number": "107018",
+    "invoice_date": "04 Feb 2026",
+    "invoice_amount": "4,906.08",
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": null,
+    "po_number": [
+      "M413533537"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "Sustain Inc.",
+    "vendor_address": "PO Box 700, Soddy Daisy TN 37384 USA",
+    "po_line_items": [
+      {
+        "description": "Loose 10 ga 100# box wire(Delivered to 3047)",
+        "quantity": 36.0,
+        "net_price": 136.28
+      }
+    ]
+  }
+}

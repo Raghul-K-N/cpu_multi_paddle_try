@@ -1,0 +1,59 @@
+{
+  "invoice_data": {
+    "invoice_number": "1800590671",
+    "invoice_date": "02/10/2026",
+    "invoice_amount": "2,150.00",
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": null,
+    "po_number": [
+      "4504942355"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "Advanced Technology Services, Inc.",
+    "vendor_address": "Advanced Technology Services, Inc. PO Box 10182, Peoria, IL 61612, 8201 North University · Peoria, Illinois 61615",
+    "po_line_items": [
+      {
+        "description": "ATS BARCODE: K-019173 MODEL NUMBER: MPL-B430P-MK74AA DESCRIPTION: SERVO MOTOR 3HP 2.4KW 3PHASE 6 P.O. RELEASE#: CPN#: REFNO: SHIP REFERENCE: 1Z48608X0378637446 REPAIR SERVICES",
+        "quantity": null,
+        "net_price": 2150.0
+      }
+    ],
+    "vat_amount": null,
+    "gl_account": null,
+    "bank_name": null,
+    "account_holder_name": null,
+    "banking_account_number": null,
+    "remit_to_address": null,
+    "bill_to_address": null,
+    "transaction_type": "debit"
+  },
+  "filename": "SAPS4_5100594525_US28_PFNAUS_2026_999934233.pdf",
+  "raw_response": {
+    "invoice_number": "1800590671",
+    "invoice_date": "02/10/2026",
+    "invoice_amount": "2,150.00",
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": null,
+    "po_number": [
+      "4504942355"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "Advanced Technology Services, Inc.",
+    "vendor_address": "Advanced Technology Services, Inc. PO Box 10182, Peoria, IL 61612, 8201 North University · Peoria, Illinois 61615",
+    "po_line_items": [
+      {
+        "description": "ATS BARCODE: K-019173 MODEL NUMBER: MPL-B430P-MK74AA DESCRIPTION: SERVO MOTOR 3HP 2.4KW 3PHASE 6 P.O. RELEASE#: CPN#: REFNO: SHIP REFERENCE: 1Z48608X0378637446 REPAIR SERVICES",
+        "quantity": null,
+        "net_price": 2150.0
+      }
+    ]
+  }
+}

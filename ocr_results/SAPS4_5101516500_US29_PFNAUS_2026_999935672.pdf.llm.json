@@ -1,0 +1,69 @@
+{
+  "invoice_data": {
+    "invoice_number": "228927383-028",
+    "invoice_date": "02/03/26",
+    "invoice_amount": "260.62",
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": "16.74",
+    "po_number": [
+      "M413370842"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "UNITED RENTALS (NORTH AMERICA),INC.",
+    "vendor_address": "PO BOX 100711, ATLANTA GA 30384-0711",
+    "po_line_items": [
+      {
+        "description": "CONTAINER 8X40X9'6\" HI CUBE",
+        "quantity": 1.0,
+        "net_price": 200.0
+      },
+      {
+        "description": "PADLOCK FOR STORAGE CONTAINER",
+        "quantity": 1.0,
+        "net_price": 8.0
+      }
+    ],
+    "vat_amount": null,
+    "gl_account": null,
+    "bank_name": null,
+    "account_holder_name": null,
+    "banking_account_number": null,
+    "remit_to_address": null,
+    "bill_to_address": null,
+    "transaction_type": "debit"
+  },
+  "filename": "SAPS4_5101516500_US29_PFNAUS_2026_999935672.pdf",
+  "raw_response": {
+    "invoice_number": "228927383-028",
+    "invoice_date": "02/03/26",
+    "invoice_amount": "260.62",
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": "16.74",
+    "po_number": [
+      "M413370842"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "UNITED RENTALS (NORTH AMERICA),INC.",
+    "vendor_address": "PO BOX 100711, ATLANTA GA 30384-0711",
+    "po_line_items": [
+      {
+        "description": "CONTAINER 8X40X9'6\" HI CUBE",
+        "quantity": 1.0,
+        "net_price": 200.0
+      },
+      {
+        "description": "PADLOCK FOR STORAGE CONTAINER",
+        "quantity": 1.0,
+        "net_price": 8.0
+      }
+    ]
+  }
+}

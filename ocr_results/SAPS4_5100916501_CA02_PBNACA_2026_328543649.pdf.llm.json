@@ -1,0 +1,69 @@
+{
+  "invoice_data": {
+    "invoice_number": "72385138",
+    "invoice_date": "Monday 9 Feb. 2026 6:08 a.m. GMT-07:00",
+    "invoice_amount": "58.78",
+    "invoice_currency": [
+      "CAD"
+    ],
+    "tax_amount": "2.80",
+    "po_number": [
+      "M413545845"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "STAPLES CANADA ULC",
+    "vendor_address": "4990 - 92 AVENUE, EDMONTON, AB T6B 2W1, Canada; CA-PL-CALGARY-AB-PBCCAN; CALGARY, AB T2C 2Y9, CA",
+    "po_line_items": [
+      {
+        "description": "PAPER,24LB,8.5X11,RED",
+        "quantity": 1.0,
+        "net_price": 27.99
+      },
+      {
+        "description": "PAPER,24LB,8.5X11,BLUE",
+        "quantity": 1.0,
+        "net_price": 27.99
+      }
+    ],
+    "vat_amount": null,
+    "gl_account": null,
+    "bank_name": null,
+    "account_holder_name": null,
+    "banking_account_number": null,
+    "remit_to_address": null,
+    "bill_to_address": null,
+    "transaction_type": "debit"
+  },
+  "filename": "SAPS4_5100916501_CA02_PBNACA_2026_328543649.pdf",
+  "raw_response": {
+    "invoice_number": "72385138",
+    "invoice_date": "Monday 9 Feb. 2026 6:08 a.m. GMT-07:00",
+    "invoice_amount": "58.78",
+    "invoice_currency": [
+      "CAD"
+    ],
+    "tax_amount": "2.80",
+    "po_number": [
+      "M413545845"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "STAPLES CANADA ULC",
+    "vendor_address": "4990 - 92 AVENUE, EDMONTON, AB T6B 2W1, Canada; CA-PL-CALGARY-AB-PBCCAN; CALGARY, AB T2C 2Y9, CA",
+    "po_line_items": [
+      {
+        "description": "PAPER,24LB,8.5X11,RED",
+        "quantity": 1.0,
+        "net_price": 27.99
+      },
+      {
+        "description": "PAPER,24LB,8.5X11,BLUE",
+        "quantity": 1.0,
+        "net_price": 27.99
+      }
+    ]
+  }
+}

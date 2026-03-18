@@ -1,0 +1,61 @@
+{
+  "invoice_data": {
+    "invoice_number": "AM10013330",
+    "invoice_date": "01/28/2026",
+    "invoice_amount": "1,551.45",
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": "114.92",
+    "po_number": [
+      "20069597",
+      "4504873215"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": "31.53",
+    "cost_center": null,
+    "vendor_name": "Fives North American Combustion, Inc.",
+    "vendor_address": "Fives North American Combustion, Inc. 4455 East 71st Street, Cleveland, OH 44105-5600",
+    "po_line_items": [
+      {
+        "description": "F700-1-1231-3AC Impeller for 2316-19/1, aluminum, CW, 1-1/8\" non- keyed bore",
+        "quantity": 1.0,
+        "net_price": 1405.0
+      }
+    ],
+    "vat_amount": null,
+    "gl_account": null,
+    "bank_name": null,
+    "account_holder_name": null,
+    "banking_account_number": null,
+    "remit_to_address": null,
+    "bill_to_address": null,
+    "transaction_type": "debit"
+  },
+  "filename": "SAPS4_5100385548_US28_PFNAUS_2026_999934743.pdf",
+  "raw_response": {
+    "invoice_number": "AM10013330",
+    "invoice_date": "01/28/2026",
+    "invoice_amount": "1,551.45",
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": "114.92",
+    "po_number": [
+      "20069597",
+      "4504873215"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": "31.53",
+    "cost_center": null,
+    "vendor_name": "Fives North American Combustion, Inc.",
+    "vendor_address": "Fives North American Combustion, Inc. 4455 East 71st Street, Cleveland, OH 44105-5600",
+    "po_line_items": [
+      {
+        "description": "F700-1-1231-3AC Impeller for 2316-19/1, aluminum, CW, 1-1/8\" non- keyed bore",
+        "quantity": 1.0,
+        "net_price": 1405.0
+      }
+    ]
+  }
+}

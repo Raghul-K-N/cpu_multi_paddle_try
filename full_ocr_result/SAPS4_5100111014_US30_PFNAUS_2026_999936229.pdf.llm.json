@@ -1,0 +1,79 @@
+{
+  "invoice_data": {
+    "invoice_number": "XA105993001",
+    "invoice_date": "2/5/2026",
+    "invoice_amount": "316.23",
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": null,
+    "po_number": [
+      "23570056"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "Bergey's Truck Centers - New Castle (A310)",
+    "vendor_address": "29 E Commons Blvd Suite 300, New Castle, DE 19720, 302-324-8340",
+    "po_line_items": [
+      {
+        "description": "SEALING RING",
+        "quantity": 1.0,
+        "net_price": 88.7
+      },
+      {
+        "description": "STEP",
+        "quantity": 1.0,
+        "net_price": 28.16
+      },
+      {
+        "description": "HOSE ASSEMBLY",
+        "quantity": 1.0,
+        "net_price": 171.21
+      }
+    ],
+    "vat_amount": null,
+    "gl_account": null,
+    "bank_name": null,
+    "account_holder_name": null,
+    "banking_account_number": null,
+    "remit_to_address": null,
+    "bill_to_address": null,
+    "transaction_type": "debit"
+  },
+  "filename": "SAPS4_5100111014_US30_PFNAUS_2026_999936229.pdf",
+  "raw_response": {
+    "invoice_number": "XA105993001",
+    "invoice_date": "2/5/2026",
+    "invoice_amount": "316.23",
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": null,
+    "po_number": [
+      "23570056"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "Bergey's Truck Centers - New Castle (A310)",
+    "vendor_address": "29 E Commons Blvd Suite 300, New Castle, DE 19720, 302-324-8340",
+    "po_line_items": [
+      {
+        "description": "SEALING RING",
+        "quantity": 1.0,
+        "net_price": 88.7
+      },
+      {
+        "description": "STEP",
+        "quantity": 1.0,
+        "net_price": 28.16
+      },
+      {
+        "description": "HOSE ASSEMBLY",
+        "quantity": 1.0,
+        "net_price": 171.21
+      }
+    ]
+  }
+}

@@ -1,0 +1,129 @@
+{
+  "invoice_data": {
+    "invoice_number": "2660242035",
+    "invoice_date": "02/12/2026",
+    "invoice_amount": "329.00",
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": null,
+    "po_number": [
+      "M413523376"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "Pace Analytical Services, LLC",
+    "vendor_address": "9608 Loiret Blvd., Lenexa, KS 66219",
+    "po_line_items": [
+      {
+        "description": "2540D Total Suspended Solids",
+        "quantity": 1.0,
+        "net_price": 23.0
+      },
+      {
+        "description": "351.2 Total Kjeldahl Nitrogen",
+        "quantity": 1.0,
+        "net_price": 54.0
+      },
+      {
+        "description": "365.4 Total Phosphorus",
+        "quantity": 1.0,
+        "net_price": 46.0
+      },
+      {
+        "description": "5210B BOD, 5 day",
+        "quantity": 1.0,
+        "net_price": 46.0
+      },
+      {
+        "description": "Environmental Impact Fee",
+        "quantity": 1.0,
+        "net_price": 35.0
+      },
+      {
+        "description": "Field Data",
+        "quantity": 1.0,
+        "net_price": 17.0
+      },
+      {
+        "description": "HEM, Oil and Grease",
+        "quantity": 2.0,
+        "net_price": 90.0
+      },
+      {
+        "description": "Sample Disposal",
+        "quantity": 2.0,
+        "net_price": 9.0
+      }
+    ],
+    "vat_amount": null,
+    "gl_account": null,
+    "bank_name": null,
+    "account_holder_name": null,
+    "banking_account_number": null,
+    "remit_to_address": null,
+    "bill_to_address": null,
+    "transaction_type": "debit"
+  },
+  "filename": "SAPS4_5100248031_US28_PFNAUS_2026_999934995.pdf",
+  "raw_response": {
+    "invoice_number": "2660242035",
+    "invoice_date": "02/12/2026",
+    "invoice_amount": "329.00",
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": null,
+    "po_number": [
+      "M413523376"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "Pace Analytical Services, LLC",
+    "vendor_address": "9608 Loiret Blvd., Lenexa, KS 66219",
+    "po_line_items": [
+      {
+        "description": "2540D Total Suspended Solids",
+        "quantity": 1.0,
+        "net_price": 23.0
+      },
+      {
+        "description": "351.2 Total Kjeldahl Nitrogen",
+        "quantity": 1.0,
+        "net_price": 54.0
+      },
+      {
+        "description": "365.4 Total Phosphorus",
+        "quantity": 1.0,
+        "net_price": 46.0
+      },
+      {
+        "description": "5210B BOD, 5 day",
+        "quantity": 1.0,
+        "net_price": 46.0
+      },
+      {
+        "description": "Environmental Impact Fee",
+        "quantity": 1.0,
+        "net_price": 35.0
+      },
+      {
+        "description": "Field Data",
+        "quantity": 1.0,
+        "net_price": 17.0
+      },
+      {
+        "description": "HEM, Oil and Grease",
+        "quantity": 2.0,
+        "net_price": 90.0
+      },
+      {
+        "description": "Sample Disposal",
+        "quantity": 2.0,
+        "net_price": 9.0
+      }
+    ]
+  }
+}

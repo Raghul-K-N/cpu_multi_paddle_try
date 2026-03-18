@@ -1,0 +1,55 @@
+{
+  "invoice_data": {
+    "invoice_number": "2026010515297B",
+    "invoice_date": "January 5, 2026",
+    "invoice_amount": "50000.00",
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": null,
+    "po_number": [
+      "4505084038"
+    ],
+    "gl_account_number": [
+      "645280"
+    ],
+    "freight_and_handling_charges": null,
+    "cost_center": [
+      "2504300400"
+    ],
+    "vendor_name": "H-E-B Tournament of Champions Charitable Trust",
+    "vendor_address": "646 S. Flores Street, San Antonio TX 78204",
+    "po_line_items": null,
+    "vat_amount": null,
+    "gl_account": null,
+    "bank_name": null,
+    "account_holder_name": null,
+    "banking_account_number": null,
+    "remit_to_address": null,
+    "bill_to_address": null,
+    "transaction_type": "debit"
+  },
+  "filename": "SAPS4_5100293003_US29_PFNAUS_2026_999936474.pdf",
+  "raw_response": {
+    "invoice_number": "2026010515297B",
+    "invoice_date": "January 5, 2026",
+    "invoice_amount": "50000.00",
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": null,
+    "po_number": [
+      "4505084038"
+    ],
+    "gl_account_number": [
+      "645280"
+    ],
+    "freight_and_handling_charges": null,
+    "cost_center": [
+      "2504300400"
+    ],
+    "vendor_name": "H-E-B Tournament of Champions Charitable Trust",
+    "vendor_address": "646 S. Flores Street, San Antonio TX 78204",
+    "po_line_items": null
+  }
+}

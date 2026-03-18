@@ -1,0 +1,47 @@
+{
+  "invoice_data": {
+    "invoice_number": "XA103413101",
+    "invoice_date": "9/19/2025",
+    "invoice_amount": "-132.50",
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": "7.50",
+    "po_number": [
+      "23477263"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": "132.50",
+    "cost_center": null,
+    "vendor_name": "Bergey's Truck Centers - Carlisle (4371D)",
+    "vendor_address": "25 Roadway Dr, Carlisle, PA 17015",
+    "po_line_items": null,
+    "vat_amount": null,
+    "gl_account": null,
+    "bank_name": null,
+    "account_holder_name": null,
+    "banking_account_number": null,
+    "remit_to_address": null,
+    "bill_to_address": null,
+    "transaction_type": "credit"
+  },
+  "filename": "SAPS4_5100738502_US30_PFNAUS_2026_999935690.pdf",
+  "raw_response": {
+    "invoice_number": "XA103413101",
+    "invoice_date": "9/19/2025",
+    "invoice_amount": "-132.50",
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": "7.50",
+    "po_number": [
+      "23477263"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": "132.50",
+    "cost_center": null,
+    "vendor_name": "Bergey's Truck Centers - Carlisle (4371D)",
+    "vendor_address": "25 Roadway Dr, Carlisle, PA 17015",
+    "po_line_items": null
+  }
+}

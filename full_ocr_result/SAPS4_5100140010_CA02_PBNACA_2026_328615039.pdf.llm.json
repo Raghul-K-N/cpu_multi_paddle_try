@@ -1,0 +1,79 @@
+{
+  "invoice_data": {
+    "invoice_number": "25125780",
+    "invoice_date": "12-11-25",
+    "invoice_amount": "506.04",
+    "invoice_currency": [
+      "CAD"
+    ],
+    "tax_amount": "24.10",
+    "po_number": [
+      "M413510769"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "INTEGRFTED FIRE AND SECURITY CANADA, INC o/B JohnSon Controb",
+    "vendor_address": "7402-116 Ave NW, DMONTON, AB T5S 2X2, 80-452-5280",
+    "po_line_items": [
+      {
+        "description": "FIRE PUMP SYSTEM",
+        "quantity": 1.0,
+        "net_price": 481.0
+      },
+      {
+        "description": "Fire Pump Churn Test - Electric",
+        "quantity": 1.0,
+        "net_price": 0.0
+      },
+      {
+        "description": "Fire Pump > 1500 - Electric",
+        "quantity": 1.0,
+        "net_price": 0.0
+      }
+    ],
+    "vat_amount": null,
+    "gl_account": null,
+    "bank_name": null,
+    "account_holder_name": null,
+    "banking_account_number": null,
+    "remit_to_address": null,
+    "bill_to_address": null,
+    "transaction_type": "debit"
+  },
+  "filename": "SAPS4_5100140010_CA02_PBNACA_2026_328615039.pdf",
+  "raw_response": {
+    "invoice_number": "25125780",
+    "invoice_date": "12-11-25",
+    "invoice_amount": "506.04",
+    "invoice_currency": [
+      "CAD"
+    ],
+    "tax_amount": "24.10",
+    "po_number": [
+      "M413510769"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "INTEGRFTED FIRE AND SECURITY CANADA, INC o/B JohnSon Controb",
+    "vendor_address": "7402-116 Ave NW, DMONTON, AB T5S 2X2, 80-452-5280",
+    "po_line_items": [
+      {
+        "description": "FIRE PUMP SYSTEM",
+        "quantity": 1.0,
+        "net_price": 481.0
+      },
+      {
+        "description": "Fire Pump Churn Test - Electric",
+        "quantity": 1.0,
+        "net_price": 0.0
+      },
+      {
+        "description": "Fire Pump > 1500 - Electric",
+        "quantity": 1.0,
+        "net_price": 0.0
+      }
+    ]
+  }
+}

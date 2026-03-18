@@ -1,0 +1,59 @@
+{
+  "invoice_data": {
+    "invoice_number": "2026079",
+    "invoice_date": "Tuesday 10 Feb. 2026 12:00 p.m. GMT-07:00",
+    "invoice_amount": "1949.59",
+    "invoice_currency": [
+      "CAD"
+    ],
+    "tax_amount": "92.84",
+    "po_number": [
+      "M413551354"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "DBS ENVIRONMENTAL",
+    "vendor_address": "1430-33RD STREET NORTH, LETHBRIDGE, AB T1H 5H3, Canada, Address ID: CA11",
+    "po_line_items": [
+      {
+        "description": "Not Available / Supply Labour and Mechanism to dispose of Off-Spec product at Lethbridge Waste & Recycle Centre as per John Cana and/or Ekaete Esin February 9, 2026, trailer V30470",
+        "quantity": 1856.75,
+        "net_price": 1.0
+      }
+    ],
+    "vat_amount": null,
+    "gl_account": null,
+    "bank_name": null,
+    "account_holder_name": null,
+    "banking_account_number": null,
+    "remit_to_address": null,
+    "bill_to_address": null,
+    "transaction_type": "debit"
+  },
+  "filename": "SAPS4_5101590000_CA11_PFNACA_2026_304654726.pdf",
+  "raw_response": {
+    "invoice_number": "2026079",
+    "invoice_date": "Tuesday 10 Feb. 2026 12:00 p.m. GMT-07:00",
+    "invoice_amount": "1949.59",
+    "invoice_currency": [
+      "CAD"
+    ],
+    "tax_amount": "92.84",
+    "po_number": [
+      "M413551354"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "DBS ENVIRONMENTAL",
+    "vendor_address": "1430-33RD STREET NORTH, LETHBRIDGE, AB T1H 5H3, Canada, Address ID: CA11",
+    "po_line_items": [
+      {
+        "description": "Not Available / Supply Labour and Mechanism to dispose of Off-Spec product at Lethbridge Waste & Recycle Centre as per John Cana and/or Ekaete Esin February 9, 2026, trailer V30470",
+        "quantity": 1856.75,
+        "net_price": 1.0
+      }
+    ]
+  }
+}

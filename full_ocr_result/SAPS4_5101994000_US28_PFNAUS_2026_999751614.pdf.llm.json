@@ -1,0 +1,59 @@
+{
+  "invoice_data": {
+    "invoice_number": "CA06-00859086",
+    "invoice_date": "12/04/24",
+    "invoice_amount": "1,260.05",
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": "52.09",
+    "po_number": [
+      "4500943653"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": "4.3125",
+    "cost_center": null,
+    "vendor_name": "REMIT MOTION INDUSTRIES, INC.",
+    "vendor_address": "19489 WISHON DR, STE 100, BAKERSFIELD, CA 93308",
+    "po_line_items": [
+      {
+        "description": "PNEUMATIC VALVES",
+        "quantity": 4.0,
+        "net_price": 301.99
+      }
+    ],
+    "vat_amount": null,
+    "gl_account": null,
+    "bank_name": null,
+    "account_holder_name": null,
+    "banking_account_number": null,
+    "remit_to_address": null,
+    "bill_to_address": null,
+    "transaction_type": "debit"
+  },
+  "filename": "SAPS4_5101994000_US28_PFNAUS_2026_999751614.pdf",
+  "raw_response": {
+    "invoice_number": "CA06-00859086",
+    "invoice_date": "12/04/24",
+    "invoice_amount": "1,260.05",
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": "52.09",
+    "po_number": [
+      "4500943653"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": "4.3125",
+    "cost_center": null,
+    "vendor_name": "REMIT MOTION INDUSTRIES, INC.",
+    "vendor_address": "19489 WISHON DR, STE 100, BAKERSFIELD, CA 93308",
+    "po_line_items": [
+      {
+        "description": "PNEUMATIC VALVES",
+        "quantity": 4.0,
+        "net_price": 301.99
+      }
+    ]
+  }
+}

@@ -1,0 +1,442 @@
+==================================<Page 1 - START>================================
+Standard Invoice
+Original tax invoice has been submitted electronically. This is a
+human readable representation (copy) of the original tax invoice.
+                                                                                                                         4857911
+                                                                  Invoice Number
+                                                                  (Supplier Reference No.)
+                                                                  Invoice Date                     Friday 6 Feb. 2026 12:00 p.m. GMT-05:00
+                                                                  Amount Due                                        $1,324.72 CAD
+    Contact Information
+    Supplier
+                                  Customer
+    Westburne Canada
+                                  PepsiCo Canada ULC (FLC)
+     1180 Courtneypark Dr East
+                                  2095 Matheson Blvd East
+     2nd Floor
+                                  MISSISSAUGA
+     Mississauga
+                                  ON
+     ON
+                                  L4W 0G2
+     L5T 1P2
+                                  Canada
+     Canada
+                                  Address ID: CA11
+     Supplier VAT/Tax ID
+     865920763RT0002
+   Line Items
+                                                          PO No. : M413520413                                      PO Date : 27 Jan. 2026
+   Line No.   PO Line No.
+                                Type    Supplier Part No. /             Customer Part No.        Quantity            Unit Price         Subtotal
+                                        Description                                       (UOM)
+   1
+             1                 Material  BUSLPCC6 / LP-CC-6 BUSS LOW                       10 / (EA)
+                                                                                                        $11.49 CAD     $114.90 CAD
+                                        PEAK FUSE 600V
+                                                                                                    Line Item Total : $114.90 CAD
+   Line No.    PO Line No.          Type    Supplier Part No. /
+                                                                  Customer Part No.        Quantity            Unit Price         Subtotal
+                                       Description
+                                                                                       (UOM)
+   2
+             2                 Material FIT140504 / FIT140504 1 X 3/4                          1 / (EA)            $2.00 CAD
+                                                                                                                        $2.00 CAD
+                                       REDUCING WASHER QTY(10)
+                                                                                                      Line Item Total : $2.00 CAD
+   Line No.   PO Line No.          Type    Supplier Part No. /
+                                                                  Customer Part No.        Quantity            Unit Price         Subtotal
+                                       Description
+                                                                                       (UOM)
+   3
+             3                 MaterialTHS5262 / 5262 T&amp;B 1/2                           1 / (EA)           $28.60 CAD      $28.60 CAD
+                                       SEALING O-RING QTY (10)
+                                                                                                     Line Item Total : $28.60 CAD
+   Line No.   PO Line No.         Type   Supplier Part No. /
+                                                                  Customer Part No.        Quantity            Unit Price         Subtotal
+                                       Description
+                                                                                       (UOM)
+   4        4                 Material
+                                       THS5352SST6 / 5352SST6 1/2 90                        10 / (EA)          $69.16 CAD      $691.60 CAD
+                                       DEG 316 SS LT FITTING
+                                                                                                    Line Item Total : $691.60 CAD
+  Line No.
+             PO Line No.          Type    Supplier Part No. /
+                                                                 Customer Part No.         Quantity            Unit Price         Subtotal
+                                       Description                                        (UOM)
+  5        5                 Material  THS5333SST6 / 5333SST6 3/4
+                                                                                      1 / (EA)            $1.67 CAD       $1.67 CAD
+                                       STRAIGHT 316 SS LT FITTING
+                                       (QTY:3)
+                                                                                                     Line Item Total : $1.67 CAD
+  Line No.   PO Line No.          Type    Supplier Part No. /
+                                                                 Customer Part No.        Quantity            Unit Price
+                                      Description                                                                          Subtotal
+                                                                                      (UOM)
+  6
+            6                 Material THS5332SST6 / 5332SST6 1/2
+                                                                                      7 / (EA)           $47.65 CAD     $333.55 CAD
+                                       STRAIGHT 316 SS LT FITTING
+                                                                                                    Line Item Total : $333.55 CAD
+     Tax Summary
+     Category               Details
+                                                           Base Amount
+                                                                                    Rate %          Amount
+     HST                  Tax Description : HST 13%
+                                                           $1.172.32 CAD              13%            $152.40 CAD
+                                                                             Amount Summary
+                                                                             Line item subtotal
+                                                                                                                   $1,172.32 CAD
+                                                                             Shipping charges
+                                                                                                                      $0.00 CAD
+                                                                             Gross amount
+                                                                                                                   $1,324.72 CAD
+                                                                             Net amount
+                                                                                                                   $1,324.72 CAD
+                                                                             Total tax amount
+                                                                                                                    $152.40 CAD
+                                                                             Total withholding tax amount
+                                                                             Amount Due                             $1,324.72 CAD
+   Additional Information
+   Payment Method
+   Wire
+   Billing Information
+                                                                         Remittance Information
+   Bill From                      Bill To
+                                                                        Remit To
+   Westburne
+                                PepsiCo Canada ULC (FLC)
+   1180 Courtneypark Dr East                                                  Westburne
+                                2095 Matheson Blvd East
+   2nd Floor                                                              Westburne Ontario A Division
+                                MISSISSAUGA
+   Mississauga                                                            of Rexel Canada Electrical Inc
+   ON                          ON                                     Ontario
+                                L4W 0G2                                 PO Box 1220 Stn B
+   L5T 1P2                      Canada
+   Canada                                                               Mississauga
+                                Address ID: CA11
+                                                                        ON
+                                                                        L4Y 3W5
+                                                                        Canada
+                                                                        Tax ID of Supplier
+                                                                        865920763RT0002
+Payment Terms
+Net payment Terms (Days) :
+90
+==================================<Page 1 - END>================================
+==================================<Page 2 - START>================================
+  Appendix
+  Line No.
+             PO Line No. Type                            Supplier Part No. / Description
+  1
+             1         Material                          BUSLPCC6 / LP-CC-6 BUSS LOW PEAK FUSE 600V
+  Additional Details:
+                                                                      Ship From                          Ship To
+  Classification Domain : custom                                            Westburne                          CA-PL-CAMBRIDGE-ON-FLC
+  Classification Code : MRO757027                                          1180 Courtneypark Dr East             Monica.Santana2@pepsico.com
+  Supplier Part ID : BUSLPCC6                                             2nd Floor                          CA-PL-CAMBRIDGE-ON-FLC
+                                                                      Mississauga                        1001 BISHOP ST N
+                                                                      ON                               CAMBRIDGE
+                                                                      L5T 1P2
+                                                                                                        ON
+                                                                      Canada
+                                                                                                        N3H 4V8
+                                                                                                        Canada
+  Line No.
+             PO Line No. Type                            Supplier Part No. / Description
+   2         2         Material                          FIT140504 / FIT140504 1 X 3/4 REDUCING WASHER QTY(10)
+   Additional Details:                                                     Ship From                          Ship To
+   Classification Domain : custom                                           Westburne                          CA-PL-CAMBRIDGE-ON-FLC
+   Classification Code : MRO757027                                         1180 Courtneypark Dr East              Dhaval.Solanki@pepsico.com
+   Supplier Part ID : FIT140504                                             2nd Floor                           CA-PL-CAMBRIDGE-ON-FLC
+                                                                     Mississauga                         1001 BISHOP ST N
+                                                                     ON                               CAMBRIDGE
+                                                                     L5T 1P2                            ON
+                                                                     Canada                            N3H 4V8
+                                                                                                        Canada
+   Line No.    PO Line No. Type                            Supplier Part No. / Description
+   3         3         Material                          THS5262 / 5262 T&amp;B 1/2 SEALING O-RING QTY (10)
+   Additional Details:
+                                                                     Ship From                          Ship To
+   Classification Domain : custom                                            Westburne                          CA-PL-CAMBRIDGE-ON-ELC
+   Classification Code : MRO757027
+                                                                     1180 Courtneypark Dr East              Dhaval.Solanki@pepsico.com
+   Supplier Part ID : THS5262
+                                                                     2nd Floor                           CA-PL-CAMBRIDGE-ON-ELC
+                                                                     Mississauga                         1001 BISHOP ST N
+                                                                     ON                               CAMBRIDGE
+                                                                     L5T 1P2                           ON
+                                                                     Canada                            N3H 4V8
+                                                                                                       Canada
+  Line No.    PO Line No. Type                            Supplier Part No. / Description
+   4         4         Material                          THS5352SST6 / 5352SST6 1/2 90 DEG 316 SS LT FITTING
+   Additional Details:                                                     Ship From                          Ship To
+   Classification Domain : custom
+                                                                     Westburne                          CA-PL-CAMBRIDGE-ON-FLC
+   Classification Code : MRO757027                                          1180 Courtneypark Dr East
+                                                                                                       Dhaval.Solanki@pepsico.com
+   Supplier Part ID : THS5352SST6                                          2nd Floor                          CA-PL-CAMBRIDGE-ON-FLC
+                                                                     Mississauga                        1001 BISHOP ST N
+                                                                     ON                               CAMBRIDGE
+                                                                     L5T 1P2                           ON
+                                                                     Canada
+                                                                                                      N3H 4V8
+                                                                                                       Canada
+   Line No.
+             PO Line No. Type                            Supplier Part No. / Description
+   5         5
+                        Material                          THS5333SST6 / 5333SST6 3/4 STRAIGHT 316 SS LT FITTING (QTY:3)
+   Additional Details:                                                     Ship From                          Ship To
+   Classification Domain : custom                                           Westburne
+                                                                                                      CA-PL-CAMBRIDGE-ON-FLC
+   Classification Code : MRO757027                                         1180 Courtneypark Dr East
+                                                                                                      Dhaval.Solanki@pepsico.com
+   Supplier Part ID : THS5333SST6                                          2nd Floor                          CA-PL-CAMBRIDGE-ON-FLC
+                                                                    Mississauga                        1001 BISHOP ST N
+                                                                    ON                               CAMBRIDGE
+                                                                    L5T 1P2                           ON
+                                                                    Canada                           N3H 4V8
+                                                                                                      Canada
+  Line No.    PO Line No. Type
+                                                       Supplier Part No. / Description
+  6         6         Material
+                                                       THS5332SST6 / 5332SST6 1/2 STRAIGHT 316 SS LT FITTING
+  Additional Details:
+                                                                    Ship From                          Ship To
+  Classification Domain : custom
+                                                                    Westburne                         CA-PL-CAMBRIDGE-ON-ELC
+  Classification Code : MRO757027
+                                                                    1180 Courtneypark Dr East             Dhaval.Solanki@pepsico.com
+  Supplier Part ID : THS5332SST6
+                                                                    2nd Floor                          CA-PL-CAMBRIDGE-ON-FLC
+                                                                                                     1001 BISHOP ST N
+                                                                    Mississauga
+                                                                    ON                               CAMBRIDGE
+                                                                    L5T 1P2                           ON
+                                                                   Canada                           N3H 4V8
+                                                                                                     Canada
+PDF generated on Tuesday 10 Feb. 2026 11:22 a.m. GMT-08:00
+==================================<Page 2 - END>================================
+==================================<Page 3 - START>================================
+Standard Invoice
+Original tax invoice has been submitted electronically. This is a
+human readable representation (copy) of the original tax invoice.
+                                                                                                                         4857911
+                                                                  Invoice Number
+                                                                  (Supplier Reference No.)
+                                                                  Invoice Date                     Friday 6 Feb. 2026 12:00 p.m. GMT-05:00
+                                                                  Amount Due                                        $1,324.72 CAD
+    Contact Information
+    Supplier
+                                  Customer
+    Westburne Canada
+                                  PepsiCo Canada ULC (FLC)
+     1180 Courtneypark Dr East
+                                  2095 Matheson Blvd East
+     2nd Floor
+                                  MISSISSAUGA
+     Mississauga
+                                  ON
+     ON
+                                  L4W 0G2
+     L5T 1P2
+                                  Canada
+     Canada
+                                  Address ID: CA11
+     Supplier VAT/Tax ID
+     865920763RT0002
+   Line Items
+                                                          PO No. : M413520413                                      PO Date : 27 Jan. 2026
+   Line No.   PO Line No.
+                                Type    Supplier Part No. /             Customer Part No.        Quantity            Unit Price         Subtotal
+                                        Description                                       (UOM)
+   1
+             1                 Material  BUSLPCC6 / LP-CC-6 BUSS LOW                       10 / (EA)
+                                                                                                        $11.49 CAD     $114.90 CAD
+                                        PEAK FUSE 600V
+                                                                                                    Line Item Total : $114.90 CAD
+   Line No.    PO Line No.          Type    Supplier Part No. /
+                                                                  Customer Part No.        Quantity            Unit Price         Subtotal
+                                       Description
+                                                                                       (UOM)
+   2
+             2                 Material FIT140504 / FIT140504 1 X 3/4                          1 / (EA)            $2.00 CAD
+                                                                                                                        $2.00 CAD
+                                       REDUCING WASHER QTY(10)
+                                                                                                      Line Item Total : $2.00 CAD
+   Line No.   PO Line No.          Type    Supplier Part No. /
+                                                                  Customer Part No.        Quantity            Unit Price         Subtotal
+                                       Description
+                                                                                       (UOM)
+   3
+             3                 MaterialTHS5262 / 5262 T&amp;B 1/2                           1 / (EA)           $28.60 CAD      $28.60 CAD
+                                       SEALING O-RING QTY (10)
+                                                                                                     Line Item Total : $28.60 CAD
+   Line No.   PO Line No.         Type   Supplier Part No. /
+                                                                  Customer Part No.        Quantity            Unit Price         Subtotal
+                                       Description
+                                                                                       (UOM)
+   4        4                 Material
+                                       THS5352SST6 / 5352SST6 1/2 90                        10 / (EA)          $69.16 CAD      $691.60 CAD
+                                       DEG 316 SS LT FITTING
+                                                                                                    Line Item Total : $691.60 CAD
+  Line No.
+             PO Line No.          Type    Supplier Part No. /
+                                                                 Customer Part No.         Quantity            Unit Price         Subtotal
+                                       Description                                        (UOM)
+  5        5                 Material  THS5333SST6 / 5333SST6 3/4
+                                                                                      1 / (EA)            $1.67 CAD       $1.67 CAD
+                                       STRAIGHT 316 SS LT FITTING
+                                       (QTY:3)
+                                                                                                     Line Item Total : $1.67 CAD
+  Line No.   PO Line No.          Type    Supplier Part No. /
+                                                                 Customer Part No.        Quantity            Unit Price
+                                      Description                                                                          Subtotal
+                                                                                      (UOM)
+  6
+            6                 Material THS5332SST6 / 5332SST6 1/2
+                                                                                      7 / (EA)           $47.65 CAD     $333.55 CAD
+                                       STRAIGHT 316 SS LT FITTING
+                                                                                                    Line Item Total : $333.55 CAD
+     Tax Summary
+     Category               Details
+                                                           Base Amount
+                                                                                    Rate %          Amount
+     HST                  Tax Description : HST 13%
+                                                           $1.172.32 CAD              13%            $152.40 CAD
+                                                                             Amount Summary
+                                                                             Line item subtotal
+                                                                                                                   $1,172.32 CAD
+                                                                             Shipping charges
+                                                                                                                      $0.00 CAD
+                                                                             Gross amount
+                                                                                                                   $1,324.72 CAD
+                                                                             Net amount
+                                                                                                                   $1,324.72 CAD
+                                                                             Total tax amount
+                                                                                                                    $152.40 CAD
+                                                                             Total withholding tax amount
+                                                                             Amount Due                             $1,324.72 CAD
+   Additional Information
+   Payment Method
+   Wire
+   Billing Information
+                                                                         Remittance Information
+   Bill From                      Bill To
+                                                                        Remit To
+   Westburne
+                                PepsiCo Canada ULC (FLC)
+   1180 Courtneypark Dr East                                                  Westburne
+                                2095 Matheson Blvd East
+   2nd Floor                                                              Westburne Ontario A Division
+                                MISSISSAUGA
+   Mississauga                                                            of Rexel Canada Electrical Inc
+   ON                          ON                                     Ontario
+                                L4W 0G2                                 PO Box 1220 Stn B
+   L5T 1P2                      Canada
+   Canada                                                               Mississauga
+                                Address ID: CA11
+                                                                        ON
+                                                                        L4Y 3W5
+                                                                        Canada
+                                                                        Tax ID of Supplier
+                                                                        865920763RT0002
+Payment Terms
+Net payment Terms (Days) :
+90
+==================================<Page 3 - END>================================
+==================================<Page 4 - START>================================
+  Appendix
+  Line No.
+             PO Line No. Type                            Supplier Part No. / Description
+  1
+             1         Material                          BUSLPCC6 / LP-CC-6 BUSS LOW PEAK FUSE 600V
+  Additional Details:
+                                                                      Ship From                          Ship To
+  Classification Domain : custom                                            Westburne                          CA-PL-CAMBRIDGE-ON-FLC
+  Classification Code : MRO757027                                          1180 Courtneypark Dr East             Monica.Santana2@pepsico.com
+  Supplier Part ID : BUSLPCC6                                             2nd Floor                          CA-PL-CAMBRIDGE-ON-FLC
+                                                                      Mississauga                        1001 BISHOP ST N
+                                                                      ON                               CAMBRIDGE
+                                                                      L5T 1P2
+                                                                                                        ON
+                                                                      Canada
+                                                                                                        N3H 4V8
+                                                                                                        Canada
+  Line No.
+             PO Line No. Type                            Supplier Part No. / Description
+   2         2         Material                          FIT140504 / FIT140504 1 X 3/4 REDUCING WASHER QTY(10)
+   Additional Details:                                                     Ship From                          Ship To
+   Classification Domain : custom                                           Westburne                          CA-PL-CAMBRIDGE-ON-FLC
+   Classification Code : MRO757027                                         1180 Courtneypark Dr East              Dhaval.Solanki@pepsico.com
+   Supplier Part ID : FIT140504                                             2nd Floor                           CA-PL-CAMBRIDGE-ON-FLC
+                                                                     Mississauga                         1001 BISHOP ST N
+                                                                     ON                               CAMBRIDGE
+                                                                     L5T 1P2                            ON
+                                                                     Canada                            N3H 4V8
+                                                                                                        Canada
+   Line No.    PO Line No. Type                            Supplier Part No. / Description
+   3         3         Material                          THS5262 / 5262 T&amp;B 1/2 SEALING O-RING QTY (10)
+   Additional Details:
+                                                                     Ship From                          Ship To
+   Classification Domain : custom                                            Westburne                          CA-PL-CAMBRIDGE-ON-ELC
+   Classification Code : MRO757027
+                                                                     1180 Courtneypark Dr East              Dhaval.Solanki@pepsico.com
+   Supplier Part ID : THS5262
+                                                                     2nd Floor                           CA-PL-CAMBRIDGE-ON-ELC
+                                                                     Mississauga                         1001 BISHOP ST N
+                                                                     ON                               CAMBRIDGE
+                                                                     L5T 1P2                           ON
+                                                                     Canada                            N3H 4V8
+                                                                                                       Canada
+  Line No.    PO Line No. Type                            Supplier Part No. / Description
+   4         4         Material                          THS5352SST6 / 5352SST6 1/2 90 DEG 316 SS LT FITTING
+   Additional Details:                                                     Ship From                          Ship To
+   Classification Domain : custom
+                                                                     Westburne                          CA-PL-CAMBRIDGE-ON-FLC
+   Classification Code : MRO757027                                          1180 Courtneypark Dr East
+                                                                                                       Dhaval.Solanki@pepsico.com
+   Supplier Part ID : THS5352SST6                                          2nd Floor                          CA-PL-CAMBRIDGE-ON-FLC
+                                                                     Mississauga                        1001 BISHOP ST N
+                                                                     ON                               CAMBRIDGE
+                                                                     L5T 1P2                           ON
+                                                                     Canada
+                                                                                                      N3H 4V8
+                                                                                                       Canada
+   Line No.
+             PO Line No. Type                            Supplier Part No. / Description
+   5         5
+                        Material                          THS5333SST6 / 5333SST6 3/4 STRAIGHT 316 SS LT FITTING (QTY:3)
+   Additional Details:                                                     Ship From                          Ship To
+   Classification Domain : custom                                           Westburne
+                                                                                                      CA-PL-CAMBRIDGE-ON-FLC
+   Classification Code : MRO757027                                         1180 Courtneypark Dr East
+                                                                                                      Dhaval.Solanki@pepsico.com
+   Supplier Part ID : THS5333SST6                                          2nd Floor                          CA-PL-CAMBRIDGE-ON-FLC
+                                                                    Mississauga                        1001 BISHOP ST N
+                                                                    ON                               CAMBRIDGE
+                                                                    L5T 1P2                           ON
+                                                                    Canada                           N3H 4V8
+                                                                                                      Canada
+  Line No.    PO Line No. Type
+                                                       Supplier Part No. / Description
+  6         6         Material
+                                                       THS5332SST6 / 5332SST6 1/2 STRAIGHT 316 SS LT FITTING
+  Additional Details:
+                                                                    Ship From                          Ship To
+  Classification Domain : custom
+                                                                    Westburne                         CA-PL-CAMBRIDGE-ON-ELC
+  Classification Code : MRO757027
+                                                                    1180 Courtneypark Dr East             Dhaval.Solanki@pepsico.com
+  Supplier Part ID : THS5332SST6
+                                                                    2nd Floor                          CA-PL-CAMBRIDGE-ON-FLC
+                                                                                                     1001 BISHOP ST N
+                                                                    Mississauga
+                                                                    ON                               CAMBRIDGE
+                                                                    L5T 1P2                           ON
+                                                                   Canada                           N3H 4V8
+                                                                                                     Canada
+PDF generated on Tuesday 10 Feb. 2026 11:22 a.m. GMT-08:00
+==================================<Page 4 - END>================================

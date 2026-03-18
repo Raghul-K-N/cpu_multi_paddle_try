@@ -1,0 +1,166 @@
+==================================<Page 1 - START>================================
+Standard Invoice
+                                                                                                                    GRAINGER
+Original tax invoice has been submited electronically. This is a
+human readable representation (copy) of the original tax invoice.
+                                                                 Invoice Number                                       9801300352
+                                                                 (Supplier Reference No.)
+                                                                 Invoice Date                    Monday 9 Feb. 2026 7:00 a.m. GMT-05:00
+                                                                                                                   $579.46 CAD
+                                                                 Amount Due
+    Contact Information
+                                                                           Shipping Information
+    Supplier
+                                  Customer
+                                                                           Ship From                     Ship To
+     ACKLANDS-GRAINGER INC.        EDI ONLY PEPSI FOODS ULC
+                                                                           AGI CALEDON DC               CA-PL-KENTVILLE-NS-FLC
+                                  (FLC)
+     PO BOX 2970                                                            21 Merchant Road               59 MINAS WAREHOUSE RD
+     WINNIPEG                     59 NEW MINAS RD                           Caledon                      KENTVILLE
+     MB                          NEW MINAS                                ON
+                                                                                                       NS
+     R3C 4B5                      NS                                      L7C 3Y7                      B4N 3W9
+     CA                          B4N 5A5                                  Canada
+                                                                                                       Canada
+                                  Canada
+  Line Items                                              PO No. : M413546279                                      PO Date : 9 Feb. 2026
+   Line No.    PO Line No.          Type    Supplier Part No. /             Customer Part No.        Quantity            Unit Price         Subtotal
+                                       Description                                       (UOM)
+   10                          Material  RMC31994 / BROOM RED                                                           $318.70 CAD
+             1                                                                        5 / (EA)          $63.74 CAD
+                                                                                                    Line Item Total : $318.70 CAD
+   Line No.   PO Line No.          Type    Supplier Part No. /             Customer Part No.                                          Subtotal
+                                                                                       Quantity            Unit Price
+                                       Description                                       (UOM)
+   20       2                 Material  RMC29604 / 51IN HANDLE.                            5 / (EA)          $37.92 CAD     $189.60 CAD
+                                       POLYPROPYLENE. RED
+                                                                                                   Line Item Total : $189.60 CAD
+      Tax Summary
+      Category              Details                          Base Amount               Rate %          Amount
+      GST                  Tax Description : GOODS AND         $508.30 CAD               14%            $71.16 CAD
+                            SERVICES
+      PST                  Tax Description : State/Provincial        $508.30 CAD               0%            $0.00 CAD
+                            Tax
+                                                                              Amount Summary
+                                                                              Line item subtotal                          $508.30 CAD
+                                                                              Gross amount                            $579.46 CAD
+                                                                                                                     $579.46 CAD
+                                                                              Net amount
+                                                                                                                      $71.16 CAD
+                                                                              Total tax amount
+                                                                              Total withholding tax amount
+                                                                                                                     $579.46 CAD
+                                                                              Amount Due
+     Additional Information
+     invioceSourceDocument
+     PurchaseOrder
+     Billing Information
+                                                                          Remittance Information
+     Bill To
+                                                                          Remit To
+    PEPSI FOODS ULC (FLC)                                                   ACKLANDS-GRAINGER INC.
+    2095 MATHESON BLVD E                                                  PO BOX 2970
+    MISSISSAUGA                                                           WINNIPEG
+    ON                                                                   MB
+    L4W 0G2                                                               R3C 4B5
+    Canada                                                                Canada
+    Address ID:                                                             Address ID: CA1_2751
+    CA1_ARIBA_PAYABLES
+==================================<Page 1 - END>================================
+==================================<Page 2 - START>================================
+Line No.                                                Supplier Part No. / Description
+            PO Line No. Type
+10         1          Material                          RMC31994 / BROOM RED
+Additional Details:
+Supplier Part ID : RMC31994
+Line No.    PO Line No. Type                            Supplier Part No. / Description
+20         2
+                        Material                          RMC29604 / 51IN HANDLE, POLYPROPYLENE, RED
+Additional Details:
+ Supplier Part ID : RMC29604
+PDF generated on Tuesday 10 Feb. 2026 6:25 a.m. GMT-08:00
+==================================<Page 2 - END>================================
+==================================<Page 3 - START>================================
+      Standard Invoice
+                                                                                                                          GRAINGER
+      Original tax invoice has been submited electronically. This is a
+      human readable representation (copy) of the original tax invoice.
+                                                                       Invoice Number                                       9801300352
+                                                                       (Supplier Reference No.)
+                                                                       Invoice Date                    Monday 9 Feb. 2026 7:00 a.m. GMT-05:00
+                                                                                                                         $579.46 CAD
+                                                                       Amount Due
+          Contact Information
+                                                                                 Shipping Information
+          Supplier
+                                        Customer
+                                                                                 Ship From                     Ship To
+           ACKLANDS-GRAINGER INC.        EDI ONLY PEPSI FOODS ULC
+                                                                                 AGI CALEDON DC               CA-PL-KENTVILLE-NS-FLC
+                                        (FLC)
+           PO BOX 2970                                                            21 Merchant Road               59 MINAS WAREHOUSE RD
+           WINNIPEG                     59 NEW MINAS RD                           Caledon                      KENTVILLE
+           MB                          NEW MINAS                                ON
+                                                                                                             NS
+           R3C 4B5                      NS                                      L7C 3Y7                      B4N 3W9
+           CA                          B4N 5A5                                  Canada
+                                                                                                             Canada
+                                        Canada
+        Line Items                                              PO No. : M413546279                                      PO Date : 9 Feb. 2026
+         Line No.    PO Line No.          Type    Supplier Part No. /             Customer Part No.        Quantity            Unit Price         Subtotal
+                                             Description                                       (UOM)
+         10                          Material  RMC31994 / BROOM RED                                                           $318.70 CAD
+                   1                                                                        5 / (EA)          $63.74 CAD
+                                                                                                          Line Item Total : $318.70 CAD
+         Line No.   PO Line No.          Type    Supplier Part No. /             Customer Part No.                                          Subtotal
+                                                                                             Quantity            Unit Price
+                                             Description                                       (UOM)
+         20       2                 Material  RMC29604 / 51IN HANDLE.                            5 / (EA)          $37.92 CAD     $189.60 CAD
+                                             POLYPROPYLENE. RED
+                                                                                                         Line Item Total : $189.60 CAD
+            Tax Summary
+            Category              Details                          Base Amount               Rate %          Amount
+            GST                  Tax Description : GOODS AND         $508.30 CAD               14%            $71.16 CAD
+                                  SERVICES
+            PST                  Tax Description : State/Provincial        $508.30 CAD               0%            $0.00 CAD
+                                  Tax
+                                                                                    Amount Summary
+                                                                                    Line item subtotal                          $508.30 CAD
+                                                                                    Gross amount                            $579.46 CAD
+                                                                                                                           $579.46 CAD
+                                                                                    Net amount
+                                                                                                                            $71.16 CAD
+                                                                                    Total tax amount
+                                                                                    Total withholding tax amount
+                                                                                                                           $579.46 CAD
+                                                                                    Amount Due
+           Additional Information
+           invioceSourceDocument
+           PurchaseOrder
+           Billing Information
+                                                                                Remittance Information
+           Bill To
+                                                                                Remit To
+          PEPSI FOODS ULC (FLC)                                                   ACKLANDS-GRAINGER INC.
+          2095 MATHESON BLVD E                                                  PO BOX 2970
+          MISSISSAUGA                                                           WINNIPEG
+          ON                                                                   MB
+          L4W 0G2                                                               R3C 4B5
+          Canada                                                                Canada
+          Address ID:                                                             Address ID: CA1_2751
+          CA1_ARIBA_PAYABLES
+==================================<Page 3 - END>================================
+==================================<Page 4 - START>================================
+Line No.                                                Supplier Part No. / Description
+            PO Line No. Type
+10         1          Material                          RMC31994 / BROOM RED
+Additional Details:
+Supplier Part ID : RMC31994
+Line No.    PO Line No. Type                            Supplier Part No. / Description
+20         2
+                        Material                          RMC29604 / 51IN HANDLE, POLYPROPYLENE, RED
+Additional Details:
+ Supplier Part ID : RMC29604
+PDF generated on Tuesday 10 Feb. 2026 6:25 a.m. GMT-08:00
+==================================<Page 4 - END>================================

@@ -1,0 +1,59 @@
+{
+  "invoice_data": {
+    "invoice_number": "72397972",
+    "invoice_date": "Tuesday 10 Feb. 2026 5:44 a.m. GMT-07:00",
+    "invoice_amount": "146.99",
+    "invoice_currency": [
+      "CAD"
+    ],
+    "tax_amount": "7.00",
+    "po_number": [
+      "M413543368"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "PEPSICO FOODS CANADA O/ A FRITO LAY CANADA",
+    "vendor_address": "5550 EXPLORER DR 8TH FLOOR MISSISSAUGA ON L4W 0C3 Canada, Address ID: CA1 ARIBA PAYABLES",
+    "po_line_items": [
+      {
+        "description": "STOOL WITH ARMS",
+        "quantity": 1.0,
+        "net_price": 139.99
+      }
+    ],
+    "vat_amount": null,
+    "gl_account": null,
+    "bank_name": null,
+    "account_holder_name": null,
+    "banking_account_number": null,
+    "remit_to_address": null,
+    "bill_to_address": null,
+    "transaction_type": "debit"
+  },
+  "filename": "SAPS4_5101415001_CA02_PBNACA_2026_328553410.pdf",
+  "raw_response": {
+    "invoice_number": "72397972",
+    "invoice_date": "Tuesday 10 Feb. 2026 5:44 a.m. GMT-07:00",
+    "invoice_amount": "146.99",
+    "invoice_currency": [
+      "CAD"
+    ],
+    "tax_amount": "7.00",
+    "po_number": [
+      "M413543368"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "PEPSICO FOODS CANADA O/ A FRITO LAY CANADA",
+    "vendor_address": "5550 EXPLORER DR 8TH FLOOR MISSISSAUGA ON L4W 0C3 Canada, Address ID: CA1 ARIBA PAYABLES",
+    "po_line_items": [
+      {
+        "description": "STOOL WITH ARMS",
+        "quantity": 1.0,
+        "net_price": 139.99
+      }
+    ]
+  }
+}

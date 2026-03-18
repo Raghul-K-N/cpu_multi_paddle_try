@@ -1,0 +1,129 @@
+{
+  "invoice_data": {
+    "invoice_number": "5890700624",
+    "invoice_date": "02/11/2026",
+    "invoice_amount": "49.68",
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": null,
+    "po_number": [
+      "M412783129"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": "0.00",
+    "cost_center": null,
+    "vendor_name": "VESTIS",
+    "vendor_address": "14600 PROCTOR AVE, CITY OF INDUSTRY CA 91746",
+    "po_line_items": [
+      {
+        "description": "CE0104BLAK WET MOP HANDLE",
+        "quantity": 0.0,
+        "net_price": 0.0
+      },
+      {
+        "description": "CE0278XXXX DISP PROSOY SOAP",
+        "quantity": 0.256,
+        "net_price": 0.26
+      },
+      {
+        "description": "CE0347BLAK DISPENSER AUTO CH",
+        "quantity": 1.0,
+        "net_price": 0.183
+      },
+      {
+        "description": "DM0001DKGY MAT NYLON/RUBBER",
+        "quantity": 4.0,
+        "net_price": 0.826
+      },
+      {
+        "description": "DM0002MISC MAT SAFETY SLOGAN",
+        "quantity": 4.0,
+        "net_price": 1.186
+      },
+      {
+        "description": "DP0025GREN MOP WET SYNTHETIC",
+        "quantity": 8.0,
+        "net_price": 0.0
+      },
+      {
+        "description": "TO0108BLUE MICROFIBER WIPER 16X16",
+        "quantity": 300.0,
+        "net_price": 0.067
+      },
+      {
+        "description": "TS0002REDD SHOP TOWEL PLAIN",
+        "quantity": 800.0,
+        "net_price": 0.021
+      }
+    ],
+    "vat_amount": null,
+    "gl_account": null,
+    "bank_name": null,
+    "account_holder_name": null,
+    "banking_account_number": null,
+    "remit_to_address": null,
+    "bill_to_address": null,
+    "transaction_type": "debit"
+  },
+  "filename": "SAPS4_5100124525_US29_PFNAUS_2026_999936457.pdf",
+  "raw_response": {
+    "invoice_number": "5890700624",
+    "invoice_date": "02/11/2026",
+    "invoice_amount": "49.68",
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": null,
+    "po_number": [
+      "M412783129"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": "0.00",
+    "cost_center": null,
+    "vendor_name": "VESTIS",
+    "vendor_address": "14600 PROCTOR AVE, CITY OF INDUSTRY CA 91746",
+    "po_line_items": [
+      {
+        "description": "CE0104BLAK WET MOP HANDLE",
+        "quantity": 0.0,
+        "net_price": 0.0
+      },
+      {
+        "description": "CE0278XXXX DISP PROSOY SOAP",
+        "quantity": 0.256,
+        "net_price": 0.26
+      },
+      {
+        "description": "CE0347BLAK DISPENSER AUTO CH",
+        "quantity": 1.0,
+        "net_price": 0.183
+      },
+      {
+        "description": "DM0001DKGY MAT NYLON/RUBBER",
+        "quantity": 4.0,
+        "net_price": 0.826
+      },
+      {
+        "description": "DM0002MISC MAT SAFETY SLOGAN",
+        "quantity": 4.0,
+        "net_price": 1.186
+      },
+      {
+        "description": "DP0025GREN MOP WET SYNTHETIC",
+        "quantity": 8.0,
+        "net_price": 0.0
+      },
+      {
+        "description": "TO0108BLUE MICROFIBER WIPER 16X16",
+        "quantity": 300.0,
+        "net_price": 0.067
+      },
+      {
+        "description": "TS0002REDD SHOP TOWEL PLAIN",
+        "quantity": 800.0,
+        "net_price": 0.021
+      }
+    ]
+  }
+}

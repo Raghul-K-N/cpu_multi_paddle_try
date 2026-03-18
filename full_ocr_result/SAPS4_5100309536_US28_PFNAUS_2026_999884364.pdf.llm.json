@@ -1,0 +1,47 @@
+{
+  "invoice_data": {
+    "invoice_number": "43711",
+    "invoice_date": "2/11/2026",
+    "invoice_amount": null,
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": null,
+    "po_number": [
+      "4504755181"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "South Georgia Machine & Fabrication",
+    "vendor_address": "69 East Jefferson Street, Hazlehurst, GA 31539",
+    "po_line_items": null,
+    "vat_amount": null,
+    "gl_account": null,
+    "bank_name": null,
+    "account_holder_name": null,
+    "banking_account_number": null,
+    "remit_to_address": null,
+    "bill_to_address": null,
+    "transaction_type": "debit"
+  },
+  "filename": "SAPS4_5100309536_US28_PFNAUS_2026_999884364.pdf",
+  "raw_response": {
+    "invoice_number": "43711",
+    "invoice_date": "2/11/2026",
+    "invoice_amount": null,
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": null,
+    "po_number": [
+      "4504755181"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "South Georgia Machine & Fabrication",
+    "vendor_address": "69 East Jefferson Street, Hazlehurst, GA 31539",
+    "po_line_items": null
+  }
+}

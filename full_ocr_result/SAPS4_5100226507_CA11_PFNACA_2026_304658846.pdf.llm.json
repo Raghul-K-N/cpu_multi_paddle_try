@@ -1,0 +1,79 @@
+{
+  "invoice_data": {
+    "invoice_number": "4504466696",
+    "invoice_date": "01/30/2026",
+    "invoice_amount": "96.62",
+    "invoice_currency": [
+      "CAD"
+    ],
+    "tax_amount": "11.12",
+    "po_number": [
+      "760015482"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "BRIDGESTONE CANADA INC.",
+    "vendor_address": "770 HURONTARIO STREET, SUITE 300, MISSISSAUGA, ON L5R 3G5, CANADA",
+    "po_line_items": [
+      {
+        "description": "FLAT REPAIR,MT (FROM VEH)",
+        "quantity": 1.0,
+        "net_price": 65.5
+      },
+      {
+        "description": "MISC TIRE RELATED PRODUCT",
+        "quantity": 1.0,
+        "net_price": 10.0
+      },
+      {
+        "description": "WHEEL TORQUE",
+        "quantity": 1.0,
+        "net_price": 10.0
+      }
+    ],
+    "vat_amount": null,
+    "gl_account": null,
+    "bank_name": null,
+    "account_holder_name": null,
+    "banking_account_number": null,
+    "remit_to_address": null,
+    "bill_to_address": null,
+    "transaction_type": "debit"
+  },
+  "filename": "SAPS4_5100226507_CA11_PFNACA_2026_304658846.pdf",
+  "raw_response": {
+    "invoice_number": "4504466696",
+    "invoice_date": "01/30/2026",
+    "invoice_amount": "96.62",
+    "invoice_currency": [
+      "CAD"
+    ],
+    "tax_amount": "11.12",
+    "po_number": [
+      "760015482"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "BRIDGESTONE CANADA INC.",
+    "vendor_address": "770 HURONTARIO STREET, SUITE 300, MISSISSAUGA, ON L5R 3G5, CANADA",
+    "po_line_items": [
+      {
+        "description": "FLAT REPAIR,MT (FROM VEH)",
+        "quantity": 1.0,
+        "net_price": 65.5
+      },
+      {
+        "description": "MISC TIRE RELATED PRODUCT",
+        "quantity": 1.0,
+        "net_price": 10.0
+      },
+      {
+        "description": "WHEEL TORQUE",
+        "quantity": 1.0,
+        "net_price": 10.0
+      }
+    ]
+  }
+}

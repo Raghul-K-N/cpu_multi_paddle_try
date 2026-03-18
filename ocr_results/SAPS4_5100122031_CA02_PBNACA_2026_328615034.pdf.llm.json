@@ -1,0 +1,59 @@
+{
+  "invoice_data": {
+    "invoice_number": "77518",
+    "invoice_date": "02/01/2026",
+    "invoice_amount": "1,008.00",
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": "48.00",
+    "po_number": [
+      "M413289387"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "Klean-Rite Ltd.",
+    "vendor_address": "9903 112 Avenue, Grande Prairie AB T8V 1V5",
+    "po_line_items": [
+      {
+        "description": "Janitorial Services 2x a week, 1 @ $960.00",
+        "quantity": 1.0,
+        "net_price": 960.0
+      }
+    ],
+    "vat_amount": null,
+    "gl_account": null,
+    "bank_name": null,
+    "account_holder_name": null,
+    "banking_account_number": null,
+    "remit_to_address": null,
+    "bill_to_address": null,
+    "transaction_type": "debit"
+  },
+  "filename": "SAPS4_5100122031_CA02_PBNACA_2026_328615034.pdf",
+  "raw_response": {
+    "invoice_number": "77518",
+    "invoice_date": "02/01/2026",
+    "invoice_amount": "1,008.00",
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": "48.00",
+    "po_number": [
+      "M413289387"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "Klean-Rite Ltd.",
+    "vendor_address": "9903 112 Avenue, Grande Prairie AB T8V 1V5",
+    "po_line_items": [
+      {
+        "description": "Janitorial Services 2x a week, 1 @ $960.00",
+        "quantity": 1.0,
+        "net_price": 960.0
+      }
+    ]
+  }
+}

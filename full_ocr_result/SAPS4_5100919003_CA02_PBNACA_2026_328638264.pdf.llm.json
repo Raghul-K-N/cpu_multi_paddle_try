@@ -1,0 +1,69 @@
+{
+  "invoice_data": {
+    "invoice_number": "AB03-00871586",
+    "invoice_date": "01/30/26",
+    "invoice_amount": "1042.04",
+    "invoice_currency": [
+      "CAD"
+    ],
+    "tax_amount": "49.62",
+    "po_number": [
+      "4504543151"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "REMIT MOTION INDUSTRIES, (CANADA) INC",
+    "vendor_address": "STATION M, CALGARY, AB T2P 5E1",
+    "po_line_items": [
+      {
+        "description": "RVP 103 LUBE RESERVOIR",
+        "quantity": 1.0,
+        "net_price": 893.67
+      },
+      {
+        "description": "FREIGHT ONLY",
+        "quantity": 1.0,
+        "net_price": 83.75
+      }
+    ],
+    "vat_amount": null,
+    "gl_account": null,
+    "bank_name": null,
+    "account_holder_name": null,
+    "banking_account_number": null,
+    "remit_to_address": null,
+    "bill_to_address": null,
+    "transaction_type": "debit"
+  },
+  "filename": "SAPS4_5100919003_CA02_PBNACA_2026_328638264.pdf",
+  "raw_response": {
+    "invoice_number": "AB03-00871586",
+    "invoice_date": "01/30/26",
+    "invoice_amount": "1042.04",
+    "invoice_currency": [
+      "CAD"
+    ],
+    "tax_amount": "49.62",
+    "po_number": [
+      "4504543151"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "REMIT MOTION INDUSTRIES, (CANADA) INC",
+    "vendor_address": "STATION M, CALGARY, AB T2P 5E1",
+    "po_line_items": [
+      {
+        "description": "RVP 103 LUBE RESERVOIR",
+        "quantity": 1.0,
+        "net_price": 893.67
+      },
+      {
+        "description": "FREIGHT ONLY",
+        "quantity": 1.0,
+        "net_price": 83.75
+      }
+    ]
+  }
+}

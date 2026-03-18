@@ -1,0 +1,61 @@
+{
+  "invoice_data": {
+    "invoice_number": "5749683282",
+    "invoice_date": "December 30, 2025",
+    "invoice_amount": "351.34",
+    "invoice_currency": [
+      "CAD"
+    ],
+    "tax_amount": null,
+    "po_number": [
+      "M413437597",
+      "M413444190"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": "261.56",
+    "cost_center": null,
+    "vendor_name": "UPS",
+    "vendor_address": "Billed To: FRI TO LAY CANADA, 8450 BOUL. GUI LLAUME-COUTURE, LEVIS QC G6V 7L7",
+    "po_line_items": [
+      {
+        "description": "POCKSWB PLUS/ATP MONITORING/16X25TE",
+        "quantity": 1.0,
+        "net_price": null
+      }
+    ],
+    "vat_amount": null,
+    "gl_account": null,
+    "bank_name": null,
+    "account_holder_name": null,
+    "banking_account_number": null,
+    "remit_to_address": null,
+    "bill_to_address": null,
+    "transaction_type": "debit"
+  },
+  "filename": "SAPS4_5100098005_CA11_PFNACA_2026_304667734.pdf",
+  "raw_response": {
+    "invoice_number": "5749683282",
+    "invoice_date": "December 30, 2025",
+    "invoice_amount": "351.34",
+    "invoice_currency": [
+      "CAD"
+    ],
+    "tax_amount": null,
+    "po_number": [
+      "M413437597",
+      "M413444190"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": "261.56",
+    "cost_center": null,
+    "vendor_name": "UPS",
+    "vendor_address": "Billed To: FRI TO LAY CANADA, 8450 BOUL. GUI LLAUME-COUTURE, LEVIS QC G6V 7L7",
+    "po_line_items": [
+      {
+        "description": "POCKSWB PLUS/ATP MONITORING/16X25TE",
+        "quantity": 1.0,
+        "net_price": null
+      }
+    ]
+  }
+}

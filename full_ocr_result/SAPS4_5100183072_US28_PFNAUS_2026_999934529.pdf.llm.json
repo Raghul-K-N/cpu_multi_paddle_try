@@ -1,0 +1,75 @@
+{
+  "invoice_data": {
+    "invoice_number": "OR04-00681355",
+    "invoice_date": "02/04/26",
+    "invoice_amount": null,
+    "invoice_currency": null,
+    "tax_amount": null,
+    "po_number": [
+      "4505054582"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "REMIT MOTION INDUSTRIES, INC.",
+    "vendor_address": "4207 NE 78TH ST., STE 150, VANCOUVER, WA 98665",
+    "po_line_items": [
+      {
+        "description": "L0723-063 LUBRICANT FG-350 9.5OZ AER CPNO: 500025624 LUBRICANTS & ADHESIVES",
+        "quantity": 60.0,
+        "net_price": 789.0
+      },
+      {
+        "description": "FBL51H+559L RAIL CPNO: 800387252 LINEAR PRODUCTS",
+        "quantity": 3.0,
+        "net_price": 191.73
+      },
+      {
+        "description": "EX600-DXPD DIG IN PNP 16 IN M12 CON CPNO: 800382485 PNEUMATIC PARTS",
+        "quantity": 1.0,
+        "net_price": 131.91
+      }
+    ],
+    "vat_amount": null,
+    "gl_account": null,
+    "bank_name": null,
+    "account_holder_name": null,
+    "banking_account_number": null,
+    "remit_to_address": null,
+    "bill_to_address": null,
+    "transaction_type": "debit"
+  },
+  "filename": "SAPS4_5100183072_US28_PFNAUS_2026_999934529.pdf",
+  "raw_response": {
+    "invoice_number": "OR04-00681355",
+    "invoice_date": "02/04/26",
+    "invoice_amount": null,
+    "invoice_currency": null,
+    "tax_amount": null,
+    "po_number": [
+      "4505054582"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "REMIT MOTION INDUSTRIES, INC.",
+    "vendor_address": "4207 NE 78TH ST., STE 150, VANCOUVER, WA 98665",
+    "po_line_items": [
+      {
+        "description": "L0723-063 LUBRICANT FG-350 9.5OZ AER CPNO: 500025624 LUBRICANTS & ADHESIVES",
+        "quantity": 60.0,
+        "net_price": 789.0
+      },
+      {
+        "description": "FBL51H+559L RAIL CPNO: 800387252 LINEAR PRODUCTS",
+        "quantity": 3.0,
+        "net_price": 191.73
+      },
+      {
+        "description": "EX600-DXPD DIG IN PNP 16 IN M12 CON CPNO: 800382485 PNEUMATIC PARTS",
+        "quantity": 1.0,
+        "net_price": 131.91
+      }
+    ]
+  }
+}

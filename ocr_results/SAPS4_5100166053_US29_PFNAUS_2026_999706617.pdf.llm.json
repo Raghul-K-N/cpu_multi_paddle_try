@@ -1,0 +1,59 @@
+{
+  "invoice_data": {
+    "invoice_number": "4484301",
+    "invoice_date": "Thursday 12 Feb 2026 11:13 PM GMT+00:00",
+    "invoice_amount": null,
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": null,
+    "po_number": [
+      "M413546993"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "HANTOVER",
+    "vendor_address": "HANTOVER - HARRISONBURG - 9501 Suite 1 1346 PLEASANTS DRIVE ROCKINGHAM VA 22801 United States",
+    "po_line_items": [
+      {
+        "description": "Material 24314YL / STRAPPING PRE-CUT ROLLED 1/2\" X 17' YELLOW W/WHITE BUCKLE 300 LB 500/CS PB1217Y",
+        "quantity": 15.0,
+        "net_price": 63.87
+      }
+    ],
+    "vat_amount": null,
+    "gl_account": null,
+    "bank_name": null,
+    "account_holder_name": null,
+    "banking_account_number": null,
+    "remit_to_address": null,
+    "bill_to_address": null,
+    "transaction_type": "debit"
+  },
+  "filename": "SAPS4_5100166053_US29_PFNAUS_2026_999706617.pdf",
+  "raw_response": {
+    "invoice_number": "4484301",
+    "invoice_date": "Thursday 12 Feb 2026 11:13 PM GMT+00:00",
+    "invoice_amount": null,
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": null,
+    "po_number": [
+      "M413546993"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "HANTOVER",
+    "vendor_address": "HANTOVER - HARRISONBURG - 9501 Suite 1 1346 PLEASANTS DRIVE ROCKINGHAM VA 22801 United States",
+    "po_line_items": [
+      {
+        "description": "Material 24314YL / STRAPPING PRE-CUT ROLLED 1/2\" X 17' YELLOW W/WHITE BUCKLE 300 LB 500/CS PB1217Y",
+        "quantity": 15.0,
+        "net_price": 63.87
+      }
+    ]
+  }
+}

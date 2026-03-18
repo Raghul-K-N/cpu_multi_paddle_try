@@ -1,0 +1,59 @@
+{
+  "invoice_data": {
+    "invoice_number": "459700071001",
+    "invoice_date": "Friday 13 Feb 2026 12:00 PM GMT-05:00",
+    "invoice_amount": "125.51",
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": "7.10",
+    "po_number": [
+      "M413555000"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "ODP BUSINESS SOLUTIONS, LLC",
+    "vendor_address": "ODP BUSINESS SOLUTIONS, LLC, 6600 North Military Trail, Boca Raton, FL 33496, US, 177019101, United States, Address ID: 2107",
+    "po_line_items": [
+      {
+        "description": "TONER,HP,138X,W1380X,BLK",
+        "quantity": 1.0,
+        "net_price": 118.41
+      }
+    ],
+    "vat_amount": null,
+    "gl_account": null,
+    "bank_name": null,
+    "account_holder_name": null,
+    "banking_account_number": null,
+    "remit_to_address": null,
+    "bill_to_address": null,
+    "transaction_type": "debit"
+  },
+  "filename": "SAPS4_5100293530_US28_PFNAUS_2026_999930830.pdf",
+  "raw_response": {
+    "invoice_number": "459700071001",
+    "invoice_date": "Friday 13 Feb 2026 12:00 PM GMT-05:00",
+    "invoice_amount": "125.51",
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": "7.10",
+    "po_number": [
+      "M413555000"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "ODP BUSINESS SOLUTIONS, LLC",
+    "vendor_address": "ODP BUSINESS SOLUTIONS, LLC, 6600 North Military Trail, Boca Raton, FL 33496, US, 177019101, United States, Address ID: 2107",
+    "po_line_items": [
+      {
+        "description": "TONER,HP,138X,W1380X,BLK",
+        "quantity": 1.0,
+        "net_price": 118.41
+      }
+    ]
+  }
+}

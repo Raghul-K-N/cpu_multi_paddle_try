@@ -1,0 +1,89 @@
+{
+  "invoice_data": {
+    "invoice_number": "9004198971",
+    "invoice_date": "01/30/2026",
+    "invoice_amount": "14,054.00",
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": null,
+    "po_number": [
+      "4504507117"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": "140.00",
+    "cost_center": null,
+    "vendor_name": "Schawk USA Inc.",
+    "vendor_address": "15 E. 14th Street, Cincinnati OH 45202, USA",
+    "po_line_items": [
+      {
+        "description": "TIER 2 MEDIUM ART - W/ XML DATA",
+        "quantity": 6.0,
+        "net_price": 562.0
+      },
+      {
+        "description": "TIER 2 MEDIUM SEPARATIONS",
+        "quantity": 6.0,
+        "net_price": 1460.0
+      },
+      {
+        "description": "ECOMM PILLOW BAG NO WINDOW MODERATE",
+        "quantity": 6.0,
+        "net_price": 265.0
+      },
+      {
+        "description": "SHIPPING",
+        "quantity": 4.0,
+        "net_price": 35.0
+      }
+    ],
+    "vat_amount": null,
+    "gl_account": null,
+    "bank_name": null,
+    "account_holder_name": null,
+    "banking_account_number": null,
+    "remit_to_address": null,
+    "bill_to_address": null,
+    "transaction_type": "debit"
+  },
+  "filename": "SAPS4_5100265500_US27_PFNAUS_2026_999762520.pdf",
+  "raw_response": {
+    "invoice_number": "9004198971",
+    "invoice_date": "01/30/2026",
+    "invoice_amount": "14,054.00",
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": null,
+    "po_number": [
+      "4504507117"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": "140.00",
+    "cost_center": null,
+    "vendor_name": "Schawk USA Inc.",
+    "vendor_address": "15 E. 14th Street, Cincinnati OH 45202, USA",
+    "po_line_items": [
+      {
+        "description": "TIER 2 MEDIUM ART - W/ XML DATA",
+        "quantity": 6.0,
+        "net_price": 562.0
+      },
+      {
+        "description": "TIER 2 MEDIUM SEPARATIONS",
+        "quantity": 6.0,
+        "net_price": 1460.0
+      },
+      {
+        "description": "ECOMM PILLOW BAG NO WINDOW MODERATE",
+        "quantity": 6.0,
+        "net_price": 265.0
+      },
+      {
+        "description": "SHIPPING",
+        "quantity": 4.0,
+        "net_price": 35.0
+      }
+    ]
+  }
+}

@@ -1,0 +1,99 @@
+{
+  "invoice_data": {
+    "invoice_number": "9801387284",
+    "invoice_date": "Monday 9 Feb. 2026 7:10 a.m. GMT-05:00",
+    "invoice_amount": "568.23",
+    "invoice_currency": [
+      "CAD"
+    ],
+    "tax_amount": "69.78",
+    "po_number": [
+      "M413545124"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "ACKLANDS-GRAINGER INC.",
+    "vendor_address": "PO BOX 2970, WINNIPEG, MB R3C 4B5, CA\nAGI CALEDON DC, Caledon, ON L7C 3Y7, Canada\n21 Merchant Road, Caledon, ON L7C 3Y7, Canada",
+    "po_line_items": [
+      {
+        "description": "BRNT1035 / TIP CONTACT QUIK TIP SERIES 1",
+        "quantity": 6.0,
+        "net_price": 3.14
+      },
+      {
+        "description": "ESB5500253000 / ELECTRODE,MILD STEEL,2.5 MM DIA",
+        "quantity": 2.0,
+        "net_price": 57.94
+      },
+      {
+        "description": "GGL105015 / MOUNTING TAPE,12.5 FT X 43 MIL,CLEAR",
+        "quantity": 2.0,
+        "net_price": 23.69
+      },
+      {
+        "description": "KMB49113 / COVERALL,WHITE,SZ L",
+        "quantity": 15.0,
+        "net_price": 9.89
+      },
+      {
+        "description": "RMC56865 / HYGIENIC BUCKET,3 1/4 GAL,WHITE",
+        "quantity": 4.0,
+        "net_price": 42.0
+      }
+    ],
+    "vat_amount": null,
+    "gl_account": null,
+    "bank_name": null,
+    "account_holder_name": null,
+    "banking_account_number": null,
+    "remit_to_address": null,
+    "bill_to_address": null,
+    "transaction_type": "debit"
+  },
+  "filename": "SAPS4_5101599003_CA11_PFNACA_2026_304654751.pdf",
+  "raw_response": {
+    "invoice_number": "9801387284",
+    "invoice_date": "Monday 9 Feb. 2026 7:10 a.m. GMT-05:00",
+    "invoice_amount": "568.23",
+    "invoice_currency": [
+      "CAD"
+    ],
+    "tax_amount": "69.78",
+    "po_number": [
+      "M413545124"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "ACKLANDS-GRAINGER INC.",
+    "vendor_address": "PO BOX 2970, WINNIPEG, MB R3C 4B5, CA\nAGI CALEDON DC, Caledon, ON L7C 3Y7, Canada\n21 Merchant Road, Caledon, ON L7C 3Y7, Canada",
+    "po_line_items": [
+      {
+        "description": "BRNT1035 / TIP CONTACT QUIK TIP SERIES 1",
+        "quantity": 6.0,
+        "net_price": 3.14
+      },
+      {
+        "description": "ESB5500253000 / ELECTRODE,MILD STEEL,2.5 MM DIA",
+        "quantity": 2.0,
+        "net_price": 57.94
+      },
+      {
+        "description": "GGL105015 / MOUNTING TAPE,12.5 FT X 43 MIL,CLEAR",
+        "quantity": 2.0,
+        "net_price": 23.69
+      },
+      {
+        "description": "KMB49113 / COVERALL,WHITE,SZ L",
+        "quantity": 15.0,
+        "net_price": 9.89
+      },
+      {
+        "description": "RMC56865 / HYGIENIC BUCKET,3 1/4 GAL,WHITE",
+        "quantity": 4.0,
+        "net_price": 42.0
+      }
+    ]
+  }
+}

@@ -1,0 +1,252 @@
+==================================<Page 1 - START>================================
+Standard Invoice
+                                                                                                                    GRAINGER
+Original tax invoice has been submitted electronically. This is a
+human readable representation (copy) of the original tax invoice.
+                                                                                                                  980599716126
+                                                                 Invoice Number
+                                                                 (Supplier Reference No.)
+                                                                Invoice Date                    Thursday 12 Feb 2026 2:55 AM GMT-07:00
+                                                                                                                  $1,490.83 USD
+                                                                Amount Due
+    Contact Information
+                                                                          Shipping Information
+    Supplier                      Customer                                                               Ship To
+                                                                          Ship From
+    Grainger
+                                 Frito-Lay Inc.                               Grainger                      US-PL-PULASKI-TN-FLI
+    100 Grainger Pkwy               c/o PEPSICO NASS                          4300 OLD AIRWAYS BLVD.         VMI ORDER
+    Lake Forest                    ACCOUNTS PAYABLES                       SOUTHAVEN                   298 INDUSTRIAL BLVD
+    IL                           PO BOX 1800                               MS                          PULASKI
+    Winst                        Winston Salem                              38671                        TN
+    United States                  NC                                      United States                    38478
+                                 27105                                                                 United States
+                                 United States                                                            Phone: (931) 363-4531
+  Line Items                                              PO No. : M413552732                                       PO Date : 11 Feb 2026
+  Line No.    PO Line No.         Type    Supplier Part No. /             Customer Part No.        Quantity            Unit Price         Subtotal
+                                       Description                                       (UOM)
+   1                                 4ACU1 / Paper Towel
+             1                 Material                                                 12 / (EA)          $55.60 USD      $667.20 USD
+                                       Roll,800,Brown,89480,PK6
+  Line No.   PO Line No.         Type    Supplier Part No. /                                  Quantity            Unit Price         Subtotal
+                                                                 Customer Part No.
+                                       Description                                       (UOM)
+   2        2                 Material 4KN37 / Trash Bags, Clr. PK200                         8 / (EA)           $29.36 USD      $234.88 USD
+  Line No.    PO Line No.         Type    Supplier Part No. /             Customer Part No.        Quantity            Unit Price         Subtotal
+                                       Description                                       UOM)
+  3        3                 Material 1AU29 / Toilet Bowl Cleaner.24                          2 / (EA)           $42.81 USD      $85.62 USD
+                                      oz,Bottle,PK12
+                                                                                                        Unit Price         Subtotal
+  Line No.    PO Line No.         Type    Supplier Part No. /             Customer Part No.        Quantity
+                                      Description                                       (UOM)
+  4                                                                                  6 / (EA)           $35.82 USD     $214.92 USD
+            4                 Material  31KY17 / Toilet Paper
+                                       Roll,Continuous,White,PK12
+  Line No.                              Supplier Part No. /                                  Quantity            Unit Price         Subtotal
+            PO Line No.         Type                              Customer Part No.
+                                      Description                                       (UOM)
+  5        5                 Material  60RE95 / Glass Clnr,Trig Spray                          1 / (EA)           $40.44 USD      $40.44 USD
+                                      B32 oz,PK8
+                                                                                                        Unit Price         Subtotal
+  Line No.   PO Line No.         Type   Supplier Part No. /             Customer Part No.        Quantity
+                                      Description                                       (UOM)
+                                                                                                      $115.35 USD      $115.35 USD
+  6        6                 Material  3WU88 / Disinfectant                                 1 / (EA)
+                                      Spray.Original,19 oz,PK12
+                                                                             Amount Summary
+                                                                              Line item subtotal                         $1,358.41 USD
+                                                                                                                    $1,490.83 USD
+                                                                              Gross amount
+                                                                                                                   $1,490.83 USD
+                                                                             Net amount
+                                                                             Total tax amount                           $132.42 USD
+                                                                             Total withholding tax amount
+                                                                             Amount Due                             $1,490.83 USD
+    Additional Information
+    InvoiceSourceDocument
+   PurchaseOrder
+   InvoiceSubmissionMethod
+   cXML
+                                                                         Remittance Information
+   Billing Information
+                                                                         Remit To
+   Bill To
+                                                                         GRAINGER
+   Frito-Lay Inc.
+   c/o PEPSICO NASS                                                       DEPT. 822227518
+   ACCOUNTS PAYABLES                                                    KANSAS CITY
+   PO BOX 1800                                                            MO
+   Winston Salem                                                           64141-6267
+   NC                                                                   United States
+   27105                                                                 Address ID: US1_10359
+   United States
+                                                                         Tax ID of Supplier
+   Address ID: US28
+                                                                         36-1150280
+                                                                     Reference Documents
+                                                                      Original Supplier Order #: 1575892667
+==================================<Page 1 - END>================================
+==================================<Page 2 - START>================================
+ Appendix
+ Line No.    PO Line No. Type
+                                                       Supplier Part No. / Description
+  1
+             1         Material
+                                                       4ACU1 / Paper Towel Roll,800,Brown,89480,PK6
+ Additional Details:
+ Supplier Part ID : 4ACU1
+ Supplier Part Auxiliary ID : WWG4ACU1
+ Line No.    PO Line No. Type                           Supplier Part No. / Description
+ 2
+            2         Material                         4KN37 / Trash Bags, Clr, PK200
+ Additional Details:
+ Supplier Part ID : 4KN37
+ Supplier Part Auxiliary ID : WWG4KN37
+Line No.    PO Line No. Type                           Supplier Part No. / Description
+ 3          3         Material                         1AU29 / Toilet Bowl Cleaner,24 oz,Bottle,PK12
+Additional Details:
+ Supplier Part ID : 1AU29
+Supplier Part Auxiliary ID : WWG1AU29
+Line No.    PO Line No. Type                           Supplier Part No. / Description
+4         4          Material                         31KY17 / Toilet Paper Roll,Continuous,White,PK12
+Additional Details:
+Supplier Part ID : 31KY17
+Supplier Part Auxiliary ID : WWG31KY17
+Line No.    PO Line No. Type                           Supplier Part No. / Description
+5         5         Material                         60RE95 / Glass Clnr,Trig Spray B32 oz,PK8
+Additional Details:
+Supplier Part ID : 60RE95
+Supplier Part Auxiliary ID : WWG60RE95
+Line No.    PO Line No. Type                            Supplier Part No. / Description
+6         6         Material                         3WU88 / Disinfectant Spray,Original,19 oz,PK12
+Additional Details:
+Supplier Part ID : 3WU88
+Supplier Part Auxiliary ID : WWG3WU88
+PDF generated on Friday 13 Feb 2026 1:05 AM GMT-08:00
+==================================<Page 2 - END>================================
+==================================<Page 3 - START>================================
+  Standard Invoice
+                                                                                                                     GRAINGER
+ Original tax invoice has been submitted electronically. This is a
+ human readable representation (copy) of the original tax invoice.
+                                                                                                                   980599716126
+                                                                  Invoice Number
+                                                                  (Supplier Reference No.)
+                                                                  Invoice Date                    Thursday 12 Feb 2026 2:55 AM GMT-07:00
+                                                                                                                   $1,490.83 USD
+                                                                  Amount Due
+     Contact Information
+                                                                           Shipping Information
+     Supplier                      Customer                                                               Ship To
+                                                                           Ship From
+     Grainger
+                                  Frito-Lay Inc.                               Grainger                      US-PL-PULASKI-TN-FLI
+      100 Grainger Pkwy               c/o PEPSICO NASS                          4300 OLD AIRWAYS BLVD.         VMI ORDER
+      Lake Forest                    ACCOUNTS PAYABLES                       SOUTHAVEN                   298 INDUSTRIAL BLVD
+      IL                           PO BOX 1800                               MS                          PULASKI
+      Winst                        Winston Salem                              38671                        TN
+      United States                  NC                                      United States                    38478
+                                  27105                                                                 United States
+                                   United States                                                            Phone: (931) 363-4531
+    Line Items                                              PO No. : M413552732                                       PO Date : 11 Feb 2026
+    Line No.    PO Line No.         Type    Supplier Part No. /             Customer Part No.        Quantity            Unit Price         Subtotal
+                                        Description                                       (UOM)
+    1                                 4ACU1 / Paper Towel
+              1                 Material                                                 12 / (EA)          $55.60 USD      $667.20 USD
+                                        Roll,800,Brown,89480,PK6
+    Line No.   PO Line No.         Type    Supplier Part No. /                                  Quantity            Unit Price         Subtotal
+                                                                  Customer Part No.
+                                        Description                                       (UOM)
+    2        2                 Material 4KN37 / Trash Bags, Clr. PK200                         8 / (EA)           $29.36 USD      $234.88 USD
+    Line No.    PO Line No.         Type    Supplier Part No. /             Customer Part No.        Quantity            Unit Price         Subtotal
+                                        Description                                       UOM)
+    3        3                 Material 1AU29 / Toilet Bowl Cleaner.24                          2 / (EA)           $42.81 USD      $85.62 USD
+                                        oz,Bottle,PK12
+                                                                                                          Unit Price         Subtotal
+    Line No.    PO Line No.         Type    Supplier Part No. /             Customer Part No.        Quantity
+                                        Description                                       (UOM)
+    4                                                                                  6 / (EA)           $35.82 USD     $214.92 USD
+              4                 Material  31KY17 / Toilet Paper
+                                        Roll,Continuous,White,PK12
+    Line No.                              Supplier Part No. /                                  Quantity            Unit Price         Subtotal
+              PO Line No.         Type                              Customer Part No.
+                                        Description                                       (UOM)
+   5        5                 Material  60RE95 / Glass Clnr,Trig Spray                          1 / (EA)           $40.44 USD      $40.44 USD
+                                        B32 oz,PK8
+                                                                                                          Unit Price         Subtotal
+   Line No.   PO Line No.         Type   Supplier Part No. /             Customer Part No.        Quantity
+                                       Description                                       (UOM)
+                                                                                                       $115.35 USD      $115.35 USD
+   6        6                 Material  3WU88 / Disinfectant                                 1 / (EA)
+                                        Spray.Original,19 oz,PK12
+                                                                               Amount Summary
+                                                                               Line item subtotal                         $1,358.41 USD
+                                                                                                                     $1,490.83 USD
+                                                                               Gross amount
+                                                                                                                     $1,490.83 USD
+                                                                               Net amount
+                                                                               Total tax amount                           $132.42 USD
+                                                                              Total withholding tax amount
+                                                                              Amount Due                             $1,490.83 USD
+     Additional Information
+     InvoiceSourceDocument
+    PurchaseOrder
+     InvoiceSubmissionMethod
+    cXML
+                                                                          Remittance Information
+    Billing Information
+                                                                          Remit To
+    Bill To
+                                                                          GRAINGER
+    Frito-Lay Inc.
+    c/o PEPSICO NASS                                                       DEPT. 822227518
+    ACCOUNTS PAYABLES                                                    KANSAS CITY
+    PO BOX 1800                                                            MO
+    Winston Salem                                                           64141-6267
+    NC                                                                   United States
+    27105                                                                 Address ID: US1_10359
+    United States
+                                                                          Tax ID of Supplier
+    Address ID: US28
+                                                                          36-1150280
+                                                                      Reference Documents
+                                                                       Original Supplier Order #: 1575892667
+==================================<Page 3 - END>================================
+==================================<Page 4 - START>================================
+ Appendix
+ Line No.    PO Line No. Type
+                                                       Supplier Part No. / Description
+  1
+             1         Material
+                                                       4ACU1 / Paper Towel Roll,800,Brown,89480,PK6
+ Additional Details:
+ Supplier Part ID : 4ACU1
+ Supplier Part Auxiliary ID : WWG4ACU1
+ Line No.    PO Line No. Type                           Supplier Part No. / Description
+ 2
+            2         Material                         4KN37 / Trash Bags, Clr, PK200
+ Additional Details:
+ Supplier Part ID : 4KN37
+ Supplier Part Auxiliary ID : WWG4KN37
+Line No.    PO Line No. Type                           Supplier Part No. / Description
+ 3          3         Material                         1AU29 / Toilet Bowl Cleaner,24 oz,Bottle,PK12
+Additional Details:
+ Supplier Part ID : 1AU29
+Supplier Part Auxiliary ID : WWG1AU29
+Line No.    PO Line No. Type                           Supplier Part No. / Description
+4         4          Material                         31KY17 / Toilet Paper Roll,Continuous,White,PK12
+Additional Details:
+Supplier Part ID : 31KY17
+Supplier Part Auxiliary ID : WWG31KY17
+Line No.    PO Line No. Type                           Supplier Part No. / Description
+5         5         Material                         60RE95 / Glass Clnr,Trig Spray B32 oz,PK8
+Additional Details:
+Supplier Part ID : 60RE95
+Supplier Part Auxiliary ID : WWG60RE95
+Line No.    PO Line No. Type                            Supplier Part No. / Description
+6         6         Material                         3WU88 / Disinfectant Spray,Original,19 oz,PK12
+Additional Details:
+Supplier Part ID : 3WU88
+Supplier Part Auxiliary ID : WWG3WU88
+PDF generated on Friday 13 Feb 2026 1:05 AM GMT-08:00
+==================================<Page 4 - END>================================

@@ -1,0 +1,69 @@
+{
+  "invoice_data": {
+    "invoice_number": "59702663",
+    "invoice_date": "2/11/26",
+    "invoice_amount": "290.12",
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": "12.66",
+    "po_number": [
+      "4505173987"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": "38.63",
+    "cost_center": null,
+    "vendor_name": "McMaster-Carr",
+    "vendor_address": "PO Box 7690, Chicago IL 60680-7690",
+    "po_line_items": [
+      {
+        "description": "Loop Handle Tube Brush with Stainless Steel Bristles, 5/8\" Diameter, 27\" Overall Length, Stainless Steel Stem",
+        "quantity": 3.0,
+        "net_price": 20.31
+      },
+      {
+        "description": "High-Temperature Silicone Rubber Sheet with Certificate, 1/4\" Thick, 50A Durometer, 24\" x 24\"",
+        "quantity": 1.0,
+        "net_price": 218.52
+      }
+    ],
+    "vat_amount": null,
+    "gl_account": null,
+    "bank_name": null,
+    "account_holder_name": null,
+    "banking_account_number": null,
+    "remit_to_address": null,
+    "bill_to_address": null,
+    "transaction_type": "debit"
+  },
+  "filename": "SAPS4_5100307049_US28_PFNAUS_2026_999884345.pdf",
+  "raw_response": {
+    "invoice_number": "59702663",
+    "invoice_date": "2/11/26",
+    "invoice_amount": "290.12",
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": "12.66",
+    "po_number": [
+      "4505173987"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": "38.63",
+    "cost_center": null,
+    "vendor_name": "McMaster-Carr",
+    "vendor_address": "PO Box 7690, Chicago IL 60680-7690",
+    "po_line_items": [
+      {
+        "description": "Loop Handle Tube Brush with Stainless Steel Bristles, 5/8\" Diameter, 27\" Overall Length, Stainless Steel Stem",
+        "quantity": 3.0,
+        "net_price": 20.31
+      },
+      {
+        "description": "High-Temperature Silicone Rubber Sheet with Certificate, 1/4\" Thick, 50A Durometer, 24\" x 24\"",
+        "quantity": 1.0,
+        "net_price": 218.52
+      }
+    ]
+  }
+}

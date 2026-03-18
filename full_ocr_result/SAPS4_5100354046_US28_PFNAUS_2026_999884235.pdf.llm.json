@@ -1,0 +1,69 @@
+{
+  "invoice_data": {
+    "invoice_number": "848059978",
+    "invoice_date": "02/11/2026",
+    "invoice_amount": "281.55",
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": "14.17",
+    "po_number": [
+      "4505174112"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "GRAINGER",
+    "vendor_address": "2424 MAGNOLIA COURT, RICHMOND, VA 23223-2332",
+    "po_line_items": [
+      {
+        "description": "ELECTRICALTAPE,BLACK,25-3/8YDL,3/4INW MANUFACTURER# 33+SUPER-3/4X76FT",
+        "quantity": 29.0,
+        "net_price": 8.38
+      },
+      {
+        "description": "GEN PURP ANTI-SEIZE,8 OZ.,BRSHTP CN Grainger Part Nbr: 5E203 Customer UOM: E MANUFACTURER # 234263",
+        "quantity": 1.0,
+        "net_price": 24.36
+      }
+    ],
+    "vat_amount": null,
+    "gl_account": null,
+    "bank_name": null,
+    "account_holder_name": null,
+    "banking_account_number": null,
+    "remit_to_address": null,
+    "bill_to_address": null,
+    "transaction_type": "debit"
+  },
+  "filename": "SAPS4_5100354046_US28_PFNAUS_2026_999884235.pdf",
+  "raw_response": {
+    "invoice_number": "848059978",
+    "invoice_date": "02/11/2026",
+    "invoice_amount": "281.55",
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": "14.17",
+    "po_number": [
+      "4505174112"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "GRAINGER",
+    "vendor_address": "2424 MAGNOLIA COURT, RICHMOND, VA 23223-2332",
+    "po_line_items": [
+      {
+        "description": "ELECTRICALTAPE,BLACK,25-3/8YDL,3/4INW MANUFACTURER# 33+SUPER-3/4X76FT",
+        "quantity": 29.0,
+        "net_price": 8.38
+      },
+      {
+        "description": "GEN PURP ANTI-SEIZE,8 OZ.,BRSHTP CN Grainger Part Nbr: 5E203 Customer UOM: E MANUFACTURER # 234263",
+        "quantity": 1.0,
+        "net_price": 24.36
+      }
+    ]
+  }
+}

@@ -1,0 +1,59 @@
+{
+  "invoice_data": {
+    "invoice_number": "97108",
+    "invoice_date": "Friday 6 Feb. 2026 5:06 p.m. GMT-05:00",
+    "invoice_amount": "634.17",
+    "invoice_currency": [
+      "CAD"
+    ],
+    "tax_amount": "30.20",
+    "po_number": [
+      "M413538642"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": "13.67",
+    "cost_center": null,
+    "vendor_name": "Ideas Unlimited Promotions",
+    "vendor_address": "5035 timberlea blvd #9, mississauga, ON 14w 2w9, Canada L4W 0G2, PBCSupplierServiceCanada@pepsico.com",
+    "po_line_items": [
+      {
+        "description": "Not Available / Ideas Unlimited #97108 JP Davignon",
+        "quantity": 1.0,
+        "net_price": 590.3
+      }
+    ],
+    "vat_amount": null,
+    "gl_account": null,
+    "bank_name": null,
+    "account_holder_name": null,
+    "banking_account_number": null,
+    "remit_to_address": null,
+    "bill_to_address": null,
+    "transaction_type": "debit"
+  },
+  "filename": "SAPS4_5101437500_CA02_PBNACA_2026_328604701.pdf",
+  "raw_response": {
+    "invoice_number": "97108",
+    "invoice_date": "Friday 6 Feb. 2026 5:06 p.m. GMT-05:00",
+    "invoice_amount": "634.17",
+    "invoice_currency": [
+      "CAD"
+    ],
+    "tax_amount": "30.20",
+    "po_number": [
+      "M413538642"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": "13.67",
+    "cost_center": null,
+    "vendor_name": "Ideas Unlimited Promotions",
+    "vendor_address": "5035 timberlea blvd #9, mississauga, ON 14w 2w9, Canada L4W 0G2, PBCSupplierServiceCanada@pepsico.com",
+    "po_line_items": [
+      {
+        "description": "Not Available / Ideas Unlimited #97108 JP Davignon",
+        "quantity": 1.0,
+        "net_price": 590.3
+      }
+    ]
+  }
+}

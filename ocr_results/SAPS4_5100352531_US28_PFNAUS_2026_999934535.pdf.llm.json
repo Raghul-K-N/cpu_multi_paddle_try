@@ -1,0 +1,59 @@
+{
+  "invoice_data": {
+    "invoice_number": "1035154-01",
+    "invoice_date": "02-04-26",
+    "invoice_amount": "120.18",
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": "9.37",
+    "po_number": [
+      "4502027684"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": "13.75",
+    "cost_center": null,
+    "vendor_name": "OneMonroe",
+    "vendor_address": "PO Box 88940, Milwaukee, WI 53288-8940",
+    "po_line_items": [
+      {
+        "description": "CASTER;SWIVEL;6X2 XTRA SOFT RUB- BER; DELRIN BEARING; GRIP LOCK BRAKE 16XS06251SGL",
+        "quantity": 2.0,
+        "net_price": 48.53
+      }
+    ],
+    "vat_amount": null,
+    "gl_account": null,
+    "bank_name": null,
+    "account_holder_name": null,
+    "banking_account_number": null,
+    "remit_to_address": null,
+    "bill_to_address": null,
+    "transaction_type": "debit"
+  },
+  "filename": "SAPS4_5100352531_US28_PFNAUS_2026_999934535.pdf",
+  "raw_response": {
+    "invoice_number": "1035154-01",
+    "invoice_date": "02-04-26",
+    "invoice_amount": "120.18",
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": "9.37",
+    "po_number": [
+      "4502027684"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": "13.75",
+    "cost_center": null,
+    "vendor_name": "OneMonroe",
+    "vendor_address": "PO Box 88940, Milwaukee, WI 53288-8940",
+    "po_line_items": [
+      {
+        "description": "CASTER;SWIVEL;6X2 XTRA SOFT RUB- BER; DELRIN BEARING; GRIP LOCK BRAKE 16XS06251SGL",
+        "quantity": 2.0,
+        "net_price": 48.53
+      }
+    ]
+  }
+}

@@ -1,0 +1,59 @@
+{
+  "invoice_data": {
+    "invoice_number": "0510390IN",
+    "invoice_date": "Friday 13 Feb 2026 9:07 AM GMT-06:00",
+    "invoice_amount": "2256.00",
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": null,
+    "po_number": [
+      "M413552188"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "MAXWELL PAPER PRODUCTS CO INC",
+    "vendor_address": "615 REGAL ROW, DALLAS, TX 75247, United States; Address ID: US29; 615 REGAL ROW, DALLAS, TX 75247, United States; Address ID: US29; United States, 27105, NC; United States, 34203-5304, FL; United States, BRADENTON, FL 34203-5304; United States, DALLAS, TX 75247; United States, Winston Salem, NC 27105; United States, 6222 29TH ST E, DALLAS, TX 75247; United States, BRADENTON, FL 34203-5304; United States, 34203-5304, FL; United States, BRADENTON, FL 34203-5304; United States, 27105, NC; United States, 34203-5304, FL; United States, BRADENTON, FL 34203-5304",
+    "po_line_items": [
+      {
+        "description": "PEPSICO-SH+ / 4.375\" SH + Thermal Paper (4.375\" wide. 2.28\" OD. 2.4ml thick), 50 rolls/case",
+        "quantity": 60.0,
+        "net_price": 37.6
+      }
+    ],
+    "vat_amount": null,
+    "gl_account": null,
+    "bank_name": null,
+    "account_holder_name": null,
+    "banking_account_number": null,
+    "remit_to_address": null,
+    "bill_to_address": null,
+    "transaction_type": "debit"
+  },
+  "filename": "SAPS4_5100074553_US29_PFNAUS_2026_999872911.pdf",
+  "raw_response": {
+    "invoice_number": "0510390IN",
+    "invoice_date": "Friday 13 Feb 2026 9:07 AM GMT-06:00",
+    "invoice_amount": "2256.00",
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": null,
+    "po_number": [
+      "M413552188"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "MAXWELL PAPER PRODUCTS CO INC",
+    "vendor_address": "615 REGAL ROW, DALLAS, TX 75247, United States; Address ID: US29; 615 REGAL ROW, DALLAS, TX 75247, United States; Address ID: US29; United States, 27105, NC; United States, 34203-5304, FL; United States, BRADENTON, FL 34203-5304; United States, DALLAS, TX 75247; United States, Winston Salem, NC 27105; United States, 6222 29TH ST E, DALLAS, TX 75247; United States, BRADENTON, FL 34203-5304; United States, 34203-5304, FL; United States, BRADENTON, FL 34203-5304; United States, 27105, NC; United States, 34203-5304, FL; United States, BRADENTON, FL 34203-5304",
+    "po_line_items": [
+      {
+        "description": "PEPSICO-SH+ / 4.375\" SH + Thermal Paper (4.375\" wide. 2.28\" OD. 2.4ml thick), 50 rolls/case",
+        "quantity": 60.0,
+        "net_price": 37.6
+      }
+    ]
+  }
+}

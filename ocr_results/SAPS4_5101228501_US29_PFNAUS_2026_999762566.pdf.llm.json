@@ -1,0 +1,85 @@
+{
+  "invoice_data": {
+    "invoice_number": "044-540453",
+    "invoice_date": "01/12/2026 18:53",
+    "invoice_amount": null,
+    "invoice_currency": null,
+    "tax_amount": null,
+    "po_number": [
+      "23552188"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "Parts Authority",
+    "vendor_address": "2215 W. FILLMORE ST, PHOENIX,AZ 85009",
+    "po_line_items": [
+      {
+        "description": "CALIPER W/BRACK",
+        "quantity": 2.0,
+        "net_price": 75.97
+      },
+      {
+        "description": "CALIPER W/BRACK",
+        "quantity": 1.0,
+        "net_price": 69.75
+      },
+      {
+        "description": "CALIPER W/BRACK",
+        "quantity": 1.0,
+        "net_price": 69.75
+      },
+      {
+        "description": "CALIPER W/BRACK",
+        "quantity": 1.0,
+        "net_price": 75.97
+      }
+    ],
+    "vat_amount": null,
+    "gl_account": null,
+    "bank_name": null,
+    "account_holder_name": null,
+    "banking_account_number": null,
+    "remit_to_address": null,
+    "bill_to_address": null,
+    "transaction_type": "debit"
+  },
+  "filename": "SAPS4_5101228501_US29_PFNAUS_2026_999762566.pdf",
+  "raw_response": {
+    "invoice_number": "044-540453",
+    "invoice_date": "01/12/2026 18:53",
+    "invoice_amount": null,
+    "invoice_currency": null,
+    "tax_amount": null,
+    "po_number": [
+      "23552188"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "Parts Authority",
+    "vendor_address": "2215 W. FILLMORE ST, PHOENIX,AZ 85009",
+    "po_line_items": [
+      {
+        "description": "CALIPER W/BRACK",
+        "quantity": 2.0,
+        "net_price": 75.97
+      },
+      {
+        "description": "CALIPER W/BRACK",
+        "quantity": 1.0,
+        "net_price": 69.75
+      },
+      {
+        "description": "CALIPER W/BRACK",
+        "quantity": 1.0,
+        "net_price": 69.75
+      },
+      {
+        "description": "CALIPER W/BRACK",
+        "quantity": 1.0,
+        "net_price": 75.97
+      }
+    ]
+  }
+}

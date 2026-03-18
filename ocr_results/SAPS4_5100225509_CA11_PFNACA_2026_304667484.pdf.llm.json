@@ -1,0 +1,47 @@
+{
+  "invoice_data": {
+    "invoice_number": "317154824",
+    "invoice_date": "Friday 6 Feb. 2026 11:51 a.m. GMT-05:00",
+    "invoice_amount": "214.04",
+    "invoice_currency": [
+      "CAD"
+    ],
+    "tax_amount": "24.62",
+    "po_number": [
+      "M413461096"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "Crown Lift Trucks ULC",
+    "vendor_address": "21 Tallgrass Court, Brantford, ON N3V 0A2, Canada; Address ID: CA11",
+    "po_line_items": null,
+    "vat_amount": null,
+    "gl_account": null,
+    "bank_name": null,
+    "account_holder_name": null,
+    "banking_account_number": null,
+    "remit_to_address": null,
+    "bill_to_address": null,
+    "transaction_type": "debit"
+  },
+  "filename": "SAPS4_5100225509_CA11_PFNACA_2026_304667484.pdf",
+  "raw_response": {
+    "invoice_number": "317154824",
+    "invoice_date": "Friday 6 Feb. 2026 11:51 a.m. GMT-05:00",
+    "invoice_amount": "214.04",
+    "invoice_currency": [
+      "CAD"
+    ],
+    "tax_amount": "24.62",
+    "po_number": [
+      "M413461096"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "Crown Lift Trucks ULC",
+    "vendor_address": "21 Tallgrass Court, Brantford, ON N3V 0A2, Canada; Address ID: CA11",
+    "po_line_items": null
+  }
+}

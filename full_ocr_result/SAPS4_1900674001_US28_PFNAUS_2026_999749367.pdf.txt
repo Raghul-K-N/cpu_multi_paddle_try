@@ -1,0 +1,200 @@
+==================================<Page 1 - START>================================
+OpenText Workflow History
+Vendor
+SUPPLYFORCE COM LLC
+SUPPLY FORCE
+700 AMERICAN AVE SUITE 300
+KING OF PRUSSIA PA 19406
+USA
+ Invoice
+  Reference
+                    2541442                                 Document Date
+                                                                               11.10.2024
+  DP Document No.  39201067
+                                                             Net Amount       USD
+                                                                                               42.94
+ Comp. Code       US28 Frito-Lay, Inc.
+                                                             Tax Amount       USD
+                                                                                                  3.55
+ Posting Date     13.02.2026
+                                                             Gross Amount     USD            46.49
+ SAP Document No. 1900674001 2026
+                                         Pre-Process History
+  ACTIVITY                                             USER       END TIME         DOCUMENT STATUS
+  Update status                                        VRBLAOT_U  02.02.2026       Validation
+                                                        SR         15:47:06         Complete
+                                     Document Process History
+  ACTIVITY         PROCESS TYPE/BLOCK REASON          USER        END TIME         DOCUMENT STATUS
+  BC Inbound                                           VRBLAOT_U  02.02.2026       Document
+                                                                    15:25:14
+                                                        SR                           Registered
+  Workflow Start   Invalid Requestor ID (NPO)         Record to  02.02.2026       Created
+                                                       Report      15:47:06
+                                                       Batch
+                                                        Account
+                                                        Owner:
+  Bypassed Rule    Invalid Requestor ID (NPO)         KARTHIK M  10.02.2026        Created
+  -Invoice Older                                                    22:19:25
+  than Allowe
+  Comment:
+ Changed By:09368931
+ Changed On:   02/10/2026 22:19:25
+Invoice date updated correctly.
+Apply Business   Invalid Requestor ID (NPO)          KARTHIK M  10.02.2026        Created
+Rules
+                                                                    22:22:00
+Comment:
+***********************************************************************
+Changed By:   KARTHIK M (09368931)
+Changed On:   02/10/2026 22:21:58
+Hi,
+Please approve to process.
+==================================<Page 1 - END>================================
+==================================<Page 2 - START>================================
+OpenText Workflow History
+Invoice
+Vendor            SUPPLYFORCE COM LLC PHILADELPHIA
+Reference         2541442                             Gross Amount     USD           46.49
+                              Document Process History - Continuation
+  ACTIVITY          PROCESS TYPE/BLOCK REASON           USER        END TIME          DOCUMENT STATUS
+  Business Rules   Approval Required (NPO)             SAP_WFRT    10.02.2026        Indexed
+  Check in BG                                                        22:22:06
+                                                                      10.02.2026 22:22:07
+    Invoice submitted for Approval
+   Financial Information Entered                       DANIEL     12.02.2026 18:41:50
+                                                          DIAZ
+                                                                      12.02.2026 18:54:21
+   Data Entered and Invoice Approved                   DANIEL
+                                                          DIAZ
+   Invoice Approved                                     JUAN       12.02.2026 18:59:17
+                                                          SANCHEZ
+                                                          SAP_WFRT    12.02.2026        Approval
+ Approval          Approval Required (NPo)
+ Workflow                                                            18:59:23          Complete
+                                                                                         Approval
+ Business Rules   Process Non-PO Invoice (NPO)        SAP_WFRT    12.02.2026
+ Check in BG                                                        18:59:25          Complete
+ Create Doc. BG   Process Non-PO Invoice (NPO)       SAP_WFRT   12.02.2026        Sent forDoc
+                                                                                         Creation
+                                                                       18:59:26
+ Post Non-PO                                            KARTHIK M  13.02.2026        Document
+                     Process Non-PO Invoice (NPO)
+  Invoice                                                             11:51:55          Created
+                                                                                          Posted
+  SAP Document                                           SAP_WFRT   13.02.2026
+  Check                                                              11:52:01
+==================================<Page 2 - END>================================
+==================================<Page 3 - START>================================
+         PEPSICO
+  Instructions:When there is not an "Ojficial" Invoice to request payment, complete the information on this form.
+  1.You must fill in all of the fields below and the form must be accompanied with supporting documentation.
+ 2.Save submission as 1 single PDF file prior to submitting to nassapinvoicesubmission@pepsico.com
+               SAP Payment Request
+                                                                                   To be filled by Requestor
+        Substitute Invoice Form
+Vendor Type                                               S4
+Vendor Name:
+                                                            SUPPLYFORCECOM LLC
+Vendor Number:
+                                                            2000013150
+Company Code:                                             US28
+Remit To Address :
+                                                            PHILADELPHIA
+(Must match the address in the AP system)                      Pennsylvania
+                                                            19178-8581
+Special Handling needed:
+                                                            No
+Attn:
+Address:
+Overnight delivery required:
+(if yes provide account # or CC below)
+FedEx or UPS, & Provide Number:
+FedEx or UPS account #
+Cost Center (If No FedEx/UPS Number):
+Trnsaction type:
+                                                           Invoice
+Choose only 1 option - Invoice or Credit Memo from the dropdown
+Invoice Date:                                              10/11/24
+Invoice #:
+                                                           2541442
+Limited to 16 characters
+Purchase Order #
+                                                           AV11144793
+Not required if non-PO
+                                                           $42.94
+Payment GROSS Amount:
+Tax Amount
+                                                           $3.55
+(if applicable)
+Payment NET Amount:                                       $46.49
+Currency (USD or CAD)                                       USD
+Header Text:                                               PAYMENT FOR INVOICE
+Requestor Name:                                           DANIEL DIAZ
+                                                           daniel.diaz2@pepsico.com
+Requestor email
+                                                           RACHEL K ENDSLEY
+1st Level Approver Name
+1st Level Approver Email id/GPID                              Rachel.K.Endsley@pepsico.com
+                                                                                                                                   30/01/2026
+Date Requested:
+                                                           630000
+GL Coding (6 digits)
+                                                                                                                               2097250200
+Cost Center (if applicable)
+Profit Center (if applicable)
+WBS Element (if applicable)
+For Assistance On This Form submission please contact:
+Raise service now ticket(Snow)                                PepsiCo - Sign In
+==================================<Page 3 - END>================================
+==================================<Page 4 - START>================================
+       supplyFORCE
+                                                                                                    **INVOICE**
+                National Programs. Local Solutions.
+supplyFORCE as agent for:                                         Invoice Date                                 Invoice Number
+CED - California Elec Supply - Bakersfield 0332                    October 11, 2024                                  2541442
+700 American Avenue, St 300                                Remit to:                                                                              Page
+                                                                                                                                Branch
+                                                                                                                                                        No
+KING OF PRUSSIA PA 19406-1434                            supplyForce
+866-776-8289 Fax 484-322-7100                              PO Box 788581                                                     4                   1
+                                                               PHILADELPHIA PA 19178
+ EIN # 23-3017555
+ GST # 86567 2521
+ QST # 1212529181
+          Bill To:                                                Ship To:
+          PepsiCo Financial Shared Svs. US                        KNP1 - KERN PLANT
+          P.O. Box 660740,                                       28801 HWY 58
+          DALLAS, TX 75266-0746                                 Bakersfield, CA 93314
+         US                                                    USA
+  Customer Number        Customer Order Number                       Distributor Release Number                             Salesperson
+                                   AV11144793                                    0332-1113211                                      MOYER
+         40227
+         Ordered By                              Terms                                     Ship Date                             Order Date
+                                 Net Due 90 Days                                           February 1, 2024                       February 1, 2024
+ Line Item       sF Item No.                Description               Customer Part    Ship Qty     Qty per UOM        Unit Price         Net
+                                                                            Number
+ 2              3619154          A-B; 800T-A1D1; 30mm               50052391        1            1 / Each                    42.94        42.94
+                                    Momentary Push B
+                                    SWITCH, PUSHBUTTON,
+                                    WATER/OILTIGHT FLUSH HEAD
+                                    GREE
+                                                                                                                Subtotal                             42.94
+                                                                                                                     Tax                              3.55
+    Invoice is due by January 9, 2025.
+                                                                                                                Total US                             46.49
+                                                                                                             Balance Due                             46.49
+==================================<Page 4 - END>================================
+==================================<Page 5 - START>================================
+          From: SPA - PepsiCo Nass AP Invoice Submission <nassapInvoiceSubmission@pepsico.com>
+          Sent: Fri, 30 Jan 2026 15:58:45 (UTC)
+          To: svcimagingspaboxprod@pepsico.com
+          Subject: FW: SUPPLYFORCE
+          Original Number of Attachments : 3
+         Original Attachment Names: Binder5.pdf,Binder4.pdf,Binder1.pdf
+         Number of forwarded PDF's: 3
+         Number of forwarded Non PDF files: 0
+         From: DIAZ, DANIEL {PEP} <DANIEL.DIAZ2@pepsico.com>
+         Sent: Friday, January 30, 2026 3:57:02 PM
+         To: SPA - PepsiCo Nass AP Invoice Submission <nassapInvoiceSubmission@pepsico.com>
+         Subject: SUPPLYFORCE
+==================================<Page 5 - END>================================

@@ -1,0 +1,396 @@
+==================================<Page 1 - START>================================
+Standard Invoice
+                                                                                                                    GRAINGER
+Original tax invoice has been submitted electronically. This is a
+human readable representation (copy) of the original tax invoice.
+                                                                                                                  980522553026
+                                                                Invoice Number
+                                                                (Supplier Reference No.)
+                                                                Invoice Date                    Thursday 12 Feb 2026 5:29 AM GMT-07:00
+                                                                                                                 $1,192.84 USD
+                                                                Amount Due
+    Contact Information                                                        Shipping Information
+    Supplier
+                                 Customer                                                              Ship To
+                                                                          Ship From
+    Grainger                      Frito-Lay Inc.
+                                                                          Grainger                      US-PL-CHARLOTTE-NC-FLI
+    100 Grainger Pkwy               c/o PEPSICO NASS                          701 GRAINGER WAY             ANTHONY.PALAZZOLO@PE
+    Lake Forest
+                                 ACCOUNTS PAYABLES                       MINOOKA                     2911 NEVADA BLVD
+    IL
+                                 PO BOX 1800                              IL                           CHARLOTTE
+    Winst
+                                 Winston Salem                              60447                        NC
+    United States                   NC                                      United States                    28273
+                                 27105                                                                 United States
+                                 United States                                                            Phone: (704) 369-8340
+  Line Items
+                                                        PO No. : M413553885                                      PO Date : 12 Feb 2026
+  Line No.
+            PO Line No.          Type    Supplier Part No. /             Customer Part No.        Quantity            Unit Price         Subtotal
+                                      Description
+                                                                                      (UOM)
+  1        1                  Material 3LX42 / Cam and Groove
+                                                                                      2 / (EA)           $18.91 USD      $37.82 USD
+                                       Adapter,3,Aluminum
+  Line No.   PO Line No.         Type    Supplier Part No. /             Customer Part No        Quantity            Unit Price         Subtotal
+                                      Description                                       (UOM)
+  2
+            2                 Material 2WV72 / Black Pipe                                 2 / (EA)           $27.66 USD      $55.32 USD
+                                       Nipple,Threaded,3x3 In
+  Line No.    PO Line No.
+                               Type    Supplier Part No. /             Customer Part No.        Quantity            Unit Price         Subtotal
+                                      Description                                       (UOM)
+  3        3                 Material 55CH07 / Water Hose,3 ID x 15                                         $309.04 USD     $309.04 USD
+                                                                                      1 / (EA)
+                                      ft.,Black
+  Line No.   PO Line No.         Type    Supplier Part No. /             Customer Part No.        Quantity            Unit Price         Subtotal
+                                      Description                                       (UOM)
+                                                                                                      $89.08 USD
+  4        4                 Material 4TXF8 / Flange,Steel, Threaded,3                        2 / (EA)                         $178.16 USD
+                                      in Pipe Size
+                                      Supplier Part No. /                                                    Unit Price         Subtotal
+  Line No.    PO Line No.          Type                              Customer Part No.        Quantity
+                                      Description                                       (UOM)
+  5                           Material 45DU25 / Water Hose                                1 / (EA)          $140.01 USD     $140.01 USD
+            5
+                                      Assembly,3ID,25 ft.
+ Line No.   PO Line No.          Type    Supplier Part No. /             Customer Part No.        Quantity            Unit Price         Subtotal
+                                      Description                                       (UOM)
+ 6        6                 Material 45DT97 / Water Hose                                2 / (EA)          $180.92 USD      $361.84 USD
+                                      Assembly,3ID,50 ft.
+                                                                             Amount Summary
+                                                                             Line item subtotal                         $1,082.19 USD
+                                                                             Shipping charges                           $30.00 USD
+                                                                                                                   $1,192.84 USD
+                                                                             Gross amount
+                                                                             Net amount                             $1,192.84 USD
+                                                                             Total tax amount                           $80.65 USD
+                                                                             Total withholding tax amount
+                                                                             Amount Due                            $1,192.84 USD
+   Additional Information
+  InvoiceSourceDocument
+  PurchaseOrder
+  InvoiceSubmissionMethod
+  cXML
+                                                                         Remittance Information
+  Billing Information
+                                                                         Remit To
+  Bill To
+                                                                         GRAINGER
+  Frito-Lay Inc.
+  c/o PEPSICO NASS                                                        DEPT. 868702861
+  ACCOUNTS PAYABLES                                                    PALATINE
+  PO BOX 1800                                                            IL
+  Winston Salem                                                           60038-0001
+  NC                                                                    United States
+  27105                                                                  Address ID: US1_10359
+  United States
+                                                                         Tax ID of Supplier
+  Address ID: US28
+                                                                        36-1150280
+                                                                     Reference Documents
+                                                                      Original Supplier Order #: 1575922301
+==================================<Page 1 - END>================================
+==================================<Page 2 - START>================================
+  Appendix
+ Line No.
+             PO Line No. Type                           Supplier Part No. / Description
+  1          1         Material
+                                                       3LX42 / Cam and Groove Adapter,3,Aluminum
+  Additional Details:
+ Supplier Part ID : 3LX42
+  Supplier Part Auxiliary ID : WWG3LX42
+ Line No.    PO Line No. Type                           Supplier Part No. / Description
+ 2
+             2         Material                         2WV72 / Black Pipe Nipple, Threaded,3x3 In
+ Additional Details:
+ Supplier Part ID : 2WV72
+ Supplier Part Auxiliary ID : WWG2WV72
+ Line No.    PO Line No. Type                           Supplier Part No. / Description
+ 3         3         Material                         55CH07 / Water Hose,3 ID x 15 ft.,Black
+ Additional Details:
+ Supplier Part ID : 55CH07
+ Supplier Part Auxiliary ID : WWG55CH07
+ Line No.    PO Line No. Type                           Supplier Part No. / Description
+ 4         4         Material                         4TXF8 / Flange,Steel, Threaded,3 in Pipe Size
+ Additional Details:
+Supplier Part ID : 4TXF8
+Supplier Part Auxiliary ID : WWG4TXF8
+Line No.    PO Line No. Type                           Supplier Part No. / Description
+ 5         5         Material                         45DU25 / Water Hose Assembly,3ID,25 ft.
+Additional Details:
+Supplier Part ID : 45DU25
+Supplier Part Auxiliary ID : WWG45DU25
+Line No.    PO Line No. Type                            Supplier Part No. / Description
+6         6         Material                         45DT97 / Water Hose Assembly,3ID,50 ft.
+Additional Details:
+Supplier Part ID : 45DT97
+Supplier Part Auxiliary ID : WWG45DT97
+PDF generated on Friday 13 Feb 2026 5:13 AM GMT-08:00
+==================================<Page 2 - END>================================
+==================================<Page 3 - START>================================
+ Standard Invoice
+                                                                                                                    GRAINGER
+Original tax invoice has been submitted electronically. This is a
+human readable representation (copy) of the original tax invoice.
+                                                                                                                   980522553026
+                                                                 Invoice Number
+                                                                 (Supplier Reference No.)
+                                                                 Invoice Date                    Thursday 12 Feb 2026 5:29 AM GMT-07:00
+                                                                                                                  $1,192.84 USD
+                                                                 Amount Due
+     Contact Information                                                        Shipping Information
+     Supplier
+                                  Customer                                                              Ship To
+                                                                           Ship From
+     Grainger                      Frito-Lay Inc.
+                                                                           Grainger                      US-PL-CHARLOTTE-NC-FLI
+     100 Grainger Pkwy               c/o PEPSICO NASS                          701 GRAINGER WAY             ANTHONY.PALAZZOLO@PE
+     Lake Forest
+                                  ACCOUNTS PAYABLES                       MINOOKA                     2911 NEVADA BLVD
+     IL
+                                  PO BOX 1800                              IL                           CHARLOTTE
+     Winst
+                                  Winston Salem                              60447                        NC
+     United States                   NC                                      United States                    28273
+                                  27105                                                                 United States
+                                  United States                                                            Phone: (704) 369-8340
+   Line Items
+                                                         PO No. : M413553885                                      PO Date : 12 Feb 2026
+   Line No.
+             PO Line No.          Type    Supplier Part No. /             Customer Part No.        Quantity            Unit Price         Subtotal
+                                       Description
+                                                                                       (UOM)
+   1        1                  Material 3LX42 / Cam and Groove
+                                                                                       2 / (EA)           $18.91 USD      $37.82 USD
+                                        Adapter,3,Aluminum
+   Line No.   PO Line No.         Type    Supplier Part No. /             Customer Part No        Quantity            Unit Price         Subtotal
+                                       Description                                       (UOM)
+   2
+             2                 Material 2WV72 / Black Pipe                                 2 / (EA)           $27.66 USD      $55.32 USD
+                                        Nipple,Threaded,3x3 In
+   Line No.    PO Line No.
+                                Type    Supplier Part No. /             Customer Part No.        Quantity            Unit Price         Subtotal
+                                       Description                                       (UOM)
+   3        3                 Material 55CH07 / Water Hose,3 ID x 15                                         $309.04 USD     $309.04 USD
+                                                                                       1 / (EA)
+                                       ft.,Black
+   Line No.   PO Line No.         Type    Supplier Part No. /             Customer Part No.        Quantity            Unit Price         Subtotal
+                                       Description                                       (UOM)
+                                                                                                       $89.08 USD
+   4        4                 Material 4TXF8 / Flange,Steel, Threaded,3                        2 / (EA)                         $178.16 USD
+                                       in Pipe Size
+                                       Supplier Part No. /                                                    Unit Price         Subtotal
+  Line No.    PO Line No.          Type                              Customer Part No.        Quantity
+                                       Description                                       (UOM)
+  5                           Material 45DU25 / Water Hose                                1 / (EA)          $140.01 USD     $140.01 USD
+             5
+                                       Assembly,3ID,25 ft.
+  Line No.   PO Line No.          Type    Supplier Part No. /             Customer Part No.        Quantity            Unit Price         Subtotal
+                                       Description                                       (UOM)
+  6        6                 Material 45DT97 / Water Hose                                2 / (EA)          $180.92 USD      $361.84 USD
+                                       Assembly,3ID,50 ft.
+                                                                              Amount Summary
+                                                                              Line item subtotal                         $1,082.19 USD
+                                                                              Shipping charges                           $30.00 USD
+                                                                                                                    $1,192.84 USD
+                                                                              Gross amount
+                                                                              Net amount                             $1,192.84 USD
+                                                                              Total tax amount                           $80.65 USD
+                                                                              Total withholding tax amount
+                                                                              Amount Due                            $1,192.84 USD
+    Additional Information
+   InvoiceSourceDocument
+   PurchaseOrder
+   InvoiceSubmissionMethod
+   cXML
+                                                                          Remittance Information
+   Billing Information
+                                                                          Remit To
+   Bill To
+                                                                          GRAINGER
+   Frito-Lay Inc.
+   c/o PEPSICO NASS                                                        DEPT. 868702861
+   ACCOUNTS PAYABLES                                                    PALATINE
+   PO BOX 1800                                                            IL
+   Winston Salem                                                           60038-0001
+   NC                                                                    United States
+  27105                                                                  Address ID: US1_10359
+   United States
+                                                                          Tax ID of Supplier
+   Address ID: US28
+                                                                         36-1150280
+                                                                      Reference Documents
+                                                                      Original Supplier Order #: 1575922301
+==================================<Page 3 - END>================================
+==================================<Page 4 - START>================================
+  Appendix
+ Line No.
+             PO Line No. Type                           Supplier Part No. / Description
+  1          1         Material
+                                                       3LX42 / Cam and Groove Adapter,3,Aluminum
+  Additional Details:
+ Supplier Part ID : 3LX42
+  Supplier Part Auxiliary ID : WWG3LX42
+ Line No.    PO Line No. Type                           Supplier Part No. / Description
+ 2
+             2         Material                         2WV72 / Black Pipe Nipple, Threaded,3x3 In
+ Additional Details:
+ Supplier Part ID : 2WV72
+ Supplier Part Auxiliary ID : WWG2WV72
+ Line No.    PO Line No. Type                           Supplier Part No. / Description
+ 3         3         Material                         55CH07 / Water Hose,3 ID x 15 ft.,Black
+ Additional Details:
+ Supplier Part ID : 55CH07
+ Supplier Part Auxiliary ID : WWG55CH07
+ Line No.    PO Line No. Type                           Supplier Part No. / Description
+ 4         4         Material                         4TXF8 / Flange,Steel, Threaded,3 in Pipe Size
+ Additional Details:
+Supplier Part ID : 4TXF8
+Supplier Part Auxiliary ID : WWG4TXF8
+Line No.    PO Line No. Type                           Supplier Part No. / Description
+ 5         5         Material                         45DU25 / Water Hose Assembly,3ID,25 ft.
+Additional Details:
+Supplier Part ID : 45DU25
+Supplier Part Auxiliary ID : WWG45DU25
+Line No.    PO Line No. Type                            Supplier Part No. / Description
+6         6         Material                         45DT97 / Water Hose Assembly,3ID,50 ft.
+Additional Details:
+Supplier Part ID : 45DT97
+Supplier Part Auxiliary ID : WWG45DT97
+PDF generated on Friday 13 Feb 2026 5:13 AM GMT-08:00
+==================================<Page 4 - END>================================
+==================================<Page 5 - START>================================
+ Standard Invoice
+                                                                                                                    GRAINGER
+Original tax invoice has been submitted electronically. This is a
+human readable representation (copy) of the original tax invoice.
+                                                                                                                   980522553026
+                                                                 Invoice Number
+                                                                 (Supplier Reference No.)
+                                                                 Invoice Date                    Thursday 12 Feb 2026 5:29 AM GMT-07:00
+                                                                                                                  $1,192.84 USD
+                                                                 Amount Due
+     Contact Information                                                        Shipping Information
+     Supplier
+                                  Customer                                                              Ship To
+                                                                           Ship From
+     Grainger                      Frito-Lay Inc.
+                                                                           Grainger                      US-PL-CHARLOTTE-NC-FLI
+     100 Grainger Pkwy               c/o PEPSICO NASS                          701 GRAINGER WAY             ANTHONY.PALAZZOLO@PE
+     Lake Forest
+                                  ACCOUNTS PAYABLES                       MINOOKA                     2911 NEVADA BLVD
+     IL
+                                  PO BOX 1800                              IL                           CHARLOTTE
+     Winst
+                                  Winston Salem                              60447                        NC
+     United States                   NC                                      United States                    28273
+                                  27105                                                                 United States
+                                  United States                                                            Phone: (704) 369-8340
+   Line Items
+                                                         PO No. : M413553885                                      PO Date : 12 Feb 2026
+   Line No.
+             PO Line No.          Type    Supplier Part No. /             Customer Part No.        Quantity            Unit Price         Subtotal
+                                       Description
+                                                                                       (UOM)
+   1        1                  Material 3LX42 / Cam and Groove
+                                                                                       2 / (EA)           $18.91 USD      $37.82 USD
+                                        Adapter,3,Aluminum
+   Line No.   PO Line No.         Type    Supplier Part No. /             Customer Part No        Quantity            Unit Price         Subtotal
+                                       Description                                       (UOM)
+   2
+             2                 Material 2WV72 / Black Pipe                                 2 / (EA)           $27.66 USD      $55.32 USD
+                                        Nipple,Threaded,3x3 In
+   Line No.    PO Line No.
+                                Type    Supplier Part No. /             Customer Part No.        Quantity            Unit Price         Subtotal
+                                       Description                                       (UOM)
+   3        3                 Material 55CH07 / Water Hose,3 ID x 15                                         $309.04 USD     $309.04 USD
+                                                                                       1 / (EA)
+                                       ft.,Black
+   Line No.   PO Line No.         Type    Supplier Part No. /             Customer Part No.        Quantity            Unit Price         Subtotal
+                                       Description                                       (UOM)
+                                                                                                       $89.08 USD
+   4        4                 Material 4TXF8 / Flange,Steel, Threaded,3                        2 / (EA)                         $178.16 USD
+                                       in Pipe Size
+                                       Supplier Part No. /                                                    Unit Price         Subtotal
+  Line No.    PO Line No.          Type                              Customer Part No.        Quantity
+                                       Description                                       (UOM)
+  5                           Material 45DU25 / Water Hose                                1 / (EA)          $140.01 USD     $140.01 USD
+             5
+                                       Assembly,3ID,25 ft.
+  Line No.   PO Line No.          Type    Supplier Part No. /             Customer Part No.        Quantity            Unit Price         Subtotal
+                                       Description                                       (UOM)
+  6        6                 Material 45DT97 / Water Hose                                2 / (EA)          $180.92 USD      $361.84 USD
+                                       Assembly,3ID,50 ft.
+                                                                              Amount Summary
+                                                                              Line item subtotal                         $1,082.19 USD
+                                                                              Shipping charges                           $30.00 USD
+                                                                                                                    $1,192.84 USD
+                                                                              Gross amount
+                                                                              Net amount                             $1,192.84 USD
+                                                                              Total tax amount                           $80.65 USD
+                                                                              Total withholding tax amount
+                                                                              Amount Due                            $1,192.84 USD
+    Additional Information
+   InvoiceSourceDocument
+   PurchaseOrder
+   InvoiceSubmissionMethod
+   cXML
+                                                                          Remittance Information
+   Billing Information
+                                                                          Remit To
+   Bill To
+                                                                          GRAINGER
+   Frito-Lay Inc.
+   c/o PEPSICO NASS                                                        DEPT. 868702861
+   ACCOUNTS PAYABLES                                                    PALATINE
+   PO BOX 1800                                                            IL
+   Winston Salem                                                           60038-0001
+   NC                                                                    United States
+  27105                                                                  Address ID: US1_10359
+   United States
+                                                                          Tax ID of Supplier
+   Address ID: US28
+                                                                         36-1150280
+                                                                      Reference Documents
+                                                                      Original Supplier Order #: 1575922301
+==================================<Page 5 - END>================================
+==================================<Page 6 - START>================================
+  Appendix
+ Line No.
+             PO Line No. Type                           Supplier Part No. / Description
+  1          1         Material
+                                                       3LX42 / Cam and Groove Adapter,3,Aluminum
+  Additional Details:
+ Supplier Part ID : 3LX42
+  Supplier Part Auxiliary ID : WWG3LX42
+ Line No.    PO Line No. Type                           Supplier Part No. / Description
+ 2
+             2         Material                         2WV72 / Black Pipe Nipple, Threaded,3x3 In
+ Additional Details:
+ Supplier Part ID : 2WV72
+ Supplier Part Auxiliary ID : WWG2WV72
+ Line No.    PO Line No. Type                           Supplier Part No. / Description
+ 3         3         Material                         55CH07 / Water Hose,3 ID x 15 ft.,Black
+ Additional Details:
+ Supplier Part ID : 55CH07
+ Supplier Part Auxiliary ID : WWG55CH07
+ Line No.    PO Line No. Type                           Supplier Part No. / Description
+ 4         4         Material                         4TXF8 / Flange,Steel, Threaded,3 in Pipe Size
+ Additional Details:
+Supplier Part ID : 4TXF8
+Supplier Part Auxiliary ID : WWG4TXF8
+Line No.    PO Line No. Type                           Supplier Part No. / Description
+ 5         5         Material                         45DU25 / Water Hose Assembly,3ID,25 ft.
+Additional Details:
+Supplier Part ID : 45DU25
+Supplier Part Auxiliary ID : WWG45DU25
+Line No.    PO Line No. Type                            Supplier Part No. / Description
+6         6         Material                         45DT97 / Water Hose Assembly,3ID,50 ft.
+Additional Details:
+Supplier Part ID : 45DT97
+Supplier Part Auxiliary ID : WWG45DT97
+PDF generated on Friday 13 Feb 2026 5:13 AM GMT-08:00
+==================================<Page 6 - END>================================

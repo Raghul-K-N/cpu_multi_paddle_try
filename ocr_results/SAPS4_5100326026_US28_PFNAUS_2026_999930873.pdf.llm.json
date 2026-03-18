@@ -1,0 +1,109 @@
+{
+  "invoice_data": {
+    "invoice_number": "459723168001",
+    "invoice_date": "Friday 13 Feb 2026 12:00 PM GMT-05:00",
+    "invoice_amount": "378.67",
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": "27.64",
+    "po_number": [
+      "M413554858"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "ODP BUSINESS SOLUTIONS, LLC",
+    "vendor_address": "600 GARNER RD, 6600 North Military Trail, Boca Raton, FL 33496, MODESTO, CA 953570514, United States, Address ID: 2010",
+    "po_line_items": [
+      {
+        "description": "Material 2640507 / PEN,GEL,RT,50 CT,BLUE",
+        "quantity": 8.0,
+        "net_price": 13.93
+      },
+      {
+        "description": "Material 5782367 / PEN,GEL,RT,50 CT,BLACK",
+        "quantity": 8.0,
+        "net_price": 14.99
+      },
+      {
+        "description": "BOOK,MEMO.WRBND.TOP.CR.60S.12",
+        "quantity": 4.0,
+        "net_price": 11.99
+      },
+      {
+        "description": "FLDR HANGING RECY AST LTR 25BX",
+        "quantity": 2.0,
+        "net_price": 24.69
+      },
+      {
+        "description": "CLIP,BINDER,SMALL,144PC,BK",
+        "quantity": 1.0,
+        "net_price": 13.39
+      },
+      {
+        "description": "TISSUE,KLEENEX,ANTI-V,WE",
+        "quantity": 1.0,
+        "net_price": 8.94
+      }
+    ],
+    "vat_amount": null,
+    "gl_account": null,
+    "bank_name": null,
+    "account_holder_name": null,
+    "banking_account_number": null,
+    "remit_to_address": null,
+    "bill_to_address": null,
+    "transaction_type": "debit"
+  },
+  "filename": "SAPS4_5100326026_US28_PFNAUS_2026_999930873.pdf",
+  "raw_response": {
+    "invoice_number": "459723168001",
+    "invoice_date": "Friday 13 Feb 2026 12:00 PM GMT-05:00",
+    "invoice_amount": "378.67",
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": "27.64",
+    "po_number": [
+      "M413554858"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "ODP BUSINESS SOLUTIONS, LLC",
+    "vendor_address": "600 GARNER RD, 6600 North Military Trail, Boca Raton, FL 33496, MODESTO, CA 953570514, United States, Address ID: 2010",
+    "po_line_items": [
+      {
+        "description": "Material 2640507 / PEN,GEL,RT,50 CT,BLUE",
+        "quantity": 8.0,
+        "net_price": 13.93
+      },
+      {
+        "description": "Material 5782367 / PEN,GEL,RT,50 CT,BLACK",
+        "quantity": 8.0,
+        "net_price": 14.99
+      },
+      {
+        "description": "BOOK,MEMO.WRBND.TOP.CR.60S.12",
+        "quantity": 4.0,
+        "net_price": 11.99
+      },
+      {
+        "description": "FLDR HANGING RECY AST LTR 25BX",
+        "quantity": 2.0,
+        "net_price": 24.69
+      },
+      {
+        "description": "CLIP,BINDER,SMALL,144PC,BK",
+        "quantity": 1.0,
+        "net_price": 13.39
+      },
+      {
+        "description": "TISSUE,KLEENEX,ANTI-V,WE",
+        "quantity": 1.0,
+        "net_price": 8.94
+      }
+    ]
+  }
+}

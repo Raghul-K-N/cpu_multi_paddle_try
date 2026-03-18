@@ -1,0 +1,79 @@
+{
+  "invoice_data": {
+    "invoice_number": "1250024-017278",
+    "invoice_date": "Oct 31, 2025",
+    "invoice_amount": "4322.66",
+    "invoice_currency": [
+      "CAD"
+    ],
+    "tax_amount": "497.30",
+    "po_number": [
+      "4503578689"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "TRADE-MARK INDUSTRIAL INC",
+    "vendor_address": "250 Royal Oak Road, TM    Cambridge, ON N3E 0A4",
+    "po_line_items": [
+      {
+        "description": "LABOUR AND EQUIPMENT TO CHANGE PC32 MAIN OIL PUMP AS DIRECTED ON TIMESHEET#437374",
+        "quantity": null,
+        "net_price": null
+      },
+      {
+        "description": "HOURS MW FORE DBT",
+        "quantity": 9.0,
+        "net_price": 224.38
+      },
+      {
+        "description": "HOURS MW JOURN DBT",
+        "quantity": 9.0,
+        "net_price": 200.66
+      }
+    ],
+    "vat_amount": null,
+    "gl_account": null,
+    "bank_name": null,
+    "account_holder_name": null,
+    "banking_account_number": null,
+    "remit_to_address": null,
+    "bill_to_address": null,
+    "transaction_type": "debit"
+  },
+  "filename": "SAPS4_5100263514_CA11_PFNACA_2026_304660055.pdf",
+  "raw_response": {
+    "invoice_number": "1250024-017278",
+    "invoice_date": "Oct 31, 2025",
+    "invoice_amount": "4322.66",
+    "invoice_currency": [
+      "CAD"
+    ],
+    "tax_amount": "497.30",
+    "po_number": [
+      "4503578689"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "TRADE-MARK INDUSTRIAL INC",
+    "vendor_address": "250 Royal Oak Road, TM    Cambridge, ON N3E 0A4",
+    "po_line_items": [
+      {
+        "description": "LABOUR AND EQUIPMENT TO CHANGE PC32 MAIN OIL PUMP AS DIRECTED ON TIMESHEET#437374",
+        "quantity": null,
+        "net_price": null
+      },
+      {
+        "description": "HOURS MW FORE DBT",
+        "quantity": 9.0,
+        "net_price": 224.38
+      },
+      {
+        "description": "HOURS MW JOURN DBT",
+        "quantity": 9.0,
+        "net_price": 200.66
+      }
+    ]
+  }
+}

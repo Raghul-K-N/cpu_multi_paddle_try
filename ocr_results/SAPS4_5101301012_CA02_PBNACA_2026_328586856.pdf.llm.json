@@ -1,0 +1,43 @@
+{
+  "invoice_data": {
+    "invoice_number": "PBC  202605",
+    "invoice_date": "January 29, 2026",
+    "invoice_amount": "4589.89",
+    "invoice_currency": [
+      "CAD"
+    ],
+    "tax_amount": "528.04",
+    "po_number": null,
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "nulogx",
+    "vendor_address": "2095 MATHESON BLVD E, MISSISSAUGA ON L4W 5A1, TARIO L5N 6J5",
+    "po_line_items": null,
+    "vat_amount": null,
+    "gl_account": null,
+    "bank_name": null,
+    "account_holder_name": null,
+    "banking_account_number": null,
+    "remit_to_address": null,
+    "bill_to_address": null,
+    "transaction_type": "debit"
+  },
+  "filename": "SAPS4_5101301012_CA02_PBNACA_2026_328586856.pdf",
+  "raw_response": {
+    "invoice_number": "PBC  202605",
+    "invoice_date": "January 29, 2026",
+    "invoice_amount": "4589.89",
+    "invoice_currency": [
+      "CAD"
+    ],
+    "tax_amount": "528.04",
+    "po_number": null,
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "nulogx",
+    "vendor_address": "2095 MATHESON BLVD E, MISSISSAUGA ON L4W 5A1, TARIO L5N 6J5",
+    "po_line_items": null
+  }
+}

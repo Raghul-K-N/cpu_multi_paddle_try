@@ -1,0 +1,89 @@
+{
+  "invoice_data": {
+    "invoice_number": "PSSI051488",
+    "invoice_date": "01/30/2026",
+    "invoice_amount": "381.54",
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": "24.96",
+    "po_number": [
+      "4505019738"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": "22.38",
+    "cost_center": null,
+    "vendor_name": "GROUPō, INC.",
+    "vendor_address": "PO BOX 860144, MINNEAPOLIS, MN 55486",
+    "po_line_items": [
+      {
+        "description": "Z29-115 FELT PAD",
+        "quantity": 6.0,
+        "net_price": 46.86
+      },
+      {
+        "description": "Z29-188 ROLLER, 1-1/8\" MODEL 22HS/215",
+        "quantity": 4.0,
+        "net_price": 60.31
+      },
+      {
+        "description": "Surcharge",
+        "quantity": 1.0,
+        "net_price": 0.0
+      },
+      {
+        "description": "FREIGHT",
+        "quantity": 1.0,
+        "net_price": 22.38
+      }
+    ],
+    "vat_amount": null,
+    "gl_account": null,
+    "bank_name": null,
+    "account_holder_name": null,
+    "banking_account_number": null,
+    "remit_to_address": null,
+    "bill_to_address": null,
+    "transaction_type": "debit"
+  },
+  "filename": "SAPS4_5100321042_US28_PFNAUS_2026_999884149.pdf",
+  "raw_response": {
+    "invoice_number": "PSSI051488",
+    "invoice_date": "01/30/2026",
+    "invoice_amount": "381.54",
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": "24.96",
+    "po_number": [
+      "4505019738"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": "22.38",
+    "cost_center": null,
+    "vendor_name": "GROUPō, INC.",
+    "vendor_address": "PO BOX 860144, MINNEAPOLIS, MN 55486",
+    "po_line_items": [
+      {
+        "description": "Z29-115 FELT PAD",
+        "quantity": 6.0,
+        "net_price": 46.86
+      },
+      {
+        "description": "Z29-188 ROLLER, 1-1/8\" MODEL 22HS/215",
+        "quantity": 4.0,
+        "net_price": 60.31
+      },
+      {
+        "description": "Surcharge",
+        "quantity": 1.0,
+        "net_price": 0.0
+      },
+      {
+        "description": "FREIGHT",
+        "quantity": 1.0,
+        "net_price": 22.38
+      }
+    ]
+  }
+}

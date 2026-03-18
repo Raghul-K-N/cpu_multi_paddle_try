@@ -1,0 +1,378 @@
+==================================<Page 1 - START>================================
+Standard Invoice
+                                                                                                                   GRAINGER
+Original tax invoice has been submitted electronically. This is a
+human readable representation (copy) of the original tax invoice.
+                                                                                                                  980522476426
+                                                                Invoice Number
+                                                                (Supplier Reference No.)
+                                                                                              Thursday 12 Feb 2026 5:29 AM GMT-07:00
+                                                                Invoice Date
+                                                                                                                   $738.63 USD
+                                                                Amount Due
+    Contact Information                                                        Shipping Information
+    Supplier                      Customer
+                                                                          Ship From                     Ship To
+    Grainger                      Frito-Lay Inc.                                                            US-PL-PULASKI-TN-FLI
+                                                                          Grainger
+    100 Grainger Pkwy                                                                                     BRANDON/VENDING PPE
+                                 c/o PEPSICO NASS                          701 GRAINGER WAY
+    Lake Forest                    ACCOUNTS PAYABLES                                                    298 INDUSTRIAL BLVD
+                                                                          MINOOKA
+    IL                           PO BOX 1800                                                            PULASKI
+                                                                          IL
+    Winst                        Winston Salem                                                           TN
+                                                                          60447
+    United States                  NC                                                                   38478
+                                                                          United States
+                                 27105                                                                 United States
+                                 United States                                                            Phone: (931) 363-4531
+  Line Items                                              PO No. : M413552886                                       PO Date : 11 Feb 2026
+  Line No.   PO Line No.                 Supplier Part No. /             Customer Part No.         Quantity            Unit Price         Subtotal
+                               Type
+                                      Description                                       (UOM)
+   1        1                 Material 40LL89 / Cut Resistant                               6 / (EA)            $8.05 USD      $48.30 USD
+                                       Gloves.Gray/Yellow.10.PR
+  Line No.
+             PO Line No.          Type    Supplier Part No. /             Customer Part No.        Quantity            Unit Price         Subtotal
+                                      Description                                       (UOM)
+  2        2                 Material 62HZ82 / VF,GenPurp GlvesBlk/                         48 / (EA)           $3.58 USD     $171.84 USD
+                                      BI,8,36H144.PR
+  Line No.    PO Line No.         Type    Supplier Part No. /             Customer Part No.        Quantity            Unit Price         Subtotal
+                                      Description                                       (UOM)
+  3        3                 Material 62HZ81 / VF.GenPurp GlvesBlk/                         24 / (EA)           $3.58 USD      $85.92 USD
+                                      BI.7,36H143,PR
+                                                                                                        Unit Price         Subtotal
+  Line No.    PO Line No.         Type    Supplier Part No. /             Customer Part No.        Quantity
+                                      Description                                       (UOM)
+  4        4                 Material 62HZ84 / VF,GenPurp Glve,Blk/                         24 / (EA)           $3.58 USD      $85.92 USD
+                                      BI,10,36H146,PR
+  Line No.    PO Line No.         Type    Supplier Part No. /             Customer Part No.        Quantity            Unit Price         Subtotal
+                                      Description                                       (UOM)
+                                                                                                       $0.91 USD      $109.20 USD
+  5        5                 Material 1FYX7 /                                         120 / (EA)
+                                      SafetyGlasses,Clear,AntiFog.ScrtchRsstnt
+  Line No.                      Type    Supplier Part No. /                                                     Unit Price         Subtotal
+            PO Line No.                                           Customer Part No.         Quantity
+                                      Description                                       (UOM)
+  6        7                 Material 62HZ83 / VF,GenPurp GlvesBlk/                         48 / (EA)           $3.58 USD      $171.84 USD
+                                      BI,9,36H145,PR
+                                                                             Amount Summary
+                                                                             Line item subtotal                          $673.02 USD
+                                                                             Gross amount                             $738.63 USD
+                                                                             Net amount                              $738.63 USD
+                                                                             Total tax amount                           $65.61 USD
+                                                                             Total withholding tax amount
+                                                                                                                    $738.63 USD
+                                                                             Amount Due
+   Additional Information
+   InvoiceSourceDocument
+   PurchaseOrder
+   InvoiceSubmissionMethod
+  cXML
+                                                                         Remittance Information
+  Billing Information
+                                                                         Remit To
+  Bill To
+  Frito-Lay Inc.                                                             GRAINGER
+  c/o PEPSICO NASS                                                        DEPT. 822227518
+  ACCOUNTS PAYABLES                                                    KANSAS CITY
+  PO BOX 1800                                                            MO
+  Winston Salem                                                           64141-6267
+  NC                                                                   United States
+  27105                                                                 Address ID: US1_10359
+  United States
+                                                                        Tax ID of Supplier
+  Address ID: US28
+                                                                         36-1150280
+                                                                     Reference Documents
+                                                                     Original Supplier Order #: 1575887682
+==================================<Page 1 - END>================================
+==================================<Page 2 - START>================================
+ Appendix
+ Line No.    PO Line No. Type
+                                                        Supplier Part No. / Description
+  1          1         Material                         40LL89 / Cut Resistant Gloves,Gray/Yellow,10,PR
+ Additional Details:
+ Supplier Part ID : 40LL89
+ Supplier Part Auxiliary ID : WWG40LL89
+ Line No.    PO Line No. Type                           Supplier Part No. / Description
+ 2
+             2         Material                         62HZ82 / VF,GenPurp GlvesBlk/BI,8,36H144,PR
+ Additional Details:
+ Supplier Part ID : 62HZ82
+ Supplier Part Auxiliary ID : WWG62HZ82
+ Line No.    PO Line No. Type                           Supplier Part No. / Description
+ 3         3         Material                         62HZ81 / VF,GenPurp GlvesBlk/BI,7,36H143,PR
+ Additional Details:
+ Supplier Part ID : 62HZ81
+ Supplier Part Auxiliary ID : WWG62HZ81
+ Line No.    PO Line No. Type                           Supplier Part No. / Description
+ 4         4         Material                         62HZ84 / VF,GenPurp Glve,Blk/BI,10,36H146,PR
+ Additional Details:
+Supplier Part ID : 62HZ84
+Supplier Part Auxiliary ID : WWG62HZ84
+Line No.    PO Line No. Type                           Supplier Part No. / Description
+ 5         5         Material                         1FYX7 / SafetyGlasses,Clear,AntiFog,ScrtchRsstnt
+Additional Details:
+Supplier Part ID : 1FYX7
+Supplier Part Auxiliary ID : WWG1FYX7
+Line No.    PO Line No. Type                            Supplier Part No. / Description
+6         7         Material                         62HZ83 / VF,GenPurp GlvesBIk/BI,9,36H145,PR
+Additional Details:
+Supplier Part ID : 62HZ83
+Supplier Part Auxiliary ID : WWG62HZ83
+PDF generated on Friday 13 Feb 2026 5:15 AM GMT-08:00
+==================================<Page 2 - END>================================
+==================================<Page 3 - START>================================
+ Standard Invoice
+                                                                                                                     GRAINGER
+ Original tax invoice has been submitted electronically. This is a
+ human readable representation (copy) of the original tax invoice.
+                                                                                                                   980522476426
+                                                                 Invoice Number
+                                                                 (Supplier Reference No.)
+                                                                                               Thursday 12 Feb 2026 5:29 AM GMT-07:00
+                                                                 Invoice Date
+                                                                                                                    $738.63 USD
+                                                                 Amount Due
+     Contact Information                                                        Shipping Information
+     Supplier                      Customer
+                                                                           Ship From                     Ship To
+     Grainger                      Frito-Lay Inc.                                                            US-PL-PULASKI-TN-FLI
+                                                                           Grainger
+     100 Grainger Pkwy                                                                                     BRANDON/VENDING PPE
+                                  c/o PEPSICO NASS                          701 GRAINGER WAY
+     Lake Forest                    ACCOUNTS PAYABLES                                                    298 INDUSTRIAL BLVD
+                                                                           MINOOKA
+      IL                           PO BOX 1800                                                            PULASKI
+                                                                           IL
+     Winst                        Winston Salem                                                           TN
+                                                                           60447
+      United States                  NC                                                                   38478
+                                                                           United States
+                                  27105                                                                 United States
+                                  United States                                                            Phone: (931) 363-4531
+    Line Items                                              PO No. : M413552886                                       PO Date : 11 Feb 2026
+   Line No.   PO Line No.                 Supplier Part No. /             Customer Part No.         Quantity            Unit Price         Subtotal
+                                Type
+                                        Description                                       (UOM)
+    1        1                 Material 40LL89 / Cut Resistant                               6 / (EA)            $8.05 USD      $48.30 USD
+                                        Gloves.Gray/Yellow.10.PR
+    Line No.
+              PO Line No.          Type    Supplier Part No. /             Customer Part No.        Quantity            Unit Price         Subtotal
+                                        Description                                       (UOM)
+    2        2                 Material 62HZ82 / VF,GenPurp GlvesBlk/                         48 / (EA)           $3.58 USD     $171.84 USD
+                                        BI,8,36H144.PR
+    Line No.    PO Line No.         Type    Supplier Part No. /             Customer Part No.        Quantity            Unit Price         Subtotal
+                                       Description                                       (UOM)
+    3        3                 Material 62HZ81 / VF.GenPurp GlvesBlk/                         24 / (EA)           $3.58 USD      $85.92 USD
+                                        BI.7,36H143,PR
+                                                                                                         Unit Price         Subtotal
+    Line No.    PO Line No.         Type    Supplier Part No. /             Customer Part No.        Quantity
+                                        Description                                       (UOM)
+    4        4                 Material 62HZ84 / VF,GenPurp Glve,Blk/                         24 / (EA)           $3.58 USD      $85.92 USD
+                                        BI,10,36H146,PR
+   Line No.    PO Line No.         Type    Supplier Part No. /             Customer Part No.        Quantity            Unit Price         Subtotal
+                                        Description                                       (UOM)
+                                                                                                        $0.91 USD      $109.20 USD
+   5        5                 Material 1FYX7 /                                         120 / (EA)
+                                        SafetyGlasses,Clear,AntiFog.ScrtchRsstnt
+   Line No.                      Type    Supplier Part No. /                                                     Unit Price         Subtotal
+             PO Line No.                                           Customer Part No.         Quantity
+                                       Description                                       (UOM)
+   6        7                 Material 62HZ83 / VF,GenPurp GlvesBlk/                         48 / (EA)           $3.58 USD      $171.84 USD
+                                       BI,9,36H145,PR
+                                                                              Amount Summary
+                                                                              Line item subtotal                          $673.02 USD
+                                                                              Gross amount                             $738.63 USD
+                                                                              Net amount                              $738.63 USD
+                                                                              Total tax amount                           $65.61 USD
+                                                                              Total withholding tax amount
+                                                                                                                      $738.63 USD
+                                                                              Amount Due
+    Additional Information
+    InvoiceSourceDocument
+    PurchaseOrder
+    InvoiceSubmissionMethod
+    cXML
+                                                                          Remittance Information
+    Billing Information
+                                                                          Remit To
+   Bill To
+   Frito-Lay Inc.                                                             GRAINGER
+   c/o PEPSICO NASS                                                        DEPT. 822227518
+   ACCOUNTS PAYABLES                                                    KANSAS CITY
+   PO BOX 1800                                                            MO
+   Winston Salem                                                           64141-6267
+   NC                                                                   United States
+   27105                                                                 Address ID: US1_10359
+   United States
+                                                                          Tax ID of Supplier
+   Address ID: US28
+                                                                          36-1150280
+                                                                      Reference Documents
+                                                                       Original Supplier Order #: 1575887682
+==================================<Page 3 - END>================================
+==================================<Page 4 - START>================================
+ Appendix
+ Line No.    PO Line No. Type
+                                                        Supplier Part No. / Description
+  1          1         Material                         40LL89 / Cut Resistant Gloves,Gray/Yellow,10,PR
+ Additional Details:
+ Supplier Part ID : 40LL89
+ Supplier Part Auxiliary ID : WWG40LL89
+ Line No.    PO Line No. Type                           Supplier Part No. / Description
+ 2
+             2         Material                         62HZ82 / VF,GenPurp GlvesBlk/BI,8,36H144,PR
+ Additional Details:
+ Supplier Part ID : 62HZ82
+ Supplier Part Auxiliary ID : WWG62HZ82
+ Line No.    PO Line No. Type                           Supplier Part No. / Description
+ 3         3         Material                         62HZ81 / VF,GenPurp GlvesBlk/BI,7,36H143,PR
+ Additional Details:
+ Supplier Part ID : 62HZ81
+ Supplier Part Auxiliary ID : WWG62HZ81
+ Line No.    PO Line No. Type                           Supplier Part No. / Description
+ 4         4         Material                         62HZ84 / VF,GenPurp Glve,Blk/BI,10,36H146,PR
+ Additional Details:
+Supplier Part ID : 62HZ84
+Supplier Part Auxiliary ID : WWG62HZ84
+Line No.    PO Line No. Type                           Supplier Part No. / Description
+ 5         5         Material                         1FYX7 / SafetyGlasses,Clear,AntiFog,ScrtchRsstnt
+Additional Details:
+Supplier Part ID : 1FYX7
+Supplier Part Auxiliary ID : WWG1FYX7
+Line No.    PO Line No. Type                            Supplier Part No. / Description
+6         7         Material                         62HZ83 / VF,GenPurp GlvesBIk/BI,9,36H145,PR
+Additional Details:
+Supplier Part ID : 62HZ83
+Supplier Part Auxiliary ID : WWG62HZ83
+PDF generated on Friday 13 Feb 2026 5:15 AM GMT-08:00
+==================================<Page 4 - END>================================
+==================================<Page 5 - START>================================
+ Standard Invoice
+                                                                                                                     GRAINGER
+ Original tax invoice has been submitted electronically. This is a
+ human readable representation (copy) of the original tax invoice.
+                                                                                                                   980522476426
+                                                                 Invoice Number
+                                                                 (Supplier Reference No.)
+                                                                                               Thursday 12 Feb 2026 5:29 AM GMT-07:00
+                                                                 Invoice Date
+                                                                                                                    $738.63 USD
+                                                                 Amount Due
+     Contact Information                                                        Shipping Information
+     Supplier                      Customer
+                                                                           Ship From                     Ship To
+     Grainger                      Frito-Lay Inc.                                                            US-PL-PULASKI-TN-FLI
+                                                                           Grainger
+     100 Grainger Pkwy                                                                                     BRANDON/VENDING PPE
+                                  c/o PEPSICO NASS                          701 GRAINGER WAY
+     Lake Forest                    ACCOUNTS PAYABLES                                                    298 INDUSTRIAL BLVD
+                                                                           MINOOKA
+      IL                           PO BOX 1800                                                            PULASKI
+                                                                           IL
+     Winst                        Winston Salem                                                           TN
+                                                                           60447
+      United States                  NC                                                                   38478
+                                                                           United States
+                                  27105                                                                 United States
+                                  United States                                                            Phone: (931) 363-4531
+    Line Items                                              PO No. : M413552886                                       PO Date : 11 Feb 2026
+   Line No.   PO Line No.                 Supplier Part No. /             Customer Part No.         Quantity            Unit Price         Subtotal
+                                Type
+                                        Description                                       (UOM)
+    1        1                 Material 40LL89 / Cut Resistant                               6 / (EA)            $8.05 USD      $48.30 USD
+                                        Gloves.Gray/Yellow.10.PR
+    Line No.
+              PO Line No.          Type    Supplier Part No. /             Customer Part No.        Quantity            Unit Price         Subtotal
+                                        Description                                       (UOM)
+    2        2                 Material 62HZ82 / VF,GenPurp GlvesBlk/                         48 / (EA)           $3.58 USD     $171.84 USD
+                                        BI,8,36H144.PR
+    Line No.    PO Line No.         Type    Supplier Part No. /             Customer Part No.        Quantity            Unit Price         Subtotal
+                                       Description                                       (UOM)
+    3        3                 Material 62HZ81 / VF.GenPurp GlvesBlk/                         24 / (EA)           $3.58 USD      $85.92 USD
+                                        BI.7,36H143,PR
+                                                                                                         Unit Price         Subtotal
+    Line No.    PO Line No.         Type    Supplier Part No. /             Customer Part No.        Quantity
+                                        Description                                       (UOM)
+    4        4                 Material 62HZ84 / VF,GenPurp Glve,Blk/                         24 / (EA)           $3.58 USD      $85.92 USD
+                                        BI,10,36H146,PR
+   Line No.    PO Line No.         Type    Supplier Part No. /             Customer Part No.        Quantity            Unit Price         Subtotal
+                                        Description                                       (UOM)
+                                                                                                        $0.91 USD      $109.20 USD
+   5        5                 Material 1FYX7 /                                         120 / (EA)
+                                        SafetyGlasses,Clear,AntiFog.ScrtchRsstnt
+   Line No.                      Type    Supplier Part No. /                                                     Unit Price         Subtotal
+             PO Line No.                                           Customer Part No.         Quantity
+                                       Description                                       (UOM)
+   6        7                 Material 62HZ83 / VF,GenPurp GlvesBlk/                         48 / (EA)           $3.58 USD      $171.84 USD
+                                       BI,9,36H145,PR
+                                                                              Amount Summary
+                                                                              Line item subtotal                          $673.02 USD
+                                                                              Gross amount                             $738.63 USD
+                                                                              Net amount                              $738.63 USD
+                                                                              Total tax amount                           $65.61 USD
+                                                                              Total withholding tax amount
+                                                                                                                      $738.63 USD
+                                                                              Amount Due
+    Additional Information
+    InvoiceSourceDocument
+    PurchaseOrder
+    InvoiceSubmissionMethod
+    cXML
+                                                                          Remittance Information
+    Billing Information
+                                                                          Remit To
+   Bill To
+   Frito-Lay Inc.                                                             GRAINGER
+   c/o PEPSICO NASS                                                        DEPT. 822227518
+   ACCOUNTS PAYABLES                                                    KANSAS CITY
+   PO BOX 1800                                                            MO
+   Winston Salem                                                           64141-6267
+   NC                                                                   United States
+   27105                                                                 Address ID: US1_10359
+   United States
+                                                                          Tax ID of Supplier
+   Address ID: US28
+                                                                          36-1150280
+                                                                      Reference Documents
+                                                                       Original Supplier Order #: 1575887682
+==================================<Page 5 - END>================================
+==================================<Page 6 - START>================================
+ Appendix
+ Line No.    PO Line No. Type
+                                                        Supplier Part No. / Description
+  1          1         Material                         40LL89 / Cut Resistant Gloves,Gray/Yellow,10,PR
+ Additional Details:
+ Supplier Part ID : 40LL89
+ Supplier Part Auxiliary ID : WWG40LL89
+ Line No.    PO Line No. Type                           Supplier Part No. / Description
+ 2
+             2         Material                         62HZ82 / VF,GenPurp GlvesBlk/BI,8,36H144,PR
+ Additional Details:
+ Supplier Part ID : 62HZ82
+ Supplier Part Auxiliary ID : WWG62HZ82
+ Line No.    PO Line No. Type                           Supplier Part No. / Description
+ 3         3         Material                         62HZ81 / VF,GenPurp GlvesBlk/BI,7,36H143,PR
+ Additional Details:
+ Supplier Part ID : 62HZ81
+ Supplier Part Auxiliary ID : WWG62HZ81
+ Line No.    PO Line No. Type                           Supplier Part No. / Description
+ 4         4         Material                         62HZ84 / VF,GenPurp Glve,Blk/BI,10,36H146,PR
+ Additional Details:
+Supplier Part ID : 62HZ84
+Supplier Part Auxiliary ID : WWG62HZ84
+Line No.    PO Line No. Type                           Supplier Part No. / Description
+ 5         5         Material                         1FYX7 / SafetyGlasses,Clear,AntiFog,ScrtchRsstnt
+Additional Details:
+Supplier Part ID : 1FYX7
+Supplier Part Auxiliary ID : WWG1FYX7
+Line No.    PO Line No. Type                            Supplier Part No. / Description
+6         7         Material                         62HZ83 / VF,GenPurp GlvesBIk/BI,9,36H145,PR
+Additional Details:
+Supplier Part ID : 62HZ83
+Supplier Part Auxiliary ID : WWG62HZ83
+PDF generated on Friday 13 Feb 2026 5:15 AM GMT-08:00
+==================================<Page 6 - END>================================

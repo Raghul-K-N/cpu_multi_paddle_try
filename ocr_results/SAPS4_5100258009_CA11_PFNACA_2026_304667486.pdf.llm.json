@@ -1,0 +1,59 @@
+{
+  "invoice_data": {
+    "invoice_number": "317154822",
+    "invoice_date": "Friday 6 Feb. 2026 11:49 a.m. GMT-05:00",
+    "invoice_amount": "150.29",
+    "invoice_currency": [
+      "CAD"
+    ],
+    "tax_amount": "17.29",
+    "po_number": [
+      "M413461096"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "Crown Lift Trucks ULC",
+    "vendor_address": "21 Tallgrass Court, Brantford, ON N3V 0A2, Canada",
+    "po_line_items": [
+      {
+        "description": "Not Available / CROWN LIFT- PM BLANKET PO FOR JANUARY 2026",
+        "quantity": 133.0,
+        "net_price": 1.0
+      }
+    ],
+    "vat_amount": null,
+    "gl_account": null,
+    "bank_name": null,
+    "account_holder_name": null,
+    "banking_account_number": null,
+    "remit_to_address": null,
+    "bill_to_address": null,
+    "transaction_type": "debit"
+  },
+  "filename": "SAPS4_5100258009_CA11_PFNACA_2026_304667486.pdf",
+  "raw_response": {
+    "invoice_number": "317154822",
+    "invoice_date": "Friday 6 Feb. 2026 11:49 a.m. GMT-05:00",
+    "invoice_amount": "150.29",
+    "invoice_currency": [
+      "CAD"
+    ],
+    "tax_amount": "17.29",
+    "po_number": [
+      "M413461096"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "Crown Lift Trucks ULC",
+    "vendor_address": "21 Tallgrass Court, Brantford, ON N3V 0A2, Canada",
+    "po_line_items": [
+      {
+        "description": "Not Available / CROWN LIFT- PM BLANKET PO FOR JANUARY 2026",
+        "quantity": 133.0,
+        "net_price": 1.0
+      }
+    ]
+  }
+}

@@ -1,0 +1,95 @@
+{
+  "invoice_data": {
+    "invoice_number": "8925",
+    "invoice_date": "30/01/2026",
+    "invoice_amount": null,
+    "invoice_currency": null,
+    "tax_amount": null,
+    "po_number": [
+      "M413453263"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "Service Routier SRL",
+    "vendor_address": "9350-7754 Québec inc. 14027 boulevard Curé-Labelle Mirabel (QC) J7J 1M3",
+    "po_line_items": [
+      {
+        "description": "M-94-Vérifier système à air, maxi, service et suspension - Système gelé",
+        "quantity": 0.5,
+        "net_price": 74.0
+      },
+      {
+        "description": "M-94-Ajout d'antigel, dégeler valves et hoses. Drainer les réservoirs",
+        "quantity": 0.5,
+        "net_price": 74.0
+      },
+      {
+        "description": "P-Antigel pneumatique",
+        "quantity": 0.0,
+        "net_price": 30.76
+      },
+      {
+        "description": "P-Torche",
+        "quantity": 12.0,
+        "net_price": 12.0
+      },
+      {
+        "description": "Shop supply et surcharge de carburant",
+        "quantity": 10.13,
+        "net_price": 10.13
+      }
+    ],
+    "vat_amount": null,
+    "gl_account": null,
+    "bank_name": null,
+    "account_holder_name": null,
+    "banking_account_number": null,
+    "remit_to_address": null,
+    "bill_to_address": null,
+    "transaction_type": "debit"
+  },
+  "filename": "SAPS4_5100076011_CA11_PFNACA_2026_304672216.pdf",
+  "raw_response": {
+    "invoice_number": "8925",
+    "invoice_date": "30/01/2026",
+    "invoice_amount": null,
+    "invoice_currency": null,
+    "tax_amount": null,
+    "po_number": [
+      "M413453263"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "Service Routier SRL",
+    "vendor_address": "9350-7754 Québec inc. 14027 boulevard Curé-Labelle Mirabel (QC) J7J 1M3",
+    "po_line_items": [
+      {
+        "description": "M-94-Vérifier système à air, maxi, service et suspension - Système gelé",
+        "quantity": 0.5,
+        "net_price": 74.0
+      },
+      {
+        "description": "M-94-Ajout d'antigel, dégeler valves et hoses. Drainer les réservoirs",
+        "quantity": 0.5,
+        "net_price": 74.0
+      },
+      {
+        "description": "P-Antigel pneumatique",
+        "quantity": 0.0,
+        "net_price": 30.76
+      },
+      {
+        "description": "P-Torche",
+        "quantity": 12.0,
+        "net_price": 12.0
+      },
+      {
+        "description": "Shop supply et surcharge de carburant",
+        "quantity": 10.13,
+        "net_price": 10.13
+      }
+    ]
+  }
+}

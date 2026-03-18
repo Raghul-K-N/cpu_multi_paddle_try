@@ -1,0 +1,65 @@
+{
+  "invoice_data": {
+    "invoice_number": "110009699",
+    "invoice_date": "02/04/26",
+    "invoice_amount": null,
+    "invoice_currency": null,
+    "tax_amount": null,
+    "po_number": [
+      "23568619"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": null,
+    "vendor_address": "6112 W 73RD STREET, BEDFORD PARK IL 60638",
+    "po_line_items": [
+      {
+        "description": "PEPSI KIT",
+        "quantity": 1.0,
+        "net_price": 378.78
+      },
+      {
+        "description": "PEPSI KIT",
+        "quantity": 44.0,
+        "net_price": 220.98
+      }
+    ],
+    "vat_amount": null,
+    "gl_account": null,
+    "bank_name": null,
+    "account_holder_name": null,
+    "banking_account_number": null,
+    "remit_to_address": null,
+    "bill_to_address": null,
+    "transaction_type": "debit"
+  },
+  "filename": "SAPS4_5100001584_US29_PFNAUS_2026_999934761.pdf",
+  "raw_response": {
+    "invoice_number": "110009699",
+    "invoice_date": "02/04/26",
+    "invoice_amount": null,
+    "invoice_currency": null,
+    "tax_amount": null,
+    "po_number": [
+      "23568619"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": null,
+    "vendor_address": "6112 W 73RD STREET, BEDFORD PARK IL 60638",
+    "po_line_items": [
+      {
+        "description": "PEPSI KIT",
+        "quantity": 1.0,
+        "net_price": 378.78
+      },
+      {
+        "description": "PEPSI KIT",
+        "quantity": 44.0,
+        "net_price": 220.98
+      }
+    ]
+  }
+}

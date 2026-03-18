@@ -1,0 +1,47 @@
+{
+  "invoice_data": {
+    "invoice_number": "2705343",
+    "invoice_date": "1/24/2026",
+    "invoice_amount": "91245.80",
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": null,
+    "po_number": [
+      "M413483742"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "Capstone Logistics Company",
+    "vendor_address": "6080 147TH ST. WEST, SUITE 200, APPLE VALLEY, MN 55124, USA, 30 Technology Pkwy South, Peachtree Corners, GA 30092, (770)414-1929 Ext. 6710",
+    "po_line_items": null,
+    "vat_amount": null,
+    "gl_account": null,
+    "bank_name": null,
+    "account_holder_name": null,
+    "banking_account_number": null,
+    "remit_to_address": null,
+    "bill_to_address": null,
+    "transaction_type": "debit"
+  },
+  "filename": "SAPS4_5100170017_US29_PFNAUS_2026_999935722.pdf",
+  "raw_response": {
+    "invoice_number": "2705343",
+    "invoice_date": "1/24/2026",
+    "invoice_amount": "91245.80",
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": null,
+    "po_number": [
+      "M413483742"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "Capstone Logistics Company",
+    "vendor_address": "6080 147TH ST. WEST, SUITE 200, APPLE VALLEY, MN 55124, USA, 30 Technology Pkwy South, Peachtree Corners, GA 30092, (770)414-1929 Ext. 6710",
+    "po_line_items": null
+  }
+}

@@ -1,0 +1,59 @@
+{
+  "invoice_data": {
+    "invoice_number": "888526581",
+    "invoice_date": "02/11/2026",
+    "invoice_amount": "499.20",
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": "38.04",
+    "po_number": [
+      "M413549946"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "GRAINGER",
+    "vendor_address": "6006 E. BEN WHITE BLVD, AUSTIN. TX 78741-7504, 201 FREEDOM DRIVE, ROANOKE, TX 76262-3320",
+    "po_line_items": [
+      {
+        "description": "HORN STROBE,AMBER,5-1/2 IN. H,24VAC/DC",
+        "quantity": 1.0,
+        "net_price": 461.16
+      }
+    ],
+    "vat_amount": null,
+    "gl_account": null,
+    "bank_name": null,
+    "account_holder_name": null,
+    "banking_account_number": null,
+    "remit_to_address": null,
+    "bill_to_address": null,
+    "transaction_type": "debit"
+  },
+  "filename": "SAPS4_5100236555_US28_PFNAUS_2026_999762534.pdf",
+  "raw_response": {
+    "invoice_number": "888526581",
+    "invoice_date": "02/11/2026",
+    "invoice_amount": "499.20",
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": "38.04",
+    "po_number": [
+      "M413549946"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "GRAINGER",
+    "vendor_address": "6006 E. BEN WHITE BLVD, AUSTIN. TX 78741-7504, 201 FREEDOM DRIVE, ROANOKE, TX 76262-3320",
+    "po_line_items": [
+      {
+        "description": "HORN STROBE,AMBER,5-1/2 IN. H,24VAC/DC",
+        "quantity": 1.0,
+        "net_price": 461.16
+      }
+    ]
+  }
+}

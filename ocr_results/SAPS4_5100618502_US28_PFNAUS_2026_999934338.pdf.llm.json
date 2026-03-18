@@ -1,0 +1,65 @@
+{
+  "invoice_data": {
+    "invoice_number": "CA06-00899106",
+    "invoice_date": "02/02/26",
+    "invoice_amount": null,
+    "invoice_currency": null,
+    "tax_amount": null,
+    "po_number": [
+      "4504712230"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "REMIT MOTION INDUSTRIES, INC.",
+    "vendor_address": "6613246741, LOS ANGELES, CA 90074-7463",
+    "po_line_items": [
+      {
+        "description": "PR-18H-3-100-1/4-3-TX12-TX SENSOR",
+        "quantity": 1.0,
+        "net_price": 216.11
+      },
+      {
+        "description": "2AK30 X 7/8 C.I. FHP SHEAVE",
+        "quantity": 1.0,
+        "net_price": 95.06
+      }
+    ],
+    "vat_amount": null,
+    "gl_account": null,
+    "bank_name": null,
+    "account_holder_name": null,
+    "banking_account_number": null,
+    "remit_to_address": null,
+    "bill_to_address": null,
+    "transaction_type": "debit"
+  },
+  "filename": "SAPS4_5100618502_US28_PFNAUS_2026_999934338.pdf",
+  "raw_response": {
+    "invoice_number": "CA06-00899106",
+    "invoice_date": "02/02/26",
+    "invoice_amount": null,
+    "invoice_currency": null,
+    "tax_amount": null,
+    "po_number": [
+      "4504712230"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "REMIT MOTION INDUSTRIES, INC.",
+    "vendor_address": "6613246741, LOS ANGELES, CA 90074-7463",
+    "po_line_items": [
+      {
+        "description": "PR-18H-3-100-1/4-3-TX12-TX SENSOR",
+        "quantity": 1.0,
+        "net_price": 216.11
+      },
+      {
+        "description": "2AK30 X 7/8 C.I. FHP SHEAVE",
+        "quantity": 1.0,
+        "net_price": 95.06
+      }
+    ]
+  }
+}

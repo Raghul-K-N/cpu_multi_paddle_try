@@ -1,0 +1,89 @@
+{
+  "invoice_data": {
+    "invoice_number": "25617171 RI",
+    "invoice_date": "2026-02-02(YYYY-MM-DD)",
+    "invoice_amount": "17,322.00",
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": null,
+    "po_number": [
+      "M413511856"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "RXO CAPACITY SOLUTIONS, LLC",
+    "vendor_address": "1432 6th St Maip, NORIT, Pryor OK 74361, United States",
+    "po_line_items": [
+      {
+        "description": "NORIT® GAC 1240 PLUS AQ 55LB B",
+        "quantity": 4400.0,
+        "net_price": 3.67
+      },
+      {
+        "description": "Blank-Future Use 41/E",
+        "quantity": 2.0,
+        "net_price": 80.0
+      },
+      {
+        "description": "12.00 LB",
+        "quantity": 12.0,
+        "net_price": 27.0
+      },
+      {
+        "description": "12.00 KG",
+        "quantity": 12.0,
+        "net_price": null
+      }
+    ],
+    "vat_amount": null,
+    "gl_account": null,
+    "bank_name": null,
+    "account_holder_name": null,
+    "banking_account_number": null,
+    "remit_to_address": null,
+    "bill_to_address": null,
+    "transaction_type": "debit"
+  },
+  "filename": "SAPS4_5101111010_CA02_PBNACA_2026_328614987.pdf",
+  "raw_response": {
+    "invoice_number": "25617171 RI",
+    "invoice_date": "2026-02-02(YYYY-MM-DD)",
+    "invoice_amount": "17,322.00",
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": null,
+    "po_number": [
+      "M413511856"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "RXO CAPACITY SOLUTIONS, LLC",
+    "vendor_address": "1432 6th St Maip, NORIT, Pryor OK 74361, United States",
+    "po_line_items": [
+      {
+        "description": "NORIT® GAC 1240 PLUS AQ 55LB B",
+        "quantity": 4400.0,
+        "net_price": 3.67
+      },
+      {
+        "description": "Blank-Future Use 41/E",
+        "quantity": 2.0,
+        "net_price": 80.0
+      },
+      {
+        "description": "12.00 LB",
+        "quantity": 12.0,
+        "net_price": 27.0
+      },
+      {
+        "description": "12.00 KG",
+        "quantity": 12.0,
+        "net_price": null
+      }
+    ]
+  }
+}

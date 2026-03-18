@@ -1,0 +1,47 @@
+{
+  "invoice_data": {
+    "invoice_number": "5311112274",
+    "invoice_date": "1/08/2026",
+    "invoice_amount": null,
+    "invoice_currency": [
+      "CAD"
+    ],
+    "tax_amount": null,
+    "po_number": [
+      "4504134155"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "Smurfit Westrock Company of Canada Corp",
+    "vendor_address": "PO BOX 11399, SUCCURSALE CENTRE-VILLE, MONTREAL, QUEBEC H3C 5H1",
+    "po_line_items": null,
+    "vat_amount": null,
+    "gl_account": null,
+    "bank_name": null,
+    "account_holder_name": null,
+    "banking_account_number": null,
+    "remit_to_address": null,
+    "bill_to_address": null,
+    "transaction_type": "debit"
+  },
+  "filename": "SAPS4_5100006510_CA11_PFNACA_2026_304658820.pdf",
+  "raw_response": {
+    "invoice_number": "5311112274",
+    "invoice_date": "1/08/2026",
+    "invoice_amount": null,
+    "invoice_currency": [
+      "CAD"
+    ],
+    "tax_amount": null,
+    "po_number": [
+      "4504134155"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "Smurfit Westrock Company of Canada Corp",
+    "vendor_address": "PO BOX 11399, SUCCURSALE CENTRE-VILLE, MONTREAL, QUEBEC H3C 5H1",
+    "po_line_items": null
+  }
+}

@@ -1,0 +1,958 @@
+==================================<Page 1 - START>================================
+   OpenText Workflow History
+   Vendor
+   407 ETR CONCESSION COMPANY LIMITED
+   6300 STEELES AVE W
+    WOODBRIDGE ONL4H 1J1
+    CANADA
+    Invoice
+    Reference        829777616
+                                                               Document Date    01.02.2026
+    DP Document No.
+                      39240500                                Net Amount
+                                                                                 CAD         38,163.41
+    Comp. Code
+                      CA02 Pepsi Bottling Grp Canada           Tax Amount       CAD
+                                                                                                    0.00
+   Posting Date     13.02.2026
+                                                               Gross Amount     CAD
+                                                                                             38,163.41
+   SAP Document No. 1900084001 2026
+                                           Pre-Process History
+    ACTIVITY
+                                                          USER       END TIME         DOCUMENT STATUS
+    Update status                                        VRBLAOT_U  03.02.2026        Validation
+                                                          SR         18:05:03          Complete
+                                       Document Process History
+    ACTIVITY         PROCESS TYPE/BLOCK REASON                      END TIME         DOCUMENT STATUS
+                                                          USER
+    BC Inbound                                                        03.02.2026
+                                                          VRBLAOT_U                    Document
+                                                          SR          17:57:51         Registered
+    Workflow Start   Invalid Requestor ID (NPO)
+                                                          Record to  03.02.2026        Created
+                                                          Report     18:05:03
+                                                          Batch
+                                                          Account
+                                                          Owner:
+   Apply Business   Invalid Requestor ID (NPO)                      11.02.2026
+                                                          NAVINKUMA                     Created
+   Rules
+                                                          R R         18:09:03
+  Comment:
+  Changed By:   NAVINKUMAR R (09336939)
+  Changed On:   02/11/2026 18:09:02
+ Please approve the non po invoice
+Apply Business
+                    Invalid Requestor ID (NPO)          NAVINKUMA  11.02.2026        Created
+Rules                                                  RR         18:09:24
+Comment:
+******************************************************************
+Changed By:   NAVINKUMAR R (09336939)
+Changed On:   02/11/2026 18:09:23
+*******************************************************************
+Please approve the non po invoice
+Business Rules    Approval Required (NPo)             SAP_WFRT    11.02.2026        Indexed
+Check in BG                                                          18:09:27
+==================================<Page 1 - END>================================
+==================================<Page 2 - START>================================
+OpenText Workflow History
+Invoice
+ Vendor            407 ETR CONCESSION COMPANY LIMITED WOODBRIDGE
+ Reference         829777616                           Gross Amount
+                                                                            CAD      38,163.41
+                               Document Process History - Continuation
+   ACTIVITY          PROCESS TYPE/BLOCK REASON          USER        END TIME          DOCUMENT STATUS
+     Invoice submitted for Approval                                  11.02.2026 18:09:28
+     Financial Information Entered
+                                                           MARION     11.02.2026 18:41:48
+                                                          PONOMAREW
+     Data Entered and Invoice Approved                   MARION      11.02.2026 18:41:54
+                                                           PONOMAREW
+     Comment:
+     Hello Team, when remitting this.payment for $38,163.41 please include account number 829 777
+               please ensure you include each account number, with the payment for each invoice.
+     invoices,
+     payments quickly; and Pepsi avoiding any late interest charges. Thank you.
+      Invoice Approved                                    HELENA      12.02.2026 17:17:22
+                                                           FIORE
+      Comment:
+      approved
+    Approval         Approval Required (NPO)             SAP_WFRT   12.02.2026       Approval
+    Workflow                                                          17:17:30          Complete
+                                                                       12.02.2026        Approval
+    Business Rules   Process Non-PO Invoice (NPO)       SAP_WFRT
+    Check in BG                                                       17:17:31          Complete
+    Create Doc. BG   Process Non-PO Invoice (NPO)       SAP_WFRT   12.02.2026        Sent for Doc
+                                                                       17:17:32          Creation
+    Post Non-PO      Process Non-PO Invoice (NPO)       KARTHIK M  13.02.2026       Document
+    Invoice                                                           10:54:59          Created
+    SAP Document
+                                                           SAP_WFRT   13.02.2026        Posted
+    Check                                                             10:55:08
+==================================<Page 2 - END>================================
+==================================<Page 3 - START>================================
+        PEPSICO
+  InstructionsWhen there is no an ofical" Invoice to request payment, complete the information on this for.
+   You must l in a of the filds below and the form must be accompanied with supporting documentaton.
+   Save submission as 1 single PDF file prior to submiting to nassapinvoicesubmission@pepsico.com
+             SAP Payment Request
+         Substitute Invoice Form                      To be filled by Requestor
+  Vendor Type                              S4
+  Vendor Name:                            407 ETR
+  Vendor Number:
+                                             2004112584
+  Company Code:
+                                             CA02
+  Remit To Address :                         6300 Steeles Avenue West
+  (Must match the address in the AP system)   Woodbridge, Ontario L4H 1J1
+  Special Handling needed:
+ Attn:
+ Address:
+  Overnight delivery required:
+  (if yes provide account # oi CC below)
+ FedEx or UPS, & Provide Number:
+ FedEx or UPS account #
+ Cost Center (If No FedEx/UPS Number):
+Trnsaction type:
+ Choose only 1 option - Invoice or Credit      Invoice
+ Memo from the dropdown
+Invoice Date:                              2/1/2026
+Invoice #:
+                                            829 777 616
+Limited to 16 characters
+Purchase Order #
+Not required if non-PO
+                                            $38,163.41
+Payment GROss Amount:
+Tax Amount
+ (if applicable)
+Payment NET Amount:                     $38,163.41
+Currency (USD or CAD)                     CAD
+Header Text:
+                                            Marion Ponomarew
+Requestor Name:
+                                            Marion.Ponomarew@pepsico.com
+Requestor email
+                                            Helena Fiore
+1st Level Approver Name
+                                            Helena.Fiore@pepsico.com / GPID 10175279
+1st Level Approver Email id/GPID
+                                           2/2/2026
+Date Requested:
+                                           610071
+GL Coding (6 digits)
+                                           1208303000
+Cost Center (If applicable)
+Profit Center (If applicable)                2BCAL1000
+WBS Element (If applicable)
+For Assistance On This Form submisslon please contact:
+                                           PepsiCo Sign in
+Raise service now ticket(Snow)
+==================================<Page 3 - END>================================
+==================================<Page 4 - START>================================
+                          ETR
+         407
+                            Express Toll Route
+                                                                      Bill date: Feb 1, 2026
+          FAST. SAFE. RELIABLE.
+                                                                      Billing period: Jan 1 to Jan 31, 2026
+                                                                      THE PEPSI BOTTLING GROUP (CANADA) ULC
+                                                                      Account number: 829 777 616
+                                                                                      Pay your bill
+             Snapshot of what you owe
+                                                                                          Online @ 407etr.com
+             See page 2 for details                                                           Access your account anytime
+                   Balance from your last bill                     $121.75          Through your bank
+                                                                                          Select '407 ETR' as the payee
+                   This month's charges                      $38,041.66
+                                                                                      Questions?
+                                                                                          Email us @
+                   Total amount due
+                                                               $38,163.41          dedicatedsupport@407etr.com
+                       To avoid further interest charges, your payment
+                       must be received by Feb 25, 2026.
+                                                                                                SCAN TO PAY
+              YOU NEED TO KNOW
+                   Updated rates & fees effective Jan. 1
+                   Beginning Jan. 1, 2026, updated rates and fees apply. Learn more and calculate your trip at
+                   407etr.com/rates. Save with a transponder - visit 407etr.com/transponder.
+                   Updated Billing & Payment Terms coming soon
+                   We're updating our Billing & Payment Terms effective February 17, 2026. To see the updated terms,
+                   visit 407etr.com/billingandpaymentterms.
+                   407 ETR proudly supports Ontario's economy
+                   407ETR reinvests locally - contributing $490 million to Ontario's GDP, paying $140 million in wages
+                   and supporting 1,800 jobs across Canada annually. We choose Canadian-made whenever possible,
+                   like our transponders, designed and built in Mississauga for over 25 years. Learn more at
+                                                                                      VENDOR #2004112584
+                   407etr.com/drivingontarioforward.
+                   For answers to most common billing questions, visit 407etr.com.
+                                                                                                         Page 1 of 9
+          Tear off here
+                            New plates? New address? New car?                      Your account number:          829 777 616
+          407 ETR
+                            Visit 407etr.com to update your account information within 6 days of    Bill date:                      Feb 1, 2026
+           FAST. SAFE, RELIABLE.
+                            the change.                                        Total amount due            $38,163.41
+                                                                            Please pay by             Feb 25, 2026
+                                                                                                     $38,163.41
+                                                                            Total amount paid
+                                                                            Payment Options
+                                                                               Visit 407etr.com/pay
+         THE PEPSI BOTTLING GROUP (CANADA) ULC
+                                                                               Through your bank
+          ATTN MARION PONOMAREW
+                                                                               Mail
+          5900 FALBOURNE ST
+                                                                               Contact us:407etr.com/contactus
+          MISSISSAUGA ON L5R 3M2
+                              h 0209202 ThE9T9E00 9 9222628000 00
+                                                                                          96
+                                       100715900
+==================================<Page 4 - END>================================
+==================================<Page 5 - START>================================
+         Balance from your last bill                         Summary of trips billed this
+         Total due on your last bill                    $48,817.34          month (continued)
+         Payment received on Jan 20, 2026            -$48,817.34                               # OF          TOTAL
+                                                                    TRANSPONDER                                         TOLL
+         Total from accounts added or removed            $121.75          OR LICENCE      # OF  CAMERA        DISTANCE
+                                                                    PLATE#       TRIPS   CHARGES           (KM)        CHARGES ($)
+          See Accounts added or removed on page 8 for details
+                                                                                                                   3,109.80
+                                                                    E87CB968      44      o        1,397.7
+         Total balance from your last bill        $121.75
+                                                                                  51               1,436.2         2,972.48
+                                                                                                      59.9           62.65
+                                                                                   1      1
+         This month's charges
+                                                                    BW38002       1      1          25.1           15.74
+         407 ETR                                                                                    59.9           140.76
+                                                                    C27091        1      1
+         Toll charges                              $36,283.84                                            12.9           26.59
+         Trip toll charges (20 @ $1.00 per trip)              $20.00          C63538        1                  59.9           77.65
+         Trip toll charges (52 @ $2.00 per trip)             $104.00
+                                                                                          1          14.5            9.75
+         Trip toll charges (450 @ $3.00 per trip)          $1,350.00
+                                                                    Total       522      6     16,518.6km   $36,283.84
+         Camera charges (2 @ $5.20 per trip)              $10.40
+         Camera charges (4 @ $60.00 per trip)            $240.00
+          Monthly transponder lease                                      Your trip details
+                                                    $5.00
+          Addt'l monthly trans lease (19 @ $1.25)            $23.75                TRIPS RECORDED BY TRANSPONDER
+         Interest charges                              $0.98
+         GST/HST (#888411055)                         $3.69          DATE      TIME YOUENTRY            DISTANCE  COST PER     TOLL
+                                                                    OF TRIP     ENTEREDAND EXIT             (KM)   KM ($) CHARGES ($)
+         Total charges this month            $38,041.66       TRANSPONDER NUMBER E86FFOE2
+                                                                    Heavy single unit vehicle
+                                                                    06 Jan 26  3:40 PM Hwy400-Hwy410     19.749  0750   40.98
+          Total Amount Due
+                                            $38,163.41
+                                                                    10 Jan 26  2:16 PMMcCowan-Hwy427   31769  1.5181   48.23
+                                                                    12 Jan 26  2:48 PMJane-Hwy410               1.4691   30.75
+          Summary of trips billed this month                                                   1.1677
+                                                                    28 Jan 26  5:48 AMQEW-Hwy403                       29.35
+          TRANSPONDER           # OF         TOTAL                       Heavy multiple unit vehicle
+          OR LICENCE     # OF  CAMERA        DISTTANCE            TOLL
+          PLATE #       TRIPS  CHARGES          KM)                       29 Dec 25  8:38 AMMarkham-Hwy410    45.75  2.2009   99.87
+                                                     CHARGES ($)
+                                                                                                            1.9880
+          E86FF0E2      42      o        1,341.3        2,871.74       29 Dec 25  6:06 AMHwy410-Markham    45375           90.21
+                                                                    30 Dec 25  5:02 AMHwy403-QEW               1.0830
+                      47      0        1,474.4        3,317.88
+                                                                                                            1.7073
+          E938AE      28      0                      1,372.27                11:23 AMQEW-Hwy410       47.999           81.95
+                      22                                           31 Dec 25  6:07 AMHwy410-Brock       59.965  1.9424   116.48
+                                                     1,315.13
+                                                                             9:42 AMBrock-Hwy410      59965  1.9588   117.46
+                      36      0        1,167.9        2,825.88
+          E87938B1      28      0       1.141.7                      06 Jan 26  5:49 AMHwy410-Hwy404     36.020  2.4511   88.29
+                                                     2,803.69
+         E7938B2      44                                           07 Jan 26  5:25 AMBrock-Hwy410              2.0590   123.47
+                                       1,442.6        3,159.84
+                      27      0         581.1        1,507.5       07 Jan 26 11:54 AMHwy410-Dufferin     26.651  2.4486   65.26
+         E E87AFB51      40      0        1,344.5                      07 Jan 26  1:38 PMBathurst-Hwy410     28.845  2.1983    63.41
+                                                     301.63
+                              0                                    08 Jan 26  4:17 AMHwy410-Hwy404     3620  1.5169   54.64
+                                        874.9        2,016.94
+                      18      0         679.9                       08 Jan 26  5:46 AMHwy404-Hwy410    36.20  2.1960   79.10
+                                                      711.4
+                     27      0                                    09 Jan 26  4:06 AMHwy410-Brock      59.965  1.5167   90.95
+                                        909.9        2,220.56
+         E75D52
+                                       1,263.0                      09 Jan 26  9:08 AMHwy410-Airport      6.882  3.1967   22.00
+                                                     2,733.87
+                                                                                                             Page 2 of 9
+             407 ETR                                           PAYMENT OPTIONS
+              FAST. SAFE, RELIABLE.                                           Credit Card
+                                                                       Pay online at www.407etr.com/pay
+                                                                       Bank or financial institution
+                                                                       ABM, telephone or internet banking, or in-branch
+                                                                       Mail
+                                                                       Make your cheque payable to 407 ETR and return it with this
+               407 ETR                                                payment slip. DO NOT SEND CASH.
+               P.O. BOX 407 STN 'D'
+               SCARBOROUGH, ONTARIO
+               M1R 5J8
+==================================<Page 5 - END>================================
+==================================<Page 6 - START>================================
+                                                                                   Bill date: Feb 1, 2026
+                                                                                  Billing period: Jan 1 to Jan 31, 2026
+                    Express Tall Route
+                                                                                  THE PEPSI BOTTLING GROUP (CANADA) ULC
+          FAST. SAFE. RELIABLE.
+                                                                                  Account number: 829 777 616
+                                                                     Your trip details (continued)
+         Your trip details (continued)
+                                                                          TRIPS RECORDED BY TRANSPONDER (CONTINUED)
+               TRIPS RECORDED BY TRANSPONDER (CONTINUED)
+                                                                              TIME YOUENTRY            DISTANCE  COST PER    TOLL
+          DATE      TIME YOUENTRY            DISTANCE  COST PER    TOLL       DATE                               (KM)   KM ($)CHARGES ($)
+          O TRIP                             (KM)   KM ($)CHARGES ($)       OF TRIP     ENTEREDAND EXIT
+                   ENTEREDAND EXIT
+                                                                              3:32 PMHwy404-Hwy401    49.007          147.83
+         10 Jan 26 11:00 AMNinth-Markham      2.074  1.5188               12 Jan 26
+                                                                                                            2013   70.07
+         10 Jan 26                         12.516  1.9191   24.02       13 Jan 26  5:14 AMHwy401-QEW       3012
+                  9:03 AMBrock-Ninth
+                                                        48.53        13 Jan 26  8:13 AMHwy403-Hwy401     9.879  1.8767   18.54
+         12 Jan 26 12:04 PMHwy410-Hwy400     19.749  2.4573
+                                                                                    Hwy410-Brock                      140.76
+         12 Jan 26 4:59 AMHwy410-Markham    45375  1.5166   68.82        14 Jan 26  5:13 AM
+         13 Jan 26                        32.947         104.54        14 Jan 26  2:25 PMMcCowan-Hwy410   43.272           91.38
+                  4:05 PMBayview-Hwy410
+         14 Jan 26                                1.758   44.03        16 Jan 26  8:04 AMHwy410-Hwy404    36.020          119.74
+                  5:32 AMQEW-Hwy403
+                                                                                    Hwy400-Hwy410    19.749  3.1125   61.47
+         14 Jan 26  2:31 PMWeston-Hwy410     19.058  2.022   41.97       16 Jan 26  4:32 PM
+         16 Jan 26  8:09 AMHwy410-Hwy427    11.503  31974   3.78        17 Jan 26  7:39 AMHwy410-Yonge      31017  1.5169   47.05
+                                                                             8:56 AMYonge-Keele        7.887  21567   17.01
+         17 Jan 26  4:37 PMKennedy-Hwy410    41.057          97.0        17 Jan 26
+         19 Jan 26  2:10 PMHwy410-Warden            2.4175   94.59        17 Jan 26  3:37 PMKeele-Hwy410      2.130           588.30
+         19 Jan 26  4:02 PMWarden-Hwy410     39.127  307666  10.38        18 Jan 26 10:12 AMHwy410-Hwy404    36.020  2.5388   91.45
+                                                                                                             2.5000   90.0
+         20 Jan 26  9:37 AMBayview-Hwy410    3.947          72.39        18 Jan 26 11:28 AMHwy404-Hwy410     36.020
+         21 Jan 26  5:27 AMHwy403-QEW              20666   51.94        19 Jan 26  7:02 AMHwy410-Hwy404     36.020  3.3242  119.74
+                                                                                                                      8.53
+         21 Jan 26  8:44 AMQEW-Hwy403              1.8788   47.22        19 Jan 26 10:39 AMKennedy-Hwy404     5.037  1.6934
+         21 Jan 26  3:05 PMHwy404-Hwy410    36.020  2.1960   79.10        20 Jan 26 10:29 AMMcCowan-Hwy410    43.272  2.1411
+         22 Jan 26                        44.832  2.432  116.77        21 Jan 26  1:09 PM                 28.845  2.1983   63.41
+                  5:23 AMMavis-Markham                                                 Bathurst-Hwy410
+         22 Jan 26  3:28 PMMarkham-Hwy410    45375  2.1284   96.58       21 Jan 26  9:04 AMHwy410-Hwy400     19.749  3.2751   64.8
+         23 Jan 26  8:19 AMHwy404-Bathurst     7.175  32641   23.42        22 Jan 26  6:26 AMHwy410-Hwy404     36020  2.4511   88.29
+                                                                                                     36.020  2.160
+         23 Jan 26  9:32 AMYonge-Hwy410                     68.1        22 Jan 26  2:30 PMHwy404-Hwy410                     79.10
+         26 Jan 26  4:21 PMHwy427-Hwy410    11.503  3.0035   34.55        23 Jan 2  5:16 AMHwy401-Hurontar    10.840  2.0470
+                                         19.749  2.4578   48.54        27 Jan 26  1:39 PMHwy400-Hwy410     19.749  2.2046   43.4
+         27 Jan 26  6:05 AMHwy410-Hwy400
+         27 Jan 26  4:04 PMHwy400-Hwy410    19.749  3.1125   61.47        27 Jan 26 10:49 AMHwy410-Bayiew    32.947  2.4475   80.64
+                                        43.272          140.54        27 Jan 26 12:19 PMBayview-Hwy400     13.198  2.1844
+         28 Jan 26  7:31 AMHwy410-McCowan
+         28 Jan 26  6:49 PMLeslie-Hwy410      3.023  2.1962   76.92        28 Jan 26  8:22 AMHwy403-Neyag       6.144  22.0247    12.44
+                                                   $2,871.74                                    1,474.4km
+         Total for all trips           1,341.3km                       Total for all trips                            $3,317.88
+         TRANSPONDER NUMBER E87935AE                                TRANSPONDER NUMBER E87938AE
+         Heavy single unit vehicle                                          Heavy single unit vehicle
+         29 Dec 25  6:06 AMHwy410-Brock      59.965  1.2949               05 Jan 26  1:21 PM Hwy27-Hwy400      6.922  1.6555   11.46
+         05 Jan 26  9:16 AMQEW-Hwy403              1.2525   31.48        05 Jan 26 12:26 PM Hwy410-Hwy427     11.503  1.6265   18.71
+         Heavy multiple unit vehicle                                         06 Jan 26  8:31 PM Hwy404-Bayview      3.073  1.4578    4.48
+                  1:10 PM                        1.7139  102.78
+         29 Dec 25        Brock-Hwy410                                  13 Jan 26 12:23 PM Hwy410-Keele       23.30  1.6351   37.82
+         30 Dec 25  1:26 PMHwy400-Hwy410    19.749  1.7145   33.86        13 Jan 26  2:13 PM Jane-Hwy410       20.931  1.4691   30.5
+         30 Dec 25 10:03 AMHwy410-Hwy400    19.749  20532   40.55        16 Jan 26  2:04 PM McCowan-Bathurst    14.427
+                                                                                                             1.2920   18.64
+                                        45.375
+         30 Dec 25 6:07 AMHwy410-Markham           1.9880   90.21        Heavy multiple unit vehicle
+         30 Dec 25 8:27 AMMarkham-Hwy410    45.75  2.09   99.87                 6:09 AMHwy410-Weston     19.058  2.0411   38.90
+                 8:51 AMBrock-Hwy410      59.965  21829  130.90        29 Dec 25  2:36 PM
+                                                                                    Bathurst-Hwy410     28.845  2.1695
+         04 Jan 26  7:43 AM                59.965
+                        Hwy410-Brock             1.5167   90.95                 6:42 AMHwy410-Hwy404     36.020  2.0366   73.36
+         04 Jan 26 11:22 AMBrock-Hwy410             2.2389  134.26        30 Dec 25 7:46 AMHwy427-Bayview
+                                                                                                     21.444  2.4169   51.83
+         05 Jan 26 11:00 AMHwy410-Markham    45.375  2.37200  107.63        30 Dec 25
+                                                                             2:15 PMKeele-Hwy410      2.130  1.7185   3.75
+         05 Jan 26  1:12 PM                        2.1117
+                        McCowan-Hwy410   43272          91.38                 1:33 PMHwy400-Hwy410     19.749
+                                                                                                            1.7145   33.86
+         06 Jan 26 10:36 AMDixie-PineVal       14.665  2,4548               03 Jan 26  5:42 AM
+                                                                                    Hwy410-Woodbine   37,049  1.5169   56.20
+         07 Jan 26 10:14 AMHwy400-Hwy410    19.749  2.2051   43.5        03 Jan 26
+                                                                            10:06 AMBrock-Yonge        28.948
+         07 Jan 26 6:51 AM                                                                                    1.9794   57.30
+                        Hwy410-Hwy400    19.749  2.4578   4854        03 Jan 26 11:42 AM
+         09 Jan 26                                                                    Keele-Hwy410              2.505   58.30
+                 2:57 PMKeele-Hwy410      2.130  2.2023   500.94       05 Jan 26
+                                                                            1:03 AMWeston-Hwy410     19.058  1.5169
+         09 Jan 26 10:38 AMHwy404-Hwy410    36.020  2.1957                                                                 2891
+                                                       79.09        08 Jan 26  9:25 PMBayview-Keele
+         09 Jan 26 12:16 PM                                                                             9.817  1.5167   14.89
+                        Hwy410-Yonge      31017  2.4454   75.85       16 Jan 26  7:32 PM
+         09 Jan 26 5:38 AM                                                            Dufferin-Hwy410     2.651
+                        Hwy410-Hwy400    19.749  2.4578   48.54       16 Jan 26                                 2.199   58.63
+                                                                            7:40 AMHwy410-McCowan
+         11 Jan 26 12:47 PMHwy404-McCowan    7.2  1.6850                                                43272  3.2478   140.54
+                                                       12.22       19 Jan 26 9:29 AM
+         11 Jan 26  2:47 PMMcCowan-Hwy410                                               Hwy410-Hwy427     11.503  3.1974
+                                        43.272  2.334  101.06                                                         36.78
+         12 Jan 26  7:43 AM                                                     8:05 AMHwy410-Hwy427
+                        Hwy410-Warden           3.2880  128.65                                         11.503  3.1974   36.78
+         12 Jan 26 10:01 AM                                            20 Jan 26  6:50 PMHwy400-Hwy410
+                        Woodbine-Warden          20356                                                19.749           43.55
+                                                        4.3       23 Jan 26  8:16 AM
+                                                                                   Hwy410-Ninth      47,449
+                                                                                                            3.2143  152.52
+==================================<Page 6 - END>================================
+==================================<Page 7 - START>================================
+         Your trip details (continued)                        Your trip details(continued)
+              TRIPS RECORDED BY TRANSPONDER (CONTINUED)
+                                                                          TRIPS RECORDED BY TRANSPONDER (CONTINUED)
+         DATE      TIME YOU                                                                                    COST PER     TOLL
+         OF TRIP            ENTRY            DISTANCE  COST PER     TOLL        DATE      TIME YOUENTRY            DISTANCE
+                   ENTEREDAND EXIT             (KM)   KM ($)CHARGES ($)        OFTRIP     ENTEREDAND EXIT             (KM)   KM ($)CHARGES ($)
+         23 Jan 26  5:45 PM                                91.16       13 Jan 26                                 3478  140.54
+                         Bathurst-Hwy410    2.845                               7:21 AMHwy410-McCowan    43.272
+         27 Jan 26 11:52 AMHwy404-Hwy410    36.020          79.09       14 Jan 26  8:44 AMHwy404-DCousens    13.115  2.8677   37.61
+                  8:30 PMHwy400-Dufferin     6.902  24253   16.74       16 Jan 26  8:13 AMHwy410-Hwy404     36.020  3.3242  119.74
+         8 Jan 26
+                  9:20 AMHwy410-Hwy427     11.503          36.78       16 Jan 26  3:16 PMHwy404-Hwy410     36.020  2.1960   79.10
+         28 Ja 26  2:22 PMWeston-Hwy410     19.058  2.201   41.6       19 Jan 26  8:24 AMWhites-Hwy410      55.882  2.9644  165.66
+                                                                     19 Jan 26  4:13 AMHwy400-Markham    2.626  1.5168   38.7
+         Total for all trips             608.6km     $1,372.27
+                                                                     19 Jan 26  5:41 AMMarkham-Brock      14.590
+         TRANSPONDER NUMBER E87938AF                               20 Jan 26  3:22 PMHwy404-Hwy410     36.020  2.1960   79.10
+                                                                     20 Jan 26  6:54 AM
+         Heavy single unit vehicle                                                          Hwy410-Hwy404     36.020  2.4511   88.29
+         29 Dec 25 7:30 AM Hwy410-DCousens   44.135  1.5249   74.93       21 Jan 26 12:36 PMHwy404-Hwy410            2.1957   79.05
+         03 Jan 26  4:29 PMHwy410-Hwy400    19.749  1.6491   32.57       23 Jan 26  4:58 PMHwy404-Hwy410     36.020  3.1807  114.5
+                         Hwy400-Hwy410    19.749  1.6978   33.53       23 Jan 26                          36.020
+         03 Jan 26  6:07 PM                                                     7:50 AMHwy410-Hwy404            3.3242  119.7
+         14 Jan 26  9:32 AMHwy27-Weston       6.231  1.6546   10.31       27 Jan 26 12:45 PMHwy404-Hwy410     36.020           79.09
+         16 Jan 26  8:31 PMDufferin-Jane        5.720  1.4562                        6:26 AMHwy410-Bathurst     2.845  2.4472   70.5
+                                         26.651  1.6325
+         16 Jan 26  2:04 PMHwy410-Dufferin                    43.51        28 Jan 26  2:12 PMHwy404-Hwy410     36.020  2.1957   79.0
+         20 Ja 26  9:17 PMLeslie-PineVal       18.135  1.0113   18.34       Total for all trips            1,167.9km      $2,825.88
+         21 Jan 26  1:13 AMAirport-Hwy410      6.882  1.0113    6.96
+         Heavy multiple unit vehicle                                         TRANSPONDER NUMBER E87938B1
+         23 Dec 25 6:42 AMHwy410-Hwy404    36.020  2.0366   7.36        Heavy multiple unit vehicle
+         29 Dec 25 12:17 PMHwy404-McCowan           1.6685   12.10       27 Dec 25  7:10 AM Hwy410-Hwy404     36.020  1.0832
+                                                                                                                      39.0
+         30 Dec 25 3:27 PMMarkham-Hwy410    45.375  2.1099   95.74        30 Dec 25  7:17 AM Hwy410-Hwy404     36.020           85.5
+         07 Jan 26  6:40 PMHwy410-Brock      59.965  2.3473  140.76        30 Dec 25  3:23 PM Hwy404-Hwy410     36.020  2.1726   78.2
+                         Dufferin-Hwy410     26.651  3.1514
+         08 Jan 26  5:54 PM                                83.99        31 Dec 25  1:26 PM Brock-Hwy410              1.7139  102.7
+         11 Jan 26  4:14 AMHwy410-QEW      47.999  1.5166   72.80       06 Jan 26 10:10 AM Hwy410-Bayview     32947  2.4478   80.6
+                         QEW-Hwy403              1,5123   38.01        07 Jan 26  1:50 PM McCowan-Hwy410    43.272  2.1117   91.3
+         11 Jan 26  6:13 AM
+         16 Jan 26  9:08 PMHwy400-Hwy410     19.749  1.5170   29.96        07 Jan 26  7:31 AMHwy410-Brock      59.65  3.1419   188.4
+         19 Jan 26        Hwy410-Airport      6.882  2.4396   16.79        08 Jan 26  2:18 PMYorkDur-Hwy410     52.111  2.0703   107.8
+                  7:08 PM
+                                         19.749  2.4578   4854        08 Jan 26  6:32 AMHwy410-YorkDur     52.111  2.3490  122.4
+         20 Jan 26  6:56 AMHwy410-Hwy400
+         20 Jan 26 12:36 PMHwy400-Hwy410    19.749  22046   43.54        09 Jan 26 11:59 AMBrock-Hwy410      59965          122.9
+                                         36.020           79.09        09 Jan 26  8:43 AMHwy410-Brock      59.965  3.1419   188.4
+         27 Jan 26 12:40 PMHwy404-Hwy410
+         28 Jan 26  8:29 AMHwy410-Brock      59.965  3.1419  188.41       11 Jan 26  8:46 AMHwy410-Markham    45.375  2.0520   93.1
+                        Brock-Hwy410      59965  27275  163.56       11 Jan 26  9:59 AMMarkham-Hwy410    45.375  1.8102   82.1
+         28 Jan 26  4:17 PM
+                                                                     12 Jan 26  8:53 AMAirport-Weston      12.176  3.3130   40.3
+         Total for all trips            622.7km      $1,315.13
+                                                                     12 Jan 26  1:48 PMHwy427-Airport      4.621  2.1467    9.9
+         TRANSPONDER NUMBER E87938B0                                14 Jan 26  6:19 AMHwy410-Hwy404     36.020  24511   88.2
+                                                                                     Hwy404-Hwy410     36020  2.1957   79.0
+         Heavy multiple unit vehicle                                         14 Jan 26 12:59 PM
+         23 Dec 25  7:23 AMHwy410-Dufferin     22.651           6289        15 Jan 26  7:12 AMHwy410-Keele       23.130  3.2909   76.1
+         24 Dec 25 9:25 AMNinth-Markham      2.074           4.41        16 Jan 26  6:57 AMHwy410-Brock              2.3473   140.7
+                                         19.749  1.7145   33.86                                                        122.9
+                  1:16 PMHwy400-Hwy410                                16 Jan 26 12:42 PMBrock-Hwy410      59.965  2.0508
+         30 Dec 2 5:43 AMHwy410-Bayview    32.947  1.0832   35.69        20 Jan 26  7:46 AMHwy410-Hwy404            33242  119.7
+                  1:38 PMHwy404-Hwy410            1.7270   62.21        20 Jan 26  3:25 PMBayview-Hurontar    35094  2.2077   77.4
+                                         36.020  2.3745   85.53
+         31 Dec 25 7:25 AMHwy410-Hwy404                                21 Jan 26  8:16 AMHwy410-Markham    45.375  3.2301  146.5
+         05 Jan 26  4:41 PMBathurst-Hurontar    30.992  3.1185   96.65        21 Jan 26  5:50 PMHwy404-Hwy410     36.020  3.1807  114.5
+         05 Jan 26  7:17 AMHwy410-Hwy404            3.3242  119.74        22 Jan 26  4:06 PMHwy400-Hwy410     19.749  3.1125   61.4
+                                         59.965  2.008  122.98
+         06 Jan 26 12:07 PMBrock-Hwy410                                  27 Jan 26  6:17 PMHwy400-Hwy410     19.749  2.2051   43.5
+         06 Jan 26  6:22 AMHwy410-Brock      59965  23473  140.76        28 Jan 26  3:44 PMNinth-Hurontar      49.596  2.8730  142.49
+         07 Jan 26  1:42 PMBathurst-Hwy27      16.018          35.70        28 Jan 26  7:28 AMHwy410-DCousens           3.2024  157.35
+                                         10.604  2.1642   22.95
+         07 Jan 26  3:02 PMHwy27-Dixie                                   Total for all trips           1,141.7km      $2,803.69
+         07 Jan 26  7:43 AMHwy410-Dufferin     26.651  3.3034   88.04
+         08 Jan 26  6:34 AMHwy410-Hwy404    36.020  2.451   88.2        TRANSPONDER NUMBER E87938B2
+                                         36.020
+         08 Jan 26  1:31 PMHwy404-Hwy410            2.1957               Heavy single unit vehicle
+         09 Jan 26  8:33 AMQEW-Hwy403      2.133  1.8788   47.22        21 Jan 26 11:33 AM Bronte-Hwy403      11.071  1.2040   13.33
+         09 Jan 26  6:14 AMHwy403-QEW      2.133  2.0666   51.94       27 Jan 26  6:03 PM Hwy410-Markham    45.375           7176
+                                                                                                             1.5814
+         09 Jan 26 9:48 AM
+                         Hwy410-Ninth      47,449  2.33644  112.19       28 Jan 26  7:54 AM Brock-Hwy410       59.965  1.9769  118.55
+         09 Jan 26 12:04 PMMcCowan-Hwy410   43.272  2.1117   91.38       Heavy multiple unit vehicle
+         13 Jan 26  3:08 PMMarkham-Hwy410    45375  2.1284   96.58       30 Dec 25 10:37 AM Bathurst-Hwy410     28.845  1.7233   49.71
+         13 Jan 26  8:19 AM
+                         McCowan-Bayview   10.325                      30 Dec 25 6:43 AM QEW-Hwy403       25.133  1.7037    42.82
+                                                                                                              Page 4 of 9
+==================================<Page 7 - END>================================
+==================================<Page 8 - START>================================
+                                                                                  Bill date: Feb 1, 2026
+      407
+                                                                                  Billing period: Jan 1 to Jan 31, 2026
+                  Express Toll Route
+       FAST. SAFE. RELIABLE.                                                         THE PEPSI BOTTLING GROUP (CANADA) ULC
+                                                                                  Account number: 829 777 616
+       Your trip details (continued)                         Your trip details(continued)
+                                                                          TRIPS RECORDED BY TRANSPONDER (CONTINUED)
+             TRIPS RECORDED BY TRANSPONDER (CONTINUED)
+                                                                                                     DISTANCE  COST PER    TOLL
+                                                          TOLL        DATE      TIME YOUENTRY                          CHARGES ($)
+        DATE      TIME YOUENTRY            DISTANCE  COST PER               OF TRIP     ENTEREDAND EXIT             (KM)   KM ($)
+        OF TRIP     ENTEREDAND EXIT             (KM)   KM ($)CHARGES ($)
+                                                                                                     36.020  3.3242  119.74
+                                                        68.19        07 Jan 26  7:55 AMHwy410-Hwy404
+                 8:02 AMHwy410-Bathurst    28.45  2.3640                                                                88.29
+                                                                     08 Jan 26  6:50 AMHwy410-Hwy404    36.020  2.4511
+        30 Dec 25        Hwy403-QEW              1.0830   272
+                 4:45 AM                                                                              36.020  2.1960   7.10
+                                                1.0830   27.22        08 Jan 6  6:03 PMHwy404-Hwy410
+        31 Dec 25 5:24 AMHwy403-QEW                                                                           2.8679
+                                                        4715       08 Jan 26  9:15 AMHwy404-Markham    9.355
+        31 Dec 25 10:08 AMQEW-Hwy403              1.8760
+                                                                     08 Jan 26  3:39 PMWarden-McCowan    4.145  3.0808   12.77
+                                         15.224  1.9718   30.02
+        06 Jan 26  9:59 AMHwy403-Appleby                                                Markham-Woodbine   8.326  1.739   14.47
+                                         15.224  1.7820               08 Jn 26 11:09 AM
+        06 Jan 26 10:30 AMAppleby-Hwy403
+                                                                     12 Jan 26  4:35 PMHwy410-Airport      6.882           22.01
+        07 Jan 26 11:48 AMHwy410-Airport      6.882  2.4396   16.79
+                                                                                    Hwy410-Hwy27      12.827  2.4440   31.5
+                        Airport-Hwy410      6.882  2.141   14.77        13 Jan 26 10:50 AM
+        07 Jan 26 12:33 PM
+                                         25.133  1.8760   47.15        13 Jan 26 11:45 AMHwy27-Hwy410      12.827  2.1610   27.72
+        07 Jan 26 10:21 AMQEW-Hwy403
+                                                                     13 Jan 26  9:29 AMHwy404-Hwy410     36.020          114.57
+        08 Jan 6         Markham-McCowan   2.103  1.9210    4.04
+                                                                                                             3.2301  146.57
+                        Warden-Hwy410            300763  120.37        14 Jan 26  7:39 AMHwy410-Markham    45.375
+        08 Jan 26  7:52 AM
+                                         39.17  2.1558   84.35        16 Jan 26  7:43 AMHwy403-QEW       25.133  2.2050   55.42
+        09 Jan 26 12:25 PMWarden-Hwy410
+        09 Jan 26 11:24 AMBrock-Warden      20838  1.8533                20 Jan 26  4:07 PMHwy404-Hwy410            3.1807  11457
+                 10:38 AMHwy410-Markham   45375  2381  107.00        20 Jan 26 12:40 PMBayview-Dufferin      6.296  2.1839   13.75
+         11 Jan 26
+                                         45375                                       Hwy410-Keele      23.130  3.2909   76.12
+         11 Jan 26 12:12 PMMarkham-Hwy410           2.2975  104.25        20 Jan 26  7:39 AM
+         12 Jan 26  9:26 AMHwy404-Hwy410    36.020  3.1807  114.57        26 Jan 26 10:41 AMHwy404-Warden      3.107  2.0341    6.32
+         13 Jan 26  7:52 AMBrock-Hwy410                     177.82        26 Jan 26  7:37 AMHwy410-Hwy404     36.020          119.74
+                                                                                                      36.020  3.107  11457
+         13 Jan 26 11:50 AMAppleby-Hwy403    15.224  1.7820   27.13        27 Jan 26  4:03 PMHwy404-Hwy410
+         13 Jan 26  4:47 AMHwy410-Brock      59.965  1.5167   90.5        28 Jan 26 10:57 AMDundas-Hwy403     19.071  1.7697
+                        Hwy403-Dundas     19.071  1.9684   37.54
+         13 Jan 26  9:38 AM                                             Total for all trips              581.1km      $1,507.55
+         14 Jan 26  6:15 AMBrock-Hwy410      59.965  20590  123.47
+                 11:46 AMYonge-Hwy410                     68.16        TRANSPONDER NUMBER E87AFB51
+         15 Jan 26
+                                        19.749                       Heavy single unit vehicle
+         15 Jan 26 9:08 AMHwy410-Hwy400            3.271   64.68
+                                                                                                      59.965  1.2949   77.65
+         16 Jan 26 11:14 AMBrock-Hwy410                     122.98        23 Dec 25 6:42 AM Hwy410-Brock
+         17 Jan 26  9:18 AMHwy410-Jane       20931  2.1570               15 Jan 26  7:04 AM Hwy410-YorkDur     52.111  2.1222  110.59
+                                         59.965  2.1003                16 Jan 26  5:16 P Woodbine-Kennedy    4.008  2.0533    8.23
+         20 Jan 6  9:59 AMBrock-Hwy410                     125.95
+                                                                                                      39.127  1.4465   56.60
+         21 Jan 26 10:08 AMNeyag-QEW        18.989  2.0880   39.65        16 Jan 26  6:14 PM Warden-Hwy410
+         21 Jan 26 10:31 AMQEW-Dundas        6.062  1.6941   10.27        Heavy multiple unit vehicle
+                 6:35 AMBrock-Hwy410      59.965  2.0590  123.47        29 Dec 25  3:58 AMHwy410-Woodbine    37.049  1.0834   40.14
+         21 Jan 26
+         22 Jan 26  4:57 AMHwy410-Markham           1.5166   6.82        29 Dec 25  4:42 AMWoodbine-Markham    8.326  1.0833    9.02
+         22 Jan 26  5:51 AMMarkham-Brock     14.590  2.2700   33.12        29 Dec 25  5:28 AMMarkham-Hwy410    45.375  1.0831   49.15
+                 8:51 AM                4.375  29615                29 Dec 25  3:39 PMMarkham-Hwy410    45.75           99.87
+         22 Jan 26        Markham-Hwy410                  134.38                                                2.209
+         22 Jan 26 11:12 AMHwy401-QEW      3.012  2.0007   70.05        30 Dec 25  9:48 AMHwy410-Ninth       47.449  1.9848   94.18
+         22 Jan 26  2:12 PMNeyag-Hwy401      16.023  1.8417   9.51        30 Dec 25 10:36 AMNinth-Hwy427      35.946  1.7270   62.08
+         26 Jan 26  3:29 PMBrock-Hwy410             2.0722               30 Dec 25  7:25 PM
+                                                       124.26                        Weston-Hwy427             1.0827    8.18
+         27 Jan 26 9:14 AMBrock-Hwy410             29653  177.2        30 Dec 25  9:05 PMHwy427-Hwy410     11.503  1.0831   12.46
+         27 Jan 26  5:05 PMHwy27-Hwy410     12.827  30311   38.8        31 Dec 25 12:11 PMWhites-Hwy410             1.7154   95.8
+         27 Jan 26         Markham-Hwy410           21284   968        05 Jan 26  8:00 AMBrock-Hwy410
+                                                                                                     59.965  2.9653   177.82
+         28 Jan 26  5:20 PMHwy410-Markham    45.75  3.3981               06 Ja 26  6:45 AM
+                                                       154.19                       Hwy427-Weston             2.4831   18.76
+         Total for all trips           1,442.6km     $3,159.84        06 Jan 26  8:18 AMWeston-Hwy410     19.058  3.1068
+                                                                                                                      59.21
+                                                                    07 Jan 26  6:13 PMWeston-Hurontar
+                                                                                                     21.205  2.2192   47.06
+         TRANSPONDER NUMBER E879B236                               07 Jan 26  7:53 AM
+                                                                                    Hwy410-Hwy400     19.749  3.2751   64.68
+         Heavy single unit vehicle
+                                                                    08 Jan 26  2:47 PMWeston-Hwy410     19.058  2.202
+         12 Jan 26                                                                                                     41.97
+                  5:44 PM Aiport-PineVal      10.006  2.2676   22.69        09 Jan 26  6:42 AMHwy410-Hwy404
+                                                                                                     36.02  2.44511   88.29
+         12 Jan 26  7:22 PM PineVal-Bathurst     11.957  1.6258   19.44        09 Jan 26
+                                                                             2:56 PMHwy404-Hwy410    36.020
+         17 Jan 26  2:42 PMHwy404-Hwy410    36.020  1.6668   604                                                         79.10
+                                                                    13 Jan 26  6:04 AMHwy427-Weston
+         Heavy multiple unit vehicle                                                                          7.555  2.4831   18.76
+                                                                    13 Jan 26  7:21 AM
+         29 Dec 25 1:21 PM                                                            Weston-Dixie       16.835  3.1202
+                        Hwy410-Weston     19.058  1.7546   33.44        15 Jan 26                                          52.53
+         29 Dec 25                                                            11:42 AMMcCowan-Hwy410   43.22
+                  2:21 PMJane-Yonge        10.086  1.7737   17.89                                                2.1117   91.38
+                                                                    16 Jan 26  7:16 AMHwy410-Hwy404
+         31 Dec 25 12:59 PMDufferin-Hwy410     26.651                                                       3620  3.3242   119.74
+                                                1.7215   45.88        19 Jan 26  6:21 AM
+         06 Jan 26  2:48 PMWeston-Hwy410                                                Hwy410-Brock      59.965          140.76
+                                        19.058  2.2022   41.97        19 Jan 26 12:58 PM
+         06 Jan 26  6:19 AM                                                            Brock-Hwy410
+                        Hwy410-Hwy400    19.749  2.4578   484        20 Jan 26                         55.965  2005008   122.98
+                                                                             4:15 PMBrock-Hwy410
+                                                                                                    59.965          163.56
+==================================<Page 8 - END>================================
+==================================<Page 9 - START>================================
+          Your trip details (continued)                         Your trip details (continued)
+               TRIPS RECORDED BY TRANSPONDER (CONTINUED)               TRIPS RECORDED BY TRANSPONDER (CONTINUED)
+          DATE      TIME YOUENTRY            DISTANCE  COST PER    TOLL       DATE      TIME YOUENTRY            DISTANCE  COST PER     TOLL
+          OF TRIP                             (KM)   KM ($)CHARGES ($)        OF TRIP     ENTEREDAND EXIT             (KM)   KM ($)CHARGES ($)
+                   ENTEREDAND EXIT
+          21 Jan 26  4:50 PMHwy404-Hwy410    36.020          114.57        22 Jan 26  7:47 AMHwy410-Hwy404     36.00  1.1079
+         22 Ja 26        Hwy410-Brock      59.965  2.3473  140.76       26 Jan 26  8:45 AMHwy410-Hwy404     36.020  1.1079   39.91
+                  6:05 AM
+                                                                                                             1.1079   39.91
+         23 Jan 26  1:47 PMBrock-Hwy410                     122.98        27 Jan 26  8:11 AMHwy410-Hwy404     36020
+         23 Jan 26  7:37 AMHwy410-Brock      59965          188.41        28 Jan 26  8:50 AM Hwy410-Hwy404     36.020  1.1079   39.91
+                                                2.33473  140.76
+         26 Jan 26  6:31 PMHwy410-Brock      59965                      Total for all trips             679.9km       $711.44
+         27 Jan 26  4:41 AMHwy410-Hwy427     11.503  1.5169   17,45
+         27 Jan 26  5:18 AMHwy427-Weston      7.555  2.4831   18.76        TRANSPONDER NUMBER E87C5D50
+                                                         17.28
+         27 Jan 26  5:46 AMWeston-Hwy427      7.555  22872               Heavy multiple unit vehicle
+                                                                                                      4.083            8.36
+         27 Jan 26  7:30 AMHwy427-Hwy410    11.503          34.55        30 Dec 25 8:46 AMWhites-Brock
+                                         2.130  2.2019   50.93        30 Dec 25  6:25 AMHwy410-YorkDur     52.111  1.9636  102.33
+         28 Jan 26 10:35 AM Keele-Hwy410
+                                                                     30 Dec 25  1:59 PMYorkDur-Hwy410     52.111  1.7169   89.47
+         28 Jan 26  1:40 PMHwy410-Bathurst    28.845  2.4468   70.58
+                                                                                                     47.449  2.2961  108.95
+         28 Jan 26  5:08 PMDufferin-Hwy410     26.651          83.9        31 Dec 25  8:17 AMHwy410-Ninth
+                                                                     1 Dec 25 10:50 AMMarkham-Brock      14.590  1.6682   24.34
+         Total for all trips           1,344.5km     $3,011.63
+                                                                     05 Jan 26  7:13 AMHwy410-Hwy404     36.020  3.3242  119.74
+         TRANSPONDER NUMBER E87AFB53                               05 Jan 26  7:03 PMHwy400-Hwy410     19.749  2.2051   43.55
+                                                                     06 Jan 26  5:53 AMHwy410-Markham    45375  2.372  107.64
+         Heavy single unit vehicle
+                                                                     06 Jan 26  7:14 AMMarkham-Hwy410           2.9615  134.38
+         08 Jan 26  4:57 PM Brock-Hwy410      59.965  1.8183  109.04
+         Heavy multiple unit vehicle                                         06 Jan 26  8:23 AMHwy410-Hwy427     11.503  3.1974
+         23 Dec 25 7:13 AM Hwy410-DCousens   49.35  2.2875  112.40        07 Jan 26  9:23 AMHwy403-Neyag       6.144  2.0247   12.44
+                                                                                                      25.133  2.0666   51.9
+         29 Dec 25 5:54 AMHwy410-Brock      59.965  1.0832   64.96       08 Jan 26  5:41 AMHwy403-QEW
+         29 Dec 25 10:23 AMHwy403-Dundas     19.071  1.8216               08 Jan 26 10:53 AMQEW-Hwy401       3.012  1.7711   62.0
+                                         20.838  200755   43.25       09 Jan 26  6:09 PMQEW-Hwy401       35.012  1.8762
+         29 Dec 25 7:37 AMBrock-Warden
+         29 Dec 25 8:23 AMWarden-Hwy410     39.127  2.2401   87.65        12 Jan 26  7:34 AMHwy410-YorkDur            3.1833  165.8
+         30 Dec 25  3:34 PMHwy404-Hwy410    36.020  2.2726   81.86        13 Jan 26  1:57 PMBrock-Hwy410      59.965  2.0508  122.9
+                                                3.0049    6.68       14 Jan 26  3:55 PMWhites-Hwy410             2.7717  154.8
+         07 Jan 26  5:48 PMDixie-Hwy410       2.23
+         08 Jan 26  7:58 AMHwy410-Brock                     188.41        15 Jan 26  7:57 AHwy403-QEW       2.133  2.200
+                                          2.074  1.5188    3.15        16 Jan 26  8:13 AMHwy410-Hwy404     36.020          119.7
+         10 Jan 26  9:17 AMNinth-Markham
+                                                                                                      36020  2.1960   79.1
+         10 Jan 26 10:32 AMHwy404-Hwy410            2.500   90.05        16 Jan 26  7:14 PMHwy404-Hwy410
+         10 Jan 26  6:06 AMHwy410-Hwy404    36020  1.5169   54.64        21 Jan 26  3:18 PMHwy404-Hwy410     36.020  2.1960   79.1
+                                          583  1.5162    8.89       21 Jan 26  6:28 AMHwy410-McCowan    43.272          103.0
+         10 Jan 26  8:27 AMMcCowan-DCousens
+         13 Jan 26  5:40 AMHwy410-Hwy404    36020  24511   88.29        22 Jan 26 11:29 AMHwy400-Hwy410     19.749  2.2046   43.5
+         13 Jan 26                         36.020  2.1957   7.09        24 Jan 26 12:49 PMPineVal-Keele        6.242  2.6177   16.3
+                  1:16 PMHwy404-Hwy410
+                                                                              1:25 PMDundas-Hwy403     19.071  1.7697
+         16 Jan 26  6:18 PMBrock-Hwy410      59.965  2.0722  124.26        27 Jan 26
+         16 Jan 26  7:22 AMHwy410-Brock      55.965          188.41        28 Jan 26  8:15 AMHwy410-Markham                   146.5
+                  5:27 PM                 55.965  2.7275  163.56        28 Jan 26  4:23 PMMarkham-Hwy410    45.375          132.5
+         23 Jan 26         Brock-Hwy410
+         24 Jan 26 12:46 PMNinth-Hwy410      47,449  2.2634  107.40        Total for all trips             909.9km      $2,220.5e
+         27 Jan 26  6:02 AMHwy410-McCowan   43.272          103.03
+                                                2.171               TRANSPONDER NUMBER E87C5D52
+         27 Jan 26  3:22 PMBayview-Hwy410     32.947          72.39
+         28 Jan 26  6:54 AMHwy410-Hwy404    36.20  2.4511   88.29       Heavy single unit vehicle
+                                         3.049  3.144  116.50        09 Jan 26  3:06 PM Brock-Hwy410       59.965  1.3814   82.8
+         28 Jan 26  4:18 PMWoodbine-Hwy410
+                                                                     20 Jan 26 10:03 PMAirport-Bayview      2.065  1.0113   26.33
+                                      874.9km      $2,016.94
+         Total for all trips
+                                                                     20 Jan 26  9:46 PMHurontar-Airport      9.029  1.0111    9.1
+                                                                     Heavy multiple unit vehicle
+         TRANSPONDER NUMBER E87BC23B
+                                                                                                             1.0832   64.9
+         30 Dec 25 8:39 AMHwy410-Hwy404     36.020  0.79115   28.51        23 Dec 25  5:56 AMHwy410-Brock       59.965
+                                         3.020  0.7915               29 Dec 25  3:47 AMHwy410-Hwy404     36.020  1.0832   3.0
+         31 Dec 25 9:21 AMHwy410-Hwy404
+                                                                     29 Dec 25  1:18 PMBathurst-Hwy410     2.845  1.7233   49.7
+         05 Jan 26  8:10 AMHwy410-Hwy404     36.020  1.1079   39.91
+         06 Jan 26  8:22 AMHwy410-Hwy404    36.020  1.1079   39.91        05 Jan 26  2:14 PMBrock-Hwy410      59.965          122.98
+                                         36.020  1.1079   39.91        05 Jan 26  6:35 AMHwy410-YorkDur     52.111  2.3490  122.4
+         07 Jan 26  8:26 AMHwy410-Hwy404
+                                                                     06 Jan 26                                          43.55
+         08 Jan 26  7:58 AMHwy410-Hwy404    36.020  1.1079   39.91                 2:49 PMHwy400-Hwy410     19.749  2.2051
+         12 Jan 26  7:44 AMHwy410-Hwy404            1.1079   39.91        06 Jan 26  6:55 AMHwy410-Hwy400     19.749  2.4578   48.54
+         13 Jan 26                                                     07 Jan 26  3:31 PMWoodbine-Hwy410    37.049  3.1444  116.50
+                  1:43 AMHwy400-Hwy410     19.749  0.5058    9.99
+         13 Jan 26  7:35 AMHwy410-Hwy404    36.020  1.1079   3.91        07 Jan 26         Hwy410-Hwy404     36.020  3.3242   119.74
+         14 Jan 26  8:28 AM                        1.0472   62.80        07 Jan 26 12:37 AMHwy400-Airport      12.867  1.5170    19.52
+                         Hwy410-Brock      59.965
+                                                                     08 Jan 26                                          48.54
+         15 Jan 26  9:00 AMHwy410-Hwy404    36.020  1.1079   3.91                5:39 AMHwy410-Hwy400     19.749  24578
+         19 Jan 26  7:39 AMHwy410-Hwy404    36.020  1.1079   39.91        08 Jan 26 12:13 PMHwy400-Hwy410     19.749  2.2046   43.54
+         20 Jan 26  7:52 AM                                            12 Jan 26  6:30 AMHwy410-Hwy404     36.020  2.4511   88.29
+                        Hwy410-Hwy404    36020  1.1079   39.91
+          21 Jan 26                                                    12 Jan 26                                 2.1960   79.10
+                  8:00 AMHwy410-Brock      59.965  1.0472   62.80                 3:00 PMHwy404-Hwy410     3.020
+                                                                                                              Page 6 of 9
+==================================<Page 9 - END>================================
+==================================<Page 10 - START>================================
+                                                                                   Bill date: Feb 1, 2026
+        407
+                    Express Toll Route                                                         Billing period: Jan 1 to Jan 31, 2026
+         FAST. SAFE. RELIABLE.                                                        THE PEPSI BOTTLING GROUP (CANADA) ULC
+                                                                                   Account number: 829 777 616
+         Your trip details (continued)                         Your trip details(continued)
+               TRIPS RECORDED BY TRANSPONDER (CONTINUED)               TRIPS RECORDED BY TRANSPONDER (CONTINUED)
+         DATE                            DISTANCE            TOLL        DATE      TIME YOUENTRY            DISTANCE  COST PER    TOLL
+                  TIME YOUENTRY                    COST PER
+         OF TRIP     ENTEREDAND EXIT                    KM ($)CHARGES ($)        OF TRIP     ENTEREDAND EXIT             (KM)   KM ($)CHARGES ($)
+                                          9.817          14.89        16 Jan 26  8:45 AMYonge-Hwy410      31.017  3.1672   98.24
+         12 Jan 26  9:31 PMBayview-Keele              1.5167
+         13 Jan 26  3:10 PMHwy410-Hwy27      12.827  2.4440   31.5        17 Jan 26 12:25 PMHwy400-Hwy410     19.749  25469   50.30
+         13 Jan 26         Hwy27-Hwy410      12.827          388        17 Jan 26  7:25 AMJane-DCousens      28204  1.5168   42.78
+                  4:39 PM
+                                                                     19 Jan 26  6:19 AMHwy410-Brock              23473  140.76
+         14 Jan 26  6:53 AMHwy410-Brock      5.965          140.76
+         14 Jan 26  1:11 PMBrock-Hwy410                     122.98        19 Jan 26  1:35 PMKennedy-Hwy410    41.057  2.1341   87.62
+         16 Jan 26                         55.965  2.0590  123.47        19 Jan 26 12:15 PMHwy410-Kennedy    41.057  2.3995   98.52
+                  6:52 ABrock-Hwy410
+         19 Jan 26  6:30 AMHwy410-Hwy404    36020  2.44511   88.29        20 Jan 26  8:43 AMDundas-Hwy403     19.071  1.8761   35.78
+         19 Jan 26  4:11 PMHwy400-Hwy410     19.749  3.1125   61.47        20 Jan 26 10:07 AMHwy410-Warden     39.127  2.4177   94.60
+         20 Ja 26                                                             11:01 AMWarden-Hwy410     3127
+                  6:34 AMHwy410-Brock      59.965  2.3473  140.76                                                         84.35
+         20 Jan 26  1:37 PMBrock-Hwy410             2.0508  122.98        21 Jan 26 11:44 PMKeele-Hwy410      2.130  1.5166
+         21 Jan 26  3:29 PMBrock-Hwy410      55.965          124.26        21 Jan 26  5:23 PMHwy410-Hwy404     36.020  3.4553
+                                                                                                                      124.46
+         22 Jan 26 12:17 PMHwy410-Airport      6.882  2.4396   16.79        21 Jan 26 12:02 PMMarkham-Hwy410    45.375  2.1004   95.31
+         22 Jan 6  1:08 PMAirport-Hwy410      6.882  21461   14.77                 7:37 AMHwy410-Bayview                    109.34
+         22 Jan 26 10:45 AM                 19.058  2.2017
+                         Weston-Hwy410                     41.96        22 Ja 26  4:26 PMWoodbine-Hwy410   3.049  3.144  116.50
+         22 Jan 26 9:34 AMHwy427-Weston            24831   18.76        23 Jan 26  6:55 AMBrock-Hwy410      59.965  2.0590  123.47
+         23 Jan 26  8:02 AMBrock-Hwy410      59.965  2.9653  177.82        28 Jan 26  6:38 AM
+                                                                                     Hwy410-Brock                      140.76
+         24 Jan 26  7:33 AMDufferin-Jane        5.720  1.5174    8.68        28 Jan 26  4:20 PMBathurst-Hwy410     28.845  3.1603   9116
+         24 Jan 26  9:22 AMDufferin-Kennedy     14.406  1.9922   28.70        28 Jan 26 11:16 AMBrock-Hwy410      59.965  2.0508  1228
+         24 Jan 26        Hwy404-Hwy410                    90.05        8 Ja  26  1:10 PM
+                 12:23 PM                                                             Hwy410-Hwy400     19.749  2.4573   48.3
+         27 Jan 26 12:40 PMHwy400-Hwy410     19.749  2.2046   43.54        Total for all trips                            $3,109.80
+                                                                                                 1,397.7km
+         27 Jan 26 11:49 AMHwy27-Hwy400      6.922  2.4819   17.18
+         28 Jan 26 10:29 AMHwy410-Brock      59965  2.3480  140.80        TRANSPONDER NUMBER E87EA182
+                                    1,263.0km     $2,733.87        Heavy single unit vehicle
+         Total for all trips
+                                                                     20 Jan 26  6:57 AM Hwy410-Kennedy    41057  1.5999   65.69
+         TRANSPONDER NUMBER E87CB968                                20 Jan 26  6:31 PM Hwy404-Hwy410     36020  1.4639   52.73
+         Heavy single unit vehicle                                                    7:20 PM Hwy410-Hwy404     36020  1.6340   58.86
+         31 Dec 25  3:09 PMHwy403-Appleby     15.224  1.3222   20.13        23 an 26  4:09 PM Weston-Mavis
+                                                                                                      2.515  2.0021   47.08
+         31 Dec 25  4:59 PMAppleby-Hwy403     15.224  1.2506   19.04        24 Jan 26  5:48 PMHwy410-Hwy404     36.020  1.6926   60.97
+         03 Jan 26  2:30 PMHwy404-Hwy410     36020  1.6668               26 Jan   3:44 PMHwy410-Hwy404     36.020  2.33037   82.98
+         05 Jan 26  8:41 AMBrock-Hwy410              1.9769  118.55        27 Jan 26
+                                                                              6:49 AMHwy410-Hwy404     36020  1.6340   58.86
+         09 Jan 26  7:31 AMHwy410-Hwy400     19.749  2.1834   43.12        Heavy multiple unit vehicle
+         10 Jan 26  2:14 PMAppleby-Hwy403     15.224  1.0115   15.40        23 Dec 25 4:40 AMHwy403-QEW
+                                                                                                      25133  1.0830   27.22
+         12 Jan 26 7:23 AM                 19.749  2.1834
+                        Hwy410-Hwy400                    43.12                 6:06 PMHwy410-Jane       20.31  2.1546   45.10
+         13 Jan 26 12:39 PMHwy400-Hwy410     19.749  1.4699   29.03        29 Dec 25  6:50 PMWeston-Hwy427      7.555  2.1853   16.51
+         14 Jan 26 11:00 AMHwy404-Hwy410     36020  1.4639   52.73        30 Dec 25 1:19 AM
+                                                                                     Hwy410-Hwy401     12.987  1.0833   14.07
+         20 Jan 26  9:59 PMMiss-Hurontar              1.0109    5.61
+                                                                     30 Dec 25 11:51 PMBayview-Hwy410    32.947  1.0832   35.69
+         Heavy multiple unit vehicle                                         31 Dec 25 7:03 AMHwy410-Hwy400
+                                                                                                     19.749           46.20
+                 4:17 AMHwy410-Hwy400     19.749  1.0830   21.39        31 Dec 25 10:55 AMBathurst-Hwy410
+                                                                                                     28.845  1.7233   49.71
+         29 Dec 25 10:16 AMHwy410-Hwy400    19.749  2.0532   40.55
+                                                                    03 Jan 26  1:26 PMHwy27-Hwy410     12.827  2.5079   32.17
+         29 Dec 25 1:37 PM                 19.749  1.7145
+                        Hwy400-Hwy410                    33.86        03 Jan 26  7:55 AMGoreway-Dufferin
+         30 Dec 25                                                                                     18.383  1.5166   27.88
+                 4:33 AMHwy427-Hwy410     11.503  1.0831   12.46        04 Jan 26  7:19 AM
+                                                                                    Hwy403-Weston     41.924  1.5167   63.59
+         30 Dec 25 5:31 AMHwy410-Brock      59.9655  1.0832   64.96        04 Jan 26
+                                                                             9:06 AMHwy400-Hwy410    19.749
+         06 Jan 26 11:21AMDundas-Hwy403     19.071  1.7697   33.75                                                1.7843   35.24
+                                                                    04 Jan 26 10:18 AMHwy410-Yonge
+         07 Jan 26  3:47 PMWhites-Hwy410                                                                  3.017           78.36
+                                                2.7717  154.89        04 Jan 26 11:34 AM
+         08 Jan 26  6:10 AM                                                            Yonge-Bathurst      2.172  2.364
+                        Hwy410-Markham    44.375  2.3722  107.64                                                          5.14
+                                                                    04 Jan 26 11:39 AMBathurst-Markham
+         08 Jan 26 8:39 AMMarkham-Hwy410           2.961                                                16.530  2.00768   34.33
+                                                       134.38        04 Jan 26  1:30 PM
+         09 Jan 26  1:27 PMDufferin-Hwy410                                                Markham-Hwy410   45375  2.2975
+                                        26.651          58.62       05 Jan 26  4:31 PM                                  104.25
+         12 Jan 26  4:51 PM                                                            Hwy404-Hwy410
+                        Weston-Hwy410    19.058  3.1068                                                36020  3.1807   114.57
+         14 Jan 26  7:45 AM                                            05 Jan 26  6:43 PMHwy410-Brock
+                        Hwy410-Bathurst    28.8455                                                       59.965  23473
+         14 Jan 26 10:04 AM                                95.46       05 Jan 26  8:20 AM                                  140.76
+                        Bathurst-Hwy404           2.46555                               Hwy410-Hwy427     11.503
+                                                        17.69       05 Jan 26                                 3.1974   36.78
+         15 Jan 26 12:45 PMHwy404-Hwy410    36.020                              11:43 AMHwy410-Warden
+                                                        79.09       05 Jan 26                          39.127
+         16 Jan 26 5:34 AMHwy410-Hwy400                                        10:08 AMHwy427-Hwy410                      94.9
+                                        19.749  2.4578   48.54                                        11.503
+                                                                            6:02 AM                         2.1463   24.69
+                                                                                    Hwy403-Dundas
+                                                                                                    19.071  1.9689   37.55
+==================================<Page 10 - END>================================
+==================================<Page 11 - START>================================
+         Your trip details (continued)                        Accounts added or removed
+                                                                                                      BILLED PREVIOUSLY
+               TRIPS RECORDED BY TRANSPONDER (CONTINUED)               ACCOUNT     PLATES ON ACCOUNT
+                                                                                                   DATE         AMOUNT
+         DATE      TIME YOUENTRY            DISTANCE
+         OF TRIP     ENTERED                       COST PER    TOLL                                      01 Jan 26    $104.20
+                         AND EXIT             (KM)   KM ($)CHARGES ($)       Added  767697728   AY93356
+         07 Jan 26 10:25 AMQEW-Hwy403              1.8760   477.15       Added  200063035774 T6287D        01 Jan 26     $17.55
+         08 Jan 26  4:28 AMHwy410-Hwy404
+                                         36.020  1.5169   54.64
+         08 Jan 26                                                   Total from accounts added
+                 10:22 AMBathurst-Hwy410    28.845          63.42
+                                                                    or removed                              $121.75
+         08 Jan 26  1:02 PMMarkham-Hwy410    4.375  2.1004
+         08 Jan 26
+                 11:54 AMHwy410-Markham    45375  2.3720  107.63
+                                                                      OTHER INFORMATION
+         12 Jan 26 8:39 AMBrock-Dufferin      33.314  2.8165   93.83
+         12 Jan 26 10:37 AMWeston-Hwy410     19.058  2.017   41.96
+         13 Jan 26                                                           Extended live chat customer service hours to serve
+                  4:12 PMBrock-Hwy410      59.965         163.56
+                                                                           you better
+         14 Jan 26  7:44 AMHwy403-Bronte     11.071  1.9934   22.07
+                                                                           Our award-winning customer service team is available to serve you
+         14 Jan 26 10:32 AM
+                         Bronte-Hwy403      11.071  1.8056   19.99               by live chat Monday to Friday, 8:30 a.m. to 7:00 p.m. Visit
+         15 Jan 26 6:58 AMHwy410-Kennedy    41.057  2.3998   98.53               407etr.com/contactus to get in touch. To self-serve 24/7 using My
+         15 Jan 26 12:15 PMMarkham-Hwy410    45.375          95.31               Account, visit 407etr.com/myaccount to log in or sign up.
+         20 Jan 26 5:07 AM                        1.7518
+                         QEW-Hwy403                      44.03               You have Camera Charges this month
+         21 Jan 26  5:45 AMHwy410-Brock      59.965  2.3473  140.76               Your bill includes charges of $250.40 for trips recorded by camera.
+         21 Jan 26  3:20 PMYonge-Hwy410      31.017  2.1978   68.17               If you make more than six trips a year using a transponder, you save
+         21 Jan 26  9:33 AM                59.65  21003                      money. Visit 407etr.com for details.
+                         Brock-Hwy410                    125.95
+         21 Jan 26 11:59 AMHwy410-Keele      23.130          6.73               We weren't able to record the entry or exit for 2
+         22 Jan 26 10:13 AMHwy404-Hwy410           2.960   7.10
+                                                                           trips this month
+         22 Jan 26 11:17 PMHwy404-Bayview           1.5164    4.66               As a result, we've calculated the distance of these trips. We've also
+         23 Jan 26 12:22 AMBayiew-Keele       9.817  1.5167   14.89               flagged them with a message in Your trip details section of this
+         23 Jan 26  3:28 AM                12.796  1.5168                      invoice. For information about how we calculate trips, visit
+                         Trafalg-Hwy401                    19.41
+                                                                           407etr.com.
+         23 Jan 26  4:23 AMHwy401-Trafalg     12.796  1.5153   19.39
+         23 Jan 26  4:53 AMTrafalg-Hwy403      2.917  1.5152    4.42
+         Total for all trips           1,436.2km     $2,972.48
+               TRIPS RECORDED BY CAMERA
+          DATE      TIME YOUENTRY           DISTANCE  COST PER    TOLL
+                                           (KM)
+          OF TRIP           AND EXIT                  KM ($) CHARGES ($)
+          LICENCE PLATE AZ93061
+          Heavy multiple unit vehicle
+          12 Jan 26 6:34 AM Entry-Hwy410       59.965  1.0447   62.65
+           Entry or exit not recorded - flat toll charged.
+          Total for all trips              59.9km        $62.65
+          LICENCE PLATE BW38002
+          24 Dec 25 7:49 AM QEW-Hwy403       2.133  0.622   15.74
+          Total for all trips             25.1km        $15.74
+          LICENCE PLATE CC27091
+          Heavy multiple unit vehicle
+          12 Jan 26 6:29 AM Hwy410-Brock                    140.76
+          Total for all trips              59.9km       $140.76
+          LICENCE PLATE CE27017
+          Heavy multiple unit vehicle
+          05 Jan 26 11:48 AM Hwy401-Hwy410     12.987  2.0474   26.59
+         Total for all trips              12.9km        $26.59
+         LICENCE PLATE CE63538
+          Heavy single unit vehicle
+         23 Dec 25 6:31 AM Hwy410-Brock             1.2949   7.65
+         Total for all trips             59.9km
+                                                     $77.65
+          LICENCE PLATE Y3199V
+          23 Dec 25 8:15 AM Airport-Exit        14.578  0.6688    9.75
+           Entry or exit not recorded - flat toll charged.
+         Total for all trips             14.5km         $9.75
+                                                                                                              Page 8 of
+==================================<Page 11 - END>================================
+==================================<Page 12 - START>================================
+       HOW WE CALCULATE THE COST OF YOUR TRIP          disable all transponders you've leased from us; and bill fees such as TELL US ABOUT CHANGES
+                                                                                 To ensure billing accuracy and timely payments, please let us
+       All tolls, fees and other charges are disclosed at 407etr.com in the  a Returned Payment Fee, Collection Fee, and Enforcement Fee. If
+                                                                                 know within 6 days if you change your address, bank or credit
+       "Rate Chart" and "Complete Fee Details." Rates change from time  your bill remains unpaid, we may start collections activity and you
+                                            may ultimately be unable to renew or validate your vehicle licence card information, or if your licence plate changes. If you dan't,
+       to time,and we'll let you know when they do. When you drive on
+       Highway 407 ETR or Highway 407, you pay toll charges based on a and permits.                              you are responsible for all tolls, fees and other charges billed to
+       rate per kilometre. The rate depends on the type of vehicle you drive,INACTIVITY. INTEREST & CREDIT BALANCES          you.
+                                            If your account has no activity for 2 months straight, we'll stop   HOW WE'LL COMMUNICATE WITH YOU
+       the time of day, and the sections of the highway you use.You also
+       pay a trip toll charge each time you drive on Highway 407 ETR, but  sending you bills, but any amounts owing will continue to      Uniess we tell you otherwise, communication between us may be
+                                            accumulate interest until we receive payment. You may qualify for aby phone or in writing. Communications in writing may be sent by
+       Highway 407 ETR. If you haven't leased a 407 ETR transponder, yourdiscretionary suspension of interest. For details, see the payments mail, e-mail, or other comparable methods suitable for both of us.
+       trips are captured by camera. You then pay a monthly account fee  section at 407etr.com. Credit balances don't earn interest and if  If we mail you something, it is deemed received 5 days after it's
+        and a camera charge for each trip.                   such balances aren't used or refunded within 2 years they will be  mailed. Communication by e-mail or other comparable methods is
+        BILLING & PAYMENT                        removed as part of regular account maintenance, Removed credit  deemed received on the date sent.
+                                                                                 TOLL EVASION, ONTARIO LAW
+                                             balances can be restored upon request.
+       the ane who leased a transponder from us or the registered owner ofPRIVACY                               Evading, obstructing, or interfering with an electronic toll system
+       the applicable licence plate (even if they weren't driving at the time).We may collect, use, disclose and retain personal information for  is an offence under Section 191.3 of Ontario's Highway Traffic
+        Due to processing cut-off times, some charges may appear on future the purposes described in our Privacy Notice and in accordance withAct. A police officer may, without a warrant, stop, enter, and
+        bills. When we receive a payment from you, we decide how to    applicable privacy laws. To operate and managing the toll
+                                                                                 search your vehide if there's a reason to befieve you are doing so.
+        allocate it to the amounts you owe. Payment is due when you reœeivehighways, for example, we may contact you about your overdue   These terms and all biling and payment activities (by any means
+        your bill If we don't receive your payment within 37 days of the bill  balance, request a credit investigation or a consumer report about or methods) related to tolis, fees, and other charges, will be
+        date, we may charge interest (calculated daily and compounded
+                                             you, or exchange information about you with governmental     strictly governed by and interpreted under the laws of Ontario and
+        annually at a rate of 26.82% for Highway 407 ETR and calculated  agencies, credit reporting agencies, collection agencies, or other  the federal laws of Canada, and any dispute, proceeding or claim
+        daily and compounded monthly at an effective annual rate of 18%  relevant service providers in Canada or other jurisdictions. For    arising out of or in connection therewith will be subject to the
+        for Highway 407):
+                                             details, read our Privacy Notice at 407etr.com.            exclusive jurisdiction of Ontario courts.
+                                                                                  V5.2.052025
+                                                                                                            Page 9 of 9
+==================================<Page 12 - END>================================
+==================================<Page 13 - START>================================
+           From: SPA - PepsiCo Nass AP Invoice Submission <nassapInvoiceSubmission@pepsico.com>
+           Sent: Mon, 2 Feb 2026 15:35:07 (UTC)
+           To: svcimagingspaboxprod@pepsico.com
+           Subject: FW: Non-PO Payment Request Supplier#2004112584 (407 ETR)
+           Original Number of Attachments : 1
+           Original Attachment Names: SUPPLIER 2004112584 - 407 ETR ($38,163.41).pdf
+           Number of forwarded PDF's: 1
+           Number of forwarded Non PDF files: 0
+           From: Ponomarew, Marion {PEP} <Marion.Ponomarew@pepsico.com>
+            Sent: Monday, February 2, 2026 3:32:48 PM
+            To: SPA - PepsiCo Nass AP Invoice Submission <nassaplnvoiceSubmission@pepsico.com>
+            Cc: Ponomarew, Marion {PEP} <Marion.Ponomarew@pepsico.com>
+            Subject: Non-PO Payment Request Supplier#2004112584 (407 ETR)
+            Hello Team,
+            Hope all is well. Please process the attached invoice as per the attached non-PO payment
+            form. Supplier is set up 15-day payment terms. The SAP Payment Request Substitute Invoice
+            form clearly says, “address must match the address in the AP system”. The remittance
+             address on my attached form is the same as in the system.
+             NOTE: When remitting payment please ensure the account #829 777 616 - $38,163.41 is
+             visible, so they know which account to apply the payment to.
+             PLEASE ENSURE VIM NOTIFICATION IS SUBMITTED FOR APPROVAL.
+             If you are remitting more than one payment to 407 ETR, please ensure you show the account
+             number and payment information for each individual payment.
+             Thank you in advance.
+             Marion
+                                 Marion Ponomarew
+                                 Executive Administrative Assistant
+                                 PepsiCo Beverages Canada - Toronto Region
+              pepsico
+                                 5900 Falbourne Street,
+                                 Mississauga, ON L5R 3M2
+                                 Email: Marion.Ponomarew@pepsico.com
+==================================<Page 13 - END>================================

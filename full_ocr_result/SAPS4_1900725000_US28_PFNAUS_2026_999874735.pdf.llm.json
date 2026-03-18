@@ -1,0 +1,67 @@
+{
+  "invoice_data": {
+    "invoice_number": "2474242",
+    "invoice_date": "25.06.2024",
+    "invoice_amount": "56.58",
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": "4.31",
+    "po_number": [
+      "AV11461614"
+    ],
+    "gl_account_number": [
+      "2097250200"
+    ],
+    "freight_and_handling_charges": null,
+    "cost_center": [
+      "630000"
+    ],
+    "vendor_name": "SUPPLYFORCE COM LLC",
+    "vendor_address": "700 AMERICAN AVE SUITE 300, KING OF PRUSSIA PA 19406, USA",
+    "po_line_items": [
+      {
+        "description": "A-B; 872C-D5NP18-E2; 18 mm Barrel Ind SWITCH, PROXIMITY, CABLE STYLE 10/30VDC 200MA 5 MM",
+        "quantity": 1.0,
+        "net_price": 52.27
+      }
+    ],
+    "vat_amount": null,
+    "gl_account": null,
+    "bank_name": null,
+    "account_holder_name": null,
+    "banking_account_number": null,
+    "remit_to_address": null,
+    "bill_to_address": null,
+    "transaction_type": "debit"
+  },
+  "filename": "SAPS4_1900725000_US28_PFNAUS_2026_999874735.pdf",
+  "raw_response": {
+    "invoice_number": "2474242",
+    "invoice_date": "25.06.2024",
+    "invoice_amount": "56.58",
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": "4.31",
+    "po_number": [
+      "AV11461614"
+    ],
+    "gl_account_number": [
+      "2097250200"
+    ],
+    "freight_and_handling_charges": null,
+    "cost_center": [
+      "630000"
+    ],
+    "vendor_name": "SUPPLYFORCE COM LLC",
+    "vendor_address": "700 AMERICAN AVE SUITE 300, KING OF PRUSSIA PA 19406, USA",
+    "po_line_items": [
+      {
+        "description": "A-B; 872C-D5NP18-E2; 18 mm Barrel Ind SWITCH, PROXIMITY, CABLE STYLE 10/30VDC 200MA 5 MM",
+        "quantity": 1.0,
+        "net_price": 52.27
+      }
+    ]
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "invoice_data": {
+    "invoice_number": "2704283",
+    "invoice_date": "1/24/2026",
+    "invoice_amount": "15208.00",
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": null,
+    "po_number": [
+      "EQUIPMENTFEE 1",
+      "24220026324",
+      "M413483742"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "CAPSTONE LOGISTICS COMPANY",
+    "vendor_address": "30 Technology Pkwy South, Suite 200, Apple Valley, MN 55124, (770)414-1929 Ext. 6710",
+    "po_line_items": [
+      {
+        "description": "EQUIPMENTFEE 1",
+        "quantity": 1.0,
+        "net_price": 15208.0
+      }
+    ],
+    "vat_amount": null,
+    "gl_account": null,
+    "bank_name": null,
+    "account_holder_name": null,
+    "banking_account_number": null,
+    "remit_to_address": null,
+    "bill_to_address": null,
+    "transaction_type": "debit"
+  },
+  "filename": "SAPS4_5100021042_US29_PFNAUS_2026_999935051.pdf",
+  "raw_response": {
+    "invoice_number": "2704283",
+    "invoice_date": "1/24/2026",
+    "invoice_amount": "15208.00",
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": null,
+    "po_number": [
+      "EQUIPMENTFEE 1",
+      "24220026324",
+      "M413483742"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "CAPSTONE LOGISTICS COMPANY",
+    "vendor_address": "30 Technology Pkwy South, Suite 200, Apple Valley, MN 55124, (770)414-1929 Ext. 6710",
+    "po_line_items": [
+      {
+        "description": "EQUIPMENTFEE 1",
+        "quantity": 1.0,
+        "net_price": 15208.0
+      }
+    ]
+  }
+}

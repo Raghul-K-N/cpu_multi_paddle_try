@@ -1,0 +1,47 @@
+{
+  "invoice_data": {
+    "invoice_number": "6521610416",
+    "invoice_date": "04/13/2025",
+    "invoice_amount": null,
+    "invoice_currency": [
+      "CAD"
+    ],
+    "tax_amount": null,
+    "po_number": [
+      "M413228719"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "Ecolab",
+    "vendor_address": "Ecolab Co. Lockbox 917130 PO Box 4090 STN A TORONTO ON M5W 0E9",
+    "po_line_items": null,
+    "vat_amount": null,
+    "gl_account": null,
+    "bank_name": null,
+    "account_holder_name": null,
+    "banking_account_number": null,
+    "remit_to_address": null,
+    "bill_to_address": null,
+    "transaction_type": "debit"
+  },
+  "filename": "SAPS4_5100806501_CA02_PBNACA_2026_328615141.pdf",
+  "raw_response": {
+    "invoice_number": "6521610416",
+    "invoice_date": "04/13/2025",
+    "invoice_amount": null,
+    "invoice_currency": [
+      "CAD"
+    ],
+    "tax_amount": null,
+    "po_number": [
+      "M413228719"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "Ecolab",
+    "vendor_address": "Ecolab Co. Lockbox 917130 PO Box 4090 STN A TORONTO ON M5W 0E9",
+    "po_line_items": null
+  }
+}

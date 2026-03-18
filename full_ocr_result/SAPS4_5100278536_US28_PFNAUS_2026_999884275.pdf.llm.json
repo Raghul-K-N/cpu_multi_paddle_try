@@ -1,0 +1,69 @@
+{
+  "invoice_data": {
+    "invoice_number": "0090557-IN",
+    "invoice_date": "1/30/2026",
+    "invoice_amount": "2,018.00",
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": null,
+    "po_number": [
+      "90557-IN"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": "60.00",
+    "cost_center": null,
+    "vendor_name": "AMFAN Corporation",
+    "vendor_address": "P.O. BOX 560486 · DALLAS, TEXAS 75356-0486\n214-638-2451 · FAX 214-638-4818\nwww.amfan.com",
+    "po_line_items": [
+      {
+        "description": "AUGER, FCP UNCOATED (HIGH CAPACITY) BASE, FCP STATOR W/PORT",
+        "quantity": 2.0,
+        "net_price": 497.0
+      },
+      {
+        "description": "Bolt, Stator Thermal Probe, FCP Extruder",
+        "quantity": 5.0,
+        "net_price": 22.0
+      }
+    ],
+    "vat_amount": null,
+    "gl_account": null,
+    "bank_name": null,
+    "account_holder_name": null,
+    "banking_account_number": null,
+    "remit_to_address": null,
+    "bill_to_address": null,
+    "transaction_type": "debit"
+  },
+  "filename": "SAPS4_5100278536_US28_PFNAUS_2026_999884275.pdf",
+  "raw_response": {
+    "invoice_number": "0090557-IN",
+    "invoice_date": "1/30/2026",
+    "invoice_amount": "2,018.00",
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": null,
+    "po_number": [
+      "90557-IN"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": "60.00",
+    "cost_center": null,
+    "vendor_name": "AMFAN Corporation",
+    "vendor_address": "P.O. BOX 560486 · DALLAS, TEXAS 75356-0486\n214-638-2451 · FAX 214-638-4818\nwww.amfan.com",
+    "po_line_items": [
+      {
+        "description": "AUGER, FCP UNCOATED (HIGH CAPACITY) BASE, FCP STATOR W/PORT",
+        "quantity": 2.0,
+        "net_price": 497.0
+      },
+      {
+        "description": "Bolt, Stator Thermal Probe, FCP Extruder",
+        "quantity": 5.0,
+        "net_price": 22.0
+      }
+    ]
+  }
+}

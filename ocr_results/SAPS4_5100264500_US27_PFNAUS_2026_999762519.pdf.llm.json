@@ -1,0 +1,79 @@
+{
+  "invoice_data": {
+    "invoice_number": "B1-1623517",
+    "invoice_date": "01/31/2026",
+    "invoice_amount": null,
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": null,
+    "po_number": [
+      "4504150267"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "Upwork Global LLC",
+    "vendor_address": "530 Lytton Ave, Suite 301, Palo Álto, CA 94301",
+    "po_line_items": [
+      {
+        "description": "PFUS 3D Design for Multiple Projects",
+        "quantity": null,
+        "net_price": 6256.25
+      },
+      {
+        "description": "PFUS 3D Design for Multiple Projects",
+        "quantity": null,
+        "net_price": 4019.17
+      },
+      {
+        "description": "PFUS 3D Design for Multiple Projects",
+        "quantity": null,
+        "net_price": 3786.25
+      }
+    ],
+    "vat_amount": null,
+    "gl_account": null,
+    "bank_name": null,
+    "account_holder_name": null,
+    "banking_account_number": null,
+    "remit_to_address": null,
+    "bill_to_address": null,
+    "transaction_type": "debit"
+  },
+  "filename": "SAPS4_5100264500_US27_PFNAUS_2026_999762519.pdf",
+  "raw_response": {
+    "invoice_number": "B1-1623517",
+    "invoice_date": "01/31/2026",
+    "invoice_amount": null,
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": null,
+    "po_number": [
+      "4504150267"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "Upwork Global LLC",
+    "vendor_address": "530 Lytton Ave, Suite 301, Palo Álto, CA 94301",
+    "po_line_items": [
+      {
+        "description": "PFUS 3D Design for Multiple Projects",
+        "quantity": null,
+        "net_price": 6256.25
+      },
+      {
+        "description": "PFUS 3D Design for Multiple Projects",
+        "quantity": null,
+        "net_price": 4019.17
+      },
+      {
+        "description": "PFUS 3D Design for Multiple Projects",
+        "quantity": null,
+        "net_price": 3786.25
+      }
+    ]
+  }
+}

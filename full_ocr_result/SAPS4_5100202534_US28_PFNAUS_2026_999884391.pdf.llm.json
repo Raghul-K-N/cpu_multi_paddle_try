@@ -1,0 +1,59 @@
+{
+  "invoice_data": {
+    "invoice_number": "59700692",
+    "invoice_date": "2/11/26",
+    "invoice_amount": "45.31",
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": "2.71",
+    "po_number": [
+      "4505180921"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": "10.80",
+    "cost_center": null,
+    "vendor_name": "McMaster-Carr",
+    "vendor_address": "609-689-3000, 609-689-3280 (fax), nj.sales@mcmaster.com, PO Box 7690, Chicago IL 60680-7690",
+    "po_line_items": [
+      {
+        "description": "4246N11 Corrosion-Resistant Ball Stud for Gas Spring, 10 mm Ball Diameter, for 10 mm Socket ID, 0.92\" Overall Length",
+        "quantity": 12.0,
+        "net_price": 2.65
+      }
+    ],
+    "vat_amount": null,
+    "gl_account": null,
+    "bank_name": null,
+    "account_holder_name": null,
+    "banking_account_number": null,
+    "remit_to_address": null,
+    "bill_to_address": null,
+    "transaction_type": "debit"
+  },
+  "filename": "SAPS4_5100202534_US28_PFNAUS_2026_999884391.pdf",
+  "raw_response": {
+    "invoice_number": "59700692",
+    "invoice_date": "2/11/26",
+    "invoice_amount": "45.31",
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": "2.71",
+    "po_number": [
+      "4505180921"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": "10.80",
+    "cost_center": null,
+    "vendor_name": "McMaster-Carr",
+    "vendor_address": "609-689-3000, 609-689-3280 (fax), nj.sales@mcmaster.com, PO Box 7690, Chicago IL 60680-7690",
+    "po_line_items": [
+      {
+        "description": "4246N11 Corrosion-Resistant Ball Stud for Gas Spring, 10 mm Ball Diameter, for 10 mm Socket ID, 0.92\" Overall Length",
+        "quantity": 12.0,
+        "net_price": 2.65
+      }
+    ]
+  }
+}

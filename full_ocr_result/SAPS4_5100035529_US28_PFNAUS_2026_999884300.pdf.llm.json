@@ -1,0 +1,59 @@
+{
+  "invoice_data": {
+    "invoice_number": "1653",
+    "invoice_date": "02/03/2026",
+    "invoice_amount": "2917.34",
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": "222.34",
+    "po_number": [
+      "4505053553"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "FC360 Inc",
+    "vendor_address": "PO BOX 16369, FORT WORTH 76162",
+    "po_line_items": [
+      {
+        "description": "#BW-2481: Freeze Repair on Westside of Plant",
+        "quantity": 1.0,
+        "net_price": 222.34
+      }
+    ],
+    "vat_amount": null,
+    "gl_account": null,
+    "bank_name": null,
+    "account_holder_name": null,
+    "banking_account_number": null,
+    "remit_to_address": null,
+    "bill_to_address": null,
+    "transaction_type": "debit"
+  },
+  "filename": "SAPS4_5100035529_US28_PFNAUS_2026_999884300.pdf",
+  "raw_response": {
+    "invoice_number": "1653",
+    "invoice_date": "02/03/2026",
+    "invoice_amount": "2917.34",
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": "222.34",
+    "po_number": [
+      "4505053553"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "FC360 Inc",
+    "vendor_address": "PO BOX 16369, FORT WORTH 76162",
+    "po_line_items": [
+      {
+        "description": "#BW-2481: Freeze Repair on Westside of Plant",
+        "quantity": 1.0,
+        "net_price": 222.34
+      }
+    ]
+  }
+}

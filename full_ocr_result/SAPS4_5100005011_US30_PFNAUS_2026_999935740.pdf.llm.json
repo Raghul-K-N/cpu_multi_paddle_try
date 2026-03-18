@@ -1,0 +1,59 @@
+{
+  "invoice_data": {
+    "invoice_number": "560480P",
+    "invoice_date": "11/19/2025",
+    "invoice_amount": "-194.75",
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": "0.00",
+    "po_number": [
+      "23518652"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": "-194.75",
+    "cost_center": null,
+    "vendor_name": "Dario Diesel Service (5125D)",
+    "vendor_address": "182 Southwest Cutoff, Norcester, MA 01604",
+    "po_line_items": [
+      {
+        "description": "AIR DEFLECTOR",
+        "quantity": 1.0,
+        "net_price": 183.12
+      }
+    ],
+    "vat_amount": null,
+    "gl_account": null,
+    "bank_name": null,
+    "account_holder_name": null,
+    "banking_account_number": null,
+    "remit_to_address": null,
+    "bill_to_address": null,
+    "transaction_type": "credit"
+  },
+  "filename": "SAPS4_5100005011_US30_PFNAUS_2026_999935740.pdf",
+  "raw_response": {
+    "invoice_number": "560480P",
+    "invoice_date": "11/19/2025",
+    "invoice_amount": "-194.75",
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": "0.00",
+    "po_number": [
+      "23518652"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": "-194.75",
+    "cost_center": null,
+    "vendor_name": "Dario Diesel Service (5125D)",
+    "vendor_address": "182 Southwest Cutoff, Norcester, MA 01604",
+    "po_line_items": [
+      {
+        "description": "AIR DEFLECTOR",
+        "quantity": 1.0,
+        "net_price": 183.12
+      }
+    ]
+  }
+}

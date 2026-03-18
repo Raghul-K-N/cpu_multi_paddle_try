@@ -1,0 +1,95 @@
+{
+  "invoice_data": {
+    "invoice_number": "M413537006",
+    "invoice_date": "05-01-2026",
+    "invoice_amount": "1006.97",
+    "invoice_currency": [
+      "CAD"
+    ],
+    "tax_amount": "43.79",
+    "po_number": null,
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "ELEVEX INC.",
+    "vendor_address": "19151-A av. Cruickshank, Baie-d'Urfé, Québec H9X3N9",
+    "po_line_items": [
+      {
+        "description": "BON TRAVAIL - 156153",
+        "quantity": 2.25,
+        "net_price": 149.0
+      },
+      {
+        "description": "Frais de déplacement",
+        "quantity": 2.0,
+        "net_price": 80.0
+      },
+      {
+        "description": "Ensemble interrupteur",
+        "quantity": 1.0,
+        "net_price": 332.05
+      },
+      {
+        "description": "Fournitures",
+        "quantity": 1.0,
+        "net_price": 33.52
+      },
+      {
+        "description": "Surcharge de carburant",
+        "quantity": 1.0,
+        "net_price": 15.0
+      }
+    ],
+    "vat_amount": null,
+    "gl_account": null,
+    "bank_name": null,
+    "account_holder_name": null,
+    "banking_account_number": null,
+    "remit_to_address": null,
+    "bill_to_address": null,
+    "transaction_type": "debit"
+  },
+  "filename": "SAPS4_5101445000_CA02_PBNACA_2026_328615492.pdf",
+  "raw_response": {
+    "invoice_number": "M413537006",
+    "invoice_date": "05-01-2026",
+    "invoice_amount": "1006.97",
+    "invoice_currency": [
+      "CAD"
+    ],
+    "tax_amount": "43.79",
+    "po_number": null,
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "ELEVEX INC.",
+    "vendor_address": "19151-A av. Cruickshank, Baie-d'Urfé, Québec H9X3N9",
+    "po_line_items": [
+      {
+        "description": "BON TRAVAIL - 156153",
+        "quantity": 2.25,
+        "net_price": 149.0
+      },
+      {
+        "description": "Frais de déplacement",
+        "quantity": 2.0,
+        "net_price": 80.0
+      },
+      {
+        "description": "Ensemble interrupteur",
+        "quantity": 1.0,
+        "net_price": 332.05
+      },
+      {
+        "description": "Fournitures",
+        "quantity": 1.0,
+        "net_price": 33.52
+      },
+      {
+        "description": "Surcharge de carburant",
+        "quantity": 1.0,
+        "net_price": 15.0
+      }
+    ]
+  }
+}

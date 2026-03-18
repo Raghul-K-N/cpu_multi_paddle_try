@@ -1,0 +1,51 @@
+{
+  "invoice_data": {
+    "invoice_number": "2369499-1",
+    "invoice_date": "22.01.2026",
+    "invoice_amount": "1,700.00",
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": "0.00",
+    "po_number": null,
+    "gl_account_number": [
+      "614000"
+    ],
+    "freight_and_handling_charges": null,
+    "cost_center": [
+      "2173450600"
+    ],
+    "vendor_name": "CLEVELAND BAKERS 19 CHARITABLE EDUCATIONAL & RECREATION FUND",
+    "vendor_address": "9665 ROCKSIDE RD, VALLEY VIEW OH 44125-6277, USA",
+    "po_line_items": null,
+    "vat_amount": null,
+    "gl_account": null,
+    "bank_name": null,
+    "account_holder_name": null,
+    "banking_account_number": null,
+    "remit_to_address": null,
+    "bill_to_address": null,
+    "transaction_type": "debit"
+  },
+  "filename": "SAPS4_1900414510_US29_PFNAUS_2026_999749377.pdf",
+  "raw_response": {
+    "invoice_number": "2369499-1",
+    "invoice_date": "22.01.2026",
+    "invoice_amount": "1,700.00",
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": "0.00",
+    "po_number": null,
+    "gl_account_number": [
+      "614000"
+    ],
+    "freight_and_handling_charges": null,
+    "cost_center": [
+      "2173450600"
+    ],
+    "vendor_name": "CLEVELAND BAKERS 19 CHARITABLE EDUCATIONAL & RECREATION FUND",
+    "vendor_address": "9665 ROCKSIDE RD, VALLEY VIEW OH 44125-6277, USA",
+    "po_line_items": null
+  }
+}

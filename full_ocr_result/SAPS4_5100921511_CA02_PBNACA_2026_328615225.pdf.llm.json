@@ -1,0 +1,59 @@
+{
+  "invoice_data": {
+    "invoice_number": "I7390257",
+    "invoice_date": "2025-09-17",
+    "invoice_amount": "986.29",
+    "invoice_currency": [
+      "CAD"
+    ],
+    "tax_amount": "113.47",
+    "po_number": [
+      "4503498977"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": "4.95",
+    "cost_center": null,
+    "vendor_name": "LIGHTING FRANKLIN ELECTRICAL SUPPLIES CONTROLS & AUTOMATION CAPACITORS AND MOTORS HOME AND BUILDING AUTOMATION",
+    "vendor_address": "350 Carlingview Drive, Etobicoke, ON M9W 5G6, TEL: (416)248-0176, FAX: (416)248-2735",
+    "po_line_items": [
+      {
+        "description": "EJ664SS - HAMMOND EN N4X Eclipse Junior encl w/ panel - $ x 6 x 4 - 304 SS",
+        "quantity": 3.0,
+        "net_price": 867.87
+      }
+    ],
+    "vat_amount": null,
+    "gl_account": null,
+    "bank_name": null,
+    "account_holder_name": null,
+    "banking_account_number": null,
+    "remit_to_address": null,
+    "bill_to_address": null,
+    "transaction_type": "debit"
+  },
+  "filename": "SAPS4_5100921511_CA02_PBNACA_2026_328615225.pdf",
+  "raw_response": {
+    "invoice_number": "I7390257",
+    "invoice_date": "2025-09-17",
+    "invoice_amount": "986.29",
+    "invoice_currency": [
+      "CAD"
+    ],
+    "tax_amount": "113.47",
+    "po_number": [
+      "4503498977"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": "4.95",
+    "cost_center": null,
+    "vendor_name": "LIGHTING FRANKLIN ELECTRICAL SUPPLIES CONTROLS & AUTOMATION CAPACITORS AND MOTORS HOME AND BUILDING AUTOMATION",
+    "vendor_address": "350 Carlingview Drive, Etobicoke, ON M9W 5G6, TEL: (416)248-0176, FAX: (416)248-2735",
+    "po_line_items": [
+      {
+        "description": "EJ664SS - HAMMOND EN N4X Eclipse Junior encl w/ panel - $ x 6 x 4 - 304 SS",
+        "quantity": 3.0,
+        "net_price": 867.87
+      }
+    ]
+  }
+}

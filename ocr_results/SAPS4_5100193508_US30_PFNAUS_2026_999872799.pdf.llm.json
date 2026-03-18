@@ -1,0 +1,99 @@
+{
+  "invoice_data": {
+    "invoice_number": "PHXN19609",
+    "invoice_date": "02/04/2026",
+    "invoice_amount": "671.24",
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": "23.32",
+    "po_number": [
+      "M413096467"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "L Transportation Inc",
+    "vendor_address": "P.O. Box 515574, 701 LEGACY DR, Los Angeles CA 90051-4586, LANO , TX , 75024 , USA",
+    "po_line_items": [
+      {
+        "description": "Miscellaneous Shop Supplies",
+        "quantity": 1.0,
+        "net_price": 38.5
+      },
+      {
+        "description": "Replace Roll Door Bottom Panel",
+        "quantity": 3.0,
+        "net_price": 110.0
+      },
+      {
+        "description": "Replace 2 Roll Door Hinges",
+        "quantity": 0.5,
+        "net_price": 110.0
+      },
+      {
+        "description": "Btm Panel 3/4 15 X 98,no Lock Primed,with Hand.&strap",
+        "quantity": 1.0,
+        "net_price": 201.82
+      },
+      {
+        "description": "Roll Up Door Hinges",
+        "quantity": 2.0,
+        "net_price": 11.3
+      }
+    ],
+    "vat_amount": null,
+    "gl_account": null,
+    "bank_name": null,
+    "account_holder_name": null,
+    "banking_account_number": null,
+    "remit_to_address": null,
+    "bill_to_address": null,
+    "transaction_type": "debit"
+  },
+  "filename": "SAPS4_5100193508_US30_PFNAUS_2026_999872799.pdf",
+  "raw_response": {
+    "invoice_number": "PHXN19609",
+    "invoice_date": "02/04/2026",
+    "invoice_amount": "671.24",
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": "23.32",
+    "po_number": [
+      "M413096467"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "L Transportation Inc",
+    "vendor_address": "P.O. Box 515574, 701 LEGACY DR, Los Angeles CA 90051-4586, LANO , TX , 75024 , USA",
+    "po_line_items": [
+      {
+        "description": "Miscellaneous Shop Supplies",
+        "quantity": 1.0,
+        "net_price": 38.5
+      },
+      {
+        "description": "Replace Roll Door Bottom Panel",
+        "quantity": 3.0,
+        "net_price": 110.0
+      },
+      {
+        "description": "Replace 2 Roll Door Hinges",
+        "quantity": 0.5,
+        "net_price": 110.0
+      },
+      {
+        "description": "Btm Panel 3/4 15 X 98,no Lock Primed,with Hand.&strap",
+        "quantity": 1.0,
+        "net_price": 201.82
+      },
+      {
+        "description": "Roll Up Door Hinges",
+        "quantity": 2.0,
+        "net_price": 11.3
+      }
+    ]
+  }
+}

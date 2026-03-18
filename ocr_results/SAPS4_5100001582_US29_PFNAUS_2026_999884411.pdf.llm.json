@@ -1,0 +1,85 @@
+{
+  "invoice_data": {
+    "invoice_number": "S234603",
+    "invoice_date": "02/11/2026",
+    "invoice_amount": null,
+    "invoice_currency": null,
+    "tax_amount": null,
+    "po_number": [
+      "M413495423"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "THOMPSON & JOHNSON",
+    "vendor_address": "6926 Fly Road, East Syracuse, NY 13057",
+    "po_line_items": [
+      {
+        "description": "RING RETAINING",
+        "quantity": 2.0,
+        "net_price": 0.55
+      },
+      {
+        "description": "HOSE ASM 30CT-06",
+        "quantity": 1.0,
+        "net_price": 288.83
+      },
+      {
+        "description": "PREMIUM CHAIN/CABLE LUBE CAN",
+        "quantity": 1.0,
+        "net_price": 15.8
+      },
+      {
+        "description": "SORBENT, UNIVERSAL, 15\"X19\"",
+        "quantity": 5.0,
+        "net_price": 0.59
+      }
+    ],
+    "vat_amount": null,
+    "gl_account": null,
+    "bank_name": null,
+    "account_holder_name": null,
+    "banking_account_number": null,
+    "remit_to_address": null,
+    "bill_to_address": null,
+    "transaction_type": "debit"
+  },
+  "filename": "SAPS4_5100001582_US29_PFNAUS_2026_999884411.pdf",
+  "raw_response": {
+    "invoice_number": "S234603",
+    "invoice_date": "02/11/2026",
+    "invoice_amount": null,
+    "invoice_currency": null,
+    "tax_amount": null,
+    "po_number": [
+      "M413495423"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "THOMPSON & JOHNSON",
+    "vendor_address": "6926 Fly Road, East Syracuse, NY 13057",
+    "po_line_items": [
+      {
+        "description": "RING RETAINING",
+        "quantity": 2.0,
+        "net_price": 0.55
+      },
+      {
+        "description": "HOSE ASM 30CT-06",
+        "quantity": 1.0,
+        "net_price": 288.83
+      },
+      {
+        "description": "PREMIUM CHAIN/CABLE LUBE CAN",
+        "quantity": 1.0,
+        "net_price": 15.8
+      },
+      {
+        "description": "SORBENT, UNIVERSAL, 15\"X19\"",
+        "quantity": 5.0,
+        "net_price": 0.59
+      }
+    ]
+  }
+}

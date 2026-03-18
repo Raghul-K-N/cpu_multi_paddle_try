@@ -1,0 +1,59 @@
+{
+  "invoice_data": {
+    "invoice_number": "303942",
+    "invoice_date": "February 13, 2026",
+    "invoice_amount": null,
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": null,
+    "po_number": [
+      "M413533170"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "CONVERGIX AUTOMATION SOLUTIONS",
+    "vendor_address": "1275 Hubrey Road, London, ON N6N 1E2, Canada",
+    "po_line_items": [
+      {
+        "description": "Not Available / L1/ 1/2HHSJX-SS120120, QTY 12",
+        "quantity": 5970.0,
+        "net_price": 1.0
+      }
+    ],
+    "vat_amount": null,
+    "gl_account": null,
+    "bank_name": null,
+    "account_holder_name": null,
+    "banking_account_number": null,
+    "remit_to_address": null,
+    "bill_to_address": null,
+    "transaction_type": "debit"
+  },
+  "filename": "SAPS4_5100393530_US28_PFNAUS_2026_999872918.pdf",
+  "raw_response": {
+    "invoice_number": "303942",
+    "invoice_date": "February 13, 2026",
+    "invoice_amount": null,
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": null,
+    "po_number": [
+      "M413533170"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "CONVERGIX AUTOMATION SOLUTIONS",
+    "vendor_address": "1275 Hubrey Road, London, ON N6N 1E2, Canada",
+    "po_line_items": [
+      {
+        "description": "Not Available / L1/ 1/2HHSJX-SS120120, QTY 12",
+        "quantity": 5970.0,
+        "net_price": 1.0
+      }
+    ]
+  }
+}

@@ -1,0 +1,264 @@
+==================================<Page 1 - START>================================
+Standard Invoice
+                                                                                                                   GRAINER
+Original tax invoice has been submitted electronically. This is a
+human readable representation (copy) of the original tax invoice.
+                                                                                                                  980550065026
+                                                                Invoice Number
+                                                                (Supplier Reference No.)
+                                                                Invoice Date                    Thursday 12 Feb 2026 5:26 AM GMT-07:00
+                                                                Amount Due                                         $73.31 USD
+    Contact Information                                                        Shipping Information
+    Supplier                       Customer
+                                                                          Ship From                     Ship To
+    Grainger                      Rolling Frito-Lay Sales
+                                                                          Grainger                      NORTON SHORES
+    100 Grainger Pkwy               c/o PEPSICO NASS
+                                                                          701 GRAINGER WAY             BETH.THEDE@PEPSICO.C
+    Lake Forest                    ACCOUNTS PAYABLES
+                                                                          MINOOKA                     5078 ROBERT HUNTER
+    IL                           PO BOX 1800
+                                                                          IL                           DRIVE
+    Winst                        Winston Salem
+                                                                          60447                        NORTON SHORES
+    United States                   NC
+                                                                          United States                   MI
+                                 27105
+                                                                                                      49441
+                                 United States
+                                                                                                      United States
+                                                                                                      Phone: (952) 886-3280
+  Line Items                                              PO No. : M413553412                                      PO Date : 11 Feb 2026
+  Line No.   PO Line No.          Type    Supplier Part No. /             Customer Part No.        Quantity            Unit Price         Subtotal
+                                       Description                                       (UOM)
+  1                                                                                                                 $49.20 USD
+             1                 Material  1PKN9 / Hand Soap,ORG,1,200                         1 / (EA)          $49.20 USD
+                                       mL,Perfumed,PK2
+  Line No.                                                                                                               Subtotal
+             PO Line No.          Type    Supplier Part No. /             Customer Part No.        Quantity            Unit Price
+                                       Description
+                                                                                      (UOM)
+  2        2                 Material 5VE68 / Windshield                                 4 / (EA)           $4.99 USD      $19.96 USD
+                                       Delcer,Aerosol,12 oz
+                                                                             Amount Summary
+                                                                              Line item subtotal                           $69.16 USD
+                                                                              Gross amount                             $73.31 USD
+                                                                              Net amount                               $73.31 USD
+                                                                                                                      $4.15 USD
+                                                                              Total tax amount
+                                                                              Total withholding tax amount
+                                                                                                                      $73.31 USD
+                                                                              Amount Due
+    Additional Information
+    InvoiceSourceDocument
+    PurchaseOrder
+    InvoiceSubmissionMethod
+    cXML
+    Billing Information                                                         Remittance Information
+    Bill To                                                                 Remit To
+    Rolling Frito-Lay Sales                                                      GRAINGER
+    c/o PEPSICO NASS                                                       DEPT. 868710294
+    ACCOUNTS PAYABLES                                                    PALATINE
+    PO BOX 1800                                                            IL
+    Winston Salem                                                           60038-0001
+    NC                                                                   United States
+   27105                                                                 Address ID: US1_10359
+   United States
+                                                                          Tax ID of Supplier
+   Address ID: US29
+                                                                          36-1150280
+                                                                      Reference Documents
+                                                                       Original Supplier Order #: 1575907435
+==================================<Page 1 - END>================================
+==================================<Page 2 - START>================================
+Appendix
+Line No.                                                Supplier Part No. / Description
+             PO Line No. Type
+1                                                       1PKN9 / Hand Soap,ORG,1,200 mL,Perfumed,PK2
+             1          Material
+Additional Details:
+Supplier Part ID : 1PKN9
+Supplier Part Auxiliary ID : WWG1PKN9
+Line No.    PO Line No. Type                            Supplier Part No. / Description
+2          2          Material                          5VE68 / Windshield Delcer,Aerosol,12 oz
+Additional Details:
+Supplier Part ID : 5VE68
+Supplier Part Auxiliary ID : WWG5VE68
+PDF generated on Friday 13 Feb 2026 5:07 AM GMT-08:00
+==================================<Page 2 - END>================================
+==================================<Page 3 - START>================================
+      Standard Invoice
+                                                                                                                         GRAINER
+      Original tax invoice has been submitted electronically. This is a
+      human readable representation (copy) of the original tax invoice.
+                                                                                                                       980550065026
+                                                                      Invoice Number
+                                                                      (Supplier Reference No.)
+                                                                      Invoice Date                    Thursday 12 Feb 2026 5:26 AM GMT-07:00
+                                                                      Amount Due                                         $73.31 USD
+          Contact Information                                                        Shipping Information
+          Supplier                       Customer
+                                                                                Ship From                     Ship To
+          Grainger                      Rolling Frito-Lay Sales
+                                                                                Grainger                      NORTON SHORES
+          100 Grainger Pkwy               c/o PEPSICO NASS
+                                                                                701 GRAINGER WAY             BETH.THEDE@PEPSICO.C
+          Lake Forest                    ACCOUNTS PAYABLES
+                                                                                MINOOKA                     5078 ROBERT HUNTER
+          IL                           PO BOX 1800
+                                                                                IL                           DRIVE
+          Winst                        Winston Salem
+                                                                                60447                        NORTON SHORES
+          United States                   NC
+                                                                                United States                   MI
+                                       27105
+                                                                                                            49441
+                                       United States
+                                                                                                            United States
+                                                                                                            Phone: (952) 886-3280
+       Line Items                                              PO No. : M413553412                                      PO Date : 11 Feb 2026
+        Line No.   PO Line No.          Type    Supplier Part No. /             Customer Part No.        Quantity            Unit Price         Subtotal
+                                             Description                                       (UOM)
+        1                                                                                                                 $49.20 USD
+                  1                 Material  1PKN9 / Hand Soap,ORG,1,200                         1 / (EA)          $49.20 USD
+                                             mL,Perfumed,PK2
+        Line No.                                                                                                               Subtotal
+                  PO Line No.          Type    Supplier Part No. /             Customer Part No.        Quantity            Unit Price
+                                             Description
+                                                                                            (UOM)
+        2        2                 Material 5VE68 / Windshield                                 4 / (EA)           $4.99 USD      $19.96 USD
+                                             Delcer,Aerosol,12 oz
+                                                                                   Amount Summary
+                                                                                   Line item subtotal                           $69.16 USD
+                                                                                   Gross amount                             $73.31 USD
+                                                                                   Net amount                               $73.31 USD
+                                                                                                                            $4.15 USD
+                                                                                   Total tax amount
+                                                                                   Total withholding tax amount
+                                                                                                                           $73.31 USD
+                                                                                   Amount Due
+          Additional Information
+          InvoiceSourceDocument
+          PurchaseOrder
+          InvoiceSubmissionMethod
+          cXML
+          Billing Information                                                         Remittance Information
+          Bill To                                                                 Remit To
+          Rolling Frito-Lay Sales                                                      GRAINGER
+         c/o PEPSICO NASS                                                       DEPT. 868710294
+         ACCOUNTS PAYABLES                                                    PALATINE
+         PO BOX 1800                                                            IL
+         Winston Salem                                                           60038-0001
+         NC                                                                   United States
+         27105                                                                 Address ID: US1_10359
+         United States
+                                                                                Tax ID of Supplier
+         Address ID: US29
+                                                                               36-1150280
+                                                                            Reference Documents
+                                                                            Original Supplier Order #: 1575907435
+==================================<Page 3 - END>================================
+==================================<Page 4 - START>================================
+Appendix
+Line No.                                                Supplier Part No. / Description
+             PO Line No. Type
+1                                                       1PKN9 / Hand Soap,ORG,1,200 mL,Perfumed,PK2
+             1          Material
+Additional Details:
+Supplier Part ID : 1PKN9
+Supplier Part Auxiliary ID : WWG1PKN9
+Line No.    PO Line No. Type                            Supplier Part No. / Description
+2          2          Material                          5VE68 / Windshield Delcer,Aerosol,12 oz
+Additional Details:
+Supplier Part ID : 5VE68
+Supplier Part Auxiliary ID : WWG5VE68
+PDF generated on Friday 13 Feb 2026 5:07 AM GMT-08:00
+==================================<Page 4 - END>================================
+==================================<Page 5 - START>================================
+      Standard Invoice
+                                                                                                                         GRAINER
+      Original tax invoice has been submitted electronically. This is a
+      human readable representation (copy) of the original tax invoice.
+                                                                                                                       980550065026
+                                                                      Invoice Number
+                                                                      (Supplier Reference No.)
+                                                                      Invoice Date                    Thursday 12 Feb 2026 5:26 AM GMT-07:00
+                                                                      Amount Due                                         $73.31 USD
+          Contact Information                                                        Shipping Information
+          Supplier                       Customer
+                                                                                Ship From                     Ship To
+          Grainger                      Rolling Frito-Lay Sales
+                                                                                Grainger                      NORTON SHORES
+          100 Grainger Pkwy               c/o PEPSICO NASS
+                                                                                701 GRAINGER WAY             BETH.THEDE@PEPSICO.C
+          Lake Forest                    ACCOUNTS PAYABLES
+                                                                                MINOOKA                     5078 ROBERT HUNTER
+          IL                           PO BOX 1800
+                                                                                IL                           DRIVE
+          Winst                        Winston Salem
+                                                                                60447                        NORTON SHORES
+          United States                   NC
+                                                                                United States                   MI
+                                       27105
+                                                                                                            49441
+                                       United States
+                                                                                                            United States
+                                                                                                            Phone: (952) 886-3280
+       Line Items                                              PO No. : M413553412                                      PO Date : 11 Feb 2026
+        Line No.   PO Line No.          Type    Supplier Part No. /             Customer Part No.        Quantity            Unit Price         Subtotal
+                                             Description                                       (UOM)
+        1                                                                                                                 $49.20 USD
+                  1                 Material  1PKN9 / Hand Soap,ORG,1,200                         1 / (EA)          $49.20 USD
+                                             mL,Perfumed,PK2
+        Line No.                                                                                                               Subtotal
+                  PO Line No.          Type    Supplier Part No. /             Customer Part No.        Quantity            Unit Price
+                                             Description
+                                                                                            (UOM)
+        2        2                 Material 5VE68 / Windshield                                 4 / (EA)           $4.99 USD      $19.96 USD
+                                             Delcer,Aerosol,12 oz
+                                                                                   Amount Summary
+                                                                                   Line item subtotal                           $69.16 USD
+                                                                                   Gross amount                             $73.31 USD
+                                                                                   Net amount                               $73.31 USD
+                                                                                                                            $4.15 USD
+                                                                                   Total tax amount
+                                                                                   Total withholding tax amount
+                                                                                                                           $73.31 USD
+                                                                                   Amount Due
+          Additional Information
+          InvoiceSourceDocument
+          PurchaseOrder
+          InvoiceSubmissionMethod
+          cXML
+          Billing Information                                                         Remittance Information
+          Bill To                                                                 Remit To
+          Rolling Frito-Lay Sales                                                      GRAINGER
+         c/o PEPSICO NASS                                                       DEPT. 868710294
+         ACCOUNTS PAYABLES                                                    PALATINE
+         PO BOX 1800                                                            IL
+         Winston Salem                                                           60038-0001
+         NC                                                                   United States
+         27105                                                                 Address ID: US1_10359
+         United States
+                                                                                Tax ID of Supplier
+         Address ID: US29
+                                                                               36-1150280
+                                                                            Reference Documents
+                                                                            Original Supplier Order #: 1575907435
+==================================<Page 5 - END>================================
+==================================<Page 6 - START>================================
+Appendix
+Line No.                                                Supplier Part No. / Description
+             PO Line No. Type
+1                                                       1PKN9 / Hand Soap,ORG,1,200 mL,Perfumed,PK2
+             1          Material
+Additional Details:
+Supplier Part ID : 1PKN9
+Supplier Part Auxiliary ID : WWG1PKN9
+Line No.    PO Line No. Type                            Supplier Part No. / Description
+2          2          Material                          5VE68 / Windshield Delcer,Aerosol,12 oz
+Additional Details:
+Supplier Part ID : 5VE68
+Supplier Part Auxiliary ID : WWG5VE68
+PDF generated on Friday 13 Feb 2026 5:07 AM GMT-08:00
+==================================<Page 6 - END>================================

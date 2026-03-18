@@ -1,0 +1,244 @@
+==================================<Page 1 - START>================================
+  OpenText Workflow History
+  Vendor
+  W D POTATO LTD
+  RR 2
+  3644 10 SIDERD
+  BEETON ON
+             LOG 1A0
+  CANADA
+  Invoice
+   Reference        IN020251101
+                                                              Document Date
+                                                                                01.11.2025
+  DP Document No.  39413130
+                                                              Net Amount
+                                                                                CAD        14,523.77
+  Comp. Code
+                     CA11 PepsiCo Canada ULC (FLC)            Tax Amount
+                                                                                CAD               0.00
+  Posting Date     13.02.2026
+                                                              Gross Amount
+                                                                                CAD        14,523.77
+  SAP Document No. 1900189000 2026
+                                          Pre-Process History
+   ACTIVITY
+                                                         USER       END TIME         DOCUMENT STATUS
+   Update status
+                                                         VRBLAOT_U  09.02.2026       Validation
+                                                         SR
+                                                                     12:55:21         Complete
+                                      Document Process History
+  ACTIVITY         PROCESS TYPE/BLOCK REASON
+                                                         USER        END TIME         DOCUMENT STATUS
+  BC Inbound
+                                                         VRBLAOT_U  09.02.2026       Document
+                                                         SR          12:54:06         Registered
+  Workflow Start   Approval Required (NPo)
+                                                         Record to  09.02.2026       Indexed
+                                                                     12:55:21
+                                                         Report
+                                                         Batch
+                                                        Account
+                                                         Owner:
+    Invoice submitted for Approval
+                                                                     09.02.2026 12:55:24
+    Invoice Approved                                    GEORGES
+                                                                     09.02.2026 14:46:28
+                                                        DION
+    Invoice Approved
+                                                        FABRIZZIO  09.02.2026 15:20:39
+                                                        CANTAGALL
+                                                        o
+Approval
+                    Approval Required (NPo)             SAP_WFRT   09.02.2026        Approval
+Workflow                                                          15:20:42
+                                                                                       Complete
+Business Rules
+                   Process Non-PO Invoice (NPO)       SAP_WFRT   09.02.2026        Approval
+Check in BG
+                                                                     15:20:44          Complete
+Post Non-PO      Process Non-PO Invoice (NPO)       VIGNESH    13.02.2026
+                                                                                       Document
+Invoice
+                                                        RENGARAJ   18:19:00          Created
+SAP Document
+                                                        SAP_WFRT   13.02.2026        Posted
+Check
+                                                                    18:19:10
+==================================<Page 1 - END>================================
+==================================<Page 2 - START>================================
+         PEPSICO
+      InstructionsWhen there is not an "Official" Invoice to request payment or P is not required, complete the information on this form.
+ You must fil in all of the fields below and the form must be accompanied with supporting documentation on separate tab(s).
+ 2. Fill in the Description field below with the payment type - for example: Donation / Taxes / Legal / etc.
+  Print Entire Workbook as ONE single PDF file prior to submission.
+                                         Non-PO Invoice
+                                    SAP Payment Request
+                                   Substitute Invoice Form
+  Vendor Name:
+                                            WD Potato
+  Vendor Number:
+                                            2003151895
+ Company Code:                     CA11
+ Remit To Address :
+                                            3630 Sideroad 10, Beeton, Ontario, L0G1A0
+Transaction type:                   Invoice
+                                           11/1/2025
+Invoice Date:
+Invoice #:                             IN020251101
+Purchase Order #
+Payment GROSS Amount:
+                                           $14,523.77
+Tax Amount:                              $0.00
+Payment NET Amount:            $14,523.77
+Currency                             CAN
+Header Text:
+Requestor Name:                   Georges Dion
+Requestor email
+                                           georges.dion@pepsico.com
+Date Requested:                    11/01/2025
+Description:                         Potatoes
+Cost Center (optional - use Tab 2 if multiple):      2003050200
+GL AcCount (REQUIRED - use Tab 2 if multiple):    525411
+WBS Element (optional - use Tab 2 if multiple):
+==================================<Page 2 - END>================================
+==================================<Page 3 - START>================================
+                                                                                                  IN020251101
+                                                                   INVOICE #
+                                                                                                  Nov 1 2025
+                                                                 INVOICE DATE
+                                                                   SHIP DATE                      Nov 1 2025
+          POTATO LIMITED
+                                                                        PEPSICO CANADA
+SOLD TO:PEPSICO CANADA                                 SHIP TO:
+            2095 MATHESON BLVD EAST                                    2095 MATHESON BLVD EAST
+            MISSISSAUGA, ONT                                           MISSISSAUGA, ONT
+            L4W 5R7                                                    L4W 5R7
+  CUSTOMER NO.                   TERMS                           GST #
+SOURCE
+                         ITEM DESCRIPTION               QTY. SHIPPED      PRICE
+                                                                                            AMOUNT
+           THIS INVOICE COVERS SOILDS MISSING
+           Missing incentives-                                   1        $
+                                                                               14,523.77 $    14,523.77
+                                          SUB-TOTAL
+                                                       MISC. CHARGES      GST
+                                                                                           TOTAL
+                                         $  14,523.77
+                                                                        $
+                                                                                        $
+                                                                                             14,523.77  CDN FUNDS
+==================================<Page 3 - END>================================
+==================================<Page 4 - START>================================
+          2001   1/30/2026
+    PEPSICO FOODS CANADA
+    1001 BISHOP STREET
+    CAMBRIDGE, ONTARIO
+    N3H 4V8
+        6/15/2025 IN0228836
+                         IN  4502563810-40-1588673       536.38   7/15/2025        Incentives                      Send to Georges
+        6/30/2025 IN0229731                                                                                 Send to Georges
+                         IN  4502686665-10-1657307       209.34   7/30/2025        Incentives
+        7/13/2025 IN0230009                                                                                 Send to Georges
+                         IN  4502848162-10-1744002       582.40   8/12/2025        Incentives
+        7/26/2025 IN0230442                                                                                 Send to Georges
+                         IN  4503010537-50-1858808       507.04   8/25/2025        Incentives
+        7/26/2025 IN0230443                                                    Incentives                      Send to Georges
+                         IN  4503010537-60-1858809       496.99   8/25/2025                                     Send to Georges
+         8/6/2025 IN0231627  IN                          183.80    9/5/2025        Incentives
+                              4503073818-50-1886919                                                          Send to Georges
+         8/8/2025 IN0231628  IN   4503073818-100-1886924       188.85    9/7/2025        Incentives
+                                                                                                        Send to Georges
+        8/10/2025 IN0231621  IN   4503163742-10-1937891        90.65    9/9/2025        Incentives
+                                                                                                        Send to Georges
+        8/15/2025 IN0231653  IN   4503163742-240-1937914       372.30   9/14/2025        Incentives
+                                                                                                        Send to Georges
+         8/15/2025 IN0231654  IN   4503163742-250-1937915       449.10   9/14/2025        Incentives
+                                                                            Incentives                      Send to Georges
+         9/2/2025 IN0232290  IN   4503385087-30-2041909        182.60   10/2/2025
+         9/3/2025 IN0232296       4503385087-90-2041915        178.80   10/3/2025        Incentives                      Send to Georges
+                          IN                                                                             Send to Georges
+         9/19/2025 IN0232324  IN   4503532504-150-2129767       173.50  10/19/2025        Incentives
+                                                                                                        Send to Georges
+         9/20/2025 IN0232325   IN   4503532504-160-2129768       178.10  10/20/2025        Incentives
+                                                                                                         Send to Georges
+         9/20/2025 IN0232326  IN   4503532504-170-2129769       367.10  10/20/2025        Incentives
+                                                                                                         Send to Georges
+         9/22/2025 IN0232716   IN   4503605825-30-2173021        92.45  10/22/2025        Incentives
+                                                                                                         Send to Georges
+         9/22/2025 IN0232717  IN   4503605825-50-2173023        384.10  10/22/2025        Incentives
+                                                                            Incentives                      Send to Georges
+         9/22/2025 IN0232759  IN   4503605825-40-2173022        366.27  10/22/2025
+                                                            10/23/2025        Incentives                      Send to Georges
+         9/23/2025 IN0232720  IN   4503605825-80-2173026        370.70
+         9/23/2025 IN0232721       4503605825-100-2173028       379.00  10/23/2025        Incentives                      Send to Georges
+                          IN
+         9/24/2025 IN0232724   IN   4503605825-140-2173032       359.99  10/24/2025        Incentives                      Send to Georges
+                                                                                                         Send to Georges
+         9/24/2025 IN0232725   IN   4503605825-150-2173033       362.33  10/24/2025        Incentives
+                                                                                                         Send to Georges
+         9/25/2025 IN0232729  IN   4503605825-190-2173037       354.30  10/25/2025         Incentives
+                                                                                                         Send to Georges
+         9/25/2025 IN0232731   IN  4503605825-200-2173038       343.16  10/25/2025        Incentives
+                                                                                                          Send to Georges
+         9/26/2025 IN0232740  IN   4503605825-230-2173041       373.00  10/26/2025         Incentives
+                                                                                                          Send to Georges
+         9/27/2025 IN0232741   IN   4503605825-240-2173042       351.50  10/27/2025         Incentives
+                                                      178.18  10/27/2025         Incentives                      Send to Georges
+         9/27/2025 IN0232752   IN   4503605825-250-2173043
+                              4503681162-60-2197988        323.30  10/30/2025         Incentives                      Send to Georges
+         9/30/2025 IN0232706   IN
+                              4503681162-90-2197991        325.00  10/30/2025         Incentives                       Send to Georges
+         9/30/2025 IN0232709   IN
+         10/2/2025 IN0232943  IN   4503681162-190-2198001       377.00   11/1/2025         Incentives                       Send to Georges
+                                                                                                          Send to Georges
+         10/2/2025 IN0232944   IN   4503681162-200-2198002       366.80   11/1/2025        Incentives
+                                                                                                          Send to Georges
+         10/3/2025 IN0232945   IN   4503681162-210-2198003       347.20   11/2/2025        Incentives
+                                                                                                          Send to Georges
+         10/3/2025 IN0232948   IN   4503681162-240-2198006       376.20   11/2/2025         Incentives
+                                                                                                          Send to Georges
+         10/3/2025 IN0232949   IN   4503681162-250-2198007       363.70   11/2/2025         Incentives
+                                                                             Incentives                       Send to Georges
+         10/4/2025 IN0232937  IN   4503681162-280-2198010       336.50   11/3/2025
+                                                              11/3/2025         Incentives                       Send to Georges
+         10/4/2025 IN0232938  IN   4503760737-10-2230400        169.40
+                                                      188.85   11/4/2025         Incentives                       Send to Georges
+         10/5/2025 IN0232939   IN   4503746424-10-2224918
+                              4503746424-20-2224919        170.05   11/4/2025         Incentives                       Send to Georges
+         10/5/2025 IN0232940   IN
+                          IN   4503746424-50-2224922        178.75   11/6/2025         Incentives                       Send to Georges
+         10/7/2025 IN0233309                                                                                   Send to Georges
+         10/7/2025 IN0233310   IN   4503746424-60-2224923        173.60   11/6/2025         Incentives
+                                                                                                          Send to Georges
+         10/8/2025 IN0233313  IN   4503746424-90-2224926        110.20   11/7/2025        Incentives
+                                                                                                           Send to Georges
+         10/8/2025 IN0233314   IN   4503746424-100-2224927        180.60   11/7/2025         Incentives
+                                                                             Incentives                       Send to Georges
+         10/8/2025 IN0233317  IN   4503746424-130-2224930       174.95   11/7/2025
+                                                              11/8/2025        Incentives                      Send to Georges
+         10/9/2025 IN0233318  IN   4503746424-140-2224931        175.20
+                                                      172.80   11/8/2025         Incentives                       Send to Georges
+         10/9/2025 IN0233321   IN   4503746424-170-2224934
+                         IN   4503746424-180-2224935       171.30   11/8/2025         -Incentives                       Send to Georges
+         10/9/2025-IN0233322
+        10/10/2025 IN0233323  IN   4503746424-190-2224936       173.64   11/9/2025         Incentives                       Send to Georges
+        10/10/2025 IN0233326  IN   4503746424-220-2224939       355.50   11/9/2025         Incentives                       Send to Georges
+        10/10/2025 IN0233332  IN   4503819569-10-2275365        353.70   11/9/2025         Incentives                       Send to Georges
+        10/11/2025 IN0233327  IN   4503746424-230-2224940       347.60  11/10/2025         Incentives                       Send to Georges
+                                                     14523.77
+==================================<Page 4 - END>================================
+==================================<Page 5 - START>================================
+      From: "Dion, Georges {PEP}" <Georges.Dion@pepsico.com>
+       Sent: Fri, 6 Feb 2026 22:56:59 (UTC)
+       To: FLCInvoiceSubmission@pepsico.com
+       Subject: Invoices
+      Georges Dion
+      Proc Sr Manager • PFC Div Ops Field buyer
+      PepsiCo
+       georges.dion@pepsico.com418.572.7202
+       pepsico.com
+            pepsico
+              Food Drinks. Smies.
+==================================<Page 5 - END>================================

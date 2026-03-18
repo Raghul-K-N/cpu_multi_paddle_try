@@ -1,0 +1,55 @@
+{
+  "invoice_data": {
+    "invoice_number": "246352P",
+    "invoice_date": "14AUG 24",
+    "invoice_amount": null,
+    "invoice_currency": null,
+    "tax_amount": null,
+    "po_number": [
+      "23574527"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "NEXTRAN TRUCK CENTERS",
+    "vendor_address": "B900 GREAT MIDWEST DR., K.C., MO. 64161, (816) 455-7262, 4001 N.E. RANDOLPH RD., K.C., MO. 64161, (816) 455-7262, 6608 Kaw Drive, KANSAS CITY, MO 64161, (913) 647-9100, KANSAS CITY, KS 66111, (913) 647-9100",
+    "po_line_items": [
+      {
+        "description": "CROSS FIT",
+        "quantity": 6.0,
+        "net_price": 22.21
+      }
+    ],
+    "vat_amount": null,
+    "gl_account": null,
+    "bank_name": null,
+    "account_holder_name": null,
+    "banking_account_number": null,
+    "remit_to_address": null,
+    "bill_to_address": null,
+    "transaction_type": "debit"
+  },
+  "filename": "SAPS4_5100124521_US29_PFNAUS_2026_999706868.pdf",
+  "raw_response": {
+    "invoice_number": "246352P",
+    "invoice_date": "14AUG 24",
+    "invoice_amount": null,
+    "invoice_currency": null,
+    "tax_amount": null,
+    "po_number": [
+      "23574527"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "NEXTRAN TRUCK CENTERS",
+    "vendor_address": "B900 GREAT MIDWEST DR., K.C., MO. 64161, (816) 455-7262, 4001 N.E. RANDOLPH RD., K.C., MO. 64161, (816) 455-7262, 6608 Kaw Drive, KANSAS CITY, MO 64161, (913) 647-9100, KANSAS CITY, KS 66111, (913) 647-9100",
+    "po_line_items": [
+      {
+        "description": "CROSS FIT",
+        "quantity": 6.0,
+        "net_price": 22.21
+      }
+    ]
+  }
+}

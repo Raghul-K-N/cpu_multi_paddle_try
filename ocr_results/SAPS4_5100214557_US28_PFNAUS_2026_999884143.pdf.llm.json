@@ -1,0 +1,79 @@
+{
+  "invoice_data": {
+    "invoice_number": "PSSI051496",
+    "invoice_date": "01/30/2026",
+    "invoice_amount": "732.75",
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": "62.64",
+    "po_number": [
+      "4505009323"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": "18.99",
+    "cost_center": null,
+    "vendor_name": "GROUPō, INC.",
+    "vendor_address": "PO BOX 860144, MINNEAPOLIS, MN 55486",
+    "po_line_items": [
+      {
+        "description": "Z59-809 MANDRELL HUB",
+        "quantity": 3.0,
+        "net_price": 630.93
+      },
+      {
+        "description": "Surcharge",
+        "quantity": 1.0,
+        "net_price": 20.19
+      },
+      {
+        "description": "FREIGHT",
+        "quantity": 1.0,
+        "net_price": 18.99
+      }
+    ],
+    "vat_amount": null,
+    "gl_account": null,
+    "bank_name": null,
+    "account_holder_name": null,
+    "banking_account_number": null,
+    "remit_to_address": null,
+    "bill_to_address": null,
+    "transaction_type": "debit"
+  },
+  "filename": "SAPS4_5100214557_US28_PFNAUS_2026_999884143.pdf",
+  "raw_response": {
+    "invoice_number": "PSSI051496",
+    "invoice_date": "01/30/2026",
+    "invoice_amount": "732.75",
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": "62.64",
+    "po_number": [
+      "4505009323"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": "18.99",
+    "cost_center": null,
+    "vendor_name": "GROUPō, INC.",
+    "vendor_address": "PO BOX 860144, MINNEAPOLIS, MN 55486",
+    "po_line_items": [
+      {
+        "description": "Z59-809 MANDRELL HUB",
+        "quantity": 3.0,
+        "net_price": 630.93
+      },
+      {
+        "description": "Surcharge",
+        "quantity": 1.0,
+        "net_price": 20.19
+      },
+      {
+        "description": "FREIGHT",
+        "quantity": 1.0,
+        "net_price": 18.99
+      }
+    ]
+  }
+}

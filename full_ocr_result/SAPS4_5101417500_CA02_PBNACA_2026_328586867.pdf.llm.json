@@ -1,0 +1,47 @@
+{
+  "invoice_data": {
+    "invoice_number": "506373049",
+    "invoice_date": "01/31/2026",
+    "invoice_amount": "1.22",
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": "0.13",
+    "po_number": [
+      "M413445126"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "KONICA MINOLTA BUSINESS SOLUTIONS (Canada) Ltd.",
+    "vendor_address": "KONICA MINOLTA BUSINESS SOLUTIONS (Canada) Ltd.\nSOLUTIONS D'AFFAIRES KONICA MINOLTÀ (Canada) Ltée.\nPO BOX # 4563 TORONTO STATION \"A\"\nTORONTO ON M5W 0H1",
+    "po_line_items": null,
+    "vat_amount": null,
+    "gl_account": null,
+    "bank_name": null,
+    "account_holder_name": null,
+    "banking_account_number": null,
+    "remit_to_address": null,
+    "bill_to_address": null,
+    "transaction_type": "debit"
+  },
+  "filename": "SAPS4_5101417500_CA02_PBNACA_2026_328586867.pdf",
+  "raw_response": {
+    "invoice_number": "506373049",
+    "invoice_date": "01/31/2026",
+    "invoice_amount": "1.22",
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": "0.13",
+    "po_number": [
+      "M413445126"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "KONICA MINOLTA BUSINESS SOLUTIONS (Canada) Ltd.",
+    "vendor_address": "KONICA MINOLTA BUSINESS SOLUTIONS (Canada) Ltd.\nSOLUTIONS D'AFFAIRES KONICA MINOLTÀ (Canada) Ltée.\nPO BOX # 4563 TORONTO STATION \"A\"\nTORONTO ON M5W 0H1",
+    "po_line_items": null
+  }
+}

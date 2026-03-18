@@ -1,0 +1,174 @@
+==================================<Page 1 - START>================================
+Standard Invoice
+                                                                                                                   GRAINGER
+Original tax invoice has been submitted electronically. This is a
+human readable representation (copy) of the original tax invoice.
+                                                                                                                   9803338228
+                                                                 Invoice Number
+                                                                 (Supplier Reference No.)
+                                                                 Invoice Date                   Tuesday 10 Feb. 2026 7:00 a.m. GMT-05:00
+                                                                 Amount Due                                        $343.48 CAD
+    Contact Information
+                                                                          Shipping Information
+     Supplier                       Customer
+                                                                          Ship From                     Ship To
+     ACKLANDS-GRAINGER INC.
+                                  EDI ONLY PEPSI BOTTLING
+                                                                          ACKLANDS-GRAINGER INC.        CA-DC-SASKATOON-SK-
+     PO BOX 2970                   GRP CANADA
+                                                                          11708 - 167 STREET NW          PBCCAN
+     WINNIPEG                     3642 BURRON AVE
+                                                                           EDMONTON                   150-3642 BURRON AVE
+     MB                          SASKATOON
+                                                                          AB                          SASKATOON
+     R3C 4B5                      SK
+                                                                           T5M 3Z2                      SK
+     CA                          S7P 0G3
+                                                                           Canada                       S7P 0G3
+                                  Canada
+                                                                                                       Canada
+  Line Items                                              PO No. : M413549236                                     PO Date : 10 Feb. 2026
+   Line No.    PO Line No.          Type    Supplier Part No. /             Customer Part No.        Quantity            Unit Price         Subtotal
+                                        Description                                       (UOM)
+   10
+             1                 Material  KMB05843 / WIPERS L30 SMALL                        2 / (CA)          $124.06 CAD     $248.12 CAD
+                                        ROLL WH 70/RL
+                                                                                                   Line Item Total : $248.12 CAD
+   Line No.    PO Line No.          Type    Supplier Part No. /             Customer Part No.        Quantity            Unit Price        Subtotal
+                                       Description                                       (UOM)
+   20
+             2                 Material  KLE885 / GLASS CLEANER 550 G                       12 / (EA)          $5.11 CAD      $61.32 CAD
+                                        CONTAINER SZ
+                                                                                                    Line Item Total : $61.32 CAD
+      Tax Summary
+      Category              Details                                                                  Amount
+                                                           Base Amount               Rate %
+      GST                  Tax Description : GOODS AND         $309.44 CAD               5%            $15.47 CAD
+                            SERVICES
+      PST                  Tax Description : State/Provincial        $309.44 CAD               6.001163391933816%$18.57 CAD
+                            Tax
+                                                                              Amount Summary
+                                                                                                                     $309.44 CAD
+                                                                              Line item subtotal
+                                                                              Gross amount                            $343.48 CAD
+                                                                                                                     $343.48 CAD
+                                                                              Net amount
+                                                                                                                      $34.04 CAD
+                                                                              Total tax amount
+                                                                              Total withholding tax amount
+                                                                                                                     $343.48 CAD
+                                                                              Amount Due
+    Additional Information
+    invioceSourceDocument
+    PurchaseOrder
+    Billing Information                                                         Remittance Information
+    Bill To                                                                 Remit To
+    PEPSI BEVERAGES CANADA                                                ACKLANDS-GRAINGER INC.
+    2095 MATHESON BLVD E                                                   PO BOX 2970
+    MISSISSAUGA                                                           WINNIPEG
+    ON                                                                    MB
+   L4W 0G2                                                               R3C 4B5
+   Canada                                                                Canada
+   Address ID:                                                              Address ID: CA1_2751
+   CA1_ARIBA_PAYABLES
+==================================<Page 1 - END>================================
+==================================<Page 2 - START>================================
+Line No.                                                Supplier Part No. / Description
+            PO Line No. Type
+10         1          Material                          KMB05843 / WIPERS L30 SMALL ROLL WH 70/RL
+Additional Details:
+Supplier Part ID : KMB05843
+Line No.    PO Line No. Type                            Supplier Part No. / Description
+20         2          Material
+                                                         KLF885 / GLASS CLEANER,550 G CONTAINER SZ
+Additional Details:
+Supplier Part ID : KLF885
+PDF generated on Wednesday 11 Feb. 2026 6:16 a.m. GMT-08:00
+==================================<Page 2 - END>================================
+==================================<Page 3 - START>================================
+       Standard Invoice
+                                                                                                                         GRAINGER
+      Original tax invoice has been submitted electronically. This is a
+      human readable representation (copy) of the original tax invoice.
+                                                                                                                         9803338228
+                                                                       Invoice Number
+                                                                       (Supplier Reference No.)
+                                                                       Invoice Date                   Tuesday 10 Feb. 2026 7:00 a.m. GMT-05:00
+                                                                       Amount Due                                        $343.48 CAD
+           Contact Information
+                                                                                 Shipping Information
+           Supplier                       Customer
+                                                                                 Ship From                     Ship To
+           ACKLANDS-GRAINGER INC.
+                                        EDI ONLY PEPSI BOTTLING
+                                                                                 ACKLANDS-GRAINGER INC.        CA-DC-SASKATOON-SK-
+           PO BOX 2970                   GRP CANADA
+                                                                                 11708 - 167 STREET NW          PBCCAN
+           WINNIPEG                     3642 BURRON AVE
+                                                                                 EDMONTON                   150-3642 BURRON AVE
+           MB                          SASKATOON
+                                                                                 AB                          SASKATOON
+           R3C 4B5                      SK
+                                                                                 T5M 3Z2                      SK
+           CA                          S7P 0G3
+                                                                                 Canada                       S7P 0G3
+                                        Canada
+                                                                                                             Canada
+         Line Items                                              PO No. : M413549236                                     PO Date : 10 Feb. 2026
+         Line No.    PO Line No.          Type    Supplier Part No. /             Customer Part No.        Quantity            Unit Price         Subtotal
+                                              Description                                       (UOM)
+         10
+                    1                 Material  KMB05843 / WIPERS L30 SMALL                        2 / (CA)          $124.06 CAD     $248.12 CAD
+                                              ROLL WH 70/RL
+                                                                                                          Line Item Total : $248.12 CAD
+         Line No.    PO Line No.          Type    Supplier Part No. /             Customer Part No.        Quantity            Unit Price        Subtotal
+                                              Description                                       (UOM)
+         20
+                   2                 Material  KLE885 / GLASS CLEANER 550 G                       12 / (EA)          $5.11 CAD      $61.32 CAD
+                                              CONTAINER SZ
+                                                                                                          Line Item Total : $61.32 CAD
+            Tax Summary
+            Category              Details                                                                  Amount
+                                                                  Base Amount               Rate %
+            GST                  Tax Description : GOODS AND         $309.44 CAD               5%            $15.47 CAD
+                                  SERVICES
+            PST                  Tax Description : State/Provincial        $309.44 CAD               6.001163391933816%$18.57 CAD
+                                  Tax
+                                                                                    Amount Summary
+                                                                                                                           $309.44 CAD
+                                                                                    Line item subtotal
+                                                                                     Gross amount                            $343.48 CAD
+                                                                                                                           $343.48 CAD
+                                                                                    Net amount
+                                                                                                                            $34.04 CAD
+                                                                                     Total tax amount
+                                                                                     Total withholding tax amount
+                                                                                                                            $343.48 CAD
+                                                                                     Amount Due
+           Additional Information
+           invioceSourceDocument
+          PurchaseOrder
+          Billing Information                                                         Remittance Information
+          Bill To                                                                 Remit To
+          PEPSI BEVERAGES CANADA                                                ACKLANDS-GRAINGER INC.
+          2095 MATHESON BLVD E                                                   PO BOX 2970
+          MISSISSAUGA                                                           WINNIPEG
+          ON                                                                    MB
+          L4W 0G2                                                               R3C 4B5
+          Canada                                                                Canada
+          Address ID:                                                              Address ID: CA1_2751
+          CA1_ARIBA_PAYABLES
+==================================<Page 3 - END>================================
+==================================<Page 4 - START>================================
+Line No.                                                Supplier Part No. / Description
+            PO Line No. Type
+10         1          Material                          KMB05843 / WIPERS L30 SMALL ROLL WH 70/RL
+Additional Details:
+Supplier Part ID : KMB05843
+Line No.    PO Line No. Type                            Supplier Part No. / Description
+20         2          Material
+                                                         KLF885 / GLASS CLEANER,550 G CONTAINER SZ
+Additional Details:
+Supplier Part ID : KLF885
+PDF generated on Wednesday 11 Feb. 2026 6:16 a.m. GMT-08:00
+==================================<Page 4 - END>================================

@@ -1,0 +1,59 @@
+{
+  "invoice_data": {
+    "invoice_number": "458927359001",
+    "invoice_date": "Thursday 12 Feb 2026 12:00 PM GMT-05:00",
+    "invoice_amount": "42.83",
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": "0.84",
+    "po_number": [
+      "M413552180"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "ODP BUSINESS SOLUTIONS, LLC",
+    "vendor_address": "ODP BUSINESS SOLUTIONS, LLC, 6600 North Military Trail, Boca Raton, FL 33496, CHARLOTTE, NC 282736422, United States",
+    "po_line_items": [
+      {
+        "description": "241211 / SPLENDA,SWEET,ORIG,1000CT",
+        "quantity": 1.0,
+        "net_price": 41.99
+      }
+    ],
+    "vat_amount": null,
+    "gl_account": null,
+    "bank_name": null,
+    "account_holder_name": null,
+    "banking_account_number": null,
+    "remit_to_address": null,
+    "bill_to_address": null,
+    "transaction_type": "debit"
+  },
+  "filename": "SAPS4_5100357049_US28_PFNAUS_2026_999930891.pdf",
+  "raw_response": {
+    "invoice_number": "458927359001",
+    "invoice_date": "Thursday 12 Feb 2026 12:00 PM GMT-05:00",
+    "invoice_amount": "42.83",
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": "0.84",
+    "po_number": [
+      "M413552180"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "ODP BUSINESS SOLUTIONS, LLC",
+    "vendor_address": "ODP BUSINESS SOLUTIONS, LLC, 6600 North Military Trail, Boca Raton, FL 33496, CHARLOTTE, NC 282736422, United States",
+    "po_line_items": [
+      {
+        "description": "241211 / SPLENDA,SWEET,ORIG,1000CT",
+        "quantity": 1.0,
+        "net_price": 41.99
+      }
+    ]
+  }
+}

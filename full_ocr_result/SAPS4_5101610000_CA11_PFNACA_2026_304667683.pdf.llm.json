@@ -1,0 +1,43 @@
+{
+  "invoice_data": {
+    "invoice_number": "INV-340970",
+    "invoice_date": "02/05/2026",
+    "invoice_amount": null,
+    "invoice_currency": null,
+    "tax_amount": null,
+    "po_number": [
+      "M413057193"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "BigSteelBox",
+    "vendor_address": "1-800-373-1187, 1-877-765-6464",
+    "po_line_items": null,
+    "vat_amount": null,
+    "gl_account": null,
+    "bank_name": null,
+    "account_holder_name": null,
+    "banking_account_number": null,
+    "remit_to_address": null,
+    "bill_to_address": null,
+    "transaction_type": "debit"
+  },
+  "filename": "SAPS4_5101610000_CA11_PFNACA_2026_304667683.pdf",
+  "raw_response": {
+    "invoice_number": "INV-340970",
+    "invoice_date": "02/05/2026",
+    "invoice_amount": null,
+    "invoice_currency": null,
+    "tax_amount": null,
+    "po_number": [
+      "M413057193"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "BigSteelBox",
+    "vendor_address": "1-800-373-1187, 1-877-765-6464",
+    "po_line_items": null
+  }
+}

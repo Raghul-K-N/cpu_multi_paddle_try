@@ -1,0 +1,99 @@
+{
+  "invoice_data": {
+    "invoice_number": "5067071799",
+    "invoice_date": "02/11/2026",
+    "invoice_amount": "19.52",
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": null,
+    "po_number": [
+      "M412782572"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "VESTIS",
+    "vendor_address": "3810 SEA PORT, WEST SACRAMENTO CA 95691",
+    "po_line_items": [
+      {
+        "description": "CE0278XXXX DISP PROSOY SOAP",
+        "quantity": 1.0,
+        "net_price": 0.26
+      },
+      {
+        "description": "DM0001DKGY MAT NYLON/RUBBER 3X10",
+        "quantity": 1.0,
+        "net_price": 2.08
+      },
+      {
+        "description": "DM0001DKGY MAT NYLON/RUBBER 3X4",
+        "quantity": 1.0,
+        "net_price": 0.83
+      },
+      {
+        "description": "TO0108NAVY MICROFIBER WIPER 16X16",
+        "quantity": 150.0,
+        "net_price": 10.05
+      },
+      {
+        "description": "TS0002REDD SHOP TOWEL PLAIN 18X18",
+        "quantity": 300.0,
+        "net_price": 6.3
+      }
+    ],
+    "vat_amount": null,
+    "gl_account": null,
+    "bank_name": null,
+    "account_holder_name": null,
+    "banking_account_number": null,
+    "remit_to_address": null,
+    "bill_to_address": null,
+    "transaction_type": "debit"
+  },
+  "filename": "SAPS4_5100036051_US29_PFNAUS_2026_999884464.pdf",
+  "raw_response": {
+    "invoice_number": "5067071799",
+    "invoice_date": "02/11/2026",
+    "invoice_amount": "19.52",
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": null,
+    "po_number": [
+      "M412782572"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "VESTIS",
+    "vendor_address": "3810 SEA PORT, WEST SACRAMENTO CA 95691",
+    "po_line_items": [
+      {
+        "description": "CE0278XXXX DISP PROSOY SOAP",
+        "quantity": 1.0,
+        "net_price": 0.26
+      },
+      {
+        "description": "DM0001DKGY MAT NYLON/RUBBER 3X10",
+        "quantity": 1.0,
+        "net_price": 2.08
+      },
+      {
+        "description": "DM0001DKGY MAT NYLON/RUBBER 3X4",
+        "quantity": 1.0,
+        "net_price": 0.83
+      },
+      {
+        "description": "TO0108NAVY MICROFIBER WIPER 16X16",
+        "quantity": 150.0,
+        "net_price": 10.05
+      },
+      {
+        "description": "TS0002REDD SHOP TOWEL PLAIN 18X18",
+        "quantity": 300.0,
+        "net_price": 6.3
+      }
+    ]
+  }
+}

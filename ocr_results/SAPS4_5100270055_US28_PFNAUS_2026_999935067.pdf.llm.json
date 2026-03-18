@@ -1,0 +1,55 @@
+{
+  "invoice_data": {
+    "invoice_number": "CA15-00999461",
+    "invoice_date": "02/12/26",
+    "invoice_amount": null,
+    "invoice_currency": null,
+    "tax_amount": null,
+    "po_number": [
+      "4505106471"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "REMIT MOTION INDUSTRIES, INC.",
+    "vendor_address": "448 MITCHELL ROAD, MODESTO, CA 95354, FAX 2095291812",
+    "po_line_items": [
+      {
+        "description": "6\" UHMW SUPER FLO FLIGHT STOCK VISALIA CA APPROX. 1 WEEK",
+        "quantity": 150.0,
+        "net_price": 5.88
+      }
+    ],
+    "vat_amount": null,
+    "gl_account": null,
+    "bank_name": null,
+    "account_holder_name": null,
+    "banking_account_number": null,
+    "remit_to_address": null,
+    "bill_to_address": null,
+    "transaction_type": "debit"
+  },
+  "filename": "SAPS4_5100270055_US28_PFNAUS_2026_999935067.pdf",
+  "raw_response": {
+    "invoice_number": "CA15-00999461",
+    "invoice_date": "02/12/26",
+    "invoice_amount": null,
+    "invoice_currency": null,
+    "tax_amount": null,
+    "po_number": [
+      "4505106471"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "REMIT MOTION INDUSTRIES, INC.",
+    "vendor_address": "448 MITCHELL ROAD, MODESTO, CA 95354, FAX 2095291812",
+    "po_line_items": [
+      {
+        "description": "6\" UHMW SUPER FLO FLIGHT STOCK VISALIA CA APPROX. 1 WEEK",
+        "quantity": 150.0,
+        "net_price": 5.88
+      }
+    ]
+  }
+}

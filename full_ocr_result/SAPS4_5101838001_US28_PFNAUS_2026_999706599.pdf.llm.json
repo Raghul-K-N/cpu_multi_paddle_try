@@ -1,0 +1,79 @@
+{
+  "invoice_data": {
+    "invoice_number": "980258720526",
+    "invoice_date": "Tuesday 10 Feb 2026 3:13 AM GMT-07:00",
+    "invoice_amount": "566.42",
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": "43.18",
+    "po_number": [
+      "M413548731"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "Grainger",
+    "vendor_address": "100 Grainger Pkwy, Lake Forest, IL, Winst, United States, 27105, United States",
+    "po_line_items": [
+      {
+        "description": "5GTH8 / Topical Pain Gel,16 oz",
+        "quantity": 6.0,
+        "net_price": 72.74
+      },
+      {
+        "description": "48GR75 / Carabiner, Aluminum, 2 in L, PK4",
+        "quantity": 5.0,
+        "net_price": 8.72
+      },
+      {
+        "description": "3HJT9 / Wrist Coil,Blue,6 1/2 in H,PK5",
+        "quantity": 5.0,
+        "net_price": 8.64
+      }
+    ],
+    "vat_amount": null,
+    "gl_account": null,
+    "bank_name": null,
+    "account_holder_name": null,
+    "banking_account_number": null,
+    "remit_to_address": null,
+    "bill_to_address": null,
+    "transaction_type": "debit"
+  },
+  "filename": "SAPS4_5101838001_US28_PFNAUS_2026_999706599.pdf",
+  "raw_response": {
+    "invoice_number": "980258720526",
+    "invoice_date": "Tuesday 10 Feb 2026 3:13 AM GMT-07:00",
+    "invoice_amount": "566.42",
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": "43.18",
+    "po_number": [
+      "M413548731"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "Grainger",
+    "vendor_address": "100 Grainger Pkwy, Lake Forest, IL, Winst, United States, 27105, United States",
+    "po_line_items": [
+      {
+        "description": "5GTH8 / Topical Pain Gel,16 oz",
+        "quantity": 6.0,
+        "net_price": 72.74
+      },
+      {
+        "description": "48GR75 / Carabiner, Aluminum, 2 in L, PK4",
+        "quantity": 5.0,
+        "net_price": 8.72
+      },
+      {
+        "description": "3HJT9 / Wrist Coil,Blue,6 1/2 in H,PK5",
+        "quantity": 5.0,
+        "net_price": 8.64
+      }
+    ]
+  }
+}

@@ -1,0 +1,59 @@
+{
+  "invoice_data": {
+    "invoice_number": "639200735",
+    "invoice_date": "01/26/2026",
+    "invoice_amount": null,
+    "invoice_currency": [
+      "CAD"
+    ],
+    "tax_amount": null,
+    "po_number": [
+      "M413472525"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "Mettler-Toledo Inc.",
+    "vendor_address": "Mettler-Toledo Inc. Mississauga, ON L5N 8G6",
+    "po_line_items": [
+      {
+        "description": "Electrolyte KNO3 1M 25 mL Bottle",
+        "quantity": 25.0,
+        "net_price": 30.01
+      }
+    ],
+    "vat_amount": null,
+    "gl_account": null,
+    "bank_name": null,
+    "account_holder_name": null,
+    "banking_account_number": null,
+    "remit_to_address": null,
+    "bill_to_address": null,
+    "transaction_type": "debit"
+  },
+  "filename": "SAPS4_5101586500_CA11_PFNACA_2026_304654716.pdf",
+  "raw_response": {
+    "invoice_number": "639200735",
+    "invoice_date": "01/26/2026",
+    "invoice_amount": null,
+    "invoice_currency": [
+      "CAD"
+    ],
+    "tax_amount": null,
+    "po_number": [
+      "M413472525"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "Mettler-Toledo Inc.",
+    "vendor_address": "Mettler-Toledo Inc. Mississauga, ON L5N 8G6",
+    "po_line_items": [
+      {
+        "description": "Electrolyte KNO3 1M 25 mL Bottle",
+        "quantity": 25.0,
+        "net_price": 30.01
+      }
+    ]
+  }
+}

@@ -1,0 +1,59 @@
+{
+  "invoice_data": {
+    "invoice_number": "564091P",
+    "invoice_date": "2/10/2026",
+    "invoice_amount": "106.95",
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": "6.39",
+    "po_number": [
+      "23573370"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "Dario Diesel Service (5125D)",
+    "vendor_address": "182 Southwest Cutoff, Worcester, MA 01604",
+    "po_line_items": [
+      {
+        "description": "HOSE",
+        "quantity": 1.0,
+        "net_price": 100.56
+      }
+    ],
+    "vat_amount": null,
+    "gl_account": null,
+    "bank_name": null,
+    "account_holder_name": null,
+    "banking_account_number": null,
+    "remit_to_address": null,
+    "bill_to_address": null,
+    "transaction_type": "debit"
+  },
+  "filename": "SAPS4_5100004517_US30_PFNAUS_2026_999884942.pdf",
+  "raw_response": {
+    "invoice_number": "564091P",
+    "invoice_date": "2/10/2026",
+    "invoice_amount": "106.95",
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": "6.39",
+    "po_number": [
+      "23573370"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "Dario Diesel Service (5125D)",
+    "vendor_address": "182 Southwest Cutoff, Worcester, MA 01604",
+    "po_line_items": [
+      {
+        "description": "HOSE",
+        "quantity": 1.0,
+        "net_price": 100.56
+      }
+    ]
+  }
+}

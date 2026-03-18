@@ -1,0 +1,210 @@
+==================================<Page 1 - START>================================
+      OpenText Workflow History
+      Vendor
+      OVERSEAS SERVICE CORP
+      OSC WEBCO
+      1100 NORTHPOINT PKWY
+      STE 200
+      WEST PALM BEACH FL
+                           33407
+      USA
+      Invoice
+      Reference
+                        219867
+                                                                  Document Date    02.02.2026
+      DP Document No.  39232949
+                                                                  Net Amount
+                                                                                   USD         31,103.02
+     Comp. Code       US29 Rolling Frito-Lay Sales
+                                                                  Tax Amount       USD
+                                                                                                      0.00
+     Posting Date     13.02.2026
+                                                                  Gross Amount     USD         31,103.02
+     SAP Document No. 1901864503 2026
+                                             Pre-Process History
+      ACTIVITY
+                                                            USER       END TIME          DOCUMENT STATUS
+      Update status
+                                                             VRBLAOT_U  03.02.2026       Validation
+                                                             SR         14:54:35
+                                                                                           Complete
+                                         Document Process History
+     ACTIVITY          PROCESS TYPE/BLOCK REASON
+                                                            USER        END TIME          DOCUMENT STATUS
+     BC Inbound
+                                                            VRBLAOT_U  03.02.2026       Document
+                                                                         14:52:36
+                                                            SR                            Registered
+    Workflow Start
+                       Invalid Requestor ID (NPO)          Record to  03.02.2026       Created
+                                                            Report      14:54:35
+                                                            Batch
+                                                            Account
+                                                            Owner:
+   Apply Business
+                      Invalid Requestor ID (NPO)          NAVINKUMA   11.02.2026        Created
+  Rules
+                                                            RR         18:41:22
+  Comment:
+  Changed By:   NAVINKUMAR R (09336939)
+ Changed On:   02/11/2026 18:41:19
+ ********************************************************************
+Please approve the non po invoice
+Business Rules    Approval Required (NPo)             SAP_WFRT    11.02.2026
+                                                                                            Indexed
+Check in BG                                                           18:41:27
+   Invoice submitted for Approval                                    11.02.2026 18:41:28
+  Financial Information Entered
+                                                            ZACH        12.02.2026 15:15:49
+                                                            EBERHART
+  Data Entered and Invoice Approved                    ZACH        12.02.2026 15:15:52
+                                                            EBERHART
+  Invoice Approved                                      DONALD      12.02.2026 15:23:14
+                                                            PEDEN
+Approval          Approval Required (NPO)             SAP_WFRT    12.02.2026        Approval
+Workflow                                                               15:23:20          Complete
+==================================<Page 1 - END>================================
+==================================<Page 2 - START>================================
+   OpenText Workflow History
+   Invoice
+                      OVERSEAS SERVICE CORP WEST PALM BEACH
+   Vendor
+                                                           Gross Amount     USD       31,103.02
+   Reference         219867
+                                Document Process History - Continuation
+    ACTIVITY          PROCESS TYPE/BLOCK REASON           USER        END TIME          DOCUMENT STATUS
+                       Process Non-PO Invoice (NPO)        SAP_WFRT   12.02.2026        Approval
+    Business Rules
+    Check in BG                                                        15:23:22          Complete
+                                                                                            Sent for Doc
+    Create Doc. BG   Process Non-PO Invoice (NPO)        SAP_WFRT    12.02.2026
+                                                                         15:23:23          Creation
+   Post Non-PO      Process Non-Po Invoice (NPo)        BOOBALAN    13.02.2026        Document
+                                                            BALAJI      13:14:33          Created
+   Invoice
+                                                            SAP_WFRT   13.02.2026        Posted
+   SAP Document
+   Check                                                               13:14:41
+==================================<Page 2 - END>================================
+==================================<Page 3 - START>================================
+        PEPSICO
+  Instructions:When there is not an "Ojficial" Invoice to request payment, complete the information on this form.
+  1You must fill in all of the fields below and the form must be accompanied with supporting documentation.
+  2.Save submission as 1 single PDF file prior to submitting to nassapinvoicesubmission@pepsico.com
+ The form can be used for the following invoice/payment type activity: Taxes/Legal Settlements/Business Licenses/Fines/Donation/sponsorship.
+             SAP Payment Request
+                                                                       To be filled by Requestor
+        Substitute Invoice Form
+Vendor Type                                       S4
+Vendor Name:                                      OVERSEAS SERVICES CORPORATION
+Vendor Number:                                    2003206636
+Company Code:                                     US29
+Remit To Address :
+                                                  OVERSEAS SERVICES CORPORATION
+(Must match the address in the AP system)                   1100 NORTHPOINT PARKWAY
+                                                  WEST PALM BEACH, FL 33407
+Special Handling needed:
+Attn:
+Address:
+Overnight delivery required:
+(if yes provide account # or CC below)
+FedEx or UPS, & Provide Number:
+FedEx or UPS account #
+Cost Center (If No FedEx/UPs Number):
+Trnsaction type:
+                                                  Invoice
+Choose only 1 option - Invoice or Credit Memo from the dropdown
+Invoice Date:                                      2/2/2026
+Invoice #:
+                                                 219867
+Limited to 16 characters
+Purchase Order #
+Not required if non-PO
+                                                 $31,103.02
+Payment GROsS Amount:
+Tax Amount
+(if applicable)
+Payment NET Amount:                                $31,103.02
+Currency (USD or CAD)                                USD
+Header Text:                                       Period 1 Exchange Commissions
+                                                  ZACH EBERHART
+Requestor Name:
+                                                 zach.eberhart@pepsico.com/80064132
+Requestor email
+                                                 DEAN PEDEN
+1st Level Approver Name
+                                                 Dean.Peden@pepsico.com/03190154
+1st Level Approver Email id/GPID
+                                                 2/2/2026
+Date Requested:
+                                                 645000
+GL Coding (6 digits)
+                                                 2358300400
+Cost Center (if applicable)
+Profit Center (if applicable)
+WBS Element (if applicable)
+For Assistance On This Form submission please contact:
+                                                 PepsiCo - Sign In
+Raise service now ticket(Snow)
+==================================<Page 3 - END>================================
+==================================<Page 4 - START>================================
+                                                                                          Invoice
+                                      Remit To:
+                                                                                Date:         02-Feb-2026
+                                      Overseas Services Corporation or OSC-WEBCO
+                                                                                Invoice No.:    219867
+                                      1100 Northpoint Parkway
+                                                                                Customer ID:   C000038
+                                      West Palm Beach, FL 33407
+ BILL TO:
+                                                             Invoice Description: Period 1 Exchange Commissions
+  P.O. #
+ Frito Lay
+  7701 LEGACY DR. 2A-240C
+ PLANO TX 75024
+ United States of America
+  PO Number
+                               Shipped By            TERMS                Ext Ref Nbr            Our Order Nbr
+                                                    NET 90 DAYS
+                                   IDescription                                    Qty Shipped
+                                                                                               Unit Price  Extended Price
+Period 1 Exchange Commissions
+                                                                                       0.00       0.0000      31,103.02
+NOTE:
+                                                                                       TOTAL               $31,103.02
+       Overseas Service Corporation is an equal opportunity employer
+                                                                                                              Page: 1 of 1
+       EXECUTIVE ORDER 13201 IS INCORPORATED BY REFERENCE
+==================================<Page 4 - END>================================
+==================================<Page 5 - START>================================
+          From: SPA - PepsiCo Nass AP Invoice Submission <nassapInvoiceSubmission@pepsico.com>
+          Sent: Mon, 2 Feb 2026 20:14:21 (UTC)
+          To: svcimagingspaboxprod@pepsico.com
+          Subject: FW: OSCWEBCO Invoice 219867 P1 Exchange
+          Original Number of Attachments : 1
+          Original Attachment Names: OSCWEBCO 219867 Period 1 Exchange Comm.pdf
+          Number of forwarded PDF's: 1
+          Number of forwarded Non PDF files: 0
+          From: Snead, Jill - Contractor {FLNA} <Jill.Snead.Contractor@pepsico.com>
+          Sent: Monday, February 2, 2026 8:13:25 PM
+          To: SPA - PepsiCo Nass AP Invoice Submission <nassaplnvoiceSubmission@pepsico.com>
+          Cc: Peden, Dean {PEP} <Dean.Peden@pepsico.com>; Eberhart, Zach {PEP}
+           <Zach.Eberhart@pepsico.com>
+           Subject: OSCWEBCO Invoice 219867 P1 Exchange
+           Please process.
+           Payment NET Amount: $31,103.02
+           Currency (USD or CAD) USD
+           Header Text: Period 1 Exchange Commissions
+           Requestor Name: ZACH EBERHART
+          Requestor email zach.eberhart@pepsico.com/80064132
+          1st Level Approver Name DEAN PEDEN
+          1st Level Approver Email id/GPID Dean.Peden@pepsico.com/03190154
+          Date Requested: 2/2/2026
+          GL Coding (6 digits) 645000
+          Cost Center (If applicable) 2358300400
+          Kind regards,
+          Jill
+          Jill Snead-Williams
+          Frito-Lay Contractor
+          214-695-1166
+==================================<Page 5 - END>================================

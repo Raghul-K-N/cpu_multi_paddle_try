@@ -1,0 +1,109 @@
+{
+  "invoice_data": {
+    "invoice_number": "906",
+    "invoice_date": "2025-10-31",
+    "invoice_amount": null,
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": null,
+    "po_number": [
+      "4503973779"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "MAJESTIC DIGITAL",
+    "vendor_address": "MAJESTIC 205 - 692 Queen St. E., Toronto, Ontario M4M 1G9",
+    "po_line_items": [
+      {
+        "description": "Service",
+        "quantity": null,
+        "net_price": 7500.0
+      },
+      {
+        "description": "Design",
+        "quantity": null,
+        "net_price": 40000.0
+      },
+      {
+        "description": "Development",
+        "quantity": null,
+        "net_price": 40000.0
+      },
+      {
+        "description": "Project Management",
+        "quantity": null,
+        "net_price": 15000.0
+      },
+      {
+        "description": "QA",
+        "quantity": null,
+        "net_price": 2500.0
+      },
+      {
+        "description": "Account Management",
+        "quantity": null,
+        "net_price": 2500.0
+      }
+    ],
+    "vat_amount": null,
+    "gl_account": null,
+    "bank_name": null,
+    "account_holder_name": null,
+    "banking_account_number": null,
+    "remit_to_address": null,
+    "bill_to_address": null,
+    "transaction_type": "debit"
+  },
+  "filename": "SAPS4_5100264000_US27_PFNAUS_2026_999762522.pdf",
+  "raw_response": {
+    "invoice_number": "906",
+    "invoice_date": "2025-10-31",
+    "invoice_amount": "../../../../75000.00",
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": null,
+    "po_number": [
+      "4503973779"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "MAJESTIC DIGITAL",
+    "vendor_address": "MAJESTIC 205 - 692 Queen St. E., Toronto, Ontario M4M 1G9",
+    "po_line_items": [
+      {
+        "description": "Service",
+        "quantity": null,
+        "net_price": 7500.0
+      },
+      {
+        "description": "Design",
+        "quantity": null,
+        "net_price": 40000.0
+      },
+      {
+        "description": "Development",
+        "quantity": null,
+        "net_price": 40000.0
+      },
+      {
+        "description": "Project Management",
+        "quantity": null,
+        "net_price": 15000.0
+      },
+      {
+        "description": "QA",
+        "quantity": null,
+        "net_price": 2500.0
+      },
+      {
+        "description": "Account Management",
+        "quantity": null,
+        "net_price": 2500.0
+      }
+    ]
+  }
+}

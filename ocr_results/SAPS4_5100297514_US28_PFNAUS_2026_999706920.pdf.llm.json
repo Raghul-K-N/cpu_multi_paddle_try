@@ -1,0 +1,79 @@
+{
+  "invoice_data": {
+    "invoice_number": "116871390",
+    "invoice_date": "8/15/2025",
+    "invoice_amount": "203.34",
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": "15.50",
+    "po_number": [
+      "4503211718"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "Crown Equipment Corporation",
+    "vendor_address": "44 S. Washington St., New Bremen, OH 45869",
+    "po_line_items": [
+      {
+        "description": "Load Wheel Assy:W/String Guards",
+        "quantity": 2.0,
+        "net_price": 105.42
+      },
+      {
+        "description": "Roll Pin",
+        "quantity": 2.0,
+        "net_price": 3.54
+      },
+      {
+        "description": "Axle",
+        "quantity": 2.0,
+        "net_price": 78.88
+      }
+    ],
+    "vat_amount": null,
+    "gl_account": null,
+    "bank_name": null,
+    "account_holder_name": null,
+    "banking_account_number": null,
+    "remit_to_address": null,
+    "bill_to_address": null,
+    "transaction_type": "debit"
+  },
+  "filename": "SAPS4_5100297514_US28_PFNAUS_2026_999706920.pdf",
+  "raw_response": {
+    "invoice_number": "116871390",
+    "invoice_date": "8/15/2025",
+    "invoice_amount": "203.34",
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": "15.50",
+    "po_number": [
+      "4503211718"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "Crown Equipment Corporation",
+    "vendor_address": "44 S. Washington St., New Bremen, OH 45869",
+    "po_line_items": [
+      {
+        "description": "Load Wheel Assy:W/String Guards",
+        "quantity": 2.0,
+        "net_price": 105.42
+      },
+      {
+        "description": "Roll Pin",
+        "quantity": 2.0,
+        "net_price": 3.54
+      },
+      {
+        "description": "Axle",
+        "quantity": 2.0,
+        "net_price": 78.88
+      }
+    ]
+  }
+}

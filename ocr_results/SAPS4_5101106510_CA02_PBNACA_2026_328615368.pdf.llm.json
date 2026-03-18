@@ -1,0 +1,47 @@
+{
+  "invoice_data": {
+    "invoice_number": "260064408",
+    "invoice_date": "January 31, 2026",
+    "invoice_amount": "2005.75",
+    "invoice_currency": [
+      "CAD"
+    ],
+    "tax_amount": "230.75",
+    "po_number": [
+      "M412805756"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "Dentons Canada LLP",
+    "vendor_address": "77 King Street West, Suite 400, Toronto ON M5K 0A1 CANADA",
+    "po_line_items": null,
+    "vat_amount": null,
+    "gl_account": null,
+    "bank_name": null,
+    "account_holder_name": null,
+    "banking_account_number": null,
+    "remit_to_address": null,
+    "bill_to_address": null,
+    "transaction_type": "debit"
+  },
+  "filename": "SAPS4_5101106510_CA02_PBNACA_2026_328615368.pdf",
+  "raw_response": {
+    "invoice_number": "260064408",
+    "invoice_date": "January 31, 2026",
+    "invoice_amount": "2005.75",
+    "invoice_currency": [
+      "CAD"
+    ],
+    "tax_amount": "230.75",
+    "po_number": [
+      "M412805756"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "Dentons Canada LLP",
+    "vendor_address": "77 King Street West, Suite 400, Toronto ON M5K 0A1 CANADA",
+    "po_line_items": null
+  }
+}

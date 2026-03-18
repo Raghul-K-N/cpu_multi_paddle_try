@@ -1,0 +1,59 @@
+{
+  "invoice_data": {
+    "invoice_number": "980564250226",
+    "invoice_date": "Thursday 12 Feb 2026 5:26 AM GMT-07:00",
+    "invoice_amount": "67.71",
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": null,
+    "po_number": [
+      "M413553816"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "Grainger",
+    "vendor_address": "100 Grainger Pkwy, Lake Forest, IL, United States\n27105, United States",
+    "po_line_items": [
+      {
+        "description": "1PHJ2 / Toilet Paper Roll,Cont,Wt,12798.PK8",
+        "quantity": 2.0,
+        "net_price": 32.09
+      }
+    ],
+    "vat_amount": null,
+    "gl_account": null,
+    "bank_name": null,
+    "account_holder_name": null,
+    "banking_account_number": null,
+    "remit_to_address": null,
+    "bill_to_address": null,
+    "transaction_type": "debit"
+  },
+  "filename": "SAPS4_5100004561_US28_PFNAUS_2026_999872643.pdf",
+  "raw_response": {
+    "invoice_number": "980564250226",
+    "invoice_date": "Thursday 12 Feb 2026 5:26 AM GMT-07:00",
+    "invoice_amount": "67.71",
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": null,
+    "po_number": [
+      "M413553816"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "Grainger",
+    "vendor_address": "100 Grainger Pkwy, Lake Forest, IL, United States\n27105, United States",
+    "po_line_items": [
+      {
+        "description": "1PHJ2 / Toilet Paper Roll,Cont,Wt,12798.PK8",
+        "quantity": 2.0,
+        "net_price": 32.09
+      }
+    ]
+  }
+}

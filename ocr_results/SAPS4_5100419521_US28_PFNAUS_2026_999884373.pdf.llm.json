@@ -1,0 +1,59 @@
+{
+  "invoice_data": {
+    "invoice_number": "272077",
+    "invoice_date": "Aug 22,2025",
+    "invoice_amount": "391.68",
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": "31.68",
+    "po_number": [
+      "4503452325"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "Metro Overhead Door",
+    "vendor_address": "2525 NE Columbia Blvd., Portland, OR 97211",
+    "po_line_items": [
+      {
+        "description": "07/10 - 1 Man 2 Hours - $360.00",
+        "quantity": 1.0,
+        "net_price": 360.0
+      }
+    ],
+    "vat_amount": null,
+    "gl_account": null,
+    "bank_name": null,
+    "account_holder_name": null,
+    "banking_account_number": null,
+    "remit_to_address": null,
+    "bill_to_address": null,
+    "transaction_type": "debit"
+  },
+  "filename": "SAPS4_5100419521_US28_PFNAUS_2026_999884373.pdf",
+  "raw_response": {
+    "invoice_number": "272077",
+    "invoice_date": "Aug 22,2025",
+    "invoice_amount": "391.68",
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": "31.68",
+    "po_number": [
+      "4503452325"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "Metro Overhead Door",
+    "vendor_address": "2525 NE Columbia Blvd., Portland, OR 97211",
+    "po_line_items": [
+      {
+        "description": "07/10 - 1 Man 2 Hours - $360.00",
+        "quantity": 1.0,
+        "net_price": 360.0
+      }
+    ]
+  }
+}

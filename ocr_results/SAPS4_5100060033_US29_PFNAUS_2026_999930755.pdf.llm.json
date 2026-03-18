@@ -1,0 +1,59 @@
+{
+  "invoice_data": {
+    "invoice_number": "455496481002",
+    "invoice_date": "Friday 13 Feb 2026 12:00 PM GMT-05:00",
+    "invoice_amount": "958.87",
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": "81.19",
+    "po_number": [
+      "M413489475"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "ODP BUSINESS SOLUTIONS, LLC",
+    "vendor_address": "ODP BUSINESS SOLUTIONS, LLC, 6600 North Military Trail, Boca Raton, FL 33496, United States, 956915902, US-DC-SACRAMENTO 2-CA-",
+    "po_line_items": [
+      {
+        "description": "Material 824531 / SNAPAK HLDR 5 2/3X9 1/2",
+        "quantity": 53.0,
+        "net_price": 16.56
+      }
+    ],
+    "vat_amount": null,
+    "gl_account": null,
+    "bank_name": null,
+    "account_holder_name": null,
+    "banking_account_number": null,
+    "remit_to_address": null,
+    "bill_to_address": null,
+    "transaction_type": "debit"
+  },
+  "filename": "SAPS4_5100060033_US29_PFNAUS_2026_999930755.pdf",
+  "raw_response": {
+    "invoice_number": "455496481002",
+    "invoice_date": "Friday 13 Feb 2026 12:00 PM GMT-05:00",
+    "invoice_amount": "958.87",
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": "81.19",
+    "po_number": [
+      "M413489475"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "ODP BUSINESS SOLUTIONS, LLC",
+    "vendor_address": "ODP BUSINESS SOLUTIONS, LLC, 6600 North Military Trail, Boca Raton, FL 33496, United States, 956915902, US-DC-SACRAMENTO 2-CA-",
+    "po_line_items": [
+      {
+        "description": "Material 824531 / SNAPAK HLDR 5 2/3X9 1/2",
+        "quantity": 53.0,
+        "net_price": 16.56
+      }
+    ]
+  }
+}

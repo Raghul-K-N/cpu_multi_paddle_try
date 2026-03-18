@@ -1,0 +1,101 @@
+{
+  "invoice_data": {
+    "invoice_number": "P001P00124",
+    "invoice_date": "01/13/26",
+    "invoice_amount": "445.13",
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": "29.12",
+    "po_number": [
+      "23564711",
+      "00102"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": "176.41",
+    "cost_center": null,
+    "vendor_name": "IMPERIAL SUPPLIES LLC",
+    "vendor_address": "JANESVILLE,WI 53547-5362",
+    "po_line_items": [
+      {
+        "description": "3872 ZEPWALL FLATTOP DISPENS VENTURE 2",
+        "quantity": 1.0,
+        "net_price": 74.32
+      },
+      {
+        "description": "5125-4 SAFETYGLASS CLNR EASY SCRUB",
+        "quantity": 4.0,
+        "net_price": 32.4
+      },
+      {
+        "description": "7384 ZEPHND SHEET INCLUDED(REV 02/15/2018) SDS",
+        "quantity": 1.0,
+        "net_price": 13.87
+      },
+      {
+        "description": "7396 ZEPMVPLIQ WTRLESSHAND",
+        "quantity": 12.0,
+        "net_price": 13.87
+      },
+      {
+        "description": "82226 HAND AND NAIL BRUSH",
+        "quantity": 2.0,
+        "net_price": 1.76
+      }
+    ],
+    "vat_amount": null,
+    "gl_account": null,
+    "bank_name": null,
+    "account_holder_name": null,
+    "banking_account_number": null,
+    "remit_to_address": null,
+    "bill_to_address": null,
+    "transaction_type": "debit"
+  },
+  "filename": "SAPS4_5101504000_US29_PFNAUS_2026_999884903.pdf",
+  "raw_response": {
+    "invoice_number": "P001P00124",
+    "invoice_date": "01/13/26",
+    "invoice_amount": "445.13",
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": "29.12",
+    "po_number": [
+      "23564711",
+      "00102"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": "176.41",
+    "cost_center": null,
+    "vendor_name": "IMPERIAL SUPPLIES LLC",
+    "vendor_address": "JANESVILLE,WI 53547-5362",
+    "po_line_items": [
+      {
+        "description": "3872 ZEPWALL FLATTOP DISPENS VENTURE 2",
+        "quantity": 1.0,
+        "net_price": 74.32
+      },
+      {
+        "description": "5125-4 SAFETYGLASS CLNR EASY SCRUB",
+        "quantity": 4.0,
+        "net_price": 32.4
+      },
+      {
+        "description": "7384 ZEPHND SHEET INCLUDED(REV 02/15/2018) SDS",
+        "quantity": 1.0,
+        "net_price": 13.87
+      },
+      {
+        "description": "7396 ZEPMVPLIQ WTRLESSHAND",
+        "quantity": 12.0,
+        "net_price": 13.87
+      },
+      {
+        "description": "82226 HAND AND NAIL BRUSH",
+        "quantity": 2.0,
+        "net_price": 1.76
+      }
+    ]
+  }
+}

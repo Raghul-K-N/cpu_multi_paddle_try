@@ -1,0 +1,69 @@
+{
+  "invoice_data": {
+    "invoice_number": "2806313",
+    "invoice_date": "February 3, 2026",
+    "invoice_amount": "24.24",
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": "2.16",
+    "po_number": [
+      "4504896499"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "supplyFORCE",
+    "vendor_address": "700 American Avenue, St 300, KING OF PRUSSIA PA 19406-1434, 866-776-8289 Fax 484-322-7100, EIN # 23-3017555, GST # 86567 2521, QST # 1212529181",
+    "po_line_items": [
+      {
+        "description": "A-B; 800F-X10; 22 mm Contact Block",
+        "quantity": 2.0,
+        "net_price": 22.08
+      },
+      {
+        "description": "BLOCK:CONT;22.5MM,1NO,600",
+        "quantity": 1.0,
+        "net_price": 22.08
+      }
+    ],
+    "vat_amount": null,
+    "gl_account": null,
+    "bank_name": null,
+    "account_holder_name": null,
+    "banking_account_number": null,
+    "remit_to_address": null,
+    "bill_to_address": null,
+    "transaction_type": "debit"
+  },
+  "filename": "SAPS4_5100418521_US28_PFNAUS_2026_999935022.pdf",
+  "raw_response": {
+    "invoice_number": "2806313",
+    "invoice_date": "February 3, 2026",
+    "invoice_amount": "24.24",
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": "2.16",
+    "po_number": [
+      "4504896499"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "supplyFORCE",
+    "vendor_address": "700 American Avenue, St 300, KING OF PRUSSIA PA 19406-1434, 866-776-8289 Fax 484-322-7100, EIN # 23-3017555, GST # 86567 2521, QST # 1212529181",
+    "po_line_items": [
+      {
+        "description": "A-B; 800F-X10; 22 mm Contact Block",
+        "quantity": 2.0,
+        "net_price": 22.08
+      },
+      {
+        "description": "BLOCK:CONT;22.5MM,1NO,600",
+        "quantity": 1.0,
+        "net_price": 22.08
+      }
+    ]
+  }
+}

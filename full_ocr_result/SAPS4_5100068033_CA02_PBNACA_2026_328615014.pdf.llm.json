@@ -1,0 +1,99 @@
+{
+  "invoice_data": {
+    "invoice_number": "122356",
+    "invoice_date": "1/8/26",
+    "invoice_amount": null,
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": null,
+    "po_number": [
+      "4504625610"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "U.S. Bottlers Machinery Company",
+    "vendor_address": "US 11911 Steele Creek Road, Charlotte, NC 28273",
+    "po_line_items": [
+      {
+        "description": "PIN -SPRING- 3/16\" OD X 1-1/2\" L 18-8",
+        "quantity": 20.0,
+        "net_price": 1.66
+      },
+      {
+        "description": "SPACER - BEARING - CAM FOLLOWE",
+        "quantity": 5.0,
+        "net_price": 23.8
+      },
+      {
+        "description": "SPACER - BEARING - LOWER SHAFT",
+        "quantity": 5.0,
+        "net_price": 32.51
+      },
+      {
+        "description": "BUSHING- CAM FOLLOWER - HC CAP",
+        "quantity": 20.0,
+        "net_price": 25.7
+      },
+      {
+        "description": "FREIGHT AND HANDLING CHARGES",
+        "quantity": 1.0,
+        "net_price": 0.0
+      }
+    ],
+    "vat_amount": null,
+    "gl_account": null,
+    "bank_name": null,
+    "account_holder_name": null,
+    "banking_account_number": null,
+    "remit_to_address": null,
+    "bill_to_address": null,
+    "transaction_type": "debit"
+  },
+  "filename": "SAPS4_5100068033_CA02_PBNACA_2026_328615014.pdf",
+  "raw_response": {
+    "invoice_number": "122356",
+    "invoice_date": "1/8/26",
+    "invoice_amount": "../../../../73596.95",
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": null,
+    "po_number": [
+      "4504625610"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "U.S. Bottlers Machinery Company",
+    "vendor_address": "US 11911 Steele Creek Road, Charlotte, NC 28273",
+    "po_line_items": [
+      {
+        "description": "PIN -SPRING- 3/16\" OD X 1-1/2\" L 18-8",
+        "quantity": 20.0,
+        "net_price": 1.66
+      },
+      {
+        "description": "SPACER - BEARING - CAM FOLLOWE",
+        "quantity": 5.0,
+        "net_price": 23.8
+      },
+      {
+        "description": "SPACER - BEARING - LOWER SHAFT",
+        "quantity": 5.0,
+        "net_price": 32.51
+      },
+      {
+        "description": "BUSHING- CAM FOLLOWER - HC CAP",
+        "quantity": 20.0,
+        "net_price": 25.7
+      },
+      {
+        "description": "FREIGHT AND HANDLING CHARGES",
+        "quantity": 1.0,
+        "net_price": 0.0
+      }
+    ]
+  }
+}

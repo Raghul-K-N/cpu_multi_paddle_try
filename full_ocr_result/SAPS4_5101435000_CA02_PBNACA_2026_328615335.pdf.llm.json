@@ -1,0 +1,81 @@
+{
+  "invoice_data": {
+    "invoice_number": "321979864",
+    "invoice_date": "02/03/2026",
+    "invoice_amount": "40465.33",
+    "invoice_currency": [
+      "CAD"
+    ],
+    "tax_amount": "4655.30",
+    "po_number": [
+      "4505086182",
+      "4357897"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "KRONES INC.",
+    "vendor_address": "9600 South 58th Street, P.O. Box 321801, Franklin,WI 53132-6241",
+    "po_line_items": [
+      {
+        "description": "GYLD ring RG 12x17.8x2.85 PTFE",
+        "quantity": 200.0,
+        "net_price": 6.81
+      },
+      {
+        "description": "Shaft seal BA 105x125x12 NBR",
+        "quantity": 2.0,
+        "net_price": 26.59
+      },
+      {
+        "description": "VALVE STEM",
+        "quantity": 15.0,
+        "net_price": 2292.99
+      }
+    ],
+    "vat_amount": null,
+    "gl_account": null,
+    "bank_name": null,
+    "account_holder_name": null,
+    "banking_account_number": null,
+    "remit_to_address": null,
+    "bill_to_address": null,
+    "transaction_type": "debit"
+  },
+  "filename": "SAPS4_5101435000_CA02_PBNACA_2026_328615335.pdf",
+  "raw_response": {
+    "invoice_number": "321979864",
+    "invoice_date": "02/03/2026",
+    "invoice_amount": "40465.33",
+    "invoice_currency": [
+      "CAD"
+    ],
+    "tax_amount": "4655.30",
+    "po_number": [
+      "4505086182",
+      "4357897"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "KRONES INC.",
+    "vendor_address": "9600 South 58th Street, P.O. Box 321801, Franklin,WI 53132-6241",
+    "po_line_items": [
+      {
+        "description": "GYLD ring RG 12x17.8x2.85 PTFE",
+        "quantity": 200.0,
+        "net_price": 6.81
+      },
+      {
+        "description": "Shaft seal BA 105x125x12 NBR",
+        "quantity": 2.0,
+        "net_price": 26.59
+      },
+      {
+        "description": "VALVE STEM",
+        "quantity": 15.0,
+        "net_price": 2292.99
+      }
+    ]
+  }
+}

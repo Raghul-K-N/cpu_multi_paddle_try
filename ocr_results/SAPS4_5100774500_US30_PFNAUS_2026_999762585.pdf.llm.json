@@ -1,0 +1,79 @@
+{
+  "invoice_data": {
+    "invoice_number": "00193",
+    "invoice_date": "1/20/2026",
+    "invoice_amount": null,
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": "528.19",
+    "po_number": [
+      "M413533254"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "Conser Run Excavating LLC",
+    "vendor_address": "9163 Rochester Rd, E Rochester, OH 44625",
+    "po_line_items": [
+      {
+        "description": "Lot Clearing of driveway and paved surfaces",
+        "quantity": 0.5,
+        "net_price": 732.0
+      },
+      {
+        "description": "Deicing of driveway and paved surfaces",
+        "quantity": 12.0,
+        "net_price": 630.0
+      },
+      {
+        "description": "Deicing of sidewalks at traffic center as requested",
+        "quantity": 4.0,
+        "net_price": 50.0
+      }
+    ],
+    "vat_amount": null,
+    "gl_account": null,
+    "bank_name": null,
+    "account_holder_name": null,
+    "banking_account_number": null,
+    "remit_to_address": null,
+    "bill_to_address": null,
+    "transaction_type": "debit"
+  },
+  "filename": "SAPS4_5100774500_US30_PFNAUS_2026_999762585.pdf",
+  "raw_response": {
+    "invoice_number": "00193",
+    "invoice_date": "1/20/2026",
+    "invoice_amount": "../../../8654.19",
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": "528.19",
+    "po_number": [
+      "M413533254"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "Conser Run Excavating LLC",
+    "vendor_address": "9163 Rochester Rd, E Rochester, OH 44625",
+    "po_line_items": [
+      {
+        "description": "Lot Clearing of driveway and paved surfaces",
+        "quantity": 0.5,
+        "net_price": 732.0
+      },
+      {
+        "description": "Deicing of driveway and paved surfaces",
+        "quantity": 12.0,
+        "net_price": 630.0
+      },
+      {
+        "description": "Deicing of sidewalks at traffic center as requested",
+        "quantity": 4.0,
+        "net_price": 50.0
+      }
+    ]
+  }
+}

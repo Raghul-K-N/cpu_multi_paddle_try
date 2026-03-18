@@ -1,0 +1,258 @@
+==================================<Page 1 - START>================================
+Standard Invoice
+                                                                                                                     GRAINGR
+Original tax invoice has been submitted electronically. This is a
+human readable representation (copy) of the original tax invoice.
+                                                                 Invoice Number                                      980660150726
+                                                                 (Supplier Reference No.)
+                                                                                               Thursday 12 Feb 2026 2:55 AM GMT-07:00
+                                                                 Invoice Date
+                                                                 Amount Due                                          $190.33 USD
+    Contact Information                                                        Shipping Information
+    Supplier                      Customer
+                                                                           Ship From                      Ship To
+    Grainger                      Rolling Frito-Lay Sales                                                      FRITO LAY - SUMMIT MS
+                                                                          Grainger
+                                                                                                        BINS
+    100 Grainger Pkwy               c/o PEPSICO NASS                          201 FREEDOM DRIVE
+                                                                                                        JOEY.JACKSONJR@PEPSI
+    Lake Forest                    ACCOUNTS PAYABLES                       ROANOKE
+                                  PO BOX 1800                                                            3021 MAGEE RD
+    IL                                                                    TX
+    Winst
+                                 Winston Salem                              76262                         SUMMIT
+    United States                   NC                                      United States                    MS
+                                 27105                                                                 39666
+                                  United States                                                            United States
+                                                                                                        Phone: (972) 334-8804
+  Line Items
+                                                         PO No. : M413555365                                       PO Date : 12 Feb 2026
+  Line No.                              Supplier Part No. /                                                                      Subtotal
+             PO Line No.          Type                              Customer Part No.        Quantity            Unit Price
+                                       Description
+                                                                                       (UOM)
+   1        1                 Material 5JK50 / Knit Gloves,Beige,L,PR                          12 / (EA)           $0.53 USD       $6.36 USD
+   Line No.   PO Line No.         Type    Supplier Part No. /             Customer Part No.        Quantity            Unit Price         Subtotal
+                                       Description                                       (UOMI)
+   2        2                 Material 5JK51 / Knit Gloves,Beige,S                            12 / (EA)           $0.53 USD       $6.36 USD
+   Line No.    PO Line No.         Type   Supplier Part No. /             Customer Part No.        Quantity            Unit Price         Subtotal
+                                       Description                                       (UOM)
+                                                                                                       $19.33 USD      $19.33 USD
+   3        3                 Material 49H369 / FirstAidKit w/                                1 / (EA)
+                                       House,64pcs,2.25x5.5,WHT
+                               Type    Supplier Part No. /                                                     Unit Price         Subtotal
+   Line No.    PO Line No.                                           Customer Part No.        Quantity
+                                       Description
+   4        4                 Material 1XEZ3 / Disinfecting Wipes,70                          1 / (EA)           $69.68 USD      $69.68 USD
+                                       ct,Canister,PK6
+   Line No.    PO Line No.         Type    Supplier Part No. /             Customer Part No.        Quantity            Unit Price         Subtotal
+                                       Description                                       (UOM)
+                                                                                                       $14.12 USD      $14.12 USD
+   5        5                 Material 36XX37 / Multi-Purpose Cleaner,1                        1 / (EA)
+                                       gal,Jug
+                                       Supplier Part No. /             Customer Part No.        Quantity            Unit Price         Subtotal
+   Line No.    PO Line No.         Type
+                                       Description                                       (UOM)
+                               Material 2TRN8 / Toilet Paper                                 1 / (EA)           $62.02 USD      $62.02 USD
+  6        6
+                                       Roll,550,Wt,18280/01,PK80
+                                                                              Amount Summary
+                                                                              Line item subtotal
+                                                                                                                      $177.87 USD
+                                                                              Gross amount                             $190.33 USD
+                                                                              Net amount                               $190.33 USD
+                                                                              Total tax amount                            $12.46 USD
+                                                                              Total withholding tax amount
+                                                                              Amount Due                              $190.33 USD
+    Additional Information
+    InvoiceSourceDocument
+    PurchaseOrder
+    InvoiceSubmissionMethod
+    cXML
+                                                                          Remittance Information
+    Billing Information
+   Bill To                                                                 Remit To
+                                                                          GRAINGER
+    Rolling Frito-Lay Sales
+                                                                          DEPT. 886127907
+   c/o PEPSICO NASS
+                                                                         KANSAS CITY
+   ACCOUNTS PAYABLES
+   PO BOX 1800                                                            MO
+   Winston Salem                                                           64141-6267
+   NC                                                                   United States
+   27105                                                                 Address ID: US1_10359
+   United States
+                                                                         Tax ID of Supplier
+   Address ID: US29
+                                                                         36-1150280
+                                                                     Reference Documents
+                                                                      Original Supplier Order #: 1576018384
+==================================<Page 1 - END>================================
+==================================<Page 2 - START>================================
+ Appendix
+ Line No.
+             PO Line No. Type                           Supplier Part No. / Description
+  1
+             1         Material
+                                                       5JK50 / Knit Gloves,Beige,L,PR
+ Additional Details:
+ Supplier Part ID : 5JK50
+ Supplier Part Auxiliary ID : WWG5JK50
+ Line No.    PO Line No. Type                           Supplier Part No. / Description
+ 2
+             2         Material                         5JK51 / Knit Gloves,Beige,S
+ Additional Details:
+ Supplier Part ID : 5JK51
+ Supplier Part Auxiliary ID : WWG5JK51
+ Line No.    PO Line No. Type                           Supplier Part No. / Description
+ 3          3         Material                         49H369 / FirstAidKit w/House,64pcs,2.25x5.5,WHT
+ Additional Details:
+ Supplier Part ID : 49H369
+ Supplier Part Auxiliary ID : WWG49H369
+ Line No.    PO Line No. Type                           Supplier Part No. / Description
+ 4          4         Material                         1XEZ3 / Disinfecting Wipes,70 ct,Canister,PK6
+ Additional Details:
+Supplier Part ID : 1XEZ3
+Supplier Part Auxiliary ID : WWG1XEZ3
+Line No.    PO Line No. Type                           Supplier Part No. / Description
+5         5         Material                         36XX37 / Multi-Purpose Cleaner,1 gal,Jug
+Additional Details:
+Supplier Part ID : 36XX37
+Supplier Part Auxiliary ID : WWG36XX37
+Line No.    PO Line No. Type                            Supplier Part No. / Description
+6         6         Material                         2TRN8 / Toilet Paper Roll,550,Wt,18280/01,PK80
+Additional Details:
+Supplier Part ID : 2TRN8
+Supplier Part Auxiliary ID : WWG2TRN8
+PDF generated on Friday 13 Feb 2026 1:13 AM GMT-08:00
+==================================<Page 2 - END>================================
+==================================<Page 3 - START>================================
+ Standard Invoice
+                                                                                                                      GRAINGR
+Original tax invoice has been submitted electronically. This is a
+human readable representation (copy) of the original tax invoice.
+                                                                  Invoice Number                                      980660150726
+                                                                  (Supplier Reference No.)
+                                                                                                Thursday 12 Feb 2026 2:55 AM GMT-07:00
+                                                                  Invoice Date
+                                                                  Amount Due                                          $190.33 USD
+     Contact Information                                                        Shipping Information
+     Supplier                      Customer
+                                                                            Ship From                      Ship To
+     Grainger                      Rolling Frito-Lay Sales                                                      FRITO LAY - SUMMIT MS
+                                                                           Grainger
+                                                                                                         BINS
+     100 Grainger Pkwy               c/o PEPSICO NASS                          201 FREEDOM DRIVE
+                                                                                                         JOEY.JACKSONJR@PEPSI
+     Lake Forest                    ACCOUNTS PAYABLES                       ROANOKE
+                                   PO BOX 1800                                                            3021 MAGEE RD
+      IL                                                                    TX
+     Winst
+                                  Winston Salem                              76262                         SUMMIT
+      United States                   NC                                      United States                    MS
+                                  27105                                                                 39666
+                                  United States                                                            United States
+                                                                                                        Phone: (972) 334-8804
+   Line Items
+                                                          PO No. : M413555365                                       PO Date : 12 Feb 2026
+   Line No.                              Supplier Part No. /                                                                      Subtotal
+              PO Line No.          Type                              Customer Part No.        Quantity            Unit Price
+                                        Description
+                                                                                        (UOM)
+    1        1                 Material 5JK50 / Knit Gloves,Beige,L,PR                          12 / (EA)           $0.53 USD       $6.36 USD
+    Line No.   PO Line No.         Type    Supplier Part No. /             Customer Part No.        Quantity            Unit Price         Subtotal
+                                        Description                                       (UOMI)
+    2        2                 Material 5JK51 / Knit Gloves,Beige,S                            12 / (EA)           $0.53 USD       $6.36 USD
+    Line No.    PO Line No.         Type   Supplier Part No. /             Customer Part No.        Quantity            Unit Price         Subtotal
+                                        Description                                       (UOM)
+                                                                                                        $19.33 USD      $19.33 USD
+    3        3                 Material 49H369 / FirstAidKit w/                                1 / (EA)
+                                        House,64pcs,2.25x5.5,WHT
+                                Type    Supplier Part No. /                                                     Unit Price         Subtotal
+    Line No.    PO Line No.                                           Customer Part No.        Quantity
+                                        Description
+    4        4                 Material 1XEZ3 / Disinfecting Wipes,70                          1 / (EA)           $69.68 USD      $69.68 USD
+                                        ct,Canister,PK6
+    Line No.    PO Line No.         Type    Supplier Part No. /             Customer Part No.        Quantity            Unit Price         Subtotal
+                                        Description                                       (UOM)
+                                                                                                        $14.12 USD      $14.12 USD
+    5        5                 Material 36XX37 / Multi-Purpose Cleaner,1                        1 / (EA)
+                                        gal,Jug
+                                        Supplier Part No. /             Customer Part No.        Quantity            Unit Price         Subtotal
+    Line No.    PO Line No.         Type
+                                        Description                                       (UOM)
+                                Material 2TRN8 / Toilet Paper                                 1 / (EA)           $62.02 USD      $62.02 USD
+    6        6
+                                        Roll,550,Wt,18280/01,PK80
+                                                                               Amount Summary
+                                                                               Line item subtotal
+                                                                                                                       $177.87 USD
+                                                                               Gross amount                             $190.33 USD
+                                                                               Net amount                               $190.33 USD
+                                                                               Total tax amount                            $12.46 USD
+                                                                               Total withholding tax amount
+                                                                               Amount Due                              $190.33 USD
+     Additional Information
+     InvoiceSourceDocument
+     PurchaseOrder
+     InvoiceSubmissionMethod
+     cXML
+                                                                           Remittance Information
+     Billing Information
+    Bill To                                                                 Remit To
+                                                                          GRAINGER
+    Rolling Frito-Lay Sales
+                                                                           DEPT. 886127907
+    c/o PEPSICO NASS
+                                                                          KANSAS CITY
+    ACCOUNTS PAYABLES
+    PO BOX 1800                                                            MO
+    Winston Salem                                                           64141-6267
+    NC                                                                   United States
+    27105                                                                 Address ID: US1_10359
+    United States
+                                                                          Tax ID of Supplier
+    Address ID: US29
+                                                                          36-1150280
+                                                                      Reference Documents
+                                                                       Original Supplier Order #: 1576018384
+==================================<Page 3 - END>================================
+==================================<Page 4 - START>================================
+ Appendix
+ Line No.
+             PO Line No. Type                           Supplier Part No. / Description
+  1
+             1         Material
+                                                       5JK50 / Knit Gloves,Beige,L,PR
+ Additional Details:
+ Supplier Part ID : 5JK50
+ Supplier Part Auxiliary ID : WWG5JK50
+ Line No.    PO Line No. Type                           Supplier Part No. / Description
+ 2
+             2         Material                         5JK51 / Knit Gloves,Beige,S
+ Additional Details:
+ Supplier Part ID : 5JK51
+ Supplier Part Auxiliary ID : WWG5JK51
+ Line No.    PO Line No. Type                           Supplier Part No. / Description
+ 3          3         Material                         49H369 / FirstAidKit w/House,64pcs,2.25x5.5,WHT
+ Additional Details:
+ Supplier Part ID : 49H369
+ Supplier Part Auxiliary ID : WWG49H369
+ Line No.    PO Line No. Type                           Supplier Part No. / Description
+ 4          4         Material                         1XEZ3 / Disinfecting Wipes,70 ct,Canister,PK6
+ Additional Details:
+Supplier Part ID : 1XEZ3
+Supplier Part Auxiliary ID : WWG1XEZ3
+Line No.    PO Line No. Type                           Supplier Part No. / Description
+5         5         Material                         36XX37 / Multi-Purpose Cleaner,1 gal,Jug
+Additional Details:
+Supplier Part ID : 36XX37
+Supplier Part Auxiliary ID : WWG36XX37
+Line No.    PO Line No. Type                            Supplier Part No. / Description
+6         6         Material                         2TRN8 / Toilet Paper Roll,550,Wt,18280/01,PK80
+Additional Details:
+Supplier Part ID : 2TRN8
+Supplier Part Auxiliary ID : WWG2TRN8
+PDF generated on Friday 13 Feb 2026 1:13 AM GMT-08:00
+==================================<Page 4 - END>================================

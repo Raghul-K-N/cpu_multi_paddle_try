@@ -1,0 +1,69 @@
+{
+  "invoice_data": {
+    "invoice_number": "324391P",
+    "invoice_date": "10/9/2025",
+    "invoice_amount": "-98.76",
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": "0.00",
+    "po_number": [
+      "23474291"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": "0.00",
+    "cost_center": null,
+    "vendor_name": "Nextran Truck Center - Kansas City (MO)",
+    "vendor_address": "4001 Randolph Rd, Kansas City, MO 64161",
+    "po_line_items": [
+      {
+        "description": "SERVICE CHARGE",
+        "quantity": 2.0,
+        "net_price": 12.35
+      },
+      {
+        "description": "SHOE KIT",
+        "quantity": 2.0,
+        "net_price": 61.73
+      }
+    ],
+    "vat_amount": null,
+    "gl_account": null,
+    "bank_name": null,
+    "account_holder_name": null,
+    "banking_account_number": null,
+    "remit_to_address": null,
+    "bill_to_address": null,
+    "transaction_type": "credit"
+  },
+  "filename": "SAPS4_5101508500_US29_PFNAUS_2026_999884916.pdf",
+  "raw_response": {
+    "invoice_number": "324391P",
+    "invoice_date": "10/9/2025",
+    "invoice_amount": "-98.76",
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": "0.00",
+    "po_number": [
+      "23474291"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": "0.00",
+    "cost_center": null,
+    "vendor_name": "Nextran Truck Center - Kansas City (MO)",
+    "vendor_address": "4001 Randolph Rd, Kansas City, MO 64161",
+    "po_line_items": [
+      {
+        "description": "SERVICE CHARGE",
+        "quantity": 2.0,
+        "net_price": 12.35
+      },
+      {
+        "description": "SHOE KIT",
+        "quantity": 2.0,
+        "net_price": 61.73
+      }
+    ]
+  }
+}

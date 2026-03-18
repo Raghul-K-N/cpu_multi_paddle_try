@@ -1,0 +1,119 @@
+{
+  "invoice_data": {
+    "invoice_number": "6100500404",
+    "invoice_date": "02/10/2026",
+    "invoice_amount": "39.97",
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": "2.08",
+    "po_number": [
+      "M413412086"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": "0.00",
+    "cost_center": null,
+    "vendor_name": "VESTIS",
+    "vendor_address": "25259 NETWORK PLACE, CHICAGO IL 60673-1252",
+    "po_line_items": [
+      {
+        "description": "BL0023WHIT DRAW SHEET PERCL 45X45 Rent",
+        "quantity": 8.0,
+        "net_price": 0.183
+      },
+      {
+        "description": "PILLOWCASE PERCLE 42X34 Rent",
+        "quantity": 50.0,
+        "net_price": 0.136
+      },
+      {
+        "description": "DM0196BLAK MAT ANTIFATIG RUB 3X5 Rent",
+        "quantity": 1.0,
+        "net_price": 1.946
+      },
+      {
+        "description": "TO0011WHIT DENTAL TOWEL Rent",
+        "quantity": 150.0,
+        "net_price": 0.062
+      },
+      {
+        "description": "TO0016WHIT BAR MOP RIBBED Rent",
+        "quantity": 50.0,
+        "net_price": 0.062
+      },
+      {
+        "description": "TO0032WHIT DLX-LGR BATH 10.5 Rent",
+        "quantity": 48.0,
+        "net_price": 10.05
+      },
+      {
+        "description": "TO0108BLUE MICROFIBER WIPER 16X16 Rent",
+        "quantity": 150.0,
+        "net_price": 0.067
+      }
+    ],
+    "vat_amount": null,
+    "gl_account": null,
+    "bank_name": null,
+    "account_holder_name": null,
+    "banking_account_number": null,
+    "remit_to_address": null,
+    "bill_to_address": null,
+    "transaction_type": "debit"
+  },
+  "filename": "SAPS4_5100608009_US30_PFNAUS_2026_999885039.pdf",
+  "raw_response": {
+    "invoice_number": "6100500404",
+    "invoice_date": "02/10/2026",
+    "invoice_amount": "39.97",
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": "2.08",
+    "po_number": [
+      "M413412086"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": "0.00",
+    "cost_center": null,
+    "vendor_name": "VESTIS",
+    "vendor_address": "25259 NETWORK PLACE, CHICAGO IL 60673-1252",
+    "po_line_items": [
+      {
+        "description": "BL0023WHIT DRAW SHEET PERCL 45X45 Rent",
+        "quantity": 8.0,
+        "net_price": 0.183
+      },
+      {
+        "description": "PILLOWCASE PERCLE 42X34 Rent",
+        "quantity": 50.0,
+        "net_price": 0.136
+      },
+      {
+        "description": "DM0196BLAK MAT ANTIFATIG RUB 3X5 Rent",
+        "quantity": 1.0,
+        "net_price": 1.946
+      },
+      {
+        "description": "TO0011WHIT DENTAL TOWEL Rent",
+        "quantity": 150.0,
+        "net_price": 0.062
+      },
+      {
+        "description": "TO0016WHIT BAR MOP RIBBED Rent",
+        "quantity": 50.0,
+        "net_price": 0.062
+      },
+      {
+        "description": "TO0032WHIT DLX-LGR BATH 10.5 Rent",
+        "quantity": 48.0,
+        "net_price": 10.05
+      },
+      {
+        "description": "TO0108BLUE MICROFIBER WIPER 16X16 Rent",
+        "quantity": 150.0,
+        "net_price": 0.067
+      }
+    ]
+  }
+}

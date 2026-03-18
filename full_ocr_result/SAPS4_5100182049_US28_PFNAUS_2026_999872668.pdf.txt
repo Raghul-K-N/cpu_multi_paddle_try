@@ -1,0 +1,387 @@
+==================================<Page 1 - START>================================
+Standard Invoice
+                                                                                                                   GRAINGER
+Original tax invoice has been submitted electronically. This is a
+human readable representation (copy) of the original tax invoice.
+                                                                                                                  980654754426
+                                                                Invoice Number
+                                                                (Supplier Reference No.)
+                                                                                              Thursday 12 Feb 2026 5:32 AM GMT-07:00
+                                                                Invoice Date
+                                                                                                                   $545.85 USD
+                                                                Amount Due
+    Contact Information
+                                                                          Shipping Information
+    Supplier                      Customer
+                                                                          Ship From                     Ship To
+    Grainger
+                                 Frito-Lay Inc.                                Grainger                      US-PL-MODESTO-CA-FLI
+    100 Grainger Pkwy               c/o PEPSICO NASS                           2710 KEYSTONE PACIEIC          PMO PROC/OPS TOOLS
+    Lake Forest                    ACCOUNTS PAYABLES                       PARKWAY                     600 GARNER RD
+    IL                           PO BOX 1800                               PATTERSON                   MODESTO
+    Winst                        Winston Salem                              CA                          CA
+    United States                  NC                                      95363                        95357
+                                 27105                                    United States                    United States
+                                 United States                                                            Phone: (209) 544-5400
+  Line Items                                              PO No. : M413555551                                       PO Date : 12 Feb 2026
+  Line No.    PO Line No.          Type    Supplier Part No. /             Customer Part No.        Quantity            Unit Price         Subtotal
+                                      Description                                       (UOM)
+   1        1                 Material 3A585 / Hex Key, Tip Size 1/8 in.                         6 / (EA)            $4.02 USD      $24.12 USD
+  Line No.   PO Line No.         Type    Supplier Part No. /             Customer Part No.        Quantity            Unit Price         Subtotal
+                                      Description                                       (UOM)
+   2                           Material 31D022 / Adj. Wrench,CV                                              $21.66 USD      $129.96 USD
+             2                                                                        6 / (EA)
+                                       Steel.Chrome.8
+  Line No.                      Type    Supplier Part No. /             Customer Part No.        Quantity            Unit Price         Subtotal
+             PO Line No.
+                                      Description
+                                                                                      (UOM)
+   3        3                 Material 6R095 / Key Chain Tape                              12 / (EA)           $4.22 USD      $50.64 USD
+                                      Measure,1/4Inx3 ft,Chrome
+  Line No.   PO Line No.         Type   Supplier Part No. /             Customer Part No.        Quantity            Unit Price         Subtotal
+                                      Description                                       (UOM)
+                                                                                                      $11.43 USD     $137.16 USD
+  4        4                 Material 1NYC7 / Adj. Wrench,CV                              12 / (EA)
+                                      Steel,Chrome ,6-5/16
+                                                                                                        Unit Price         Subtotal
+  Line No.    PO Line No.         Type    Supplier Part No. /             Customer Part No.        Quantity
+                                      Description
+                                                                                      (UOM)
+                               Material 5LM66 /                                         6 / (EA)           $20.84 USD     $125.04 USD
+  5        5
+                                      HexKeySet,Hex,Straight,L,Long.22pcs
+  Line No.    PO Line No.         Type    Supplier Part No. /             Customer Part No.        Quantity            Unit Price         Subtotal
+                                      Description                                       (UOM)
+  6        6                 Material 401L97 /                                         6 / (EA)            $5.74 USD       $34.44 USD
+                                      SlottedScrewdriver,Slt,1/4in,BI,Round
+                                                                             Amount Summary
+                                                                             Line item subtotal                          $501.36 USD
+                                                                                                                     $545.85 USD
+                                                                             Gross amount
+                                                                                                                    $545.85 USD
+                                                                             Net amount
+                                                                             Total tax amount                            $44.49 USD
+                                                                             Total withholding tax amount
+                                                                             Amount Due                              $545.85 USD
+    Additional Information
+    InvoiceSourceDocument
+   PurchaseOrder
+   InvoiceSubmissionMethod
+   cXML
+                                                                         Remittance Information
+   Billing Information
+                                                                         Remit To
+   Bill To
+                                                                         GRAINGER
+   Frito-Lay Inc.
+                                                                         DEPT. 820208205
+   c/o PEPSICO NASS
+   ACCOUNTS PAYABLES                                                    PALATINE
+   PO BOX 1800                                                           IL
+   Winston Salem                                                          60038-0001
+   NC                                                                   United States
+   27105                                                                 Address ID: US1_10359
+   United States
+                                                                         Tax ID of Supplier
+   Address ID: US28
+                                                                         36-1150280
+                                                                     Reference Documents
+                                                                      Original Supplier Order #: 1576031508
+==================================<Page 1 - END>================================
+==================================<Page 2 - START>================================
+ Appendix
+ Line No.
+             PO Line No. Type                           Supplier Part No. / Description
+  1          1         Material
+                                                       3A585 / Hex Key,Tip Size 1/8 in.
+ Additional Details:
+  Supplier Part ID : 3A585
+ Supplier Part Auxiliary ID : WWG3A585
+ Line No.    PO Line No. Type
+                                                       Supplier Part No. / Description
+ 2         2         Material
+                                                       31D022 / Adj. Wrench,CV Steel,Chrome,8
+ Additional Details:
+ Supplier Part ID : 31D022
+ Supplier Part Auxiliary ID : WWG31D022
+ Line No.    PO Line No. Type                           Supplier Part No. / Description
+ 3          3         Material                         6R095 / Key Chain Tape Measure,1/4Inx3 ft,Chrome
+ Additional Details:
+ Supplier Part ID : 6R095
+ Supplier Part Auxiliary ID : WWG6R095
+ Line No.    PO Line No. Type                           Supplier Part No. / Description
+ 4         4         Material                         1NYC7 / Adj. Wrench,CV Steel,Chrome ,6-5/16
+ Additional Details:
+Supplier Part ID : 1NYC7
+Supplier Part Auxiliary ID : WWG1NYC7
+            PO Line No. Type                           Supplier Part No. / Description
+Line No.
+ 5         5         Material                         5LM66 / HexKeySet,Hex,Straight,L,Long,22pcs
+Additional Details:
+Supplier Part ID : 5LM66
+Supplier Part Auxiliary ID : WWG5LM66
+Line No.    PO Line No. Type                            Supplier Part No. / Description
+6         6         Material                         401L97 / SlottedScrewdriver,Slt,1/4in,BI,Round
+Additional Details:
+Supplier Part ID : 401L97
+Supplier Part Auxiliary ID : WWG401L97
+PDF generated on Friday 13 Feb 2026 5:23 AM GMT-08:00
+==================================<Page 2 - END>================================
+==================================<Page 3 - START>================================
+  Standard Invoice
+                                                                                                                     GRAINGER
+  Original tax invoice has been submitted electronically. This is a
+  human readable representation (copy) of the original tax invoice.
+                                                                                                                   980654754426
+                                                                  Invoice Number
+                                                                  (Supplier Reference No.)
+                                                                                               Thursday 12 Feb 2026 5:32 AM GMT-07:00
+                                                                  Invoice Date
+                                                                                                                    $545.85 USD
+                                                                  Amount Due
+      Contact Information
+                                                                            Shipping Information
+     Supplier                      Customer
+                                                                           Ship From                     Ship To
+      Grainger
+                                  Frito-Lay Inc.                                Grainger                      US-PL-MODESTO-CA-FLI
+      100 Grainger Pkwy               c/o PEPSICO NASS                           2710 KEYSTONE PACIEIC          PMO PROC/OPS TOOLS
+      Lake Forest                    ACCOUNTS PAYABLES                       PARKWAY                     600 GARNER RD
+      IL                           PO BOX 1800                               PATTERSON                   MODESTO
+      Winst                        Winston Salem                              CA                          CA
+      United States                  NC                                      95363                        95357
+                                   27105                                    United States                    United States
+                                   United States                                                            Phone: (209) 544-5400
+    Line Items                                              PO No. : M413555551                                       PO Date : 12 Feb 2026
+    Line No.    PO Line No.          Type    Supplier Part No. /             Customer Part No.        Quantity            Unit Price         Subtotal
+                                        Description                                       (UOM)
+    1        1                 Material 3A585 / Hex Key, Tip Size 1/8 in.                         6 / (EA)            $4.02 USD      $24.12 USD
+    Line No.   PO Line No.         Type    Supplier Part No. /             Customer Part No.        Quantity            Unit Price         Subtotal
+                                        Description                                       (UOM)
+    2                           Material 31D022 / Adj. Wrench,CV                                              $21.66 USD      $129.96 USD
+              2                                                                        6 / (EA)
+                                        Steel.Chrome.8
+    Line No.                      Type    Supplier Part No. /             Customer Part No.        Quantity            Unit Price         Subtotal
+              PO Line No.
+                                        Description
+                                                                                       (UOM)
+    3        3                 Material 6R095 / Key Chain Tape                              12 / (EA)           $4.22 USD      $50.64 USD
+                                        Measure,1/4Inx3 ft,Chrome
+    Line No.   PO Line No.         Type   Supplier Part No. /             Customer Part No.        Quantity            Unit Price         Subtotal
+                                        Description                                       (UOM)
+                                                                                                        $11.43 USD     $137.16 USD
+    4        4                 Material 1NYC7 / Adj. Wrench,CV                              12 / (EA)
+                                        Steel,Chrome ,6-5/16
+                                                                                                          Unit Price         Subtotal
+    Line No.    PO Line No.         Type    Supplier Part No. /             Customer Part No.        Quantity
+                                        Description
+                                                                                       (UOM)
+                                Material 5LM66 /                                         6 / (EA)           $20.84 USD     $125.04 USD
+    5        5
+                                        HexKeySet,Hex,Straight,L,Long.22pcs
+    Line No.    PO Line No.         Type    Supplier Part No. /             Customer Part No.        Quantity            Unit Price         Subtotal
+                                        Description                                       (UOM)
+    6        6                 Material 401L97 /                                         6 / (EA)            $5.74 USD       $34.44 USD
+                                        SlottedScrewdriver,Slt,1/4in,BI,Round
+                                                                               Amount Summary
+                                                                               Line item subtotal                          $501.36 USD
+                                                                                                                      $545.85 USD
+                                                                               Gross amount
+                                                                                                                      $545.85 USD
+                                                                               Net amount
+                                                                              Total tax amount                            $44.49 USD
+                                                                              Total withholding tax amount
+                                                                              Amount Due                              $545.85 USD
+     Additional Information
+     InvoiceSourceDocument
+     PurchaseOrder
+     InvoiceSubmissionMethod
+     cXML
+                                                                          Remittance Information
+     Billing Information
+                                                                          Remit To
+    Bill To
+                                                                           GRAINGER
+    Frito-Lay Inc.
+                                                                          DEPT. 820208205
+    c/o PEPSICO NASS
+    ACCOUNTS PAYABLES                                                    PALATINE
+    PO BOX 1800                                                           IL
+    Winston Salem                                                          60038-0001
+    NC                                                                   United States
+    27105                                                                 Address ID: US1_10359
+    United States
+                                                                          Tax ID of Supplier
+    Address ID: US28
+                                                                          36-1150280
+                                                                      Reference Documents
+                                                                       Original Supplier Order #: 1576031508
+==================================<Page 3 - END>================================
+==================================<Page 4 - START>================================
+ Appendix
+ Line No.
+             PO Line No. Type                           Supplier Part No. / Description
+  1          1         Material
+                                                       3A585 / Hex Key,Tip Size 1/8 in.
+ Additional Details:
+  Supplier Part ID : 3A585
+ Supplier Part Auxiliary ID : WWG3A585
+ Line No.    PO Line No. Type
+                                                       Supplier Part No. / Description
+ 2         2         Material
+                                                       31D022 / Adj. Wrench,CV Steel,Chrome,8
+ Additional Details:
+ Supplier Part ID : 31D022
+ Supplier Part Auxiliary ID : WWG31D022
+ Line No.    PO Line No. Type                           Supplier Part No. / Description
+ 3          3         Material                         6R095 / Key Chain Tape Measure,1/4Inx3 ft,Chrome
+ Additional Details:
+ Supplier Part ID : 6R095
+ Supplier Part Auxiliary ID : WWG6R095
+ Line No.    PO Line No. Type                           Supplier Part No. / Description
+ 4         4         Material                         1NYC7 / Adj. Wrench,CV Steel,Chrome ,6-5/16
+ Additional Details:
+Supplier Part ID : 1NYC7
+Supplier Part Auxiliary ID : WWG1NYC7
+            PO Line No. Type                           Supplier Part No. / Description
+Line No.
+ 5         5         Material                         5LM66 / HexKeySet,Hex,Straight,L,Long,22pcs
+Additional Details:
+Supplier Part ID : 5LM66
+Supplier Part Auxiliary ID : WWG5LM66
+Line No.    PO Line No. Type                            Supplier Part No. / Description
+6         6         Material                         401L97 / SlottedScrewdriver,Slt,1/4in,BI,Round
+Additional Details:
+Supplier Part ID : 401L97
+Supplier Part Auxiliary ID : WWG401L97
+PDF generated on Friday 13 Feb 2026 5:23 AM GMT-08:00
+==================================<Page 4 - END>================================
+==================================<Page 5 - START>================================
+  Standard Invoice
+                                                                                                                     GRAINGER
+  Original tax invoice has been submitted electronically. This is a
+  human readable representation (copy) of the original tax invoice.
+                                                                                                                   980654754426
+                                                                  Invoice Number
+                                                                  (Supplier Reference No.)
+                                                                                               Thursday 12 Feb 2026 5:32 AM GMT-07:00
+                                                                  Invoice Date
+                                                                                                                    $545.85 USD
+                                                                  Amount Due
+      Contact Information
+                                                                            Shipping Information
+     Supplier                      Customer
+                                                                           Ship From                     Ship To
+      Grainger
+                                  Frito-Lay Inc.                                Grainger                      US-PL-MODESTO-CA-FLI
+      100 Grainger Pkwy               c/o PEPSICO NASS                           2710 KEYSTONE PACIEIC          PMO PROC/OPS TOOLS
+      Lake Forest                    ACCOUNTS PAYABLES                       PARKWAY                     600 GARNER RD
+      IL                           PO BOX 1800                               PATTERSON                   MODESTO
+      Winst                        Winston Salem                              CA                          CA
+      United States                  NC                                      95363                        95357
+                                   27105                                    United States                    United States
+                                   United States                                                            Phone: (209) 544-5400
+    Line Items                                              PO No. : M413555551                                       PO Date : 12 Feb 2026
+    Line No.    PO Line No.          Type    Supplier Part No. /             Customer Part No.        Quantity            Unit Price         Subtotal
+                                        Description                                       (UOM)
+    1        1                 Material 3A585 / Hex Key, Tip Size 1/8 in.                         6 / (EA)            $4.02 USD      $24.12 USD
+    Line No.   PO Line No.         Type    Supplier Part No. /             Customer Part No.        Quantity            Unit Price         Subtotal
+                                        Description                                       (UOM)
+    2                           Material 31D022 / Adj. Wrench,CV                                              $21.66 USD      $129.96 USD
+              2                                                                        6 / (EA)
+                                        Steel.Chrome.8
+    Line No.                      Type    Supplier Part No. /             Customer Part No.        Quantity            Unit Price         Subtotal
+              PO Line No.
+                                        Description
+                                                                                       (UOM)
+    3        3                 Material 6R095 / Key Chain Tape                              12 / (EA)           $4.22 USD      $50.64 USD
+                                        Measure,1/4Inx3 ft,Chrome
+    Line No.   PO Line No.         Type   Supplier Part No. /             Customer Part No.        Quantity            Unit Price         Subtotal
+                                        Description                                       (UOM)
+                                                                                                        $11.43 USD     $137.16 USD
+    4        4                 Material 1NYC7 / Adj. Wrench,CV                              12 / (EA)
+                                        Steel,Chrome ,6-5/16
+                                                                                                          Unit Price         Subtotal
+    Line No.    PO Line No.         Type    Supplier Part No. /             Customer Part No.        Quantity
+                                        Description
+                                                                                       (UOM)
+                                Material 5LM66 /                                         6 / (EA)           $20.84 USD     $125.04 USD
+    5        5
+                                        HexKeySet,Hex,Straight,L,Long.22pcs
+    Line No.    PO Line No.         Type    Supplier Part No. /             Customer Part No.        Quantity            Unit Price         Subtotal
+                                        Description                                       (UOM)
+    6        6                 Material 401L97 /                                         6 / (EA)            $5.74 USD       $34.44 USD
+                                        SlottedScrewdriver,Slt,1/4in,BI,Round
+                                                                               Amount Summary
+                                                                               Line item subtotal                          $501.36 USD
+                                                                                                                      $545.85 USD
+                                                                               Gross amount
+                                                                                                                      $545.85 USD
+                                                                               Net amount
+                                                                              Total tax amount                            $44.49 USD
+                                                                              Total withholding tax amount
+                                                                              Amount Due                              $545.85 USD
+     Additional Information
+     InvoiceSourceDocument
+     PurchaseOrder
+     InvoiceSubmissionMethod
+     cXML
+                                                                          Remittance Information
+     Billing Information
+                                                                          Remit To
+    Bill To
+                                                                           GRAINGER
+    Frito-Lay Inc.
+                                                                          DEPT. 820208205
+    c/o PEPSICO NASS
+    ACCOUNTS PAYABLES                                                    PALATINE
+    PO BOX 1800                                                           IL
+    Winston Salem                                                          60038-0001
+    NC                                                                   United States
+    27105                                                                 Address ID: US1_10359
+    United States
+                                                                          Tax ID of Supplier
+    Address ID: US28
+                                                                          36-1150280
+                                                                      Reference Documents
+                                                                       Original Supplier Order #: 1576031508
+==================================<Page 5 - END>================================
+==================================<Page 6 - START>================================
+ Appendix
+ Line No.
+             PO Line No. Type                           Supplier Part No. / Description
+  1          1         Material
+                                                       3A585 / Hex Key,Tip Size 1/8 in.
+ Additional Details:
+  Supplier Part ID : 3A585
+ Supplier Part Auxiliary ID : WWG3A585
+ Line No.    PO Line No. Type
+                                                       Supplier Part No. / Description
+ 2         2         Material
+                                                       31D022 / Adj. Wrench,CV Steel,Chrome,8
+ Additional Details:
+ Supplier Part ID : 31D022
+ Supplier Part Auxiliary ID : WWG31D022
+ Line No.    PO Line No. Type                           Supplier Part No. / Description
+ 3          3         Material                         6R095 / Key Chain Tape Measure,1/4Inx3 ft,Chrome
+ Additional Details:
+ Supplier Part ID : 6R095
+ Supplier Part Auxiliary ID : WWG6R095
+ Line No.    PO Line No. Type                           Supplier Part No. / Description
+ 4         4         Material                         1NYC7 / Adj. Wrench,CV Steel,Chrome ,6-5/16
+ Additional Details:
+Supplier Part ID : 1NYC7
+Supplier Part Auxiliary ID : WWG1NYC7
+            PO Line No. Type                           Supplier Part No. / Description
+Line No.
+ 5         5         Material                         5LM66 / HexKeySet,Hex,Straight,L,Long,22pcs
+Additional Details:
+Supplier Part ID : 5LM66
+Supplier Part Auxiliary ID : WWG5LM66
+Line No.    PO Line No. Type                            Supplier Part No. / Description
+6         6         Material                         401L97 / SlottedScrewdriver,Slt,1/4in,BI,Round
+Additional Details:
+Supplier Part ID : 401L97
+Supplier Part Auxiliary ID : WWG401L97
+PDF generated on Friday 13 Feb 2026 5:23 AM GMT-08:00
+==================================<Page 6 - END>================================

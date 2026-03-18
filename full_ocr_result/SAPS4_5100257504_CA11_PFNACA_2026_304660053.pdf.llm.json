@@ -1,0 +1,69 @@
+{
+  "invoice_data": {
+    "invoice_number": "1250024-017001",
+    "invoice_date": "Oct 31, 2025",
+    "invoice_amount": "1,201.44",
+    "invoice_currency": [
+      "CAD"
+    ],
+    "tax_amount": "138.22",
+    "po_number": [
+      "4503529653"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "TRADE-MARK INDUSTRIAL INC",
+    "vendor_address": "250 Royal Oak Road, TM    Cambridge, ON N3E 0A4",
+    "po_line_items": [
+      {
+        "description": "LABOUR AND EQUIPMENT TO INSTALL A BOILER STOP CHECK VALVE 4\" AND INVESTIGATE A LEAK BY DEFORMER AS DIRECTED ON TIMESHEET#1626803",
+        "quantity": 8.0,
+        "net_price": 131.7
+      },
+      {
+        "description": "CONSUMABLES",
+        "quantity": 1.0,
+        "net_price": 131.7
+      }
+    ],
+    "vat_amount": null,
+    "gl_account": null,
+    "bank_name": null,
+    "account_holder_name": null,
+    "banking_account_number": null,
+    "remit_to_address": null,
+    "bill_to_address": null,
+    "transaction_type": "debit"
+  },
+  "filename": "SAPS4_5100257504_CA11_PFNACA_2026_304660053.pdf",
+  "raw_response": {
+    "invoice_number": "1250024-017001",
+    "invoice_date": "Oct 31, 2025",
+    "invoice_amount": "1,201.44",
+    "invoice_currency": [
+      "CAD"
+    ],
+    "tax_amount": "138.22",
+    "po_number": [
+      "4503529653"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "TRADE-MARK INDUSTRIAL INC",
+    "vendor_address": "250 Royal Oak Road, TM    Cambridge, ON N3E 0A4",
+    "po_line_items": [
+      {
+        "description": "LABOUR AND EQUIPMENT TO INSTALL A BOILER STOP CHECK VALVE 4\" AND INVESTIGATE A LEAK BY DEFORMER AS DIRECTED ON TIMESHEET#1626803",
+        "quantity": 8.0,
+        "net_price": 131.7
+      },
+      {
+        "description": "CONSUMABLES",
+        "quantity": 1.0,
+        "net_price": 131.7
+      }
+    ]
+  }
+}

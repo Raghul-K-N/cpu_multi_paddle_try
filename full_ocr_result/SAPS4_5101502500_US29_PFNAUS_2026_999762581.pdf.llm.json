@@ -1,0 +1,59 @@
+{
+  "invoice_data": {
+    "invoice_number": "007533889",
+    "invoice_date": "1/27/2026",
+    "invoice_amount": "150628.97",
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": "8242.25",
+    "po_number": [
+      "4505099754"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "Banc of America Leasing",
+    "vendor_address": "100 N Tryon Street, Charlotte, NC 28202, ACH ABA/Routing: 122000030, Account Number: 12573-54255, Account Name: Lease Administration Center",
+    "po_line_items": [
+      {
+        "description": "Unit Lease",
+        "quantity": 1.0,
+        "net_price": 142386.72
+      }
+    ],
+    "vat_amount": null,
+    "gl_account": null,
+    "bank_name": null,
+    "account_holder_name": null,
+    "banking_account_number": null,
+    "remit_to_address": null,
+    "bill_to_address": null,
+    "transaction_type": "debit"
+  },
+  "filename": "SAPS4_5101502500_US29_PFNAUS_2026_999762581.pdf",
+  "raw_response": {
+    "invoice_number": "007533889",
+    "invoice_date": "1/27/2026",
+    "invoice_amount": "150628.97",
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": "8242.25",
+    "po_number": [
+      "4505099754"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "Banc of America Leasing",
+    "vendor_address": "100 N Tryon Street, Charlotte, NC 28202, ACH ABA/Routing: 122000030, Account Number: 12573-54255, Account Name: Lease Administration Center",
+    "po_line_items": [
+      {
+        "description": "Unit Lease",
+        "quantity": 1.0,
+        "net_price": 142386.72
+      }
+    ]
+  }
+}

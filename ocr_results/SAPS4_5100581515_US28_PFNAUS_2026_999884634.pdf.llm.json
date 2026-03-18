@@ -1,0 +1,69 @@
+{
+  "invoice_data": {
+    "invoice_number": "GBL9102OS",
+    "invoice_date": "02/12/2026",
+    "invoice_amount": null,
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": null,
+    "po_number": [
+      "4505124401"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "Alro Steel",
+    "vendor_address": "24876 Network Place, Chicago, IL 60673-1248",
+    "po_line_items": [
+      {
+        "description": "1/2 304/304L HRAP SS MISC 3 X 6 IN",
+        "quantity": 6.0,
+        "net_price": 42.41
+      },
+      {
+        "description": "1/2 304/304L HRAP SS MISC 3 X 3 IN",
+        "quantity": 6.0,
+        "net_price": 31.81
+      }
+    ],
+    "vat_amount": null,
+    "gl_account": null,
+    "bank_name": null,
+    "account_holder_name": null,
+    "banking_account_number": null,
+    "remit_to_address": null,
+    "bill_to_address": null,
+    "transaction_type": "debit"
+  },
+  "filename": "SAPS4_5100581515_US28_PFNAUS_2026_999884634.pdf",
+  "raw_response": {
+    "invoice_number": "GBL9102OS",
+    "invoice_date": "02/12/2026",
+    "invoice_amount": null,
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": null,
+    "po_number": [
+      "4505124401"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "Alro Steel",
+    "vendor_address": "24876 Network Place, Chicago, IL 60673-1248",
+    "po_line_items": [
+      {
+        "description": "1/2 304/304L HRAP SS MISC 3 X 6 IN",
+        "quantity": 6.0,
+        "net_price": 42.41
+      },
+      {
+        "description": "1/2 304/304L HRAP SS MISC 3 X 3 IN",
+        "quantity": 6.0,
+        "net_price": 31.81
+      }
+    ]
+  }
+}

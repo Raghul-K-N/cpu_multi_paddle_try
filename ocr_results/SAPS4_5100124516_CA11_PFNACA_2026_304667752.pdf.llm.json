@@ -1,0 +1,39 @@
+{
+  "invoice_data": {
+    "invoice_number": "6342319",
+    "invoice_date": "Feb 03 26",
+    "invoice_amount": null,
+    "invoice_currency": null,
+    "tax_amount": null,
+    "po_number": null,
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "REXEL GROUP",
+    "vendor_address": "BOX 1107 STN.'T CALGARY ALBERTA T2H 2J1, 2095 MATHESON BLVD EAST, PEPSICO CANADA ULC (FLC), WESTBURNE W LETHBRIDGE (WJL), MISSISSAUGA ON, 00539-INVSTM G0801 L001 AUTO",
+    "po_line_items": null,
+    "vat_amount": null,
+    "gl_account": null,
+    "bank_name": null,
+    "account_holder_name": null,
+    "banking_account_number": null,
+    "remit_to_address": null,
+    "bill_to_address": null,
+    "transaction_type": "debit"
+  },
+  "filename": "SAPS4_5100124516_CA11_PFNACA_2026_304667752.pdf",
+  "raw_response": {
+    "invoice_number": "6342319",
+    "invoice_date": "Feb 03 26",
+    "invoice_amount": null,
+    "invoice_currency": null,
+    "tax_amount": null,
+    "po_number": null,
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "REXEL GROUP",
+    "vendor_address": "BOX 1107 STN.'T CALGARY ALBERTA T2H 2J1, 2095 MATHESON BLVD EAST, PEPSICO CANADA ULC (FLC), WESTBURNE W LETHBRIDGE (WJL), MISSISSAUGA ON, 00539-INVSTM G0801 L001 AUTO",
+    "po_line_items": null
+  }
+}

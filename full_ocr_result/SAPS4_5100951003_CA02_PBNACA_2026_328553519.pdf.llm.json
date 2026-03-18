@@ -1,0 +1,47 @@
+{
+  "invoice_data": {
+    "invoice_number": "1075",
+    "invoice_date": "28/01/2026",
+    "invoice_amount": null,
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": null,
+    "po_number": [
+      "M413522596"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "Alberta Inc",
+    "vendor_address": "03 10120 Manning Avenue, Fort McMurray AB T9H 2C3",
+    "po_line_items": null,
+    "vat_amount": null,
+    "gl_account": null,
+    "bank_name": null,
+    "account_holder_name": null,
+    "banking_account_number": null,
+    "remit_to_address": null,
+    "bill_to_address": null,
+    "transaction_type": "debit"
+  },
+  "filename": "SAPS4_5100951003_CA02_PBNACA_2026_328553519.pdf",
+  "raw_response": {
+    "invoice_number": "1075",
+    "invoice_date": "28/01/2026",
+    "invoice_amount": null,
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": null,
+    "po_number": [
+      "M413522596"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "Alberta Inc",
+    "vendor_address": "03 10120 Manning Avenue, Fort McMurray AB T9H 2C3",
+    "po_line_items": null
+  }
+}

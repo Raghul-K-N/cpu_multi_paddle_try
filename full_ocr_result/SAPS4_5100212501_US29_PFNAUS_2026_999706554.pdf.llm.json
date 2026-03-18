@@ -1,0 +1,69 @@
+{
+  "invoice_data": {
+    "invoice_number": "118144168",
+    "invoice_date": "Monday 9 Feb 2026 12:00 PM GMT-05:00",
+    "invoice_amount": "979.96",
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": "34.47",
+    "po_number": [
+      "M413305777"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "Crown Equipment Corporation",
+    "vendor_address": "44 S Washington St, New Bremen, Ohio 45869-1288, United States",
+    "po_line_items": [
+      {
+        "description": "Harness Hdl 42 W/ Thwl",
+        "quantity": 1.0,
+        "net_price": 353.49
+      },
+      {
+        "description": "Labor",
+        "quantity": 1.0,
+        "net_price": 592.0
+      }
+    ],
+    "vat_amount": null,
+    "gl_account": null,
+    "bank_name": null,
+    "account_holder_name": null,
+    "banking_account_number": null,
+    "remit_to_address": null,
+    "bill_to_address": null,
+    "transaction_type": "debit"
+  },
+  "filename": "SAPS4_5100212501_US29_PFNAUS_2026_999706554.pdf",
+  "raw_response": {
+    "invoice_number": "118144168",
+    "invoice_date": "Monday 9 Feb 2026 12:00 PM GMT-05:00",
+    "invoice_amount": "979.96",
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": "34.47",
+    "po_number": [
+      "M413305777"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "Crown Equipment Corporation",
+    "vendor_address": "44 S Washington St, New Bremen, Ohio 45869-1288, United States",
+    "po_line_items": [
+      {
+        "description": "Harness Hdl 42 W/ Thwl",
+        "quantity": 1.0,
+        "net_price": 353.49
+      },
+      {
+        "description": "Labor",
+        "quantity": 1.0,
+        "net_price": 592.0
+      }
+    ]
+  }
+}

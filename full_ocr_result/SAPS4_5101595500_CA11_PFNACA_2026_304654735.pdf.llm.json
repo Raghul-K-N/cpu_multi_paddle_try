@@ -1,0 +1,59 @@
+{
+  "invoice_data": {
+    "invoice_number": "72407470",
+    "invoice_date": "Tuesday 10 Feb. 2026 5:45 a.m. GMT-07:00",
+    "invoice_amount": "39.53",
+    "invoice_currency": [
+      "CAD"
+    ],
+    "tax_amount": "4.55",
+    "po_number": [
+      "M413547129"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "Staples Canada ULC",
+    "vendor_address": "550 PENDANT DR, MISSISSAUGA, ON L5T 2W6, Canada; 1001 BISHOP ST N, CAMBRIDGE, ON N3H 4V8, Canada",
+    "po_line_items": [
+      {
+        "description": "PGT00321 / DAWN ULTRA ANTIBACTERIAL DISH",
+        "quantity": 2.0,
+        "net_price": 17.49
+      }
+    ],
+    "vat_amount": null,
+    "gl_account": null,
+    "bank_name": null,
+    "account_holder_name": null,
+    "banking_account_number": null,
+    "remit_to_address": null,
+    "bill_to_address": null,
+    "transaction_type": "debit"
+  },
+  "filename": "SAPS4_5101595500_CA11_PFNACA_2026_304654735.pdf",
+  "raw_response": {
+    "invoice_number": "72407470",
+    "invoice_date": "Tuesday 10 Feb. 2026 5:45 a.m. GMT-07:00",
+    "invoice_amount": "39.53",
+    "invoice_currency": [
+      "CAD"
+    ],
+    "tax_amount": "4.55",
+    "po_number": [
+      "M413547129"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "Staples Canada ULC",
+    "vendor_address": "550 PENDANT DR, MISSISSAUGA, ON L5T 2W6, Canada; 1001 BISHOP ST N, CAMBRIDGE, ON N3H 4V8, Canada",
+    "po_line_items": [
+      {
+        "description": "PGT00321 / DAWN ULTRA ANTIBACTERIAL DISH",
+        "quantity": 2.0,
+        "net_price": 17.49
+      }
+    ]
+  }
+}

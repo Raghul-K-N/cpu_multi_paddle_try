@@ -1,0 +1,67 @@
+{
+  "invoice_data": {
+    "invoice_number": "1946643",
+    "invoice_date": "21.01.2026",
+    "invoice_amount": "3,900.00",
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": "0.00",
+    "po_number": [
+      "4504506507"
+    ],
+    "gl_account_number": [
+      "2A44100200"
+    ],
+    "freight_and_handling_charges": "3,900.00",
+    "cost_center": [
+      "4FUSL00000"
+    ],
+    "vendor_name": "ECHO GLOBAL LOGISTICS INC",
+    "vendor_address": "860789 PO BOX, MINNEAPOLIS MN 55486, USA",
+    "po_line_items": [
+      {
+        "description": "Almond Flour",
+        "quantity": 42000.0,
+        "net_price": 3900.0
+      }
+    ],
+    "vat_amount": null,
+    "gl_account": null,
+    "bank_name": null,
+    "account_holder_name": null,
+    "banking_account_number": null,
+    "remit_to_address": null,
+    "bill_to_address": null,
+    "transaction_type": "debit"
+  },
+  "filename": "SAPS4_1900630501_US28_PFNAUS_2026_999749368.pdf",
+  "raw_response": {
+    "invoice_number": "1946643",
+    "invoice_date": "21.01.2026",
+    "invoice_amount": "3,900.00",
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": "0.00",
+    "po_number": [
+      "4504506507"
+    ],
+    "gl_account_number": [
+      "2A44100200"
+    ],
+    "freight_and_handling_charges": "3,900.00",
+    "cost_center": [
+      "4FUSL00000"
+    ],
+    "vendor_name": "ECHO GLOBAL LOGISTICS INC",
+    "vendor_address": "860789 PO BOX, MINNEAPOLIS MN 55486, USA",
+    "po_line_items": [
+      {
+        "description": "Almond Flour",
+        "quantity": 42000.0,
+        "net_price": 3900.0
+      }
+    ]
+  }
+}

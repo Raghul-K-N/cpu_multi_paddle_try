@@ -1,0 +1,89 @@
+{
+  "invoice_data": {
+    "invoice_number": "IN0000075686",
+    "invoice_date": "Feb 5, 2026",
+    "invoice_amount": "1,629.60",
+    "invoice_currency": [
+      "CAD"
+    ],
+    "tax_amount": "174.60",
+    "po_number": [
+      "4505056607"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": "290.00",
+    "cost_center": null,
+    "vendor_name": "SPECIALTY PROCESS SYSTEMS LTD",
+    "vendor_address": "P.O. BOX 23010 RPO MCGILLIVRAY, WINNIPEG, MANITOBA, R3T 5S3",
+    "po_line_items": [
+      {
+        "description": "Repair cracks in Syrup Tank 13 Weld and Buff Interior only Service charge for labour",
+        "quantity": 6.0,
+        "net_price": 95.0
+      },
+      {
+        "description": "Service charge for labour",
+        "quantity": 6.0,
+        "net_price": 95.0
+      },
+      {
+        "description": "Confined Entry Equipment",
+        "quantity": 1.0,
+        "net_price": 290.0
+      },
+      {
+        "description": "Truck Charge",
+        "quantity": 1.0,
+        "net_price": 25.0
+      }
+    ],
+    "vat_amount": null,
+    "gl_account": null,
+    "bank_name": null,
+    "account_holder_name": null,
+    "banking_account_number": null,
+    "remit_to_address": null,
+    "bill_to_address": null,
+    "transaction_type": "debit"
+  },
+  "filename": "SAPS4_5101175502_CA02_PBNACA_2026_328615002.pdf",
+  "raw_response": {
+    "invoice_number": "IN0000075686",
+    "invoice_date": "Feb 5, 2026",
+    "invoice_amount": "1,629.60",
+    "invoice_currency": [
+      "CAD"
+    ],
+    "tax_amount": "174.60",
+    "po_number": [
+      "4505056607"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": "290.00",
+    "cost_center": null,
+    "vendor_name": "SPECIALTY PROCESS SYSTEMS LTD",
+    "vendor_address": "P.O. BOX 23010 RPO MCGILLIVRAY, WINNIPEG, MANITOBA, R3T 5S3",
+    "po_line_items": [
+      {
+        "description": "Repair cracks in Syrup Tank 13 Weld and Buff Interior only Service charge for labour",
+        "quantity": 6.0,
+        "net_price": 95.0
+      },
+      {
+        "description": "Service charge for labour",
+        "quantity": 6.0,
+        "net_price": 95.0
+      },
+      {
+        "description": "Confined Entry Equipment",
+        "quantity": 1.0,
+        "net_price": 290.0
+      },
+      {
+        "description": "Truck Charge",
+        "quantity": 1.0,
+        "net_price": 25.0
+      }
+    ]
+  }
+}

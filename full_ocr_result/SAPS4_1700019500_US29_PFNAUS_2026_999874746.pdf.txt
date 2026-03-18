@@ -1,0 +1,246 @@
+==================================<Page 1 - START>================================
+  OpenText Workflow History
+  Vendor
+  FLEETPRIDE INC
+  FLEETPRIDE INC
+  PO B0X 847118
+  DALLAS TX 75284-7118
+  USA
+   Credit Memo
+   Reference        129893484
+                                                              Document Date
+                                                                                29.10.2025
+   DP Document No.  36336296
+                                                              Net Amount       USD            81.44
+   Comp. Code       US29 Rolling Frito-Lay Sales             Tax Amount
+                                                                                USD               0.00
+  Posting Date
+                     13.02.2026                               Gross Amount
+                                                                                USD             81.44
+  SAP Document No. 1700019500 2026
+                                           Pre-Process History
+    ACTIVITY
+                                                          USER       END TIME          DOCUMENT STATUS
+    Update status                                        VRBLAOT_U  31.10.2025       Validation
+                                                          SR          00:37:03         Complete
+                                      Document Process History
+   ACTIVITY         PROCESS TYPE/BLOCK REASON          USER        ENDTIME         DOCUMENT STATUS
+   BC Inbound                                           VRBLAOT_U  31.10.2025       Document
+                                                                      00:36:23
+                                                         SR                           Registered
+   Workflow Start   Invalid Requestor ID (NPo)         Record to  31.10.2025       Created
+                                                         Report     00:37:03
+                                                         Batch
+                                                         Account
+                                                         Owner:
+   Refer for
+                     Invalid Requestor ID (NPO)         MOHAMMED    05.11.2025        Created
+   Information                                                       21:53:03
+                                                         IMRAN
+  Comment:
+  Changed By:   MOHAMMED IMRAN (09411490)
+  Changed On:   11/05/2025 21:52:14
+  Invoice already submitted under as po 36414890
+ Refer to AP      Invalid Requestor ID (NPO)         Lori Funk  20.01.2026
+                                                                                        Created
+ Processor                                                          20:03:50
+Comment:
+***************************************************************
+Changed By:  Lori Funk (81178668)
+Changed On:
+                01/20/2026 20:03:47
+*********************************************************************
+THIS IS A CREDIT/ PLEASE PROCESS AS ORIGINAL INVOICE 126675552 WAS PAID ON 8/24/25.
+PO IS 23418478
+Apply Business    Suspected Duplicate (NPO)           NAVINKUMA   21.01.2026        Created
+Rules                                                  R R         10:57:12
+==================================<Page 1 - END>================================
+==================================<Page 2 - START>================================
+OpenText Workflow History
+Credit Memo
+Vendor            FLEETPRIDE INC DALLAS
+Reference         129893484
+                                                        Gross Amount     USD          81.44
+                             Document Process History - Continuation
+ ACTIVITY          PROCESS TYPE/BLOCK REASON          USER
+                                                                     END TIME          DOCUMENT STATUS
+ Comment:
+ **********************************************************************
+ Changed By:
+                NAVINKUMAR R (09336939)
+ Changed On:   01/21/2026 10:57:11
+ **********************************************************************
+ Hi Please approve the non po invoice
+ Confirm Not
+                    Invalid Requestor ID (NPO)         NAVINKUMA  21.01.2026        Indexed
+ Duplicate                                             RR
+                                                                     10:57:15
+  Comment:
+  ***********************************************************************
+  Changed By:  NAVINKUMAR R (09336939)
+  Changed On:   01/21/2026 10:57:15
+  Hi Please approve the non po invoice
+                    Approval Required (NPO)            SAP_WFRT   21.01.2026        Indexed
+  Business Rules
+  Check in BG                                                       10:57:17
+                                                                     21.01.2026 10:57:17
+    Invoice submitted for Approval
+                                                         LORI        22.01.2026 15:18:32
+     Financial Information Entered
+                                                         FUNK
+                                                         LORI        22.01.2026 15:18:35
+     Data Entered and Invoice Approved
+                                                         FUNK
+                                                                     12.02.2026 22:08:47
+     Invoice Approved                                   MICHELLE
+                                                         LAYTON
+                                                                                       Approval
+                     Approval Required (NPo)            SAP_WFRT   12.02.2026
+   Approval
+                                                                      22:08:55         Complete
+   Workflow
+                     Process Non-Po Credit Memo (NPo)   SAP_WFRT   12.02.2026       Approval
+   Business Rules
+                                                                      22:08:57         Complete
+    Check in BG
+                      Process Non-PO Credit Memo (NPO)   SAP_WFRT   12.02.2026       Sent for Doc
+    Create Doc. BG
+                                                                      22:08:58          Creation
+                                                         NAVINKUMA  13.02.2026        Document
+    Post Non-PO      Process Non-PO Credit Memo (NPO)
+    Invoice                                              RR        13:17:26         Created
+                                                          SAP_WFRT   13.02.2026       Posted
+    SAP Document
+                                                                      13:17:37
+    Check
+==================================<Page 2 - END>================================
+==================================<Page 3 - START>================================
+       PEPSICO
+ Instructions:When there is not an "Ojficial" Invoice to request payment, complete the information on this form.
+ 1.You must fill in all of the fields below and the form must be accompanied with supporting documentation.
+ .Save submission as 1 single PDF file prior to submitting to nassapinvoicesubmission@pepsico.com
+            SAP Payment Request
+       Substitute Invoice Form                      To be filled by Requestor
+ Vendor Type                                  S4
+ Vendor Name:
+                                            FleetPride
+ Vendor Number:
+                                            2000011563
+ Company Code:
+                                            US29
+                                            PO Box 281811
+Remit To Address :
+(Must match the address in the AP system)                 Altanta, GA
+                                            30384-1811
+Special Handling needed:
+Attn:
+Address:
+Overnight delivery required:
+(if yes provide account # or CC below)
+FedEx or UPS, & Provide Number:
+FedEx or UPS account #
+Cost Center (If No FedEx/UPS Number):
+Trnsaction type:
+                                           Credit Memo
+Choose only 1 option - Invoice or Credit Memo from the dropdown
+Invoice Date:                                 10/29/2025
+Invoice #:
+Limited to 16 characters
+                                                                                            129893484
+Purchase Order #
+Not required if non-PO
+Payment GROSS Amount:                          $81.44
+Tax Amount
+                                          $0.00
+(if applicable)
+Payment NET Amount:                            $81.44
+Currency (USD or CAD)                            USD
+Header Text:
+                                          Lori Funk
+Requestor Name:
+Requestor email                               Lori.funk@pepsico.com
+1st Level Approver Name                          Michelle Layton
+1st Level Approver Email id/GPID                      michelle.layton@pepsico.com
+Date Requested:                               10/25/2025
+GL Coding (6 digits)                              138001
+Cost Center (if applicable)                          2503421501
+                                          4FUSL00000
+Profit Center (if applicable)
+WBS Element (if applicable)
+For Assistance On This Form submission please contact:
+Raise service now ticket(Snow)                       PepsiCo - Sign In
+==================================<Page 3 - END>================================
+==================================<Page 4 - START>================================
+                                                                         001-001-0000129893484
+                                                                                   REMIT TO:
+                                                                                    FLEETPRIDE
+FleetPride      CREDIT MEMO
+                                                                                    PO BOX 847118
+                                                   129893484                 DALLAS TX 75284-7118
+                                                                                    (361) 883-4358
+HEAVY DUTY PARTS & SERVICE
+                                              SOURCE  POS
+     WWW.FLEETPRIDE.COM
+                                DUNMOREPA 651KEYSTONEINDUSTRIAL PARK (570) 344-1975
+STORE NO.
+                 SHIP LOC.           INVOICE TYPE               QUOTE         INVOICE DATE     INVOICE NUMBER
+  390
+                   SCR           CREDITMEMO                              10/29/25      129893484
+SOLD TO
+          FRITO-LAY 2503M21                                    SHIPTO FRITO-LAY 2503M21
+          7701 LEGACY DR                                               ATTN: DAN FITZSIMMONS 2503M21
+          PLANO TX 75024-4002                                         1002 SPRINGBROOK AVE
+          (570)-394-4312                                                MOOSIC PA 18507-1814
+CHECK NO.
+                SHIPPER NAME       ORIG. INVOICE NO,     FREIGHT        BILL OF LADING            TERMS
+                                                                         WILL CALL          NET 30
+PURCHASE ORDER NO.       REQUISITION/JOB NUMBER                       ORDERED BY          ACCOUNT   SALESMAN
+                                                                     John Verbinski         131120-190 8920
+     QUANTITY           MFG.
+                                   PART NUMBER          DESCRIPTION                         UNIT PRICE    AMOUNT
+  ORD.        SHIPPED   CODE
+                                                                                                    10.18      (81.44)
+         (8)        (8)    679 OTRBM-21              21" OTR BEAM ALL SEASON WIPER
+                                                        BLADE (EA)
+                                 *MEMO* REF Ticket# 00129893447
+                   DrIve SAVINGS WITh ECASH REWARDS
+                   EARN A MIMINUM OF 3% REWAROSQUARTERLY FOR ELIGIBLE DNLINEPURCHASES."
+                                                                                  BALANCE
+  eCA$H
+                                                                                    DUE                      ($81.44)
+                       *Roste-slats spply See tenms and condt ans fes dietals,
+            Parts & Service                  Freight
+                                                                                        Taxes
+                  ($81.44)                          $.00                                     $.00
+Termsaud Conditiens: By entering into a transaction with us you agree that the transaction is governed by cur Terms and Conditions of Sale ("Terms*),
+available at www,fleetpride.com/terms-and-conditions/. No variation to the Terms shall be effectiveunless expressly agreed in writing and
+signed by a person with authority. Parts are subject to the manufacturer's warranty and labor is warranted against defects in materials or workmanship
+fOR 9O daYS. WE MAKE NO OTHER WARRANTY, EXPRESS OR IMPLIED, INCLUDING ANY WARRANTY OF MERCHANTABILITY OR FITNESS FOR A PARTICULAR PURPOSE. DAMAGES fOR
+breach of any warranty are limited to the money received for the parts/labor, For additional informaticn, go to
+www.fleetpride,com/warranty-and-returns.
+It is agreed that payment of the cash price is due within the terms stated above. A SErvIcE CHaRGE OF 1.5% per month (18% PER
+  AnNuM) shall be due upon the amount of any charge which has not been paid when due. PLEAsE PAY FroM THIs INvorCE.
+  2543 SCR SCR_D4X VTUTTLE 10/29/25 15.35.54          All Claims and returned goods must be accompanied by this bill.
+                                                                  RECEIVED DATE
+RECEIVED BY
+==================================<Page 4 - END>================================
+==================================<Page 5 - START>================================
+           From: SPA - PepsiCo Nass AP Invoice Submission <nassapInvoiceSubmission@pepsico.com>
+           Sent: Thu, 30 Oct 2025 03:31:31 (UTC)
+           To: svcimagingspaboxprod@pepsico.com
+           Subject: FW:
+           Original Number of Attachments : 1
+           Original Attachment Names: 129893484.pdf
+           Number of forwarded PDF's: 1
+           Number of forwarded Non PDF files: 0
+           From: Funk, Lori {PEP}<Lori.Funk@pepsico.com>
+           Sent: Thursday, October 30, 2025 3:30:37 AM
+           To: SPA - PepsiCo Nass AP Invoice Submission <nassaplnvoiceSubmission@pepsico.com>
+           Subject:
+                                             Lori Funk
+                                             Fleet Supplier Payment Specialist
+                  PEPSICO
+                                             7701 Legacy Dr, Plano, Tx 75024
+                                              Lori.Funk@pepsico.com
+                                              Workng hours M-F 8:00AM - 4:30PM
+==================================<Page 5 - END>================================
