@@ -1,0 +1,70 @@
+==================================<Page 1 - START>================================
+Standard Invoice
+Original tax invoice has been submitted electronically. This is a
+human readable representation (copy) of the original tax invoice.
+                                                         Invoice Number                                 067A00007533
+                                                         (Supplier Reference No.)
+                                                         Invoice Date                    Friday 6 Feb 2026 2:51 PM GMT-05:00
+                                                         Shipping Date
+                                                         Amount Due                                   $1,926.96 USD
+   Contact Information                                                 Shipping Information
+   Supplier                    Customer
+                                                                 Ship From                  Ship To
+   Remit/Supply/HQ/Other
+                            Frito-Lay, Inc.                           Oxford Instruments America,        US-PL-VANCOUVER-WA-FLI
+   300 Baker Ave                c/o PEPSICO NASS                       Inc.                       dannielle.gousse@pepsico.com
+                             ACCOUNTS PAYABLES                    300 Baker Ave
+   Suite 150                                                                                  US-PL-VANCOUVER-WA-FLI
+   Concord                                                        Suite 150                   4808 NW FRUIT VALLEY RD
+   MA                       Winston Salem                          Concord                    VANCOUVER
+   01742-2124                  NC                                  MA                       WA
+   United States                27105                                01742-2124                 98660-1242
+                             United States                           UnidStates
+   Supplier VAT/Tax ID                                                                           Unid States
+                             Address ID: US28                                                  Address ID: 2105
+   04-3358144
+                                                                                            Phone: 7373000
+Line Items                                          PONo.:M413525818                                  PODate:29 Jan 2026
+Line No.   PO Line No.         Type  Supplier Part No. /            Customer Part No.                       Unit Price        Subtotal
+                                  Description
+                           Material 57-LE1011 / Glass Vials 23mm OD                    10 / (EA)       $158.40 USD   $1,584.00 USD
+                                  10ML - 57-LE1011
+                                  SRO 067X005706
+        Taxes, Allowances and Charges
+                               Applicable To                           Base Amount
+        Category                                 Details                               Rate %     Amount
+        Sales Tax               Line             Tax Description : A/P Sales  $1,584.00 USD      9.84%      $155.85 USD
+                                                Tax
+                                                                                       Line Item Total : $1,739.85 USD
+    Tax Summary
+   Category             Details                       Base Amount             Rate %        Amount
+   Sales Tax             Tax Description: A/P Sales Tax        $1,584.00 USD            9.84%         $155.85 USD
+                                                                    Amount Summary
+                                                                     Line item subtotal                      $1,584.00 USD
+                                                                     Shipping charges                       $187.11 USD
+                                                                     Gross amount                        $1,926.96 USD
+                                                                     Net amount                         $1,926.96 USD
+                                                                     Total tax amount                       $155.85 USD
+                                                                     Total withholding tax amount
+                                                                     Amount Due                         $1,926.96 USD
+   Additional Information
+   Payment Method
+  ACH
+  Billing Information                                                   Remittance Information
+   Bill From                   Bill To                                Remit To
+   Oxford Instruments America,       Frito-Lay, Inc.                           OXFORD INSTRUMENTS
+   Inc.                       c/o PEPSICO NASS                       AMERICA, INC.
+   300 BAKER AVE               ACCOUNTS PAYABLES                    300 BAKER AVE STE 150
+   SUITE 150                                                       CONCORD
+   cCONCORD                  Winston Salem                          MA
+   MA                       NC                                  01742
+   001742                     27105                                Unitd States
+   United States                United States
+                                                                  Tax ID of Supplier
+                             Address ID: US28
+                                                                 04358144
+Payment Terms
+Net payment Terms (Days)
+60
+                                                       Page 1
+==================================<Page 1 - END>================================

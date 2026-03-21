@@ -1,0 +1,51 @@
+{
+  "invoice_data": {
+    "invoice_number": "179177834",
+    "invoice_date": "Thursday 12 Feb 2026 12:00 PM GMT-05:00",
+    "invoice_amount": "460.27",
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": "43.74",
+    "po_number": [
+      "M413399943"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": "36.74",
+    "cost_center": null,
+    "vendor_name": "Crown Equipment Corporation",
+    "vendor_address": "44 S Washington St, New Bremen, Ohio 45869-1288, United States, Address ID: US29",
+    "po_line_items": [
+      {
+        "description": "MaterialSC / Warehouse Machinery & Equipment (PGT)",
+        "quantity": "379.79",
+        "net_price": "1.0"
+      }
+    ]
+  },
+  "filename": "SAPS4_5100174059_US29_PFNAUS_2026_999872849.pdf",
+  "raw_response": {
+    "invoice_number": "179177834",
+    "invoice_date": "Thursday 12 Feb 2026 12:00 PM GMT-05:00",
+    "invoice_amount": "460.27",
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": "43.74",
+    "po_number": [
+      "M413399943"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": "36.74",
+    "cost_center": null,
+    "vendor_name": "Crown Equipment Corporation",
+    "vendor_address": "44 S Washington St, New Bremen, Ohio 45869-1288, United States, Address ID: US29",
+    "po_line_items": [
+      {
+        "description": "MaterialSC / Warehouse Machinery & Equipment (PGT)",
+        "quantity": 379.79,
+        "net_price": 1.0
+      }
+    ]
+  }
+}

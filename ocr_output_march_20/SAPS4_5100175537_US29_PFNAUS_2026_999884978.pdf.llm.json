@@ -1,0 +1,71 @@
+{
+  "invoice_data": {
+    "invoice_number": "4259446278",
+    "invoice_date": "02/12/2026",
+    "invoice_amount": "37.63",
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": "2.63",
+    "po_number": [
+      "M412848824"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "CINTAS CORP",
+    "vendor_address": "P.O. BOX 88005, CHICAGO, IL 60680-1005",
+    "po_line_items": [
+      {
+        "description": "3X10 XTRAC MAT INGO",
+        "quantity": "0.0",
+        "net_price": "7.77"
+      },
+      {
+        "description": "SM SHOP TWL-RED-",
+        "quantity": "0.0",
+        "net_price": "0.259"
+      },
+      {
+        "description": "SM SHOP TWL-RED-",
+        "quantity": "5.0",
+        "net_price": "1.07"
+      }
+    ]
+  },
+  "filename": "SAPS4_5100175537_US29_PFNAUS_2026_999884978.pdf",
+  "raw_response": {
+    "invoice_number": "4259446278",
+    "invoice_date": "02/12/2026",
+    "invoice_amount": "37.63",
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": "2.63",
+    "po_number": [
+      "M412848824"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "CINTAS CORP",
+    "vendor_address": "P.O. BOX 88005, CHICAGO, IL 60680-1005",
+    "po_line_items": [
+      {
+        "description": "3X10 XTRAC MAT INGO",
+        "quantity": 0.0,
+        "net_price": 7.77
+      },
+      {
+        "description": "SM SHOP TWL-RED-",
+        "quantity": 0.0,
+        "net_price": 0.259
+      },
+      {
+        "description": "SM SHOP TWL-RED-",
+        "quantity": 5.0,
+        "net_price": 1.07
+      }
+    ]
+  }
+}

@@ -1,0 +1,61 @@
+{
+  "invoice_data": {
+    "invoice_number": "3220326665",
+    "invoice_date": "02/03/2026",
+    "invoice_amount": "0.98",
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": "0.06",
+    "po_number": [
+      "M411362223"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": "0.00",
+    "cost_center": null,
+    "vendor_name": "VESTIS",
+    "vendor_address": "10451 DOG LEG RD, VANDALIA OH 45377",
+    "po_line_items": [
+      {
+        "description": "GS2638NVSR SHIRT EVIS LS FLEXFIT PEPSI",
+        "quantity": "2.0",
+        "net_price": "0.232"
+      },
+      {
+        "description": "GS2657NVSR SHIRT EVIS SS FLEXFIT PEPSI",
+        "quantity": "2.0",
+        "net_price": "0.232"
+      }
+    ]
+  },
+  "filename": "SAPS4_5100058060_US29_PFNAUS_2026_999884810.pdf",
+  "raw_response": {
+    "invoice_number": "3220326665",
+    "invoice_date": "02/03/2026",
+    "invoice_amount": "0.98",
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": "0.06",
+    "po_number": [
+      "M411362223"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": "0.00",
+    "cost_center": null,
+    "vendor_name": "VESTIS",
+    "vendor_address": "10451 DOG LEG RD, VANDALIA OH 45377",
+    "po_line_items": [
+      {
+        "description": "GS2638NVSR SHIRT EVIS LS FLEXFIT PEPSI",
+        "quantity": 2.0,
+        "net_price": 0.232
+      },
+      {
+        "description": "GS2657NVSR SHIRT EVIS SS FLEXFIT PEPSI",
+        "quantity": 2.0,
+        "net_price": 0.232
+      }
+    ]
+  }
+}

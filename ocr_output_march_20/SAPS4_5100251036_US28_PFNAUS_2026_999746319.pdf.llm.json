@@ -1,0 +1,61 @@
+{
+  "invoice_data": {
+    "invoice_number": "6704877Y",
+    "invoice_date": null,
+    "invoice_amount": null,
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": null,
+    "po_number": [
+      "M413554851"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "FISHER SCIENTIFIC COMPANY LLC",
+    "vendor_address": "FISHER SCIENTIFIC, BOX 371743, PA 152517743, United States, Address ID: 004321519, Phone: 3748677",
+    "po_line_items": [
+      {
+        "description": "H3504 / HEPTANE HPLC GRADE 4L",
+        "quantity": "1.0",
+        "net_price": "431.46"
+      },
+      {
+        "description": "A4594 / ISOPROPYL ALCOHOL 4LT",
+        "quantity": "1.0",
+        "net_price": "228.18"
+      }
+    ]
+  },
+  "filename": "SAPS4_5100251036_US28_PFNAUS_2026_999746319.pdf",
+  "raw_response": {
+    "invoice_number": "6704877Y",
+    "invoice_date": null,
+    "invoice_amount": null,
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": null,
+    "po_number": [
+      "M413554851"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "FISHER SCIENTIFIC COMPANY LLC",
+    "vendor_address": "FISHER SCIENTIFIC, BOX 371743, PA 152517743, United States, Address ID: 004321519, Phone: 3748677",
+    "po_line_items": [
+      {
+        "description": "H3504 / HEPTANE HPLC GRADE 4L",
+        "quantity": 1.0,
+        "net_price": 431.46
+      },
+      {
+        "description": "A4594 / ISOPROPYL ALCOHOL 4LT",
+        "quantity": 1.0,
+        "net_price": 228.18
+      }
+    ]
+  }
+}

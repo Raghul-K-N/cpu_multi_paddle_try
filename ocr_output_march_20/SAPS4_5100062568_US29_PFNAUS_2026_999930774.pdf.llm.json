@@ -1,0 +1,39 @@
+{
+  "invoice_data": {
+    "invoice_number": "143379760",
+    "invoice_date": null,
+    "invoice_amount": "520.62",
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": null,
+    "po_number": [
+      "M412758899"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "Crown Equipment Corporation",
+    "vendor_address": "125 W Monroe, New Bremen, OH 45869, United States",
+    "po_line_items": null
+  },
+  "filename": "SAPS4_5100062568_US29_PFNAUS_2026_999930774.pdf",
+  "raw_response": {
+    "invoice_number": "143379760",
+    "invoice_date": null,
+    "invoice_amount": "520.62",
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": null,
+    "po_number": [
+      "M412758899"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "Crown Equipment Corporation",
+    "vendor_address": "125 W Monroe, New Bremen, OH 45869, United States",
+    "po_line_items": null
+  }
+}

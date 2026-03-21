@@ -1,0 +1,39 @@
+{
+  "invoice_data": {
+    "invoice_number": "23667",
+    "invoice_date": "2026-02-01",
+    "invoice_amount": "5,057.03",
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": "581.78",
+    "po_number": [
+      "M412709817"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "Country Downs Landscaping Ltd",
+    "vendor_address": "1773 Central Street · Claremont, ON 1.1Y 1B4 · Ph: 416-369-1969 - Toronto · 905-649-2222 - Durham Fax: 905-649-2225",
+    "po_line_items": null
+  },
+  "filename": "SAPS4_5100121006_CA11_PFNACA_2026_304667741.pdf",
+  "raw_response": {
+    "invoice_number": "23667",
+    "invoice_date": "2026-02-01",
+    "invoice_amount": "5,057.03",
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": "581.78",
+    "po_number": [
+      "M412709817"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "Country Downs Landscaping Ltd.",
+    "vendor_address": "1773 Central Street · Claremont, ON 1.1Y 1B4 · Ph: 416-369-1969 - Toronto · 905-649-2222 - Durham Fax: 905-649-2225",
+    "po_line_items": null
+  }
+}

@@ -1,0 +1,51 @@
+{
+  "invoice_data": {
+    "invoice_number": "FONN10818",
+    "invoice_date": "Thursday 5 Feb 2026 12:00 PM GMT-08:00",
+    "invoice_amount": "110.00",
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": null,
+    "po_number": [
+      "M413096464"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "Mckinney Trailer Rentals",
+    "vendor_address": "2601 Saturn St. Suite 110, Brea, CA 92821, United States",
+    "po_line_items": [
+      {
+        "description": "MaterialR&M/Tolls/Fees Variable Rate / R&M/Tolls/Fees Variable Rate",
+        "quantity": "110.0",
+        "net_price": "1.0"
+      }
+    ]
+  },
+  "filename": "SAPS4_5100136510_US30_PFNAUS_2026_999872780.pdf",
+  "raw_response": {
+    "invoice_number": "FONN10818",
+    "invoice_date": "Thursday 5 Feb 2026 12:00 PM GMT-08:00",
+    "invoice_amount": "110.00",
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": null,
+    "po_number": [
+      "M413096464"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "Mckinney Trailer Rentals",
+    "vendor_address": "2601 Saturn St. Suite 110, Brea, CA 92821, United States",
+    "po_line_items": [
+      {
+        "description": "MaterialR&M/Tolls/Fees Variable Rate / R&M/Tolls/Fees Variable Rate",
+        "quantity": 110.0,
+        "net_price": 1.0
+      }
+    ]
+  }
+}

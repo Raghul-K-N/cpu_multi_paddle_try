@@ -1,0 +1,51 @@
+{
+  "invoice_data": {
+    "invoice_number": "067A00007533",
+    "invoice_date": "Friday 6 Feb 2026 2:51 PM GMT-05:00",
+    "invoice_amount": "1926.96",
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": "155.85",
+    "po_number": [
+      "M413525818"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": "187.11",
+    "cost_center": null,
+    "vendor_name": "Oxford Instruments America, Inc",
+    "vendor_address": "300 Baker Ave, Suite 150, Concord, MA 01742-2124, United States",
+    "po_line_items": [
+      {
+        "description": "Material 57-LE1011 / Glass Vials 23mm OD 10ML - 57-LE1011 SRO 067X005706",
+        "quantity": "10.0",
+        "net_price": "158.4"
+      }
+    ]
+  },
+  "filename": "SAPS4_5100569525_US28_PFNAUS_2026_999930849.pdf",
+  "raw_response": {
+    "invoice_number": "067A00007533",
+    "invoice_date": "Friday 6 Feb 2026 2:51 PM GMT-05:00",
+    "invoice_amount": "1926.96",
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": "155.85",
+    "po_number": [
+      "M413525818"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": "187.11",
+    "cost_center": null,
+    "vendor_name": "Oxford Instruments America, Inc.",
+    "vendor_address": "300 Baker Ave, Suite 150, Concord, MA 01742-2124, United States",
+    "po_line_items": [
+      {
+        "description": "Material 57-LE1011 / Glass Vials 23mm OD 10ML - 57-LE1011 SRO 067X005706",
+        "quantity": 10.0,
+        "net_price": 158.4
+      }
+    ]
+  }
+}

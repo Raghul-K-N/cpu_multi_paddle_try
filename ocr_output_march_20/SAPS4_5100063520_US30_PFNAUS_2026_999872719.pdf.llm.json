@@ -1,0 +1,51 @@
+{
+  "invoice_data": {
+    "invoice_number": "M00506591",
+    "invoice_date": "Monday 9 Feb 2026 12:00 PM GMT-06:00",
+    "invoice_amount": "445.00",
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": null,
+    "po_number": [
+      "M413120125"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "MILESTONE EQUIPMENT COMPANY LLC",
+    "vendor_address": "MILESTONE EQUIPMENT COMPANY LLC, PO Box 205589, Dallas, TX 75320-5589, United States",
+    "po_line_items": [
+      {
+        "description": "MaterialR&M/Tolls/Fees Variable Rate / R&M/Tolls/Fees Variable Rate",
+        "quantity": "445.0",
+        "net_price": "1.0"
+      }
+    ]
+  },
+  "filename": "SAPS4_5100063520_US30_PFNAUS_2026_999872719.pdf",
+  "raw_response": {
+    "invoice_number": "M00506591",
+    "invoice_date": "Monday 9 Feb 2026 12:00 PM GMT-06:00",
+    "invoice_amount": "445.00",
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": null,
+    "po_number": [
+      "M413120125"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "MILESTONE EQUIPMENT COMPANY LLC",
+    "vendor_address": "MILESTONE EQUIPMENT COMPANY LLC, PO Box 205589, Dallas, TX 75320-5589, United States",
+    "po_line_items": [
+      {
+        "description": "MaterialR&M/Tolls/Fees Variable Rate / R&M/Tolls/Fees Variable Rate",
+        "quantity": 445.0,
+        "net_price": 1.0
+      }
+    ]
+  }
+}

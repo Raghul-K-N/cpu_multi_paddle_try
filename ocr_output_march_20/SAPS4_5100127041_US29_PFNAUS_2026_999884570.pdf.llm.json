@@ -1,0 +1,35 @@
+{
+  "invoice_data": {
+    "invoice_number": "160362",
+    "invoice_date": "02/12/26",
+    "invoice_amount": null,
+    "invoice_currency": null,
+    "tax_amount": null,
+    "po_number": [
+      "M413232235"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "MTECH MECHANICAL TECHNOLOGIES GROUP INC",
+    "vendor_address": "12300 PECOS STREET, WESTMINSTER, CO 80234-3426, 303-650-4000, SPRINGSSERVICEAR@MTECHG.COM",
+    "po_line_items": null
+  },
+  "filename": "SAPS4_5100127041_US29_PFNAUS_2026_999884570.pdf",
+  "raw_response": {
+    "invoice_number": "160362",
+    "invoice_date": "02/12/26",
+    "invoice_amount": null,
+    "invoice_currency": null,
+    "tax_amount": null,
+    "po_number": [
+      "M413232235"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "MTECH MECHANICAL TECHNOLOGIES GROUP INC.",
+    "vendor_address": "12300 PECOS STREET, WESTMINSTER, CO 80234-3426, 303-650-4000, SPRINGSSERVICEAR@MTECHG.COM",
+    "po_line_items": null
+  }
+}

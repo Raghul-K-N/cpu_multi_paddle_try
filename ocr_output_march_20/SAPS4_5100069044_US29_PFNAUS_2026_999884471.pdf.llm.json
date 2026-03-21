@@ -1,0 +1,171 @@
+{
+  "invoice_data": {
+    "invoice_number": "C013513877",
+    "invoice_date": "February 6, 2026",
+    "invoice_amount": "670.45",
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": "56.20",
+    "po_number": [
+      "M413550360"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "PENSKE TRUCK LEASING CO., L.P",
+    "vendor_address": "P.O. BOX 827380, PHILADELPHIA, PA 19182-7380",
+    "po_line_items": [
+      {
+        "description": "26FT SAD MEDIUM VAN",
+        "quantity": "602.0",
+        "net_price": "0.14"
+      },
+      {
+        "description": "Hours",
+        "quantity": "0.0",
+        "net_price": "26.0"
+      },
+      {
+        "description": "Days",
+        "quantity": "0.0",
+        "net_price": "105.0"
+      },
+      {
+        "description": "Weeks",
+        "quantity": "1.0",
+        "net_price": "525.0"
+      },
+      {
+        "description": "Months",
+        "quantity": "0.0",
+        "net_price": "2275.0"
+      },
+      {
+        "description": "Miles",
+        "quantity": "550.0",
+        "net_price": "0.14"
+      },
+      {
+        "description": "One-way Rate",
+        "quantity": "0.0",
+        "net_price": "0.0"
+      },
+      {
+        "description": "One-way Towing Rate",
+        "quantity": "0.0",
+        "net_price": "0.0"
+      },
+      {
+        "description": "Discount (0%)",
+        "quantity": "0.0",
+        "net_price": "0.0"
+      },
+      {
+        "description": "Time and Mileage Total",
+        "quantity": "602.0",
+        "net_price": "0.0"
+      },
+      {
+        "description": "Insurance",
+        "quantity": "0.0",
+        "net_price": "0.0"
+      },
+      {
+        "description": "1-ENVIRONMENTAL FEF",
+        "quantity": "1.0",
+        "net_price": "12.25"
+      },
+      {
+        "description": "CO DENVER RETAIL SAL",
+        "quantity": "1.0",
+        "net_price": "56.2"
+      }
+    ]
+  },
+  "filename": "SAPS4_5100069044_US29_PFNAUS_2026_999884471.pdf",
+  "raw_response": {
+    "invoice_number": "C013513877",
+    "invoice_date": "February 6, 2026",
+    "invoice_amount": "670.45",
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": "56.20",
+    "po_number": [
+      "M413550360"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "PENSKE TRUCK LEASING CO., L.P.",
+    "vendor_address": "P.O. BOX 827380, PHILADELPHIA, PA 19182-7380",
+    "po_line_items": [
+      {
+        "description": "26FT SAD MEDIUM VAN",
+        "quantity": 602.0,
+        "net_price": 0.14
+      },
+      {
+        "description": "Hours",
+        "quantity": 0.0,
+        "net_price": 26.0
+      },
+      {
+        "description": "Days",
+        "quantity": 0.0,
+        "net_price": 105.0
+      },
+      {
+        "description": "Weeks",
+        "quantity": 1.0,
+        "net_price": 525.0
+      },
+      {
+        "description": "Months",
+        "quantity": 0.0,
+        "net_price": 2275.0
+      },
+      {
+        "description": "Miles",
+        "quantity": 550.0,
+        "net_price": 0.14
+      },
+      {
+        "description": "One-way Rate",
+        "quantity": 0.0,
+        "net_price": 0.0
+      },
+      {
+        "description": "One-way Towing Rate",
+        "quantity": 0.0,
+        "net_price": 0.0
+      },
+      {
+        "description": "Discount (0%)",
+        "quantity": 0.0,
+        "net_price": 0.0
+      },
+      {
+        "description": "Time and Mileage Total",
+        "quantity": 602.0,
+        "net_price": 0.0
+      },
+      {
+        "description": "Insurance",
+        "quantity": 0.0,
+        "net_price": 0.0
+      },
+      {
+        "description": "1-ENVIRONMENTAL FEF",
+        "quantity": 1.0,
+        "net_price": 12.25
+      },
+      {
+        "description": "CO DENVER RETAIL SAL",
+        "quantity": 1.0,
+        "net_price": 56.2
+      }
+    ]
+  }
+}

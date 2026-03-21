@@ -1,0 +1,39 @@
+{
+  "invoice_data": {
+    "invoice_number": "6320747303",
+    "invoice_date": "02/11/2026",
+    "invoice_amount": "55.55",
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": "2.89",
+    "po_number": [
+      "M412604265"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": "0.00",
+    "cost_center": null,
+    "vendor_name": "VESTIS",
+    "vendor_address": "25259 NETWORK PLACE, CHICAGO IL 60673-1252",
+    "po_line_items": null
+  },
+  "filename": "SAPS4_5100075529_US29_PFNAUS_2026_999884524.pdf",
+  "raw_response": {
+    "invoice_number": "6320747303",
+    "invoice_date": "02/11/2026",
+    "invoice_amount": "55.55",
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": "2.89",
+    "po_number": [
+      "M412604265"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": "0.00",
+    "cost_center": null,
+    "vendor_name": "VESTIS",
+    "vendor_address": "25259 NETWORK PLACE, CHICAGO IL 60673-1252",
+    "po_line_items": null
+  }
+}

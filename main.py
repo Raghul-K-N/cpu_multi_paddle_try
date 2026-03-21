@@ -7,8 +7,8 @@ import multiprocessing as mp
 from datetime import datetime
 from ocr_worker import ocr_worker
 
-INPUT_DIR = "./pepsico_attachments/attachments"
-OUTPUT_DIR = "./ocr_output"
+INPUT_DIR = "./march_20"
+OUTPUT_DIR = "./ocr_output_march_20"
 LOG_DIR = "./logs"
 NUM_WORKERS = 9
 QUEUE_SIZE = 5  # bounded queue

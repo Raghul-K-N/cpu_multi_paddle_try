@@ -1,0 +1,51 @@
+{
+  "invoice_data": {
+    "invoice_number": "04S7230410",
+    "invoice_date": "Friday 13 Feb 2026 10:32 AM GMT-08:00",
+    "invoice_amount": "87.20",
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": "7.20",
+    "po_number": [
+      "M413532883"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "NORTHWEST HANDLING SYSTEMS INC",
+    "vendor_address": "NORTH WEST HANDLING SYSTEMS INC, 1100 SW 7th St, Renton, WA 98057-2939, United States, Address ID: US29",
+    "po_line_items": [
+      {
+        "description": "Material Not Available / racking warehouse repair",
+        "quantity": "80.0",
+        "net_price": "1.0"
+      }
+    ]
+  },
+  "filename": "SAPS4_5100075062_US29_PFNAUS_2026_999872938.pdf",
+  "raw_response": {
+    "invoice_number": "04S7230410",
+    "invoice_date": "Friday 13 Feb 2026 10:32 AM GMT-08:00",
+    "invoice_amount": "../../../87.20",
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": "7.20",
+    "po_number": [
+      "M413532883"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "NORTHWEST HANDLING SYSTEMS INC",
+    "vendor_address": "NORTH WEST HANDLING SYSTEMS INC, 1100 SW 7th St, Renton, WA 98057-2939, United States, Address ID: US29",
+    "po_line_items": [
+      {
+        "description": "Material Not Available / racking warehouse repair",
+        "quantity": 80.0,
+        "net_price": 1.0
+      }
+    ]
+  }
+}

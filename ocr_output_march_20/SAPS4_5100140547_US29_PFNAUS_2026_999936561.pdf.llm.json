@@ -1,0 +1,51 @@
+{
+  "invoice_data": {
+    "invoice_number": "888068751",
+    "invoice_date": "02/11/2026",
+    "invoice_amount": "127.20",
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": "7.20",
+    "po_number": [
+      "M413048253"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "GRAINGER",
+    "vendor_address": "2011 AVENUE C, BETHLEHEM, PA 18017, UNITED STATES OF AMERICA",
+    "po_line_items": [
+      {
+        "description": "EYELATION ORDERS 01-01-26_TO 01-15-26",
+        "quantity": "1.0",
+        "net_price": "120.0"
+      }
+    ]
+  },
+  "filename": "SAPS4_5100140547_US29_PFNAUS_2026_999936561.pdf",
+  "raw_response": {
+    "invoice_number": "888068751",
+    "invoice_date": "02/11/2026",
+    "invoice_amount": "127.20",
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": "7.20",
+    "po_number": [
+      "M413048253"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "GRAINGER",
+    "vendor_address": "2011 AVENUE C, BETHLEHEM, PA 18017, UNITED STATES OF AMERICA",
+    "po_line_items": [
+      {
+        "description": "EYELATION ORDERS 01-01-26_TO 01-15-26",
+        "quantity": 1.0,
+        "net_price": 120.0
+      }
+    ]
+  }
+}

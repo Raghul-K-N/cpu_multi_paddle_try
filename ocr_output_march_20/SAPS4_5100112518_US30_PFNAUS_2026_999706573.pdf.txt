@@ -1,0 +1,64 @@
+==================================<Page 1 - START>================================
+Standard Invoice
+                                                                                                      MILESTONE
+Original tax invoice has been submitted electronically. This is a
+human readable representation (copy) of the original tax invoice.
+                                                         Invoice Number                                   M00506301
+                                                         (Supplier Reference No.)
+                                                         Invoice Date                  Sunday 8 Feb 2026 12:00 PM GMT-06:00
+                                                         Amount Due                                   $1,200.96 USD
+   Contact Information                                                  Shipping Information
+  Supplier                    Customer                              Ship From                  Ship To
+   MILESTONE EQUIPMENT        FL Transportation, Inc.
+                                                                 MILESTONE EQUIPMENT         US-FL-BAY CITY-MI-FLT
+   COMPANY LLC               c/o PEPSICO NASS                       COMPANY LLC               Jenny.Parish@pepsico.com
+   PO Box 205589               ACCOUNTS PAYABLES                    PO Box 205589               US-FL-BAY CITY-MI-FLT
+   Dallas                                                         allas                     1000 CALABRIA
+   TX                       Winston Salem                          TX                       BAY CITY
+   75320-5589                  NC                                  75320-5589
+                                                                                            MI
+   United States                27105                                United States                48706
+                             United States                                                     United States
+                             Address ID: US30                                                  Address ID: 2981
+Line Items                                          PO No.: M413122718                                   PO Date: 8 Jul 2025
+Line No.   PO Line No.         Type   Supplier Part No. /           Customer Part No.                       Unit Price       Subtotal
+                                  Description
+                           MaterialR&M/Tolls/Fees Variable Rate /                       1,132.98 / (EA)     $1.00 USD   $1,132.98 USD
+                                  R&amp;M/Tolls/Fees Variable Rate
+        Taxes, Allowances and Charges
+                               Applicable To
+        Category                                 Details              Base Amount       Rate %      Amount
+        Sales Tax               Line             Tax Description : A/P Sales $1,132.98 USD      6.00%      $67.98 USD
+                                                Tax
+                                                                                       Line Item Total : $1,200.96 USD
+    Tax Summary
+    Category             Details                       Base Amount             Rate %        Amount
+                                                                                        $67.98 USD
+   Sales Tax             Tax Description : A/P Sales Tax        $1,132.98 USD            6.00%
+                                                                    Amount Summary
+                                                                    Line item subtotal
+                                                                                                       $1,132.98 USD
+                                                                     Gross amount                       $1,200.96 USD
+                                                                     Net amount                         $1,200.96 USD
+                                                                     Total tax amount                        $67.98 USD
+                                                                     Total withholding tax amount
+                                                                     Amount Due                         $1,200.96 USD
+   Additional Information
+  ServiceDescription
+   01/2026 Trailer repairs
+   Billing Information                                                  Remittance Information
+   Bill From                   Bill To                                Remit To
+   MILESTONE EQUIPMENT        FL Transportation, Inc.                      MILESTONE TRAILER
+   COMPANY LLC               c/o PEPSICO NASS                       LEASING LLC
+                             ACCOUNTS PAYABLES
+   Dallas                     PO BOX 1800                           DALLAS
+                            Win Salem                           TX
+                             NC                                  75320-5589
+   United States                27105                                United States
+                             United States                           Address ID: BNAREMIT
+                             Address ID: US30
+Payment Terms
+Net payment Terms (Days) :
+60
+                                                       Page 1
+==================================<Page 1 - END>================================

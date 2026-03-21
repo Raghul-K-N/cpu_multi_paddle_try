@@ -1,0 +1,51 @@
+{
+  "invoice_data": {
+    "invoice_number": "1000501058",
+    "invoice_date": "Sunday 1 Feb 2026 12:00 PM GMT-05:00",
+    "invoice_amount": "509.44",
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": "34.44",
+    "po_number": [
+      "M413434295"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "COVERALL",
+    "vendor_address": "Deerfield Beach, FL, US",
+    "po_line_items": [
+      {
+        "description": "MaterialSC12-1000 / COMMERCIAL CLEANING SERVICE",
+        "quantity": "475.0",
+        "net_price": "1.0"
+      }
+    ]
+  },
+  "filename": "SAPS4_5100099021_US29_PFNAUS_2026_999872645.pdf",
+  "raw_response": {
+    "invoice_number": "1000501058",
+    "invoice_date": "Sunday 1 Feb 2026 12:00 PM GMT-05:00",
+    "invoice_amount": "509.44",
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": "34.44",
+    "po_number": [
+      "M413434295"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "COVERALL",
+    "vendor_address": "Deerfield Beach, FL, US",
+    "po_line_items": [
+      {
+        "description": "MaterialSC12-1000 / COMMERCIAL CLEANING SERVICE",
+        "quantity": 475.0,
+        "net_price": 1.0
+      }
+    ]
+  }
+}

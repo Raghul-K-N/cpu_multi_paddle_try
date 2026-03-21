@@ -1,0 +1,51 @@
+{
+  "invoice_data": {
+    "invoice_number": "255206",
+    "invoice_date": "02/11/26",
+    "invoice_amount": "143.75",
+    "invoice_currency": [
+      "CAD"
+    ],
+    "tax_amount": "18.75",
+    "po_number": [
+      "M413329514"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "K&D Pratt Group Inc",
+    "vendor_address": "Mount Pearl, NL (709) 722-5690 / 1-800 563-9595, Dartmouth, NS (902) 468-1955 / 1-800-567-1955, Antigonish, NS (902) 867-1200 / 1-866-867-1200",
+    "po_line_items": [
+      {
+        "description": "7 MONTHLY INSPECTION FIRE EXTINGUISHERS & EME",
+        "quantity": "1.0",
+        "net_price": "125.0"
+      }
+    ]
+  },
+  "filename": "SAPS4_5100173501_CA11_PFNACA_2026_304672235.pdf",
+  "raw_response": {
+    "invoice_number": "255206",
+    "invoice_date": "02/11/26",
+    "invoice_amount": "143.75",
+    "invoice_currency": [
+      "CAD"
+    ],
+    "tax_amount": "18.75",
+    "po_number": [
+      "M413329514"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "K&D Pratt Group Inc.",
+    "vendor_address": "Mount Pearl, NL (709) 722-5690 / 1-800 563-9595, Dartmouth, NS (902) 468-1955 / 1-800-567-1955, Antigonish, NS (902) 867-1200 / 1-866-867-1200",
+    "po_line_items": [
+      {
+        "description": "7 MONTHLY INSPECTION FIRE EXTINGUISHERS & EME",
+        "quantity": 1.0,
+        "net_price": 125.0
+      }
+    ]
+  }
+}

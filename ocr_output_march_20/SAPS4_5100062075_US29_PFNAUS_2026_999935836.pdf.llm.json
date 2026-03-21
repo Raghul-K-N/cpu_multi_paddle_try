@@ -1,0 +1,51 @@
+{
+  "invoice_data": {
+    "invoice_number": "1798",
+    "invoice_date": "12/01/2025",
+    "invoice_amount": "1296.00",
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": "96.00",
+    "po_number": [
+      "M413324087"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "J&J Snow Solutions LLC",
+    "vendor_address": "2809 Stone Rd, Falconer, NY 14733 US",
+    "po_line_items": [
+      {
+        "description": "Plow This is our monthly contract for plowing. Trigger will be every 2-3 inches",
+        "quantity": "1.0",
+        "net_price": "1200.0"
+      }
+    ]
+  },
+  "filename": "SAPS4_5100062075_US29_PFNAUS_2026_999935836.pdf",
+  "raw_response": {
+    "invoice_number": "1798",
+    "invoice_date": "12/01/2025",
+    "invoice_amount": "1296.00",
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": "96.00",
+    "po_number": [
+      "M413324087"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "J&J Snow Solutions LLC",
+    "vendor_address": "2809 Stone Rd, Falconer, NY 14733 US",
+    "po_line_items": [
+      {
+        "description": "Plow This is our monthly contract for plowing. Trigger will be every 2-3 inches",
+        "quantity": 1.0,
+        "net_price": 1200.0
+      }
+    ]
+  }
+}

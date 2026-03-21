@@ -1,0 +1,51 @@
+{
+  "invoice_data": {
+    "invoice_number": "C013491421",
+    "invoice_date": "February 6, 2026",
+    "invoice_amount": "440.79",
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": "38.16",
+    "po_number": [
+      "M413550254"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "PENSKE TRUCK LEASING CO., L.P",
+    "vendor_address": "P.O. BOX 827380, PHILADELPHIA, PA 19182-7380",
+    "po_line_items": [
+      {
+        "description": "16FT SAG LIGHT HICUBE",
+        "quantity": "390.38",
+        "net_price": "0.14"
+      }
+    ]
+  },
+  "filename": "SAPS4_5100138519_US29_PFNAUS_2026_999936564.pdf",
+  "raw_response": {
+    "invoice_number": "C013491421",
+    "invoice_date": "February 6, 2026",
+    "invoice_amount": "440.79",
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": "38.16",
+    "po_number": [
+      "M413550254"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "PENSKE TRUCK LEASING CO., L.P.",
+    "vendor_address": "P.O. BOX 827380, PHILADELPHIA, PA 19182-7380",
+    "po_line_items": [
+      {
+        "description": "16FT SAG LIGHT HICUBE",
+        "quantity": 390.38,
+        "net_price": 0.14
+      }
+    ]
+  }
+}

@@ -1,0 +1,232 @@
+==================================<Page 1 - START>================================
+Standard Invoice
+Original tax invoice has been submitted electronically. This is a
+human readable representation (copy) of the original tax invoice.
+                                                         Invoice Number
+                                                                                                          19032
+                                                         (Supplier Reference No.)
+                                                        Invoice Date                Wednesday 11 Feb 2026 2:27 PM GMT-05:00
+                                                        Amount Due                                   $7,111.80 USD
+   Contact Information                                                  Shipping Information
+   Supplier                    Customer
+                                                                 Ship From                  Ship To
+   Mathand, Inc.                 Rolling Frito-Lay Sales                      Mathand, Inc.                US-DC-LA MIRADA-CA-RFLS
+   103 Smoke Hill Ln             c/o PEPSICO NASS                       103 Smoke Hill Lane            Krista.Bockoven@pepsico.com
+                             ACCOUNTS PAYABLES
+                                                                 Site 130                   US-DC-LA MIRADA-CA-RFLS
+                             PO BOX 1800                           Woodstock                  16701 TROJAN WAY
+   GA                       Winston Salem                          GA                       LA MIRADA
+   30188                     NC                                  30188                     CA
+   United States                27105                               Un te States                90638-5906
+                             United States
+                                                                                            United States
+                             Address ID: US29                                                   Address ID: 2205
+                                                                                            Phone: 3524477
+Line Items                                         PO No. : M413263389                                  PO Date : 17 Sep 2025
+Line No.   PO Line No.        Type  Supplier Part No. /            Customer Part No.                       Unit Price       Subtotal
+                                  Description
+                           MaterialNot Available / LINE 1                             4,025 /(EA)       $1.00 USD   $4,025.00 USD
+                                  MATERIALS-Hardward, parts, and
+                                  accessories-LA MIRADA CA DC
+        Taxes, Allowances and Charges
+                               Applicable To       Details              Base Amount       Rate %
+        Category                                                                                 Amount
+        Sales Tax               Line             Tax Description : A/P Sales $4,025.00 USD      9.75%      $392.44 USD
+                                                Tax
+                                                                                       Line Item Total : $4,417.44 USD
+Line No.   PO Line No.         Type   Supplier Part No. /            Customer Part No.                       Unit Price       Subtotal
+                                  DDescription
+                           MaterialNot Available / LINE 2-LABOR-LA                     960 / (EA)        $1.00 USD    $960.00 USD
+                                  MIRADA CA DC
+        Taxes, Allowances and Charges
+        Category                Applicable To       Details              Base Amount       Rate %     Amount
+        Sales Tax               Line             Tax Description : A/P Sales $960.00 USD       9.75%      $93.60 USD
+                                                                                       Line Item Total : $1,053.60 USD
+Line No.   PO Line No.                Supplier Part No. /            Customer Part No.                       Unit Price       Subtotal
+                           Type
+                                  DDescription
+                           MaterialNot Available / LINE 3-FORK LIF                      1,000 / (EA)       $1.00 USD   $1,000.00 SD
+                                  RENTAL-LA MIRADA CA DC
+        Taxes, Allowances and Charges
+        Category                Applicable To       Details              Base Amount       Rate %     Amount
+        Sales Tax               Line              Tax Description: A/P Sales  $1,000.00 USD      9.75%      $97.50 USD
+                                                Tax
+                                                                                       Line Item Total : $1,097.50 USD
+Line No.  PO Line No.        Type   Supplier Part No. /            Customer Part No.                       Unit Price        Subtotal
+                                  D escription
+                           MaterialNot Available / LINE 4-FREIGHT-                     495 /(EA)        $1.00 USD    $495.00 USD
+                                  BRAKE DELIVERY-LA MIRADA CA
+                                  DC
+        Taxes, Allowances and Charges
+                                                Details
+        Category                Applicable To                           Base Amount       Rate %     Amount
+        Sales Tax               Line             Tax Description : A/P Sales $495.00 USD       9.75%      $48.26 USD
+                                                Tax
+                                                                                        Line Item Total : $543.26 USD
+    Tax Summary
+    Category             Details                       Base Amount             Rate %        Amount
+    Sales Tax                                         $5,025.00 USD            9.75%         $489.94 USD
+                        Tax Description : A/P Sales Tax
+    Sales Tax             Tax Description : A/P Sales Tax        $1,455.00 USD            9.75%         $141.86 USD
+                                                                    Amount Summary
+                                                                     Line item subtotal                      $6,480.00 USD
+                                                                     Gross amount                       $7,111.80 USD
+                                                                     Net amount                         $7,111.80 USD
+                                                                     Total tax amount                       $631.80 USD
+                                                                     Total witholding tax amount
+                                                                     Amount Due                         $7,111.80 USD
+   Additional Information
+   Payment Method
+   ACH
+   Billing Information                                                  Remittance Information
+                             Bill To                                Remit To
+   Bill From
+   Mathand, Inc.                Rolling Frito-Lay Sales                      Connie Costner
+   103 Smoke Hill Ln                                                  103 Smoke Hill Ln
+   Suite 130                   ACCOUNTS PAYABLES                    Suite 130
+   Woodstock                  PO BOX 1800                           oodstock
+   GA                       Winston Salem                          GA
+   30188                                                          30188
+   United States                                                     United States
+                                                                 Address ID: 001
+                             Address ID: US29
+                                                                  Tax ID of Supplier
+                                                                 581378152
+                                                       Page 1
+==================================<Page 1 - END>================================
+==================================<Page 2 - START>================================
+Payment Terms
+Net payment Terms (Days) :
+ 60
+                                                       Page 2
+==================================<Page 2 - END>================================
+==================================<Page 3 - START>================================
+Appendix
+Line No.   PO Line No.Type                       Supplier Part No. / Description
+                   Material                     Not Available / LINE 1-MATERIALS-Hardward, parts, and accessories-LA MIRADA CA DC
+Additional Details:
+Classification Domain:custom
+Classification Code: MRO759008
+Line No.   PO Line No.Type                       Supplier Part No. / Description
+2       2       Material                     Not Available / LINE 2-LABOR-LA MIRADA CA DC
+Additional Details:
+Classification Domain:custom
+Classification Code: MRO759001
+Supplier Part ID: Not Available
+Line No.                                       Supplier Part No. / Description
+          PO Line No. Type
+3       3       Material                     Not Available / LINE 3-FORK LIF RENTAL-LA MIRADA CA DC
+Additional Details
+Classification Domain:custom
+Classification Code SCH777003
+Line No.   PO Line No.Type                       Supplier Part No. / Description
+4       4       Material                      Not Available / LINE 4-FREIGHT-BRAKE DELIVERY-LA MIRADA CA DC
+Additional Details:
+Classification Domain:custom
+Classification Code: SCH780003
+ Supplier Part ID : Not Available
+PDF generated on Wednesday 11 Feb 2026 11:27 AM GMT-08:00
+                                                       Page 3
+==================================<Page 3 - END>================================
+==================================<Page 4 - START>================================
+Standard Invoice
+Original tax invoice has been submitted electronically. This is a
+human readable representation (copy) of the original tax invoice.
+                                                         Invoice Number
+                                                                                                           19032
+                                                         (Supplier Reference No.)
+                                                         Invoice Date                Wednesday 11 Feb 2026 2:27 PM GMT-05:00
+                                                         Amount Due                                   $7,111.80 USD
+   Contact Information                                                  Shipping Information
+   Supplier                    Customer
+                                                                  Ship From                  Ship To
+   Mathand, Inc.                 Rolling Frito-Lay Sales                      Mathand, Inc.                US-DC-LA MIRADA-CA-RFLS
+   103 Smoke Hill Ln             c/o PEPSICO NASS                       103 Smoke Hill Lane            Krista.Bockoven@pepsico.com
+                             ACCOUNTS PAYABLES
+                                                                  Site 130                   US-DC-LA MIRADA-CA-RFLS
+                             PO BOX 1800                           Woodstock                  16701 TROJAN WAY
+   GA                       Winston Salem                          GA                       LA MIRADA
+   30188                     NC                                  30188                     CA
+   United States                27105                               Un te States                90638-5906
+                             United States
+                                                                                            United States
+                             Address ID: US29                                                   Address ID: 2205
+                                                                                            Phone: 3524477
+Line Items                                         PO No. : M413263389                                  PO Date : 17 Sep 2025
+Line No.   PO Line No.        Type  Supplier Part No. /            Customer Part No.                       Unit Price       Subtotal
+                                  Description
+                           MaterialNot Available / LINE 1                             4,025 /(EA)       $1.00 USD   $4,025.00 USD
+                                  MATERIALS-Hardward, parts, and
+                                  accessories-LA MIRADA CA DC
+        Taxes, Allowances and Charges
+                                Applicable To       Details              Base Amount       Rate %
+         Category                                                                                 Amount
+         Sales Tax               Line             Tax Description : A/P Sales $4,025.00 USD      9.75%      $392.44 USD
+                                                Tax
+                                                                                       Line Item Total : $4,417.44 USD
+ Line No.   PO Line No.         Type   Supplier Part No. /            Customer Part No.                       Unit Price       Subtotal
+                                  DDescription
+                           MaterialNot Available / LINE 2-LABOR-LA                     960 / (EA)        $1.00 USD    $960.00 USD
+                                  MIRADA CA DC
+        Taxes, Allowances and Charges
+        Category                Applicable To       Details              Base Amount       Rate %     Amount
+        Sales Tax               Line             Tax Description : A/P Sales $960.00 USD       9.75%      $93.60 USD
+                                                                                       Line Item Total : $1,053.60 USD
+Line No.   PO Line No.                Supplier Part No. /            Customer Part No.                       Unit Price       Subtotal
+                           Type
+                                  DDescription
+                           MaterialNot Available / LINE 3-FORK LIF                      1,000 / (EA)       $1.00 USD   $1,000.00 SD
+                                  RENTAL-LA MIRADA CA DC
+        Taxes, Allowances and Charges
+        Category                Applicable To       Details              Base Amount       Rate %     Amount
+         Sales Tax               Line              Tax Description: A/P Sales  $1,000.00 USD      9.75%      $97.50 USD
+                                                 Tax
+                                                                                        Line Item Total : $1,097.50 USD
+Line No.  PO Line No.        Type   Supplier Part No. /            Customer Part No.                       Unit Price        Subtotal
+                                  D escription
+                           MaterialNot Available / LINE 4-FREIGHT-                     495 /(EA)        $1.00 USD    $495.00 USD
+                                  BRAKE DELIVERY-LA MIRADA CA
+                                  DC
+        Taxes, Allowances and Charges
+                                                 Details
+        Category                Applicable To                           Base Amount       Rate %     Amount
+         Sales Tax               Line             Tax Description : A/P Sales $495.00 USD       9.75%      $48.26 USD
+                                                Tax
+                                                                                         Line Item Total : $543.26 USD
+    Tax Summary
+    Category             Details                       Base Amount             Rate %        Amount
+    Sales Tax                                         $5,025.00 USD            9.75%         $489.94 USD
+                        Tax Description : A/P Sales Tax
+    Sales Tax             Tax Description : A/P Sales Tax        $1,455.00 USD            9.75%         $141.86 USD
+                                                                    Amount Summary
+                                                                     Line item subtotal                      $6,480.00 USD
+                                                                     Gross amount                       $7,111.80 USD
+                                                                     Net amount                         $7,111.80 USD
+                                                                     Total tax amount                       $631.80 USD
+                                                                     Total witholding tax amount
+                                                                     Amount Due                         $7,111.80 USD
+   Additional Information
+   Payment Method
+   ACH
+   Billing Information                                                  Remittance Information
+                             Bill To                                Remit To
+   Bill From
+   Mathand, Inc.                Rolling Frito-Lay Sales                      Connie Costner
+   103 Smoke Hill Ln                                                  103 Smoke Hill Ln
+   Suite 130                   ACCOUNTS PAYABLES                    Suite 130
+   Woodstock                  PO BOX 1800                           oodstock
+   GA                       Winston Salem                          GA
+   30188                                                          30188
+   United States                                                     United States
+                                                                 Address ID: 001
+                             Address ID: US29
+                                                                  Tax ID of Supplier
+                                                                  581378152
+                                                       Page 1
+==================================<Page 4 - END>================================
+==================================<Page 5 - START>================================
+Payment Terms
+ Net payment Terms (Days) :
+ 60
+                                                       Page 2
+==================================<Page 5 - END>================================

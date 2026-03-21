@@ -37,6 +37,13 @@ LLM_API_URL = "http://34.162.66.245:8082/v1/fetch-invoice-keyfields"
 LLM_API_KEY = "Llama-api/version-0.1"
 LLM_TIMEOUT = 800
 
+def check_is_ariba_invoice_end(text_line: str, checkindex: int) -> bool:
+    ariba_keywords = ['PDF generated on']
+    text = text_line.replace(" ", "").lower()
+    is_ariba = ariba_keywords[checkindex].replace(" ", "").lower() in text
+    return is_ariba
+
+
 def check_is_ariba_invoice(text_line: str, checkindex: int) -> bool:
     """ariba_keywords
     Heuristic to determine if the invoice is an Ariba invoice based on presence of keywords.
@@ -118,7 +125,8 @@ def adapt_paddle_result(pipeline_output):
                         matched_page = None
                 else:
                     invoice_type = "non-po"
-                        
+            if invoice_type == "ariba" and check_is_ariba_invoice_end(text, ariba_matched_len):
+                end_page = index
             page_items.append([formatted_box, [text, conf]])
         
         

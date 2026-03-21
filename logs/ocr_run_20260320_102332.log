@@ -1,0 +1,458 @@
+[2026-03-20 10:23:32] [INFO    ] [MainProcess] Log file created: ./logs/ocr_run_20260320_102332.log | fname=
+[2026-03-20 10:23:32] [INFO    ] [MainProcess] ========== OCR Pipeline Starting ========== | fname=INIT
+[2026-03-20 10:23:32] [INFO    ] [MainProcess] Input directory : /home/whirldata/cpu_multi_paddle_try/march_20 | fname=INIT
+[2026-03-20 10:23:32] [INFO    ] [MainProcess] Output directory: /home/whirldata/cpu_multi_paddle_try/ocr_output_march_20 | fname=INIT
+[2026-03-20 10:23:32] [INFO    ] [MainProcess] Total vCPUs     : 60 | fname=INIT
+[2026-03-20 10:23:32] [INFO    ] [MainProcess] Num workers     : 9 | fname=INIT
+[2026-03-20 10:23:32] [INFO    ] [MainProcess] Threads/worker  : 6 | fname=INIT
+[2026-03-20 10:23:32] [INFO    ] [MainProcess] Queue size      : 5 | fname=INIT
+[2026-03-20 10:23:32] [INFO    ] [MainProcess] Supported exts  : {'.bmp', '.pdf', '.png', '.tiff', '.tif', '.jpeg', '.webp', '.jpg'} | fname=INIT
+[2026-03-20 10:23:32] [INFO    ] [MainProcess] Total entries found in input directory: 56 | fname=SCAN
+[2026-03-20 10:23:32] [DEBUG   ] [MainProcess] All entries: ['SAPS4_5100157510_US30_PFNAUS_2026_999872782.pdf', 'SAPS4_5100087022_US28_PFNAUS_2026_999884314.pdf', 'SAPS4_5100064048_US29_PFNAUS_2026_999935901.pdf', 'SAPS4_5100149541_US29_PFNAUS_2026_999930875.pdf', 'SAPS4_5100118536_US29_PFNAUS_2026_999884426.pdf', 'SAPS4_5100180002_US29_PFNAUS_2026_999872858.pdf', 'SAPS4_5100136510_US30_PFNAUS_2026_999872780.pdf', 'SAPS4_5100075529_US29_PFNAUS_2026_999884524.pdf', 'SAPS4_5100099021_US29_PFNAUS_2026_999872645.pdf', 'SAPS4_5100121006_CA11_PFNACA_2026_304667741.pdf', 'SAPS4_5100569525_US28_PFNAUS_2026_999930849.pdf', 'SAPS4_5100160055_US29_PFNAUS_2026_999872813.pdf', 'SAPS4_5100089050_US29_PFNAUS_2026_999936145.pdf', 'SAPS4_5100173501_CA11_PFNACA_2026_304672235.pdf', 'SAPS4_5100140544_US29_PFNAUS_2026_999872756.pdf', 'SAPS4_5100125049_US29_PFNAUS_2026_999872715.pdf', 'SAPS4_5100183046_US29_PFNAUS_2026_999872872.pdf', 'SAPS4_5100116558_US29_PFNAUS_2026_999936357.pdf', 'SAPS4_5100099544_US29_PFNAUS_2026_999884834.pdf', 'SAPS4_5100059542_US29_PFNAUS_2026_999884833.pdf', 'SAPS4_5100121006_US30_PFNAUS_2026_999885270.pdf', 'SAPS4_5100179024_US29_PFNAUS_2026_999885022.pdf', 'SAPS4_5100131507_US30_PFNAUS_2026_999936288.pdf', 'SAPS4_5100128522_US29_PFNAUS_2026_999936455.pdf', 'SAPS4_5100174059_US29_PFNAUS_2026_999872849.pdf', 'SAPS4_5100069044_US29_PFNAUS_2026_999884471.pdf', 'SAPS4_5100180529_US29_PFNAUS_2026_999872857.pdf', 'SAPS4_5100063520_US30_PFNAUS_2026_999872719.pdf', 'SAPS4_5100070510_CA11_PFNACA_2026_304658827.pdf', 'SAPS4_5100072068_US29_PFNAUS_2026_999746355.pdf', 'SAPS4_5100171505_CA11_PFNACA_2026_304654783.pdf', 'SAPS4_5100122054_US29_PFNAUS_2026_999872683.pdf', 'SAPS4_5100062568_US29_PFNAUS_2026_999930774.pdf', 'SAPS4_5100106021_US30_PFNAUS_2026_999930784.pdf', 'SAPS4_5100122517_US30_PFNAUS_2026_999936230.pdf', 'SAPS4_5100251036_US28_PFNAUS_2026_999746319.pdf', 'SAPS4_5100129049_US29_PFNAUS_2026_999872734.pdf', 'SAPS4_5100058060_US29_PFNAUS_2026_999884810.pdf', 'SAPS4_5100091534_US29_PFNAUS_2026_999884748.pdf', 'SAPS4_5100140547_US29_PFNAUS_2026_999936561.pdf', 'SAPS4_5100128520_US30_PFNAUS_2026_999872767.pdf', 'SAPS4_5100149033_US29_PFNAUS_2026_999884759.pdf', 'SAPS4_5100328001_US29_PFNAUS_2026_999706619.pdf', 'SAPS4_5100062075_US29_PFNAUS_2026_999935836.pdf', 'SAPS4_5100161509_US30_PFNAUS_2026_999872800.pdf', 'SAPS4_5100138519_US29_PFNAUS_2026_999936564.pdf', 'SAPS4_5100080066_US29_PFNAUS_2026_999872937.pdf', 'SAPS4_5100112518_US30_PFNAUS_2026_999706573.pdf', 'SAPS4_5100182564_US28_PFNAUS_2026_999706877.pdf', 'SAPS4_5100078514_CA11_PFNACA_2026_304667687.pdf', 'SAPS4_5100127041_US29_PFNAUS_2026_999884570.pdf', 'SAPS4_5100075062_US29_PFNAUS_2026_999872938.pdf', 'SAPS4_5100175537_US29_PFNAUS_2026_999884978.pdf', 'SAPS4_5100101537_US29_PFNAUS_2026_999936297.pdf', 'SAPS4_5100068031_US29_PFNAUS_2026_999872913.pdf', 'SAPS4_5100062073_US29_PFNAUS_2026_999884873.pdf'] | fname=SCAN
+[2026-03-20 10:23:32] [DEBUG   ] [MainProcess] Queuing file: SAPS4_5100058060_US29_PFNAUS_2026_999884810.pdf (0.04 MB) | fname=SAPS4_5100058060_US29_PFNAUS_2026_999884810.pdf
+[2026-03-20 10:23:32] [DEBUG   ] [MainProcess] Queuing file: SAPS4_5100059542_US29_PFNAUS_2026_999884833.pdf (0.04 MB) | fname=SAPS4_5100059542_US29_PFNAUS_2026_999884833.pdf
+[2026-03-20 10:23:32] [DEBUG   ] [MainProcess] Queuing file: SAPS4_5100062073_US29_PFNAUS_2026_999884873.pdf (0.04 MB) | fname=SAPS4_5100062073_US29_PFNAUS_2026_999884873.pdf
+[2026-03-20 10:23:32] [DEBUG   ] [MainProcess] Queuing file: SAPS4_5100062075_US29_PFNAUS_2026_999935836.pdf (0.03 MB) | fname=SAPS4_5100062075_US29_PFNAUS_2026_999935836.pdf
+[2026-03-20 10:23:32] [DEBUG   ] [MainProcess] Queuing file: SAPS4_5100062568_US29_PFNAUS_2026_999930774.pdf (0.16 MB) | fname=SAPS4_5100062568_US29_PFNAUS_2026_999930774.pdf
+[2026-03-20 10:23:32] [DEBUG   ] [MainProcess] Queuing file: SAPS4_5100063520_US30_PFNAUS_2026_999872719.pdf (0.90 MB) | fname=SAPS4_5100063520_US30_PFNAUS_2026_999872719.pdf
+[2026-03-20 10:23:32] [DEBUG   ] [MainProcess] Queuing file: SAPS4_5100064048_US29_PFNAUS_2026_999935901.pdf (0.05 MB) | fname=SAPS4_5100064048_US29_PFNAUS_2026_999935901.pdf
+[2026-03-20 10:23:32] [DEBUG   ] [MainProcess] Queuing file: SAPS4_5100068031_US29_PFNAUS_2026_999872913.pdf (0.10 MB) | fname=SAPS4_5100068031_US29_PFNAUS_2026_999872913.pdf
+[2026-03-20 10:23:32] [DEBUG   ] [MainProcess] Queuing file: SAPS4_5100069044_US29_PFNAUS_2026_999884471.pdf (0.09 MB) | fname=SAPS4_5100069044_US29_PFNAUS_2026_999884471.pdf
+[2026-03-20 10:23:32] [DEBUG   ] [MainProcess] Queuing file: SAPS4_5100070510_CA11_PFNACA_2026_304658827.pdf (0.34 MB) | fname=SAPS4_5100070510_CA11_PFNACA_2026_304658827.pdf
+[2026-03-20 10:23:32] [DEBUG   ] [MainProcess] Queuing file: SAPS4_5100072068_US29_PFNAUS_2026_999746355.pdf (0.07 MB) | fname=SAPS4_5100072068_US29_PFNAUS_2026_999746355.pdf
+[2026-03-20 10:23:32] [DEBUG   ] [MainProcess] Queuing file: SAPS4_5100075062_US29_PFNAUS_2026_999872938.pdf (1.00 MB) | fname=SAPS4_5100075062_US29_PFNAUS_2026_999872938.pdf
+[2026-03-20 10:23:32] [DEBUG   ] [MainProcess] Queuing file: SAPS4_5100075529_US29_PFNAUS_2026_999884524.pdf (0.04 MB) | fname=SAPS4_5100075529_US29_PFNAUS_2026_999884524.pdf
+[2026-03-20 10:23:32] [DEBUG   ] [MainProcess] Queuing file: SAPS4_5100078514_CA11_PFNACA_2026_304667687.pdf (0.02 MB) | fname=SAPS4_5100078514_CA11_PFNACA_2026_304667687.pdf
+[2026-03-20 10:23:32] [DEBUG   ] [MainProcess] Queuing file: SAPS4_5100080066_US29_PFNAUS_2026_999872937.pdf (0.11 MB) | fname=SAPS4_5100080066_US29_PFNAUS_2026_999872937.pdf
+[2026-03-20 10:23:32] [DEBUG   ] [MainProcess] Queuing file: SAPS4_5100087022_US28_PFNAUS_2026_999884314.pdf (0.03 MB) | fname=SAPS4_5100087022_US28_PFNAUS_2026_999884314.pdf
+[2026-03-20 10:23:32] [DEBUG   ] [MainProcess] Queuing file: SAPS4_5100089050_US29_PFNAUS_2026_999936145.pdf (0.09 MB) | fname=SAPS4_5100089050_US29_PFNAUS_2026_999936145.pdf
+[2026-03-20 10:23:32] [DEBUG   ] [MainProcess] Queuing file: SAPS4_5100091534_US29_PFNAUS_2026_999884748.pdf (0.04 MB) | fname=SAPS4_5100091534_US29_PFNAUS_2026_999884748.pdf
+[2026-03-20 10:23:32] [DEBUG   ] [MainProcess] Queuing file: SAPS4_5100099021_US29_PFNAUS_2026_999872645.pdf (0.10 MB) | fname=SAPS4_5100099021_US29_PFNAUS_2026_999872645.pdf
+[2026-03-20 10:23:32] [DEBUG   ] [MainProcess] Queuing file: SAPS4_5100099544_US29_PFNAUS_2026_999884834.pdf (0.08 MB) | fname=SAPS4_5100099544_US29_PFNAUS_2026_999884834.pdf
+[2026-03-20 10:23:32] [DEBUG   ] [MainProcess] Queuing file: SAPS4_5100101537_US29_PFNAUS_2026_999936297.pdf (0.09 MB) | fname=SAPS4_5100101537_US29_PFNAUS_2026_999936297.pdf
+[2026-03-20 10:23:32] [DEBUG   ] [MainProcess] Queuing file: SAPS4_5100106021_US30_PFNAUS_2026_999930784.pdf (0.07 MB) | fname=SAPS4_5100106021_US30_PFNAUS_2026_999930784.pdf
+[2026-03-20 10:23:32] [DEBUG   ] [MainProcess] Queuing file: SAPS4_5100112518_US30_PFNAUS_2026_999706573.pdf (0.62 MB) | fname=SAPS4_5100112518_US30_PFNAUS_2026_999706573.pdf
+[2026-03-20 10:23:32] [DEBUG   ] [MainProcess] Queuing file: SAPS4_5100116558_US29_PFNAUS_2026_999936357.pdf (0.09 MB) | fname=SAPS4_5100116558_US29_PFNAUS_2026_999936357.pdf
+[2026-03-20 10:23:32] [DEBUG   ] [MainProcess] Queuing file: SAPS4_5100118536_US29_PFNAUS_2026_999884426.pdf (0.09 MB) | fname=SAPS4_5100118536_US29_PFNAUS_2026_999884426.pdf
+[2026-03-20 10:23:32] [DEBUG   ] [MainProcess] Queuing file: SAPS4_5100121006_CA11_PFNACA_2026_304667741.pdf (0.04 MB) | fname=SAPS4_5100121006_CA11_PFNACA_2026_304667741.pdf
+[2026-03-20 10:23:32] [DEBUG   ] [MainProcess] Queuing file: SAPS4_5100121006_US30_PFNAUS_2026_999885270.pdf (0.09 MB) | fname=SAPS4_5100121006_US30_PFNAUS_2026_999885270.pdf
+[2026-03-20 10:23:32] [DEBUG   ] [MainProcess] Queuing file: SAPS4_5100122054_US29_PFNAUS_2026_999872683.pdf (0.10 MB) | fname=SAPS4_5100122054_US29_PFNAUS_2026_999872683.pdf
+[2026-03-20 10:23:32] [DEBUG   ] [MainProcess] Queuing file: SAPS4_5100122517_US30_PFNAUS_2026_999936230.pdf (0.03 MB) | fname=SAPS4_5100122517_US30_PFNAUS_2026_999936230.pdf
+[2026-03-20 10:23:32] [DEBUG   ] [MainProcess] Queuing file: SAPS4_5100125049_US29_PFNAUS_2026_999872715.pdf (0.11 MB) | fname=SAPS4_5100125049_US29_PFNAUS_2026_999872715.pdf
+[2026-03-20 10:23:32] [DEBUG   ] [MainProcess] Queuing file: SAPS4_5100127041_US29_PFNAUS_2026_999884570.pdf (0.04 MB) | fname=SAPS4_5100127041_US29_PFNAUS_2026_999884570.pdf
+[2026-03-20 10:23:32] [DEBUG   ] [MainProcess] Queuing file: SAPS4_5100128520_US30_PFNAUS_2026_999872767.pdf (0.21 MB) | fname=SAPS4_5100128520_US30_PFNAUS_2026_999872767.pdf
+[2026-03-20 10:23:32] [DEBUG   ] [MainProcess] Queuing file: SAPS4_5100128522_US29_PFNAUS_2026_999936455.pdf (0.09 MB) | fname=SAPS4_5100128522_US29_PFNAUS_2026_999936455.pdf
+[2026-03-20 10:23:32] [DEBUG   ] [MainProcess] Queuing file: SAPS4_5100129049_US29_PFNAUS_2026_999872734.pdf (0.10 MB) | fname=SAPS4_5100129049_US29_PFNAUS_2026_999872734.pdf
+[2026-03-20 10:23:32] [DEBUG   ] [MainProcess] Queuing file: SAPS4_5100131507_US30_PFNAUS_2026_999936288.pdf (0.10 MB) | fname=SAPS4_5100131507_US30_PFNAUS_2026_999936288.pdf
+[2026-03-20 10:23:32] [DEBUG   ] [MainProcess] Queuing file: SAPS4_5100136510_US30_PFNAUS_2026_999872780.pdf (0.18 MB) | fname=SAPS4_5100136510_US30_PFNAUS_2026_999872780.pdf
+[2026-03-20 10:23:32] [DEBUG   ] [MainProcess] Queuing file: SAPS4_5100138519_US29_PFNAUS_2026_999936564.pdf (0.09 MB) | fname=SAPS4_5100138519_US29_PFNAUS_2026_999936564.pdf
+[2026-03-20 10:23:32] [DEBUG   ] [MainProcess] Queuing file: SAPS4_5100140544_US29_PFNAUS_2026_999872756.pdf (0.10 MB) | fname=SAPS4_5100140544_US29_PFNAUS_2026_999872756.pdf
+[2026-03-20 10:23:32] [DEBUG   ] [MainProcess] Queuing file: SAPS4_5100140547_US29_PFNAUS_2026_999936561.pdf (0.03 MB) | fname=SAPS4_5100140547_US29_PFNAUS_2026_999936561.pdf
+[2026-03-20 10:23:32] [DEBUG   ] [MainProcess] Queuing file: SAPS4_5100149033_US29_PFNAUS_2026_999884759.pdf (0.05 MB) | fname=SAPS4_5100149033_US29_PFNAUS_2026_999884759.pdf
+[2026-03-20 10:23:32] [DEBUG   ] [MainProcess] Queuing file: SAPS4_5100149541_US29_PFNAUS_2026_999930875.pdf (0.07 MB) | fname=SAPS4_5100149541_US29_PFNAUS_2026_999930875.pdf
+[2026-03-20 10:23:32] [DEBUG   ] [MainProcess] Queuing file: SAPS4_5100157510_US30_PFNAUS_2026_999872782.pdf (0.19 MB) | fname=SAPS4_5100157510_US30_PFNAUS_2026_999872782.pdf
+[2026-03-20 10:23:32] [DEBUG   ] [MainProcess] Queuing file: SAPS4_5100160055_US29_PFNAUS_2026_999872813.pdf (0.11 MB) | fname=SAPS4_5100160055_US29_PFNAUS_2026_999872813.pdf
+[2026-03-20 10:23:32] [DEBUG   ] [MainProcess] Queuing file: SAPS4_5100161509_US30_PFNAUS_2026_999872800.pdf (0.91 MB) | fname=SAPS4_5100161509_US30_PFNAUS_2026_999872800.pdf
+[2026-03-20 10:23:32] [DEBUG   ] [MainProcess] Queuing file: SAPS4_5100171505_CA11_PFNACA_2026_304654783.pdf (0.03 MB) | fname=SAPS4_5100171505_CA11_PFNACA_2026_304654783.pdf
+[2026-03-20 10:23:32] [DEBUG   ] [MainProcess] Queuing file: SAPS4_5100173501_CA11_PFNACA_2026_304672235.pdf (0.03 MB) | fname=SAPS4_5100173501_CA11_PFNACA_2026_304672235.pdf
+[2026-03-20 10:23:32] [DEBUG   ] [MainProcess] Queuing file: SAPS4_5100174059_US29_PFNAUS_2026_999872849.pdf (0.10 MB) | fname=SAPS4_5100174059_US29_PFNAUS_2026_999872849.pdf
+[2026-03-20 10:23:32] [DEBUG   ] [MainProcess] Queuing file: SAPS4_5100175537_US29_PFNAUS_2026_999884978.pdf (0.03 MB) | fname=SAPS4_5100175537_US29_PFNAUS_2026_999884978.pdf
+[2026-03-20 10:23:32] [DEBUG   ] [MainProcess] Queuing file: SAPS4_5100179024_US29_PFNAUS_2026_999885022.pdf (0.06 MB) | fname=SAPS4_5100179024_US29_PFNAUS_2026_999885022.pdf
+[2026-03-20 10:23:32] [DEBUG   ] [MainProcess] Queuing file: SAPS4_5100180002_US29_PFNAUS_2026_999872858.pdf (0.10 MB) | fname=SAPS4_5100180002_US29_PFNAUS_2026_999872858.pdf
+[2026-03-20 10:23:32] [DEBUG   ] [MainProcess] Queuing file: SAPS4_5100180529_US29_PFNAUS_2026_999872857.pdf (0.10 MB) | fname=SAPS4_5100180529_US29_PFNAUS_2026_999872857.pdf
+[2026-03-20 10:23:32] [DEBUG   ] [MainProcess] Queuing file: SAPS4_5100182564_US28_PFNAUS_2026_999706877.pdf (0.03 MB) | fname=SAPS4_5100182564_US28_PFNAUS_2026_999706877.pdf
+[2026-03-20 10:23:32] [DEBUG   ] [MainProcess] Queuing file: SAPS4_5100183046_US29_PFNAUS_2026_999872872.pdf (0.10 MB) | fname=SAPS4_5100183046_US29_PFNAUS_2026_999872872.pdf
+[2026-03-20 10:23:32] [DEBUG   ] [MainProcess] Queuing file: SAPS4_5100251036_US28_PFNAUS_2026_999746319.pdf (0.07 MB) | fname=SAPS4_5100251036_US28_PFNAUS_2026_999746319.pdf
+[2026-03-20 10:23:32] [DEBUG   ] [MainProcess] Queuing file: SAPS4_5100328001_US29_PFNAUS_2026_999706619.pdf (0.08 MB) | fname=SAPS4_5100328001_US29_PFNAUS_2026_999706619.pdf
+[2026-03-20 10:23:32] [DEBUG   ] [MainProcess] Queuing file: SAPS4_5100569525_US28_PFNAUS_2026_999930849.pdf (0.26 MB) | fname=SAPS4_5100569525_US28_PFNAUS_2026_999930849.pdf
+[2026-03-20 10:23:32] [INFO    ] [MainProcess] Files to process: 56, Skipped: 0 | fname=SCAN
+[2026-03-20 10:23:32] [INFO    ] [MainProcess] Multiprocessing start method set to 'spawn' | fname=INIT
+[2026-03-20 10:23:32] [DEBUG   ] [MainProcess] Task queue created with maxsize=5 | fname=INIT
+[2026-03-20 10:23:32] [INFO    ] [MainProcess] Spawning 9 worker processes... | fname=INIT
+[2026-03-20 10:23:32] [INFO    ] [MainProcess] Worker-0 started (PID=14965) | fname=INIT
+[2026-03-20 10:23:32] [INFO    ] [MainProcess] Worker-1 started (PID=14966) | fname=INIT
+[2026-03-20 10:23:32] [INFO    ] [MainProcess] Worker-2 started (PID=14967) | fname=INIT
+[2026-03-20 10:23:32] [INFO    ] [MainProcess] Worker-3 started (PID=14968) | fname=INIT
+[2026-03-20 10:23:32] [INFO    ] [MainProcess] Worker-4 started (PID=14969) | fname=INIT
+[2026-03-20 10:23:32] [INFO    ] [MainProcess] Worker-5 started (PID=14970) | fname=INIT
+[2026-03-20 10:23:32] [INFO    ] [MainProcess] Worker-6 started (PID=14971) | fname=INIT
+[2026-03-20 10:23:32] [INFO    ] [MainProcess] Worker-7 started (PID=14972) | fname=INIT
+[2026-03-20 10:23:32] [INFO    ] [MainProcess] Worker-8 started (PID=14973) | fname=INIT
+[2026-03-20 10:23:32] [INFO    ] [MainProcess] Enqueuing 56 file(s)... | fname=ENQUEUE
+[2026-03-20 10:23:32] [DEBUG   ] [MainProcess] Putting file 1/56 into queue | fname=SAPS4_5100058060_US29_PFNAUS_2026_999884810.pdf
+[2026-03-20 10:23:32] [DEBUG   ] [MainProcess] File enqueued successfully (1/56) | fname=SAPS4_5100058060_US29_PFNAUS_2026_999884810.pdf
+[2026-03-20 10:23:32] [DEBUG   ] [MainProcess] Putting file 2/56 into queue | fname=SAPS4_5100059542_US29_PFNAUS_2026_999884833.pdf
+[2026-03-20 10:23:32] [DEBUG   ] [MainProcess] File enqueued successfully (2/56) | fname=SAPS4_5100059542_US29_PFNAUS_2026_999884833.pdf
+[2026-03-20 10:23:32] [DEBUG   ] [MainProcess] Putting file 3/56 into queue | fname=SAPS4_5100062073_US29_PFNAUS_2026_999884873.pdf
+[2026-03-20 10:23:32] [DEBUG   ] [MainProcess] File enqueued successfully (3/56) | fname=SAPS4_5100062073_US29_PFNAUS_2026_999884873.pdf
+[2026-03-20 10:23:32] [DEBUG   ] [MainProcess] Putting file 4/56 into queue | fname=SAPS4_5100062075_US29_PFNAUS_2026_999935836.pdf
+[2026-03-20 10:23:32] [DEBUG   ] [MainProcess] File enqueued successfully (4/56) | fname=SAPS4_5100062075_US29_PFNAUS_2026_999935836.pdf
+[2026-03-20 10:23:32] [DEBUG   ] [MainProcess] Putting file 5/56 into queue | fname=SAPS4_5100062568_US29_PFNAUS_2026_999930774.pdf
+[2026-03-20 10:23:32] [DEBUG   ] [MainProcess] File enqueued successfully (5/56) | fname=SAPS4_5100062568_US29_PFNAUS_2026_999930774.pdf
+[2026-03-20 10:23:32] [DEBUG   ] [MainProcess] Putting file 6/56 into queue | fname=SAPS4_5100063520_US30_PFNAUS_2026_999872719.pdf
+[2026-03-20 10:23:32] [INFO    ] [Worker-2] Worker-2 process started (PID=14967) | fname=INIT
+[2026-03-20 10:23:32] [INFO    ] [Worker-2] Thread env — OMP=6, MKL=6, NUMEXPR=6 | fname=INIT
+[2026-03-20 10:23:32] [INFO    ] [Worker-2] Worker-2 initializing PaddleOCR model... | fname=INIT
+[2026-03-20 10:23:32] [INFO    ] [Worker-6] Worker-6 process started (PID=14971) | fname=INIT
+[2026-03-20 10:23:32] [INFO    ] [Worker-6] Thread env — OMP=6, MKL=6, NUMEXPR=6 | fname=INIT
+[2026-03-20 10:23:32] [INFO    ] [Worker-6] Worker-6 initializing PaddleOCR model... | fname=INIT
+[2026-03-20 10:23:32] [INFO    ] [Worker-1] Worker-1 process started (PID=14966) | fname=INIT
+[2026-03-20 10:23:32] [INFO    ] [Worker-1] Thread env — OMP=6, MKL=6, NUMEXPR=6 | fname=INIT
+[2026-03-20 10:23:32] [INFO    ] [Worker-1] Worker-1 initializing PaddleOCR model... | fname=INIT
+[2026-03-20 10:23:32] [INFO    ] [Worker-8] Worker-8 process started (PID=14973) | fname=INIT
+[2026-03-20 10:23:32] [INFO    ] [Worker-8] Thread env — OMP=6, MKL=6, NUMEXPR=6 | fname=INIT
+[2026-03-20 10:23:32] [INFO    ] [Worker-8] Worker-8 initializing PaddleOCR model... | fname=INIT
+[2026-03-20 10:23:32] [INFO    ] [Worker-5] Worker-5 process started (PID=14970) | fname=INIT
+[2026-03-20 10:23:32] [INFO    ] [Worker-5] Thread env — OMP=6, MKL=6, NUMEXPR=6 | fname=INIT
+[2026-03-20 10:23:32] [INFO    ] [Worker-5] Worker-5 initializing PaddleOCR model... | fname=INIT
+[2026-03-20 10:23:32] [INFO    ] [Worker-3] Worker-3 process started (PID=14968) | fname=INIT
+[2026-03-20 10:23:32] [INFO    ] [Worker-3] Thread env — OMP=6, MKL=6, NUMEXPR=6 | fname=INIT
+[2026-03-20 10:23:32] [INFO    ] [Worker-3] Worker-3 initializing PaddleOCR model... | fname=INIT
+[2026-03-20 10:23:32] [INFO    ] [Worker-7] Worker-7 process started (PID=14972) | fname=INIT
+[2026-03-20 10:23:32] [INFO    ] [Worker-7] Thread env — OMP=6, MKL=6, NUMEXPR=6 | fname=INIT
+[2026-03-20 10:23:32] [INFO    ] [Worker-7] Worker-7 initializing PaddleOCR model... | fname=INIT
+[2026-03-20 10:23:32] [INFO    ] [Worker-4] Worker-4 process started (PID=14969) | fname=INIT
+[2026-03-20 10:23:32] [INFO    ] [Worker-4] Thread env — OMP=6, MKL=6, NUMEXPR=6 | fname=INIT
+[2026-03-20 10:23:32] [INFO    ] [Worker-4] Worker-4 initializing PaddleOCR model... | fname=INIT
+[2026-03-20 10:23:32] [INFO    ] [Worker-0] Worker-0 process started (PID=14965) | fname=INIT
+[2026-03-20 10:23:32] [INFO    ] [Worker-0] Thread env — OMP=6, MKL=6, NUMEXPR=6 | fname=INIT
+[2026-03-20 10:23:32] [INFO    ] [Worker-0] Worker-0 initializing PaddleOCR model... | fname=INIT
+[2026-03-20 10:23:39] [INFO    ] [Worker-6] Worker-6 PaddleOCR model initialized in 6.75s | fname=INIT
+[2026-03-20 10:23:39] [INFO    ] [Worker-6] Worker-6 entering processing loop | fname=INIT
+[2026-03-20 10:23:39] [DEBUG   ] [Worker-6] Worker-6 waiting for next task from queue | fname=QUEUE_WAIT
+[2026-03-20 10:23:39] [INFO    ] [Worker-6] Worker-6 picked up task | fname=SAPS4_5100058060_US29_PFNAUS_2026_999884810.pdf
+[2026-03-20 10:23:39] [DEBUG   ] [MainProcess] File enqueued successfully (6/56) | fname=SAPS4_5100063520_US30_PFNAUS_2026_999872719.pdf
+[2026-03-20 10:23:39] [INFO    ] [Worker-6] Worker-6 starting OCR (0.04 MB) | fname=SAPS4_5100058060_US29_PFNAUS_2026_999884810.pdf
+[2026-03-20 10:23:39] [DEBUG   ] [MainProcess] Putting file 7/56 into queue | fname=SAPS4_5100064048_US29_PFNAUS_2026_999935901.pdf
+[2026-03-20 10:23:39] [INFO    ] [Worker-3] Worker-3 PaddleOCR model initialized in 6.83s | fname=INIT
+[2026-03-20 10:23:39] [INFO    ] [Worker-3] Worker-3 entering processing loop | fname=INIT
+[2026-03-20 10:23:39] [DEBUG   ] [Worker-3] Worker-3 waiting for next task from queue | fname=QUEUE_WAIT
+[2026-03-20 10:23:39] [DEBUG   ] [MainProcess] File enqueued successfully (7/56) | fname=SAPS4_5100064048_US29_PFNAUS_2026_999935901.pdf
+[2026-03-20 10:23:39] [INFO    ] [Worker-3] Worker-3 picked up task | fname=SAPS4_5100059542_US29_PFNAUS_2026_999884833.pdf
+[2026-03-20 10:23:39] [DEBUG   ] [MainProcess] Putting file 8/56 into queue | fname=SAPS4_5100068031_US29_PFNAUS_2026_999872913.pdf
+[2026-03-20 10:23:39] [INFO    ] [Worker-3] Worker-3 starting OCR (0.04 MB) | fname=SAPS4_5100059542_US29_PFNAUS_2026_999884833.pdf
+[2026-03-20 10:23:39] [INFO    ] [Worker-5] Worker-5 PaddleOCR model initialized in 6.99s | fname=INIT
+[2026-03-20 10:23:39] [INFO    ] [Worker-5] Worker-5 entering processing loop | fname=INIT
+[2026-03-20 10:23:39] [DEBUG   ] [Worker-5] Worker-5 waiting for next task from queue | fname=QUEUE_WAIT
+[2026-03-20 10:23:39] [INFO    ] [Worker-5] Worker-5 picked up task | fname=SAPS4_5100062073_US29_PFNAUS_2026_999884873.pdf
+[2026-03-20 10:23:39] [DEBUG   ] [MainProcess] File enqueued successfully (8/56) | fname=SAPS4_5100068031_US29_PFNAUS_2026_999872913.pdf
+[2026-03-20 10:23:39] [DEBUG   ] [MainProcess] Putting file 9/56 into queue | fname=SAPS4_5100069044_US29_PFNAUS_2026_999884471.pdf
+[2026-03-20 10:23:39] [INFO    ] [Worker-5] Worker-5 starting OCR (0.04 MB) | fname=SAPS4_5100062073_US29_PFNAUS_2026_999884873.pdf
+[2026-03-20 10:23:39] [INFO    ] [Worker-2] Worker-2 PaddleOCR model initialized in 7.04s | fname=INIT
+[2026-03-20 10:23:39] [INFO    ] [Worker-2] Worker-2 entering processing loop | fname=INIT
+[2026-03-20 10:23:39] [DEBUG   ] [Worker-2] Worker-2 waiting for next task from queue | fname=QUEUE_WAIT
+[2026-03-20 10:23:39] [INFO    ] [Worker-2] Worker-2 picked up task | fname=SAPS4_5100062075_US29_PFNAUS_2026_999935836.pdf
+[2026-03-20 10:23:39] [INFO    ] [Worker-2] Worker-2 starting OCR (0.03 MB) | fname=SAPS4_5100062075_US29_PFNAUS_2026_999935836.pdf
+[2026-03-20 10:23:39] [DEBUG   ] [MainProcess] File enqueued successfully (9/56) | fname=SAPS4_5100069044_US29_PFNAUS_2026_999884471.pdf
+[2026-03-20 10:23:39] [DEBUG   ] [MainProcess] Putting file 10/56 into queue | fname=SAPS4_5100070510_CA11_PFNACA_2026_304658827.pdf
+[2026-03-20 10:23:39] [INFO    ] [Worker-0] Worker-0 PaddleOCR model initialized in 7.04s | fname=INIT
+[2026-03-20 10:23:39] [INFO    ] [Worker-0] Worker-0 entering processing loop | fname=INIT
+[2026-03-20 10:23:39] [DEBUG   ] [Worker-0] Worker-0 waiting for next task from queue | fname=QUEUE_WAIT
+[2026-03-20 10:23:39] [DEBUG   ] [MainProcess] File enqueued successfully (10/56) | fname=SAPS4_5100070510_CA11_PFNACA_2026_304658827.pdf
+[2026-03-20 10:23:39] [INFO    ] [Worker-0] Worker-0 picked up task | fname=SAPS4_5100062568_US29_PFNAUS_2026_999930774.pdf
+[2026-03-20 10:23:39] [DEBUG   ] [MainProcess] Putting file 11/56 into queue | fname=SAPS4_5100072068_US29_PFNAUS_2026_999746355.pdf
+[2026-03-20 10:23:39] [INFO    ] [Worker-0] Worker-0 starting OCR (0.16 MB) | fname=SAPS4_5100062568_US29_PFNAUS_2026_999930774.pdf
+[2026-03-20 10:23:39] [INFO    ] [Worker-7] Worker-7 PaddleOCR model initialized in 7.06s | fname=INIT
+[2026-03-20 10:23:39] [INFO    ] [Worker-7] Worker-7 entering processing loop | fname=INIT
+[2026-03-20 10:23:39] [DEBUG   ] [Worker-7] Worker-7 waiting for next task from queue | fname=QUEUE_WAIT
+[2026-03-20 10:23:39] [DEBUG   ] [MainProcess] File enqueued successfully (11/56) | fname=SAPS4_5100072068_US29_PFNAUS_2026_999746355.pdf
+[2026-03-20 10:23:39] [INFO    ] [Worker-7] Worker-7 picked up task | fname=SAPS4_5100063520_US30_PFNAUS_2026_999872719.pdf
+[2026-03-20 10:23:39] [DEBUG   ] [MainProcess] Putting file 12/56 into queue | fname=SAPS4_5100075062_US29_PFNAUS_2026_999872938.pdf
+[2026-03-20 10:23:39] [INFO    ] [Worker-7] Worker-7 starting OCR (0.90 MB) | fname=SAPS4_5100063520_US30_PFNAUS_2026_999872719.pdf
+[2026-03-20 10:23:39] [INFO    ] [Worker-8] Worker-8 PaddleOCR model initialized in 7.13s | fname=INIT
+[2026-03-20 10:23:39] [INFO    ] [Worker-8] Worker-8 entering processing loop | fname=INIT
+[2026-03-20 10:23:39] [DEBUG   ] [Worker-8] Worker-8 waiting for next task from queue | fname=QUEUE_WAIT
+[2026-03-20 10:23:39] [INFO    ] [Worker-8] Worker-8 picked up task | fname=SAPS4_5100064048_US29_PFNAUS_2026_999935901.pdf
+[2026-03-20 10:23:39] [INFO    ] [Worker-8] Worker-8 starting OCR (0.05 MB) | fname=SAPS4_5100064048_US29_PFNAUS_2026_999935901.pdf
+[2026-03-20 10:23:39] [DEBUG   ] [MainProcess] File enqueued successfully (12/56) | fname=SAPS4_5100075062_US29_PFNAUS_2026_999872938.pdf
+[2026-03-20 10:23:39] [DEBUG   ] [MainProcess] Putting file 13/56 into queue | fname=SAPS4_5100075529_US29_PFNAUS_2026_999884524.pdf
+[2026-03-20 10:23:39] [INFO    ] [Worker-4] Worker-4 PaddleOCR model initialized in 7.25s | fname=INIT
+[2026-03-20 10:23:39] [INFO    ] [Worker-4] Worker-4 entering processing loop | fname=INIT
+[2026-03-20 10:23:39] [DEBUG   ] [Worker-4] Worker-4 waiting for next task from queue | fname=QUEUE_WAIT
+[2026-03-20 10:23:39] [INFO    ] [Worker-4] Worker-4 picked up task | fname=SAPS4_5100068031_US29_PFNAUS_2026_999872913.pdf
+[2026-03-20 10:23:39] [DEBUG   ] [MainProcess] File enqueued successfully (13/56) | fname=SAPS4_5100075529_US29_PFNAUS_2026_999884524.pdf
+[2026-03-20 10:23:39] [INFO    ] [Worker-4] Worker-4 starting OCR (0.10 MB) | fname=SAPS4_5100068031_US29_PFNAUS_2026_999872913.pdf
+[2026-03-20 10:23:39] [DEBUG   ] [MainProcess] Putting file 14/56 into queue | fname=SAPS4_5100078514_CA11_PFNACA_2026_304667687.pdf
+[2026-03-20 10:23:40] [INFO    ] [Worker-1] Worker-1 PaddleOCR model initialized in 7.63s | fname=INIT
+[2026-03-20 10:23:40] [INFO    ] [Worker-1] Worker-1 entering processing loop | fname=INIT
+[2026-03-20 10:23:40] [DEBUG   ] [Worker-1] Worker-1 waiting for next task from queue | fname=QUEUE_WAIT
+[2026-03-20 10:23:40] [DEBUG   ] [MainProcess] File enqueued successfully (14/56) | fname=SAPS4_5100078514_CA11_PFNACA_2026_304667687.pdf
+[2026-03-20 10:23:40] [DEBUG   ] [MainProcess] Putting file 15/56 into queue | fname=SAPS4_5100080066_US29_PFNAUS_2026_999872937.pdf
+[2026-03-20 10:23:40] [INFO    ] [Worker-1] Worker-1 picked up task | fname=SAPS4_5100069044_US29_PFNAUS_2026_999884471.pdf
+[2026-03-20 10:23:40] [INFO    ] [Worker-1] Worker-1 starting OCR (0.09 MB) | fname=SAPS4_5100069044_US29_PFNAUS_2026_999884471.pdf
+[2026-03-20 10:23:45] [INFO    ] [Worker-2] Worker-2 OCR completed in 5.36s | fname=SAPS4_5100062075_US29_PFNAUS_2026_999935836.pdf
+[2026-03-20 10:23:45] [DEBUG   ] [Worker-2] Page 1: 50 segments, 47 kept after confidence filter
+[2026-03-20 10:23:45] [DEBUG   ] [Worker-2] Page 2: 12 segments, 12 kept after confidence filter
+[2026-03-20 10:23:45] [INFO    ] [Worker-2] Worker-2 merge_text_with_spaces produced 42 lines from 2 page(s) | fname=SAPS4_5100062075_US29_PFNAUS_2026_999935836.pdf
+[2026-03-20 10:23:45] [INFO    ] [Worker-2] Worker-2 output written to ./ocr_output_march_20/SAPS4_5100062075_US29_PFNAUS_2026_999935836.pdf.txt (0.0004s) | fname=SAPS4_5100062075_US29_PFNAUS_2026_999935836.pdf
+[2026-03-20 10:23:45] [INFO    ] [Worker-2] Worker-2 calling LLM API (42 lines) | fname=SAPS4_5100062075_US29_PFNAUS_2026_999935836.pdf
+[2026-03-20 10:23:45] [INFO    ] [Worker-6] Worker-6 OCR completed in 6.46s | fname=SAPS4_5100058060_US29_PFNAUS_2026_999884810.pdf
+[2026-03-20 10:23:45] [DEBUG   ] [Worker-6] Page 1: 115 segments, 115 kept after confidence filter
+[2026-03-20 10:23:45] [DEBUG   ] [Worker-6] Page 2: 22 segments, 22 kept after confidence filter
+[2026-03-20 10:23:45] [INFO    ] [Worker-6] Worker-6 merge_text_with_spaces produced 78 lines from 2 page(s) | fname=SAPS4_5100058060_US29_PFNAUS_2026_999884810.pdf
+[2026-03-20 10:23:45] [INFO    ] [Worker-6] Worker-6 output written to ./ocr_output_march_20/SAPS4_5100058060_US29_PFNAUS_2026_999884810.pdf.txt (0.0003s) | fname=SAPS4_5100058060_US29_PFNAUS_2026_999884810.pdf
+[2026-03-20 10:23:45] [INFO    ] [Worker-6] Worker-6 calling LLM API (78 lines) | fname=SAPS4_5100058060_US29_PFNAUS_2026_999884810.pdf
+[2026-03-20 10:23:46] [INFO    ] [Worker-2] Worker-2 LLM response status=200 in 1.67s | fname=SAPS4_5100062075_US29_PFNAUS_2026_999935836.pdf
+[2026-03-20 10:23:46] [INFO    ] [Worker-2] Worker-2 LLM invoice_data fields: | fname=SAPS4_5100062075_US29_PFNAUS_2026_999935836.pdf
+[2026-03-20 10:23:46] [INFO    ] [Worker-2]   invoice_number: 1798 | fname=SAPS4_5100062075_US29_PFNAUS_2026_999935836.pdf
+[2026-03-20 10:23:46] [INFO    ] [Worker-2]   invoice_date: 12/01/2025 | fname=SAPS4_5100062075_US29_PFNAUS_2026_999935836.pdf
+[2026-03-20 10:23:46] [INFO    ] [Worker-2]   invoice_amount: 1296.00 | fname=SAPS4_5100062075_US29_PFNAUS_2026_999935836.pdf
+[2026-03-20 10:23:46] [INFO    ] [Worker-2]   invoice_currency: ['USD'] | fname=SAPS4_5100062075_US29_PFNAUS_2026_999935836.pdf
+[2026-03-20 10:23:46] [INFO    ] [Worker-2]   tax_amount: 96.00 | fname=SAPS4_5100062075_US29_PFNAUS_2026_999935836.pdf
+[2026-03-20 10:23:46] [INFO    ] [Worker-2]   po_number: ['M413324087'] | fname=SAPS4_5100062075_US29_PFNAUS_2026_999935836.pdf
+[2026-03-20 10:23:46] [INFO    ] [Worker-2]   gl_account_number: None | fname=SAPS4_5100062075_US29_PFNAUS_2026_999935836.pdf
+[2026-03-20 10:23:46] [INFO    ] [Worker-2]   freight_and_handling_charges: None | fname=SAPS4_5100062075_US29_PFNAUS_2026_999935836.pdf
+[2026-03-20 10:23:46] [INFO    ] [Worker-2]   cost_center: None | fname=SAPS4_5100062075_US29_PFNAUS_2026_999935836.pdf
+[2026-03-20 10:23:46] [INFO    ] [Worker-2]   vendor_name: J&J Snow Solutions LLC | fname=SAPS4_5100062075_US29_PFNAUS_2026_999935836.pdf
+[2026-03-20 10:23:46] [INFO    ] [Worker-2]   vendor_address: 2809 Stone Rd, Falconer, NY 14733 US | fname=SAPS4_5100062075_US29_PFNAUS_2026_999935836.pdf
+[2026-03-20 10:23:46] [INFO    ] [Worker-2]   po_line_items: [{'description': 'Plow This is our monthly contract for plowing. Trigger will be every 2-3 inches', 'quantity': '1.0', 'net_price': '1200.0'}] | fname=SAPS4_5100062075_US29_PFNAUS_2026_999935836.pdf
+[2026-03-20 10:23:46] [INFO    ] [Worker-2] Worker-2 LLM raw_response fields: | fname=SAPS4_5100062075_US29_PFNAUS_2026_999935836.pdf
+[2026-03-20 10:23:46] [INFO    ] [Worker-2]   invoice_number: 1798 | fname=SAPS4_5100062075_US29_PFNAUS_2026_999935836.pdf
+[2026-03-20 10:23:46] [INFO    ] [Worker-2]   invoice_date: 12/01/2025 | fname=SAPS4_5100062075_US29_PFNAUS_2026_999935836.pdf
+[2026-03-20 10:23:46] [INFO    ] [Worker-2]   invoice_amount: 1296.00 | fname=SAPS4_5100062075_US29_PFNAUS_2026_999935836.pdf
+[2026-03-20 10:23:46] [INFO    ] [Worker-2]   invoice_currency: ['USD'] | fname=SAPS4_5100062075_US29_PFNAUS_2026_999935836.pdf
+[2026-03-20 10:23:46] [INFO    ] [Worker-2]   tax_amount: 96.00 | fname=SAPS4_5100062075_US29_PFNAUS_2026_999935836.pdf
+[2026-03-20 10:23:46] [INFO    ] [Worker-2]   po_number: ['M413324087'] | fname=SAPS4_5100062075_US29_PFNAUS_2026_999935836.pdf
+[2026-03-20 10:23:46] [INFO    ] [Worker-2]   gl_account_number: None | fname=SAPS4_5100062075_US29_PFNAUS_2026_999935836.pdf
+[2026-03-20 10:23:46] [INFO    ] [Worker-2]   freight_and_handling_charges: None | fname=SAPS4_5100062075_US29_PFNAUS_2026_999935836.pdf
+[2026-03-20 10:23:46] [INFO    ] [Worker-2]   cost_center: None | fname=SAPS4_5100062075_US29_PFNAUS_2026_999935836.pdf
+[2026-03-20 10:23:46] [INFO    ] [Worker-2]   vendor_name: J&J Snow Solutions LLC | fname=SAPS4_5100062075_US29_PFNAUS_2026_999935836.pdf
+[2026-03-20 10:23:46] [INFO    ] [Worker-2]   vendor_address: 2809 Stone Rd, Falconer, NY 14733 US | fname=SAPS4_5100062075_US29_PFNAUS_2026_999935836.pdf
+[2026-03-20 10:23:46] [INFO    ] [Worker-2]   po_line_items: [{'description': 'Plow This is our monthly contract for plowing. Trigger will be every 2-3 inches', 'quantity': 1.0, 'net_price': 1200.0}] | fname=SAPS4_5100062075_US29_PFNAUS_2026_999935836.pdf
+[2026-03-20 10:23:46] [INFO    ] [Worker-2] Worker-2 LLM result saved to ./ocr_output_march_20/SAPS4_5100062075_US29_PFNAUS_2026_999935836.pdf.llm.json | fname=SAPS4_5100062075_US29_PFNAUS_2026_999935836.pdf
+[2026-03-20 10:23:46] [INFO    ] [Worker-2] Worker-2 completed (OCR=5.36s, total=7.04s) | fname=SAPS4_5100062075_US29_PFNAUS_2026_999935836.pdf
+[2026-03-20 10:23:46] [DEBUG   ] [Worker-2] Worker-2 waiting for next task from queue | fname=QUEUE_WAIT
+[2026-03-20 10:23:46] [INFO    ] [Worker-2] Worker-2 picked up task | fname=SAPS4_5100070510_CA11_PFNACA_2026_304658827.pdf
+[2026-03-20 10:23:46] [DEBUG   ] [MainProcess] File enqueued successfully (15/56) | fname=SAPS4_5100080066_US29_PFNAUS_2026_999872937.pdf
+[2026-03-20 10:23:46] [INFO    ] [Worker-2] Worker-2 starting OCR (0.34 MB) | fname=SAPS4_5100070510_CA11_PFNACA_2026_304658827.pdf
+[2026-03-20 10:23:46] [DEBUG   ] [MainProcess] Putting file 16/56 into queue | fname=SAPS4_5100087022_US28_PFNAUS_2026_999884314.pdf
+[2026-03-20 10:23:47] [INFO    ] [Worker-3] Worker-3 OCR completed in 7.71s | fname=SAPS4_5100059542_US29_PFNAUS_2026_999884833.pdf
+[2026-03-20 10:23:47] [DEBUG   ] [Worker-3] Page 1: 163 segments, 162 kept after confidence filter
+[2026-03-20 10:23:47] [DEBUG   ] [Worker-3] Page 2: 27 segments, 25 kept after confidence filter
+[2026-03-20 10:23:47] [INFO    ] [Worker-3] Worker-3 merge_text_with_spaces produced 100 lines from 2 page(s) | fname=SAPS4_5100059542_US29_PFNAUS_2026_999884833.pdf
+[2026-03-20 10:23:47] [INFO    ] [Worker-3] Worker-3 output written to ./ocr_output_march_20/SAPS4_5100059542_US29_PFNAUS_2026_999884833.pdf.txt (0.0003s) | fname=SAPS4_5100059542_US29_PFNAUS_2026_999884833.pdf
+[2026-03-20 10:23:47] [INFO    ] [Worker-3] Worker-3 calling LLM API (100 lines) | fname=SAPS4_5100059542_US29_PFNAUS_2026_999884833.pdf
+[2026-03-20 10:23:47] [INFO    ] [Worker-5] Worker-5 OCR completed in 7.76s | fname=SAPS4_5100062073_US29_PFNAUS_2026_999884873.pdf
+[2026-03-20 10:23:47] [DEBUG   ] [Worker-5] Page 1: 45 segments, 45 kept after confidence filter
+[2026-03-20 10:23:47] [DEBUG   ] [Worker-5] Page 2: 33 segments, 33 kept after confidence filter
+[2026-03-20 10:23:47] [DEBUG   ] [Worker-5] Page 3: 6 segments, 6 kept after confidence filter
+[2026-03-20 10:23:47] [INFO    ] [Worker-5] Worker-5 merge_text_with_spaces produced 72 lines from 3 page(s) | fname=SAPS4_5100062073_US29_PFNAUS_2026_999884873.pdf
+[2026-03-20 10:23:47] [INFO    ] [Worker-5] Worker-5 output written to ./ocr_output_march_20/SAPS4_5100062073_US29_PFNAUS_2026_999884873.pdf.txt (0.0007s) | fname=SAPS4_5100062073_US29_PFNAUS_2026_999884873.pdf
+[2026-03-20 10:23:47] [INFO    ] [Worker-5] Worker-5 calling LLM API (72 lines) | fname=SAPS4_5100062073_US29_PFNAUS_2026_999884873.pdf
+[2026-03-20 10:23:47] [INFO    ] [Worker-6] Worker-6 LLM response status=200 in 2.11s | fname=SAPS4_5100058060_US29_PFNAUS_2026_999884810.pdf
+[2026-03-20 10:23:47] [INFO    ] [Worker-6] Worker-6 LLM invoice_data fields: | fname=SAPS4_5100058060_US29_PFNAUS_2026_999884810.pdf
+[2026-03-20 10:23:47] [INFO    ] [Worker-6]   invoice_number: 3220326665 | fname=SAPS4_5100058060_US29_PFNAUS_2026_999884810.pdf
+[2026-03-20 10:23:47] [INFO    ] [Worker-6]   invoice_date: 02/03/2026 | fname=SAPS4_5100058060_US29_PFNAUS_2026_999884810.pdf
+[2026-03-20 10:23:47] [INFO    ] [Worker-6]   invoice_amount: 0.98 | fname=SAPS4_5100058060_US29_PFNAUS_2026_999884810.pdf
+[2026-03-20 10:23:47] [INFO    ] [Worker-6]   invoice_currency: ['USD'] | fname=SAPS4_5100058060_US29_PFNAUS_2026_999884810.pdf
+[2026-03-20 10:23:47] [INFO    ] [Worker-6]   tax_amount: 0.06 | fname=SAPS4_5100058060_US29_PFNAUS_2026_999884810.pdf
+[2026-03-20 10:23:47] [INFO    ] [Worker-6]   po_number: ['M411362223'] | fname=SAPS4_5100058060_US29_PFNAUS_2026_999884810.pdf
+[2026-03-20 10:23:47] [INFO    ] [Worker-6]   gl_account_number: None | fname=SAPS4_5100058060_US29_PFNAUS_2026_999884810.pdf
+[2026-03-20 10:23:47] [INFO    ] [Worker-6]   freight_and_handling_charges: 0.00 | fname=SAPS4_5100058060_US29_PFNAUS_2026_999884810.pdf
+[2026-03-20 10:23:47] [INFO    ] [Worker-6]   cost_center: None | fname=SAPS4_5100058060_US29_PFNAUS_2026_999884810.pdf
+[2026-03-20 10:23:47] [INFO    ] [Worker-6]   vendor_name: VESTIS | fname=SAPS4_5100058060_US29_PFNAUS_2026_999884810.pdf
+[2026-03-20 10:23:47] [INFO    ] [Worker-6]   vendor_address: 10451 DOG LEG RD, VANDALIA OH 45377 | fname=SAPS4_5100058060_US29_PFNAUS_2026_999884810.pdf
+[2026-03-20 10:23:47] [INFO    ] [Worker-6]   po_line_items: [{'description': 'GS2638NVSR SHIRT EVIS LS FLEXFIT PEPSI', 'quantity': '2.0', 'net_price': '0.232'}, {'description': 'GS2657NVSR SHIRT EVIS SS FLEXFIT PEPSI', 'quantity': '2.0', 'net_price': '0.232'}] | fname=SAPS4_5100058060_US29_PFNAUS_2026_999884810.pdf
+[2026-03-20 10:23:47] [INFO    ] [Worker-6] Worker-6 LLM raw_response fields: | fname=SAPS4_5100058060_US29_PFNAUS_2026_999884810.pdf
+[2026-03-20 10:23:47] [INFO    ] [Worker-6]   invoice_number: 3220326665 | fname=SAPS4_5100058060_US29_PFNAUS_2026_999884810.pdf
+[2026-03-20 10:23:47] [INFO    ] [Worker-6]   invoice_date: 02/03/2026 | fname=SAPS4_5100058060_US29_PFNAUS_2026_999884810.pdf
+[2026-03-20 10:23:47] [INFO    ] [Worker-6]   invoice_amount: 0.98 | fname=SAPS4_5100058060_US29_PFNAUS_2026_999884810.pdf
+[2026-03-20 10:23:47] [INFO    ] [Worker-6]   invoice_currency: ['USD'] | fname=SAPS4_5100058060_US29_PFNAUS_2026_999884810.pdf
+[2026-03-20 10:23:47] [INFO    ] [Worker-6]   tax_amount: 0.06 | fname=SAPS4_5100058060_US29_PFNAUS_2026_999884810.pdf
+[2026-03-20 10:23:47] [INFO    ] [Worker-6]   po_number: ['M411362223'] | fname=SAPS4_5100058060_US29_PFNAUS_2026_999884810.pdf
+[2026-03-20 10:23:47] [INFO    ] [Worker-6]   gl_account_number: None | fname=SAPS4_5100058060_US29_PFNAUS_2026_999884810.pdf
+[2026-03-20 10:23:47] [INFO    ] [Worker-6]   freight_and_handling_charges: 0.00 | fname=SAPS4_5100058060_US29_PFNAUS_2026_999884810.pdf
+[2026-03-20 10:23:47] [INFO    ] [Worker-6]   cost_center: None | fname=SAPS4_5100058060_US29_PFNAUS_2026_999884810.pdf
+[2026-03-20 10:23:47] [INFO    ] [Worker-6]   vendor_name: VESTIS | fname=SAPS4_5100058060_US29_PFNAUS_2026_999884810.pdf
+[2026-03-20 10:23:47] [INFO    ] [Worker-6]   vendor_address: 10451 DOG LEG RD, VANDALIA OH 45377 | fname=SAPS4_5100058060_US29_PFNAUS_2026_999884810.pdf
+[2026-03-20 10:23:47] [INFO    ] [Worker-6]   po_line_items: [{'description': 'GS2638NVSR SHIRT EVIS LS FLEXFIT PEPSI', 'quantity': 2.0, 'net_price': 0.232}, {'description': 'GS2657NVSR SHIRT EVIS SS FLEXFIT PEPSI', 'quantity': 2.0, 'net_price': 0.232}] | fname=SAPS4_5100058060_US29_PFNAUS_2026_999884810.pdf
+[2026-03-20 10:23:47] [INFO    ] [Worker-6] Worker-6 LLM result saved to ./ocr_output_march_20/SAPS4_5100058060_US29_PFNAUS_2026_999884810.pdf.llm.json | fname=SAPS4_5100058060_US29_PFNAUS_2026_999884810.pdf
+[2026-03-20 10:23:47] [INFO    ] [Worker-6] Worker-6 completed (OCR=6.46s, total=8.58s) | fname=SAPS4_5100058060_US29_PFNAUS_2026_999884810.pdf
+[2026-03-20 10:23:47] [DEBUG   ] [Worker-6] Worker-6 waiting for next task from queue | fname=QUEUE_WAIT
+[2026-03-20 10:23:47] [INFO    ] [Worker-6] Worker-6 picked up task | fname=SAPS4_5100072068_US29_PFNAUS_2026_999746355.pdf
+[2026-03-20 10:23:47] [INFO    ] [Worker-6] Worker-6 starting OCR (0.07 MB) | fname=SAPS4_5100072068_US29_PFNAUS_2026_999746355.pdf
+[2026-03-20 10:23:47] [DEBUG   ] [MainProcess] File enqueued successfully (16/56) | fname=SAPS4_5100087022_US28_PFNAUS_2026_999884314.pdf
+[2026-03-20 10:23:47] [DEBUG   ] [MainProcess] Putting file 17/56 into queue | fname=SAPS4_5100089050_US29_PFNAUS_2026_999936145.pdf
+[2026-03-20 10:23:48] [INFO    ] [Worker-5] Worker-5 LLM response status=200 in 1.36s | fname=SAPS4_5100062073_US29_PFNAUS_2026_999884873.pdf
+[2026-03-20 10:23:48] [INFO    ] [Worker-5] Worker-5 LLM invoice_data fields: | fname=SAPS4_5100062073_US29_PFNAUS_2026_999884873.pdf
+[2026-03-20 10:23:48] [INFO    ] [Worker-5]   invoice_number: 324514 | fname=SAPS4_5100062073_US29_PFNAUS_2026_999884873.pdf
+[2026-03-20 10:23:48] [INFO    ] [Worker-5]   invoice_date: 08/30/25 | fname=SAPS4_5100062073_US29_PFNAUS_2026_999884873.pdf
+[2026-03-20 10:23:48] [INFO    ] [Worker-5]   invoice_amount: None | fname=SAPS4_5100062073_US29_PFNAUS_2026_999884873.pdf
+[2026-03-20 10:23:48] [INFO    ] [Worker-5]   invoice_currency: None | fname=SAPS4_5100062073_US29_PFNAUS_2026_999884873.pdf
+[2026-03-20 10:23:48] [INFO    ] [Worker-5]   tax_amount: None | fname=SAPS4_5100062073_US29_PFNAUS_2026_999884873.pdf
+[2026-03-20 10:23:48] [INFO    ] [Worker-5]   po_number: ['M412947258'] | fname=SAPS4_5100062073_US29_PFNAUS_2026_999884873.pdf
+[2026-03-20 10:23:48] [INFO    ] [Worker-5]   gl_account_number: None | fname=SAPS4_5100062073_US29_PFNAUS_2026_999884873.pdf
+[2026-03-20 10:23:48] [INFO    ] [Worker-5]   freight_and_handling_charges: None | fname=SAPS4_5100062073_US29_PFNAUS_2026_999884873.pdf
+[2026-03-20 10:23:48] [INFO    ] [Worker-5]   cost_center: None | fname=SAPS4_5100062073_US29_PFNAUS_2026_999884873.pdf
+[2026-03-20 10:23:48] [INFO    ] [Worker-5]   vendor_name: Continental Fire Sprinkler Company | fname=SAPS4_5100062073_US29_PFNAUS_2026_999884873.pdf
+[2026-03-20 10:23:48] [INFO    ] [Worker-5]   vendor_address: 4518 South 133rd Street, Omaha, NE 68137 | fname=SAPS4_5100062073_US29_PFNAUS_2026_999884873.pdf
+[2026-03-20 10:23:48] [INFO    ] [Worker-5]   po_line_items: None | fname=SAPS4_5100062073_US29_PFNAUS_2026_999884873.pdf
+[2026-03-20 10:23:48] [INFO    ] [Worker-5] Worker-5 LLM raw_response fields: | fname=SAPS4_5100062073_US29_PFNAUS_2026_999884873.pdf
+[2026-03-20 10:23:48] [INFO    ] [Worker-5]   invoice_number: 324514 | fname=SAPS4_5100062073_US29_PFNAUS_2026_999884873.pdf
+[2026-03-20 10:23:48] [INFO    ] [Worker-5]   invoice_date: 08/30/25 | fname=SAPS4_5100062073_US29_PFNAUS_2026_999884873.pdf
+[2026-03-20 10:23:48] [INFO    ] [Worker-5]   invoice_amount: None | fname=SAPS4_5100062073_US29_PFNAUS_2026_999884873.pdf
+[2026-03-20 10:23:48] [INFO    ] [Worker-5]   invoice_currency: None | fname=SAPS4_5100062073_US29_PFNAUS_2026_999884873.pdf
+[2026-03-20 10:23:48] [INFO    ] [Worker-5]   tax_amount: None | fname=SAPS4_5100062073_US29_PFNAUS_2026_999884873.pdf
+[2026-03-20 10:23:48] [INFO    ] [Worker-5]   po_number: ['M412947258'] | fname=SAPS4_5100062073_US29_PFNAUS_2026_999884873.pdf
+[2026-03-20 10:23:48] [INFO    ] [Worker-5]   gl_account_number: None | fname=SAPS4_5100062073_US29_PFNAUS_2026_999884873.pdf
+[2026-03-20 10:23:48] [INFO    ] [Worker-5]   freight_and_handling_charges: None | fname=SAPS4_5100062073_US29_PFNAUS_2026_999884873.pdf
+[2026-03-20 10:23:48] [INFO    ] [Worker-5]   cost_center: None | fname=SAPS4_5100062073_US29_PFNAUS_2026_999884873.pdf
+[2026-03-20 10:23:48] [INFO    ] [Worker-5]   vendor_name: Continental Fire Sprinkler Company | fname=SAPS4_5100062073_US29_PFNAUS_2026_999884873.pdf
+[2026-03-20 10:23:48] [INFO    ] [Worker-5]   vendor_address: 4518 South 133rd Street, Omaha, NE 68137 | fname=SAPS4_5100062073_US29_PFNAUS_2026_999884873.pdf
+[2026-03-20 10:23:48] [INFO    ] [Worker-5]   po_line_items: None | fname=SAPS4_5100062073_US29_PFNAUS_2026_999884873.pdf
+[2026-03-20 10:23:48] [INFO    ] [Worker-5] Worker-5 LLM result saved to ./ocr_output_march_20/SAPS4_5100062073_US29_PFNAUS_2026_999884873.pdf.llm.json | fname=SAPS4_5100062073_US29_PFNAUS_2026_999884873.pdf
+[2026-03-20 10:23:48] [INFO    ] [Worker-5] Worker-5 completed (OCR=7.76s, total=9.12s) | fname=SAPS4_5100062073_US29_PFNAUS_2026_999884873.pdf
+[2026-03-20 10:23:48] [DEBUG   ] [Worker-5] Worker-5 waiting for next task from queue | fname=QUEUE_WAIT
+[2026-03-20 10:23:48] [INFO    ] [Worker-5] Worker-5 picked up task | fname=SAPS4_5100075062_US29_PFNAUS_2026_999872938.pdf
+[2026-03-20 10:23:48] [INFO    ] [Worker-5] Worker-5 starting OCR (1.00 MB) | fname=SAPS4_5100075062_US29_PFNAUS_2026_999872938.pdf
+[2026-03-20 10:23:48] [DEBUG   ] [MainProcess] File enqueued successfully (17/56) | fname=SAPS4_5100089050_US29_PFNAUS_2026_999936145.pdf
+[2026-03-20 10:23:48] [DEBUG   ] [MainProcess] Putting file 18/56 into queue | fname=SAPS4_5100091534_US29_PFNAUS_2026_999884748.pdf
+[2026-03-20 10:23:50] [INFO    ] [Worker-3] Worker-3 LLM response status=200 in 2.83s | fname=SAPS4_5100059542_US29_PFNAUS_2026_999884833.pdf
+[2026-03-20 10:23:50] [INFO    ] [Worker-3] Worker-3 LLM invoice_data fields: | fname=SAPS4_5100059542_US29_PFNAUS_2026_999884833.pdf
+[2026-03-20 10:23:50] [INFO    ] [Worker-3]   invoice_number: 6585131343 | fname=SAPS4_5100059542_US29_PFNAUS_2026_999884833.pdf
+[2026-03-20 10:23:50] [INFO    ] [Worker-3]   invoice_date: 12/06/2025 | fname=SAPS4_5100059542_US29_PFNAUS_2026_999884833.pdf
+[2026-03-20 10:23:50] [INFO    ] [Worker-3]   invoice_amount: 902.39 | fname=SAPS4_5100059542_US29_PFNAUS_2026_999884833.pdf
+[2026-03-20 10:23:50] [INFO    ] [Worker-3]   invoice_currency: ['USD'] | fname=SAPS4_5100059542_US29_PFNAUS_2026_999884833.pdf
+[2026-03-20 10:23:50] [INFO    ] [Worker-3]   tax_amount: 23.33 | fname=SAPS4_5100059542_US29_PFNAUS_2026_999884833.pdf
+[2026-03-20 10:23:50] [INFO    ] [Worker-3]   po_number: ['23570138'] | fname=SAPS4_5100059542_US29_PFNAUS_2026_999884833.pdf
+[2026-03-20 10:23:50] [INFO    ] [Worker-3]   gl_account_number: None | fname=SAPS4_5100059542_US29_PFNAUS_2026_999884833.pdf
+[2026-03-20 10:23:50] [INFO    ] [Worker-3]   freight_and_handling_charges: None | fname=SAPS4_5100059542_US29_PFNAUS_2026_999884833.pdf
+[2026-03-20 10:23:50] [INFO    ] [Worker-3]   cost_center: None | fname=SAPS4_5100059542_US29_PFNAUS_2026_999884833.pdf
+[2026-03-20 10:23:50] [INFO    ] [Worker-3]   vendor_name: BRIDGESTONE | fname=SAPS4_5100059542_US29_PFNAUS_2026_999884833.pdf
+[2026-03-20 10:23:50] [INFO    ] [Worker-3]   vendor_address: 200 4TH AVENUE SOUTH, SUITE 100, P.O. BOX 140990, NASHVILLE, TENNESSEE 37201, PHONE: (888) 709-8023, FAX: (855) 389-3463 | fname=SAPS4_5100059542_US29_PFNAUS_2026_999884833.pdf
+[2026-03-20 10:23:50] [INFO    ] [Worker-3]   po_line_items: [{'description': 'TRANSFORCE HT3 LT225/75R16 TLBLPS115RE', 'quantity': '1.0', 'net_price': '158.7'}, {'description': 'FEE, MILEAGE', 'quantity': '146.0', 'net_price': '0.91'}, {'description': 'EMERGENCY AFTER HRS SVC', 'quantity': '3.0', 'net_price': '195.5'}] | fname=SAPS4_5100059542_US29_PFNAUS_2026_999884833.pdf
+[2026-03-20 10:23:50] [INFO    ] [Worker-3] Worker-3 LLM raw_response fields: | fname=SAPS4_5100059542_US29_PFNAUS_2026_999884833.pdf
+[2026-03-20 10:23:50] [INFO    ] [Worker-3]   invoice_number: 6585131343 | fname=SAPS4_5100059542_US29_PFNAUS_2026_999884833.pdf
+[2026-03-20 10:23:50] [INFO    ] [Worker-3]   invoice_date: 12/06/2025 | fname=SAPS4_5100059542_US29_PFNAUS_2026_999884833.pdf
+[2026-03-20 10:23:50] [INFO    ] [Worker-3]   invoice_amount: 902.39 | fname=SAPS4_5100059542_US29_PFNAUS_2026_999884833.pdf
+[2026-03-20 10:23:50] [INFO    ] [Worker-3]   invoice_currency: ['USD'] | fname=SAPS4_5100059542_US29_PFNAUS_2026_999884833.pdf
+[2026-03-20 10:23:50] [INFO    ] [Worker-3]   tax_amount: 23.33 | fname=SAPS4_5100059542_US29_PFNAUS_2026_999884833.pdf
+[2026-03-20 10:23:50] [INFO    ] [Worker-3]   po_number: ['23570138'] | fname=SAPS4_5100059542_US29_PFNAUS_2026_999884833.pdf
+[2026-03-20 10:23:50] [INFO    ] [Worker-3]   gl_account_number: None | fname=SAPS4_5100059542_US29_PFNAUS_2026_999884833.pdf
+[2026-03-20 10:23:50] [INFO    ] [Worker-3]   freight_and_handling_charges: None | fname=SAPS4_5100059542_US29_PFNAUS_2026_999884833.pdf
+[2026-03-20 10:23:50] [INFO    ] [Worker-3]   cost_center: None | fname=SAPS4_5100059542_US29_PFNAUS_2026_999884833.pdf
+[2026-03-20 10:23:50] [INFO    ] [Worker-3]   vendor_name: BRIDGESTONE | fname=SAPS4_5100059542_US29_PFNAUS_2026_999884833.pdf
+[2026-03-20 10:23:50] [INFO    ] [Worker-3]   vendor_address: 200 4TH AVENUE SOUTH, SUITE 100, P.O. BOX 140990, NASHVILLE, TENNESSEE 37201, PHONE: (888) 709-8023, FAX: (855) 389-3463 | fname=SAPS4_5100059542_US29_PFNAUS_2026_999884833.pdf
+[2026-03-20 10:23:50] [INFO    ] [Worker-3]   po_line_items: [{'description': 'TRANSFORCE HT3 LT225/75R16 TLBLPS115RE', 'quantity': 1.0, 'net_price': 158.7}, {'description': 'FEE, MILEAGE', 'quantity': 146.0, 'net_price': 0.91}, {'description': 'EMERGENCY AFTER HRS SVC', 'quantity': 3.0, 'net_price': 195.5}] | fname=SAPS4_5100059542_US29_PFNAUS_2026_999884833.pdf
+[2026-03-20 10:23:50] [INFO    ] [Worker-3] Worker-3 LLM result saved to ./ocr_output_march_20/SAPS4_5100059542_US29_PFNAUS_2026_999884833.pdf.llm.json | fname=SAPS4_5100059542_US29_PFNAUS_2026_999884833.pdf
+[2026-03-20 10:23:50] [INFO    ] [Worker-3] Worker-3 completed (OCR=7.71s, total=10.55s) | fname=SAPS4_5100059542_US29_PFNAUS_2026_999884833.pdf
+[2026-03-20 10:23:50] [DEBUG   ] [Worker-3] Worker-3 waiting for next task from queue | fname=QUEUE_WAIT
+[2026-03-20 10:23:50] [INFO    ] [Worker-3] Worker-3 picked up task | fname=SAPS4_5100075529_US29_PFNAUS_2026_999884524.pdf
+[2026-03-20 10:23:50] [INFO    ] [Worker-3] Worker-3 starting OCR (0.04 MB) | fname=SAPS4_5100075529_US29_PFNAUS_2026_999884524.pdf
+[2026-03-20 10:23:50] [DEBUG   ] [MainProcess] File enqueued successfully (18/56) | fname=SAPS4_5100091534_US29_PFNAUS_2026_999884748.pdf
+[2026-03-20 10:23:50] [DEBUG   ] [MainProcess] Putting file 19/56 into queue | fname=SAPS4_5100099021_US29_PFNAUS_2026_999872645.pdf
+[2026-03-20 10:23:51] [INFO    ] [Worker-8] Worker-8 OCR completed in 11.24s | fname=SAPS4_5100064048_US29_PFNAUS_2026_999935901.pdf
+[2026-03-20 10:23:51] [DEBUG   ] [Worker-8] Page 1: 182 segments, 180 kept after confidence filter
+[2026-03-20 10:23:51] [DEBUG   ] [Worker-8] Page 2: 65 segments, 65 kept after confidence filter
+[2026-03-20 10:23:51] [DEBUG   ] [Worker-8] Page 3: 26 segments, 25 kept after confidence filter
+[2026-03-20 10:23:51] [INFO    ] [Worker-8] Worker-8 merge_text_with_spaces produced 145 lines from 3 page(s) | fname=SAPS4_5100064048_US29_PFNAUS_2026_999935901.pdf
+[2026-03-20 10:23:51] [INFO    ] [Worker-8] Worker-8 output written to ./ocr_output_march_20/SAPS4_5100064048_US29_PFNAUS_2026_999935901.pdf.txt (0.0004s) | fname=SAPS4_5100064048_US29_PFNAUS_2026_999935901.pdf
+[2026-03-20 10:23:51] [INFO    ] [Worker-8] Worker-8 calling LLM API (145 lines) | fname=SAPS4_5100064048_US29_PFNAUS_2026_999935901.pdf
+[2026-03-20 10:23:51] [INFO    ] [Worker-7] Worker-7 OCR completed in 11.82s | fname=SAPS4_5100063520_US30_PFNAUS_2026_999872719.pdf
+[2026-03-20 10:23:51] [ERROR   ] [Worker-7] Worker-7 error in merge_text_with_spaces: name 'checkindex' is not defined | fname=SAPS4_5100063520_US30_PFNAUS_2026_999872719.pdf
+[2026-03-20 10:23:51] [DEBUG   ] [Worker-7] Traceback:
+Traceback (most recent call last):
+  File "/home/whirldata/cpu_multi_paddle_try/ocr_worker.py", line 445, in ocr_worker
+    texts = adapt_paddle_result(valid_pages)
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/whirldata/cpu_multi_paddle_try/ocr_worker.py", line 128, in adapt_paddle_result
+    if invoice_type == "ariba" and check_is_ariba_invoice_end(text, ariba_matched_len):
+                                   ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/whirldata/cpu_multi_paddle_try/ocr_worker.py", line 43, in check_is_ariba_invoice_end
+    is_ariba = ariba_keywords[checkindex].replace(" ", "").lower() in text
+                              ^^^^^^^^^^
+NameError: name 'checkindex' is not defined
+ | fname=SAPS4_5100063520_US30_PFNAUS_2026_999872719.pdf
+[2026-03-20 10:23:51] [DEBUG   ] [Worker-7] Worker-7 waiting for next task from queue | fname=QUEUE_WAIT
+[2026-03-20 10:23:51] [INFO    ] [Worker-7] Worker-7 picked up task | fname=SAPS4_5100078514_CA11_PFNACA_2026_304667687.pdf
+[2026-03-20 10:23:51] [INFO    ] [Worker-7] Worker-7 starting OCR (0.02 MB) | fname=SAPS4_5100078514_CA11_PFNACA_2026_304667687.pdf
+[2026-03-20 10:23:51] [DEBUG   ] [MainProcess] File enqueued successfully (19/56) | fname=SAPS4_5100099021_US29_PFNAUS_2026_999872645.pdf
+[2026-03-20 10:23:51] [DEBUG   ] [MainProcess] Putting file 20/56 into queue | fname=SAPS4_5100099544_US29_PFNAUS_2026_999884834.pdf
+[2026-03-20 10:23:53] [INFO    ] [Worker-0] Worker-0 OCR completed in 13.40s | fname=SAPS4_5100062568_US29_PFNAUS_2026_999930774.pdf
+[2026-03-20 10:23:53] [ERROR   ] [Worker-0] Worker-0 error in merge_text_with_spaces: name 'checkindex' is not defined | fname=SAPS4_5100062568_US29_PFNAUS_2026_999930774.pdf
+[2026-03-20 10:23:53] [DEBUG   ] [Worker-0] Traceback:
+Traceback (most recent call last):
+  File "/home/whirldata/cpu_multi_paddle_try/ocr_worker.py", line 445, in ocr_worker
+    texts = adapt_paddle_result(valid_pages)
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/whirldata/cpu_multi_paddle_try/ocr_worker.py", line 128, in adapt_paddle_result
+    if invoice_type == "ariba" and check_is_ariba_invoice_end(text, ariba_matched_len):
+                                   ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/whirldata/cpu_multi_paddle_try/ocr_worker.py", line 43, in check_is_ariba_invoice_end
+    is_ariba = ariba_keywords[checkindex].replace(" ", "").lower() in text
+                              ^^^^^^^^^^
+NameError: name 'checkindex' is not defined
+ | fname=SAPS4_5100062568_US29_PFNAUS_2026_999930774.pdf
+[2026-03-20 10:23:53] [DEBUG   ] [Worker-0] Worker-0 waiting for next task from queue | fname=QUEUE_WAIT
+[2026-03-20 10:23:53] [INFO    ] [Worker-0] Worker-0 picked up task | fname=SAPS4_5100080066_US29_PFNAUS_2026_999872937.pdf
+[2026-03-20 10:23:53] [INFO    ] [Worker-0] Worker-0 starting OCR (0.11 MB) | fname=SAPS4_5100080066_US29_PFNAUS_2026_999872937.pdf
+[2026-03-20 10:23:53] [DEBUG   ] [MainProcess] File enqueued successfully (20/56) | fname=SAPS4_5100099544_US29_PFNAUS_2026_999884834.pdf
+[2026-03-20 10:23:53] [DEBUG   ] [MainProcess] Putting file 21/56 into queue | fname=SAPS4_5100101537_US29_PFNAUS_2026_999936297.pdf
+[2026-03-20 10:23:53] [INFO    ] [Worker-4] Worker-4 OCR completed in 13.61s | fname=SAPS4_5100068031_US29_PFNAUS_2026_999872913.pdf
+[2026-03-20 10:23:53] [ERROR   ] [Worker-4] Worker-4 error in merge_text_with_spaces: name 'checkindex' is not defined | fname=SAPS4_5100068031_US29_PFNAUS_2026_999872913.pdf
+[2026-03-20 10:23:53] [DEBUG   ] [Worker-4] Traceback:
+Traceback (most recent call last):
+  File "/home/whirldata/cpu_multi_paddle_try/ocr_worker.py", line 445, in ocr_worker
+    texts = adapt_paddle_result(valid_pages)
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/whirldata/cpu_multi_paddle_try/ocr_worker.py", line 128, in adapt_paddle_result
+    if invoice_type == "ariba" and check_is_ariba_invoice_end(text, ariba_matched_len):
+                                   ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/whirldata/cpu_multi_paddle_try/ocr_worker.py", line 43, in check_is_ariba_invoice_end
+    is_ariba = ariba_keywords[checkindex].replace(" ", "").lower() in text
+                              ^^^^^^^^^^
+NameError: name 'checkindex' is not defined
+ | fname=SAPS4_5100068031_US29_PFNAUS_2026_999872913.pdf
+[2026-03-20 10:23:53] [DEBUG   ] [Worker-4] Worker-4 waiting for next task from queue | fname=QUEUE_WAIT
+[2026-03-20 10:23:53] [INFO    ] [Worker-4] Worker-4 picked up task | fname=SAPS4_5100087022_US28_PFNAUS_2026_999884314.pdf
+[2026-03-20 10:23:53] [DEBUG   ] [MainProcess] File enqueued successfully (21/56) | fname=SAPS4_5100101537_US29_PFNAUS_2026_999936297.pdf
+[2026-03-20 10:23:53] [INFO    ] [Worker-4] Worker-4 starting OCR (0.03 MB) | fname=SAPS4_5100087022_US28_PFNAUS_2026_999884314.pdf
+[2026-03-20 10:23:53] [DEBUG   ] [MainProcess] Putting file 22/56 into queue | fname=SAPS4_5100106021_US30_PFNAUS_2026_999930784.pdf
+[2026-03-20 10:23:54] [INFO    ] [Worker-8] Worker-8 LLM response status=200 in 3.87s | fname=SAPS4_5100064048_US29_PFNAUS_2026_999935901.pdf
+[2026-03-20 10:23:54] [INFO    ] [Worker-8] Worker-8 LLM invoice_data fields: | fname=SAPS4_5100064048_US29_PFNAUS_2026_999935901.pdf
+[2026-03-20 10:23:54] [INFO    ] [Worker-8]   invoice_number: 6585451200 | fname=SAPS4_5100064048_US29_PFNAUS_2026_999935901.pdf
+[2026-03-20 10:23:54] [INFO    ] [Worker-8]   invoice_date: 12/12/2025 | fname=SAPS4_5100064048_US29_PFNAUS_2026_999935901.pdf
+[2026-03-20 10:23:54] [INFO    ] [Worker-8]   invoice_amount: 567.59 | fname=SAPS4_5100064048_US29_PFNAUS_2026_999935901.pdf
+[2026-03-20 10:23:54] [INFO    ] [Worker-8]   invoice_currency: ['USD'] | fname=SAPS4_5100064048_US29_PFNAUS_2026_999935901.pdf
+[2026-03-20 10:23:54] [INFO    ] [Worker-8]   tax_amount: 35.18 | fname=SAPS4_5100064048_US29_PFNAUS_2026_999935901.pdf
+[2026-03-20 10:23:54] [INFO    ] [Worker-8]   po_number: ['23534420'] | fname=SAPS4_5100064048_US29_PFNAUS_2026_999935901.pdf
+[2026-03-20 10:23:54] [INFO    ] [Worker-8]   gl_account_number: None | fname=SAPS4_5100064048_US29_PFNAUS_2026_999935901.pdf
+[2026-03-20 10:23:54] [INFO    ] [Worker-8]   freight_and_handling_charges: 1.50 | fname=SAPS4_5100064048_US29_PFNAUS_2026_999935901.pdf
+[2026-03-20 10:23:54] [INFO    ] [Worker-8]   cost_center: None | fname=SAPS4_5100064048_US29_PFNAUS_2026_999935901.pdf
+[2026-03-20 10:23:54] [INFO    ] [Worker-8]   vendor_name: BRIDGESTONE AMERICAS TIRE OPERATIONS, LLC | fname=SAPS4_5100064048_US29_PFNAUS_2026_999935901.pdf
+[2026-03-20 10:23:54] [INFO    ] [Worker-8]   vendor_address: 200 4TH AVENUE SOUTH, SUITE 100, P.O. BOX 140990, NASHVILLE, TENNESSEE 37201, USA | fname=SAPS4_5100064048_US29_PFNAUS_2026_999935901.pdf
+[2026-03-20 10:23:54] [INFO    ] [Worker-8]   po_line_items: [{'description': 'M726ELA 295/75R22.5 TLBLSTGL14', 'quantity': '1.0', 'net_price': '439.88'}, {'description': 'REFINISHING R/W PWDR COAT', 'quantity': '1.0', 'net_price': '35.0'}, {'description': 'VALVE STEM, STEEL, TL MED', 'quantity': '1.0', 'net_price': '5.95'}, {'description': 'VALVE CAP, FLOW THRU', 'quantity': '1.0', 'net_price': '1.35'}, {'description': 'YYYY185301EA', 'quantity': '1.0', 'net_price': '2.5'}, {'description': 'YYYY197200EA', 'quantity': '1.0', 'net_price': '10.5'}, {'description': 'MOUNT TIRE, MEDIUM TRUCK', 'quantity': '1.0', 'net_price': '10.5'}] | fname=SAPS4_5100064048_US29_PFNAUS_2026_999935901.pdf
+[2026-03-20 10:23:54] [INFO    ] [Worker-8] Worker-8 LLM raw_response fields: | fname=SAPS4_5100064048_US29_PFNAUS_2026_999935901.pdf
+[2026-03-20 10:23:54] [INFO    ] [Worker-8]   invoice_number: 6585451200 | fname=SAPS4_5100064048_US29_PFNAUS_2026_999935901.pdf
+[2026-03-20 10:23:54] [INFO    ] [Worker-8]   invoice_date: 12/12/2025 | fname=SAPS4_5100064048_US29_PFNAUS_2026_999935901.pdf
+[2026-03-20 10:23:54] [INFO    ] [Worker-8]   invoice_amount: 567.59 | fname=SAPS4_5100064048_US29_PFNAUS_2026_999935901.pdf
+[2026-03-20 10:23:54] [INFO    ] [Worker-8]   invoice_currency: ['USD'] | fname=SAPS4_5100064048_US29_PFNAUS_2026_999935901.pdf
+[2026-03-20 10:23:54] [INFO    ] [Worker-8]   tax_amount: 35.18 | fname=SAPS4_5100064048_US29_PFNAUS_2026_999935901.pdf
+[2026-03-20 10:23:54] [INFO    ] [Worker-8]   po_number: ['23534420'] | fname=SAPS4_5100064048_US29_PFNAUS_2026_999935901.pdf
+[2026-03-20 10:23:54] [INFO    ] [Worker-8]   gl_account_number: None | fname=SAPS4_5100064048_US29_PFNAUS_2026_999935901.pdf
+[2026-03-20 10:23:54] [INFO    ] [Worker-8]   freight_and_handling_charges: 1.50 | fname=SAPS4_5100064048_US29_PFNAUS_2026_999935901.pdf
+[2026-03-20 10:23:54] [INFO    ] [Worker-8]   cost_center: None | fname=SAPS4_5100064048_US29_PFNAUS_2026_999935901.pdf
+[2026-03-20 10:23:54] [INFO    ] [Worker-8]   vendor_name: BRIDGESTONE AMERICAS TIRE OPERATIONS, LLC | fname=SAPS4_5100064048_US29_PFNAUS_2026_999935901.pdf
+[2026-03-20 10:23:54] [INFO    ] [Worker-8]   vendor_address: 200 4TH AVENUE SOUTH, SUITE 100, P.O. BOX 140990, NASHVILLE, TENNESSEE 37201, USA | fname=SAPS4_5100064048_US29_PFNAUS_2026_999935901.pdf
+[2026-03-20 10:23:54] [INFO    ] [Worker-8]   po_line_items: [{'description': 'M726ELA 295/75R22.5 TLBLSTGL14', 'quantity': 1.0, 'net_price': 439.88}, {'description': 'REFINISHING R/W PWDR COAT', 'quantity': 1.0, 'net_price': 35.0}, {'description': 'VALVE STEM, STEEL, TL MED', 'quantity': 1.0, 'net_price': 5.95}, {'description': 'VALVE CAP, FLOW THRU', 'quantity': 1.0, 'net_price': 1.35}, {'description': 'YYYY185301EA', 'quantity': 1.0, 'net_price': 2.5}, {'description': 'YYYY197200EA', 'quantity': 1.0, 'net_price': 10.5}, {'description': 'MOUNT TIRE, MEDIUM TRUCK', 'quantity': 1.0, 'net_price': 10.5}] | fname=SAPS4_5100064048_US29_PFNAUS_2026_999935901.pdf
+[2026-03-20 10:23:54] [INFO    ] [Worker-8] Worker-8 LLM result saved to ./ocr_output_march_20/SAPS4_5100064048_US29_PFNAUS_2026_999935901.pdf.llm.json | fname=SAPS4_5100064048_US29_PFNAUS_2026_999935901.pdf
+[2026-03-20 10:23:54] [INFO    ] [Worker-8] Worker-8 completed (OCR=11.24s, total=15.12s) | fname=SAPS4_5100064048_US29_PFNAUS_2026_999935901.pdf
+[2026-03-20 10:23:54] [DEBUG   ] [Worker-8] Worker-8 waiting for next task from queue | fname=QUEUE_WAIT
+[2026-03-20 10:23:54] [INFO    ] [Worker-8] Worker-8 picked up task | fname=SAPS4_5100089050_US29_PFNAUS_2026_999936145.pdf
+[2026-03-20 10:23:54] [DEBUG   ] [MainProcess] File enqueued successfully (22/56) | fname=SAPS4_5100106021_US30_PFNAUS_2026_999930784.pdf
+[2026-03-20 10:23:54] [DEBUG   ] [MainProcess] Putting file 23/56 into queue | fname=SAPS4_5100112518_US30_PFNAUS_2026_999706573.pdf
+[2026-03-20 10:23:54] [INFO    ] [Worker-8] Worker-8 starting OCR (0.09 MB) | fname=SAPS4_5100089050_US29_PFNAUS_2026_999936145.pdf
+[2026-03-20 10:23:55] [INFO    ] [Worker-1] Worker-1 OCR completed in 14.78s | fname=SAPS4_5100069044_US29_PFNAUS_2026_999884471.pdf
+[2026-03-20 10:23:55] [DEBUG   ] [Worker-1] Page 1: 145 segments, 145 kept after confidence filter
+[2026-03-20 10:23:55] [DEBUG   ] [Worker-1] Page 2: 76 segments, 76 kept after confidence filter
+[2026-03-20 10:23:55] [DEBUG   ] [Worker-1] Page 3: 146 segments, 146 kept after confidence filter
+[2026-03-20 10:23:55] [DEBUG   ] [Worker-1] Page 4: 45 segments, 45 kept after confidence filter
+[2026-03-20 10:23:55] [INFO    ] [Worker-1] Worker-1 merge_text_with_spaces produced 205 lines from 4 page(s) | fname=SAPS4_5100069044_US29_PFNAUS_2026_999884471.pdf
+[2026-03-20 10:23:55] [INFO    ] [Worker-1] Worker-1 output written to ./ocr_output_march_20/SAPS4_5100069044_US29_PFNAUS_2026_999884471.pdf.txt (0.0004s) | fname=SAPS4_5100069044_US29_PFNAUS_2026_999884471.pdf
+[2026-03-20 10:23:55] [INFO    ] [Worker-1] Worker-1 calling LLM API (205 lines) | fname=SAPS4_5100069044_US29_PFNAUS_2026_999884471.pdf
+[2026-03-20 10:23:55] [INFO    ] [Worker-7] Worker-7 OCR completed in 4.12s | fname=SAPS4_5100078514_CA11_PFNACA_2026_304667687.pdf
+[2026-03-20 10:23:55] [DEBUG   ] [Worker-7] Page 1: 87 segments, 87 kept after confidence filter
+[2026-03-20 10:23:55] [DEBUG   ] [Worker-7] Page 2: 6 segments, 6 kept after confidence filter
+[2026-03-20 10:23:55] [INFO    ] [Worker-7] Worker-7 merge_text_with_spaces produced 41 lines from 2 page(s) | fname=SAPS4_5100078514_CA11_PFNACA_2026_304667687.pdf
+[2026-03-20 10:23:55] [INFO    ] [Worker-7] Worker-7 output written to ./ocr_output_march_20/SAPS4_5100078514_CA11_PFNACA_2026_304667687.pdf.txt (0.0002s) | fname=SAPS4_5100078514_CA11_PFNACA_2026_304667687.pdf
+[2026-03-20 10:23:55] [INFO    ] [Worker-7] Worker-7 calling LLM API (41 lines) | fname=SAPS4_5100078514_CA11_PFNACA_2026_304667687.pdf

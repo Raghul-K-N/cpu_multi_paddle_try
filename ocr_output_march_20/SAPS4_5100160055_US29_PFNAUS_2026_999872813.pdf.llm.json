@@ -1,0 +1,101 @@
+{
+  "invoice_data": {
+    "invoice_number": "980562160526",
+    "invoice_date": "Thursday 12 Feb 2026 5:26 AM GMT-07:00",
+    "invoice_amount": "1118.27",
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": "84.03",
+    "po_number": [
+      "M413554437"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "GRANGER",
+    "vendor_address": "Grainger, 100 Grainger Pkwy, Lake Forest, IL, United States",
+    "po_line_items": [
+      {
+        "description": "Material 784RK4 / LightDuty Multi-Purpose Gloves,Size11,PR",
+        "quantity": "12.0",
+        "net_price": "3.45"
+      },
+      {
+        "description": "Material 807EL0 / Knee Pad,L/XL,Pull-On,Black,PR",
+        "quantity": "8.0",
+        "net_price": "39.64"
+      },
+      {
+        "description": "Material 784RK3 / LightDuty Multi-Purpose Gloves,Size10,PR",
+        "quantity": "48.0",
+        "net_price": "3.45"
+      },
+      {
+        "description": "Material 793NX3 / Thermal Coated Glove,L, Gray,PR",
+        "quantity": "12.0",
+        "net_price": "11.46"
+      },
+      {
+        "description": "Material 784RK2 / LightDuty Multi-Purpose Gloves,Size 9,PR",
+        "quantity": "60.0",
+        "net_price": "3.45"
+      },
+      {
+        "description": "Material 784RK1 / LightDuty Multi-Purpose Gloves,Size 8,PR",
+        "quantity": "48.0",
+        "net_price": "3.45"
+      }
+    ]
+  },
+  "filename": "SAPS4_5100160055_US29_PFNAUS_2026_999872813.pdf",
+  "raw_response": {
+    "invoice_number": "980562160526",
+    "invoice_date": "Thursday 12 Feb 2026 5:26 AM GMT-07:00",
+    "invoice_amount": "1118.27",
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": "84.03",
+    "po_number": [
+      "M413554437"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "GRANGER",
+    "vendor_address": "Grainger, 100 Grainger Pkwy, Lake Forest, IL, United States",
+    "po_line_items": [
+      {
+        "description": "Material 784RK4 / LightDuty Multi-Purpose Gloves,Size11,PR",
+        "quantity": 12.0,
+        "net_price": 3.45
+      },
+      {
+        "description": "Material 807EL0 / Knee Pad,L/XL,Pull-On,Black,PR",
+        "quantity": 8.0,
+        "net_price": 39.64
+      },
+      {
+        "description": "Material 784RK3 / LightDuty Multi-Purpose Gloves,Size10,PR",
+        "quantity": 48.0,
+        "net_price": 3.45
+      },
+      {
+        "description": "Material 793NX3 / Thermal Coated Glove,L, Gray,PR",
+        "quantity": 12.0,
+        "net_price": 11.46
+      },
+      {
+        "description": "Material 784RK2 / LightDuty Multi-Purpose Gloves,Size 9,PR",
+        "quantity": 60.0,
+        "net_price": 3.45
+      },
+      {
+        "description": "Material 784RK1 / LightDuty Multi-Purpose Gloves,Size 8,PR",
+        "quantity": 48.0,
+        "net_price": 3.45
+      }
+    ]
+  }
+}

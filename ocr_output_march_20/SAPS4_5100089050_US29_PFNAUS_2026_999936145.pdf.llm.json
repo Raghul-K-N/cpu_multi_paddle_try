@@ -1,0 +1,121 @@
+{
+  "invoice_data": {
+    "invoice_number": "C013491448",
+    "invoice_date": "February 6, 2026",
+    "invoice_amount": "387.51",
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": "28.70",
+    "po_number": [
+      "M413550259"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "PENSKE TRUCK LEASING CO., L.P",
+    "vendor_address": "P.O. BOX 827380, PHILADELPHIA, PA 19182-7380",
+    "po_line_items": [
+      {
+        "description": "Time/Mileage",
+        "quantity": "154.0",
+        "net_price": "0.14"
+      },
+      {
+        "description": "Hours",
+        "quantity": "0.0",
+        "net_price": "16.0"
+      },
+      {
+        "description": "Days",
+        "quantity": "0.0",
+        "net_price": "65.0"
+      },
+      {
+        "description": "Weeks",
+        "quantity": "1.0",
+        "net_price": "325.0"
+      },
+      {
+        "description": "Months",
+        "quantity": "0.0",
+        "net_price": "1408.0"
+      },
+      {
+        "description": "Misc. Charges",
+        "quantity": "1.0",
+        "net_price": "12.25"
+      },
+      {
+        "description": "Insurance",
+        "quantity": "0.0",
+        "net_price": "0.0"
+      },
+      {
+        "description": "Tax",
+        "quantity": "1.0",
+        "net_price": "28.7"
+      }
+    ]
+  },
+  "filename": "SAPS4_5100089050_US29_PFNAUS_2026_999936145.pdf",
+  "raw_response": {
+    "invoice_number": "C013491448",
+    "invoice_date": "February 6, 2026",
+    "invoice_amount": "387.51",
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": "28.70",
+    "po_number": [
+      "M413550259"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "PENSKE TRUCK LEASING CO., L.P.",
+    "vendor_address": "P.O. BOX 827380, PHILADELPHIA, PA 19182-7380",
+    "po_line_items": [
+      {
+        "description": "Time/Mileage",
+        "quantity": 154.0,
+        "net_price": 0.14
+      },
+      {
+        "description": "Hours",
+        "quantity": 0.0,
+        "net_price": 16.0
+      },
+      {
+        "description": "Days",
+        "quantity": 0.0,
+        "net_price": 65.0
+      },
+      {
+        "description": "Weeks",
+        "quantity": 1.0,
+        "net_price": 325.0
+      },
+      {
+        "description": "Months",
+        "quantity": 0.0,
+        "net_price": 1408.0
+      },
+      {
+        "description": "Misc. Charges",
+        "quantity": 1.0,
+        "net_price": 12.25
+      },
+      {
+        "description": "Insurance",
+        "quantity": 0.0,
+        "net_price": 0.0
+      },
+      {
+        "description": "Tax",
+        "quantity": 1.0,
+        "net_price": 28.7
+      }
+    ]
+  }
+}

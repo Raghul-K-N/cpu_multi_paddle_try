@@ -1,0 +1,97 @@
+{
+  "invoice_data": {
+    "invoice_number": "89253",
+    "invoice_date": "30/01/2026",
+    "invoice_amount": null,
+    "invoice_currency": null,
+    "tax_amount": null,
+    "po_number": [
+      "M413453263"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "Service Routier SRL",
+    "vendor_address": "9350-7754 Québec inc., 14027 boulevard Curé-Labelle, Mirabel (QC), J7J 1M3",
+    "po_line_items": [
+      {
+        "description": "M-100-Appel de service",
+        "quantity": "1.0",
+        "net_price": "74.0"
+      },
+      {
+        "description": "M-77-Redresser support de garde-boue et remplacer garde-boue droit",
+        "quantity": "0.75",
+        "net_price": "74.0"
+      },
+      {
+        "description": "P-Garde-boue / ROYGB24X30",
+        "quantity": "1.0",
+        "net_price": "49.91"
+      },
+      {
+        "description": "P-Bolts 3/8X1 1/2 ass.",
+        "quantity": "4.0",
+        "net_price": "1.0"
+      },
+      {
+        "description": "P-Torche",
+        "quantity": "1.0",
+        "net_price": "24.0"
+      },
+      {
+        "description": "Shop supply et surcharge de carburant",
+        "quantity": "1.0",
+        "net_price": "20.74"
+      }
+    ]
+  },
+  "filename": "SAPS4_5100078514_CA11_PFNACA_2026_304667687.pdf",
+  "raw_response": {
+    "invoice_number": "89253",
+    "invoice_date": "30/01/2026",
+    "invoice_amount": null,
+    "invoice_currency": null,
+    "tax_amount": null,
+    "po_number": [
+      "M413453263"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "Service Routier SRL",
+    "vendor_address": "9350-7754 Québec inc., 14027 boulevard Curé-Labelle, Mirabel (QC), J7J 1M3",
+    "po_line_items": [
+      {
+        "description": "M-100-Appel de service",
+        "quantity": 1.0,
+        "net_price": 74.0
+      },
+      {
+        "description": "M-77-Redresser support de garde-boue et remplacer garde-boue droit",
+        "quantity": 0.75,
+        "net_price": 74.0
+      },
+      {
+        "description": "P-Garde-boue / ROYGB24X30",
+        "quantity": 1.0,
+        "net_price": 49.91
+      },
+      {
+        "description": "P-Bolts 3/8X1 1/2 ass.",
+        "quantity": 4.0,
+        "net_price": 1.0
+      },
+      {
+        "description": "P-Torche",
+        "quantity": 1.0,
+        "net_price": 24.0
+      },
+      {
+        "description": "Shop supply et surcharge de carburant",
+        "quantity": 1.0,
+        "net_price": 20.74
+      }
+    ]
+  }
+}

@@ -1,0 +1,61 @@
+{
+  "invoice_data": {
+    "invoice_number": "980616778026",
+    "invoice_date": "Thursday 12 Feb 2026 3:10 AM GMT-07:00",
+    "invoice_amount": "52.52",
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": "4.94",
+    "po_number": [
+      "M413554527"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "GRANGER",
+    "vendor_address": "100 Grainger Pkwy, Lake Forest, IL, United States",
+    "po_line_items": [
+      {
+        "description": "Gloves,Size10,PR",
+        "quantity": "10.0",
+        "net_price": "3.45"
+      },
+      {
+        "description": "Bandages,3x1,Fabric,PK100",
+        "quantity": "2.0",
+        "net_price": "6.54"
+      }
+    ]
+  },
+  "filename": "SAPS4_5100072068_US29_PFNAUS_2026_999746355.pdf",
+  "raw_response": {
+    "invoice_number": "980616778026",
+    "invoice_date": "Thursday 12 Feb 2026 3:10 AM GMT-07:00",
+    "invoice_amount": "52.52",
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": "4.94",
+    "po_number": [
+      "M413554527"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "GRANGER",
+    "vendor_address": "100 Grainger Pkwy, Lake Forest, IL, United States",
+    "po_line_items": [
+      {
+        "description": "Gloves,Size10,PR",
+        "quantity": 10.0,
+        "net_price": 3.45
+      },
+      {
+        "description": "Bandages,3x1,Fabric,PK100",
+        "quantity": 2.0,
+        "net_price": 6.54
+      }
+    ]
+  }
+}

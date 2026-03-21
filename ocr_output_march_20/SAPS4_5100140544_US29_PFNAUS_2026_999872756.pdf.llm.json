@@ -1,0 +1,51 @@
+{
+  "invoice_data": {
+    "invoice_number": "M260100091",
+    "invoice_date": "Monday 9 Feb 2026 12:00 PM GMT-05:00",
+    "invoice_amount": null,
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": null,
+    "po_number": [
+      "M413554962"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "Concentic LLC",
+    "vendor_address": "1621 W Crosby Rd, Carrollton, TX 75006-6670, United States; Address : Branch 211, United States; Address ID: US29",
+    "po_line_items": [
+      {
+        "description": "MaterialNot Available / INV M260100091 12,126.38 / (EA) $1.00 USD",
+        "quantity": "12126.38",
+        "net_price": "1.0"
+      }
+    ]
+  },
+  "filename": "SAPS4_5100140544_US29_PFNAUS_2026_999872756.pdf",
+  "raw_response": {
+    "invoice_number": "M260100091",
+    "invoice_date": "Monday 9 Feb 2026 12:00 PM GMT-05:00",
+    "invoice_amount": null,
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": null,
+    "po_number": [
+      "M413554962"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "Concentic LLC",
+    "vendor_address": "1621 W Crosby Rd, Carrollton, TX 75006-6670, United States; Address : Branch 211, United States; Address ID: US29",
+    "po_line_items": [
+      {
+        "description": "MaterialNot Available / INV M260100091                      12,126.38 / (EA)    $1.00 USD",
+        "quantity": 12126.38,
+        "net_price": 1.0
+      }
+    ]
+  }
+}

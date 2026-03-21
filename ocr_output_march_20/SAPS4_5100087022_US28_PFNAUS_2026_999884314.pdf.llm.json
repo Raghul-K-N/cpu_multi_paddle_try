@@ -1,0 +1,51 @@
+{
+  "invoice_data": {
+    "invoice_number": "9358631790",
+    "invoice_date": "02/09/2026",
+    "invoice_amount": null,
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": null,
+    "po_number": [
+      "M413431447"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "CINTAS CORP",
+    "vendor_address": "P.O. Box 630910, Cincinnati, OH 45263-0910",
+    "po_line_items": [
+      {
+        "description": "WATERBREAK COOLER AGREEMENT",
+        "quantity": "8.0",
+        "net_price": "49.5"
+      }
+    ]
+  },
+  "filename": "SAPS4_5100087022_US28_PFNAUS_2026_999884314.pdf",
+  "raw_response": {
+    "invoice_number": "9358631790",
+    "invoice_date": "02/09/2026",
+    "invoice_amount": null,
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": null,
+    "po_number": [
+      "M413431447"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "CINTAS CORP",
+    "vendor_address": "P.O. Box 630910, Cincinnati, OH 45263-0910",
+    "po_line_items": [
+      {
+        "description": "WATERBREAK COOLER AGREEMENT",
+        "quantity": 8.0,
+        "net_price": 49.5
+      }
+    ]
+  }
+}

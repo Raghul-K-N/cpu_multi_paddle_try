@@ -1,0 +1,67 @@
+==================================<Page 1 - START>================================
+Standard Invoice
+                                                         Invoice Number                                   04S7230410
+Original tax invoice has been submitted electronically. This is a
+human readable representation (copy) of the original tax invoice.                 (Supplier Reference No.)
+                                                        Invoice Date                   Friday 13 Feb 2026 10:32 AM GMT-08:00
+                                                         Amount Due                                     $87.20 USD
+   Contact Information                                                  Shipping Information
+   Supplier                   Customer                              Ship From                  Ship To
+   NORTHWEST HANDLING        Rolling Frito-Lay Sales
+                                                                 NORTH WEST HANDLING        US-DC-SPOKANE-WA-RFLS
+   SYSTEMS INC               c/o PEPSICO NASS                       SYSTEMS INC                TRACI BOARDMAN
+   1100 SW 7th St               ACCOUNTS PAYABLES                    1100 SW 7th St               US-DC-SPOKANE-WA-RFLS
+   Renton                    PO BOX 1800                          Renton                     10606 E MONTGOMERY DR
+   WA                      Winston Salem                          WA                       SPOKANE VALLEY
+   98057-2939                  NC                                  98057-2939
+                                                                                            WA
+   United States                2105                                United States                99206-4221
+   AdreSs : NORTH WEST        United States                                                      United States
+   HANDLING SYSTEMS INC        Address ID: US29                                                  Address ID: 2252
+                                                                                           Phone: 3524477
+Line Items                                          PONo.:M413532883                                  PO Date: 3 Feb 2026
+                                                                                            Unit Price
+Line No.   PO Line No.        Type  Supplier Part No. /           Customer Part No.                                     Subtotal
+                                  DDescription
+                           MaterialNot Available / racking warehouse                     80.00 / (EA)       $1.00 USD     $80.00 USD
+                                  repair
+                                   BPO 2026
+        Taxes, Allowances and Charges
+        Category                Applicable To       Details              Base Amount       Rate %      Amount
+        Sales Tax               Line             Tax Description: A/P Sales  $80.00 USD        9%        $7.20 USD
+                                                Tax
+                                                                                         Line Item Total : $87.20 USD
+    Tax Summary
+   Category             Details                       Base Amount             Rate %        Amount
+    Sales Tax             Tax Description : A/P Sales Tax        $80.00 USD              %6           $7.20 USD
+                                                                    Amount Summary
+                                                                     Line item subtotal                        $80.00 USD
+                                                                     Gross amount                          $87.20 USD
+                                                                     Net amount
+                                                                                                         $87.20 USD
+                                                                     Total tax amount
+                                                                                                         $7.20 USD
+                                                                     Total withholding tax amount
+                                                                     Amount Due                           $87.20 USD
+   Additional Information
+   Payment Method
+   ACH
+   ServiceDescription
+   PM SERVICE
+   Billing Information                                                  Remittance Information
+  Bill From                   Bill To                                Remit To
+   NORTH WEST HANDLING        Rolling Frito-Lay Sales                      NORTH WEST HANDLING
+   SYSTEMS INC               c/o PEPSICO NASS                       SYSTEMS INC
+   1100SW 7th St.               ACCOUNTS PAYABLES                    PO BOX 749861
+   Renton                    PO BOX 1800                           LOS ANGELES
+   WA                      Winston Salem
+   98057                     NC
+   United States                2105
+                             United States                           Address ID: US1_5255
+                             Address ID: US29
+                                                                 Tax ID of Supplier
+Payment Terms
+Net payment Terms (Days) :
+60
+                                                       Page 1
+==================================<Page 1 - END>================================

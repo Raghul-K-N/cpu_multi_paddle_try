@@ -1,0 +1,51 @@
+{
+  "invoice_data": {
+    "invoice_number": "980653571326",
+    "invoice_date": "Thursday 12 Feb 2026 5:35 AM GMT-07:00",
+    "invoice_amount": "39.85",
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": "2.96",
+    "po_number": [
+      "M413555432"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "GRAINGER",
+    "vendor_address": "100 Grainger Pkwy, Lake Forest, IL 27105, United States",
+    "po_line_items": [
+      {
+        "description": "Material 6RA70 / Paper Towel",
+        "quantity": "1.0",
+        "net_price": "36.89"
+      }
+    ]
+  },
+  "filename": "SAPS4_5100125049_US29_PFNAUS_2026_999872715.pdf",
+  "raw_response": {
+    "invoice_number": "980653571326",
+    "invoice_date": "Thursday 12 Feb 2026 5:35 AM GMT-07:00",
+    "invoice_amount": "39.85",
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": "2.96",
+    "po_number": [
+      "M413555432"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "GRAINGER",
+    "vendor_address": "100 Grainger Pkwy, Lake Forest, IL 27105, United States",
+    "po_line_items": [
+      {
+        "description": "Material 6RA70 / Paper Towel",
+        "quantity": 1.0,
+        "net_price": 36.89
+      }
+    ]
+  }
+}

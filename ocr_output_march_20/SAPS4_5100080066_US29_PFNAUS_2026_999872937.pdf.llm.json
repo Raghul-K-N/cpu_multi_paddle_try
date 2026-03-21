@@ -1,0 +1,71 @@
+{
+  "invoice_data": {
+    "invoice_number": "980530122426",
+    "invoice_date": "Thursday 12 Feb 2026 5:26 AM GMT-07:00",
+    "invoice_amount": "379.52",
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": "28.51",
+    "po_number": [
+      "M413553089"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "GRANGER",
+    "vendor_address": "100 Grainger Pkwy, Lake Forest, IL, United States",
+    "po_line_items": [
+      {
+        "description": "Material 486U09 / Safety Sign,7 W,5 H,0.032 Thickness",
+        "quantity": "16.0",
+        "net_price": "10.43"
+      },
+      {
+        "description": "Material 48FW08 / LetterandNumberLabelSet,3inH,2-7/8inW",
+        "quantity": "5.0",
+        "net_price": "25.06"
+      },
+      {
+        "description": "Material 1F197 / CartonSealingTapePad,3.1mil, Clear,PK40",
+        "quantity": "1.0",
+        "net_price": "58.83"
+      }
+    ]
+  },
+  "filename": "SAPS4_5100080066_US29_PFNAUS_2026_999872937.pdf",
+  "raw_response": {
+    "invoice_number": "980530122426",
+    "invoice_date": "Thursday 12 Feb 2026 5:26 AM GMT-07:00",
+    "invoice_amount": "379.52",
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": "28.51",
+    "po_number": [
+      "M413553089"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "GRANGER",
+    "vendor_address": "100 Grainger Pkwy, Lake Forest, IL, United States",
+    "po_line_items": [
+      {
+        "description": "Material 486U09 / Safety Sign,7 W,5 H,0.032 Thickness",
+        "quantity": 16.0,
+        "net_price": 10.43
+      },
+      {
+        "description": "Material 48FW08 / LetterandNumberLabelSet,3inH,2-7/8inW",
+        "quantity": 5.0,
+        "net_price": 25.06
+      },
+      {
+        "description": "Material 1F197 / CartonSealingTapePad,3.1mil, Clear,PK40",
+        "quantity": 1.0,
+        "net_price": 58.83
+      }
+    ]
+  }
+}

@@ -1,0 +1,51 @@
+{
+  "invoice_data": {
+    "invoice_number": "506406676",
+    "invoice_date": "Saturday 31 Jan 2026 12:00 PM GMT-05:00",
+    "invoice_amount": null,
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": "0.24",
+    "po_number": [
+      "M412178807"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "KONICA MINOLTA BUSINESS SOLUTIONS USA INC",
+    "vendor_address": "100 WILLIAMS DRIVE, RAMSEY, US",
+    "po_line_items": [
+      {
+        "description": "Material AC75011003012",
+        "quantity": "6.84",
+        "net_price": "1.0"
+      }
+    ]
+  },
+  "filename": "SAPS4_5100180002_US29_PFNAUS_2026_999872858.pdf",
+  "raw_response": {
+    "invoice_number": "506406676",
+    "invoice_date": "Saturday 31 Jan 2026 12:00 PM GMT-05:00",
+    "invoice_amount": null,
+    "invoice_currency": [
+      "USD"
+    ],
+    "tax_amount": "0.24",
+    "po_number": [
+      "M412178807"
+    ],
+    "gl_account_number": null,
+    "freight_and_handling_charges": null,
+    "cost_center": null,
+    "vendor_name": "KONICA MINOLTA BUSINESS SOLUTIONS USA INC",
+    "vendor_address": "100 WILLIAMS DRIVE, RAMSEY, US",
+    "po_line_items": [
+      {
+        "description": "Material AC75011003012",
+        "quantity": 6.84,
+        "net_price": 1.0
+      }
+    ]
+  }
+}
